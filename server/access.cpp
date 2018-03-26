@@ -50,14 +50,14 @@ const std::map<ObjectType,const char*> objTypeToString = {
 char stat_names[][4] = { "STR", "DEX", "CON", "INT", "PTY", "CHA" };
 
 char* getStatName(int stat) {
-    stat = tMIN<int>(tMAX<int>(stat - 1, 0), MAX_STAT);
+    stat = MIN<int>(MAX<int>(stat - 1, 0), MAX_STAT);
     return(stat_names[stat]);
 }
 
 char save_names[][4] = { "LCK", "POI", "DEA", "BRE", "MEN", "SPL" };
 
 char* getSaveName(int save) {
-    save = tMIN<int>(tMAX<int>(save, 0), MAX_SAVE-1);
+    save = MIN<int>(MAX<int>(save, 0), MAX_SAVE-1);
     return(save_names[save]);
 }
 
@@ -77,7 +77,7 @@ char class_str[][16] = { "None", "Assassin", "Berserker", "Cleric", "Fighter", "
         "Pureblood", "Monk", "Death Knight", "Druid", "Lich", "Werewolf", "Bard", "Rogue", "Builder", "Unused",
         "Caretaker", "Dungeonmaster" };
 
-char class_abbrev[][8] = { "Assn", "Bers", "Cleric", "Ftr", "Mage", "Pal", "Rang", "Thief", "Vamp", "Monk", "Dknght",
+char class_abbrev[][8] = { "None", "Assn", "Bers", "Cleric", "Ftr", "Mage", "Pal", "Rang", "Thief", "Vamp", "Monk", "Dknght",
         "Druid", "Lich", "Were", "Bard", "Rogue", "Build", "Crt", "CT", "DM" };
 
 char shortClassAbbrev[][8] = { "A", "Be", "Cl", "F", "M", "P", "R", "T", "Va", "Mo", "Dk", "Dr", "L", "W", "Bd", "Ro",
@@ -354,7 +354,7 @@ char *get_trade_string(int nIndex) {
     ASSERTLOG( nIndex >= 0 );
     ASSERTLOG( nIndex < MOBTRADE_COUNT );
 
-    nIndex = MAX( 0, MIN(nIndex, MOBTRADE_COUNT) );
+    nIndex = MAX<int>( 0, MIN<int>(nIndex, MOBTRADE_COUNT) );
     return(mob_trade_str[nIndex]);
 
 }
@@ -457,7 +457,7 @@ char *getClassAbbrev(int nIndex) {
 
     nIndex = MAX( 0, MIN(nIndex, static_cast<int>(CreatureClass::CLASS_COUNT) - 1 ) );
 
-    return(class_abbrev[nIndex-1] );
+    return(class_abbrev[nIndex] );
 }
 
 char *getClassName(Player* player) {

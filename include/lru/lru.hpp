@@ -1,6 +1,6 @@
 /*
- * version.h
- *   Version
+ * lru.h
+ *   LRU Cache master header
  *   ____            _
  *  |  _ \ ___  __ _| |_ __ ___  ___
  *  | |_) / _ \/ _` | | '_ ` _ \/ __|
@@ -15,14 +15,17 @@
  *  Based on Mordor (C) Brooke Paul, Brett J. Vickers, John P. Freeman
  *
  */
-#ifndef VERSION_H
-#define VERSION_H
+/*
+ * LRU Cache:
+ *  Inspiration from:
+ *    https://github.com/paudley/lru_cache
+ *    https://github.com/goldsborough/lru-cache
+ */
 
-#define VERSION_MAJOR "2"
-#define VERSION_MINOR "4"
-#define VERSION_SUB "7j"
+#ifndef INCLUDE_LRU_LRU_HPP_
+#define INCLUDE_LRU_LRU_HPP_
 
-#define VERSION VERSION_MAJOR "." VERSION_MINOR VERSION_SUB
+#include "lru/lru-cache.hpp"
 
-#endif
 
+#endif /* INCLUDE_LRU_LRU_HPP_ */

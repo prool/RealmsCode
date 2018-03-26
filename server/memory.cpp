@@ -50,7 +50,7 @@ bstring sizeInfo(long size) {
 //                      showMemory
 //*********************************************************************
 
-void Server::showMemory(Socket* sock) {
+void Server::showMemory(Socket* sock, bool extended) {
     char buf[80];
     int  crts    = 0;
     int  rooms   = 0;
@@ -71,8 +71,8 @@ void Server::showMemory(Socket* sock) {
 
     std::map<bstring, rsparse>::iterator it;
 
-    for(it = roomQueue.begin(); it != roomQueue.end() ; it++) {
-        r = (*it).second.rom;
+    for(auto it : roomCache) {
+        r = it.second->second;
         if(!r)
             continue;
         rooms++;
@@ -147,6 +147,12 @@ void Server::showMemory(Socket* sock) {
     sock->print("Total Talks:     %-5d", talks);
     sock->print("  %ld -> Total memory\n", talk_mem);
     sock->print("Total Memory:    %ld  (%s)\n\n", total, sizeInfo(total).c_str());
+
+    sock->print("\n\n");
+    sock->print("Cache Stats:\n");
+    sock->print("Room: %s\n", gServer->roomCache.get_stat_info(extended).c_str());
+    sock->print("Monster: %s\n", gServer->monsterCache.get_stat_info(extended).c_str());
+    sock->print("Object: %s\n", gServer->objectCache.get_stat_info(extended).c_str());
 }
 
 //*********************************************************************
@@ -154,6 +160,10 @@ void Server::showMemory(Socket* sock) {
 //*********************************************************************
 
 int dmMemory(Player* player, cmd* cmnd) {
-    gServer->showMemory(player->getSock());
+	bool extended = false;
+	if(cmnd->num==2 && !strcmp(cmnd->str[1], "-h"))
+		extended = true;
+
+	gServer->showMemory(player->getSock(), extended);
     return(0);
 }

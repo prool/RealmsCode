@@ -812,7 +812,7 @@ int stat_rom(Player* player, UniqueRoom* room) {
         loadObject((*it).second.cr, &object);
 
         player->printColor("^y%2d) ^x%14s ^y::^x %-30s ^yInterval:^x %-5d  ^yTime Until Spawn:^x %-5d", (*it).first+1,
-            crtm->cr.str("", 'y').c_str(), object ? object->getCName() : "", crtm->interval, tMAX<long>(0, crtm->ltime + crtm->interval-t));
+            crtm->cr.str("", 'y').c_str(), object ? object->getCName() : "", crtm->interval, MAX<long>(0, crtm->ltime + crtm->interval-t));
 
         if(room->flagIsSet(R_SHOP_STORAGE) && object)
             player->printColor(" ^yCost:^x %s", object->value.str().c_str());
@@ -836,7 +836,7 @@ int stat_rom(Player* player, UniqueRoom* room) {
         loadMonster((*it).second.cr, &monster);
 
         player->printColor("^m%2d) ^x%14s ^m::^x %-30s ^mInterval:^x %d  ^yTime until Spawn:^x %-5d\n", (*it).first+1,
-            crtm->cr.str("", 'm').c_str(), monster ? monster->getCName() : "", crtm->interval, tMAX<long>(0, crtm->ltime + crtm->interval-t));
+            crtm->cr.str("", 'm').c_str(), monster ? monster->getCName() : "", crtm->interval, MAX<long>(0, crtm->ltime + crtm->interval-t));
 
         if(monster) {
             free_crt(monster);
@@ -1050,7 +1050,7 @@ int dmAddRoom(Player* player, cmd* cmnd) {
     Path::checkDirExists(cr.area, roomPath);
 
     if(!strcmp(cmnd->str[extra ? 3 : 2], "loop"))
-        i = MAX(1, MIN(100, cmnd->val[extra ? 3 : 2]));
+        i = MAX(1, MIN(100, (int)cmnd->val[extra ? 3 : 2]));
 
     for(; i; i--) {
         if(!player->checkBuilder(cr, false)) {
@@ -2149,11 +2149,13 @@ int dmDelete(Player* player, cmd* cmnd) {
             // we need to figure out what our phrase is
             // turn fullstr into what we want to delete
             i = strlen(cmnd->str[0]) + strlen(cmnd->str[1]) + 1;
-
+            
+            if( i  >= cmnd->fullstr.length() ) {
+                player->print("Pattern not found.\n");
+                return(0);
+            }
             // fullstr is now our phrase
             cmnd->fullstr = cmnd->fullstr.substr(i+1);
-            //strcpy(cmnd->fullstr, &cmnd->fullstr[i+1]);
-
 
             // we will use i to help us reuse code
             // 0 = sdesc, 1 = ldesc
