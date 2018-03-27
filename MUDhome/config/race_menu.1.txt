@@ -1,3 +1,21 @@
-race menu 1
+Select race: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

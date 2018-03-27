@@ -1,3 +1,2 @@
-race menu 0
-
+NOTE: Do not select race A (Unknown)!!
 

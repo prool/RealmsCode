@@ -1,9 +1,9 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Config>
   <General>
     <Port>3333</Port>
     <MudName>Default Mud Name</MudName>
-    <DmPass>dmparoll666</DmPass>
+    <DmPass>dmpass1984</DmPass>
     <CustomColors>xMYMggYGCycmxgmwg##</CustomColors>
     <LogDatabaseType></LogDatabaseType>
     <LogDatabaseUser></LogDatabaseUser>

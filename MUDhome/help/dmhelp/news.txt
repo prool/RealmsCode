@@ -1,6 +1,8 @@
 Dungeon Master news
 
-none
+*shutdown - command for shutdown
 
-Prool, 14-Mar-2018,13:55 Kharkov local time
+*append text - cmd for append string to current room description
+
+Prool, 27-Mar-2018
 
