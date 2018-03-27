@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="652" Version="2.40a" Area="ocean">
+  <Name>Amberton Lane/Hillborough Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Hillborough Way and Amberton Lane.</ShortDescription>
+  <LongDescription>Amberton Lane continues north and south through the intersection with
+Hillborough Way, which runs east and west.  The Knightly Orders of the
+White and Black Cross are located on the northeast and southeast corners
+respectively.  To the southwest, you can see Altihmin's Academy of
+Advanced Fighting Techniques.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">651</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">653</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">705</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">706</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

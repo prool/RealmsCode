@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="5067" Version="2.40" Area="ocean">
+  <Name>Heavy Cloud Layer</Name>
+  <ShortDescription>You are in a layer of clouds which might clear soon.</ShortDescription>
+  <LongDescription>The dark clouds around you occasionally part to allow you to see your
+direction indicator.  Last time you looked, you were a long way from 
+the spot where you entered the cloud bank.</LongDescription>
+  
+  <Established>772846229</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>forward</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">5040</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right">
+      <Keys/>
+      <Room Area="ocean">5070</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="forward">
+      <Keys/>
+      <Room Area="ocean">5066</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

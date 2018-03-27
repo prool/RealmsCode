@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<Creature Num="555" Area="ocean" Version="2.40">
+  <Name>Tharonwold</Name>
+  <Level>18</Level>
+  <Type>1</Type>
+  <Experience>1400</Experience>
+  <Coins>
+    <Coin Num="2">1000</Coin>
+  </Coins>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>220</Current>
+      <Max>220</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>230</Current>
+      <Max>230</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>50</Current>
+      <Max>50</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>Tharonwold is a half-giant with a huge belly and a bigger grin.</Description>
+  <Keys>
+    <Key Num="0">tharonwold</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>510</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>5</Number>
+    <Sides>5</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>I buy my rum direct from the Uland Island distillery.  You like it?</Talk>
+  <DefenseSkill>175</DefenseSkill>
+  <AttackPower>250</AttackPower>
+  <WeaponSkill>175</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">621</Carry>
+    <Carry Area="ocean" Num="1">223</Carry>
+    <Carry Area="ocean" Num="2">621</Carry>
+    <Carry Area="ocean" Num="3">192</Carry>
+    <Carry Area="ocean" Num="4">621</Carry>
+    <Carry Area="ocean" Num="5">621</Carry>
+    <Carry Area="ocean" Num="6">621</Carry>
+    <Carry Area="ocean" Num="7">213</Carry>
+    <Carry Area="ocean" Num="8">213</Carry>
+    <Carry Area="ocean" Num="9">621</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="18"/>
+    <Bit Num="24"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

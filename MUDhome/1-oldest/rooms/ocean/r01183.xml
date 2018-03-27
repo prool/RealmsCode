@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1183" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are on Netherworld Lane, west of the Main Entrance to the Necropolis.</ShortDescription>
+  <LongDescription>Necropolis Avenue lies to the north, where the Main Entrance to the 
+Necropolis is located.  You can see smoke rising from some building
+to the south in the Necropolis.  You can only assume it's the smokestack
+from the Crematorium, since nothing else should be burning, or giving
+off that much black smoke.  On the north is Bushman Farms.  Reginald
+Bushman is always looking for some unskilled labor to help him farm his
+land.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1184</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1182</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

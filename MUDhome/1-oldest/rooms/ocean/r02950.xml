@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="2950" Version="2.40" Area="ocean">
+  <Name>Reflecting Pool</Name>
+  <ShortDescription>You are at the edge of a quiet pool, so still it reflects like a mirror.</ShortDescription>
+  <LongDescription>As you gaze into the pool, it's difficult to avoid becoming totally
+disoriented, as up appears to be down and down looks up.  There are wild
+flowers everywhere, creating a blanket of vivid colors to the water's
+edge.  Saplings and older trees stand back, making the pond a world to
+itself in this tiny meadow.</LongDescription>
+  
+  <Established>760301217</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>4</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">478</Mob>
+      <Mob Area="ocean" Num="1">478</Mob>
+      <Mob Area="ocean" Num="2">478</Mob>
+      <Mob Area="ocean" Num="3">478</Mob>
+      <Mob Area="ocean" Num="4">478</Mob>
+      <Mob Area="ocean" Num="5">479</Mob>
+      <Mob Area="ocean" Num="6">479</Mob>
+      <Mob Area="ocean" Num="7">478</Mob>
+      <Mob Area="ocean" Num="8">479</Mob>
+      <Mob Area="ocean" Num="9">478</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2949</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

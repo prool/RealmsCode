@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="2052" Version="2.41a" Area="ocean">
+  <Name>Eastern Entrance to the City of Kista</Name>
+  <ShortDescription>You are on Randolf Lane, leading into the wondrous city of Kista.</ShortDescription>
+  <LongDescription>The city of Kista has a relatively short history as it was built on the
+ruins of the empire of Randolf the Blue.  The city operates as the center
+of the Triad of Wisdom, representing the three major races in the Land of
+Mordor.  Together, the elves, humans and dwarves built this city to be a
+depository of all knowledge.  The faerie folk added their touch, as well.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2518</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">2517</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2523</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

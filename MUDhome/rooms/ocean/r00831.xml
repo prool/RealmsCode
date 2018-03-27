@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="831" Version="2.40" Area="ocean">
+  <Name>White Hallway</Name>
+  <ShortDescription>You are in white hallway with red curtains on both sides of you.</ShortDescription>
+  <LongDescription>This place is getting wierder and wierder.  At the end of the hall is a
+bust of some sort.  You can't really make out the figure, as it's someone
+you haven't seen before.  There's another one at the other end of the
+hallway.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>curtain</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="curtain">
+      <Keys/>
+      <Room Area="ocean">833</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="curtain">
+      <Keys/>
+      <Room Area="ocean">835</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

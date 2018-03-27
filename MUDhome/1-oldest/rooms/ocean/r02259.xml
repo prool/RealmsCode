@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2259" Version="2.40a" Area="ocean">
+  <Name>Lafyette's Blacksmithing and Repairs</Name>
+  <ShortDescription>You are in Lafyette's foundry, where Lafeyette will fix your weapons.</ShortDescription>
+  <LongDescription>Lafyette also fixes armors and almost anything else that can be broken.
+Repairing metals is a costly job, though, and will require quite a bit
+of gold from you if you want it repaired.  If it's too expensive for you,
+then there's a trash recycling facility in this same complex on the 
+west side of Melbourne Avenue.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1766</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1703</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

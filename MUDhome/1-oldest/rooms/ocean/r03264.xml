@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3264" Version="2.40" Area="ocean">
+  <Name></Name>
+  <ShortDescription>You have found an underwater alcove filled with fresh air.</ShortDescription>
+  <LongDescription>The room is large enough for about three people to fit inside comfortably.
+At the end of the alcove you see a creature sitting atop a pile of decaying
+dead bodies, quietly gnawing on an arm.  He eyes you silently, never looking
+away from you.  The smell in here is really bad.</LongDescription>
+  
+  <Established>756122035</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="16"/>
+    <Bit Num="22"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">419</Mob>
+      <Mob Area="ocean" Num="1">419</Mob>
+      <Mob Area="ocean" Num="2">419</Mob>
+      <Mob Area="ocean" Num="3">419</Mob>
+      <Mob Area="ocean" Num="4">419</Mob>
+      <Mob Area="ocean" Num="5">419</Mob>
+      <Mob Area="ocean" Num="6">419</Mob>
+      <Mob Area="ocean" Num="7">419</Mob>
+      <Mob Area="ocean" Num="8">419</Mob>
+      <Mob Area="ocean" Num="9">419</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>15000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">418</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3245</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

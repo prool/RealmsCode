@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="1576" Version="2.40" Area="ocean">
+  <Name>The Shrine of Honesty</Name>
+  <ShortDescription>You have entered the sacred Etolian Druid's Shrine of Honesty.</ShortDescription>
+  <LongDescription>You have come upon the sacred Shrine of Honesty.  The druids honor six
+basic virtues, and have built up a shrine for each of them.  This one
+signifies honesty and the importance of honesty in the daily dealings
+of life.  Without honesty, the world would be thrust into chaos and
+honor would have no value.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="139" Version="2.40" Area="ocean">
+  <Name>East Gate</Name>
+  <ShortDescription>This is the East Gate entrance to the town of Brownhaven.</ShortDescription>
+  <LongDescription>Caledonia Road to the west will take you to the center of the village.
+Taragon Road follows along the eastern village wall to the north and south.
+The great gate is almost always open, and leads out of the village.  The
+only time it closes is after sundown, except in times of emergency.  There
+is a city militia barracks a short distance to the north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>gate</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">134</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">144</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">138</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">3218</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

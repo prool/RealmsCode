@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="4018" Version="2.40" Area="ocean">
+  <Name>Hall of Worldly Bliss</Name>
+  <ShortDescription>You are in the inner hall of the cathedral.</ShortDescription>
+  <LongDescription>Perfectly aligned rows of chairs face the main altar at the east side
+of the cathedral.  The altar itself is a raised platform, from which
+sermons can be delivered.  Above the alter, golden statues of angels
+appear to be guarding this holy place from harm.  On the ceiling,
+a huge, colorful mural depicts the epic struggle between the heavenly
+forces of good and the hellspawned armies of underworld.</LongDescription>
+  
+  <Established>771792525</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north door">
+      <Keys/>
+      <Room Area="ocean">4019</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south door">
+      <Keys/>
+      <Room Area="ocean">4019</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east door">
+      <Keys/>
+      <Room Area="ocean">4017</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

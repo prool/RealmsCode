@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="658" Version="2.40a" Area="ocean">
+  <Name>Amberton Lane</Name>
+  <ShortDescription>You are staring in awe at the powerful monument to Corellon Larethian.</ShortDescription>
+  <LongDescription>Amberton Lane continues to the north and south, passing by the Holy Order
+of Corellon Larethian on the east and the Bushman Farms and Estate on the
+west.  The magnificent shrine, dedicated to the elven god of everything
+that is, rises high into the sky, as a monument to all elves of good faith.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">657</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">659</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

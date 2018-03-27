@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3042" Version="2.40" Area="ocean">
+  <Name>Goblin Meeting Room</Name>
+  <ShortDescription>Your are standing in a long dark room, used by the goblins officers
+and priests as a war room.</ShortDescription>
+  <LongDescription>A full wall size map of Oceancrest and the surrounding lands
+covers the northern wall.</LongDescription>
+  
+  <Established>761534135</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">502</Mob>
+      <Mob Area="ocean" Num="1">502</Mob>
+      <Mob Area="ocean" Num="2">503</Mob>
+      <Mob Area="ocean" Num="3">504</Mob>
+      <Mob Area="ocean" Num="4">503</Mob>
+      <Mob Area="ocean" Num="5">509</Mob>
+      <Mob Area="ocean" Num="6">509</Mob>
+      <Mob Area="ocean" Num="7">52</Mob>
+      <Mob Area="ocean" Num="8">52</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3040</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3724" Version="2.40" Area="ocean">
+  <Name>Grand Ballroom</Name>
+  <ShortDescription>You are in a magnificient ballroom located in the Dragon Tooth Inn.</ShortDescription>
+  <LongDescription>Huge oil paintings of the Lyanden line of royalty are around the room,
+and each is draped in beautiful royal purple velvet.  The ballroom is
+well lighted from glittering golden candlebras and crystal lamps.  At one
+end of the room is a small chamber orchestra, led by a tall, thin man
+with a great mane of hair.  he appears to be almost human.   Dancers
+swirl around the room, and small groups stand at the side, laughing and
+talking.  Are they laughing at you?  You do appear out of place in here.</LongDescription>
+  
+  <Established>764457246</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">388</Mob>
+      <Mob Area="ocean" Num="1">556</Mob>
+      <Mob Area="ocean" Num="2">556</Mob>
+      <Mob Area="ocean" Num="3">557</Mob>
+      <Mob Area="ocean" Num="4">557</Mob>
+      <Mob Area="ocean" Num="5">556</Mob>
+      <Mob Area="ocean" Num="6">388</Mob>
+      <Mob Area="ocean" Num="7">388</Mob>
+      <Mob Area="ocean" Num="8">556</Mob>
+      <Mob Area="ocean" Num="9">556</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3739</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

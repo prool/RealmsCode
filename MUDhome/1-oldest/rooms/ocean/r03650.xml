@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<Room Num="3650" Version="2.40" Area="ocean">
+  <Name>Armory Vault Anteroom</Name>
+  <ShortDescription>You are in the anteroom to the armory vault.</ShortDescription>
+  <LongDescription>Next to the treasury, this is the most highly guarded room in the entire
+castle.  Prince Ragnar has a staff of armorsmiths and mages constantly
+doing research on weapons and armors, and when they have perfected a new
+piece of armor or a new weapon, it is stored in the vault in the next room.
+There are four colored stones set in the otherwise grey stone wall, and
+they must be pressed in the correct sequence in order to enter the vault.</LongDescription>
+  
+  <Established>764878559</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>18</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">715</Mob>
+      <Mob Area="ocean" Num="1">715</Mob>
+      <Mob Area="ocean" Num="2">112</Mob>
+      <Mob Area="ocean" Num="3">112</Mob>
+      <Mob Area="ocean" Num="4">112</Mob>
+      <Mob Area="ocean" Num="5">715</Mob>
+      <Mob Area="ocean" Num="6">715</Mob>
+      <Mob Area="ocean" Num="7">715</Mob>
+      <Mob Area="ocean" Num="8">715</Mob>
+      <Mob Area="ocean" Num="9">715</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">622</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">623</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">624</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">625</Misc>
+    </LastTime>
+    <LastTime Num="4">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">626</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3649</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="vault">
+      <Keys/>
+      <Room Area="ocean">3651</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="low archway">
+      <Keys/>
+      <Room Area="ocean">3654</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

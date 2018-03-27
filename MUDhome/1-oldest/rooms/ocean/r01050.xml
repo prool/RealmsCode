@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1050" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive</Name>
+  <ShortDescription>You are on Oceanview Drive, just north of Golden Dolphin Way.</ShortDescription>
+  <LongDescription>The most imposing thing to see here is the back of Leonardo's Foundry.  The
+entrance one block west of here, on Main Street.  On the west side of the
+street is a building with a plaque over the door which seems to be in elven
+script and reads, "Denise's Imported Elven Silks."  Oceancrest is one of the
+major trading stops of the cities located in the Land of Mordor, and often
+gets many non-human items as part of the bartering and trading that goes on.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1049</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1051</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

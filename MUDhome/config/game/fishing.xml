@@ -1,0 +1,308 @@
+<?xml version="1.0"?>
+<Fishing>
+	<List id="none"></List>
+	<List id="morgtala">
+	</List>
+	<List id="river">
+		<Item>
+			<Fish Area="fish">3</Fish>
+			<Weight>10</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">5</Fish>
+			<Weight>7</Weight>
+			<Experience>5</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">9</Fish>
+			<Weight>10</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">10</Fish>
+			<Weight>30</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">14</Fish>
+			<Weight>7</Weight>
+			<Experience>5</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">16</Fish>
+			<Weight>4</Weight>
+			<Experience>8</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">18</Fish>
+			<Weight>4</Weight>
+			<Experience>8</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">19</Fish>
+			<Weight>4</Weight>
+			<Experience>8</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">21</Fish>
+			<Weight>10</Weight>
+		</Item>
+		<Item>
+			<Fish Area="misc">2003</Fish>
+			<Weight>5</Weight>
+		</Item>
+		<Item>
+			<Fish Area="misc">2010</Fish>
+			<Weight>5</Weight>
+		</Item>
+	</List>
+	<List id="lake">
+		<Item>
+			<Fish Area="fish">3</Fish>
+			<Weight>10</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">5</Fish>
+			<Weight>7</Weight>
+			<Experience>5</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">9</Fish>
+			<Weight>10</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">10</Fish>
+			<Weight>30</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">14</Fish>
+			<Weight>7</Weight>
+			<Experience>5</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">16</Fish>
+			<Weight>4</Weight>
+			<Experience>8</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">18</Fish>
+			<Weight>4</Weight>
+			<Experience>8</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">19</Fish>
+			<Weight>4</Weight>
+			<Experience>8</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">21</Fish>
+			<Weight>10</Weight>
+		</Item>
+		<Item>
+			<Fish Area="misc">2003</Fish>
+			<Weight>5</Weight>
+		</Item>
+		<Item>
+			<Fish Area="misc">2010</Fish>
+			<Weight>5</Weight>
+		</Item>
+	</List>
+	<List id="deeplake">
+		<Item>
+			<Fish Area="fish">3</Fish>
+			<Weight>10</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">5</Fish>
+			<Weight>7</Weight>
+			<Experience>8</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">9</Fish>
+			<Weight>10</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">10</Fish>
+			<Weight>30</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">14</Fish>
+			<Weight>7</Weight>
+			<Experience>8</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">16</Fish>
+			<Weight>4</Weight>
+			<Experience>5</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">18</Fish>
+			<Weight>4</Weight>
+			<Experience>5</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">19</Fish>
+			<Weight>4</Weight>
+			<Experience>5</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">21</Fish>
+			<Weight>10</Weight>
+		</Item>
+		<Item>
+			<Fish Area="misc">2003</Fish>
+			<Weight>5</Weight>
+		</Item>
+		<Item>
+			<Fish Area="misc">2010</Fish>
+			<Weight>5</Weight>
+		</Item>
+	</List>
+	<List id="coast">
+		<Item>
+			<Fish Area="fish">4</Fish>
+			<Weight>10</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">6</Fish>
+			<Weight>10</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">7</Fish>
+			<Weight>5</Weight>
+			<Experience>5</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">8</Fish>
+			<Weight>5</Weight>
+			<MinSkill>20</MinSkill>
+			<Experience>25</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">12</Fish>
+			<Weight>10</Weight>
+			<Experience>5</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">13</Fish>
+			<Weight>10</Weight>
+			<Experience>5</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">20</Fish>
+			<MinSkill>20</MinSkill>
+			<Experience>25</Experience>
+			<Weight>5</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">15</Fish>
+			<MinSkill>20</MinSkill>
+			<Experience>25</Experience>
+			<Weight>5</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">17</Fish>
+			<Weight>5</Weight>
+			<Experience>5</Experience>
+		</Item>
+		<Item>
+			<Fish Area="misc">2003</Fish>
+			<Weight>5</Weight>
+		</Item>
+		<Item>
+			<Fish Area="misc">2010</Fish>
+			<Weight>5</Weight>
+		</Item>
+	</List>
+	<List id="ocean">
+		<Item>
+			<Fish Area="fish">4</Fish>
+			<Weight>10</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">6</Fish>
+			<Weight>10</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">7</Fish>
+			<Weight>5</Weight>
+			<Experience>5</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">8</Fish>
+			<Weight>5</Weight>
+			<MinSkill>20</MinSkill>
+			<Experience>25</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">12</Fish>
+			<Weight>10</Weight>
+			<Experience>5</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">13</Fish>
+			<Weight>10</Weight>
+			<Experience>5</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">20</Fish>
+			<MinSkill>20</MinSkill>
+			<Experience>25</Experience>
+			<Weight>5</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">15</Fish>
+			<MinSkill>20</MinSkill>
+			<Experience>25</Experience>
+			<Weight>5</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">17</Fish>
+			<Weight>5</Weight>
+			<Experience>5</Experience>
+		</Item>
+		<Item>
+			<Fish Area="misc">2003</Fish>
+			<Weight>5</Weight>
+		</Item>
+		<Item>
+			<Fish Area="misc">2010</Fish>
+			<Weight>5</Weight>
+		</Item>
+		<Item>
+			<Fish Area="fish">22</Fish>
+			<Weight>5</Weight>
+			<MinSkill>150</MinSkill>
+			<MinQuality>300</MinQuality>
+			<Experience>300</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">23</Fish>
+			<Weight>5</Weight>
+			<MinSkill>100</MinSkill>
+			<MinQuality>200</MinQuality>
+			<Experience>200</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">24</Fish>
+			<Weight>5</Weight>
+			<MinSkill>120</MinSkill>
+			<MinQuality>200</MinQuality>
+			<Experience>200</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">25</Fish>
+			<Weight>5</Weight>
+			<MinSkill>150</MinSkill>
+			<MinQuality>300</MinQuality>
+			<Experience>300</Experience>
+		</Item>
+		<Item>
+			<Fish Area="fish">26</Fish>
+			<Weight>5</Weight>
+			<MinSkill>150</MinSkill>
+			<MinQuality>300</MinQuality>
+			<Experience>300</Experience>
+		</Item>
+	</List>
+	<List id="contaminated">
+	</List>
+</Fishing>

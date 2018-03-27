@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<Creature Num="472" Area="ocean" Version="2.40">
+  <Name>mud creature</Name>
+  <Level>5</Level>
+  <Type>1</Type>
+  <Experience>100</Experience>
+  <Coins/>
+  <Alignment>-10</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>140</Current>
+      <Max>140</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>80</Current>
+      <Max>80</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>50</Current>
+      <Max>50</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>25</Current>
+      <Max>25</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a creature that has formed itself from the mud at your feet.</Description>
+  <Keys>
+    <Key Num="0">creature</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>175</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>1</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>#&amp;*!!#  (that's dirty talk.   get it?)</Talk>
+  <DefenseSkill>45</DefenseSkill>
+  <AttackPower>140</AttackPower>
+  <WeaponSkill>45</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">544</Carry>
+    <Carry Area="ocean" Num="1">544</Carry>
+    <Carry Area="ocean" Num="2">544</Carry>
+    <Carry Area="ocean" Num="3">544</Carry>
+    <Carry Area="ocean" Num="4">544</Carry>
+    <Carry Area="ocean" Num="5">544</Carry>
+    <Carry Area="ocean" Num="6">544</Carry>
+    <Carry Area="ocean" Num="7">544</Carry>
+    <Carry Area="ocean" Num="8">544</Carry>
+    <Carry Area="ocean" Num="9">544</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks>
+    <SpecialAttack>
+      <Name>Acid Breath</Name>
+      <Verb>breathed acid on</Verb>
+      <TargetStr>^g*ATTACKER* spits acid on you!*CR*You take ^G*DAMAGE*^g damage!^x</TargetStr>
+      <TargetFailStr></TargetFailStr>
+      <RoomFailStr></RoomFailStr>
+      <SelfStr></SelfStr>
+      <RoomStr>^g*ATTACKER* spits acid on *LOW-TARGET*!^x</RoomStr>
+      <TargetSaveStr>You dove to the side, only being partially hit!</TargetSaveStr>
+      <SelfSaveStr></SelfSaveStr>
+      <RoomSaveStr>*TARGET* dove to the ground, only being partially immersed.</RoomSaveStr>
+      <Limit>0</Limit>
+      <Delay>60</Delay>
+      <Chance>20</Chance>
+      <StunLength>0</StunLength>
+      <Type>10</Type>
+      <SaveType>4</SaveType>
+      <SaveBonus>0</SaveBonus>
+      <MaxBonus>0</MaxBonus>
+      <Flags>
+        <Bit Num="1"/>
+        <Bit Num="23"/>
+      </Flags>
+      <Dice>
+        <Number>5</Number>
+        <Sides>3</Sides>
+        <Plus>0</Plus>
+      </Dice>
+    </SpecialAttack>
+  </SpecialAttacks>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

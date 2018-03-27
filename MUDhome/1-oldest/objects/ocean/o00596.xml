@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Object Num="596" Area="ocean" Version="2.40">
+  <Name>runed scythe</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>25</ShotsMax>
+  <ShotsCur>25</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>3</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">7000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">scythe</Key>
+    <Key Num="1"> </Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+    <Bit Num="33"/>
+    <Bit Num="34"/>
+    <Bit Num="35"/>
+    <Bit Num="37"/>
+    <Bit Num="38"/>
+  </Flags>
+  <Description>Funyny looking runes cover the long pole used to wield this weapon.</Description>
+  <Weight>4</Weight>
+  <Type>5</Type>
+  <SubType>polearm</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

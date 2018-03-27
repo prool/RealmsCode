@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="528" Area="ocean" Version="2.40">
+  <Name>garbage can</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">can</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="6"/>
+    <Bit Num="17"/>
+    <Bit Num="25"/>
+  </Flags>
+  <Description>You see a smelly garbage can where you may deposit broken items.</Description>
+  <Weight>800</Weight>
+  <Type>10</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

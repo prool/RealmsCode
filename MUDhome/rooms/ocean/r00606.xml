@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Room Num="606" Version="2.47i" Area="ocean">
+  <Name>Avatar Boulevard</Name>
+  <ShortDescription>You are walking along Avatar Boulevard, east of the massive Lyanden Lake.</ShortDescription>
+  <LongDescription>To the distance, you can see the magnificent Lyanden Castle resting on
+the island formed near the center of Lyanden Lake.  There are three
+powerful towers rising out of the castle, reaching towards the clouds.
+Avatar road continues on to the north and south.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>south</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">605</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">607</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

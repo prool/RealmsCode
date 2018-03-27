@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3159" Version="2.40" Area="ocean">
+  <Name>Sunken Pirate Ship</Name>
+  <ShortDescription>You are standing on the forward bow of Morgan's ship, the Snap Dragon.</ShortDescription>
+  <LongDescription>Extending from the bow, below the water line, is a sturdy ramming pike
+covered with steel plate.  It appears to be a deadly ship-killer, able
+to pierce another ships side and flood it with seawater.  Captain Morgan
+was one of the most feared pirates on the Respitial Sea, responsible for
+sinking over a thousand merchant craft.  Now you see one of his methods.</LongDescription>
+  
+  <Established>756270281</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>11</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">298</Mob>
+      <Mob Area="ocean" Num="1">299</Mob>
+      <Mob Area="ocean" Num="2">381</Mob>
+      <Mob Area="ocean" Num="3">381</Mob>
+      <Mob Area="ocean" Num="4">376</Mob>
+      <Mob Area="ocean" Num="5">380</Mob>
+      <Mob Area="ocean" Num="6">375</Mob>
+      <Mob Area="ocean" Num="7">375</Mob>
+      <Mob Area="ocean" Num="8">380</Mob>
+      <Mob Area="ocean" Num="9">376</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3155</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3158</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,17 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  weakness spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 30
+School:  Transmutation
+Domain:  Augmentation
+
+The weakness spell decreases your constitution, making you sickly and less
+resistant to poison and disease. This spell does not last long, but while it is
+in effect, you will have less hitpoints. A weakness spell counteracts the
+effects of a fortitude spell. This spell cannot be cast on undead.
+
+A weakness spell will cancel out the berserk ability.
+Only a mage, lich, druid, or cleric may cast this spell.
+
+Syntax:
+cast weakness <target>

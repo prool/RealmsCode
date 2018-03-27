@@ -1,0 +1,44 @@
+Spells/Quests Needed
+
+Following are the spells/quests we need to put in the game.
+Areas can be built for these purposes. I want final approval
+of any ideas people have to be given by me before they put
+any of these in, however. I wont be too picky, just dont
+think up gay quest ideas.. Each one has a difficulty rating
+by it to give you an idea of what I expect.
+RATING        DESCRIPTION
+1: Relatively easy..a mob which ppl have to find can drop it.
+2: Easy but complex. A single trade of some item can be 
+   involved to get the item/scroll.
+3: Complex. More than one trade needs to be involved.
+4: Complex and dangerous. More than one trade, and some mob
+   or mobs need to be involved which need to be defeated and
+   drop one or more of the items.
+5: Complicated and dangerous. Items need to be gained and
+   mobs killed for items all over the map. At least 4 steps
+   need to be involved, with clues being put in to guide
+   players. There should always be a way for people to be
+   thrown off...like assuming the wrong thing.
+Q#: Spell also needs to be a quest. # is xp for quest.
+
+
+earth-tremor(5)(Q2000)       cure-blindness(3)(Q500)    
+earthquake(5)(Q3000)         curse(5)(Q2000)
+
+hurricane(5)(Q3000)          dispel-good(4)(Q1000)
+flamefill(5)(Q2000)          dispel-magic(4)(Q1000)
+inferno(5)(Q3000)            drain-shield(3)(Q500)
+                             earth-shield(2)
+tsunami(5)(Q3000)            heal(4)(Q1200)
+lightning-bolt(2)            remove-curse(4)(Q750)
+thunderbolt(5)(Q2000)
+chain-lightning(5)(Q3000)    remove-fear(4)
+chill(1)                     remove-silence(3)
+frostbite(2)
+                             word-of-recall(4)(Q1400)
+cold-cone(4)(Q1000)          room-vigor(4)(Q2000)
+iceblade(5)(Q2000)           silence(4)(Q1000)
+blind(4)(Q500)               transport(4)(Q1500)
+breath-water(3)
+clairvoyance(3)
+

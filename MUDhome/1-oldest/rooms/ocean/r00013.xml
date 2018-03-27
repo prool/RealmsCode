@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="13" Version="2.40a" Area="ocean">
+  <Name>Goldenrod Avenue/Brownhaven Way</Name>
+  <ShortDescription>You are at the end of Brownhaven Way, where it meets Goldenrod Avenue. </ShortDescription>
+  <LongDescription>Goldenrod Avenue is actually a narrow, winding little lane to the west, but
+seems to be a little wider as you look east.  An imposing building is at
+the southeast corner of this intersection.  A fairly new sign says its the
+tax collector's office.  Across the street on the southwestern corner is
+the village militia's headquarters.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">12</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">14</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">23</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

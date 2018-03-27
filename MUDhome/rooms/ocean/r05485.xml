@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="5485" Version="2.40" Area="ocean">
+  <Name>Tillie's Curio Shop</Name>
+  <LongDescription>Tillie will buy anything if she thinks she can turn a profit on it.
+Although she retired long ago, buying cheap and selling dear is in her
+blood, and she enjoys the exchange even though she doesn't need the money.
+A family picture on the wall shows Tillie with her two brothers, Toby and
+Trabin.  It must have been taken a very long time ago.</LongDescription>
+  
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="49"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5480</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Room Num="3631" Version="2.40" Area="ocean">
+  <Name>Main Courtyard Southeast</Name>
+  <ShortDescription>You are in the southeast corner of the main courtyard.</ShortDescription>
+  <LongDescription>This is an area reserved for the practice of small arms.  Only blunt
+weapons and wooden swords are allowed in here, and at times it can get
+to be a real free-for-all.  Several of the young squires and newly knighted
+warriors of the castle play a sort of king-of-the-hill, taking on all
+comers, and hoping to be the last standing when the game is over.  To the
+north is a jousting alley, and to the west is the southern exit for the
+castle.</LongDescription>
+  
+  <Established>762646008</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">725</Mob>
+      <Mob Area="ocean" Num="1">726</Mob>
+      <Mob Area="ocean" Num="2">727</Mob>
+      <Mob Area="ocean" Num="3">725</Mob>
+      <Mob Area="ocean" Num="4">726</Mob>
+      <Mob Area="ocean" Num="5">727</Mob>
+      <Mob Area="ocean" Num="6">725</Mob>
+      <Mob Area="ocean" Num="7">725</Mob>
+      <Mob Area="ocean" Num="8">725</Mob>
+      <Mob Area="ocean" Num="9">725</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">716</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3630</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3632</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

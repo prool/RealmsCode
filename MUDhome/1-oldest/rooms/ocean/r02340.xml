@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="2340" Version="2.40a" Area="ocean">
+  <Name>Mountain Trail</Name>
+  <ShortDescription>You are walking around the Nellan Mountain Range near the Ituk Glacier.</ShortDescription>
+  <LongDescription>The mountain trail leads through the mountains towards the Ituk Glacier,
+a massive piece of ice that seems to grow higher each year.  The glacier
+is a potentially dangerous place in that it is very easy to get lost in
+such a massive wasteland.  It would be wise to have a good ranger guiding
+your party.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="cave">
+      <Keys/>
+      <Room Area="ocean">2349</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2341</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2343</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

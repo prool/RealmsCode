@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="539" Version="2.40a" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are on Lelion Way, just west of the intersection with Necropolis Avenue.</ShortDescription>
+  <LongDescription>There's nothing really to see on the north side of the road except a lot
+of stale swamp water.  There are supposed to be some good magical components
+in the swamp, though.  On the south, you can see the back side of a large
+shopping center, the entrance to which is located on the other side of the
+building.  Necropolis Avenue is to the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">538</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">540</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

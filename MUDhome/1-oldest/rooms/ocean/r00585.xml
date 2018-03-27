@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="585" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive, west of the Knightly Order of the
+Black Cross and east of the impressive Ashton Falls Resort and Inn.</ShortDescription>
+  <LongDescription>The Knightly Order of the Black Cross acts in conjunction with the Order
+of the White Cross to establish order and harmony.  There is a border
+between the two Orders that all Paladins must pass through.  Knowledge
+and control of one's dark side will make the Paladin all the more stronger
+in his or her quest.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">584</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">586</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

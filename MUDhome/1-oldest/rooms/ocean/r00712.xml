@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="712" Version="2.40a" Area="ocean">
+  <Name>Hillborough Way</Name>
+  <ShortDescription>You are walking along Hillborough Way, between two large shopping centers.</ShortDescription>
+  <LongDescription>The entrance to both centers is to the north and south of here.  The
+large complex on the north houses a weapons shop, a pub and a few other
+smaller establishments.  The southern complex appears to cater to armors
+and armory of various sizes and shapes.  </LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">711</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">713</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2306</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2307</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

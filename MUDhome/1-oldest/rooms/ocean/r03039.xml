@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="3039" Version="2.40" Area="ocean">
+  <Name>Goblin Dining Hall</Name>
+  <ShortDescription>You are in a rowdy goblin mess hall.</ShortDescription>
+  <LongDescription>All around you, goblin soldiers slurp and belch as they disgustingly
+chew what might be called their meal.   Broken dishes, bottles and bones
+lie tossed about the room.    Needless to say, there is an overpowering
+smell of rotten meat in the air.</LongDescription>
+  
+  <Established>761535433</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">502</Mob>
+      <Mob Area="ocean" Num="1">502</Mob>
+      <Mob Area="ocean" Num="2">509</Mob>
+      <Mob Area="ocean" Num="3">509</Mob>
+      <Mob Area="ocean" Num="4">503</Mob>
+      <Mob Area="ocean" Num="5">504</Mob>
+      <Mob Area="ocean" Num="6">322</Mob>
+      <Mob Area="ocean" Num="7">323</Mob>
+      <Mob Area="ocean" Num="8">505</Mob>
+      <Mob Area="ocean" Num="9">506</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3033</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3040</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

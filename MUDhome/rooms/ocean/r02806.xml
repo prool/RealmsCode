@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="2806" Version="2.40a" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>You are at the intersection of another hallway in the caverns below the
+glacier.  One hallway heads west while the other heads north and south.</ShortDescription>
+  <LongDescription>It has gotten rather dark as you have passed into the rocky surface
+below the great ice glacier.  The sun can no longer illuminate your path
+and you must resort to torches or magic to proceed.  The hallway runs
+north and south, intersecting another hallway, which heads west.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>728791763</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2807</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2805</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2810</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

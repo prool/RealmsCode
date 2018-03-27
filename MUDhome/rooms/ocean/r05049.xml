@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="5049" Version="2.40" Area="ocean">
+  <Name>Skies West of Kista</Name>
+  <ShortDescription>Away to the east you can see the Towers of beautiful Kista.  60.n0.e16.s1.w0</ShortDescription>
+  <LongDescription>Down below, you can see where the grasslands of the Gotland Glen pushes
+up against the forest of Kista.  The grassland makes a gentle but consant
+rise to the south, where more and more trees appear, and become the 
+famous Kista Forest.  The towers of the city glint like jewels in the
+distance, giving it a fairytale quality.</LongDescription>
+  
+  <Established>772228612</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5078</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5047</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5047</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5062</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

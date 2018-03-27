@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Room Num="5724" Version="2.40" Area="ocean">
+  <Name>Graduate's Post-Training Room</Name>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5720</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

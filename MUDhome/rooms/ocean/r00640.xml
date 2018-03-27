@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="640" Version="2.40a" Area="ocean">
+  <Name>Harvest Circle</Name>
+  <ShortDescription>You are walking around the eastern rim of the Harvest Circle.</ShortDescription>
+  <LongDescription>The Harvest Circle more or less marks the geographic center of the City
+of Oceancrest.  Oceancrest Avenue continues to the east and eventually
+reaches the eastern entrance to the city.  The Circle is large enough that
+numerous people can come to celebrate the annual harvest day festival here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">639</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">642</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">720</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

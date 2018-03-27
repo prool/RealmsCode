@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1968" Version="2.40" Area="ocean">
+  <Name>The Mayor's Office</Name>
+  <ShortDescription>You have entered a rather dusty room which hasn't seen daylight in years.</ShortDescription>
+  <LongDescription>The dust has settled rather uniformly across the entire room.  Just
+by walking around, you are kicking up dust.  So much so, your vision
+begins to look obscured.  You can see a large desk to the west with
+a giant chair behind it.  The deskplate says "Mayor Millwood", but
+you can't tell if there's anyone sitting behind the desk.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>105232</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">244</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1967</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

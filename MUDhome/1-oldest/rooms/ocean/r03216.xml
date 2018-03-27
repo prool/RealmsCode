@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3216" Version="2.40a" Area="ocean">
+  <Name>Lake View Road</Name>
+  <ShortDescription>You are very near the shore of Lake Kista which lies to the southwest.</ShortDescription>
+  <LongDescription>As you look out across this beautiful lake, you catch a glimpse of
+something, or someone, playing in the waters and bathing in the sun.
+Since you are caught by the beauty of the lake, you should consider a 
+relaxing swim.  Just ignore those tales you heard about monsters.</LongDescription>
+  
+  <Established>756035384</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3215</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3217</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

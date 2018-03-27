@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  maul           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Werewolves may maul opponents stunning them for a period of time and doing
+damage based on the level of the werewolf.
+
+Example:
+: maul w
+You maul the wino for 10 damage.
+You killed the wino.
+You gained 6 experience for the death of the wino.
+:

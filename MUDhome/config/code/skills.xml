@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skills>
+  <SkillGroups>
+    <SkillGroup>
+      <Name>general</Name>
+
+      <DisplayName>General Skills</DisplayName>
+    </SkillGroup>
+
+    <SkillGroup>
+      <Name>offensive</Name>
+
+      <DisplayName>Offensive Skills</DisplayName>
+    </SkillGroup>
+
+    <SkillGroup>
+      <Name>defensive</Name>
+
+      <DisplayName>Defensive Skills</DisplayName>
+    </SkillGroup>
+
+    <SkillGroup>
+      <Name>armor</Name>
+
+      <DisplayName>Armor</DisplayName>
+    </SkillGroup>
+
+    <SkillGroup>
+      <Name>craft</Name>
+
+      <DisplayName>Crafting Skills</DisplayName>
+    </SkillGroup>
+
+    <SkillGroup>
+      <Name>weapons-slashing</Name>
+
+      <DisplayName>Slashing Weapons</DisplayName>
+    </SkillGroup>
+
+    <SkillGroup>
+      <Name>weapons-exotic</Name>
+
+      <DisplayName>Exotic Weapons</DisplayName>
+    </SkillGroup>
+
+    <SkillGroup>
+      <Name>weapons-chopping</Name>
+
+      <DisplayName>Chopping Weapons</DisplayName>
+    </SkillGroup>
+
+    <SkillGroup>
+      <Name>weapons-piercing</Name>
+
+      <DisplayName>Piercing Weapons</DisplayName>
+    </SkillGroup>
+
+    <SkillGroup>
+      <Name>weapons-crushing</Name>
+
+      <DisplayName>Crushing Weapons</DisplayName>
+    </SkillGroup>
+
+    <SkillGroup>
+      <Name>weapons-ranged</Name>
+
+      <DisplayName>Ranged Weapons</DisplayName>
+    </SkillGroup>
+
+    <SkillGroup>
+      <Name>magic</Name>
+
+      <DisplayName>Magical Realms</DisplayName>
+    </SkillGroup>
+  </SkillGroups>
+
+  <Skills>
+    <Skill>
+      <Name>barkskin</Name>
+
+      <Group>defensive</Group>
+
+      <DisplayName>Barkskin</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>dodge</Name>
+
+      <Group>defensive</Group>
+
+      <DisplayName>Dodge</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>parry</Name>
+
+      <Group>defensive</Group>
+
+      <DisplayName>Parry</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>endurance</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Endurance</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>howl</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Howl</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>transmute</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Transmute</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>enchant</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Enchant</DisplayName>
+
+      <GainType>Medium</GainType>
+    </Skill>
+
+    <Skill>
+      <Name>teach</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Teach</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>regenerate</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Regenerate</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>meditate</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Meditate</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>focus</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Focus</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>pray</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Pray</DisplayName>
+
+      <GainType>Hard</GainType>
+    </Skill>
+
+    <Skill>
+      <Name>enthrall</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Enthrall Undead</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>animate</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Animate Undead</DisplayName>
+
+      <GainType>Hard</GainType>
+    </Skill>
+
+    <Skill>
+      <Name>charm</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Charm</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>sing</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Sing</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>identify</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Identify</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>sneak</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Sneak</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>hide</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Hide</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>envenom</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Envenom</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>peek</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Peek</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>steal</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Steal</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>search</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Search</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>pick</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Picklock</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>conjure</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Conjure Elemental</DisplayName>
+
+      <GainType>Hard</GainType>
+    </Skill>
+
+    <Skill>
+      <Name>track</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Find Track</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>commune</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Commune</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>dual</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Dual Wield</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>mistbane</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Mistbane</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>mist</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Turn to Mist</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>hypnotize</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Hypnotize</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>frenzy</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Frenzy</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>bloodsac</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Blood Sacrifice</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>hands</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Lay Hands</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>scout</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Scout</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>shoplift</Name>
+
+      <Group>general</Group>
+
+      <DisplayName>Shoplift</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>earth</Name>
+
+      <Group>magic</Group>
+
+      <DisplayName>Earth Realm</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>air</Name>
+
+      <Group>magic</Group>
+
+      <DisplayName>Air Realm</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>fire</Name>
+
+      <Group>magic</Group>
+
+      <DisplayName>Fire Realm</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>water</Name>
+
+      <Group>magic</Group>
+
+      <DisplayName>Water Realm</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>electric</Name>
+
+      <Group>magic</Group>
+
+      <DisplayName>Electric Realm</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>cold</Name>
+
+      <Group>magic</Group>
+
+      <DisplayName>Cold Realm</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>abjuration</Name>
+
+      <Group>magic</Group>
+
+      <DisplayName>Abjuration</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>divination</Name>
+
+      <Group>magic</Group>
+
+      <DisplayName>Divination</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>enchantment</Name>
+
+      <Group>magic</Group>
+
+      <DisplayName>Enchantment</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>necromancy</Name>
+
+      <Group>magic</Group>
+
+      <DisplayName>Necromancy</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>transmutation</Name>
+
+      <Group>magic</Group>
+
+      <DisplayName>Transmutation</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>translocation</Name>
+
+      <Group>magic</Group>
+
+      <DisplayName>Translocation</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>circle</Name>
+
+      <Group>offensive</Group>
+
+      <DisplayName>Circle</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>bash</Name>
+
+      <Group>offensive</Group>
+
+      <DisplayName>Bash</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>kick</Name>
+
+      <Group>offensive</Group>
+
+      <DisplayName>Kick</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>disarm</Name>
+
+      <Group>offensive</Group>
+
+      <DisplayName>Disarm</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>berserk</Name>
+
+      <Group>offensive</Group>
+
+      <DisplayName>Berserk</DisplayName>
+
+      <GainType>Hard</GainType>
+    </Skill>
+
+    <Skill>
+      <Name>drain</Name>
+      <Group>offensive</Group>
+      <DisplayName>Drain Life</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>touch</Name>
+      <Group>offensive</Group>
+      <DisplayName>Touch of Death</DisplayName>
+      <GainType>Hard</GainType>
+    </Skill>
+
+    <Skill>
+      <Name>turn</Name>
+      <Group>offensive</Group>
+      <DisplayName>Turn Undead</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>holyword</Name>
+      <Group>offensive</Group>
+      <DisplayName>Holyword</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>swarm</Name>
+      <Group>offensive</Group>
+      <DisplayName>Spider Swarm</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>creep</Name>
+      <Group>offensive</Group>
+      <DisplayName>Creeping Doom</DisplayName>
+      <GainType>Medium</GainType>
+    </Skill>
+
+    <Skill>
+      <Name>smother</Name>
+      <Group>offensive</Group>
+      <DisplayName>Smother</DisplayName>
+      <GainType>Medium</GainType>
+    </Skill>
+
+    <Skill>
+      <Name>backstab</Name>
+
+      <Group>offensive</Group>
+
+      <DisplayName>Backstab</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>ambush</Name>
+
+      <Group>offensive</Group>
+
+      <DisplayName>Ambush</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>bite</Name>
+
+      <Group>offensive</Group>
+
+      <DisplayName>Bite</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>maul</Name>
+
+      <Group>offensive</Group>
+
+      <DisplayName>Maul</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>renounce</Name>
+
+      <Group>offensive</Group>
+
+      <DisplayName>Renounce</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>harm</Name>
+
+      <Group>offensive</Group>
+
+      <DisplayName>Harm Touch</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>claw</Name>
+
+      <Group>weapons-slashing</Group>
+
+      <DisplayName>Werewolf Claws</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>sword</Name>
+
+      <Group>weapons-slashing</Group>
+
+      <DisplayName>Swords</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>great-sword</Name>
+
+      <Group>weapons-slashing</Group>
+
+      <DisplayName>Great Swords</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>whip</Name>
+
+      <Group>weapons-exotic</Group>
+
+      <DisplayName>Whips</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>axe</Name>
+
+      <Group>weapons-chopping</Group>
+
+      <DisplayName>Axes</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>great-axe</Name>
+
+      <Group>weapons-chopping</Group>
+
+      <DisplayName>Great Axes</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>rapier</Name>
+
+      <Group>weapons-piercing</Group>
+
+      <DisplayName>Rapiers and Sabres</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>spear</Name>
+
+      <Group>weapons-piercing</Group>
+
+      <DisplayName>Spears</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>dagger</Name>
+
+      <Group>weapons-piercing</Group>
+
+      <DisplayName>Daggers</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>polearm</Name>
+
+      <Group>weapons-exotic</Group>
+
+      <DisplayName>Polearms</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>staff</Name>
+
+      <Group>weapons-crushing</Group>
+
+      <DisplayName>Staves</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>mace</Name>
+
+      <Group>weapons-crushing</Group>
+
+      <DisplayName>Maces</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>great-mace</Name>
+
+      <Group>weapons-crushing</Group>
+
+      <DisplayName>Great-Maces</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>club</Name>
+
+      <Group>weapons-crushing</Group>
+
+      <DisplayName>Clubs and other Blunt Objects</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>hammer</Name>
+
+      <Group>weapons-crushing</Group>
+
+      <DisplayName>Hammers</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>great-hammer</Name>
+
+      <Group>weapons-crushing</Group>
+
+      <DisplayName>Great-Hammers</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>bare-hand</Name>
+
+      <Group>weapons-crushing</Group>
+
+      <DisplayName>Bare-Handed</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>bow</Name>
+
+      <Group>weapons-ranged</Group>
+
+      <DisplayName>Bows</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>crossbow</Name>
+
+      <Group>weapons-ranged</Group>
+
+      <DisplayName>Crossbows</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>thrown</Name>
+
+      <Group>weapons-ranged</Group>
+
+      <DisplayName>Thrown Weapons</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>defense</Name>
+
+      <Group>defensive</Group>
+
+      <DisplayName>Defense</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>block</Name>
+
+      <Group>defensive</Group>
+
+      <DisplayName>Block</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>cloth</Name>
+
+      <Group>armor</Group>
+
+      <DisplayName>Cloth Armor</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>leather</Name>
+
+      <Group>armor</Group>
+
+      <DisplayName>Leather Armor</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>chain</Name>
+
+      <Group>armor</Group>
+
+      <DisplayName>Chain Armor</DisplayName>
+    </Skill>
+
+    <Skill>
+      <Name>plate</Name>
+
+      <Group>armor</Group>
+
+      <DisplayName>Plate Armor</DisplayName>
+    </Skill>
+  </Skills>
+</Skills>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5468" Version="2.40" Area="ocean">
+  <Name>Castle Rutger Road</Name>
+  <ShortDescription>You are traveling on Castle Rutger Road, near the last of the lower turns.</ShortDescription>
+  <LongDescription>From here, you can look down on the road as it makes a final turn before
+going north across a mountain ridge.  You can see a guard barracks far
+below.  The castle is still a good distance above you.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5467</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5469</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

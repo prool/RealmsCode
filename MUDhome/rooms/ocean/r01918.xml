@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="1918" Version="2.40" Area="ocean">
+  <Name>Under the Ashton River Bridge</Name>
+  <ShortDescription>You are directly below the Ashton River Bridge, on the bank of the river.</ShortDescription>
+  <LongDescription>There is a stench that's difficult to ignore coming from a pile of rusted
+armor nearby.  There are a lot of scattered bones lying about, and a
+number of weapons on the ground.  A small cave is just above the waterline
+and a snuffling noise seems to be coming from its interior.  What was it
+that sign up there said about trolls?  A path leads to an orchid above.</LongDescription>
+  <HighLevel>10</HighLevel>
+  
+  <Established>758794427</Established>
+  <Flags>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">67</Mob>
+      <Mob Area="ocean" Num="1">67</Mob>
+      <Mob Area="ocean" Num="2">67</Mob>
+      <Mob Area="ocean" Num="3">67</Mob>
+      <Mob Area="ocean" Num="4">67</Mob>
+      <Mob Area="ocean" Num="5">67</Mob>
+      <Mob Area="ocean" Num="6">67</Mob>
+      <Mob Area="ocean" Num="7">67</Mob>
+      <Mob Area="ocean" Num="8">67</Mob>
+      <Mob Area="ocean" Num="9">67</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">654</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1349</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="path">
+      <Keys/>
+      <Room Area="ocean">2113</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="590" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are on Leviathan Drive, between the Holy Order of Corellon Larethian
+on the west, and the Rodaisl Community Housing Complex on the east.</ShortDescription>
+  <LongDescription>You can see the intersection with Netherworld Lane to the south.  On both
+sides of the street are large structures.  The Rodaisl Complex houses many
+thousands of Oceancrestillians.  Since individual houses for everyone can
+not be built in the city, the Housing Complexes were built to house the
+people who needed and wanted to live inside the city.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">589</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1192</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

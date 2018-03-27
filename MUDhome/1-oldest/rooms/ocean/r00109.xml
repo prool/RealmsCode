@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="109" Version="2.40" Area="ocean">
+  <Name>Brownhaven Thieve's Guild</Name>
+  <ShortDescription>This is the foyer of a school maintained by Brownhaven's Thieve's Guild.</ShortDescription>
+  <LongDescription>Pickpocketing and burglery are the main courses taught here, but others
+are occasionally taught in seminars.  Successful students must pay a
+proportion of their earnings, according to the level they have achieved.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">107</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

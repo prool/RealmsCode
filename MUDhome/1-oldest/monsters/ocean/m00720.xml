@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<Creature Num="720" Area="ocean" Version="2.40">
+  <Name>octowolf</Name>
+  <Level>7</Level>
+  <Type>1</Type>
+  <Experience>200</Experience>
+  <Coins/>
+  <Alignment>-100</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>90</Current>
+      <Max>90</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see an eight legged and eight eyed wolf-like monster.</Description>
+  <Keys/>
+  <MoveTypes/>
+  <Armor>200</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>4</Number>
+    <Sides>1</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>gggrrrr</Talk>
+  <NumWander>2</NumWander>
+  <DefenseSkill>65</DefenseSkill>
+  <AttackPower>200</AttackPower>
+  <WeaponSkill>65</WeaponSkill>
+  <CarriedItems/>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+    <Bit Num="39"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5141" Version="2.40" Area="ocean">
+  <Name>South Castle Wall</Name>
+  <ShortDescription>You are in a debris strewn hallway, at the southern end of the castle.</ShortDescription>
+  <LongDescription>Not much to see here but a few rats and spiders.  Something larger seems
+to be crouched in the darkness, but you can't quite make out what it is.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5139</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5150</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

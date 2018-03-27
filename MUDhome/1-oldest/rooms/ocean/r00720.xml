@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="720" Version="2.40a" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are on Oceancrest Avenue, just south of the Shrine of Life and Death.</ShortDescription>
+  <LongDescription>Oceancrest Avenue runs west into the Harvest Circle and continues to the
+east through the eastern half of the city.  On the north is the Clerical
+Shrine of Life and Death, the shrine which examines the complex,
+philosophical questions of life and death, integral to every form of
+religion.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">620</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">640</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

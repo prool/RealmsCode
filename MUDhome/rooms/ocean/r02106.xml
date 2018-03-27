@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="2106" Version="2.40" Area="ocean">
+  <Name>Mehetable's Hut</Name>
+  <ShortDescription>Although this looked like a simple hut outside, you are in a grand manor!</ShortDescription>
+  <LongDescription>Mehetable's home has at least six large rooms that you can see, and there
+are more rooms upstairs.  Fine tapestries and silk rugs are everywhere,
+and the furniture would be fit for a king.  Polished wood and rare brocades
+were used in the making of the elegant furniture.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2110</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

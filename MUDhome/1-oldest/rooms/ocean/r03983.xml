@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3983" Version="2.40" Area="ocean">
+  <Name>Trantori's Redwood</Name>
+  <ShortDescription>You are inside a hollow redwood, which is known as Trantori's.</ShortDescription>
+  <LongDescription>There is a small ledge here, just big enough to stand on.  The ladder rungs
+continue above and below you.    A small group of knotholes nearby allow 
+light to enter, but not enough to see any detail in here. The ledge seems 
+to get wider on the northern side of the tree.</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3982</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3984</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

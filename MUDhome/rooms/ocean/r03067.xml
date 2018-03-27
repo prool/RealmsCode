@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="3067" Version="2.40" Area="ocean">
+  <Name>Temple Passage</Name>
+  <ShortDescription>You are in the Ulandian Temple, inside a gloomy secret passage.</ShortDescription>
+  <LongDescription>The passage is rather broad here due to a missing section of the wall.
+On the east side of the passage it looks like several stones have fallen
+and revealed a nest of hextrils.  If you have never seen one before, you
+are quite lucky.  They look like a land-dwelling octopus with a big head
+and mouth, and six strong tentacles.  Luckily, their size is about like a
+small cat.  Unluckily, they usually come in groups.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>3</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">769</Mob>
+      <Mob Area="ocean" Num="1">769</Mob>
+      <Mob Area="ocean" Num="2">769</Mob>
+      <Mob Area="ocean" Num="3">769</Mob>
+      <Mob Area="ocean" Num="4">769</Mob>
+      <Mob Area="ocean" Num="5">769</Mob>
+      <Mob Area="ocean" Num="6">769</Mob>
+      <Mob Area="ocean" Num="7">769</Mob>
+      <Mob Area="ocean" Num="8">769</Mob>
+      <Mob Area="ocean" Num="9">769</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3096</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3068</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="nest">
+      <Keys/>
+      <Room Area="ocean">3075</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

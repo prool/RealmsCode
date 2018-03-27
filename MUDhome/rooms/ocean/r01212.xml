@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1212" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are walking along Nagaritha Drive, north of the Corn Fields.</ShortDescription>
+  <LongDescription>The DeNail Corn Fields are located to the south of here.  Farmer DeNail
+is always willing to hire on any unskilled laborers to pick corn and
+scare away crows and other pests.  The entrance to the Corn Fields is 
+located off of Lankshire Parkway to the east.  On the north side of the
+road, you can see the Oceancrest Grannary building, which is currently
+under construction.  The current grannary has exceeded its capacity,
+thus a new one is being built to supplement it.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1213</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1211</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

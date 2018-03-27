@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="210" Version="2.40" Area="ocean">
+  <Name>Top of the Stairwell</Name>
+  <ShortDescription>You're standing at the top of a large, victorian stairwell.</ShortDescription>
+  <LongDescription>The stairs twist in a corkscrew-like manner from this floor to the one below.
+There is a hallway that extends from east to west, and you see a door in the
+west wall.  At least it might be a doorway.  It's really difficult to tell
+with all the cobwebs covering everything.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">37</Mob>
+      <Mob Area="ocean" Num="1">38</Mob>
+      <Mob Area="ocean" Num="2">35</Mob>
+      <Mob Area="ocean" Num="3">24</Mob>
+      <Mob Area="ocean" Num="4">21</Mob>
+      <Mob Area="ocean" Num="5">17</Mob>
+      <Mob Area="ocean" Num="6">16</Mob>
+      <Mob Area="ocean" Num="7">18</Mob>
+      <Mob Area="ocean" Num="8">18</Mob>
+      <Mob Area="ocean" Num="9">35</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">215</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">211</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">200</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

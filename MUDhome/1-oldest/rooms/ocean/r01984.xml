@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="1984" Version="2.40" Area="ocean">
+  <Name>Evander's Armory</Name>
+  <ShortDescription>Only the finest chain mail and metallic armors are on display here.</ShortDescription>
+  <LongDescription>Evander's foundry specializes in metallic armors and some weapons.  You 
+won't find any cloth or leather supplies here.  Only the finest metals and
+materials go into these fine armors.  Evander's Armory is about the only
+armory in town that also uses adamantine metal to make their scale mail.
+Although scale mail is less protective than chain, it lasts significantly
+longer than virtually all other conventional metals.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1980</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

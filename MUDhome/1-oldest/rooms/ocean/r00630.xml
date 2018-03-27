@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="630" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway/Oceancrest Avenue Intersection</Name>
+  <ShortDescription>You are at the busy intersection of Lankshire Parkway and Oceancrest Avenue.</ShortDescription>
+  <LongDescription>Oceancrest Avenue, running east and west through the intersection, is
+often considered the central road through Oceancrest.  It will eventually
+end at the Eastern Entrance to the city to the east, and at the Nylandian
+Bay to the west.  Lankshire continues to the north and south, becoming
+one of the major roads in the southern section of town.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">629</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">631</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">723</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">724</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

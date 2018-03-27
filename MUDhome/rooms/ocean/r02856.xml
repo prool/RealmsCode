@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="2856" Version="2.40a" Area="ocean">
+  <Name>Plasnelt Lake Middle Depths</Name>
+  <ShortDescription>You are in near the middle of the vast underwater civilization.</ShortDescription>
+  <LongDescription>The center depths of the vast Plasnelt Lake are guarded by armies of
+sahuagin warriors, protecting their homes.  The sahuagin are vicious
+creatures of malace who dine on the flesh of the surface dwelling races.
+A large rock formation prevents you from going further down from this
+location.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>729314588</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="21"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">2851</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2853</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2855</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2854</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2852</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

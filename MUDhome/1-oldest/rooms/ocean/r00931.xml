@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="931" Version="2.40" Area="ocean">
+  <Name>Hafnia Circle Road/Rue Caledonia Intersection</Name>
+  <ShortDescription>You are on Hafnia circle road, which encircles the City of Hafnia.</ShortDescription>
+  <LongDescription>This road goes clear around the city.  Immediately to the west is
+Jacob's Repair Shoppe, where you may have an elven smith work on your
+weapons and armor.  There is a field behind the shoppe, but you cannot
+enter it from here.  It seems to be some kind of training grounds.  A lot
+of people are coming and going further north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5504</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5506</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">932</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5500</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

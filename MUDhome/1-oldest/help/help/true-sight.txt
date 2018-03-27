@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  true-sight spell     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 18
+School:  Divination
+Domain:  Knowledge
+
+True-sight will allow a player to detect misted vampires. It is similar to
+detect-invisiblility, other then it doesn't detect invisiblity, it detects mist.
+With true-sight, a player can attack a vampire with spells, turning, and any
+other types of attacks which are non-physical. Players still see vampires as
+traveling as mists, and the vampire can still sneak. However, they are no longer
+invincible when players have this spell cast.
+
+Syntax:
+cast true-sight <target>

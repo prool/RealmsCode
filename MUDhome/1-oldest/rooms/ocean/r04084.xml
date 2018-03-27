@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="4084" Version="2.40" Area="ocean">
+  <Name>Western Swamplands</Name>
+  <ShortDescription>You are in the western dinosaur swamplands.</ShortDescription>
+  <LongDescription>The smell of rotting flesh mixed with the malodor of the bubbling tar pits
+lingers in the damp air.  There are large-clawed tracks imprinted into the
+soft, muddy ground that forms an island in this swamp you have been wading
+in.  Volcanic ash mixes with the fog, and there are low rumbling sounds in 
+the distance coming from active cinder cones.</LongDescription>
+  
+  <Established>772838003</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">661</Mob>
+      <Mob Area="ocean" Num="1">661</Mob>
+      <Mob Area="ocean" Num="2">661</Mob>
+      <Mob Area="ocean" Num="3">662</Mob>
+      <Mob Area="ocean" Num="4">662</Mob>
+      <Mob Area="ocean" Num="5">662</Mob>
+      <Mob Area="ocean" Num="6">662</Mob>
+      <Mob Area="ocean" Num="7">663</Mob>
+      <Mob Area="ocean" Num="8">663</Mob>
+      <Mob Area="ocean" Num="9">663</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4081</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4080</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4083</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

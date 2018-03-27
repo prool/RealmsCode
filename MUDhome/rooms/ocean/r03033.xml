@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3033" Version="2.40" Area="ocean">
+  <Name>Underground Passage</Name>
+  <ShortDescription>You are in a long underground passage, part of a labrynth of passages.</ShortDescription>
+  <LongDescription>Except for the torches and lanterns you might be carrying there is no
+source of light in this part of the passage.  Your footsteps echo from
+the cold stone floor, and a trickle of water runs down the center of the
+passsageway.  Further north you can hear mechanical noises and garbled
+shouts in what sounds like a foreign tongue.</LongDescription>
+  
+  <Established>761482444</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3031</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3034</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3039</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="750" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive/Neilian Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Neilian Drive and Wakeforest Drive.</ShortDescription>
+  <LongDescription>Wakeforest Drive continues to the north and south through the intersection
+with Neilian Drive, which runs east and west.  On the northeast corner of
+the intersection, you can see the magnificent Dragon's Citadel, an odd
+building constructed many centuries ago, now believed to be abandoned.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">749</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">751</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1354</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1353</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

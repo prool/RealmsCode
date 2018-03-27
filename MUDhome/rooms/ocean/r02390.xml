@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2390" Version="2.40a" Area="ocean">
+  <Name>Dark Corridor</Name>
+  <ShortDescription>You are walking along a dark and dank corridor heading east and west.</ShortDescription>
+  <LongDescription>The musty corridor smells of rotting flesh and bones, getting much
+stronger to the east.  There is a bright light source to the east which
+is odd to see in the perpetual darkness you're used to.  The hallway
+heads into the darkness to the west.</LongDescription>
+  
+  
+  
+  <Established>727839446</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2389</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2391</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

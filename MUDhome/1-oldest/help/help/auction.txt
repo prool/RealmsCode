@@ -1,0 +1,28 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  auction         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+With the auction command, players can auction off items in their inventory
+for the rest of the mud to buy. Just list the item to be auctioned and how
+much it goes for. Note there is a minimum price of 500gp, and you must be
+visisble to auction. You must be atleast level 7 to auction. If you are
+under detect-magic, then magic properties will be broadcast to the mud as
+well.
+
+Syntax:
+   auction (item)[which|#num] $(amount) [each|total]
+   auction self $(amount)
+
+Examples:
+: i
+You have: two hazy potions.
+: auc haz $4000
+*** Bob is auctioning a hazy potion for 4000gp.
+: auc haz 2 $4000
+*** Bob is auctioning a hazy potion for 4000gp.
+: auc haz #5 $4000
+*** Bob is auctioning five hazy potions for 4000gp total.
+: auc haz #5 $4000 each
+*** Bob is auctioning five hazy potions for 4000gp each.
+:
+

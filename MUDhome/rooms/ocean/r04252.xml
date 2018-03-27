@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="4252" Version="2.40" Area="ocean">
+  <Name>Griffon's Heart Pub</Name>
+  <ShortDescription>You are in a low-ceilinged and poorly lighted pub which is rather cavernous.</ShortDescription>
+  <LongDescription>This place is the favorite drinking spot for the lower level members of the
+castle's fighting men and the female chamber maids who clean the castle's
+rooms.  The low ceiling and dim light makes it hard to see very far, and the
+room apparently stretches into darkness in a number of directions.  You hear
+a lot of laughter from the dark corners.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">15</Mob>
+      <Mob Area="ocean" Num="1">28</Mob>
+      <Mob Area="ocean" Num="2">64</Mob>
+      <Mob Area="ocean" Num="3">61</Mob>
+      <Mob Area="ocean" Num="4">64</Mob>
+      <Mob Area="ocean" Num="5">5</Mob>
+      <Mob Area="ocean" Num="6">174</Mob>
+      <Mob Area="ocean" Num="7">772</Mob>
+      <Mob Area="ocean" Num="8">772</Mob>
+      <Mob Area="ocean" Num="9">778</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4213</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

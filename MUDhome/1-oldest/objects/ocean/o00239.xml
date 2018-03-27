@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="239" Area="ocean" Version="2.40">
+  <Name>jacinith button</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>4</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">orange</Key>
+    <Key Num="1">yellow</Key>
+    <Key Num="2">button</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="18"/>
+  </Flags>
+  <Description>You see a bright orangish-yellow button made from a large jacinith stone.</Description>
+  <UseOutput>043214321</UseOutput>
+  <Type>14</Type>
+  <InBag/>
+</Object>

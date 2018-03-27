@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1135" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are on Overland Drive betwen Marina Way and Main Street.</ShortDescription>
+  <LongDescription>This narrow city street contains a long line of small shops and stores where
+you can find a number of exotic items.  To the west is Main Street, where
+most of the entrances to the shops are located.  East is Marina Way, which 
+which brings you towards the rear of the stores.  Oceanview Drive continues 
+to the east and west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1117</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1009</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

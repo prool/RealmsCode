@@ -1,0 +1,19 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  guilds        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+For help on guild commands, type "help guild".
+For help on guild halls, type "help guildhalls".
+
+Guilded Combat
+
+Guilded players killing other guilded players works similar to clans. Players
+may attack each other, regardless of whether they are lawful or not or whether
+they are in the same guild or not. Guilded players will gain or lose experience
+during combat, depending on who was killed and who did the killing.
+Additionally, if the two players are of different guilds, all the money the
+defeated player was carrying will be transfered to the bank account of the
+victorious guild.
+
+A guild's current PK rating is show in "guild list".
+

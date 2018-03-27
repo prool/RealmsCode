@@ -1,0 +1,7 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  transmutation      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Transmutation spells change the shape or properties of the target of the
+spell. This could be as extreme as changing the target's form or merely
+changing a property of the target.

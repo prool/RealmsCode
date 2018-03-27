@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3764" Version="2.40" Area="ocean">
+  <Name>Acoma's Sarcophagus</Name>
+  <ShortDescription>You stand before the stately tomb of Acoma, a true hero of Ocenacrest.</ShortDescription>
+  <LongDescription>The body of Acoma lies in state, shielded by a magical transparent cover.
+The heavy sarcophagus, made of adamantine and mithrill, stands on a grassy
+mound and the body of Acoma can be seen through the magical shield.  There
+is not a mark on the body, and it appears to be vibrant and alive, smiling
+softly with eyes closed and hands folded across the chest.  Acoma clutches
+a golden scroll.</LongDescription>
+  
+  <Established>765999398</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">352</Mob>
+      <Mob Area="ocean" Num="1">353</Mob>
+      <Mob Area="ocean" Num="2">352</Mob>
+      <Mob Area="ocean" Num="3">353</Mob>
+      <Mob Area="ocean" Num="4">352</Mob>
+      <Mob Area="ocean" Num="5">353</Mob>
+      <Mob Area="ocean" Num="6">352</Mob>
+      <Mob Area="ocean" Num="7">353</Mob>
+      <Mob Area="ocean" Num="8">352</Mob>
+      <Mob Area="ocean" Num="9">353</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3337</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

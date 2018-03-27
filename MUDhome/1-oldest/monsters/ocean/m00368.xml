@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<Creature Num="368" Area="ocean" Version="2.40">
+  <Name>sahuagin warrior</Name>
+  <Level>10</Level>
+  <Type>1</Type>
+  <Experience>400</Experience>
+  <Coins/>
+  <Alignment>-50</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>125</Current>
+      <Max>125</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see one of the dreaded "claws of the deep" stalking you.</Description>
+  <Keys>
+    <Key Num="0">warrior</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>150</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>3</Number>
+    <Sides>2</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <NumWander>3</NumWander>
+  <DefenseSkill>95</DefenseSkill>
+  <AttackPower>180</AttackPower>
+  <WeaponSkill>95</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">440</Carry>
+    <Carry Area="ocean" Num="1">440</Carry>
+    <Carry Area="ocean" Num="2">440</Carry>
+    <Carry Area="ocean" Num="3">440</Carry>
+    <Carry Area="ocean" Num="4">440</Carry>
+    <Carry Area="ocean" Num="5">441</Carry>
+    <Carry Area="ocean" Num="6">441</Carry>
+    <Carry Area="ocean" Num="7">441</Carry>
+    <Carry Area="ocean" Num="8">440</Carry>
+    <Carry Area="ocean" Num="9">440</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects>
+    <Effect>
+      <Name>detect-invisible</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+  </Effects>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

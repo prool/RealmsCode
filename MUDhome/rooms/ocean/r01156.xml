@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1156" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are walking along Eidenhoft Boulevard, just south of Khelleva Circle.</ShortDescription>
+  <LongDescription>The large plaza circle you see to the north is called Khelleva Circle
+because it connects three major roads which run east directly into
+the Khelleva Estate.  The large traffic circle was in fact built by
+the Khelleva Family just as a show of wealth and commitment to the
+city that they live in.  The Oceancrest Central Arena is located to the
+west, where you can hear loud cries of both victory and agony.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1157</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1155</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

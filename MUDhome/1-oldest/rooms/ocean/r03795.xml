@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3795" Version="2.40" Area="ocean">
+  <Name>Beach Path</Name>
+  <ShortDescription>You are on a path leading from the top of the cliffs to the southern beach.</ShortDescription>
+  <LongDescription>The path climbs the southern face of some very old and weather worn cliffs
+overlooking the Nylandian Bay.  The top of the cliffs is perhaps another ten
+meters up, and the beach is spread out below.  There's a good view of most
+of the bay from here.  Down at water level there is a cold fog creeping in
+over the sand dunes, but you can see a road going to the east.</LongDescription>
+  
+  <Established>765958105</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3794</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3796</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="cave">
+      <Keys/>
+      <Room Area="ocean">3797</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

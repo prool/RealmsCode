@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="525" Version="2.40" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are walking along Lelion Way, just east of the Lelion Beach and Park.</ShortDescription>
+  <LongDescription>The Lelion Beach and Park is a small beach in the Nylandian Bay forming
+half of the Lithium Inlet.  At the beach, you can watch the various cargo
+ships entering and leaving the city, bringing with them a wealth of
+investments, both material and spiritual.  Oceancrest's carnival and fair
+usually sets up tents on the lot to the west.  Late spring is carnival time.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">526</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3786</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3790</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3800</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="559" Version="2.40" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are walking along Oceancrest Avenue, north of the Adrilite Museum.</ShortDescription>
+  <LongDescription>The large Adrilite Museum of Natural History gives the citizens of 
+Oceancrest a glimpse into the world outside of the City Walls, without
+actually having to leave the safety of the city.  The museum houses many
+exotic species, rarely seen in Oceancrest, including a few very dangerous
+and deadly ones.  On the north side of the street there is a shop almost
+hidden from view.  A faded sign says World of Magical Wonders.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">558</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">515</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3740</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

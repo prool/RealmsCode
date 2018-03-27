@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3023" Version="2.40" Area="ocean">
+  <Name>Goblin Underground Tunnel</Name>
+  <ShortDescription>You are traveling through a long shadowy tunnel in the southern
+part of the goblin underground shrine.</ShortDescription>
+  <LongDescription>Torches flicker along the tunnel's walls providing the only means 
+of light in the dark and dreary tunnel.  The air becomes increasingly 
+stale as you travel deeper into the goblin's domain. Closer examination 
+of the walls reveal the surface to be quite rough, and filled 
+with numerous small cracks and crevices. It appears this tunnel was 
+carved in haste by crude tools.  Then again goblins were never
+known for their architectural skill.  The tunnel continues north,
+deeper into the heart of the goblin shrine.</LongDescription>
+  
+  <Established>761304936</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>4</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">505</Mob>
+      <Mob Area="ocean" Num="1">505</Mob>
+      <Mob Area="ocean" Num="2">322</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3022</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3024</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

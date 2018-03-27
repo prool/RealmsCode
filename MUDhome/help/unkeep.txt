@@ -1,0 +1,16 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  unkeep         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This command allows you to remove safekeeping placed on objects by the keep
+command (HELP KEEP).
+
+Example:
+: i
+You have: a hoe(K).
+: unkeep hoe
+You no longer are keeping the hoe.
+: i
+You have: a hoe.
+:
+

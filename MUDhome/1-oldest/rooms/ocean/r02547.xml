@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2547" Version="2.40" Area="ocean">
+  <Name>Alturis Road</Name>
+  <ShortDescription>You are on Alturis Road, north of the entrance to the Cathedral of Veratus.</ShortDescription>
+  <LongDescription>A great many travelers from distant places stop here, because Veratus, the
+oracle who is inside, will answer at least one question from anyone.
+If the questioner asks interesting questions, the oracle will sometimes
+continue to answer them.  If you seek knowledge, this is a good place to
+start.  Be sure to cover your eyes inside.  The monks insist on that.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2542</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2546</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="entrance">
+      <Keys/>
+      <Room Area="ocean">2569</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

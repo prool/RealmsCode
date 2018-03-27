@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5332" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>To the west is the ancient Valdune Watch Tower on the north side of the road.</ShortDescription>
+  <LongDescription>Lyanden Road seems to run right past the tower, but you cannot see anyone
+on top of the tower nor around it.  It seems to set in a clearing you see 
+on the northwestern side.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5331</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5333</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

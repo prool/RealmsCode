@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<Creature Num="755" Area="ocean" Version="2.40">
+  <Name>barbarian warrior</Name>
+  <Class>2</Class>
+  <Level>9</Level>
+  <Type>1</Type>
+  <Experience>320</Experience>
+  <Coins>
+    <Coin Num="2">100</Coin>
+  </Coins>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>220</Current>
+      <Max>220</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>he is a huge speciman of a man, with bulging muscles and a suspicous look.</Description>
+  <Keys>
+    <Key Num="0">warrior</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>250</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>5</Number>
+    <Sides>3</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>trust only what you can see, and never put your faith in magic.</Talk>
+  <DefenseSkill>85</DefenseSkill>
+  <AttackPower>454</AttackPower>
+  <WeaponSkill>85</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">758</Carry>
+    <Carry Area="ocean" Num="1">758</Carry>
+    <Carry Area="ocean" Num="2">758</Carry>
+    <Carry Area="ocean" Num="3">326</Carry>
+    <Carry Area="ocean" Num="4">327</Carry>
+    <Carry Area="ocean" Num="5">328</Carry>
+    <Carry Area="ocean" Num="6">329</Carry>
+    <Carry Area="ocean" Num="7">330</Carry>
+    <Carry Area="ocean" Num="8">757</Carry>
+    <Carry Area="ocean" Num="9">757</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1747" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are walking along Wakeforest Drive, east of the Obidian Housing Complex.</ShortDescription>
+  <LongDescription>The Obidian Community Housing Complex houses most of the citizens of 
+Oceancrest in relatively spacious accomodations for a relatively inexpensive
+cost.  One of the two major housing complexes in Oceancrest, nearly one
+third of the entire population lives in these complexes, which are capable 
+of housing over ten thousand people.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1746</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1748</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

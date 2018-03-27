@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Object Num="491" Area="ocean" Version="2.40">
+  <Name>fresh sign</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">sign</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Type>14</Type>
+  <InBag/>
+</Object>

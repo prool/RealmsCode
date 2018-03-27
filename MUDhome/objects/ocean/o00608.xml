@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="608" Area="ocean" Version="2.40">
+  <Name>someone</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">poet</Key>
+    <Key Num="1">dead</Key>
+    <Key Num="2">spirit</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="1"/>
+    <Bit Num="16"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Description>You can't see where the voice is coming from, it surrounds you.</Description>
+  <Type>14</Type>
+  <InBag/>
+</Object>

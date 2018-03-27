@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3767" Version="2.40" Area="ocean">
+  <Name>Mortuary Cellar Stairs</Name>
+  <ShortDescription>You are on the stairs leading to the cellar of the mortuary.</ShortDescription>
+  <LongDescription>The stairs lead between the main floor of the mortuary and the cold
+storage room below.  When the dead are brought here, they often spend
+a day or more down below while the next of kin are notified.  The Davis
+Brother Mortuary is one of the busiest places of business in all of
+Oceancrest.  Seems like people die constantly.  If you wait just a 
+moment, you may become aware of another death as you stand here.</LongDescription>
+  
+  <Established>768891878</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3768</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1899</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

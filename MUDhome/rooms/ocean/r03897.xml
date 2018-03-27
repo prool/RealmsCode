@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3897" Version="2.40" Area="ocean">
+  <Name>Sacred Holding Room</Name>
+  <ShortDescription>You are behind the altar, with one apparent exit.  Looks like a holding room.</ShortDescription>
+  <LongDescription>There is an opening overhead which probably goes to the priest's private 
+chambers.  There are hissing noises up there, and rumbling can be heard in 
+the background.  There is something strange going on in this room, and you 
+can feel your energy draining away as you stay here.</LongDescription>
+  <Trap>1</Trap>
+  <TrapExit Area="ocean">3881</TrapExit>
+  
+  <Established>773738067</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="17"/>
+    <Bit Num="24"/>
+    <Bit Num="26"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>passage</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">3090</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="chamber">
+      <Keys/>
+      <Room Area="ocean">3896</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

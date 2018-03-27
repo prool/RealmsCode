@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3651" Version="2.40" Area="ocean">
+  <Name>Armory Vault</Name>
+  <ShortDescription>You are in Prince Ragnar's armory vault where the latest weapons are stored.</ShortDescription>
+  <LongDescription>Only the most highly prized of Prince Ragnar's secret weapons and armor
+are stored here in the vault.  The hair on your body stands out in all
+directions as you feel the charge of the magic in this room.  As you look
+about, you see most of the weapons are locked in place, but a few can be
+taken immediately.  There is a crystal table in the middle of the room
+with a weapon on it.</LongDescription>
+  
+  <Established>764878636</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3650</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

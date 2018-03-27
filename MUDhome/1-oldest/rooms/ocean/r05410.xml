@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="5410" Version="2.40" Area="ocean">
+  <Name>Ashton River Road</Name>
+  <ShortDescription>You are on Ashton River Road, just east of the Foothills Trail.</ShortDescription>
+  <LongDescription>The road is rather steep to the east, but has a downward slope going to the
+west.  The Ashton River looks like it calms down further west, but is pretty
+wild coming from the foothills.  It looks like fishermen have made a nice
+little camp under the trees by the river bank.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5409</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5419</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="camp">
+      <Keys/>
+      <Room Area="ocean">5418</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

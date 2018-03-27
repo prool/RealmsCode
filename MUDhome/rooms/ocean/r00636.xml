@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="636" Version="2.40a" Area="ocean">
+  <Name>Necropolis Avenue</Name>
+  <ShortDescription>You are walking along Necropolis Avenue, west of Danielle's Mage Emporium.</ShortDescription>
+  <LongDescription>There is a large complex on the west side of the road that appears to be
+fairly popular.  You can hear a lot of cheering and otherwise drunken 
+laughter coming from the other side of the building.  The complex has an
+entrance on the south side of the building off of Hillborough Way.  On
+the east is Danielle's Mystic Mage Emporium, almost every known potion may
+be purchased.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">635</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">637</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">348</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

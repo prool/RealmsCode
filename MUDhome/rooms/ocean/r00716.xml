@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="716" Version="2.40a" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are traveling along Oceancrest Avenue, north of the elven shrine.</ShortDescription>
+  <LongDescription>The massive elven shrine to the south is the Holy Order of Corellon 
+Larethian, the elven god of all that is and will be.  There are many 
+races of elves scattered throughout the land, but almost all of them
+worship Corellon Larethian, with the exception of the drow (dark)
+elves.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">586</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">717</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

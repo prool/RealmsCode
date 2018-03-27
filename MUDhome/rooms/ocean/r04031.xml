@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="4031" Version="2.41a" Area="ocean">
+  <Name>Southern Crystalline City</Name>
+  <ShortDescription>You are in the southern section of the magnificient cyrstalline city.
+This area looks brand new, and you can see that construction continues to
+take place all around you.  Workers are busy using special chisels to split
+the crystals and diamonds to form structures, and others are gathering the
+shards to haul away.  In the distance, you can see completed buildings.</ShortDescription>
+  
+  
+  
+  <Established>771972513</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4030</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4032</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

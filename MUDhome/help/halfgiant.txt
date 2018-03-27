@@ -1,0 +1,22 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  Half Giant      |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Adjustments: +2 Strength, -1 Intelligence, -1 Piety
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Paladin, Ranger, Rogue, Thief, Vampire,
+	Werewolf
+
+Half giants are a strange race, a magical cross between humans and hill giants.
+Standing often nine or ten feet tall, half giants have very brute strength. Half
+giants often live as barbarian gladiators and body guards, and usually learn to
+fight at a very young age. There are many special armors and weapons which are
+only usable by half giants, as any other being is too small of stature or weak
+to wear or wield them. Half giants tend to be a little more dull witted in
+general, and they are not very pious, owing mostly to their giantkin roots.
+Some half giants become very good assassins, but this is rare due to their
+large size.
+
+See in dark (infravision): No
+Size class: Large
+

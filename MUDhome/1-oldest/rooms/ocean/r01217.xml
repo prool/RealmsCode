@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1217" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are wandering down Nagaritha Drive, north of the Klondike Wheat Fields.</ShortDescription>
+  <LongDescription>The large wheat fields cover many acres of land on the southern side of
+Nagaritha Drive.  The large plantation harvests more than enough wheat 
+and grain to provide for the entire city, and exports the rest to make
+some much needed capital for the farmers.  The Klondike Wheat Field is
+always in need of unskilled labor to help with the harvesting and reduce
+the number of pests infiltrating the wheat.  The entrance to the fields
+is located off of Lankshire Parkway.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1218</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1216</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

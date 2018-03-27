@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1350" Version="2.40" Area="ocean">
+  <Name>Neilian Drive</Name>
+  <ShortDescription>You are walking down Neilian Drive, south of the Dragon's Citadel.</ShortDescription>
+  <LongDescription>The powerful Dragon's Citadel is one of the few landmarks that have existed
+before the City of Oceancrest was actually built.  On the south side of
+the road is the Temple of Harmonic Discord, an odd sort of group of people
+who try to solve problems without wars or other means of violence.  This
+is, of course, impossible.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">730</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1351</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

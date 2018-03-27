@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3627" Version="2.40" Area="ocean">
+  <Name>Center of Main Courtyard</Name>
+  <ShortDescription>You are at the base of the monument to King Lyanden and Prince Ragnar.</ShortDescription>
+  <LongDescription>The bronze statues above you depict the battle where King Lyanden was
+felled in his defense of the city of Oceancrest.  It shows Prince Ragnar
+kneeling with the head of his father cradeled in his hands, as the king
+lies mortally wounded.  You see that the king is handing Ragnar his
+Sceptre of Power as he is dying, symbolizing the passing of power from
+the old king to the new one.  Surrounding the figures are several clerics
+and mages, each pledging their loyalty to the Prince.</LongDescription>
+  
+  <Established>762645854</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3626</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3620</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3634</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3628</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="480" Version="2.40" Area="ocean">
+  <Name>Islandia Drive</Name>
+  <ShortDescription>You are on Islandia Drive, walking on the south side of the Cathedral.</ShortDescription>
+  <LongDescription>Various things might be said about the Cathedral of Worldly Bliss, but 
+most of it isn't all that great.  This is primarily because the people 
+don't fully understand the power of these great clerics and their purpose
+in Oceancrest.  Without the Cathedral, it is likely the city would plunge
+into the first level of hell, if not deeper.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">479</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">481</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1106" Version="2.40" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are on Waterfront Way, running through the central shopping district.</ShortDescription>
+  <LongDescription>Waterfront Way runs through the southwestern shopping district, which is
+one of the larger areas dedicated to commerce.  Most of the items for 
+sale here are very rare and expensive, compared to other places in 
+Oceancrest.  To the north are two large buildings which run parallel
+to Oceanview Drive and Main Street respectively.  The one directly
+north of here appears to be a hunting supplies store.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>6</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">5</Mob>
+      <Mob Area="ocean" Num="1">1</Mob>
+      <Mob Area="ocean" Num="2">2</Mob>
+      <Mob Area="ocean" Num="3">6</Mob>
+      <Mob Area="ocean" Num="4">6</Mob>
+      <Mob Area="ocean" Num="5">5</Mob>
+      <Mob Area="ocean" Num="6">4</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">266</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1107</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1048</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

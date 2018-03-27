@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="599" Area="ocean" Version="2.40">
+  <Name>warm fuzzy</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">warm</Key>
+    <Key Num="1">fuzzy</Key>
+    <Key Num="2"> </Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a small ball of soft warm fur, ideal for holding and hugging.</Description>
+  <UseOutput>A warm feeling happiness fills you.</UseOutput>
+  <Weight>1</Weight>
+  <Type>14</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

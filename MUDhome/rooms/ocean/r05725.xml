@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="5725" Version="2.40" Area="ocean">
+  <Name>Advancement Room in Jerome's School for Fighters</Name>
+  <ShortDescription>Congratulations!  You are entitled to advance to the next level for fighters.</ShortDescription>
+  <LongDescription>When you leave here, you can tell anyone who asks that you were, "trained
+by Jerome."  In honor of your advancement, the school wishs to give you a 
+gift.  The business card you see here can be exchanged for one of the new
+vanadium forged shields, made by Kolar the blacksmith.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5720</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

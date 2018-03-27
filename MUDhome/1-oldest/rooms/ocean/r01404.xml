@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="1404" Version="2.40" Area="ocean">
+  <Name>Recreation Room</Name>
+  <ShortDescription>You are in the large northern Recreation Room.</ShortDescription>
+  <LongDescription>A number of mages have gathered around to play with their newly acquired
+magic.  The palace of Keslar has long been the training grounds of a
+number of great and powerful mages.  Watch out...if you're not careful,
+you're likely to be the target of this magic.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">173</Mob>
+      <Mob Area="ocean" Num="1">166</Mob>
+      <Mob Area="ocean" Num="2">174</Mob>
+      <Mob Area="ocean" Num="3">168</Mob>
+      <Mob Area="ocean" Num="4">173</Mob>
+      <Mob Area="ocean" Num="5">167</Mob>
+      <Mob Area="ocean" Num="6">166</Mob>
+      <Mob Area="ocean" Num="7">166</Mob>
+      <Mob Area="ocean" Num="8">167</Mob>
+      <Mob Area="ocean" Num="9">174</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1403</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1405</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1462</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

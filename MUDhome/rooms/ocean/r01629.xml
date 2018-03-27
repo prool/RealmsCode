@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1629" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are walking along Hillcrest Drive, south of the Circle-Bar Ranch.</ShortDescription>
+  <LongDescription>The Circle-Bar Ranch is a large cattle ranch where cows are raised and
+then slaughtered for their meat.  Being a very precious commodity, the
+cows are guarded very carefully by the cattle ranchers and dangerous
+ranch dogs.  The intersection with Overland Drive lies to the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1607</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1628</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

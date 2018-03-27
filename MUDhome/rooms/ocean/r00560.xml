@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="560" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are on Eidenhoft Boulevard, just to the south of the intersection
+with Lelion Way to the north and east of the Lithium Bay Tours office.</ShortDescription>
+  <LongDescription>The Lithium Bay Tours office provides guided tours of the Lithium Inlet
+and the various rivers which run into the bay, including some detailed
+schematics of the Lyanden Lake.  On the east side of the road is the 
+Fairy Dust Inn, where a number of sailors and other sea-going people often
+spend the night.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">530</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">561</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

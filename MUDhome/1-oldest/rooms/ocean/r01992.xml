@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1992" Version="2.40" Area="ocean">
+  <Name>Werewolves' Den</Name>
+  <ShortDescription>You are in a large cave-like structure that smells of wet fur.</ShortDescription>
+  <LongDescription>You have wandered into the deadly realm of the dreaded werewolves.  Some are
+a little tougher than others, but they will all try to convert you to their
+way of thinking with a poisonous bite.  The path leads deeper into the cave
+if you go west, but back out to the manor entrance if you go east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">251</Mob>
+      <Mob Area="ocean" Num="1">251</Mob>
+      <Mob Area="ocean" Num="2">251</Mob>
+      <Mob Area="ocean" Num="3">251</Mob>
+      <Mob Area="ocean" Num="4">251</Mob>
+      <Mob Area="ocean" Num="5">251</Mob>
+      <Mob Area="ocean" Num="6">252</Mob>
+      <Mob Area="ocean" Num="7">252</Mob>
+      <Mob Area="ocean" Num="8">252</Mob>
+      <Mob Area="ocean" Num="9">252</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1991</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1993</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

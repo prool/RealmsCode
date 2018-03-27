@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<Creature Num="576" Area="ocean" Version="2.40">
+  <Name>dragon puppet</Name>
+  <Level>4</Level>
+  <Type>1</Type>
+  <Experience>65</Experience>
+  <Coins>
+    <Coin Num="2">10</Coin>
+  </Coins>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>40</Current>
+      <Max>40</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>10</Current>
+      <Max>10</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>The small puppet is very realistic looking, and breathes a small flame!</Description>
+  <Keys>
+    <Key Num="0">puppet</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>125</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>2</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <DefenseSkill>35</DefenseSkill>
+  <AttackPower>130</AttackPower>
+  <WeaponSkill>35</WeaponSkill>
+  <CarriedItems/>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="27"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="17"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

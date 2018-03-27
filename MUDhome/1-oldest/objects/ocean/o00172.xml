@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="172" Area="ocean" Version="2.40">
+  <Name>bandaged scroll</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">scroll</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Weight>1</Weight>
+  <Type>8</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>19</MagicPower>
+  <InBag/>
+</Object>

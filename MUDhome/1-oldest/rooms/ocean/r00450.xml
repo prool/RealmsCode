@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="450" Version="2.40" Area="ocean">
+  <Name>Adlermann Way</Name>
+  <ShortDescription>You are on Adlermann Way, just west of the entrance to the Aquarium.</ShortDescription>
+  <LongDescription>The large facility provides its guests with a first-hand look at all the
+wonderous and mysterious creatures of the deep.  The Bendine Aquarium 
+houses many fresh water fish and creatures, while the Marina houses many
+salt water creatures, including a few untamed ones.  The Aquarium entrance
+is to the east.  You can get to the Marina through the Aquarium.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>aquarium</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">449</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="aquarium">
+      <Keys/>
+      <Room Area="ocean">317</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

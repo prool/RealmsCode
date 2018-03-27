@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Object Num="614" Area="ocean" Version="2.40">
+  <Name>rusty greatsword</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>90</ShotsMax>
+  <ShotsCur>90</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>5</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">8000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">greatsword</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+    <Bit Num="33"/>
+    <Bit Num="35"/>
+  </Flags>
+  <Description>It looks a little rusty, but still looks like it could do serious damage.</Description>
+  <UseOutput>You wield the greatsword, wondering if it's still as great as it once was.</UseOutput>
+  <Weight>10</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <MagicPower>1</MagicPower>
+  <InBag/>
+</Object>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="5545" Version="2.40" Area="ocean">
+  <Name>Glabor Gulley Commoner's Area</Name>
+  <ShortDescription>You are on the bottom step of a crude ceremonial altar in Glabor Gulley.</ShortDescription>
+  <LongDescription>Farther east you can see a monstrous structure seemingly made from the bones
+and skulls of deceased adventurers who have come this way before.  About
+you is a stone altar and wide steps leading up to the top of the altar.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">671</Mob>
+      <Mob Area="ocean" Num="1">671</Mob>
+      <Mob Area="ocean" Num="2">671</Mob>
+      <Mob Area="ocean" Num="3">671</Mob>
+      <Mob Area="ocean" Num="4">67</Mob>
+      <Mob Area="ocean" Num="5">67</Mob>
+      <Mob Area="ocean" Num="6">671</Mob>
+      <Mob Area="ocean" Num="7">671</Mob>
+      <Mob Area="ocean" Num="8">671</Mob>
+      <Mob Area="ocean" Num="9">671</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5544</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5548</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="altar">
+      <Keys/>
+      <Room Area="ocean">5547</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

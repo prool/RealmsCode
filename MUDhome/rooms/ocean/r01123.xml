@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1123" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>You are walking along Marina Way, which runs north and south through town.</ShortDescription>
+  <LongDescription>There is a large building to the east which appears to encompass an
+entire city block.  There is a large, sparkling gem which appears to be
+hovering over the building.  When radiated with the sun's rays, it gives
+off a purplish hue which covers the entire building and some of the 
+street.  Marina Way continues to the north and south.  The Central Arena
+is to the south, past Rosecrest Street.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1124</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1122</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

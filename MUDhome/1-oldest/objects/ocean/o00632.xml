@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="632" Area="ocean" Version="2.40">
+  <Name>elven lamellar hood</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>40</ShotsMax>
+  <ShotsCur>40</ShotsCur>
+  <Armor>44</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">20000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">lamellar</Key>
+    <Key Num="1">hood</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="19"/>
+    <Bit Num="36"/>
+  </Flags>
+  <Description>The hood is made of blended elven leathers, and is enchanted for mage's use.</Description>
+  <Weight>1</Weight>
+  <Type>6</Type>
+  <WearFlag>7</WearFlag>
+  <InBag/>
+</Object>

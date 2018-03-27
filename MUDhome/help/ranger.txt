@@ -1,0 +1,27 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  Ranger        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Prime Requisites: Strength, Dexterity, Intelligence
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The ranger is the protector of the forest and guardian of nature. His goal is
+the destruction of all that seeks to harm nature, and to thwart all that is an
+affront to it. A ranger is an excellent scout, able to search ahead of his
+companions without being seen. He may also search the ground and find common
+routes of travel by finding tracks, making him an invaluable asset when trying
+to escape areas such as mazes. Rangers search better then most, making them the
+best explorers in all of Derlith. Last but not least, the ranger is an excellent
+fighter, being able to wield a weapon in each hand when he attacks. The most
+common enemy of a ranger is any undead, creatures of which he despises as a
+mockery to all that is natural. To this end, rangers of Derlith have been known
+to become some of the best vampire hunters that have ever lived. They are the
+only ones known to be able to detect the foul creatures at night. Rangers are
+known to hunt liches as well at times.
+
+See HELP RANGERS for some roleplaying notes.
+
+Abilities: Scout, Track, Second, Ambush, Mistbane
+

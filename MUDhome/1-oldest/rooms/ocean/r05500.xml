@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5500" Version="2.40" Area="ocean">
+  <Name>Rue Caledonia</Name>
+  <ShortDescription>You are on the north section of Rue Caledonia in the City of Hafnia.</ShortDescription>
+  <LongDescription>Directly south is the city's central park.  To the north is Hafnia Circle
+Road.  A grove of trees line the street, and small homes are built on the
+tree limbs.  There are shops below them.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">946</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">931</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

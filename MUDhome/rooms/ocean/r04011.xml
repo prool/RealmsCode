@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="4011" Version="2.40" Area="ocean">
+  <Name>Gracella's Herbal Shoppe</Name>
+  <ShortDescription>You are in the herbal shop operated by the eldest daughter of Granovetter.</ShortDescription>
+  <LongDescription>Gracella has a special rapport with the nymphs who live on the south side
+of the garden, and has often been blessed by the nymph queen herself.  She
+uses most of the profits from this shoppe for the betterment of the nymph
+community.  A sign says that love potions are discounted this month.</LongDescription>
+  
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4048</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

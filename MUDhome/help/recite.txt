@@ -1,0 +1,20 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  recite        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Recite works just like the say command (HELP SAY) in that the message you type
+will be displayed to other people in the room. However, recite also works to
+open doors that have locked with a pass phrase.
+
+Example:
+: look
+
+Dark Alley
+
+Obvious exits: east, west, door[cl].
+
+: recite Open sesame!
+You recite, "Open sesame!".
+The door opens!
+:
+

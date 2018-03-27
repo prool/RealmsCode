@@ -1,0 +1,13 @@
+CONSTITUTION:
+
+Constitution can be important depending on what you want. First off,
+constitution determines how many hit points you get at a time when you
+tick, or slowly regain your hit points and magic points. For example,
+with a lower constitution, you might get back 1 hit point at a time. A
+higher one, however, can allow you to get 8 back at a time. Another
+thing constitution does if it is high is give you a bonus to the number
+of hit points you get each time you reach a higher level. This can be most
+useful for fighters and berserkers. If you are a vampire, constitution
+helps determine how long your hypnosis lasts. If you are a lich,
+constitution determines how often you regain hit points.
+

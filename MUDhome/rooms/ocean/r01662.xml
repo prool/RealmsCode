@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1662" Version="2.40" Area="ocean">
+  <Name>Appleton Road</Name>
+  <ShortDescription>You are walking along Appleton Road between the ranch and slaughterhouse.</ShortDescription>
+  <LongDescription>The Circle-Bar Cattle Ranch is located to the east of the road where the
+cattle are born, fed and nurtured, and then shipped across Appleton Road
+to the Slaughterhouse where they are humanely destroyed and sold to the
+civilians as meat for their daily diets.  The large number of cattle that
+go through the Slaughterhouse daily leaves a nice river of blood running
+down Appleton Road.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1661</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1663</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

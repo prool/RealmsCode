@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<Creature Num="726" Area="ocean" Version="2.40">
+  <Name>knight</Name>
+  <Class>6</Class>
+  <Level>8</Level>
+  <Type>1</Type>
+  <Coins/>
+  <Alignment>100</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>105</Current>
+      <Max>105</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>30</Current>
+      <Max>30</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>He bears a standard with a picture of an eye looking from a peach tree.</Description>
+  <Keys/>
+  <MoveTypes/>
+  <Armor>225</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>the fruit of your victory is sweeter when it comes through rightfulness.</Talk>
+  <DefenseSkill>75</DefenseSkill>
+  <AttackPower>432</AttackPower>
+  <WeaponSkill>75</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">316</Carry>
+    <Carry Area="ocean" Num="1">321</Carry>
+    <Carry Area="ocean" Num="2">322</Carry>
+    <Carry Area="ocean" Num="3">323</Carry>
+    <Carry Area="ocean" Num="4">323</Carry>
+    <Carry Area="ocean" Num="5">324</Carry>
+    <Carry Area="ocean" Num="6">325</Carry>
+    <Carry Area="ocean" Num="7">325</Carry>
+    <Carry Area="ocean" Num="8">323</Carry>
+    <Carry Area="ocean" Num="9">321</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="40"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

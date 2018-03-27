@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2872" Version="2.40" Area="ocean">
+  <Name>Kaldeas' Mansion Hallway</Name>
+  <ShortDescription>You are in a hall that appears to stretch to infinity in both directions.</ShortDescription>
+  <LongDescription>Far, far to the north is the foyer, which is the main entrance to this place.
+Not only was Kaldeas interested in illusion, of which he was the leader in
+that particular field of magic, but he was also a dabbler in mythology.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>foyer</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="foyer">
+      <Keys/>
+      <Room Area="ocean">2871</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1969</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

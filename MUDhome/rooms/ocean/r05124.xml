@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="5124" Version="2.40" Area="ocean">
+  <Name>Castle Kayleigh Stairwell</Name>
+  <ShortDescription>You are on a spiral stone stairwell in the old Tower of Kayleigh.</ShortDescription>
+  <LongDescription>The witch of Kayleigh and her brother terrorized the countryside around
+the city of Kista until the powerful Archmage Tellia Aphrotine found them
+here one night.  A five day battle ensued, and the castle was burned.
+Aphrotine was able to remove the power of flight from both the witch and 
+her brother, and they have been imprisoned here ever since.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5123</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5125</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="657" Version="2.40a" Area="ocean">
+  <Name>Amberton Lane</Name>
+  <ShortDescription>You are walking along Amberton Lane, west of the world famous elven shrine.</ShortDescription>
+  <LongDescription>The Holy Order of Corellon Larethian is located on the east side of the
+road.  The powerful diety is the head of the entire religious pantheon
+for the elves of the land.  Although there are many different and distinct
+races of elves, almost all of them worship Larethian.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">656</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">658</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3900</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

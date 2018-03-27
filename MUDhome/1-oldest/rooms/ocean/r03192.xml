@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3192" Version="2.40" Area="ocean">
+  <Name>Pirate Bay Entrance</Name>
+  <ShortDescription>You are in the waters at the entrance to a well secluded bay.</ShortDescription>
+  <LongDescription>The high cliff walls surrounding the pirate bay provide excellent
+protection for ships which drop anchor here.  In past years, the private
+nature of the bay made it an ideal hiding place for ships wishing to
+avoid certain legal restrictions on trade.  It is rumored that this 
+bay was often used by the most feared of all pirates, Captain Morgan.
+This is the very bay where the Oceancrest Navy found Morgan one fateful
+and fatal night.  There was a bloody battle, with no room to manuever 
+for the pirates, and the Navy was able to sink Morgan's ship here.</LongDescription>
+  
+  <Established>756209907</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3190</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3194</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

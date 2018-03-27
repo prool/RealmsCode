@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1772" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking on Netherworld Lane, through the Iilandi University campus.</ShortDescription>
+  <LongDescription>On the north side of the road is the Iilandi University's Chancellor's 
+Hall, where a majority of the classes are held.  The Hall is very large,
+and supports nearly ten thousand people simultaneously in just over one
+hundred separate lecture halls and classrooms.  On the south side of the
+road, you can see the various research facilities such as the Oceancrest
+Technological Research Facility and Tholian Hall.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1771</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1773</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

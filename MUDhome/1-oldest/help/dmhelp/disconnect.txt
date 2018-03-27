@@ -1,0 +1,8 @@
+Help on DM command:
+	DISCONNECT
+
+Disconnects a player from the mud.
+
+: *dis min
+### Min just logged off. (50)
+

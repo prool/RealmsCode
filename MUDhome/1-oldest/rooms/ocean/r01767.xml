@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1767" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are travelling along Netherworld Lane, between the Inn and Stables.</ShortDescription>
+  <LongDescription>The Crimson Dragon Traveller's Lodge is located on the north side of
+the road, conviniently near the eastern entrance to the city.  On the
+south side of the road are the Highland Stables, where travellers are
+urged to leave their horses while in town.  Head to the east, you can
+see Netherworld Lane coming to an end when it intersects Highland Avenue.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1750</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1768</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

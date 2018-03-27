@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<Creature Num="118" Area="ocean" Version="2.40">
+  <Name>bear</Name>
+  <Class>1</Class>
+  <Level>3</Level>
+  <Type>1</Type>
+  <Experience>28</Experience>
+  <Coins/>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>60</Current>
+      <Max>60</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>60</Current>
+      <Max>60</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>25</Current>
+      <Max>25</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>The brown bear is large and hungry.  He eyes you as perhaps his next meal.</Description>
+  <Keys/>
+  <MoveTypes/>
+  <Armor>100</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>1</Number>
+    <Sides>1</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>Grrrrrowl</Talk>
+  <DefenseSkill>25</DefenseSkill>
+  <AttackPower>312</AttackPower>
+  <WeaponSkill>25</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">161</Carry>
+    <Carry Area="ocean" Num="1">161</Carry>
+    <Carry Area="ocean" Num="2">161</Carry>
+    <Carry Area="ocean" Num="3">161</Carry>
+    <Carry Area="ocean" Num="4">163</Carry>
+    <Carry Area="ocean" Num="5">161</Carry>
+    <Carry Area="ocean" Num="6">161</Carry>
+    <Carry Area="ocean" Num="7">163</Carry>
+    <Carry Area="ocean" Num="8">161</Carry>
+    <Carry Area="ocean" Num="9">161</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="2255" Version="2.47e" Area="ocean">
+  <Name>Back Alley</Name>
+  <ShortDescription>You are in a small, cramped alley behind the Trash Recycling Plant.</ShortDescription>
+  <LongDescription>This small access alley provides access to the back doors of most of
+the small shops on the other side of the road.  More importantly, though,
+it allows the recycled garbage to be taken to the Central Recycling Plant
+near the center of town.  The alley smells of urine and alcohol.  As you
+walk along, you stumble over a number of passed-out drunks.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>south</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1787</Room></Target><Effects></Effects></Exit><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">2256</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

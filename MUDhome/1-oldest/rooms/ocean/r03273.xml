@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3273" Version="2.40" Area="ocean">
+  <Name>Top of the Stairs</Name>
+  
+  <Established>756376301</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3272</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3274</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3275</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1915" Version="2.40" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are on Oceancrest Avenue near an entrance to the Ashton Falls Resort.</ShortDescription>
+  <LongDescription>A large wall on the north side of the road surrounds the famous resort,
+but a very ornate gate is set into a portico and a guard station stands
+just inside.  There is a broad walkway to the south, leading to a shopping
+center with small shops and restaurants.  An exclusive night spot is near
+the entrance to the midway.</LongDescription>
+  
+  <Established>758792242</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1916</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1914</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

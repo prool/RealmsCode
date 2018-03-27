@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3813" Version="2.40" Area="ocean">
+  <Name>Back Lot</Name>
+  <ShortDescription>This is the back lot where the carnival's performers and animals stay.</ShortDescription>
+  <LongDescription>From here you might go visit the carnival's cook wagon which is parked to
+the south.  The carny workers say the food is actually quite good.  The
+animal wagon is to the west, and you hear roars and strange sounds coming
+from that direction.  There are some really strange animals over there.
+If you go northwest you will be in the carnival's backstage area where 
+the performer's gather between acts.</LongDescription>
+  
+  <Established>765770150</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>gate</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3817</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3815</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3814</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">3805</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

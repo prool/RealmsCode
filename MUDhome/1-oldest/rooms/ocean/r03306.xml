@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3306" Version="2.40" Area="ocean">
+  <Name>Through the Mist</Name>
+  <ShortDescription>As you enter the room, you are enveloped in a strange glowing mist.</ShortDescription>
+  <LongDescription>The mist around you has become quite thick, and it glows with bright
+color.  You look more carefully and notice that the color is formed
+by light playing around the transparent edges of an amorphous shape
+which slowly shifts shape around you.</LongDescription>
+  
+  <Established>758611076</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7500</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">449</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3303</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3309</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3305</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3307</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

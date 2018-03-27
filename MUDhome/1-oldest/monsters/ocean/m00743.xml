@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<Creature Num="743" Area="ocean" Version="2.40">
+  <Name>guardian monk</Name>
+  <Class>4</Class>
+  <Level>6</Level>
+  <Type>1</Type>
+  <Coins/>
+  <Alignment>25</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>70</Current>
+      <Max>70</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>30</Current>
+      <Max>30</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a well muscled young monk wielding a cleric's mace.</Description>
+  <Keys>
+    <Key Num="0">monk</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>175</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>join our order if you wish to speak to the oracle!  Else leave us alone.</Talk>
+  <DefenseSkill>55</DefenseSkill>
+  <AttackPower>356</AttackPower>
+  <WeaponSkill>55</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">747</Carry>
+    <Carry Area="ocean" Num="1">747</Carry>
+    <Carry Area="ocean" Num="2">747</Carry>
+    <Carry Area="ocean" Num="3">747</Carry>
+    <Carry Area="ocean" Num="4">747</Carry>
+    <Carry Area="ocean" Num="5">747</Carry>
+    <Carry Area="ocean" Num="6">747</Carry>
+    <Carry Area="ocean" Num="7">747</Carry>
+    <Carry Area="ocean" Num="8">747</Carry>
+    <Carry Area="ocean" Num="9">747</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="18"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="6"/>
+    <Bit Num="7"/>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+    <Bit Num="17"/>
+    <Bit Num="22"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

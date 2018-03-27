@@ -1,0 +1,32 @@
+Help on: *value
+         *coins
+
+This command allows creators and higher to set a generic copper
+value on a monster or object, and have the game convert it to
+the proper coins automatically. The highest amount of coin the
+monster carries can be specified for the conversion. Note that
+for MONSTERS, this command will spread out coins leaning toward
+silver and copper, as there is more silver and copper in the
+economy than other coins. This is only if you do NOT specify
+the highest coin to use.
+
+Syntax: *coins (obj|mob) $# [highest coin value]
+	  *value (obj|mob) $# [highest coin value]
+
+For example, if you wanted to set a Highport guardsman to
+carry equivalent value to 10355 copper coins, and the highest
+coin you wanted him to carry would be gold, you'd do:
+: *coins high $10355
+Highest cointype set to gold.
+The Highport guardsman's coins are now set to: 103gp 5sp 5cp.
+
+If the highest coin is left off, it assumes alanthium is the
+highest coin the monster will carry:
+: *coins high $10000
+The Highport guardsman's coins are now set to: 7pp 5gp 125sp 1250cp.
+
+If the coins were not spread out, it would have set the guard to 1ap.
+
+When at all possible, only make gold, plat, and alanthium available 
+on the highest level or hardest mobs (this includes if they are 
+in a hard area....higher level doesnt mean harder the time.)

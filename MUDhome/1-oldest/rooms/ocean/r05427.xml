@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5427" Version="2.40" Area="ocean">
+  <Name>Ashton River Road/Phexton Bridge</Name>
+  <ShortDescription>You are on the northeast end of the Phexton Bridge.</ShortDescription>
+  <LongDescription>This is the eastern end of the Ashton River Road.  A sign post indicates
+that the road to the north leads to the elven city of Hafnia, while the
+road to the south leads to the castle of Prince Rutger.  Both roads lead 
+higher into the mountains.  Over the bridge to the west is a road that
+leads down out of the mountains.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>bridge</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5428</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5461</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="bridge">
+      <Keys/>
+      <Room Area="ocean">5426</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

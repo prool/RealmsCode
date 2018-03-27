@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="15" Version="2.40a" Area="ocean">
+  <Name>Goldenrod Avenue</Name>
+  <ShortDescription>Goldenrod Avenue continues to the east and west.</ShortDescription>
+  <LongDescription>There is a tall guard tower set in the wall on the north side of the road.
+Stone steps inside an alcove look like they probably wind their way to the
+top.  Several village guards can be seen up there, lounging around and
+lazily watching the people below.  Looking to the west, on the south side
+of the road, you can see the entrance to a pub.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">2</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">1</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="4">8</Mob>
+      <Mob Area="ocean" Num="5">9</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+      <Mob Area="ocean" Num="9">3</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">14</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">16</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

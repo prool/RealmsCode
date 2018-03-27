@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<Room Num="1822" Version="2.40" Area="ocean">
+  <Name>The Shaman's Hut</Name>
+  <ShortDescription>You are in the hut of the tribe's resident witch doctor and healer.</ShortDescription>
+  <LongDescription>The Shaman is a very powerful wizard who protects his people with 
+magical healing powers.  He seldom leaves the safety of his hut, but
+always has some barbarian guards around in case anyone should try to
+take his life.  As is the case with most mages, he has very few hit
+points, but can easily toast your eyeballs.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">271</Mob>
+      <Mob Area="ocean" Num="1">271</Mob>
+      <Mob Area="ocean" Num="2">271</Mob>
+      <Mob Area="ocean" Num="3">271</Mob>
+      <Mob Area="ocean" Num="4">271</Mob>
+      <Mob Area="ocean" Num="5">271</Mob>
+      <Mob Area="ocean" Num="6">271</Mob>
+      <Mob Area="ocean" Num="7">271</Mob>
+      <Mob Area="ocean" Num="8">271</Mob>
+      <Mob Area="ocean" Num="9">271</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>172800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">273</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">271</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">752</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1840</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1827</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

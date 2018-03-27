@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3670" Version="2.40" Area="ocean">
+  <Name>Damp Tunnel</Name>
+  <ShortDescription>You are in a slimy tunnel with a trickle of water running down the floor.</ShortDescription>
+  <LongDescription>The green slime seems to bubble and burp beneath your feet, and at times
+it actually seems to be holding on to you.</LongDescription>
+  
+  <Established>774411451</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>300</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">721</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3653</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3671</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="3873" Version="2.40" Area="ocean">
+  <Name>Fresh Water Pool</Name>
+  <ShortDescription>You are standing at the edge of a cool and placid pool of fresh water.</ShortDescription>
+  <LongDescription>The water looks dark and deep, and hardly a ripple can be seen.  As you
+look across it, you see one spot where a bubble forms every few minutes
+and pops at the surface.  Its the only thing disturbing the otherwise
+quiet pool.  Trees form a canopy over the surface, and a path runs around
+edge of the water.  Not far from here you see the top of a small brick
+structure.</LongDescription>
+  
+  <Established>768696144</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">199</Mob>
+      <Mob Area="ocean" Num="1">199</Mob>
+      <Mob Area="ocean" Num="2">199</Mob>
+      <Mob Area="ocean" Num="3">199</Mob>
+      <Mob Area="ocean" Num="4">199</Mob>
+      <Mob Area="ocean" Num="5">199</Mob>
+      <Mob Area="ocean" Num="6">199</Mob>
+      <Mob Area="ocean" Num="7">199</Mob>
+      <Mob Area="ocean" Num="8">199</Mob>
+      <Mob Area="ocean" Num="9">199</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3872</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3861</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

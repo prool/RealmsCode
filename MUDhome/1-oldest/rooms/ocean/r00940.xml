@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="940" Version="2.40" Area="ocean">
+  <Name>Hafnia Circle Road/West Gate Avenue Intersection</Name>
+  <ShortDescription>You are on the road which circumferences the town of Hafnia.</ShortDescription>
+  <LongDescription>The elves lay out beautiful cities, and Hafnia is no exception.  The road
+you are on follows a geometrically perfect curve.  A short distance to the
+north there seems to be an entrance to a combat field of some sort.  The
+road splits to the west towards the western city gates.  Along the east
+side of the road there are several shops, and what looks like a social
+hall for some of the elven elite. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">927</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">926</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5511</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5510</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

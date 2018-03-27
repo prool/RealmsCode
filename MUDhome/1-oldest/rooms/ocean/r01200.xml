@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Room Num="1200" Version="2.44b" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are wandering along Leviathan Drive, east of Evander's Shops.</ShortDescription>
+  <LongDescription>The large center to the west is known as Evander's World of Weapons,
+where you can purchase any number of finely crafted weapons and armors.
+Evander boasts the best polearms shop in the lands, and has one of the
+finest repair shops available.  The plaza may be entered from either
+Netherworld Lane or Kafkan Way on the north and south, respectively.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:46 2009
+</LastPlayerTime>
+  <BeenHere>1</BeenHere>
+  <Wander></Wander>
+  <Track><Direction>south</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1199</Room></Target><Effects></Effects></Exit><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1192</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

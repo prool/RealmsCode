@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="5473" Version="2.40a" Area="ocean">
+  <Name>Castle Rutger Road</Name>
+  <LongDescription>You are almost at the same elevation as the gates to Castle Rutger.
+The sheer wall of the castle makes you crane your neck to see the tops of
+the turrets and spires, but several of them are lost in the clouds.  The
+great gate closes at night, but there is a small door, suitable for one
+person to use, beside the huge metal gate.  At night, after the gates close,
+harpies have been known to attack people outside the castle.</LongDescription>
+  
+  <Flags>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">432</Mob>
+      <Mob Area="ocean" Num="1">432</Mob>
+      <Mob Area="ocean" Num="2">432</Mob>
+      <Mob Area="ocean" Num="3">432</Mob>
+      <Mob Area="ocean" Num="4">432</Mob>
+      <Mob Area="ocean" Num="5">109</Mob>
+      <Mob Area="ocean" Num="6">109</Mob>
+      <Mob Area="ocean" Num="7">109</Mob>
+      <Mob Area="ocean" Num="8">109</Mob>
+      <Mob Area="ocean" Num="9">109</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5472</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5474</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

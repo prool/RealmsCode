@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="2027" Version="2.40" Area="ocean">
+  <Name>Randolf Lane/Ivory Way Intersection</Name>
+  <ShortDescription>You are at the east end of Randolf Lane, near the city's east gate.</ShortDescription>
+  <LongDescription>Ivory Way continues to the north and south from here.  The seldom used
+east gate of the city is within sight eastward.   The famous Althemanian
+College, where studies in para-psychology are conducted, lies northeast of
+here.  The Kista Amphetheater is over to the southeast.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">204</Mob>
+      <Mob Area="ocean" Num="1">204</Mob>
+      <Mob Area="ocean" Num="2">201</Mob>
+      <Mob Area="ocean" Num="3">198</Mob>
+      <Mob Area="ocean" Num="4">202</Mob>
+      <Mob Area="ocean" Num="5">207</Mob>
+      <Mob Area="ocean" Num="6">208</Mob>
+      <Mob Area="ocean" Num="7">208</Mob>
+      <Mob Area="ocean" Num="8">207</Mob>
+      <Mob Area="ocean" Num="9">203</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2520</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2519</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2028</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

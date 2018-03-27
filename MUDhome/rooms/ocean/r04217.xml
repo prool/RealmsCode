@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="4217" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>You are at the most southeast corner of the ground floor hallway.</ShortDescription>
+  <LongDescription>The door with the three brass balls suspended over it is exactly what you
+think it is.  yes, its a pawn shop.  There is also a red and white striped 
+pole next door, indicating a barber shop.</LongDescription>
+  
+  <Established>791605393</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4216</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4218</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="iron-bound door">
+      <Keys/>
+      <Room Area="ocean">4264</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

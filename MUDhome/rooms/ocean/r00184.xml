@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="184" Version="2.40" Area="ocean">
+  <Name>Weaponsmith</Name>
+  <ShortDescription>You have walked into the weaponsmith's shop.</ShortDescription>
+  <LongDescription>Standing behind the counter is Jarl Thornthistle, Brownhaven's most renowned
+weaponsmith.  He's currently pounding the dents out of an old vorpal sword.
+When he sees you enter his shop, he looks up at you briefly and returns
+to his work.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="6"/>
+    <Bit Num="11"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">66</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">57</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">55</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

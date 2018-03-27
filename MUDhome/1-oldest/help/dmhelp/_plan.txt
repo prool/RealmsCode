@@ -1,0 +1,86 @@
+RoH V1 Plans
+
+OK until we are able to build on V2, we need to do some
+things on V1. Here is a list of them. If anyone has very
+specific questions, mudmail me and ask about them.
+
+MINI-QUESTS: These are quests that are little things
+and result in like 25-200exp. An example would be
+finding Igmoo's lost fish and trading it to him or
+something after talking to him, or finding a wedding
+ring for a farmer's wife in Hampton which was stolen
+by dopplegangers in Kenner...etc..little things like
+these to give players something to do besides just
+killing random shit and getting exp all day. We need
+to add some of these in. 
+
+Run mini-quest ideas by me in mudmail.
+
+
+1) Bergen Cove needs to be spiced up.
+   Perms need to be added. Some items need to be
+   added to shops. Perhaps even a mini-quest or
+   two needs to be put in there. Draegoth has
+   already started messing with this some.
+
+2) Drakken Port needs to be gone through with a fine
+   toothed comb.
+   When finn made Drakken, he made none of the mobs or
+   perms have stats (they all have 10s in everything).
+   He also made it perm-run heaven. Now I dont mind
+   there being some perm run stuff in place, but not
+   a whole city. Also several of his mobs do not have
+   the block mflag set(#9). These and many other things
+   need to be fixed in Drakken. Items can be added to
+   shops, like common potions, types of bandages, maybe
+   poisons sold (expensive) in the assassin's guild
+   there. I'd also like all the mobs in the town to be
+   *balanced so they are all standard. In short, the
+   main thing is that all the mobs need to be checked,
+   and maybe some of the perms modified, or some new
+   ones added.
+
+3) Breakwater Point needs to be looked at.
+   Same type stuff as Drakken above.
+
+4) Sigil's mobs and perms need to be checked out.
+   finn didnt set any stats on them and some of them
+   dont block. The town can be spiced up some too.
+   A couple mini-quests would be good.
+
+5) Naimei needs to be spiced some also.
+   Some mini-quests would be good.
+
+6) The Papagayo, Ironclad, and Seawolf all need to
+   have their mobs and perms checked for stats and for 
+   block flags. The mobs should be *balanced too. In
+   most cases this should result in increased exp for
+   the mob. If players bitch they are stupid.
+
+7) Armor needs to be developed, but I dont want whole
+   sets dropping all in one area or from just a couple
+   mobs, and if it's good armor, I dont want it sold
+   in shops. Shop armor, unless it's HELLA EXPENSIVE,
+   needs to be ok, but with some drawback: like it's
+   too heavy, low shots, sized or class/race specific,
+   etc. Basically, if you have an idea for a set of
+   armor, run its stats by me, where u want each piece
+   to drop, etc..Same thing with weapons.
+
+8) We need to put in all the spells in:
+   *dmh qspells. Run your ideas by me in mudmail.
+
+9) Somebody needs to revamp or add to The Druidwood.
+   It's pretty damn boring the way it is right now.
+
+10) Eldenwood needs to be finished. Kerowen started it,
+    but she's gone. It's in the Meadhil. Please note that
+    Meadhil has only one L at the end. finn always used
+    to fuck that up.
+
+11) Gnomebarrow needs to be reopened. Dominus is working
+    on this already. Put in a couple mini-quests.
+
+12) Ideas for other small areas (read NO MORE THAN 20
+ROOMS) can be thought up. Run them by me.
+

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Room Num="490" Version="2.44b" Area="ocean">
+  <Name>Sewage Pit</Name>
+  <ShortDescription>You are in the southern end of the gypsy shit pit.</ShortDescription>
+  <LongDescription>Between the biting flys and the terrible stink, you are getting sick
+to your stomach.  The fumes down here are deadly, and you cannot last
+much longer.  Somewhere at this end of the pit is an exit, but you had
+better hurry and find it before you are overcome by the smell.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 11:00:33 2009
+</LastPlayerTime>
+  <BeenHere>1</BeenHere>
+  <Flags><Bit Num="9"></Bit><Bit Num="12"></Bit><Bit Num="24"></Bit><Bit Num="25"></Bit></Flags>
+  <Wander></Wander>
+  <Track><Direction>ladder</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="ladder"><Keys></Keys><Target><Room Area="ocean">875</Room></Target><Effects></Effects><Flags><Bit Num="0"></Bit></Flags></Exit></Exits>
+</Room>

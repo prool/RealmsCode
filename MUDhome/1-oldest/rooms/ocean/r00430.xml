@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="430" Version="2.40" Area="ocean">
+  <Name>Bendine Way/Nissiau Lane Intersection</Name>
+  <ShortDescription>You are at the intersection of Bendine Way and Nissiau Lane.</ShortDescription>
+  <LongDescription>Nissiau Lane heads east through the very popular shopping centers and
+facilities in this side of the town.  Separated by the Nylandian Bay,
+the northwest corner of town more or less provides for itself.  Bendine
+Way heads north and south from here.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">489</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">429</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">431</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

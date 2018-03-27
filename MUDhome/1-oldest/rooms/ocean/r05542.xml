@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5542" Version="2.40" Area="ocean">
+  <Name>Glabor Gulley Northern Path</Name>
+  <ShortDescription>You are near the western end of the northern path, in Glabor Gulley.</ShortDescription>
+  <LongDescription>The path meanders randomly across the northen face of the gulley, passing
+near the entrances to many of the caves you see farther east.  A large clump
+of bushes hides a portion of the path immediately east, but as you look
+down, you see many campfires and dark, troll-like figures gathered there.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5541</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5544</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

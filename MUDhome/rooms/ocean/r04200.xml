@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<Room Num="4200" Version="2.40a" Area="ocean">
+  <Name>Gates of Castle Rutger</Name>
+  <ShortDescription>You are inside Prince Rutger's Castle, next to the massive gates.</ShortDescription>
+  <LongDescription>This huge castle is built almost vertically, to best utilize the mountain
+side it is constructed on.  The lower level is used for troop assembly and
+social events, such as exhibitions and contests.  The massive gates are
+always closed at night, but gate guards are always here on duty.  The guard 
+station is located to the south.  On the north side is an information 
+office.  The main courtyard is to the east.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">712</Mob>
+      <Mob Area="ocean" Num="1">712</Mob>
+      <Mob Area="ocean" Num="2">712</Mob>
+      <Mob Area="ocean" Num="3">712</Mob>
+      <Mob Area="ocean" Num="4">712</Mob>
+      <Mob Area="ocean" Num="5">712</Mob>
+      <Mob Area="ocean" Num="6">712</Mob>
+      <Mob Area="ocean" Num="7">712</Mob>
+      <Mob Area="ocean" Num="8">712</Mob>
+      <Mob Area="ocean" Num="9">712</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">5474</Room>
+      <Flags>
+        <Bit Num="17"/>
+      </Flags>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4201</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4202</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4203</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4365</Room>
+      <Flags>
+        <Bit Num="16"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

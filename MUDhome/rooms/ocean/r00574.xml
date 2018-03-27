@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="574" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are traveling along Leviathan Drive, just east of the Avatar Ruins.</ShortDescription>
+  <LongDescription>On the east side of the road, you can see a large park formed between
+Leviathan on the west and Orchard on the north.  The park, or more
+appropriately, forest, seems to be deserted.  Not even animals are
+wandering around in the patch of trees and birds fly completely around
+the square of land all together.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">573</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">575</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,34 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  target          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+syntax: target [creature|-c]
+
+With no argument this command will show you who you are currently
+targetting.  With a creature for an argument it will set your target
+to that creature. Using -c as an argument will clear your target.
+
+Once you have a target set, you can use offensive commands without
+an argument.
+
+Ex:
+
+: ^ytar^x
+You are targetting: Noone!
+
+: ^ytar rat^x
+You are now targeting black rat.
+: ^ytar^x
+You are targetting: black rat
+: ^yk^x
+You attack the black rat.
+You stabbed the black rat for 6 damage.
+You killed the black rat.
+You gain 5 experience for the death of the black rat.
+You are no longer targeting black rat!
+: ^ytar kit^x
+You are now targeting lost kitten.
+: ^ytar -c^x
+Clearing target.
+You are no longer targeting lost kitten!
+:

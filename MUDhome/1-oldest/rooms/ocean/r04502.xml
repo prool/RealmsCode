@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="4502" Version="2.40" Area="ocean">
+  <Name>Castle Ragnar Chapel</Name>
+  <LongDescription>You are in a quiet littel chapel, west of a simple altar.
+There is a smell of incense in the air, and warm candles light statues along
+the side of the chapel.  Severl paladins pray quietly near the altar, and
+shrouded monks move silently about the room.</LongDescription>
+  
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="32"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>altar</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3637</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="altar">
+      <Keys/>
+      <Room Area="ocean">4503</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

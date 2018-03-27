@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="2026" Version="2.40" Area="ocean">
+  <Name>Gypsy Pawn Shop</Name>
+  <ShortDescription>You are in a darkened little pawn shop run by a family of gypsies.</ShortDescription>
+  <LongDescription>The gypsies are relatively quiet people, but need to make their money 
+somehow.  They offer to tell you your future for a share of your gold.
+Although most of the things they might tell you are the same thing you'd
+get out of a fortune cookie, your future might be in for a few surprises.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="49"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">201</Mob>
+      <Mob Area="ocean" Num="1">201</Mob>
+      <Mob Area="ocean" Num="2">202</Mob>
+      <Mob Area="ocean" Num="3">202</Mob>
+      <Mob Area="ocean" Num="4">203</Mob>
+      <Mob Area="ocean" Num="5">204</Mob>
+      <Mob Area="ocean" Num="6">205</Mob>
+      <Mob Area="ocean" Num="7">206</Mob>
+      <Mob Area="ocean" Num="8">205</Mob>
+      <Mob Area="ocean" Num="9">206</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2025</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

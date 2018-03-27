@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<Creature Num="279" Area="ocean" Version="2.40">
+  <Name>holy knight</Name>
+  <Class>6</Class>
+  <Level>2</Level>
+  <Type>1</Type>
+  <Experience>10</Experience>
+  <Coins>
+    <Coin Num="2">10</Coin>
+  </Coins>
+  <Alignment>100</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>25</Current>
+      <Max>25</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a majestic, holy knight, ready to test your skills.</Description>
+  <Keys>
+    <Key Num="0">knight</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>50</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>1</Number>
+    <Sides>1</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>Focus on your target and victory will be yours.</Talk>
+  <DefenseSkill>15</DefenseSkill>
+  <AttackPower>368</AttackPower>
+  <WeaponSkill>15</WeaponSkill>
+  <CarriedItems/>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="40"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

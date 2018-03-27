@@ -1,0 +1,15 @@
+^WWear Locations^x
+
+Body	1		Finger     9			Held    17
+Arms	2		Finger1	   9			Shield  18
+Legs	3		Finger2	  10			Face    19
+Neck	4		Finger3	  11			Wield   20		
+Belt	5		Finger4	  12
+Hands	6		Finger5	  13
+Head	7		Finger6	  14
+Feet	8		Finger7	  15
+			Finger8	  16
+
+^WExample:^x
+    *set o object wear belt
+

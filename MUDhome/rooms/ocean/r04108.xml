@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="4108" Version="2.40" Area="ocean">
+  <Name>Storage Closet</Name>
+  <ShortDescription>You are in Arioch &amp; Arcana's storage closet.</ShortDescription>
+  <LongDescription>A room sized walk-in closet, holding the both Arioch's &amp; Arcana's
+posessions lies before you.  To the left, Arioch's designer suits
+hang neatly next to his shinning dragon-slaying armor.  To the right,
+Arcana's dresses, blouses, and skirts create a virtual rainbow of
+clothing.  Strangely enough, even two treasure chests lie on the ground,
+holding riches beyond imagination.</LongDescription>
+  
+  <Established>775181402</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4107</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1778" Version="2.40a" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are on Netherworld Lane, just east of Leviathan Way.</ShortDescription>
+  <LongDescription>On the south side of the road, you can see the Riverdell Tranquility Park
+and the Riverdell Center for Tracking Training.  Being as large as it is,
+the Riverdell Park is ideal for studying the skills of tracking and 
+searching in the rather dense woods.  On the north side of the road is the
+Rodaisl Community Housing Complex, where numerous Oceancrest residents
+live.  There are no houses within the city, so if people wish to live 
+inside the city, they must live in one of the housing complexes.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1777</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1192</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

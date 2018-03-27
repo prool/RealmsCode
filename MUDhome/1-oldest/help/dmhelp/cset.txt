@@ -1,0 +1,370 @@
+Help on: cset (SETTING CREATURES)
+
+	Staff members are able to set various values 
+on any creature (non-player). Some of these functions are
+restricted, depending on the staff level of the user. The 
+various syntaxes used to set different things on creatures 
+are described below. In all cases, wherever 'mob' is seen, 
+assume that to be the creature being manipulated. # is 
+always an integer.
+
+ARMOR CLASS
+:*set c mob ac #
+	This will set a creature's armor class. # should be an 
+integer from -127 to +127. AC is divided by 10 and rounded 
+down. For example, a creature with an -83 AC would have an AC 
+of 8. It is best to never use this option. The *balance 
+command should be used instead, in order to have continuity 
+across the game. *bh balance for more information.
+
+AGGRO(RANDOM) LOAD CHANCE
+:*set c mob ag #
+	This will set a creature's % chance to be randomly 
+aggressive on loading. # Should be from 0 to 100, as it 
+represents a percentage. For example, if a creature had a 50% 
+random aggro chance, it would have a 50% chance to have the 
+TENDENCY to go randomly aggro. The other half of the time, 
+it'd load as a normal creature. Mflag #165 needs to be set 
+prior to using this option. It is recommended that you get 
+DM/CT assistance before you try to mess with this option.
+
+AGGRO(RANDOM) ON UPDATE CHANCE
+:*set c mob au #
+	This option sets the % chance per creature update 
+cycle (every 1-2sec) for a monster which is randomly 
+aggressive (see above) to go aggressive and attack. # can 
+be anything from 0-100, but it is recommended it be no 
+higher than 10. It is recommended that you get DM/CT 
+assistance before you try to mess with this option.
+
+ALIGNMENT
+:*set c mob al #
+	This option allows you to set a creature's alignment. 
+# should be an integer from -1000 to 1000. Negative values
+indicate evil alignment, 0 means neutral, and positive 
+indicates good. This number will represent how far one way 
+or another a player's alignment will change when they attack 
+the creature. Keep in mind, however, that the actual change 
+of a player's alignment is really only 1/5 of the actually 
+alignment value. For example, if a player attacks a creature 
+with an alignment value of +150, the player's alignment will 
+move 30 toward evil, and not the full 150. It is recommended 
+that you do not set an alignment higher or lower than 150 
+without the permission of a DM. The max value (positive or 
+negative) that a creator is allowed to set on a creature, is 
+equal to that creature's level times 10.
+
+ASSIST MOBS
+:*set c mob a(1-8) #
+:*set c mob a del
+	This option will allow you to set which other 
+creatures the creature will assist in combat. A creature can 
+have up to 8 different creatures in which it will assist. # 
+is the index number of the creature which will be assisted.
+	The second option can be used to delete all of the
+creature's current assist monster slots, without having to
+do it manually one at a time.
+ 
+Example:
+:*set c mob a4 2010
+This will set assist slot #4 to creature number 2010. So if
+any creature with the number 2010 is in combat in the room
+with a player, the creature will jump to its assistance.
+	
+CAST CHANCE
+:*set c mob cast #
+	This option will set the % chance that a monster will
+attempt to cast rather than hit on its next attack. # needs
+to be from 1-100. Generally, mage/casting type monsters will
+always have a high percentage here. Note that this must be
+used in conjunction with the casting mflag(18) as well as the
+cast percent mflag(43). Ask a CT or DM if you need help.
+
+CLAN
+:*set c mob clan #
+	This option allows you to set a creature's clan. If
+a monster is of a certain clan and is aggressive, it will
+not attack players which are members of its clan. # can be
+any valid clan number. You can find these with the *clanlist
+command.
+
+CLASS
+:*set c mob cls #
+	This option allows you to set a creature's class. If
+applicable, all monsters should have a class set. Class of
+a monster determines its initial saving throw values, as
+well as how well some of its various abilities might work.
+It also can dictate how well some abilities work AGAINST
+a creature, such as stealing. # is the number of the class.
+That can be found by typing *bh char.
+
+CONSTITUTION
+:*set c mob con #
+	This allows you to set a creature's constitution. The
+higher the value, the more hit poinyd the creature gets 
+back per tick. # needs to be from 1 to 30.
+
+DEXTERITY
+:*set c mob dex #
+	This allows you to set a creature's dexterity. The
+higher the dexterity, the harder a monster is to circle,
+and the more of an AC bonus it may get. In addition, if
+a monster has a dexterity of 20+, it is automatically
+considered to be hasted, and it will attack every 2sec
+and not every 3sec. # needs to be from 1 to 30
+
+DAMAGE
+:*set c mob dn #
+	This sets the number of dice rolled for the damage
+the creature does.
+:*set c mob ds #
+	This sets the number of sides of each die rolled.
+:*set c mob dp #
+	This sets the added points to the roll of the dice.
+
+For example:
+:*set c mob dn 10
+:*set c mob ds 5
+:*set c mob dp 10
+	This will make a creature do 10d5+10 damage, or about
+20-60 points per hit. 10 5-sided dice are rolled and added 
+up, and then 10 is added to the result.
+	It is recommended that the *balance command be used
+to set this at all times, so as to have continuity 
+throughout the whole game. Creators are forced to use the 
+*balance command, as they are unable to manually set 
+creature damage dice.
+
+ENEMY MONSTERS
+:*set c mob e(1-4) #
+:*set c mob e del
+	This allows you to set the numbers of monsters that the
+creature will automatically attack on sight. For example, it
+might be set on a militiaman so that he automatically will
+attack a goblin that spawns into the room. Each creature can
+have up to 4 different enemy creature types. # must be the
+number of a valid creature number. It is advised that anyone
+using this receives the permission/guidance of a DM first.
+	The second option can be used to delete all of the
+creature's current enemy monster slots, without having to
+do it manually one at a time.
+
+Example:
+:*set c mob e3 2010
+	This will set the creatures enemy creature slot #3 to
+monster number 2010.
+
+EXPERIENCE
+:*set c mob exp #
+	This allows you to set a monster's experience point
+value. Note that it is highly DISCOURAGED to set experience
+this way, and this should only rarely be used, if ever. The
+proper way to set experience is with the *balance command.
+Creators are unable to use this option, and are they are
+forced to use *balance.
+
+FLAGS
+:*set c mob f #
+	This allows you to set a monster's flags. A list of
+monster flags can be found by doing *bh mflags. # must be
+a valid monster flag. Setting the flag will turn the flag
+on if it is off, and it will turn it off if it is on.
+
+GOLD
+:*set c mob gp #
+	This option is for setting a creature's current max
+gold dropped. Creators are only able to set a max amount
+of gold dropped equal to the creature's experience value
+times 2. For example, for creators, a creature worth 100exp 
+would only be able to have a maximum of 200gp.
+
+HIT POINTS
+:*set c mob hp #
+:*set c mob hm #
+	The first option sets a creature's current hit
+points, and the second option sets its max hit points.
+Both must be set on all new monsters. It is not advised
+to use this option ever, as the *balance command takes
+care of this for you. Please use the *balance command at
+all times for this whenever possible. Creators are unable
+to use these two options, and they must use *balance.
+
+INTELLIGENCE
+:*set c mob int #
+	This command allows you to set a monster's intelligence
+value. The higher the value, the more likely the monster
+will do more intelligent things. It is important to remember, 
+that if a monster's intelligence is 15 or higher, it will 
+always attack players and not their pets. In addition, higher 
+intelligence means a greater chance for a monster to yell for 
+help, should that flag be set. Lower intelligence can often
+make a monster immune to charm/hypnotize, and any other mind
+effecting things. All casting monsters should have at least a 
+13 intelligence. # needs to be from 1 to 30.
+
+INVENTORY
+:*set c mob inv (1-10) (item)
+:*set c mob inv del
+	Items a monster drops can be set with this option. Each
+monster has up to 10 item slots. Any type of object can be
+put in these slots, or any number of slots can hold the same
+type of item. Before you set a monster inventory, you must
+get the desired item into your inventory by using the *create
+command. You then set the item to whichever monster slot you
+wish to put it in. Creators are unable to use this option,
+as they cannot do anything relating to objects. The second
+option will allow you to quickly delete all of a monster's 
+inventory slots.
+
+Example:
+	First, you must get a dirk and a hazy potion into your 
+own inventory. Then you do these commands:
+:*set c mob inv 1 dirk
+:*set c mob inv 2 dirk
+:*set c mob inv 6 hazy
+	This will set the creature's inventory slots #1 and #2
+to hold the dirk, and #6 to hold a hazy. This means that the
+creature will have a CHANCE to have these items whenever it
+loads/spawns into the game. If you set the same item in
+many slots, there is more chance that item will be on the
+monster when it loads/spawns.
+
+JAIL ROOM
+:*set c mob jail #
+	This option is used in conjunction with creatures
+flagged to knock people out and throw them in jail(130).
+If the jail room is not set, and the flag is set, then
+the Highport Jailhouse(room 2650) is the default. Otherwise, 
+the room # which the player wakes up will be # set.
+
+LANGUAGE(Current)
+:*set c mob lc #
+	This will set a creature's current language spoken
+when it loads/spawns. A list of languages can be seen by
+doing *bh languages.
+
+LEVEL
+:*set c mob lvl #
+	A creature's level can be set with this option.
+Level must be from 1 to 30. It is advised that you do not
+use this option ever to set level. It is better to rely
+on the *balance command instead. Creators are not able to
+use this option, and they must use *balance for level.
+
+MAGIC POINTS
+:*set c mob mp #
+:*set c mob mm #
+	The first option sets a creature's current magic
+points, and the second sets its max magic points. Both
+are required to be set if a monster is to cast. Keep in
+mind that for a monster to cast, it must have both the
+casting mflag set(18), as well as the cast percent mflag
+(43) set. Ask a CT or DM for assistance if you do not
+understand.
+
+MAX KILLING LEVEL
+:*set c mob ml #
+	This allows you to set a restriction on how high
+level a player can be to attack the creature. # must be
+from 1 to 30. For example, if you only want players level
+10 and below fighting a monster, you would set # to 10.
+
+NUMBER ARRIVING(Numwander)
+:*set c mob num #
+	This allows you to set how many of a certain creature
+can arrive at a time. # can be from 1 to 6. At load/spawn
+time, the game will have 1-# creatures arrive. Try to use
+this sparingly, and if you are going to make more than 2
+creatures ever arrive at a time, please consult a DM first 
+before you do so. Too many creatures arriving can be a 
+detriment to game balance, and it can also really get 
+people killed very quickly.
+
+PIETY
+:*set c mob pie #
+	This allows you to set a monster's piety value. Higher
+piety means faster ticking for the monster. # must be from
+1 to 30.
+
+RACE
+:*set c mob race #
+	This option is used to set a creature's race. A list of
+races and their numbers can be found by doing *bh char. If it
+is applicable, a monster should ALWAYS have its race set. Race
+will determine which languages a monster understands, as well
+as a creatures initial saving throw values. It will also be
+used for racial relations and affinities. It is very important
+to set race if a creature would have a race.
+
+REALM(Magic)
+:*set c mob r(0-5) #
+	This option is used to set a creature's magical realm
+% value. # must be an integer from 0 to 1000000. Depending on
+how high the number is, the higher the % in that magical
+realm. Depending on the class set on the creature, more or
+less will need to be set on a realm to give it a higher %.
+Trial and error will show you what amount to set. Note that
+realm 0 is earth, and realm 5 is cold.
+Example:
+:*set c mob r3 100000
+	This gives a creature 100000 points in realm #3(fire).
+That's the equivalent to 35% for no class set, and 72% if
+the creature is set to class mage.
+
+SAVING THROWS
+:*set c mob s(1-5) #
+:*set c mob sav d
+	This allows you to manually set a creature's saving
+throw values. # needs to be 0-100, as it is a percentage.
+The saves, in order, are: POI, DEA, BRE, DEA, and SPL. It
+is the same order when you look at the "sc" command, or
+check *status (*bh status) on a creature. This should never
+be done without DM supervision, as it is a complicated
+process.
+	The second option will delete all of a creatures
+saves, so they do not have to all be set to 0 manually.
+Example:
+:*set c mob s2 50%
+	This will give a creature a 50% save value in its
+Death/Traps save.
+
+SPELLS
+:*set c mob spl #
+:*set c mob spl del
+	This option will set a creatures spells. # must be
+a valid spell # found in *bh spells. If the spell is off,
+it will be turned on, and if it is on, it will be turned
+off. Note that this method does not need to be used if
+you know the spell. In that case, you can simply teach
+a creature the spell, and teach it again to them to make
+them lose/unlearn it. It is recommended that this option 
+never be used if it can be avoided.
+	The second option will allow you to delete all of
+a monster's spells without having to delete them all
+one by one manually.
+
+STRENGTH
+:*set c mob str #
+	This allows you to set a creature's strength. A higher
+strength will cause a creature to sometimes hit harder, and
+it also has other various strength-related effects. # must
+be from 1 to 30.
+
+THAC0("To Hit Armor Class 0")
+:*set c mob thac #
+	This allows you to set a creature's thac0. The lower
+a creature's thac0, the easier it can hit armor class 0.
+Whenever a monster attacks, it rolls 1-20 on a 20-sided die.
+If a creature's target has an AC of 0, then the creature will
+need to roll its thac0 or better to hit. If the AC is higher,
+then it modifies what the creature needs to roll. # must be
+from -20 to 20. It is recommended that this option never be
+used, and that the *balance command be used instead to set
+this. Creators are unable to set this manually, and they 
+are forced to use *balance to do it.
+Example:
+	If a creature's thac0 is 12, and its target's AC 
+is 5, then the creature will need to roll a 7 or better to
+hit (thac0 - target AC).
+
+	

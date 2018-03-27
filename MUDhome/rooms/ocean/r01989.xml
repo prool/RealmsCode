@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1989" Version="2.40" Area="ocean">
+  <Name>Path To The Manor</Name>
+  <ShortDescription>You are on a lightly paved path that appears to head towards the Manor.</ShortDescription>
+  <LongDescription>There are two paths here.  The larger brick-laid one heads west towards the
+Manor, while the smaller and less traveled one goes to the southern side of
+the estate.  Absolutely nothing appears to be growing anywhere, and the
+atmosphere is all together creepy.  Some say they can hear wolves howling
+into the night when the moon is full, but it's kinda silent right now.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">22</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">1604</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1990</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1991</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

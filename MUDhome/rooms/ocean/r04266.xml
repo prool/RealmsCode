@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="4266" Version="2.40" Area="ocean">
+  <Name>Knight's Chapel</Name>
+  <ShortDescription>You are in the Chapel of Saint Therix, patron saint of dedicated knights.</ShortDescription>
+  <LongDescription>Sir Anton Therix, before his rise to sainthood, was known for his dedication
+to a single-minded purpose of retrieving a lost glove belonging to his king.
+His entire life was devoted to the quest, and after his death he was much
+admired for such a quality.  He never did find the glove.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">774</Mob>
+      <Mob Area="ocean" Num="1">774</Mob>
+      <Mob Area="ocean" Num="2">774</Mob>
+      <Mob Area="ocean" Num="3">727</Mob>
+      <Mob Area="ocean" Num="4">727</Mob>
+      <Mob Area="ocean" Num="5">774</Mob>
+      <Mob Area="ocean" Num="6">774</Mob>
+      <Mob Area="ocean" Num="7">727</Mob>
+      <Mob Area="ocean" Num="8">727</Mob>
+      <Mob Area="ocean" Num="9">727</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4223</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

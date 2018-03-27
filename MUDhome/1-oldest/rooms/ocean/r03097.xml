@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3097" Version="2.40" Area="ocean">
+  <Name>Temple Passage</Name>
+  <ShortDescription>This is a private passage used long ago by the priests who resided here.</ShortDescription>
+  <LongDescription>there is a black hole in the floor which you must be careful of, if you
+want to continue making your way through this passage.  There is also a
+soft hissing sound occasionally coming from the hole.  Around the edges
+of the opening you see the bones of rats and ettercaps, as though they
+had been tossed there from down below.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3090</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3074</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

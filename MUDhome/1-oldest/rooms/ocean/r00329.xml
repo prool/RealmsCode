@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="329" Version="2.40" Area="ocean">
+  <Name>Bendine Aquarium Piranha Pool</Name>
+  <ShortDescription>You have foolishly entered the Bendine Aquarium's Piranha Pool.</ShortDescription>
+  <LongDescription>You can already see a pack of piranha swimming towards you at a rapid rate.
+It would be best to get out now while you still can.  The packs of piranha
+tend to focus on just one victim at a time.  Too bad you can't use a
+fireball spell on all of them at once.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="15"/>
+    <Bit Num="22"/>
+  </Flags>
+  <Wander>
+    <Traffic>9</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">296</Mob>
+      <Mob Area="ocean" Num="1">296</Mob>
+      <Mob Area="ocean" Num="2">296</Mob>
+      <Mob Area="ocean" Num="3">296</Mob>
+      <Mob Area="ocean" Num="4">297</Mob>
+      <Mob Area="ocean" Num="5">296</Mob>
+      <Mob Area="ocean" Num="6">296</Mob>
+      <Mob Area="ocean" Num="7">297</Mob>
+      <Mob Area="ocean" Num="8">296</Mob>
+      <Mob Area="ocean" Num="9">296</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">328</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

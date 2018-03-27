@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="690" Area="ocean" Version="2.40">
+  <Name>yab's key</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>2</ShotsMax>
+  <ShotsCur>2</ShotsCur>
+  <Dice>
+    <Number>83</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">300</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">key</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="11"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The key is very large, and made from intricately cast platinum.</Description>
+  <UseOutput>click.</UseOutput>
+  <Weight>2</Weight>
+  <Type>12</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<Creature Num="750" Area="ocean" Version="2.40">
+  <Name>Lieutenant of the Guards</Name>
+  <Class>4</Class>
+  <Level>9</Level>
+  <Type>1</Type>
+  <Experience>320</Experience>
+  <Coins>
+    <Coin Num="2">400</Coin>
+  </Coins>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>170</Current>
+      <Max>170</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>140</Current>
+      <Max>140</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>140</Current>
+      <Max>140</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>he's burly, mean and drunk, and he has a sword in each hand.</Description>
+  <Keys>
+    <Key Num="0">lieutenant</Key>
+    <Key Num="1">guards</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>250</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>4</Number>
+    <Sides>2</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>if you aren't the pizza guy, you're gonna be the topping for it.  hic.</Talk>
+  <DefenseSkill>85</DefenseSkill>
+  <AttackPower>414</AttackPower>
+  <WeaponSkill>85</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">629</Carry>
+    <Carry Area="ocean" Num="1">629</Carry>
+    <Carry Area="ocean" Num="2">629</Carry>
+    <Carry Area="ocean" Num="3">629</Carry>
+    <Carry Area="ocean" Num="4">629</Carry>
+    <Carry Area="ocean" Num="5">629</Carry>
+    <Carry Area="ocean" Num="6">629</Carry>
+    <Carry Area="ocean" Num="7">629</Carry>
+    <Carry Area="ocean" Num="8">629</Carry>
+    <Carry Area="ocean" Num="9">629</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

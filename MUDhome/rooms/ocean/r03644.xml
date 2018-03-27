@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3644" Version="2.40" Area="ocean">
+  <Name>Dark Tunnel</Name>
+  <ShortDescription>You are in a tunnel that is quite dark.   The walls are dry to the touch.</ShortDescription>
+  <LongDescription>The air is stale and the humidity is very low.  Every sound of your moves
+seems to be magnified in this silent tunnel.  The tunnel apparently runs
+to the south, and deep under the castle.  The floor seems to be heavy marble
+and the walls are great pieces of quarried granite stone.</LongDescription>
+  
+  <Established>764987991</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3643</Room>
+      <Flags>
+        <Bit Num="1"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3645</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

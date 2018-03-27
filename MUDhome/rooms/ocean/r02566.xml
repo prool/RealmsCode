@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2566" Version="2.40" Area="ocean">
+  <Name>Tower Lane</Name>
+  <ShortDescription>You are on Tower Lane between Charybdis Avenue and Commerce Street.</ShortDescription>
+  <LongDescription>A very large and tall hotel is on both sides of the street, and if you look
+overhead you can see a walkway bridge which spans Tower Lane.   The narrow
+bridge seems to connect both buildings together, and you see people up
+there looking down on the street.  A sign on the bridge proclaims it to
+be the Royal Kista Arms.  The Milsene Museum is east of here.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2033</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2032</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

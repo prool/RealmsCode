@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="2066" Version="2.40" Area="ocean">
+  <Name>Alchemist</Name>
+  <ShortDescription>You are in a room with a number of bubbling liquids in vials of all sizes.</ShortDescription>
+  <LongDescription>You've never seen so many potions before, but none of them look like they are
+ready yet.   This is the laboratory of the chief alchemist for the Lords of
+Kista, and he doesn't like visitors.  He often asks the guards to throw out
+the people who come in here.  There is a odd papyrus scroll on the wall.</LongDescription>
+  <Trap>7</Trap>
+  <TrapExit Area="ocean">2065</TrapExit>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">224</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">267</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2065</Room>
+      <Flags>
+        <Bit Num="18"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

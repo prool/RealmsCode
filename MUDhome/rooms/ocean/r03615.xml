@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3615" Version="2.40" Area="ocean">
+  <Name>Main Courtyard Northeast</Name>
+  <ShortDescription>You are in the northeast corner of the main courtyard.</ShortDescription>
+  <LongDescription>Steps lead down to a cellar door which has been cut into an upper and lower
+half.  The top half of the door is open, and you see the cellar appears to
+be cool and dimly lighted.  A sign over the door says "Clerical Supplies."
+The main courtyard to the south seems to have a number of tents and open
+air booths where a variety of goods may be bought and sold.</LongDescription>
+  
+  <Established>762645226</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3607</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3637</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4504</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

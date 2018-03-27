@@ -1,0 +1,44 @@
+Trap ID         #        Trap Name
+TRAP_PIT        1        pit trap 
+TRAP_DART       2        poison dart trap 
+TRAP_BLOCK      3        falling block 
+TRAP_MPDAM      4        mp damaging trap 
+TRAP_RMSPL      5        spell loss trap 
+TRAP_NAKED      6        player loses all items 
+TRAP_ALARM      7        monster alarm trap 
+TRAP_TPORT      8        teleport trap (DM permission required)
+TRAP_ARROW      9        arrow trap
+TRAP_SPPIT      10       spiked pit trap (more dmg then pit)
+TRAP_WORD       11       word of recall trap
+TRAP_FIRE       12       fire trap
+TRAP_FROST      13       frost trap
+TRAP_ELEC       14       electricity trap
+TRAP_ACID       15       acid jet trap
+TRAP_ROCKS      16       rockslide trap (hits everyone in room)
+TRAP_ICE        17       falling icicle trap
+TRAP_SPEAR      18       spear trap
+TRAP_CROSS      19       crossbow trap
+TRAP_GASP       20       poison gas trap
+TRAP_GASB       21       blinding gas trap
+TRAP_GASS       22       stun gas trap (20-25 sec)
+TRAP_DISP       23       room displacement trap
+TRAP_FALL       24       Deadly fall trap
+TRAP_CHUTE      25       Chute trap 
+TRAP_MUD        26       Stuck in mud trap
+TRAP_BONEAV     27       Boneslide trap
+TRAP_PIERCER    28       Piercer trap
+TRAP_ETRAVEL    29       Ethereal-travel trap
+TRAP_WEB        30       Sticky spider web trap
+
+The syntax to set a trap in a room is as follows:
+: *set r x <Trap#>
+
+To set the exit room for a trap (or for room flags 1 and 63)
+: *set r xx <room#>
+
+To set the trigger weight for a trap:
+: *set r xw <#>
+
+To set the strength of a trap:     -- only used by piercers
+: *set r xs <#>
+

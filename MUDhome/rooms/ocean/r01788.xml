@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="1788" Version="2.41b" Area="ocean">
+  <Name>Monument Avenue</Name>
+  <ShortDescription>You are walking along Monument Avenue, north of the Order of the White Rose.</ShortDescription>
+  <LongDescription>On the north side of the road, you can see Catherine's Weapons shop,
+where some simple weapons may be purchased.  On the south side of the 
+street is the Holy Order of the White Rose, a training center for young
+Paladins, just learning the basic skills of knighthood.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1787</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1638</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

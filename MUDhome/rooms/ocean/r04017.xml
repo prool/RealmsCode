@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="4017" Version="2.40" Area="ocean">
+  <Name>Matriarch's Hidden Sanctuary</Name>
+  <ShortDescription>You are in the Matriarch's private work chamber.</ShortDescription>
+  <LongDescription>Contrasting with the grandeoise hall outside, this small, rather austere
+room has dark stone walls and very little furniture.  There is a window
+on one side of the room and rays of sunlight shine down onto Alliyana
+as she reads the Divine Scripture, as if a divine blessing.</LongDescription>
+  
+  <Established>771794894</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">655</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4018</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

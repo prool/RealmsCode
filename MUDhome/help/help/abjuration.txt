@@ -1,0 +1,37 @@
+^WSpells:^x
+    annul-magic
+    armor
+    aura-of-flame
+    barrier-of-combustion
+    bless
+    bounce-magic
+    cancel-magic
+    dispel-magic
+    drain-shield
+    earth-shield
+    fiery-retribution
+    free-action
+    heat-protection
+    protection
+    radiation
+    rebound-magic
+    reflect-magic
+    remove-curse
+    remove-fear
+    remove-silence
+    resist-air
+    resist-cold
+    resist-earth
+    resist-electric
+    resist-fire
+    resist-magic
+    resist-water
+    static-field
+    stoneskin
+    undead-ward
+    warmth
+    wind-protection
+
+See also:
+    HELP SCHOOLS
+

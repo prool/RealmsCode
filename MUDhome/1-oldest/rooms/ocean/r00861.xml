@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="861" Version="2.47e" Area="ocean">
+  <Name>Jade Green Hallway</Name>
+  <ShortDescription>You are in a dimly-lit green shaded hallway that appears to head down
+a corridor to the south.  To the north is an iron gate that appears to
+be locked.  The stench of rotting flesh is prevalent beyond the gate.</ShortDescription>
+  <LongDescription>The lime-green walls are surprisingly slick and clean.  A strange mist
+appears to the south that obstructs your view of exactly where you're
+going or where the hallway leads.  </LongDescription>
+  <Flags><Bit Num="11"></Bit><Bit Num="12"></Bit></Flags>
+  <Wander></Wander>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="gate"><Keys></Keys><Target><Room Area="ocean">858</Room></Target><Key>25</Key><Effects></Effects><Flags><Bit Num="2"></Bit><Bit Num="3"></Bit><Bit Num="4"></Bit><Bit Num="5"></Bit></Flags></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">862</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

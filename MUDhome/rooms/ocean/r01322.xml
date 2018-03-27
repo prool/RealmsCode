@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room Num="1322" Version="2.47i" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, between the Rodaisal Community
+Housing Complex on the west and the Iilandi University on the east.</ShortDescription>
+  <LongDescription>The Rodaisal Community Housing Complex provides simple, communal housing
+for most of the population who choose to live within the city of 
+Oceancrest.  Individual housing is impossible in the city due to the lack
+of free space, so these large complexes were built to give people a
+place to live.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>north</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1321</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1323</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

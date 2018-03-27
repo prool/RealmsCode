@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2579" Version="2.40" Area="ocean">
+  <Name>Arboretum Way</Name>
+  <ShortDescription>You are on the lowest of three levels, walking under a variety of trees.</ShortDescription>
+  <LongDescription>The path to the northeast will take you to the second level of the Garden.
+This walkway was the favorite of Queen Isaria, for whom the Hanging
+Gardens were built, and some say her ghost can still be heard whispering
+though the trees when the breeze is just right.  Have you noticed the
+breeze has picked up?  Seems a little chilly, too.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2578</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2580</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2586</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3662" Version="2.40" Area="ocean">
+  <Name>Old Tunnel</Name>
+  <ShortDescription>You are in the old tunnel that is never used anymore.</ShortDescription>
+  <LongDescription>Heavy cobwebs block the way and a slime covers the walls.  The air has
+a putrid smell, as of decaying flesh.  Small animal sounds can be heard
+further to the east.  Sounds of clawed feet scratching on the floor and
+hissing sounds occur occasionly, and something just brushed against your
+leg.  Directly west is an intersection with a larger tunnel.</LongDescription>
+  
+  <Established>765132448</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3663</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3655</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="5455" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>You are on a steep mountain road carved on the side of Hafnia Mountain.</ShortDescription>
+  <LongDescription>There is a sharp drop on the north side, with a snow white valley below you.
+The south side has a gentle slope leading to a rocky tor overlooking the
+road.  Great eagles wheel above the rocks, occasionally diving and picking
+up some squealing animal you cannot identify.  Smoke rises from a volcano
+south of here.</LongDescription>
+  
+  <Established>794275294</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">354</Mob>
+      <Mob Area="ocean" Num="1">354</Mob>
+      <Mob Area="ocean" Num="2">354</Mob>
+      <Mob Area="ocean" Num="3">354</Mob>
+      <Mob Area="ocean" Num="4">354</Mob>
+      <Mob Area="ocean" Num="5">354</Mob>
+      <Mob Area="ocean" Num="6">354</Mob>
+      <Mob Area="ocean" Num="7">354</Mob>
+      <Mob Area="ocean" Num="8">354</Mob>
+      <Mob Area="ocean" Num="9">354</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5454</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5456</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

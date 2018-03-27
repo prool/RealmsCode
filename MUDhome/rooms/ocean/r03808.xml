@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="3808" Version="2.40" Area="ocean">
+  <Name>Multi-Dimensional Spatial Rift</Name>
+  <ShortDescription>You see yourself standing between darkness and light.  </ShortDescription>
+  <LongDescription>To the left you could see an endless field of whiteness and good.  
+However, your right shoulder and leg stay in the blackness of evil.
+This is the place where good and evil meet trying to solve the oldest
+and everlasting conflict in the universe.  You may not like some of
+the "beings" which could come from your right, but you may find 
+yourself lucky and meet God without even bothering to die!</LongDescription>
+  
+  <Established>765769724</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="28"/>
+    <Bit Num="31"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>none</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="none">
+      <Keys/>
+      <Room Area="ocean">3833</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+        <Bit Num="7"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  zephyr spell       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 3
+School:  Evocation
+Domain:  Destruction
+
+By means of this spell, the caster causes a small blast of air to hit the target
+and do damage, though only in minor amounts. Of course, more powerful mages
+employing this spell can expect greater results. This spell is the lowest level
+spell in the air realm.
+
+Syntax:
+cast zephyr <target>
+

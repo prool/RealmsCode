@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="4208" Version="2.40a" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <LongDescription>You are in the great hallway which completely encircles the lowest level.
+Prince Rutger had his builders create this castle in the form of concentric
+levels, each one smaller than the one below it.  At the very top you will
+find the private quarters of the Prince and his family.  This circular
+hallway completely encircles the base level of the castle where troops are
+garrisoned.  On the floor above you will find administrative offices.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4203</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4209</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

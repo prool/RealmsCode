@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2939" Version="2.40" Area="ocean">
+  <Name>Khallazar's Front Door</Name>
+  <ShortDescription>You are standing at the front door to Khallazar's home on a rope canopy.</ShortDescription>
+  <LongDescription>There is a bounce to your step as you walk on the criss-crossed ropes and
+survey the house.  A sign over the door proclaims this to be the home of
+Khallazar the Alchemist.  In smaller letters it says, "You bring the lead,
+and I'll turn it into gold for a price."  You do have some lead in your
+inventory, don't you?</LongDescription>
+  
+  <Established>759021859</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>ladder</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="ladder">
+      <Keys/>
+      <Room Area="ocean">2938</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2940</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

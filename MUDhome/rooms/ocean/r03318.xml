@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Room Num="3318" Version="2.40" Area="ocean">
+  <Name>Necropolis Fountain</Name>
+  <ShortDescription>You are standing in clear, refresing water at the base of a fountain.</ShortDescription>
+  <LongDescription>Three statues, sculpted in bronze, stand in the center of the fountain.
+The first is a Holy Knight, fully clad in plate armor and wielding a
+sword that, even though bronze, appears to flame brightly.  The second
+statue is of a priest dressed in simple black robes and wearing about
+his neck a medallion with an inlaid skull of silver.  The third statue
+is Zelinx, the astonishingly powerful illusionist.  No one understands
+why, but he chose to be buried with his tower.  The water washes over
+the statues, but nothing can conceal their power.</LongDescription>
+  
+  <Established>759796210</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="16"/>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3315</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3319</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3316</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3317</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

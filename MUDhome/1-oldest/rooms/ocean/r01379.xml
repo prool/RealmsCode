@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="1379" Version="2.40" Area="ocean">
+  <Name>Hallway Intersection</Name>
+  <ShortDescription>The hallway branches off into four directions here.</ShortDescription>
+  <LongDescription>Strangely, the hallway now splits into four separate hallways, each
+leading in a different direction.  You seem to be getting closer to
+some sort of building, although you can't quite make out exactly 
+what it is.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">131</Mob>
+      <Mob Area="ocean" Num="1">131</Mob>
+      <Mob Area="ocean" Num="2">151</Mob>
+      <Mob Area="ocean" Num="3">151</Mob>
+      <Mob Area="ocean" Num="4">151</Mob>
+      <Mob Area="ocean" Num="5">151</Mob>
+      <Mob Area="ocean" Num="6">131</Mob>
+      <Mob Area="ocean" Num="7">131</Mob>
+      <Mob Area="ocean" Num="8">131</Mob>
+      <Mob Area="ocean" Num="9">151</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1378</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1382</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1381</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1380</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

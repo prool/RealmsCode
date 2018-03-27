@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5301" Version="2.40" Area="ocean">
+  <Name>Oceancrest East Gate</Name>
+  <ShortDescription>This is the East Gate of the City of Oceancrest.</ShortDescription>
+  <LongDescription>You are outside the east gate of the greatest city in the Land of Mordor. 
+The gate is never open after sunset, for fear that mountain trolls will
+overrun this weak part of the eastern city wall.  Looking east, you see a
+wide, well traveled road which disappears over a small hill not far away.
+Occasionally members of the city guard will come out here in the evening
+to show each other how brave they are.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">5300</Room>
+      <Flags>
+        <Bit Num="17"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5302</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

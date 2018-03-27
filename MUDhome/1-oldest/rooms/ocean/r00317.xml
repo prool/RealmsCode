@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="317" Version="2.40" Area="ocean">
+  <Name>Bendine Aquarium Main Entrance</Name>
+  <ShortDescription>You are at the Main Entrance to the Bendine Aquarium and Marina.</ShortDescription>
+  <LongDescription>The Bendine Aquarium and Marina provides a number of strange and interesting
+creatures for public viewing.  However, visitors should be warned that 
+although many of the creatures living in the Aquarium are friendly, some
+will attack you, especially if you enter the tanks where they are swimming.
+The hallway continues to the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">450</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">318</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="638" Version="2.40a" Area="ocean">
+  <Name>Necropolis Avenue</Name>
+  <ShortDescription>You are on Necropolis Avenue, just west of the Shrines of Life and Death.</ShortDescription>
+  <LongDescription>The philosophy of good vs. evil has long been a topic of great debate among
+clerics and philosophers for ages.  The Shrine of Death opposes the Shrine
+of Life, forming the perfect union.  This cycle of life and death is the
+center of the clerical mystique, to which all clerics must struggle to
+understand.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">637</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">639</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

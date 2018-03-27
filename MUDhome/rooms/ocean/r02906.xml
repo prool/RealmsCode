@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Room Num="2906" Version="2.40" Area="ocean">
+  <Name>Avernus</Name>
+  <ShortDescription>You have entered the inner sanctum of the wasteland known as Avernus.</ShortDescription>
+  <LongDescription>As you close in on the center of this strange and mysterious land, you
+notice that more powerful monsters dwell in these areas.  The overwhelming
+feeling of evil and hate get stronger as you approach the center of 
+Avernus.  Occassionally, you can see a dragon flying by dangerously close.</LongDescription>
+  
+  <Established>727861677</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">360</Mob>
+      <Mob Area="ocean" Num="1">361</Mob>
+      <Mob Area="ocean" Num="2">360</Mob>
+      <Mob Area="ocean" Num="3">361</Mob>
+      <Mob Area="ocean" Num="4">56</Mob>
+      <Mob Area="ocean" Num="5">58</Mob>
+      <Mob Area="ocean" Num="6">59</Mob>
+      <Mob Area="ocean" Num="7">332</Mob>
+      <Mob Area="ocean" Num="8">239</Mob>
+      <Mob Area="ocean" Num="9">240</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2905</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2907</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2902</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2912</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

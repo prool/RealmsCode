@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<Creature Num="674" Area="ocean" Version="2.40">
+  <Name>black cat</Name>
+  <Level>7</Level>
+  <Type>1</Type>
+  <Experience>200</Experience>
+  <Coins/>
+  <Alignment>-50</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>140</Current>
+      <Max>140</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>140</Current>
+      <Max>140</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>90</Current>
+      <Max>90</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>The cat has a murderous snarl and extended claws.</Description>
+  <Keys>
+    <Key Num="0">cat</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>200</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>4</Number>
+    <Sides>2</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <DefenseSkill>65</DefenseSkill>
+  <AttackPower>140</AttackPower>
+  <WeaponSkill>65</WeaponSkill>
+  <CarriedItems/>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects>
+    <Effect>
+      <Name>detect-invisible</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+    <Effect>
+      <Name>resist-magic</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+  </Effects>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="9"/>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+    <Bit Num="39"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

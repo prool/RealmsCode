@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3071" Version="2.40a" Area="ocean">
+  <Name>Temple Passage</Name>
+  <ShortDescription>This is a secret passage that was used by the Ulandian Priests long ago.</ShortDescription>
+  <LongDescription>There are a series of doors along here, probably going to apartments for
+the priests, but the destruction has long since blocked easy access to them.
+The passage continues to twist and turn, and seems to go both northwest and
+east from this point.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3070</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3072</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

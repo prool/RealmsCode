@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="703" Version="2.40a" Area="ocean">
+  <Name>Neilian Drive</Name>
+  <ShortDescription>You are on Neilian Drive, north of the Neilian Boat Rental Shop.</ShortDescription>
+  <LongDescription>Although you cannot get into the Neilian Boat Rental Shop from here, a
+sign proudly advertises their products.  You can enter the plaza from
+the west off of Avatar Boulevard.  The Neilian Boat Rental Shop will
+rent you a boat for a small deposit, so that you can explore the river
+and all the dangers therein.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">702</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">611</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

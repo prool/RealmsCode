@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1067" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, west of the Oceancrest Ministry of Knowledge.</ShortDescription>
+  <LongDescription>Rosecrest runs from north to south at this point in the city, and passes by
+the famous Oceancrest Ministry of Knowledge.  Although not quite the same as
+the Ministry of Truth, the Ministry of Knowledge is much more interested in
+preserving documents and records then it is in arguing about the meaning of
+life or the purpose of the universe.  The Ministry is very secretive, and
+access is restricted to only the few who know the correct protocol.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1066</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1068</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Room Num="393" Version="2.40" Area="ocean">
+  <Name>Dagger Alley</Name>
+  <ShortDescription>You are in a poorly kept alley behind the Fiesty Kitten Nightclub and Bar.</ShortDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">389</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

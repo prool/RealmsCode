@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1208" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are walking along Nagaritha Drive, north of the DeNail Corn Fields.</ShortDescription>
+  <LongDescription>The DeNail Corn Fields are a prime source of income for many of the less
+able people of Oceancrest.  DeNail is very lenient and lets just about
+anyone work there if they cannot find other suitable work.  Of course 
+that means that he doesn't have to pay them very much either.  The
+entrance to the fields is located off of Hafnia Way, to the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1209</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1094</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

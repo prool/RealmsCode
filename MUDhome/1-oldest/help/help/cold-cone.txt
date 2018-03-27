@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  cold-cone spell     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 16
+School:  Evocation
+Domain:  Destruction
+
+This powerful spell causes a cone of deadly frost to spread out from the
+caster's hand in a cone, freezing almost anything its path. In addition to
+any frozen limbs the target might experience, the shock of the temperature
+change often causes more severe wounds. Targets who are generally resist
+to cold will not experience such drastic effects.
+
+Syntax:
+cast cold-cone <target>
+

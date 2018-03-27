@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="2933" Version="2.40" Area="ocean">
+  <Name>West Side of Stone Bridge</Name>
+  <ShortDescription>You are on the west side of a stone bridge spanning the Ashton River.</ShortDescription>
+  <LongDescription>The bridge is arched high over the Ashton River below, and provides a
+good view of the rushing water below.  The bridge is gated, and a 
+gatekeeper's tower is on the south side of the road.  It's difficult
+to determine what may be on the other side of the bridge because of
+its high arch.  Must be something nice though, else why is there a
+gate guard?</LongDescription>
+  
+  <Established>759019771</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">465</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2932</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">2934</Room>
+      <Key>46</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

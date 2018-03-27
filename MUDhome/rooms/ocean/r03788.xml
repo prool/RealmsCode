@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3788" Version="2.40" Area="ocean">
+  <Name>Nylandian Beach Promatory</Name>
+  <ShortDescription>You are on a sandy beach which juts into the Nylandian Bay.</ShortDescription>
+  <LongDescription>There are high rocks between you and the water at this part of the beach.
+Seals and sealions bask on the rocks, and occasionly slide off with a 
+plop to play in the bay.  The sand glistens under your feet.  This area
+extends into the bay where you can see another island farther south.</LongDescription>
+  
+  <Established>766091524</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3787</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3789</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

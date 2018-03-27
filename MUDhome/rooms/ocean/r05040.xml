@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="5040" Version="2.40" Area="ocean">
+  <Name>Skies Over Gotland Glenn</Name>
+  <ShortDescription>You are riding a great dragon, high over Gotland Glenn.  50:n0.e3.s0.w0</ShortDescription>
+  <LongDescription>Brownhaven is far to the west, and there is nothing but grassland beneath
+you.  There are a lot of clouds in the skies around you, and dragons lose
+their sense of direction when flying in bad weather.</LongDescription>
+  
+  <Established>772228461</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5041</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5059</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5067</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5032</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

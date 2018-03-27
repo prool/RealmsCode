@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3911" Version="2.40" Area="ocean">
+  <Name>Werewolve's Cellar</Name>
+  <ShortDescription>You are in the cellar of the werewolve's den.  A most unpleasant place to be.</ShortDescription>
+  <LongDescription>Werewolves have mommies, too.  And this is where she stays.  All those
+bad-breathed doggies upstairs are hers, and she really doesn't like them
+being killed.</LongDescription>
+  
+  <Established>770865573</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>hall</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">618</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1993</Room>
+      <Flags>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+    <Exit Name="hall">
+      <Keys/>
+      <Room Area="ocean">4006</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

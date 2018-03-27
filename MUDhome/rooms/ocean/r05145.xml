@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="5145" Version="2.40" Area="ocean">
+  <Name>Stone Stairway</Name>
+  <ShortDescription>You are near the top of a stone stairway, which has an awful odor.</ShortDescription>
+  <LongDescription>Old graffiti has been scratched into the stones, untouched now for several
+hundred years.  Everywhere you have been in this ancient stone ediface has
+been covered in soot and ashes, but the steps here look to be frequently
+used.  It's impossible to see very far in either direction, as the steps
+twist in a tight pattern going down.</LongDescription>
+  
+  <Established>773391691</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">75</Mob>
+      <Mob Area="ocean" Num="1">75</Mob>
+      <Mob Area="ocean" Num="2">75</Mob>
+      <Mob Area="ocean" Num="3">75</Mob>
+      <Mob Area="ocean" Num="4">75</Mob>
+      <Mob Area="ocean" Num="5">75</Mob>
+      <Mob Area="ocean" Num="6">75</Mob>
+      <Mob Area="ocean" Num="7">75</Mob>
+      <Mob Area="ocean" Num="8">75</Mob>
+      <Mob Area="ocean" Num="9">75</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5146</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5085</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

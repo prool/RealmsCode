@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="679" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street/Hofton Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Rosecrest Street and Hofton Avenue.</ShortDescription>
+  <LongDescription>Hofton Avenue runs east and west, parallel to the northern City Walls.
+Rosecrest Street heads south out of the intersection, passing along the
+western side of the Lyanden Castle.  Rosecrest Street is the longest
+street in Oceancrest, stretching from the northern City Walls, all the
+way to the southern City Walls.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">591</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">678</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">680</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

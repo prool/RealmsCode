@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="1259" Version="2.40" Area="ocean">
+  <Name>Center of Allisk Circle</Name>
+  <ShortDescription>You are now standing in the center of this virtually empty circle.</ShortDescription>
+  <LongDescription>Apperently, not much was done to keep the center of this circle growing.
+The only thing which remains is dead grass and a couple of weeds, but 
+even those are withering.  The Allisk Manor is located on the northeastern
+corner of the circle, which is where the Circle gets its name.  It is
+rumored that the Allisk Manor is still haunted by the ghosts of past 
+owners and even Natasha de Allisk herself.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">2150</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1244</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1242</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1243</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1245</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

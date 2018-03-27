@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="933" Version="2.40" Area="ocean">
+  <Name>Small Alley</Name>
+  <ShortDescription>You are in a small alley beside Zedda's cape and furs shop.</ShortDescription>
+  <LongDescription>Like almost all alleys, this one is pretty dirty and smells bad.  Be careful
+where you step.  A lot of the smell seems to come from an open sewer grate
+in the center of the alley.  A trickle of dirty water disappears down the
+grate opening into the black depths below.  The alley continues to the north
+and south, becoming more congested and dirty in the northern direction.
+Hafnia Boulevard is south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">945</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">930</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">929</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

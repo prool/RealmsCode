@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3817" Version="2.40" Area="ocean">
+  <Name>Back Stage</Name>
+  <ShortDescription>You are standing in the backstage area of the Carnival.</ShortDescription>
+  <LongDescription>Visitor are not allowed to come here, so lookout for any guards that may
+pass by.  You can find three tents, allocated to the north, northwest and
+west.  The one on the north is beautifully decorated.  It seems that it's
+the Director's tent.  Although the tent on the northwest is very neat too,
+it is much smaller than the Director's tent.  That is obviously the 
+Ringmaster's Tent.  The performers usually go to the tent on the west 
+to rest and put their make up on.</LongDescription>
+  
+  <Established>765770358</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3819</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3820</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3818</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3813</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="217" Version="2.40" Area="ocean">
+  <Name>Decrepit Training Room</Name>
+  <ShortDescription>This used to be a training room of some sort.</ShortDescription>
+  <LongDescription>Old and rotting fencing paraphernalia lie across the floor of the room,
+draped in a delicate fabric of dusty cobwebs.  Old foils, fencing gear
+and trophies have been left in practically every corner of this very
+large room.  All the valuables have either been looted or destroyed.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">38</Mob>
+      <Mob Area="ocean" Num="1">38</Mob>
+      <Mob Area="ocean" Num="2">32</Mob>
+      <Mob Area="ocean" Num="3">33</Mob>
+      <Mob Area="ocean" Num="4">33</Mob>
+      <Mob Area="ocean" Num="5">34</Mob>
+      <Mob Area="ocean" Num="6">35</Mob>
+      <Mob Area="ocean" Num="7">19</Mob>
+      <Mob Area="ocean" Num="8">38</Mob>
+      <Mob Area="ocean" Num="9">16</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">39</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>7220</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">73</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">214</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">216</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

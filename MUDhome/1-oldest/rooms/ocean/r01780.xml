@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1780" Version="2.40" Area="ocean">
+  <Name>Monument Avenue</Name>
+  <ShortDescription>You are walking along Monument Avenue, north of the Obidian Housing Complex.</ShortDescription>
+  <LongDescription>Citizens of Oceancrest who wish to live in the city itself must live in
+the community residences provided for by the city as there is not enough
+empty space inside the City Walls for everyone to build a house.  However,
+spacing is not really limited, and anyone who wants to live in the city,
+both for protection and convinience, may do so by applying at the Obidian
+Community Housing Complex or the Rodaisl Complex, located more towards
+the center of town off of Leviathan Way.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1779</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1781</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

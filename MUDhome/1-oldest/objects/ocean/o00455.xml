@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="455" Area="ocean" Version="2.40">
+  <Name>spear-gun</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>70</ShotsMax>
+  <ShotsCur>70</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>5</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">3500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">spear-gun</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+  </Flags>
+  <Description>You see long pointed spear attacked to a crossbow like firing mechism.</Description>
+  <Weight>10</Weight>
+  <Type>5</Type>
+  <SubType>spear</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

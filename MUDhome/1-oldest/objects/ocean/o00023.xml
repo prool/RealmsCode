@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="23" Area="ocean" Version="2.40">
+  <Name>bo stick</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>40</ShotsMax>
+  <ShotsCur>40</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>3</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">68</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">stick</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Weight>4</Weight>
+  <Type>5</Type>
+  <SubType>polearm</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1433" Version="2.40" Area="ocean">
+  <Name>Stairwell</Name>
+  <ShortDescription>You are in a stairwell passage leading up.</ShortDescription>
+  <LongDescription>The panels making up the stairs creak as you walk on them.  The stairwell
+leads up to the main level arena.  The door has a plaque marked "Prison"
+bolted to it.  </LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1434</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1432</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

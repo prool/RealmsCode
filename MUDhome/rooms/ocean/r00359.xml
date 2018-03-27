@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="359" Version="2.40" Area="ocean">
+  <Name>Thieve's Alley</Name>
+  <ShortDescription>You are in a nasty smelling alley near the southern end of Rum Road.</ShortDescription>
+  <LongDescription>The large cats circle away from you, staying out of your reach, but
+never turning their backs on you either.  The stench makes you want to
+hold your nose.  Why on earth did you come in here, anyway?  A doorway
+is slightly open in the old building, and a sign says "Welfare." 
+The alley is littered with garbage and broken kegs and boxes.</LongDescription>
+  
+  <Established>760476770</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">2</Mob>
+      <Mob Area="ocean" Num="1">17</Mob>
+      <Mob Area="ocean" Num="2">2</Mob>
+      <Mob Area="ocean" Num="3">541</Mob>
+      <Mob Area="ocean" Num="4">2</Mob>
+      <Mob Area="ocean" Num="5">17</Mob>
+      <Mob Area="ocean" Num="6">80</Mob>
+      <Mob Area="ocean" Num="7">80</Mob>
+      <Mob Area="ocean" Num="8">17</Mob>
+      <Mob Area="ocean" Num="9">17</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">355</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">360</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">365</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

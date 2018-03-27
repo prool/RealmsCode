@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5412" Version="2.40" Area="ocean">
+  <Name>Wild Botanical Gardens</Name>
+  <ShortDescription>You are surrounded by wild colored moving plants and vines.</ShortDescription>
+  <LongDescription>There is a narrow path through here, and it looks like it has been maintained
+by someone.  You see pieces of vegetation that have been hacked and left
+on the trail, clearing a way to the east and northwest.  The brilliantly
+colored plants seem to reach out for you.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5411</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5413</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

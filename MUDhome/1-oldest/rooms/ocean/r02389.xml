@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2389" Version="2.40a" Area="ocean">
+  <Name>Dark Passage</Name>
+  <ShortDescription>You are at the corner of a passage which continues to the south and east.</ShortDescription>
+  <LongDescription>The smooth floor tells you that the odd passage was not created by nature,
+but must have been build for some purpose.  The stench in the air gets
+worse to the east.  The grim, green stone walls are covered with green
+slime and muck.  There appears to be some light far to the east.</LongDescription>
+  
+  
+  
+  <Established>727838929</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2388</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2390</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

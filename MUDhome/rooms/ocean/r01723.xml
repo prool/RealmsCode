@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="1723" Version="2.47i" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are on Riverdell Way, just north of the Allakaren Circle.</ShortDescription>
+  <LongDescription>The Allakaren Circle, to the south, runs around the interesting and unique
+Tree of Life.  Although no special properties have very been obtained from
+the tree itself, the tree has survived centuries of wars, famines, droughts
+and various other disasters.  The Circle is a monument for the preservation
+of such a magnificent tree.</LongDescription>
+  <Wander><Traffic>4</Traffic><RandomMonsters><Mob Area="ocean">1</Mob><Mob Area="ocean" Num="1">1</Mob><Mob Area="ocean" Num="2">1</Mob><Mob Area="ocean" Num="3">1</Mob><Mob Area="ocean" Num="4">2</Mob><Mob Area="ocean" Num="5">2</Mob><Mob Area="ocean" Num="6">2</Mob></RandomMonsters></Wander>
+  <Track><Direction>south</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1722</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1724</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

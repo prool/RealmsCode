@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3095" Version="2.40" Area="ocean">
+  <Name>Air Box Above Uland Temple Tunnels</Name>
+  <ShortDescription>This is a tiny air box above the tunnels deep under the Temple.</ShortDescription>
+  <LongDescription>There is a small hole below you where you could probably lower yourself
+into the tunnel beneath it.  It will be a tight scrape, and then a long 
+drop to the floor.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>hole</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="hole">
+      <Keys/>
+      <Room Area="ocean">3885</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3811" Version="2.40" Area="ocean">
+  <Name>Carnival Midway</Name>
+  <ShortDescription>You are between a large booth to the south and the main midway to the north.</ShortDescription>
+  <LongDescription>Several smaller booths are around you, but the one to the south looks the
+most interesting.  It seems to be selling charms and amulets, and you
+recognize the hyperactive elf standing near the back of the booth as a crazy
+old wizard. He was kicked out of the city of Brownhaven for causing the
+weather to do silly things.  It rained frogs there for six weeks.</LongDescription>
+  
+  <Established>765770072</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3812</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3810</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

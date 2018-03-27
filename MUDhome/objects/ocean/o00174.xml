@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="174" Area="ocean" Version="2.40">
+  <Name>spetum</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>125</ShotsMax>
+  <ShotsCur>125</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>15</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">25000</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a 10' pole with angled blades protruding from its sides.</Description>
+  <Weight>10</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

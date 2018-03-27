@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  fireball spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 7
+School:  Evocation
+Domain:  Destruction
+
+This is a powerful spell in the fire realm, turning the air infront of the
+target to fire and hurling the flaming mass at the target. The recipient of
+this spell is often badly burned, though will usually survive unless other means
+are used. However, fireball is a fairly strong spell used by the less
+experienced mages.
+
+Syntax:
+cast fireball <target>

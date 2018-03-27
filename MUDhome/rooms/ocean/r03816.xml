@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3816" Version="2.40" Area="ocean">
+  <Name>The Blaster's Bunker</Name>
+  <ShortDescription>You are standing one step inside the Blaster's Bunker.  A sign nearby says
+"KEEP OUT", and you better do so!</ShortDescription>
+  <LongDescription>You have unwisely entered the Blaster's Bunker, where Gospodin, the 
+Bulgarian Pyrotechnician, holds his dangerous experiments.  The bunker is
+full of different tools, chemicals, flasks and elaborate glass tubework.
+You see several kegs marked with skulls and crossed bones.  If you get
+"lucky" you may witness an exclusive science experiment.  However, the
+risk might be too great.</LongDescription>
+  <LowLevel>10</LowLevel>
+  <HighLevel>21</HighLevel>
+  
+  <Established>765770297</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3813</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

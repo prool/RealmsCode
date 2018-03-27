@@ -1,0 +1,28 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  order | pet     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The order command allows you to have your pet, if you have one, to perform a
+social command or attack a monster/player. The pet command allows you to do the
+same thing, but uses different syntax and doesn't require you to specify which
+monster is your pet.
+
+Example:
+: pet wave
+The wind bat waves happily.
+: pet say hi
+The wind bat says, "hi."
+:
+
+: order bat k wino
+The wind bat attacks the wino.
+: pet k wino
+The wind bat stops attacking the wino.
+:
+
+: pet emote looks around for some food
+The wind bat looks around for some food.
+: order bat emote looks around for some food
+The wind bat looks around for some food.
+:
+

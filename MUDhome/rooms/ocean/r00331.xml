@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="331" Version="2.40" Area="ocean">
+  <Name>Bendine Aquarium Shark Tank</Name>
+  <ShortDescription>You are in the large, Bendine Aquarium Shark Tank, near the surface.</ShortDescription>
+  <LongDescription>Most sharks don't come up to the surface very often, but occassionally
+one or two will get curious and poke around at objects in the water.  The
+depths of the tank are pretty dangerous, inhabited by great white sharks
+and other deadly sharks of the deep.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">300</Mob>
+      <Mob Area="ocean" Num="1">301</Mob>
+      <Mob Area="ocean" Num="2">303</Mob>
+      <Mob Area="ocean" Num="3">304</Mob>
+      <Mob Area="ocean" Num="4">299</Mob>
+      <Mob Area="ocean" Num="5">300</Mob>
+      <Mob Area="ocean" Num="6">301</Mob>
+      <Mob Area="ocean" Num="7">303</Mob>
+      <Mob Area="ocean" Num="8">304</Mob>
+      <Mob Area="ocean" Num="9">302</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">330</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">332</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

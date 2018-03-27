@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="3250" Version="2.40" Area="ocean">
+  <Name>Sunshine River Valley</Name>
+  <ShortDescription>You have entered a suprisingly cold river valley, yet the sun shines.</ShortDescription>
+  <LongDescription>The ground is almost frighteningly cold and barren.  Everything you can
+see lies frozen under a bright sun.  Although the sun shines brilliantly,
+you are overcome with cold, and a chill passes through your body.  As you
+look closely at the ground around you, you find evidence of the creatures
+who roam this area.  There are large footprints pressed into the frozen
+ground.  Then you hear them.</LongDescription>
+  
+  <Established>756089202</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+    <Bit Num="22"/>
+  </Flags>
+  <Wander>
+    <Traffic>13</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">415</Mob>
+      <Mob Area="ocean" Num="1">415</Mob>
+      <Mob Area="ocean" Num="2">415</Mob>
+      <Mob Area="ocean" Num="3">415</Mob>
+      <Mob Area="ocean" Num="4">415</Mob>
+      <Mob Area="ocean" Num="5">416</Mob>
+      <Mob Area="ocean" Num="6">416</Mob>
+      <Mob Area="ocean" Num="7">416</Mob>
+      <Mob Area="ocean" Num="8">416</Mob>
+      <Mob Area="ocean" Num="9">416</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>lake</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="lake">
+      <Keys/>
+      <Room Area="ocean">3248</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

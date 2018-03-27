@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Room Num="1" Version="2.47j" Area="ocean">
+  <Name>The Tree of Life</Name>
+  <ShortDescription>You are on top of the Tree of Life, overlooking all of Oceancrest.</ShortDescription>
+  <LongDescription>This is cyrllic text in Russian on UTF-8 codetable
+Это текст на русском языке (кириллицей) в кодировке UTF-8.
+
+Здесь стоит большое дерево. На дереве вырезаны различные надписи
+ЦОЙ ЖИВ, С+В=Л, PUNK NOT DEAD, FCMKh, Слава Україні, ВЕК ВАК</LongDescription>
+  <LastPlayer>Sekon</LastPlayer>
+  <LastPlayerTime>Tue Mar 27 12:48:00 2018
+</LastPlayerTime>
+  <BeenHere>4</BeenHere>
+  <Flags><Bit Num="31"></Bit></Flags>
+  <Wander></Wander>
+  <Track><Direction>down</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="down"><Keys></Keys><Target><Room Area="ocean">1784</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

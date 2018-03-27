@@ -1,0 +1,17 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  bite           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Vampires may bite players or monsters during the night doing extra damage
+than normal by depleting the opponents blood. If the vampire is injured,
+they will be partially healed by this bite.
+
+Syntax:
+: A wino just arrived.
+: bite w
+You bite the wino for 36 damage.
+The blood of the wino revitalizes your strength.
+You killed the wino.
+You gained 6 experience for the death of the wino.
+:
+

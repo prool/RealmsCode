@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="1285" Version="2.40" Area="ocean">
+  <Name>Bibliotheke Hall</Name>
+  <ShortDescription>You are in a small room connecting the Bibliotheke to the vault.</ShortDescription>
+  <LongDescription>This narrow hallway is well lit and connects the bibliotheke to it's
+prized vault.  The hallway is decorated in the ancient colors of the
+Keslarian Mages and includes a number of portraits including those
+of Deneb and Rowland (they look better as ghosts).</LongDescription>
+  <Trap>3</Trap>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>trap door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1284</Room>
+      <Key>14</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="vault">
+      <Keys/>
+      <Room Area="ocean">1286</Room>
+      <Key>24</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="trap door">
+      <Keys/>
+      <Room Area="ocean">1282</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

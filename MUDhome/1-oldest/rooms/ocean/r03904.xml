@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<Room Num="3904" Version="2.41a" Area="ocean">
+  <Name>Eiden Public Storage West Hallway</Name>
+  <ShortDescription>You are in the west hallway of the the Eiden Public Storage Facility.</ShortDescription>
+  <LongDescription>Each of the rooms in the Eiden Facility is protected by a magic aura 
+which prevents people from teleporting into them.  In addition, they 
+are locked with a special key and the locks are unpickable.  No one can 
+break into these rooms.  However, the management makes no other claims.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2300</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door1">
+      <Keys/>
+      <Room Area="ocean">4061</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door2">
+      <Keys/>
+      <Room Area="ocean">4062</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door3">
+      <Keys/>
+      <Room Area="ocean">4063</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door4">
+      <Keys/>
+      <Room Area="ocean">4064</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door5">
+      <Keys/>
+      <Room Area="ocean">4065</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door6">
+      <Keys/>
+      <Room Area="ocean">4066</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door7">
+      <Keys/>
+      <Room Area="ocean">4067</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door8">
+      <Keys/>
+      <Room Area="ocean">4068</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

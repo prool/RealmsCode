@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1299" Version="2.40" Area="ocean">
+  <Name>Quick Car Subsidiary Hub</Name>
+  <ShortDescription>You are in the subsidiary hub of the Elven Quick Cars.</ShortDescription>
+  <LongDescription>The Subsidiary Hub connects the main hub to the western mountains
+and parts of Brownhaven.  The quick cars were invented by the elves
+centuries ago to travel around the high mountains without having
+to deal with the griffons, abominable snowmen and the notorious
+mountain raiders.</LongDescription>
+  <Trap>2</Trap>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>passage</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>15000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">414</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">894</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">897</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">895</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">898</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

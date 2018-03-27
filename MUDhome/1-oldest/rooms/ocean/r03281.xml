@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="3281" Version="2.40" Area="ocean">
+  <Name>East Stairwell</Name>
+  
+  <Established>756376849</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="stairs">
+      <Keys/>
+      <Room Area="ocean">3274</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3285</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="219" Version="2.40" Area="ocean">
+  <Name>Western Basement</Name>
+  <ShortDescription>This is the western half of the mansion's basement.</ShortDescription>
+  <LongDescription>Old bits of memorabilia and worm-eaten clothing that no one would dare to
+wear anymore are piled up or strewn across the floor of this basement.  You
+probably should stay away from the clothing, for fear of whatever might be
+living under it.  This is a spooky place, indeed.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">31</Mob>
+      <Mob Area="ocean" Num="1">23</Mob>
+      <Mob Area="ocean" Num="2">24</Mob>
+      <Mob Area="ocean" Num="3">20</Mob>
+      <Mob Area="ocean" Num="4">32</Mob>
+      <Mob Area="ocean" Num="5">34</Mob>
+      <Mob Area="ocean" Num="6">35</Mob>
+      <Mob Area="ocean" Num="7">32</Mob>
+      <Mob Area="ocean" Num="8">33</Mob>
+      <Mob Area="ocean" Num="9">33</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">220</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">221</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">218</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

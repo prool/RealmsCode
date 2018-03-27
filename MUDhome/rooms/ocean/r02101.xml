@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="2101" Version="2.40" Area="ocean">
+  <Name>The Research Room</Name>
+  <ShortDescription>You are in a rather large, rectangular room with no books or notes or
+anything that resembles research material.  This is rather odd.</ShortDescription>
+  <LongDescription>On the north wall, you see a number of glowing buttons, each with
+a different elven rune on it.  All the buttons are white with a black
+rune enscribed on it's face that can be pressed.  There is a bit of
+writing on the west wall that looks rather cryptic.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">739</Mob>
+      <Mob Area="ocean" Num="1">739</Mob>
+      <Mob Area="ocean" Num="2">739</Mob>
+      <Mob Area="ocean" Num="3">739</Mob>
+      <Mob Area="ocean" Num="4">739</Mob>
+      <Mob Area="ocean" Num="5">739</Mob>
+      <Mob Area="ocean" Num="6">739</Mob>
+      <Mob Area="ocean" Num="7">739</Mob>
+      <Mob Area="ocean" Num="8">739</Mob>
+      <Mob Area="ocean" Num="9">739</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">276</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2100</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3140</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

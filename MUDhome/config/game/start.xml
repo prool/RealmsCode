@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<Locations>
+	<Location Name="oceancrest">
+		<BindName>Oceancrest</BindName>
+		<RequiredName>the Tree of Life</RequiredName>
+		<Bind Area="ocean">1</Bind>
+		<Required>1</Required>
+	</Location>
+</Locations>

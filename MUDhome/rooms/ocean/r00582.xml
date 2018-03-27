@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="582" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are traveling along Leviathan Drive, east of the Knightly Order.</ShortDescription>
+  <LongDescription>The Knightly Order of the White Cross is a large facility dedicated to 
+the advanced training of honorable Paladins in their quest for truth and
+justice.  The Order is funded primarily by the Paladins who are members,
+giving away most of their treasures to help other worthy Paladins advance
+in their ranks.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">581</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">583</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1653" Version="2.40" Area="ocean">
+  <Name>Amberton Lane/Monument Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Amberton Lane and Monument Avenue.</ShortDescription>
+  <LongDescription>Amberton Lane was not so lucky when the mages of Keslar decided that 
+this would be a good place to put a mountain, and subsequently destroyed
+a portion of Amberton Lane.  In order to continue on Amberton Lane, you
+must go east on Monument and then head north on Levaithan.  You may then
+take any western-heading road back to Amberton.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1652</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1654</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

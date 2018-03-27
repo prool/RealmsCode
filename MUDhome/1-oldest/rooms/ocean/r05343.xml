@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="5343" Version="2.40" Area="ocean">
+  <Name>West Forest Lane</Name>
+  <ShortDescription>This is a wide lane through the Enchanted Forest.  </ShortDescription>
+  <LongDescription>Heavy brush is on either side, and has apparently been cut back recently.
+You can see fresh wagon marks and steaming piles of horse manure in the
+middle of the lane, all evidence that this is a well traveled path in the
+woods.  A cross lane is over to the west.  The path disappears around a bend
+going in the southeast direction.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">229</Mob>
+      <Mob Area="ocean" Num="1">229</Mob>
+      <Mob Area="ocean" Num="2">29</Mob>
+      <Mob Area="ocean" Num="3">229</Mob>
+      <Mob Area="ocean" Num="4">229</Mob>
+      <Mob Area="ocean" Num="5">229</Mob>
+      <Mob Area="ocean" Num="6">29</Mob>
+      <Mob Area="ocean" Num="7">229</Mob>
+      <Mob Area="ocean" Num="8">29</Mob>
+      <Mob Area="ocean" Num="9">29</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5342</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5344</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3874" Version="2.40" Area="ocean">
+  <Name>Locked Grate</Name>
+  <ShortDescription>You are in an old aquaduct, near a locked grate where the water disappears.</ShortDescription>
+  <LongDescription>The stream gurgles and runs through the ancient iron grate, swirling
+away out of sight.  This must be at a point somewhere underneath the
+ruined temple in the jungle above.  The brickwork lining the old tunnel
+is crumbled and in a heap here, almost like it had been destroyed by
+an earthquake.  If you don't have a key to the grate the only exit from
+here is to the northwest.</LongDescription>
+  
+  <Established>768709980</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3867</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="grate">
+      <Keys/>
+      <Room Area="ocean">3879</Room>
+      <Key>71</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

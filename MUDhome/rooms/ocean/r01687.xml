@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1687" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are walking along Golden Dolphin Way, north of the City Walls.</ShortDescription>
+  <LongDescription>The omnimous City Walls rise up nearly ten meters, preventing just about
+any attack from the outside regions.  Oceancrest has had a long history
+of wars and sieges, which is the primary reason the walls were built.
+As an additional benefit, it also serves as an ideal law-enforcement 
+agent, preventing wanted criminals from fleeing the town.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1686</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1688</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

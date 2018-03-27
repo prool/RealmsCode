@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="598" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are walking along Rosecrest Street, west of Lyanden Lake.</ShortDescription>
+  <LongDescription>The magnificent Lyanden Lake can be seen to the east.  A small beach is
+formed as the water nears the shore formed by Rosecrest Street.  On the
+west side of the road is the Evenborough Park, a quiet, serene park 
+ideal for picnics, parties or just resting peacefully under the warming
+rays of the sun.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">597</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">599</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

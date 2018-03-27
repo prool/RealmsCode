@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3006" Version="2.40" Area="ocean">
+  <Name>Northeast Corner of Cellar, by Sign</Name>
+  <ShortDescription>This is the northeast corner of the farmer's large cellar.</ShortDescription>
+  <LongDescription>To the north a wooden sign is set in the stone wall.  "Behold the
+entrance to the underground city."  The small city down here is not
+near as large as Oceancrest, but is much older.  Young adventurers come
+here in search of the legendary Emerald Armor, said to keep the wearer
+safe from all magical weapons.  However, the young adventurer would be
+well advised to ask a veteren to accompany them in their quest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3004</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3005</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3003</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3007</Room>
+      <Key>51</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

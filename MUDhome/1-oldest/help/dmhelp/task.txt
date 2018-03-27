@@ -1,0 +1,23 @@
+Help on: *task
+
+This command allows any immortal to either view or
+append to the Realms Tasklog. The tasklog is used
+to keep the staff apprised of what all is going on
+and what everyone else is doing. It is a very very
+important communications mechanism. Whenever a staff
+member does anything on the mud (builds, comes up
+with an idea, fixes something, finds a bug, etc..)
+it should be posted to the tasklog using this command.
+
+Syntax: *task [-a|-d]
+
+Switch desctiptions:
+-a: This allows you to append a new entry to the task
+    log. Entries should be kept brief and to the point.
+-d: This allows a DM to delete the current tasklog.
+    Only one DM should be in charge of doing this at
+    any given time.
+
+Using the command with no switches allows you to simply
+view the tasklog as if it were a mudmail message.
+

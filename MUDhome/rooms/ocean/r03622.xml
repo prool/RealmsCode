@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3622" Version="2.40" Area="ocean">
+  <Name>Main Courtyard West</Name>
+  <ShortDescription>You are on the west side of the courtyard near the castle garden.</ShortDescription>
+  <LongDescription>Directly east you can see a wonderful garden surrounded by a small fence.
+There are fruit and nut trees of every description, and rows of interesting
+plants.  A white mist rises on the far side, so it is impossible to see
+how big the garden is.  To the south you can see the southern wall of
+the castle, and to the east is a great expanse of flagstone with a small
+fountain and pool forming a rest area.</LongDescription>
+  
+  <Established>762645584</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3629</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3621</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3623</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

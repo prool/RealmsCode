@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3641" Version="2.40" Area="ocean">
+  <Name>Hot Forge</Name>
+  <ShortDescription>You are near a fiery hot blast furnace in the forge room deep in the castle.</ShortDescription>
+  <LongDescription>This is the foundry room where the heat is truly intense.  The forge gives
+off a searingly bright light and a vast amount of heat.  Strong smiths
+stand over their anvils shaping the great metal sheets into beautiful
+pieces of armor.  West of here is the armory adet, while the arches lead
+to the main armory of the castle.</LongDescription>
+  
+  <Established>764987731</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3638</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="arch">
+      <Keys/>
+      <Room Area="ocean">3639</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

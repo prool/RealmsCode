@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="31" Area="ocean" Version="2.40">
+  <Name>small mace</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>45</ShotsMax>
+  <ShotsCur>45</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>4</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">230</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">mace</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Weight>7</Weight>
+  <Type>5</Type>
+  <SubType>mace</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

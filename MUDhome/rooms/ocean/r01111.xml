@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1111" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>You are traveling along Marina Way, just north of Nagaritha Drive.</ShortDescription>
+  <LongDescription>Nagaritha Drive is directly to the south of here.  On the east, you can
+see the Regalia Convent, a large estate dedicated to the blasphemous 
+monotheistic philosophy.  The only reason it even exists in Oceancrest
+is because a wealthy resident wanted more diversity in the area of
+religion and dedicated this building for its study.  There are large
+oak doors on the east which lead into the Convent.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">265</Mob>
+      <Mob Area="ocean" Num="1">265</Mob>
+      <Mob Area="ocean" Num="2">265</Mob>
+      <Mob Area="ocean" Num="3">265</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1112</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1096</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

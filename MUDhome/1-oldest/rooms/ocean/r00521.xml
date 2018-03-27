@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="521" Version="2.40" Area="ocean">
+  <Name>Marina Circle</Name>
+  <ShortDescription>You are walking around the north side of Marina Circle.</ShortDescription>
+  <LongDescription>Marina Circle is an interesting monument to sailors and marines of all
+ages and ranks.  The Marine Guards are fairly tough seafaring soldiers who
+protect the City from the sea.  Many battles have been fought for control
+of Nylandian Bay.  For Oceancrest, the Bay is an essential part of the
+economy, providing much of the commercial and industrial activity in the
+city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">519</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">520</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">522</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

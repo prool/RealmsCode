@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="147" Version="2.40" Area="ocean">
+  <Name>Poor Alley</Name>
+  <ShortDescription>You are in Poor alley, jostling with beggers and elderly people.</ShortDescription>
+  <LongDescription>There is a chapter of the Begger's Guild on the west side of this disgusting
+throughfare, and an open door on the east side is a Conjurer's Guild.  The
+beggers coming out of the guild seems to be mostly maimed and blind, but
+some get around amazingly well in spite of their apparent handicap.  A very
+strong and unpleasant odor wafts on the breeze.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">3</Mob>
+      <Mob Area="ocean" Num="3">2</Mob>
+      <Mob Area="ocean" Num="4">5</Mob>
+      <Mob Area="ocean" Num="5">7</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">10</Mob>
+      <Mob Area="ocean" Num="9">10</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">142</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">152</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

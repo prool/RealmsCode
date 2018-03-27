@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="213" Area="ocean" Version="2.40">
+  <Name>morning star</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>65</ShotsMax>
+  <ShotsCur>65</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>6</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">star</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a large wooden club with a large metal ball with spikes attached.</Description>
+  <Weight>5</Weight>
+  <Type>5</Type>
+  <SubType>mace</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

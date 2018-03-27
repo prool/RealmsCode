@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="2318" Version="2.40" Area="ocean">
+  <Name>The Fiesty Kitten Nightclub and Bar</Name>
+  <ShortDescription>You are at the main entrance to the Fiesty Kitten Nightclub and Bar.</ShortDescription>
+  <LongDescription>The Fiesty Kitten is one of the more popular places in Oceancrest for
+high level adventurers looking for more than a good time.  Because of
+the nature of the action which goes on inside the Fiesty Kitten Bar,
+minors (under level 10) will not be admitted.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">80</Mob>
+      <Mob Area="ocean" Num="1">79</Mob>
+      <Mob Area="ocean" Num="2">79</Mob>
+      <Mob Area="ocean" Num="3">79</Mob>
+      <Mob Area="ocean" Num="4">80</Mob>
+      <Mob Area="ocean" Num="5">80</Mob>
+      <Mob Area="ocean" Num="6">80</Mob>
+      <Mob Area="ocean" Num="7">79</Mob>
+      <Mob Area="ocean" Num="8">79</Mob>
+      <Mob Area="ocean" Num="9">79</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">744</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="entrance">
+      <Keys/>
+      <Room Area="ocean">2319</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1914" Version="2.40a" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are on Oceancrest Avenue just east of the intersection with Leviathan.</ShortDescription>
+  <LongDescription>This is a very high class neighborhood with several swank shops to the
+south.  Further to the east is the famous Ashton Falls Resort.  Many of
+the city's most wealthy and influential residents live there, and the 
+small shopping center on the south side of the avenue caters to their
+needs.  One of the best restaurants in the city, Antoine's Grill, is
+in there.</LongDescription>
+  
+  <Established>756249297</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1915</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">586</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

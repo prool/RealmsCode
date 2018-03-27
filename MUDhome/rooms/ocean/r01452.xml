@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="1452" Version="2.40" Area="ocean">
+  <Name>Guard Commander's Quarters</Name>
+  <ShortDescription>You are in the plush, luxurious quarters of the Palace Guard Commander.
+The guard commander is in charge of all security in the Palace.  For the
+most part, the mages can take care of themselves.  However, there are
+circumstances where the guards come in quite useful, thus are well
+accomodated.</ShortDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">130</Mob>
+      <Mob Area="ocean" Num="1">130</Mob>
+      <Mob Area="ocean" Num="2">130</Mob>
+      <Mob Area="ocean" Num="3">130</Mob>
+      <Mob Area="ocean" Num="4">126</Mob>
+      <Mob Area="ocean" Num="5">126</Mob>
+      <Mob Area="ocean" Num="6">130</Mob>
+      <Mob Area="ocean" Num="7">126</Mob>
+      <Mob Area="ocean" Num="8">126</Mob>
+      <Mob Area="ocean" Num="9">126</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>84600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">129</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1453</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hallway">
+      <Keys/>
+      <Room Area="ocean">1451</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,26 @@
+Languages (127 max)
+
+LUNKNOWN...........1   // Alien Language
+LDWARVEN...........2   // Dwarven
+LELVEN.............3   // Elven
+LHALFLING..........4   // Halfling
+LCOMMON............5   // Common Tongue
+LORCISH............6   // Orcish
+LGIANTKIN..........7   // Giantkin
+LGNOMISH...........8   // Gnomish
+LTROLL.............9   // Trollish
+LOGRISH............10  // Ogrish
+LDARKELVEN.........11  // Dark Elven(Drow)
+LGOBLINOID.........12  // Goblinoid
+LMINOTAUR..........13  // Minotaur
+LCELESTIAL.........14  // Celestial(Seraph)
+LKOBOLD............15  // Kobold
+LINFERNAL..........16  // Infernal
+LSCHNAI............17  // Schnai(Barbarian)
+LKATARAN...........18  // Kataran
+LDRUIDIC...........19  // Druidic(Druids/Rangers)
+LWOLFEN............20  // Wolfen(Werewolves)
+LTHIEFCANT.........21  // Thieves' Cant
+LARCANIC...........22  // Arcanic(Mage/Lich)
+LABYSSAL...........23  // Abyssal
+LTIEFLING..........24  // Tiefling

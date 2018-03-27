@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="27" Area="ocean" Version="2.40">
+  <Name>pot helm</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>20</ShotsMax>
+  <ShotsCur>20</ShotsCur>
+  <Armor>13</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">98</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">helm</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Weight>7</Weight>
+  <Type>6</Type>
+  <WearFlag>7</WearFlag>
+  <InBag/>
+</Object>

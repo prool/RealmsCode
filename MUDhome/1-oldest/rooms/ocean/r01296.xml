@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="1296" Version="2.40" Area="ocean">
+  <Name>Ashton Creek Bank</Name>
+  <ShortDescription>You are walking on a path parallel to the Ashton creek.</ShortDescription>
+  <LongDescription>The creek flows to the south where it will eventually join the Ashton
+River as it makes its way to the Nylandian Bay.  On the east side of the
+path, away from the water, you can see several tiny houses under the
+forest ferns.  The houses are not more than a meter tall, and are painted
+in the brightest of colors.</LongDescription>
+  
+  <Established>756204077</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">116</Mob>
+      <Mob Area="ocean" Num="1">116</Mob>
+      <Mob Area="ocean" Num="2">116</Mob>
+      <Mob Area="ocean" Num="3">116</Mob>
+      <Mob Area="ocean" Num="4">116</Mob>
+      <Mob Area="ocean" Num="5">116</Mob>
+      <Mob Area="ocean" Num="6">116</Mob>
+      <Mob Area="ocean" Num="7">116</Mob>
+      <Mob Area="ocean" Num="8">116</Mob>
+      <Mob Area="ocean" Num="9">116</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1297</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1293</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3975</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

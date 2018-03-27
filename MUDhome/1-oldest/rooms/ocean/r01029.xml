@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1029" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>You are on Main Street, near the Southern Entrance to town.</ShortDescription>
+  <LongDescription>There is a large inn to the east of Main Street called "The Golden 
+Dolphin Inn", which caters to the average traveler travelling between
+cities.  The modest accomodations and excellent food are well worth
+the few gold pieces it costs to stay there.  Heading north on Main 
+brings you towards the shopping districts of town, where just about 
+anything may be bought or sold.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1028</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1052</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

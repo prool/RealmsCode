@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3422" Version="2.40" Area="ocean">
+  <Name>The Druid's Sepulcher</Name>
+  
+  <Established>760055339</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3421</Room>
+      <Flags>
+        <Bit Num="17"/>
+      </Flags>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3423</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

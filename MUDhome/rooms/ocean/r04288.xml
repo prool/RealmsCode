@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="4288" Version="2.40a" Area="ocean">
+  <Name>Rutger's Vault</Name>
+  <ShortDescription>................. ALARM BELLS ARE RINGING ....................</ShortDescription>
+  <LongDescription>You are in one of the most famous vaults in all the kingdom.  Prince Rutger
+is rumored to have one of the most fabulous collections of treasure ever
+assembled in any kingdom.  Perhaps the only other person to be so wealthy
+is Rutger's brother, Prince Ragnar.</LongDescription>
+  
+  
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4287</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

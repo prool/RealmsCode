@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="3675" Version="2.40" Area="ocean">
+  <Name>Thieve's Passage</Name>
+  <ShortDescription>This is a small crawlway deep inside the castle.  It's dark and clammy.</ShortDescription>
+  <LongDescription>There is a sound of trickling water and the scurry of small feet.  From
+time to time, you hear the sharp sounds of rats or other high pitched 
+squeals.  Sounds like either a fight or lovemaking.  You might not want
+to get caught in the middle of either.  A circular room is to the east.</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="9"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">17</Mob>
+      <Mob Area="ocean" Num="1">17</Mob>
+      <Mob Area="ocean" Num="2">17</Mob>
+      <Mob Area="ocean" Num="3">17</Mob>
+      <Mob Area="ocean" Num="4">17</Mob>
+      <Mob Area="ocean" Num="5">17</Mob>
+      <Mob Area="ocean" Num="6">17</Mob>
+      <Mob Area="ocean" Num="7">17</Mob>
+      <Mob Area="ocean" Num="8">17</Mob>
+      <Mob Area="ocean" Num="9">17</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3674</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3676</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

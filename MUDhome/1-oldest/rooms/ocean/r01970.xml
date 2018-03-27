@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="1970" Version="2.40" Area="ocean">
+  <Name>Dante's Daggers and Darts Shoppe</Name>
+  <ShortDescription>You are in Dante's wonderful world of darts and daggers.</ShortDescription>
+  <LongDescription>No self-respecting thief or assassin would be caught dead without a good
+dagger or a couple of poisoned darts.  These fantastic weapons are ideal for
+backstabbing and throwing.  You have to watch Dante, though.  he's been in 
+business for ages, and knows how to con people out of a lot of money.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1170</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

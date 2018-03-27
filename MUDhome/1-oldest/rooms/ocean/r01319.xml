@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1319" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, south of the Ashton Bridge.</ShortDescription>
+  <LongDescription>The Ashton Bridge crosses over the Ashton River, which appears to flow
+to the west across Riverdell Way.  To the west is the exclusive Ashton
+Falls Resort, reserved for only the most exclusive group of people.
+The entrance to the resort is off of Oceancrest Avenue.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1318</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1320</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

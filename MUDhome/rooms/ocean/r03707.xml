@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="3707" Version="2.40" Area="ocean">
+  <Name>The Sleeping Deer Real Estate Office</Name>
+  <ShortDescription>You are in the office of the only real estate company in Oceancrest.</ShortDescription>
+  <LongDescription>The company handles all real estate transactions in the city, both
+residential and commercial.  If you would like to purchase an exclusive
+apartment in the Ashton Falls Resort, you must be at least level 14.
+However, anyone with enough gold may purchase a business in Oceancrest.
+There are various pubs, shops and small businesses in the city that may
+be owned by players.   This office is also a postal facility, and you may
+send mail to Styx if you wish to purchase real estate.  You can also
+buy a Rules of Business, or an Ashton Falls Agreement here.  A list is
+available for your perusal.</LongDescription>
+  
+  <Established>763934262</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1023</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

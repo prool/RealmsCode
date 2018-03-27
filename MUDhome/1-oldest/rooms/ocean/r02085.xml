@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2085" Version="2.41a" Area="ocean">
+  <Name>Elven Dignitary's Quarters</Name>
+  <ShortDescription>You are in the quarters of Illia, elven dignitary from Riverdell.</ShortDescription>
+  <LongDescription>Illia is usually at her desk, signing papers and other important documents.
+She is a strong fighter from the elven community of Riverdell and is 
+considered an expert bowyer.  The elven city of Riverdell is quite a
+distance to the north of Kista, so Illia tends to stay here for many
+days or even weeks at a time.  Her quarters are less lavish and not
+decorated near as much as Travis' and Drowlin's quarters.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>86400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">235</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2080</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

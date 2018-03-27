@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3992" Version="2.40" Area="ocean">
+  <Name>Forest Tunnel</Name>
+  <ShortDescription>You are in a long, straight tunnel with walls of greenish tinted glass.</ShortDescription>
+  <LongDescription>The walls glow with a steady green hue, but not with enough light to see by.
+coming from the southeast is a breath of fresh air, but it doesn't change
+the fact that this place is a silent as a tomb.</LongDescription>
+  
+  <Established>789437932</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3991</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3993</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

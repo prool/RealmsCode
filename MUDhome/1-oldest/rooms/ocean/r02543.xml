@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2543" Version="2.40" Area="ocean">
+  <Name>Cryptographer's Research Room</Name>
+  <ShortDescription>You are in a room reserved for the Tower's code makers and breakers.</ShortDescription>
+  <LongDescription>Papers cover the desk and the floor, and books are piled everywhere.
+There are charts covering every wall with tables and transposed alphabets.
+Although there isn't anyone here right now, this seems to be a very busy
+room in the Tower.</LongDescription>
+  
+  <Established>787424110</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>300</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">628</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2545</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

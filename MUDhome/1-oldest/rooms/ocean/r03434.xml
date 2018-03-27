@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3434" Version="2.40" Area="ocean">
+  <Name>The Vaults</Name>
+  <ShortDescription>The hallway leads north and south, a strange door lies to the south.</ShortDescription>
+  <LongDescription>3</LongDescription>
+  
+  <Established>760058568</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3433</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3435</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

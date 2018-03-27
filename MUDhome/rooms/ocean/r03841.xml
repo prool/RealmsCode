@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="3841" Version="2.47i" Area="ocean">
+  <Name>North Oceancrest Guard Station Gate</Name>
+  <ShortDescription>You are outside the gate of the North Oceancrest Guard Station.</ShortDescription>
+  <LongDescription>The huge gate is ponderous to open or close, and stays open all day, but at 
+night it is shut tightly and the guards peer down from the City Wall above.
+A small but sturdy metal door is available for emergency use at night.
+It goes directly into the Guard Station.</LongDescription>
+  <Flags><Bit Num="9"></Bit></Flags>
+  <Wander></Wander>
+  <Track><Direction>door</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="gate"><Keys></Keys><Target><Room Area="ocean">3840</Room></Target><Effects></Effects><Flags><Bit Num="17"></Bit></Flags></Exit><Exit Name="door"><Keys></Keys><Target><Room Area="ocean">3942</Room></Target><Effects></Effects><Flags><Bit Num="3"></Bit><Bit Num="5"></Bit></Flags></Exit><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">3842</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

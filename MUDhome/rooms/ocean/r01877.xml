@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1877" Version="2.40" Area="ocean">
+  <Name>Open Air Altar</Name>
+  <ShortDescription>You are near an great stone altar built between the jungle and the cemetery.</ShortDescription>
+  <LongDescription>The altar is covered with voodoo symbols and blood.  A still twitching
+corpse of a headless human lies on top of it, with fresh blood running
+into troughs designed to funnel the warm, red liquid into a basin at
+the end of the altar.  Behind you, at the jungle edge, you hear a low,
+monotonous chanting.</LongDescription>
+  
+  <Established>761463221</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">490</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="footpath">
+      <Keys/>
+      <Room Area="ocean">372</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1878</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

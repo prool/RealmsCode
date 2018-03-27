@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<Room Num="1413" Version="2.40" Area="ocean">
+  <Name>Dim Hallway</Name>
+  <ShortDescription>You are in a dim hallway branching off from the main hallway.</ShortDescription>
+  <LongDescription>This passage leads to two doors at the end of the hallway.  The one
+to the north leads to a den.  The one to the south leads to the 
+library.  The walls are outlined with pictures of the conquests of
+the family dating back to when magic was first harnessed by humans.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">130</Mob>
+      <Mob Area="ocean" Num="1">130</Mob>
+      <Mob Area="ocean" Num="2">130</Mob>
+      <Mob Area="ocean" Num="3">130</Mob>
+      <Mob Area="ocean" Num="4">130</Mob>
+      <Mob Area="ocean" Num="5">130</Mob>
+      <Mob Area="ocean" Num="6">130</Mob>
+      <Mob Area="ocean" Num="7">130</Mob>
+      <Mob Area="ocean" Num="8">130</Mob>
+      <Mob Area="ocean" Num="9">130</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1414</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="den">
+      <Keys/>
+      <Room Area="ocean">1415</Room>
+      <Key>23</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="library">
+      <Keys/>
+      <Room Area="ocean">1416</Room>
+      <Key>20</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

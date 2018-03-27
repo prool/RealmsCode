@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="427" Version="2.40" Area="ocean">
+  <Name>Bendine Way/Islandia Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Islandia Drive and Bendine Way.</ShortDescription>
+  <LongDescription>Bendine Way runs north and south, intersecting Islandia Way, running 
+east and west.  On the northeast corner of the intersection, you can see
+the North Oceancrest Hot Springs and Spa.  On the northwest corner is 
+the famous Cathedral of Worldly Bliss.  Bendine Way heads south towards
+the Nylandian Bay and Islandia heads west towards the Bendine Aquarium
+and Marina.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">478</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">479</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">426</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">428</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

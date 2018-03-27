@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<Creature Num="75" Area="ocean" Version="2.40">
+  <Name>vampire bat</Name>
+  <Level>1</Level>
+  <Type>1</Type>
+  <Experience>8</Experience>
+  <Coins/>
+  <Alignment>-10</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>90</Current>
+      <Max>90</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>10</Current>
+      <Max>10</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a rather large black vampire bat coming at you very fast.</Description>
+  <Keys>
+    <Key Num="0">vampire</Key>
+    <Key Num="1">bat</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>50</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>1</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <DefenseSkill>5</DefenseSkill>
+  <AttackPower>120</AttackPower>
+  <WeaponSkill>5</WeaponSkill>
+  <CarriedItems/>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="6"/>
+    <Bit Num="9"/>
+    <Bit Num="10"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

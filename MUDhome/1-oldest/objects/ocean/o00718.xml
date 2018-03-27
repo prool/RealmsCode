@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="718" Area="ocean" Version="2.40">
+  <Name>tiny wand</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>5</ShotsMax>
+  <ShotsCur>5</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">wand</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+    <Bit Num="26"/>
+    <Bit Num="36"/>
+  </Flags>
+  <Description>The wand is silver and gold, and perhaps eight centimeters in length.</Description>
+  <UseOutput>zzzzzzZZZZZZZ Z Z Z Z Z A A A A A A P P P PPPP!</UseOutput>
+  <Weight>1</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>36</MagicPower>
+  <InBag/>
+</Object>

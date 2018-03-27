@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  wall-of-fire spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 30
+School:  Conjuration
+Domain:  Creation
+
+The wall of fire spell will summon a barrier of flames, blocking an exit. The
+wall of fire will also block the exit in the target room that leads back to
+the room you are in, if one could be found. Anyone, besides the caster, who
+passes through the wall of fire will take fire damage. A wall of fire may be
+brought down by a dispel-magic spell.
+
+Syntax:
+cast wall-of-fire <exit>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="5054" Version="2.40" Area="ocean">
+  <Name>Turbulent Air</Name>
+  <ShortDescription>You are in a turbulent air stream, hanging on to a dragon.  50.n0.e0.s1.w2</ShortDescription>
+  <LongDescription>Toward the west is the Vallenda Pass, located between two great mountain
+ranges to the south and to the north.  Much further to the west is the
+Vallenda Plains, a strange land where a great waste land exists.  To the
+east there are several major villages and towns, and the city of Kista.</LongDescription>
+  
+  <Established>772228693</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5025</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5080</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5057</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5060</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

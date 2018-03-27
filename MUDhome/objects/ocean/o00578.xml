@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="578" Area="ocean" Version="2.40">
+  <Name>torshorak axe</Name>
+  <Adjustment>2</Adjustment>
+  <ShotsMax>85</ShotsMax>
+  <ShotsCur>85</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>6</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">7000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">axe</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>A finely crafted axe made of mithril, studded with gems.</Description>
+  <Weight>6</Weight>
+  <Type>5</Type>
+  <SubType>axe</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,17 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  insight spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 30
+School:  Transmutation
+Domain:  Augmentation
+
+The insight spell increases your intellgience, strengthening your reasoning and
+making you immune to confusion attacks. This spell does not last long, but
+while it is in effect, you will have more mana. A feeblemind spell counteracts
+the effects of an insight spell.
+
+An insight spell will cancel the effects of confusion.
+Only a mage, lich, druid, or cleric may cast this spell.
+
+Syntax:
+cast insight <target>

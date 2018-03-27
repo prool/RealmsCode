@@ -1,0 +1,26 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  Tiefling         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Adjustments: +2 Intelligence, +1 Dexterity, -2 Constitution, -1 Piety
+Compatible Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf,
+	Fighter/Mage, Fighter/Thief, Mage/Thief, Thief/Mage, Mage/Assassin
+
+Tieflings are the offspring of demons and halflings. Thus they have inbred
+magical talent and intelligence. They often suffer from strange deformities due
+to their abyssal nature, such as a forked tail or tongue, steely spiked hair,
+clawed hands and feet, large horns, etc. The deformities tend to hamper their
+natural halfling dexterity as well as to make them have much less stature than
+normal for a halfling. Tieflings make some of the best mages on Derlith, and
+they only recently have begun to emerge in this regard. The majority of
+tieflings are of a multi-class nature, usually one having magical abilities.
+They are often hired out as assassins by one evil organization or another, as
+they have an inherent michievously evil nature. Most are shunned at birth as
+some kind of bad omen, and they are drawn to criminal and chaotic behavior like
+a moth to a flame. All tieflings have red eyes with black or white pupils which
+glow when the light is low.
+
+See in dark (infravision): Yes
+Size class: Small
+Note: Tieflings must be Chaotic.

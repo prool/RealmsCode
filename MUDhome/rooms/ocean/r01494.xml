@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1494" Version="2.40" Area="ocean">
+  <Name>Kitchen Access Hallway</Name>
+  <ShortDescription>You are in a small kitchen access hallway leading to a small kitchen.</ShortDescription>
+  <LongDescription>This hallway brings you around the rear of the kitchen for delivery of
+goods for preparation specifically for the Wizard and his esteemed
+guests.  Only the finest ingredients go towards making the Wizard's
+meals.  The hallway continues to the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">174</Mob>
+      <Mob Area="ocean" Num="1">174</Mob>
+      <Mob Area="ocean" Num="2">173</Mob>
+      <Mob Area="ocean" Num="3">173</Mob>
+      <Mob Area="ocean" Num="4">173</Mob>
+      <Mob Area="ocean" Num="5">128</Mob>
+      <Mob Area="ocean" Num="6">127</Mob>
+      <Mob Area="ocean" Num="7">128</Mob>
+      <Mob Area="ocean" Num="8">127</Mob>
+      <Mob Area="ocean" Num="9">130</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1489</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1495</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

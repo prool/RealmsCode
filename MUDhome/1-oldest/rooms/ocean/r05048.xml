@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="5048" Version="2.40" Area="ocean">
+  <Name>Fog Bank</Name>
+  <ShortDescription>You are in a heavy and wet fog bank, making it difficult to see anything.</ShortDescription>
+  <LongDescription>There's nothing but a whiteness all around you, and at times it's so dense
+you cannot even see the dragon on which you are mounted.  However, if you
+let the dragon find his own way out, it might be a little faster than you
+trying to do it.</LongDescription>
+  
+  <Established>772228594</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>forward</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">5046</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right">
+      <Keys/>
+      <Room Area="ocean">5073</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="forward">
+      <Keys/>
+      <Room Area="ocean">5047</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="4231" Version="2.40a" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>This is the western end of the north side of the castle, on the ground level.</ShortDescription>
+  <LongDescription>the hallway continues to the east and turns to the southwest.  The main
+gate is located to the southwest.  This part of the hallway is reserved for
+higher ranked officers, and the rooms along here are generally occupied by 
+off duty commanders and officers.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>6</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">336</Mob>
+      <Mob Area="ocean" Num="1">129</Mob>
+      <Mob Area="ocean" Num="2">126</Mob>
+      <Mob Area="ocean" Num="3">336</Mob>
+      <Mob Area="ocean" Num="4">336</Mob>
+      <Mob Area="ocean" Num="5">126</Mob>
+      <Mob Area="ocean" Num="6">336</Mob>
+      <Mob Area="ocean" Num="7">126</Mob>
+      <Mob Area="ocean" Num="8">336</Mob>
+      <Mob Area="ocean" Num="9">336</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4230</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4232</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

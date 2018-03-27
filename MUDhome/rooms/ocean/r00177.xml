@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="177" Version="2.40" Area="ocean">
+  <Name>Vickers House Music Room</Name>
+  <ShortDescription>You are in a large but sparsely furnished music room in the Vickers House.</ShortDescription>
+  <LongDescription>A grand piano is near the window, and several chairs and music stands form
+a ring in the center of the room.  There is a harpsicord and bass viola with
+several other instruments near the door.  Rumor has it that Lady Vickers
+could charm the dead and sooth the undead with her music.  You feel an
+invisible force in the room, and hear the faint sounds of a flute. </LongDescription>
+  
+  <Established>785613740</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">733</Mob>
+      <Mob Area="ocean" Num="1">733</Mob>
+      <Mob Area="ocean" Num="2">733</Mob>
+      <Mob Area="ocean" Num="3">733</Mob>
+      <Mob Area="ocean" Num="4">18</Mob>
+      <Mob Area="ocean" Num="5">733</Mob>
+      <Mob Area="ocean" Num="6">18</Mob>
+      <Mob Area="ocean" Num="7">18</Mob>
+      <Mob Area="ocean" Num="8">733</Mob>
+      <Mob Area="ocean" Num="9">733</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>front room</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">732</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">741</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="front room">
+      <Keys/>
+      <Room Area="ocean">175</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

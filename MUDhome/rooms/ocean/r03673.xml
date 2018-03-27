@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="3673" Version="2.40" Area="ocean">
+  <Name>Broken Wall</Name>
+  <ShortDescription>You are near a collapsed and broken wall under the castle of Prince Ragnar.</ShortDescription>
+  <LongDescription>A trickle of water coming from the tunnel to the north disappears into
+a hole in the floor, gurgling and swirling as it goes.  Looks like the
+tunnel continued to the southeast long ago, but now the way is blocked
+by a collapsed wall.  Directly south is a castle guard station.  Only
+the lowest recruits are assigned to this miserable duty, and they spend
+most of their time sleeping and playing cards.  North is a group of cells
+where the castle's petty thieves and criminals are kept.</LongDescription>
+  
+  <Established>765188140</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3672</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3686</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">3681</Room>
+      <Key>61</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5529" Version="2.40" Area="ocean">
+  <Name>Gorgan's Tower</Name>
+  <ShortDescription>You are at the base of Gorgon's Tower.  Gorgon, a blind demon, lives inside.</ShortDescription>
+  <LongDescription>Gorgan took this tower as his own almost 300 years ago, and was the terror
+of the countryside until he accidently got acid in his many eyes.  He
+consulted the herbilist who lived on the farm down the trail, but she saw
+through his disguise and made his blindness permanent.  As his last act of
+terror, he burned the farm and turned the daughter into an ugly toad.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5528</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="vines">
+      <Keys/>
+      <Room Area="ocean">5530</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

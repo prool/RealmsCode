@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="180" Area="ocean" Version="2.40">
+  <Name>grass parchment</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">125</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">parchment</Key>
+    <Key Num="1">grass</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="1"/>
+  </Flags>
+  <Description>You see a scroll that blends into the grass of the forest.</Description>
+  <Weight>1</Weight>
+  <Type>8</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>21</MagicPower>
+  <InBag/>
+</Object>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3227" Version="2.40a" Area="ocean">
+  <Name>Bridge Over The Bay</Name>
+  <ShortDescription>You are passing over the immense Nylandian Bay on a long wooden bridge.</ShortDescription>
+  <LongDescription>From here you can see far out to sea.  Pirate ships often lie in wait 
+just outside the bay, waiting to ambush foreign merchant ships as they 
+approach the city anchorage.  Be assured though, that the city is well 
+fortified.</LongDescription>
+  
+  <Established>756089533</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3226</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3228</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

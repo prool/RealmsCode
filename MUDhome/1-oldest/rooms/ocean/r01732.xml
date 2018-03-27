@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1732" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are on Riverdell Way, east of the Bows &amp; Arrows Unlimited bowyer shop.</ShortDescription>
+  <LongDescription>The impressive Bows &amp; Arrows Unlimited bow shop satisfies both the beginner
+and the expert archer, and everyone in between.  All sorts of bows and 
+arrows my be purchased in the shop, run by a number of elves who can also
+craft weapons to your exact proportions.  The fine bows are cherished by
+all those who purchase from the shop and envied by those who do not have
+the money to buy the best.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1733</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1731</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Room Num="4087" Version="2.40" Area="ocean">
+  <Name>Eastern Mountain Path</Name>
+  
+  <Established>773015390</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4086</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

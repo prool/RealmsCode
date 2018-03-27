@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="425" Version="2.40" Area="ocean">
+  <Name>Bendine Way</Name>
+  <ShortDescription>You are walking along Bendine Way, west of the Blue Rose Meditation Chamber.</ShortDescription>
+  <LongDescription>The Blue Rose Meditation Chamber is a small study area for young clerics
+who need to meditate and/or pray to their dieties for whatever reason.  
+The Meditation Chamber provides a quiet building for these clerics, monks
+or druids to relax in the peacefullness of meditation.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">424</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">426</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

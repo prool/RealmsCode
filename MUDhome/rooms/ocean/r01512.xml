@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1512" Version="2.40" Area="ocean">
+  <Name>Narrow Hallway</Name>
+  <ShortDescription>You are in a narrow hallway in the dungeon of the Palace.</ShortDescription>
+  <LongDescription>The hallway is rather long and extends to the north and south.  Every
+so often, you notice a number of guards walking by, but quickly hide
+in the shadows before they spot you.  There's another hallway breaking
+off from the main hall to to the south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">131</Mob>
+      <Mob Area="ocean" Num="1">131</Mob>
+      <Mob Area="ocean" Num="2">152</Mob>
+      <Mob Area="ocean" Num="3">152</Mob>
+      <Mob Area="ocean" Num="4">152</Mob>
+      <Mob Area="ocean" Num="5">151</Mob>
+      <Mob Area="ocean" Num="6">151</Mob>
+      <Mob Area="ocean" Num="7">151</Mob>
+      <Mob Area="ocean" Num="8">152</Mob>
+      <Mob Area="ocean" Num="9">151</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1511</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1370</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

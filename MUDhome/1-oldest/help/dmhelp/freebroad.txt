@@ -1,0 +1,13 @@
+Help on DM command:
+	FREEBROAD
+
+Toggles freebroad, which allows players to broadcast
+as many times as desired. You can use the *info command
+to check whether or not freebroad has been left on.
+
+: *freebroad
+: *** FREE BROADCAST MODE ACTIVATED
+: *freebroad
+: *** FREE BROADCAST MODE DE-ACTIVATED
+
+

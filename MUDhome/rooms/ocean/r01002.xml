@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="1002" Version="2.40a" Area="ocean">
+  <Name>Oceancrest Memorial Fountain Path</Name>
+  <ShortDescription>You are on the east side of the circular path around the fountain.</ShortDescription>
+  <LongDescription>The fountain to the west is a combination of modern and classical artwork
+bringing together very lifelike statues with abstract backgrounds.  The
+fountain is very large and you can occasionally see people with their feet
+in it.  To the east is Regalia Drive, which takes you directly to the
+Regalia Convent.  The circular path continues to the northwest and 
+southwest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">3</Mob>
+      <Mob Area="ocean" Num="3">3</Mob>
+      <Mob Area="ocean" Num="4">6</Mob>
+      <Mob Area="ocean" Num="5">6</Mob>
+      <Mob Area="ocean" Num="6">8</Mob>
+      <Mob Area="ocean" Num="7">266</Mob>
+      <Mob Area="ocean" Num="8">7</Mob>
+      <Mob Area="ocean" Num="9">266</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1001</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1003</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1113</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="fountain">
+      <Keys/>
+      <Room Area="ocean">1000</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

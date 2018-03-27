@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3267" Version="2.40" Area="ocean">
+  <Name>Carriage Lane</Name>
+  <ShortDescription>You are on the Ogden Villa Estate, in the carriage lane.</ShortDescription>
+  <LongDescription>South of you is the front entrance to the Ogden Family home, and north
+along the carriage lane is the main gate.  To the west are the spacious
+grounds and gardens.  If you have not been invited you are considered a
+trespasser, and trespassers are often killed on sight. The rich really 
+cannot take any chances, now can they?</LongDescription>
+  
+  <Established>756126281</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3266</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3268</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3291</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

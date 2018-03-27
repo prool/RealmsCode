@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="947" Version="2.40" Area="ocean">
+  <Name>East Hafnia Boulevard</Name>
+  <ShortDescription>You are on the main boulevard of the City of Hafnia.</ShortDescription>
+  <LongDescription>This small city was built by elves.  Over to the west is the popular
+central park and meeting area.  To the east is the end of the city and the
+path down the mountain.  To the south you see a postal facility, where  
+there seems to be some people looking at pictures. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">948</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">946</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">906</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">899</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

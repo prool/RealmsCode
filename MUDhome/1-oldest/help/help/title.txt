@@ -1,0 +1,9 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  title          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+When permitted, you may choose your own title with the title command. Level
+30 characters are allowed to choose their own titles.
+
+Keep in mind that titles must be appropriate and consistent with the theme
+of the game.

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="1728" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, east of a couple of small shops.</ShortDescription>
+  <LongDescription>Directly to the west, you can see Hanabal's Light Swords shop, where some
+inexpensive, but useful swords and daggers may be purchased.  To the 
+south a little bit is the Panthor Academy of the Fighting Arts, where 
+galiant, aspiring Fighters go to train during their first few months
+of experience.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">4</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1729</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1727</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2281</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

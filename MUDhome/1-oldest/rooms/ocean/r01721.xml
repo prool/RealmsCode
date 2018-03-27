@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Room Num="1721" Version="2.44b" Area="ocean">
+  <Name>Riverdell Way/Kafkan Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Kafkan Way and Riverdell Way.</ShortDescription>
+  <LongDescription>The large Iilandi University lies to the east of the intersection on
+both corners.  On the southeast corner is the University Library and on
+the northeast corner is the Odinialli Memorial Administration Building.
+Much of the University is privately donated and funded as the city does
+not take a great interest in the school, except when it is up for various
+honors, which it receives quite often.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:40 2009
+</LastPlayerTime>
+  <BeenHere>1</BeenHere>
+  <Wander></Wander>
+  <Track><Direction>north</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1720</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1722</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1762</Room></Target><Effects></Effects></Exit><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">1761</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

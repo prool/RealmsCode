@@ -1,0 +1,27 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  limited items      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Unique and lore items are two types of limited items.
+
+Lore items are set so that a player may only have a certain number of them at
+any given time. Once you have reached that limit, you will be unable to pick up
+any more. Other players will still be able to get this item.
+
+Unique items have a setting that only allows a certain number of them to be in
+game. Darkfinder, for example, is a legendary bow. It is unique, so only one
+Darkfinder may be owned by a player at any time. Unique items may only be
+owned for a certain length of time before they vanish and other players are
+allowed to acquire another one.
+
+Limits on unique items are more flexible - there may be a certain number in
+game or a certain number per player, as well as unique item groups. For
+example, if five different objects belong to the same group in which only one
+of them can be in game at any time, picking up one of the objects will cause
+the other four to disappear.
+
+
+You may put limited items in your shop or in your storage room, but only if
+you are the primary owner. Do note that ^yunique items may be stolen^x and,
+unless specificly set on the object, may be dropped or traded or sold like
+any other object.

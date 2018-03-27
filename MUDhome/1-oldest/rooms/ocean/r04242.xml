@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="4242" Version="2.40a" Area="ocean">
+  <Name>Main Courtyard - Center North</Name>
+  <ShortDescription>You are on the north side of the courtyard's reflecting pool.</ShortDescription>
+  <LongDescription>A tall statue and several smaller ones are arranged in a fashion to tell
+the story of how Rutger and Ragnar, twin sons of King Lyanden, have both
+proclaimed themselves as the rightful successor to the crown.  Since no one
+knows which of them was born first there is no way to settle the dispute
+by law.  Many of the inhabitants of the land have taken sides, and there is
+rumor of war soon.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4243</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4241</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4247</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4239</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

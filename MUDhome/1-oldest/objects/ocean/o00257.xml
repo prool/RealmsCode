@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="257" Area="ocean" Version="2.40">
+  <Name>elven bow of speed</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>7</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">bow</Key>
+    <Key Num="1">speed</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a nicely carved bow made of the finest birch wood.</Description>
+  <Weight>3</Weight>
+  <Type>5</Type>
+  <SubType>bow</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

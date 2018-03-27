@@ -1,0 +1,25 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  augmentation       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+^WSpells:^x
+    breathe-water
+    damnation
+    enfeeblement
+    enlarge
+    feeblemind
+    fly
+    fortitude
+    haste
+    infravision
+    insight
+    levitate
+    prayer
+    reduce
+    slow
+    strength
+    weakness
+
+See also:
+    HELP DOMAINS
+

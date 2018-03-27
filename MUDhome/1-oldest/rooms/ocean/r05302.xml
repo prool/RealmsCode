@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5302" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>You are on the King's Road between Oceancrest and the eastern cities.</ShortDescription>
+  <LongDescription>The city of Oceancrest can be seen in the distance to the west.  Small
+hills to the east hide the road, but the road is well traveled and looks
+safe.  There are a several wagons on the road to the east.  Open fields and 
+groves of trees are to the north.  On the south are rocky plains.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5301</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5303</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

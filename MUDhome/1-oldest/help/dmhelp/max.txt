@@ -1,0 +1,8 @@
+Help on DM command:
+	MAX
+
+Sets all of the DMs stats to max (experience, gold, saving throws, etc).
+
+: *max
+Maxing your stats out
+

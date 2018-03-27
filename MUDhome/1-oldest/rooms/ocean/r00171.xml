@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="171" Version="2.40" Area="ocean">
+  <Name>Phexton Road</Name>
+  <ShortDescription>Phexton Road continues to the east and west.</ShortDescription>
+  <LongDescription>A rather ornate little shop can be seen on the north side of the road. 
+A sign over the door says a resident healer can make you well again, no
+matter what condition you are in, as long as you can make it through the
+door.  Next door to the healer is another little shop that seems to
+specialize in Tarot cards for fortune tellers.  All manner of them are
+on display.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="5">6</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+      <Mob Area="ocean" Num="9">25</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">170</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">172</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4050</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

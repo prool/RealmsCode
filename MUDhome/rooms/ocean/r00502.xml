@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="502" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street/Evenborough Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Evenborough Way and Rosecrest Street.</ShortDescription>
+  <LongDescription>Evenborough Way runs west from here, towards the commercial areas of the
+northwestern section of town.  Rosecrest continues to the north and south,
+passing by the main entrance to Lyanden Castle.  There is a large guard
+station on the east side of the road, preventing people from accidentally
+(or purposely) entering Lyanden Lake, which surrounds the castle.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">600</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">503</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">501</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1712" Version="2.40" Area="ocean">
+  <Name>Melbourne Avenue</Name>
+  <ShortDescription>You are walking along Melbourne Avenue, east of the Melbourne Arena.</ShortDescription>
+  <LongDescription>The entrance to the Melbourne Entertainment Arena is located on the 
+south side of the facility off of Nagaritha Drive.  On the east side of
+the road, you can see The Healing Hand, a small-time hospital facility
+that aids the physically injured in any way they can.  Melbourne Avenue
+continues through the southeastern portion of town to the north and south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1713</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1711</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2283</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

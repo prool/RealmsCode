@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3793" Version="2.40" Area="ocean">
+  <Name>South Beach</Name>
+  <ShortDescription>You are on the southern beach of Lelion Beach and Park.</ShortDescription>
+  <LongDescription>You stand at the southern tip of the beach area, looking over the Nylandian
+Bay.  There are several large merchant ships moored together near the ship-
+masters pier, and in the distance you see the dock used by the dreaded
+Widow Maker.  From here you also see the Marine Commandant's offices and
+Marine barracks.  Oceancrest suffered from attacks from sea for many years
+until the marines were trained by some of the city's great heroes.  A good
+distance from here to the west you see some beach caves and grottos.</LongDescription>
+  
+  <Established>765956816</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3792</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3794</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

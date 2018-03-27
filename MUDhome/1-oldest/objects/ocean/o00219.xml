@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="219" Area="ocean" Version="2.40">
+  <Name>druidian shield</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Armor>22</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">125</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">shield</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a large wooden shield covered with cured leather.</Description>
+  <Weight>5</Weight>
+  <Type>6</Type>
+  <SubType>shield</SubType>
+  <WearFlag>18</WearFlag>
+  <InBag/>
+</Object>

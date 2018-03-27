@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<Room Num="308" Version="2.41a" Area="ocean">
+  <Name>Roland's Royal Fighting Academy</Name>
+  <ShortDescription>Welcome brave warriors to Roland's Royal Fighting Academy, where we will
+train you to be real knights to prepare for service with the Lyanden Castle.</ShortDescription>
+  <LongDescription>Roland's Academy trains all the knights that wish to eventually enter the
+services of Lyanden Castle.  Warriors coming here for the first time should 
+enter the green door to advance to the level of Punisher.  A Punisher
+should enter the blue door to advance to Punisher, Second Class.  Finally,
+a Punisher, Second Class should enter the red door to complete your training
+at Roland's Royal Fighting Academy.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>advanced levels</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="green door">
+      <Keys/>
+      <Room Area="ocean">309</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="blue door">
+      <Keys/>
+      <Room Area="ocean">311</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="red door">
+      <Keys/>
+      <Room Area="ocean">313</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="advanced levels">
+      <Keys/>
+      <Room Area="ocean">315</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">487</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

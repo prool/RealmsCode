@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<Creature Num="459" Area="ocean" Version="2.40">
+  <Name>Elise of the White Moon</Name>
+  <Class>5</Class>
+  <Level>15</Level>
+  <Type>1</Type>
+  <Coins/>
+  <Alignment>750</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>170</Current>
+      <Max>170</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>500</Current>
+      <Max>500</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>She is the most powerful and most beautiful mage in all of Kista.</Description>
+  <Keys>
+    <Key Num="0">elise</Key>
+    <Key Num="1">archmage</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>275</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies>
+    <Proficiency Num="0">50000</Proficiency>
+    <Proficiency Num="1">50000</Proficiency>
+    <Proficiency Num="2">50000</Proficiency>
+    <Proficiency Num="3">50000</Proficiency>
+  </Proficiencies>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>only the most worthy deserve new knowledge.  I will test your worthiness.</Talk>
+  <DefenseSkill>145</DefenseSkill>
+  <AttackPower>170</AttackPower>
+  <WeaponSkill>145</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">750</Carry>
+    <Carry Area="ocean" Num="5">751</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="36"/>
+    <Bit Num="40"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="17"/>
+    <Bit Num="23"/>
+    <Bit Num="24"/>
+    <Bit Num="37"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

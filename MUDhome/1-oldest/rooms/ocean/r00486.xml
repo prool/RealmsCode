@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="486" Version="2.40" Area="ocean">
+  <Name>Nissiau Lane</Name>
+  <ShortDescription>You are on Nissiau Lane, between Icthor's Repair Shop and Victory Travels.</ShortDescription>
+  <LongDescription>Icthor's Repair Shop is located on the north side of the road and repairs
+most weapons and armor that have worn out due to extensive wear.  No 
+guarentee is made, however, on the items because some might be beyond
+repair.  On the south side of the road is Victory Travels, a small travel
+broker that can tell you where other cities are and how to get to them
+via boat or ship.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">485</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">487</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

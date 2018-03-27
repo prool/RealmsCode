@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="5077" Version="2.40" Area="ocean">
+  <Name>Over Lake Kista Shores</Name>
+  <ShortDescription>The deep blue lake nestles in the Kista forest.  40.n0.e25.s8.w0</ShortDescription>
+  <LongDescription>You are near the western shore of the lake, where you can see a pier and
+several boats.  The pines, cedar and oaks come almost to the water's edge.
+The pier seems to have some activity, and a small number of cabins are near
+its end.  South is a dark storm.</LongDescription>
+  
+  <Established>772866177</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5075</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5079</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5074</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

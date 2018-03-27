@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="2949" Version="2.40" Area="ocean">
+  <Name>Shaded Glen</Name>
+  <ShortDescription>You are in a misty glen, with a soft fog curling around your feet.</ShortDescription>
+  <LongDescription>The air is almost a pastel blue, and the haze softens your vision as
+you look around the glen.  The fog at your feet flows gently across the
+ground, and is as white as glistening snow.  There is movement at the
+edge of the glen, but it's hard to make out what's causing it.</LongDescription>
+  
+  <Established>760300453</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">144</Mob>
+      <Mob Area="ocean" Num="1">144</Mob>
+      <Mob Area="ocean" Num="2">145</Mob>
+      <Mob Area="ocean" Num="3">145</Mob>
+      <Mob Area="ocean" Num="4">144</Mob>
+      <Mob Area="ocean" Num="5">144</Mob>
+      <Mob Area="ocean" Num="6">145</Mob>
+      <Mob Area="ocean" Num="7">190</Mob>
+      <Mob Area="ocean" Num="8">190</Mob>
+      <Mob Area="ocean" Num="9">190</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2948</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2950</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="439" Version="2.40" Area="ocean">
+  <Name>Delaney Drive</Name>
+  <ShortDescription>You are walking along Delaney Drive, east of the Oceancrest Cobbler's shop.</ShortDescription>
+  <LongDescription>Good shoes are hard to find, but the Oceancrest Cobbler will provide you 
+with a good pair of leather boots or walking shoes for a small price.
+He might even personalize them for you.  On the east side of the road is
+the Cathedral of Worldly Bliss.  The entrance to the cathedral is to
+the north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">438</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">440</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Room Num="2296" Version="2.40" Area="ocean">
+  <Name>The Poisoned Dagger</Name>
+  <ShortDescription>You have entered one of the most notorious Assassin's Guilds in Oceancrest.</ShortDescription>
+  <LongDescription>The Poisoned Dagger is a large operation running out of the back of the
+Crimson Tales Saloon.  Contacts are usually made in the Saloon because 
+it is less suspicious.  The Guild provides high-level assassinations for
+a modest sum, half up front, and half on completion, full refund if the
+victim lives.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>21600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">176</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>21600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">176</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>21600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">176</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>21600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">176</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">2297</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">538</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="3152" Version="2.40" Area="ocean">
+  <Name>Sunken Pirate Ship</Name>
+  <ShortDescription>You are standing on the aft section of the Snap Dragon.</ShortDescription>
+  <LongDescription>this is where Captain Morgan no doubt stood during his fatal encounter
+with the Oceancrest Navy.  In the center of the deck is the great wheel
+used to steer the ship, and it looks like it's in good working condition.</LongDescription>
+  
+  <Established>756271116</Established>
+  <Flags>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>6</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">376</Mob>
+      <Mob Area="ocean" Num="1">379</Mob>
+      <Mob Area="ocean" Num="2">381</Mob>
+      <Mob Area="ocean" Num="3">379</Mob>
+      <Mob Area="ocean" Num="4">379</Mob>
+      <Mob Area="ocean" Num="5">298</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>10000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">433</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3156</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3153</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

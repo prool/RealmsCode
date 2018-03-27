@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1692" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are on Golden Dolphin Way, south of the numerous silos lining the street.</ShortDescription>
+  <LongDescription>There are a total of three silos on this side of the road, and one
+grainery to the north of those.  The large silos store enough corn and
+wheat to maintain the city for more than six months without replenishing.
+Excess wheat and corn can then be exported out of the city to less
+fortunate cities that are not so self-sufficient.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1691</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1693</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

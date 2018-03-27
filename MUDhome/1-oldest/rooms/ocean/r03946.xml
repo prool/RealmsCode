@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3946" Version="2.40" Area="ocean">
+  <Name>Straw Hut</Name>
+  <ShortDescription>You are in the hut where level six barbarians seek to advance to level seven.</ShortDescription>
+  <LongDescription>of course, you must first wrest the key to the training room from the brute
+standing in front of it, but that should be an easy matter for you.  He is  
+only one level higher than you.  Go for it!</LongDescription>
+  <LowLevel>6</LowLevel>
+  <HighLevel>6</HighLevel>
+  
+  <Established>789609999</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">752</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1845</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3976</Room>
+      <Key>92</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

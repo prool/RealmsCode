@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3830" Version="2.40" Area="ocean">
+  <Name>Entrance to Grandstand</Name>
+  <ShortDescription>You are standing in the back of the Grandstand, your ticket to excitement!</ShortDescription>
+  <LongDescription>The Grandstand is the place where people go to watch the main attractions
+at the carnival.  Many amazing acts of breathtaking beauty are performed
+by skilled trapeze artists.  Acrobats entertain with their funny antics.
+Dancing elephants prance around with surprising grace while tiger and lion
+tamers risk life and limb showing off with their animals.  Be sure to
+visit the concession stand if you get an urge for food and drink.  Go west
+if you want to get to the grandstand.  Food and drink is to the east.
+South is the entrance to the Carnival.  But wherever you go, remember to
+enjoy the show!</LongDescription>
+  
+  <Established>765770875</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3831</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3829</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3800</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

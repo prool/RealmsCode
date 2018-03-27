@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<Creature Num="542" Area="ocean" Version="2.40">
+  <Name>poltergeist</Name>
+  <Level>18</Level>
+  <Type>1</Type>
+  <Experience>1100</Experience>
+  <Coins>
+    <Coin Num="2">4000</Coin>
+  </Coins>
+  <Alignment>-40</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>190</Current>
+      <Max>190</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>170</Current>
+      <Max>170</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>170</Current>
+      <Max>170</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>210</Current>
+      <Max>210</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>It looks very sad, like it could use a companion.</Description>
+  <Keys/>
+  <MoveTypes/>
+  <Armor>275</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>6</Number>
+    <Sides>4</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <DefenseSkill>175</DefenseSkill>
+  <AttackPower>190</AttackPower>
+  <WeaponSkill>175</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">589</Carry>
+    <Carry Area="ocean" Num="1">589</Carry>
+    <Carry Area="ocean" Num="2">589</Carry>
+    <Carry Area="ocean" Num="3">589</Carry>
+    <Carry Area="ocean" Num="4">589</Carry>
+    <Carry Area="ocean" Num="5">589</Carry>
+    <Carry Area="ocean" Num="6">589</Carry>
+    <Carry Area="ocean" Num="7">589</Carry>
+    <Carry Area="ocean" Num="8">589</Carry>
+    <Carry Area="ocean" Num="9">590</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects>
+    <Effect>
+      <Name>invisibility</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+    <Effect>
+      <Name>detect-invisible</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+  </Effects>
+  <SpecialAttacks>
+    <SpecialAttack>
+      <Name>Energy Drain</Name>
+      <Verb>drains</Verb>
+      <TargetStr>^M*ATTACKER* drains your life energy!*CR*You lose ^m*DAMAGE*^M experience!^x</TargetStr>
+      <TargetFailStr></TargetFailStr>
+      <RoomFailStr></RoomFailStr>
+      <SelfStr></SelfStr>
+      <RoomStr>^M*ATTACKER* drains *LOW-TARGET*'s life energy!^x</RoomStr>
+      <TargetSaveStr>^c*ATTACKER* only partially drains your life energy.^x</TargetSaveStr>
+      <SelfSaveStr></SelfSaveStr>
+      <RoomSaveStr></RoomSaveStr>
+      <Limit>0</Limit>
+      <Delay>60</Delay>
+      <Chance>10</Chance>
+      <StunLength>0</StunLength>
+      <Type>12</Type>
+      <SaveType>3</SaveType>
+      <SaveBonus>0</SaveBonus>
+      <MaxBonus>0</MaxBonus>
+      <Flags>
+        <Bit Num="1"/>
+        <Bit Num="12"/>
+        <Bit Num="13"/>
+      </Flags>
+      <Dice>
+        <Number>18</Number>
+        <Sides>10</Sides>
+        <Plus>180</Plus>
+      </Dice>
+    </SpecialAttack>
+  </SpecialAttacks>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+    <Bit Num="22"/>
+    <Bit Num="26"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

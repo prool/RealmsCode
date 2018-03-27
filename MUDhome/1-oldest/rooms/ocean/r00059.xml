@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="59" Version="2.40" Area="ocean">
+  <Name>North Plasnelt Park</Name>
+  <ShortDescription>You are in North Plasnelt Park, near the west bank of the Baldywyne.</ShortDescription>
+  <LongDescription>The water is cold and deep, and the river is wide at this point.  Willow
+trees line the bank, and small boats are pulled up on the shore.  there is
+a short pier extending into the water.  Shady elms and other ornamental 
+trees line the park walks.  A short path goes under South Bridge.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">58</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">72</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

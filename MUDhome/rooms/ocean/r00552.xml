@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="552" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard/Hillborough Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Hillborough Way and Eidenhoft Boulevard.</ShortDescription>
+  <LongDescription>Eidenhoft Boulevard runs north and south, intersecting Hillborough Way,
+which runs east and west.  Hillborough Way heads east towards the center
+of town, and through the numerous shops and stores located there.  On
+the southeast corner of the intersection is the Great Fellowship Hall, and
+on the northeast is the Fairy Dust Inn.  A small pub called the Groggy
+Thimble is located on the southwest corner, and the Shrine of Poseidon
+is on the northwest corner.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">551</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">553</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">561</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">562</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

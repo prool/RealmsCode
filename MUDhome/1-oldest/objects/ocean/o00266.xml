@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="266" Area="ocean" Version="2.40">
+  <Name>elven birch bow</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>75</ShotsMax>
+  <ShotsCur>75</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>5</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1800</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">birch</Key>
+    <Key Num="1">bow</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a larger elven bow prefered by most elves.</Description>
+  <Weight>4</Weight>
+  <Type>5</Type>
+  <SubType>bow</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

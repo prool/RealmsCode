@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3073" Version="2.40" Area="ocean">
+  <Name>Temple Passage</Name>
+  <ShortDescription>This is the western side of the Temple.  You are in a secret passage.</ShortDescription>
+  <LongDescription>The passage is overrun with spiders and rats.  What do you suppose rats
+find to eat in this terrible place?  On the floor there are also signs of
+droppings by ettercaps.  The dung of an ettercap is quite singular and easy
+to recognize.  It seems to consist of blackish-green pebbles in a pile.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3072</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3074</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

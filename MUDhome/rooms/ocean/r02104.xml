@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2104" Version="2.40" Area="ocean">
+  <Name>Golden Shield Shoppe</Name>
+  <ShortDescription>You are in the Golden Shield Shoppe, owned by the gnome Theodenes.</ShortDescription>
+  <LongDescription>Theodenes is an old and wizened little gnome, but at one time, in the service
+of his king, he was a mighty warrior.  After he was disabled in combat he
+returned to the craft he had apprenticed in as a young gnome.  Today, he is
+known as a master craftsman for the fine shields he makes.  Both Prince
+Ragnar and Prince Rutger, of the Lyanden line, consider his shields the
+highest quality available.</LongDescription>
+  
+  <Established>763502122</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">547</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">477</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

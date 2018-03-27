@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1815" Version="2.40" Area="ocean">
+  <Name>Beginner's Range</Name>
+  <ShortDescription>You are in the Dentra Central Archery Range, in the Beginner Level area.</ShortDescription>
+  <LongDescription>Numerous young elves and various other races often come here to work on
+their archery skills.  Although they are not very good shots yet, they 
+are tough and can be a challenge to beat in a contest.  It's funny to
+see they young elves easily outscoring nearly every other race present
+at the range.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">215</Mob>
+      <Mob Area="ocean" Num="1">278</Mob>
+      <Mob Area="ocean" Num="2">215</Mob>
+      <Mob Area="ocean" Num="3">5</Mob>
+      <Mob Area="ocean" Num="4">278</Mob>
+      <Mob Area="ocean" Num="5">5</Mob>
+      <Mob Area="ocean" Num="6">5</Mob>
+      <Mob Area="ocean" Num="7">278</Mob>
+      <Mob Area="ocean" Num="8">215</Mob>
+      <Mob Area="ocean" Num="9">215</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1805</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

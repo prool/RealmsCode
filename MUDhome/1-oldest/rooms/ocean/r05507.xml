@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5507" Version="2.40" Area="ocean">
+  <Name>Rue Caledonia</Name>
+  <ShortDescription>Hafnia Central Park is north, and the industrial area is south.</ShortDescription>
+  <LongDescription>There is a long line of manufacturing shops, all looking alike, on the
+east side of Rue Caledonia.  Farther south, on the west side, you see a big
+vacant lot where caravans form to make the journey to other cities.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5501</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">946</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">914</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

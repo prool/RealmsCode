@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="1836" Version="2.41a" Area="ocean">
+  <Name>The Center Path Junction</Name>
+  <ShortDescription>You are at the junction of two paths leading into the center of the Pits.</ShortDescription>
+  <LongDescription>Tow paths lead around the center of the Barbarian Pits to the northeast and
+southwest.  Heading to the west takes you to the only entrance of the Pits.
+Directly east, you can see the Barbarian Chief's Hut, although you will have
+to take a less direct route to get there.  On the south side of the path is
+an area for the village's young to play.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">261</Mob>
+      <Mob Area="ocean" Num="1">261</Mob>
+      <Mob Area="ocean" Num="2">262</Mob>
+      <Mob Area="ocean" Num="3">262</Mob>
+      <Mob Area="ocean" Num="4">261</Mob>
+      <Mob Area="ocean" Num="5">263</Mob>
+      <Mob Area="ocean" Num="6">264</Mob>
+      <Mob Area="ocean" Num="7">264</Mob>
+      <Mob Area="ocean" Num="8">264</Mob>
+      <Mob Area="ocean" Num="9">262</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1835</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1837</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1834</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1823</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

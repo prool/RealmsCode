@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="1490" Version="2.40" Area="ocean">
+  <Name>Master Hallway</Name>
+  <ShortDescription>You are at the eastern end of the master hallway.</ShortDescription>
+  <LongDescription>The hallway ends here at the private dining chamber, which is to the
+south.  The dining room is reserved for special guests of the palace
+and for the daily meals of the Wizard.  Being so old, the Wizard
+seldom leaves the upper level of the palace, even to eat.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">170</Mob>
+      <Mob Area="ocean" Num="1">170</Mob>
+      <Mob Area="ocean" Num="2">170</Mob>
+      <Mob Area="ocean" Num="3">168</Mob>
+      <Mob Area="ocean" Num="4">168</Mob>
+      <Mob Area="ocean" Num="5">168</Mob>
+      <Mob Area="ocean" Num="6">170</Mob>
+      <Mob Area="ocean" Num="7">167</Mob>
+      <Mob Area="ocean" Num="8">167</Mob>
+      <Mob Area="ocean" Num="9">167</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1489</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1496</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1491</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="440" Area="ocean" Version="2.40">
+  <Name>sahuagin dagger</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>85</ShotsMax>
+  <ShotsCur>85</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>6</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">3500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">dagger</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="21"/>
+  </Flags>
+  <Description>The sahuagin dagger is a sharp dagger used primarily for slashing.</Description>
+  <Weight>2</Weight>
+  <Type>5</Type>
+  <SubType>dagger</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

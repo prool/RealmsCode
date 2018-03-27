@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1307" Version="2.40" Area="ocean">
+  <Name>Riverdell Way/Orchard Lane Intersection</Name>
+  <ShortDescription>You are at the intersection of Orchard Lane and Riverdell Way.</ShortDescription>
+  <LongDescription>Riverdell Way runs north and south through the intersection with Orchard
+Lane, which continues to the east and west.  The Brunskid Trader's Guild
+is located on the northeastern corner of the intersection and known for
+it not-so-legitimate dealings with goods of questionable origins.  The
+Guild often gets raided, but they never find anything to shut them down.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">382</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">383</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1306</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1308</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

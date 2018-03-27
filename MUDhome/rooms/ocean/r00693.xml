@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="693" Version="2.40a" Area="ocean">
+  <Name>Islandia Drive</Name>
+  <ShortDescription>You are walking down Islandia Drive, between the Park and the Memorial.</ShortDescription>
+  <LongDescription>The Evenborough Park, located on the south, is a lush, green park covered
+with trees and flocks of birds.  Most birds are smart enough to know that
+people leave seeds and other trash around the park to eat.  Unfortunately,
+they're not smart enough to see that sometimes this is just bait to catch
+them with.  Some birds in the park are particularly good in a white cream
+sauce garnished with mushrooms.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">597</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">694</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

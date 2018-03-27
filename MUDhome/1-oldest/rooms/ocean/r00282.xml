@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="282" Version="2.40a" Area="ocean">
+  <Name>Avatar Ruins Outer Path</Name>
+  <ShortDescription>You are walking along the outer path of the impressive Avatar Ruins.</ShortDescription>
+  <LongDescription>The outer path circles around the northern structure which you can see
+to the south.  The strange mountain-like rock appears to just come out
+of the ground, with no sign of any prior instability.  This, coupled
+with the fact that magic has no effect here suggests that something might
+be amiss.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="17"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">283</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">281</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

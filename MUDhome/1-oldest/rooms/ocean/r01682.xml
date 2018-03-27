@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1682" Version="2.41a" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are traveling along Waterfront Way, north of the Walking Yards.</ShortDescription>
+  <LongDescription>The Oceancrest Walking Yards and Stables are provided as a convenience 
+to guests and vistors when they bring in steeds.  Although horses are
+allowed on the street, this tends to be very dangerous as they do tend
+to scare easily.  The Stables and Walking Yards provide a safe and 
+protective environment for your trusty steed.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1681</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1683</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="5328" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>You are on the great Lyanden Road, which runs from Oceancrest to the eastern
+cities in the Land of Mordor.  South is a toll booth.</ShortDescription>
+  <LongDescription>To the north you see the road runs through a valley in rolling hills.  Over
+to the east, the hills get steeper, eventually rising to meet Mount Aphinix,
+home of the mountain trolls.  Looking southeast, the grand Lyanden Road
+disappears around a curve heading towards the Vallenda Pass which skirts
+the Southern Nartiz Range.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5327</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5329</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

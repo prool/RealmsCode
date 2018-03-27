@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="2466" Version="2.40" Area="ocean">
+  <Name>Hole in the Ground</Name>
+  <ShortDescription>You have discovered a small room under the grassy hill you were on.</ShortDescription>
+  <LongDescription>Your tracking skills are greatly improving.  If you have come to train up
+to the level of scout, this is the place.  Enter the cavern to train.  If
+you wish to leave the park, go out.  If you wish to continue tracking,
+you must find tracks out of the hole.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="18"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="cavern">
+      <Keys/>
+      <Room Area="ocean">2467</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1935</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2455</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

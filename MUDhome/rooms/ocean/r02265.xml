@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2265" Version="2.40" Area="ocean">
+  <Name>The Paladin's Training Room</Name>
+  <ShortDescription>You are in the Holy Order of the White Rose's Blue Training Facility.</ShortDescription>
+  <LongDescription>Congratulations, you have succeeded in defeating the holy knight in 
+training.  You are now worthy of training to the level of Gallant, 
+Second Class.  </LongDescription>
+  <LowLevel>1</LowLevel>
+  <HighLevel>1</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2262</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

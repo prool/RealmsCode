@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1966" Version="2.40" Area="ocean">
+  <Name>Millwood Mayor's Office Hallway</Name>
+  <ShortDescription>You are in the main hallway running through the Mayor's Office.</ShortDescription>
+  <LongDescription>The lavishly decorated hallway contains many portraits of the many mayors
+of Oceancrest, beginning with Millwood of Uxtiva.  The halls are said to be
+haunted by the second-to-last Mayor of Oceancrest, also ironically named
+Millwood.  It is also said that Millwood is a lich, and therefore no life
+insurance claims have been paid to his heirs, and will not be until he is
+proven to be dead.  The office is pretty desolate now, and seems abandoned.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1965</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1967</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

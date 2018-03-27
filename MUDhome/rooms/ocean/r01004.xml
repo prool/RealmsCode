@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="1004" Version="2.40a" Area="ocean">
+  <Name>Oceancrest Memorial Fountain Path</Name>
+  <ShortDescription>You are on the west end of the circular path around the large fountain.</ShortDescription>
+  <LongDescription>The fountain is one of the first things most visitors to Oceancrest see
+when they enter the town, if they travel along Main.  This larger-than-
+life fountain is very inspiring to both young and old alike.  The 
+circular path continues to the northeast and southeast.  The fountain
+is to the east, where you can occasionally see young children playing
+in.  Regalia Drive continues to the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="4">6</Mob>
+      <Mob Area="ocean" Num="5">6</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">266</Mob>
+      <Mob Area="ocean" Num="9">266</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>fountain</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1001</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1003</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1146</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="fountain">
+      <Keys/>
+      <Room Area="ocean">1000</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

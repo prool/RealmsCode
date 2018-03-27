@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3621" Version="2.40" Area="ocean">
+  <Name>Main Courtyard West</Name>
+  <ShortDescription>You are at the garden entrance of the main courtyard in Castle Ragnar.</ShortDescription>
+  <LongDescription>The garden lies further to the west through a small gate set in a fence.
+A great stone turret stands at the corner of the courtyard here, and a
+stairwell winds around the outside of it, seemingly going forever, since
+it disappears into the mist above.  The courtyard continues to the north,
+south and east from here.</LongDescription>
+  
+  <Established>762645570</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3628</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3620</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3622</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5009" Version="2.40" Area="ocean">
+  <Name>Skies Over Brownhaven</Name>
+  <ShortDescription>You are directly over the dragon's home pits.  100.n0.e0.s0.w0</ShortDescription>
+  <LongDescription>High winds can greatly increase the speed of the dragon's flight, and
+the upper air has some some air streams that can more than quadruple the
+the dragon's normal flight ability.</LongDescription>
+  
+  <Established>772227680</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5200</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5006</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

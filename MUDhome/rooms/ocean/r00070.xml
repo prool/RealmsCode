@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="70" Version="2.40" Area="ocean">
+  <Name>Wall Road West</Name>
+  <ShortDescription>Wall Road West continues to the north and south.</ShortDescription>
+  <LongDescription>You are at the western most side of the village of Brownhaven, walking
+beside a high, brown wall.  The village took its name from the color of
+the wall, which was built centuries ago to protect the residents from
+the marauding mountain trolls.  A large clan of trolls live to the north
+of the village.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">60</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">80</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

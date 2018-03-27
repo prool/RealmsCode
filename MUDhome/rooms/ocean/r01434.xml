@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Room Num="1434" Version="2.40" Area="ocean">
+  <Name>Main Prison Hold</Name>
+  <ShortDescription>You are in the prison guard's room.  </ShortDescription>
+  <LongDescription>The prison is used to hold people who show disrespect towards others in
+the palace.  Actually, prison is a blessing compared to what has happened
+to other people who anger the wrong person.  There are a number of cells
+in this room.  Some are vacant.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">158</Mob>
+      <Mob Area="ocean" Num="1">158</Mob>
+      <Mob Area="ocean" Num="2">158</Mob>
+      <Mob Area="ocean" Num="3">158</Mob>
+      <Mob Area="ocean" Num="4">158</Mob>
+      <Mob Area="ocean" Num="5">158</Mob>
+      <Mob Area="ocean" Num="6">158</Mob>
+      <Mob Area="ocean" Num="7">158</Mob>
+      <Mob Area="ocean" Num="8">158</Mob>
+      <Mob Area="ocean" Num="9">158</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>cell</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="cell">
+      <Keys/>
+      <Room Area="ocean">1439</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="cell">
+      <Keys/>
+      <Room Area="ocean">1438</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="cell">
+      <Keys/>
+      <Room Area="ocean">1437</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="cell">
+      <Keys/>
+      <Room Area="ocean">1436</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="cell">
+      <Keys/>
+      <Room Area="ocean">1435</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1433</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

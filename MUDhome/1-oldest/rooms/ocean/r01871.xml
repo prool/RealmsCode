@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1871" Version="2.40" Area="ocean">
+  <Name>Main Hallway</Name>
+  <ShortDescription>You are walking along the central hallway of the Temple of the Rising Moon.</ShortDescription>
+  <LongDescription>The long hallway you are walking down is decorated in the finest golds
+and silvers the lands have to offer.  Donations from the wealthy and the
+poor all go towards dedicating the temple to Artemis, who demands only
+the best from her worshippers.  On the south wall, there is a door which
+leads to the New Worshippers Office.  On the east wall is an unmarked door.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1870</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1876</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1872</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

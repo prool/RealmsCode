@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="552" Area="ocean" Version="2.40">
+  <Name>half-eaten cat</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">cat</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>The corpse of the cat has been partially devoured.</Description>
+  <Weight>4</Weight>
+  <Type>14</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

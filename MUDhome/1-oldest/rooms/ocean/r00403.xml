@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="403" Version="2.40" Area="ocean">
+  <Name>Evenborough Way/Darmanian Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Darmanian Way and Evenborough Way.</ShortDescription>
+  <LongDescription>Evenborough Way runs north and south through the northern part of town.
+Looking to the north, you can see the northern entrance to the city of
+Oceancrest.  There are a number of small shops on the southwestern corner
+of this intersection, and the Evenborough Stables and Inn located off of
+the northeastern and northwestern corners respectively.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">402</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">404</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">683</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">462</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

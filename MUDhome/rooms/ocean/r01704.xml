@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1704" Version="2.40a" Area="ocean">
+  <Name>Melbourne Avenue</Name>
+  <ShortDescription>You are traveling along Melbourne Avenue, west of the Dragon's Claw.</ShortDescription>
+  <LongDescription>The Dragon's Claw Tavern and Grill is a sophisticated restaurant where 
+patrons may eat at the grill and drink some good, old-fashoioned ale in
+the company of friends.  The entrance to the restaurant is located to
+the south along Melbourne Drive, which runs north and south from here.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1703</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1705</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

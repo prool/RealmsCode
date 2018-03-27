@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5310" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>This is a poorly maintained section of the great Lyanden Road.</ShortDescription>
+  <LongDescription>The consortium of cities pays a contractor and his roadworkers to keep
+the highway in good repair, but a band of Highwaymen have been operating
+in this area lately, and the militia have not been able to get rid of them.
+Probably the road will be repaired when the militia is successful.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5309</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5311</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

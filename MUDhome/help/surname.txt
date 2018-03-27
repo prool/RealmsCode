@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  surname        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This command will allow a player of high enough level to give themselves a
+surname (last name). Characters ' and - are both allowed. All surnames must be
+at least 3 characters long, and they cannot be longer than 14. Once a surname
+is set, it is set forever. A confirmation of (Y/N) is given whenever you try to
+choose one.
+
+Note that profane or idiotic surnames, as well as idiotic or profane
+combinations of name and surname, will not be tolerated. If you violate this,
+you will never be allowed to choose a surname again.
+

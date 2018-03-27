@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="208" Area="ocean" Version="2.40">
+  <Name>silver tray</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Armor>44</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">250</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">tray</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>This tray is used to carry food from the kitchen</Description>
+  <Weight>1</Weight>
+  <Type>14</Type>
+  <WearFlag>18</WearFlag>
+  <InBag/>
+</Object>

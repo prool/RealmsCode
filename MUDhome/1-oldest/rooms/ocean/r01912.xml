@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="1912" Version="2.40" Area="ocean">
+  <Name>Pits of Doom - Red Level</Name>
+  <ShortDescription>This level of the Pits of Doom isn't called the Red Level for nothing.</ShortDescription>
+  <LongDescription>The Red Level is caked with the singed blood of past victims.  The most
+dangerous and mean-tempered dragons dwell on this level and are always
+on the lookout for food.  Since not very many people think about coming
+in here, they don't get to eat very often.  Well, at least you now know
+that these dragons exist and they're not just some made-up fantasy.  
+Whether or not you'll be able to tell anyone may be another story.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="24"/>
+  </Flags>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">96</Mob>
+      <Mob Area="ocean" Num="1">96</Mob>
+      <Mob Area="ocean" Num="2">95</Mob>
+      <Mob Area="ocean" Num="3">95</Mob>
+      <Mob Area="ocean" Num="4">93</Mob>
+      <Mob Area="ocean" Num="5">93</Mob>
+      <Mob Area="ocean" Num="6">58</Mob>
+      <Mob Area="ocean" Num="7">58</Mob>
+      <Mob Area="ocean" Num="8">94</Mob>
+      <Mob Area="ocean" Num="9">59</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1911</Room>
+      <Flags>
+        <Bit Num="8"/>
+      </Flags>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">1913</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="9"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

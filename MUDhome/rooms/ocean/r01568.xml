@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="1568" Version="2.40a" Area="ocean">
+  <Name>Meditation Area</Name>
+  <ShortDescription>You are in a rather large, open area where the druids come to meditate.</ShortDescription>
+  <LongDescription>You can see a number of druids meditating near the groves, by the
+small brook and under the trees.  Surprisingly, the druid community
+seems to enjoy their simple lifestyles of study and work, although
+you haven't seen many druids working.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>7</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">177</Mob>
+      <Mob Area="ocean" Num="1">177</Mob>
+      <Mob Area="ocean" Num="2">177</Mob>
+      <Mob Area="ocean" Num="3">178</Mob>
+      <Mob Area="ocean" Num="4">177</Mob>
+      <Mob Area="ocean" Num="5">178</Mob>
+      <Mob Area="ocean" Num="6">177</Mob>
+      <Mob Area="ocean" Num="7">178</Mob>
+      <Mob Area="ocean" Num="8">177</Mob>
+      <Mob Area="ocean" Num="9">177</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1560</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1567</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1569</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1571</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

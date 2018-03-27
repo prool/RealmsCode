@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="5710" Version="2.40" Area="ocean">
+  <Name>Boran Street</Name>
+  <ShortDescription>You are on Boran Street, just east of the Venus Gardens Plant Shoppe.</ShortDescription>
+  <LongDescription>Many wild and exotic plants grow in the mountains, and the giants who
+live in Phexton make a good living by cultivating them and shipping them
+to other cities and towns.  The village meeting hall is south of here.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5709</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1883</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5711</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3630" Version="2.40" Area="ocean">
+  <Name>Center Courtyard South</Name>
+  <ShortDescription>You are at the southern end of Prince Ragnar's castle courtyard.</ShortDescription>
+  <LongDescription>To the north is a vast expanse of courtyard used for all manner of castle
+activities.  To the east is an enclosed garden area, while to the west is
+a small arms practice area.  The great castle's storage rooms are located
+through the tunnel running to the south.  The smell of animals is wafted
+from the animal keep directly to the south, near the tunnel entrance.</LongDescription>
+  
+  <Established>762645942</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3629</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3623</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3631</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

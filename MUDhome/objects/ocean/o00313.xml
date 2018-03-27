@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="313" Area="ocean" Version="2.40">
+  <Name>quarterstaff</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>75</ShotsMax>
+  <ShotsCur>75</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>2</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">350</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">quater</Key>
+    <Key Num="1">staff</Key>
+    <Key Num="2">quaterstaff</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a large wooden pole used in battle to disarm opponents.</Description>
+  <Weight>1</Weight>
+  <Type>5</Type>
+  <SubType>staff</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

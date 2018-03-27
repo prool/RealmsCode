@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1801" Version="2.41b" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are walking along Nagaritha Drive, just north of the Shrine of Victory.</ShortDescription>
+  <LongDescription>The Shrine of Victory, located south of the Melbourne Entertainment Arena,
+symbolizes hope against impossible odds.  It is often visited by warriors
+about to leave for battle, but otherwise generally ignored by most of the
+other citizens.  On the north side of the road is the Melbourne Entertain-
+ment Arena where contestants fight everything from common criminals to 
+gladiators, and even lions.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1800</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1225</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2291</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

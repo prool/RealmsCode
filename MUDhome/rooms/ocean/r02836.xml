@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="2836" Version="2.40a" Area="ocean">
+  <Name>Plasnelt Lake</Name>
+  <ShortDescription>You are on the southern coast of the large, undergound lake.</ShortDescription>
+  <LongDescription>Plasnelt Lake is a rather large body of water that somehow got trapped
+below the surface of the glacier.  Surprisingly, the lake water is very
+salty, as if it were ocean water.  Perhaps there is an underground
+cavern to the ocean from here.</LongDescription>
+  
+  
+  
+  <Established>729130618</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="21"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="shore">
+      <Keys/>
+      <Room Area="ocean">2835</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2839</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2837</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2840</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

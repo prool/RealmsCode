@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5707" Version="2.40" Area="ocean">
+  <Name>West Hildor Lane/Boran Street Intersection</Name>
+  <ShortDescription>This is the corner of Hildor Lane and Boran Street, in Phexton Village.</ShortDescription>
+  <LongDescription>You can see quite a few shops along Boran Street, which leads north from
+here.  There is a wall along the south side of the lane which stands at 
+least three meters high.  A tower is at the southwest corner of the village.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5705</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5708</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

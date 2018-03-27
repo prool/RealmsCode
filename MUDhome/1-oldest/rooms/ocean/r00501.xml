@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="501" Version="2.40a" Area="ocean">
+  <Name>Evenborough Way</Name>
+  <ShortDescription>You are walking along Evenborough Way, south of the Evenborough Park.</ShortDescription>
+  <LongDescription>The beautiful park on the north side of the road is used by many citizens
+and tourists alike to meet people, picnic, or just rest after a long day
+at work.  On the south side of the road, you can see the Delgado Family
+Winery, a small family operation which produces some of the best wines
+in the land.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">502</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">500</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="5014" Version="2.40" Area="ocean">
+  <Name>Dark Skies</Name>
+  <ShortDescription>The skies have turned wet and dark, making it hard to see.</ShortDescription>
+  <LongDescription>Dragons don't really mind the dark, but they definitely do not like water.
+You can feel the big beast start to twitch as you fly ever deeper into the
+rain.  It might be better to return to nicer weather.</LongDescription>
+  
+  <Established>772227783</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>left</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">5013</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right">
+      <Keys/>
+      <Room Area="ocean">5013</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="forward">
+      <Keys/>
+      <Room Area="ocean">5058</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1582" Version="2.40a" Area="ocean">
+  <Name>Inner Circle of Etolos</Name>
+  <ShortDescription>You are roaming around the inner hierarchy of the druidian home.</ShortDescription>
+  <LongDescription>The inner circle has been forbidden to any non-druids by the declaration
+of the Great Druid.  You see a number of druids here, meditating quietly
+around the trees.  Most don't really mind that you are here, except for
+a few guards who will try to force you out.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">183</Mob>
+      <Mob Area="ocean" Num="1">183</Mob>
+      <Mob Area="ocean" Num="2">183</Mob>
+      <Mob Area="ocean" Num="3">183</Mob>
+      <Mob Area="ocean" Num="4">183</Mob>
+      <Mob Area="ocean" Num="5">183</Mob>
+      <Mob Area="ocean" Num="6">183</Mob>
+      <Mob Area="ocean" Num="7">183</Mob>
+      <Mob Area="ocean" Num="8">179</Mob>
+      <Mob Area="ocean" Num="9">178</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1581</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1583</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

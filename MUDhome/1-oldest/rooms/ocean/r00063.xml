@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="63" Version="2.40" Area="ocean">
+  <Name>Brownhaven Way</Name>
+  <ShortDescription>You are on Brownhaven Way, one of the more respectable throughfares.</ShortDescription>
+  <LongDescription>Not far to the south you can see the entrance to a village concert hall.
+The people of Brownhaven pride themselves on their understanding of
+culture, and try to attend most of the recitals given here.  Unfortunately,
+they often have good excuses for not attending, so generally only a few
+patrons can be found at any particular evening.  But if you are really
+looking for a good time, the Boar's Tit Pub is popular every night.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">2</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">53</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">73</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

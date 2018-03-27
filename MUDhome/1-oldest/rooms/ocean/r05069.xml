@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="5069" Version="2.40" Area="ocean">
+  <Name>Damp Fog</Name>
+  <ShortDescription>You are high above the fog in Tasletek Gorge.  50.n5.e1.s0.w0</ShortDescription>
+  <LongDescription>The fog itself seems to have an evil life force, and even your fearless
+dragon is a little reluctant to fly any closer to it.  You can continue
+in an east-west direction, but you can no longer fly to the north.</LongDescription>
+  
+  <Established>772702097</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5056</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5062</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5068</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

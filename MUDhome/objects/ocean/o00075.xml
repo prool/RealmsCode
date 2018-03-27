@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="75" Area="ocean" Version="2.40">
+  <Name>grey cloak</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>20</ShotsMax>
+  <ShotsCur>20</ShotsCur>
+  <Armor>4</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">200</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">cloak</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>It's grey as dawn.</Description>
+  <Weight>2</Weight>
+  <Type>6</Type>
+  <WearFlag>4</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1149" Version="2.40" Area="ocean">
+  <Name>Regalia Drive</Name>
+  <ShortDescription>You are walking along Regalia Drive, east of the City Walls.</ShortDescription>
+  <LongDescription>The intersection with Rosecrest Street lies to the west, and the City
+Walls are just beyond Rosecrest.  To the south is the Oceancrest Public
+Amphitheatre and to the north is the Oceancrest Ministry of Truth.
+Both places are usually pretty busy with activity, but usually for the
+opposite reasons.  The Ministry houses numerous tome of various works 
+which people enjoy studying, while the Amphitheatre is a venue to get
+away from the hassles of everyday life.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1148</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1068</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

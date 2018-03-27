@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5476" Version="2.40" Area="ocean">
+  <Name>Road Guard Barracks Compound</Name>
+  <ShortDescription>You are outside a barracks for the road guard, near a slide exit.</ShortDescription>
+  <LongDescription>The guards who man this post don't consider it especailly good duty, and
+are often in a bad humor because they would rather stand guard on the castle
+wall, so they could be part of the feasting and drinking when they are not
+on watch.  The slide exit you see is one-way, and provides troops in the
+castle quick access down here if there is trouble.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5465</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="slide">
+      <Keys/>
+      <Room Area="ocean">5477</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">5478</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

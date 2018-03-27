@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="1818" Version="2.40" Area="ocean">
+  <Name>South Oceancrest Post Office #56</Name>
+  <ShortDescription>You are in a small postal facility where you can send mail to others.</ShortDescription>
+  <LongDescription>One of the great benifits of living in a large city like Oceancrest is
+that you can get mail to people on the other side of town without having
+to travel all the way over there.  Post Offices are scattered throughout
+the land for this purpose.  You can even send mail to other cities as
+well.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="10"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1684</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

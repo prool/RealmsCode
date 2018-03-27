@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="642" Version="2.40" Area="ocean">
+  <Name>Harvest Circle</Name>
+  <ShortDescription>You are casually walking along the southern rim of the Harvest Circle.</ShortDescription>
+  <LongDescription>The Harvest Circle is a magnificent structure built to celebrate the end
+of the year's harvest and thoughts for the next year.  To the south,
+Necropolis Avenue runs towards the Necropolis, surrounded on both sides
+by the Bushman Plantation and Farms, where much of the fruits and
+vegetables are grown.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">640</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">641</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">643</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

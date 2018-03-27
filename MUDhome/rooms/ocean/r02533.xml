@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2533" Version="2.40a" Area="ocean">
+  <Name>Kista Avenue</Name>
+  <ShortDescription>You are on Kista Avenue traveling north-south.</ShortDescription>
+  <LongDescription>There is a flower shop that specializes in rare and exotic plants and flowers
+on the east side of the avenue.  A retired botanist lives in the quarters
+above the shop, although some whisper that he isn't really retired, but 
+simply found something in his research that he didn't want to share with
+the University.  They say he continues his research in secret now.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2009</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2534</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Mxp>
+  <MxpElement>
+    <Name>gold</Name>
+    <Command>COLOR #FFD700</Command>
+    <Color>l</Color>
+  </MxpElement>
+  <MxpElement>
+    <Name>cerulean</Name>
+    <Command>COLOR #009CFF</Command>
+    <Color>e</Color>
+   </MxpElement>
+  <MxpElement>
+    <Name>pink</Name>
+    <Command>COLOR #FF5ADE</Command>
+    <Color>p</Color>
+   </MxpElement>
+   <MxpElement>
+    <Name>skyblue</Name>
+    <Command>COLOR #82E6FF</Command>
+    <Color>s</Color>
+   </MxpElement>
+   <MxpElement>
+    <Name>darkgrey</Name>
+    <Command>COLOR #484848</Command>
+    <Color>E</Color>
+   </MxpElement>
+   <MxpElement>
+    <Name>brown</Name>
+    <Command>COLOR #95601A</Command>
+    <Color>o</Color>
+   </MxpElement>
+  <MxpElement>
+    <Name>player</Name>
+    <Type>send</Type>
+    <Command><![CDATA[tell &name; ]]></Command>
+    <Hint><![CDATA[Send a message to &name;]]></Hint>
+    <Prompt>true</Prompt>
+    <Attributes>name</Attributes>
+    <Expire/>
+  </MxpElement>
+</Mxp>

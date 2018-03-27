@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="1917" Version="2.47i" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are on Oceancrest Avenue at the main entrance of the Ashton Falls Resort.</ShortDescription>
+  <LongDescription>Further to the east you can see the intersection of Oceancrest Avenue
+and Riverdell Way.  Immediately to the north is a wide marbled stairway
+which leads to a guarded entrance to the most expensive place to live
+in all of the city.  On the south side of the avenue is a small park
+with large shade trees and well kept lawns.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>east</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">1320</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1916</Room></Target><Effects></Effects></Exit><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">4100</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

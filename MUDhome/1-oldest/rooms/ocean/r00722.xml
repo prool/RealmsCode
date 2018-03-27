@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="722" Version="2.41a" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are on Oceancrest Avenue, just north of the Bushman Farms orchard.</ShortDescription>
+  <LongDescription>Behind the fence enclosing the Bushman Farms estate, you can see nearly
+every known fruit tree imaginable, and possibly a few that you've not seen
+before.  On the north side of the road is a large complex.  There appears
+to be a large general store in the plaza named "Madeline's All Purpose
+Shop of Wares".  The entrance to the plaza is located on the opposite side
+of the building.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">721</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">723</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

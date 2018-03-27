@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="2383" Version="2.40a" Area="ocean">
+  <Name>Dark Cavern</Name>
+  <ShortDescription>You are in a deep cavern, heading further into the depths of the land.</ShortDescription>
+  <LongDescription>There is a strange door in the middle of the hallway, facing the north,
+which appears to lead into a larger room.  The cavern descends further
+into the depths of the planet towards the east.  The floor slopes 
+steeply down the corridor and is covered with slime, making it tough
+to walk around on without slipping.</LongDescription>
+  
+  <Established>727495065</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2382</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2384</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

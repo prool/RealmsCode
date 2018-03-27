@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="5190" Version="2.40a" Area="ocean">
+  <Name>Ragnar's Road</Name>
+  <ShortDescription>You are on a wide road, north of Castle Ragnar.  A copse of trees is nearby.</ShortDescription>
+  <LongDescription>A wonderful white castle, with spires and turrets and snapping banners and
+pennants is immediately south.  It looks to be a very busy place, with  
+many people coming and going.  The trees to the east are near a placid pond.
+Immediately north is a toll booth for the Lyanden Road.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5329</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3600</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5191</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

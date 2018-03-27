@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="5200" Version="2.40" Area="ocean">
+  <Name>Fast Moving Rain Cloud</Name>
+  <ShortDescription>You are in a fast moving cloud, being carried by a strong wind.</ShortDescription>
+  <LongDescription>Because the wind is so strong, you cannot turn in any direction, but must
+simply follow the airstream.  The winds have probably pushed you many
+kilometers from where you entered the upper stream.  Looks like you can
+dip down, however.</LongDescription>
+  
+  <Established>773817976</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5009</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

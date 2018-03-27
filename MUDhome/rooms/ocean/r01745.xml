@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1745" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are walking along Wakeforest Drive, west of the omnimous City Walls.</ShortDescription>
+  <LongDescription>The large City Walls dwarf the largest half-giant in sheer size, making it
+nearly impossible to scale from either side.  This is useful in that it 
+prevents outside invaders from infiltrating the city and also prevents
+criminals from escaping.  On the west side of the road is the Shrine of
+Moradin, the dwarven God of Creation.  The Oceancrest Orphanage is north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1744</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1746</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

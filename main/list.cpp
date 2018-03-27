@@ -316,6 +316,11 @@ int list_players() {
 }
 
 int main(int argc, char *argv[]) {
+
+if (argc<2) { // prool
+		printf("\nusage: List m|o|r|a\nmonsters|objects|rooms|all\n");
+	return 1;}
+
     gConfig = Config::getInstance();
     gServer = Server::getInstance();
 

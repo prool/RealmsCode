@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="4507" Version="2.40a" Area="ocean">
+  <Name>Hall of Heros</Name>
+  <ShortDescription>You are in the Hall of Heros in Castle Ragnar.</ShortDescription>
+  <LongDescription>You are at eastern end of the grand hall, at an intersection.  To the east
+there are a pair of massive doors leading to the throne room.  The hall
+to the west is the famous Hall of Heros.  Another smaller hallway runs  
+north and south from here.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4510</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4506</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4508</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4509</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

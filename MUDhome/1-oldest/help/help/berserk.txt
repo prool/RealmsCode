@@ -1,0 +1,17 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  berserk         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Berserk is a ability used by berserkers giving them strength during its
+duration. It allows them to hit for around 1.5x the normal hit and gives
+them +5 strength temporarily. Note that while berserked, a berserker will
+be unable to flee from combat.
+
+The death knight equivalent of berserk is pray.
+
+: bers
+You failed to gather your strength.
+: bers
+Rage swells up inside you.
+:
+

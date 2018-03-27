@@ -1,0 +1,22 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  evocation        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Evocation spells deal with creating energy out of nothing. Their main
+focus is combat magic - nearly all evocation spells deal damage to their
+targets.
+
+The six elemental realms are considered sub-schools of the school of
+evocation. The six realms are:
+
+    Air Realm            Cold Realm
+    Earth Realm          Electric Realm
+    Fire Realm           Water Realm
+
+^WSpells:^x
+    darkness
+    magic-missile
+
+See also:
+    HELP SCHOOLS
+

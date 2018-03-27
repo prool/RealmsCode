@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Room Num="1718" Version="2.44b" Area="ocean">
+  <Name>Riverdell Way/Netherworld Lane Intersection</Name>
+  <ShortDescription>You are at the intersection of Riverdell Way and Netherworld Lane.</ShortDescription>
+  <LongDescription>Riverdell Way, running north and south, intersects Netherworld Lane,
+running east and west, at this point.  Both roads literally span the
+city in the directions that they are heading.  Netherworld runs through
+the center of town, passing by the northern border and main entrance to
+the Necropolis.  Riverdell runs south past the Allakaren Circle and
+Pyramid, towards the southern City Wall.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:44 2009
+</LastPlayerTime>
+  <BeenHere>2</BeenHere>
+  <Wander></Wander>
+  <Track><Direction>west</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">1774</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1775</Room></Target><Effects></Effects></Exit><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1324</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1719</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

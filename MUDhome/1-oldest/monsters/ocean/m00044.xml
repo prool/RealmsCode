@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<Creature Num="44" Area="ocean" Version="2.40">
+  <Name>worker</Name>
+  <Level>3</Level>
+  <Type>1</Type>
+  <Experience>35</Experience>
+  <Coins/>
+  <Alignment>50</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>23</Current>
+      <Max>23</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>She's just a typical sewer worker doing typical sewer work.</Description>
+  <Keys/>
+  <MoveTypes/>
+  <Armor>100</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>2</Number>
+    <Sides>1</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>Don't worry, you get used to the smell.</Talk>
+  <DefenseSkill>25</DefenseSkill>
+  <AttackPower>110</AttackPower>
+  <WeaponSkill>25</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">46</Carry>
+    <Carry Area="ocean" Num="1">46</Carry>
+    <Carry Area="ocean" Num="2">46</Carry>
+    <Carry Area="ocean" Num="3">36</Carry>
+    <Carry Area="ocean" Num="4">62</Carry>
+    <Carry Area="ocean" Num="5">31</Carry>
+    <Carry Area="ocean" Num="8">20</Carry>
+    <Carry Area="ocean" Num="9">6</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="10"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

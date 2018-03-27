@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="596" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street between the Lyanden Castle on the east and
+the Darmanian Memorial Park, on the west side of the road.</ShortDescription>
+  <LongDescription>Both the entrance to the Castle and to the Darmanian Memorial Park are 
+located to the north along Rosecrest Street.  The Castle supports most
+of the people of the land, providing order and justice.  Although anyone
+may enter the Castle, only very powerful characters seek to train in 
+such an honorable place.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">595</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">597</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

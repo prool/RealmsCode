@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="1461" Version="2.40" Area="ocean">
+  <Name>East Balcony</Name>
+  <ShortDescription>You are on the eastern balcony overlooking the island of Eeste.</ShortDescription>
+  <LongDescription>You can see the lake and the mountains surrounding the lake from this
+part of the balcony.  You can also see a giant sea monster attacking
+a small boat in the middle of the lake.  You continue to rest on the
+balcony as people wander in and out of this room.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <Traffic>2</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">166</Mob>
+      <Mob Area="ocean" Num="1">166</Mob>
+      <Mob Area="ocean" Num="2">166</Mob>
+      <Mob Area="ocean" Num="3">167</Mob>
+      <Mob Area="ocean" Num="4">167</Mob>
+      <Mob Area="ocean" Num="5">167</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1460</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1462</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

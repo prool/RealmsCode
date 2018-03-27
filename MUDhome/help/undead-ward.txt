@@ -1,0 +1,17 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |  Help on:  undead-ward spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 25
+
+This spell renders a person somewhat protected against all all undead. When
+under this spell, a person will not be attacked by aggro undead. They also will
+never be casted on by undead monsters of any kind. While under this spell, a
+person takes half damage from any undead's attack forms. This includes players
+as well as monsters. If a monster has this spell cast on them, an undead
+player's spells do half damage to it. For player vs player, undead casters do
+half damage as well. Only clerics and paladins may ever cast this spell, but
+not clerics of Aramon.
+
+Syntax:
+cast undead-ward <target>
+

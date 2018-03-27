@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="220" Area="ocean" Version="2.40">
+  <Name>heavy barbell</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>10</ShotsMax>
+  <ShotsCur>10</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>6</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">heavy</Key>
+    <Key Num="1">barbell</Key>
+    <Key Num="2">weight</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>This is a 50 lb. barbell that Hans uses to warm down from his workouts.</Description>
+  <UseOutput>You grip tightly and feel the adrenaline begin to surge as you pick it up.</UseOutput>
+  <Weight>50</Weight>
+  <Type>5</Type>
+  <SubType>club</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1293" Version="2.40" Area="ocean">
+  <Name>Small Waterfall</Name>
+  <ShortDescription>You are standing on the eastern bank of a small but broad waterfall.</ShortDescription>
+  <LongDescription>Ashton creek is very wide at this point as it continues to flow
+toward the Ashton river to the south.  Great boulders give way to
+gravel toward the south, and tall, stately trees are on both sides
+of the stream.  Across the creek is a yellow stone cottage in a 
+cleared area.</LongDescription>
+  
+  <Established>756200818</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1292</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1294</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1296</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

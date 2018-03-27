@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3336" Version="2.40" Area="ocean">
+  <Name>Sage's Rest</Name>
+  <ShortDescription>The wide gravel path of white rock passes in front of the Sage's Rest.</ShortDescription>
+  <LongDescription>The granite and pink marble, gridded with silver and gold, has an entrance
+where there is a staircase descending into darkness.  Although it looks
+like an expensive tomb, there is something about its appearance that pulls
+at your curosity.  Something about it seems out of place, almost turned
+around.  Whatever it is, it's very disturbing.  The entrance is north.</LongDescription>
+  
+  <Established>759804392</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3335</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3337</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3384</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="3922" Version="2.40" Area="ocean">
+  <Name>Opal Room</Name>
+  <ShortDescription>Sparkling opals cover the floor, set in an aggrate of ebony and silver.</ShortDescription>
+  <LongDescription>A red-robed follower of the thoughts of Marbella, one of the Arch Mages,
+floats slightly above your head, rocking gently back and forth.  A tiny
+key on a silk pillow floats nearby.  The wizard waits for you to speak.</LongDescription>
+  <LowLevel>3</LowLevel>
+  <HighLevel>3</HighLevel>
+  
+  <Established>770795046</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training room</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">617</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3929</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">3939</Room>
+      <Key>78</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

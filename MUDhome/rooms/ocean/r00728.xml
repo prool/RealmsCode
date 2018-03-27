@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="728" Version="2.40" Area="ocean">
+  <Name>Highland Avenue</Name>
+  <ShortDescription>You are walking along Highland Avenue, east of the Dragon's Citadel.</ShortDescription>
+  <LongDescription>The Dragon's Citadel is a rather unedifying place of massive proportions.
+The off green color has faded over long years through wars and natural
+disasters.  But the facility still stands proudly.  Too bad no one has
+ever been able to get into the Citadel, even though it's thought to have
+been abandoned centuries ago.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">727</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">729</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="916" Version="2.40" Area="ocean">
+  <Name>Rear Alley</Name>
+  <ShortDescription>You are in an alley behind the stores and shoppes along Hafnia Boulevard.</ShortDescription>
+  <LongDescription>This is where most of the shoppes receive their inventories from the elves
+in town who make such fine goods.  Of course, the caravans also deliver
+their goods here too.  Some of the rarest and finest items in all of the
+Land of Mordor are sold from the shoppes in Hafnia.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">914</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">922</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">919</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

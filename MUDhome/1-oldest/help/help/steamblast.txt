@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  steamblast spell     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 10
+School:  Evocation
+Domain:  Destruction
+
+This is the third level spell in the water realm. It causes a sprout of boiling
+steam to engulf the target, burning all exposed skin and finding its way into
+the crevices of any armor. The spell deals a fair amount of damage to those
+not resistant to the water realm.
+
+Syntax:
+cast steamblast <target>

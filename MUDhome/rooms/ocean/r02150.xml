@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2150" Version="2.40" Area="ocean">
+  <Name>Allisk Labyrinth Entrance</Name>
+  <ShortDescription>You are at the entrance to the mysterious Allisk Labyrinth.</ShortDescription>
+  <LongDescription>The Allisk Labyrinth was constructed many centuries ago by one Natasha
+de Allisk, now rumored to be one of the most powerful vampires in the
+lands.  Of course, no one reputable has seen her lately.  The Labyrinth
+was created as an escape from reality, as Natasha was quite psychotic.
+In her later years, the Labyrinth was used to lure victims to their
+doom.  Lately, nothing has really surfaces about the Labyrinth and it's
+probably just filled with some minotaurs and flying snakes.  The vampires
+have long since abandoned this old tomb.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>tomb</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="tomb">
+      <Keys/>
+      <Room Area="ocean">2156</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1259</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1047" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive</Name>
+  <ShortDescription>You are on Oceanview Drive, near the center of the main shopping district.</ShortDescription>
+  <LongDescription>On the west side of the street there is a large wooden sign with a painting
+of ferocious red dragon on it.  Inscripted upon it is, "Dragonwares."  Now
+what do you suppose that could be?  Across the street, on the east side, is
+another shop called, "The Angry Camper Hunting Supplies."  Further to the
+south, about a block away, is the City's Southern Wall.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1046</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1048</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1885</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2302</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

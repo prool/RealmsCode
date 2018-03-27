@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="4509" Version="2.40a" Area="ocean">
+  <Name>Broad Hallway</Name>
+  <ShortDescription>You are in a broad hallway near the castle library and music room.</ShortDescription>
+  <LongDescription>This hallway serves as a throughfare for the castle's clerical personnel who
+work in offices further south.  The dining hall is north of here, through
+Heraldry Hall.  Much further north is the famed Ladie's Walk.  Immediately
+south is the library and the music room.</LongDescription>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4507</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

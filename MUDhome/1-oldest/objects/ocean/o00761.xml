@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="761" Area="ocean" Version="2.40">
+  <Name>jacintha seeds</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">seeds</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>You see several small seeds that seem to sparkle in the light.</Description>
+  <Weight>2</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>20</MagicPower>
+  <InBag/>
+</Object>

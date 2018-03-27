@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="742" Version="2.40" Area="ocean">
+  <Name>Highland Avenue</Name>
+  <ShortDescription>You are walking along Highland Avenue, running parallel to the city walls.</ShortDescription>
+  <LongDescription>Highland Avenue forms the eastern end of the City of Oceancrest.  On the
+east side of the road is the massive City Wall which protects the 
+citizens of the city from any unwarranted attacks against them.  On the
+west side of the road is the elegant Crimson Dragon Traveler's Lodge.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">741</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1750</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

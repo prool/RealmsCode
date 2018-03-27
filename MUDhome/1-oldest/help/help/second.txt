@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  second          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Rangers and rogues are allowed to use two weapons during combat, one in each
+hand. They cannot use shields if they have a second weapon, and they cannot
+use naturally two-handed weapons with one hand. The second weapon must be
+lighter than the primary (wielded) weapon, and it will do less damage as a
+second weapon than it would as a primary weapon.
+
+Example:
+: wield han
+You wield a hand axe.
+: sec kni
+You wield a knife in your off hand.
+:

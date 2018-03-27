@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3027" Version="2.40a" Area="ocean">
+  <Name>Goblin Church</Name>
+  <ShortDescription>You are in the Goblin's most holy sacrificial church.</ShortDescription>
+  <LongDescription>This is the place where the goblin masses gather to hear their priests
+exort them to kill all humans and elves, for the good of their souls.
+When they have been worked into a frenzy by the priests, they are sent
+out to bring back prisoners to be turned over to the priesthood.  There
+are candles in niches in the walls here, providing a soft glow and 
+flickering shadows on the rough walls.</LongDescription>
+  
+  <Established>761563636</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">503</Mob>
+      <Mob Area="ocean" Num="1">503</Mob>
+      <Mob Area="ocean" Num="2">504</Mob>
+      <Mob Area="ocean" Num="3">504</Mob>
+      <Mob Area="ocean" Num="4">504</Mob>
+      <Mob Area="ocean" Num="5">505</Mob>
+      <Mob Area="ocean" Num="6">505</Mob>
+      <Mob Area="ocean" Num="7">506</Mob>
+      <Mob Area="ocean" Num="8">506</Mob>
+      <Mob Area="ocean" Num="9">323</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3025</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3028</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

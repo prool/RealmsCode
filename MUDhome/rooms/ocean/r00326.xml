@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="326" Version="2.40" Area="ocean">
+  <Name>Bendine Aquarium Main Hallway</Name>
+  <ShortDescription>You are in the Main Hallway running through the Bendine Aquarium.</ShortDescription>
+  <LongDescription>The hallway turns to the southeast, heading towards the exit into the
+Bendine Marina, where the Whale Tank and the Salt Water Exhibit are
+located.  To the north is the Shark Tank, where a number of exotic
+species of shark are kept for observation.  It should be noted, though,
+that the giant megalodon sharks are said to have swallowed people whole.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">325</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">327</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">330</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

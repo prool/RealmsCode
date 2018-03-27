@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3782" Version="2.40" Area="ocean">
+  <Name>Lelion Wildlife Preserve</Name>
+  <ShortDescription>You are at the eastern end of the Lelion Beach and Park wildlife preserve.</ShortDescription>
+  <LongDescription>A tall fence is across the walkway, but the gate is open and and a sign
+pointing to the east says this is the exit for the Lelion Beach and Park
+wildlife preserve.  A walkway extends to the east and west from here.
+To the north you can see Lithium Inlet flowing from east to west, and
+emptying a lot of fresh water into the bay.  On the south is a wooded
+area between the walkway and a cliffside.</LongDescription>
+  
+  <Established>766021885</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3781</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3783</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

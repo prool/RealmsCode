@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1480" Version="2.40" Area="ocean">
+  <Name>Guest Quarters</Name>
+  <ShortDescription>You are in one of the guest bedchambers.</ShortDescription>
+  <LongDescription>You are in the plush quarters of a visiting dignitary.  The mages allow
+certain people of importance to remain in these quarters for the night
+or for many days at a time while they discuss their negotiations.  The
+dignitaries come from all over.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">166</Mob>
+      <Mob Area="ocean" Num="1">166</Mob>
+      <Mob Area="ocean" Num="2">166</Mob>
+      <Mob Area="ocean" Num="3">166</Mob>
+      <Mob Area="ocean" Num="4">166</Mob>
+      <Mob Area="ocean" Num="5">166</Mob>
+      <Mob Area="ocean" Num="6">166</Mob>
+      <Mob Area="ocean" Num="7">166</Mob>
+      <Mob Area="ocean" Num="8">130</Mob>
+      <Mob Area="ocean" Num="9">130</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1477</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

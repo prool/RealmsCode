@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="5316" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>You are traveling on the King's Highway, known as Lyanden Road.</ShortDescription>
+  <LongDescription>Lyanden Road connects several of the towns and cities to the east with the
+great city of Oceancrest.  Several crossroads lead to important villages
+and towns as well.  Prince Ragnar's castle is southeast of here, near the
+Vallenda Pass.  The trail seems to shortcut the road.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5315</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5317</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="trail">
+      <Keys/>
+      <Room Area="ocean">5341</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

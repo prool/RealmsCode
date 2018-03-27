@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1359" Version="2.40" Area="ocean">
+  <Name>Mountain Trail to the Palace</Name>
+  <ShortDescription>You are on the winding trail up the strange mountain towards the Palace.</ShortDescription>
+  <LongDescription>The trail up the mountain is not quite as treacherous as you had first
+imagined.  Nonetheless, danger lurks everywhere.  As you head further
+south, you can start to make out the features of the large palace 
+sitting on top the mountain.  The Palace appears to be magically kept
+in place since it would otherwise collapse and fall down the mountain.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1358</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1360</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

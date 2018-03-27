@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2024" Version="2.40" Area="ocean">
+  <Name>Kista Post Office</Name>
+  <ShortDescription>You are in one of the modern wonders of the world.  An efficient post office.</ShortDescription>
+  <LongDescription>The researchers on the Althemanian Campus who study mental telepathy have
+devised a most interesting method of delivering messages to the citizens of
+the land.  Simply type sendmail &lt;person&gt; and you can then send a message.
+(Be sure to hit the Enter key at the end of each line, as there is no word-
+wrap.)  When you are finished, hit the Enter key twice.
+If you are here to receive mail, type readmail.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="10"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2025</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

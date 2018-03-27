@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="730" Area="ocean" Version="2.40">
+  <Name>medallion of yesterday's champions</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Armor>44</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">20000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">yesterday's</Key>
+    <Key Num="1">champions</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="14"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Description>You see a shimmering, metallic medallion awarded only the best of the best.</Description>
+  <UseOutput>You feel the combined might of Eldritch, Odin, Achunter, Eastman and Death.</UseOutput>
+  <Weight>2</Weight>
+  <Type>6</Type>
+  <WearFlag>4</WearFlag>
+  <InBag/>
+</Object>

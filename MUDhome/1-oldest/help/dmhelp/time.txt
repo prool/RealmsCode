@@ -1,0 +1,28 @@
+Help on:
+        time
+
+  ^mGame Time^W          |   ^mReal Time
+^W---------------------+--------------------^x
+  1 minute           ^W|^x   2 seconds
+  1 hour             ^W|^x   2 minutes
+  1 day              ^W|^x   48 minutes
+  1 month (~35 days) ^W|^x   28 hours
+  1 year (530 days)  ^W|^x  ~17.6 days
+                     ^W|^x
+  ^mReal Time^W          |   ^mGame Time
+^W---------------------+--------------------^x
+  1 second           ^W|^x   30 seconds
+  1 minute           ^W|^x   30 minutes
+  1 hour             ^W|^x   30 hours
+  1 day              ^W|^x   30 days
+  1 month (~30 days) ^W|^x   1 year, 370 days
+                     ^W|^x
+
+  ^mSeason^W    |  ^mGame Time^W      |  ^mReal Time
+^W------------+-----------------+-------------------^x
+  Spring    ^W|^x  107 game days  ^W|^x  ~3.5 real days
+  Summer    ^W|^x  109 game days  ^W|^x  ~3.6 real days
+  Autumn    ^W|^x  105 game days  ^W|^x   3.5 real days
+  Winter    ^W|^x  209 game days  ^W|^x  ~6.9 real days
+            ^W|^x                 ^W|^x
+

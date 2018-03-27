@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5448" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road/Tasletek Village Road</Name>
+  <ShortDescription>Just off the road is a tiny mountain village called Tasletek.</ShortDescription>
+  <LongDescription>Five small homes and shops lie to the northwest, built on the edge of
+a deep gorge along the east end of the village.  From here, it looks
+like a traveler could get a hot meal and a warm bed for the night in the
+inn near the middle of the small community.  The mountain road continues
+to climb eastward, and drop off to the west.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5447</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5449</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5480</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

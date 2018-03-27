@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="2960" Version="2.40" Area="ocean">
+  <Name>School of Pyrographic Phenomena</Name>
+  <ShortDescription>You are in the Iilandi University's Administrative Office for Pyrography.</ShortDescription>
+  <LongDescription>The back door leads to a testing ground where a blue-white flame shoots
+from a hole in the ground.  There seems to be a set of stairs in another
+hole beside the one with the flames.  To the north is the street.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2529</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Room Num="1585" Version="2.40a" Area="ocean">
+  <Name>Inner Circle of Etolos</Name>
+  <ShortDescription>You are in the inner circle of the druid dwelling known as Etolos.</ShortDescription>
+  <LongDescription>With the exception of a few guards passing you by, you notice that the
+center of the druid community is quite tranquil.  There was much more
+activity in the outer circles; however, you notice that there are a lot
+more higher level, more powerful druids roaming around.  Most are just
+meditating, and quite obviously would not enjoy being disturbed.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>6</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">183</Mob>
+      <Mob Area="ocean" Num="1">179</Mob>
+      <Mob Area="ocean" Num="2">178</Mob>
+      <Mob Area="ocean" Num="3">180</Mob>
+      <Mob Area="ocean" Num="4">183</Mob>
+      <Mob Area="ocean" Num="5">183</Mob>
+      <Mob Area="ocean" Num="6">183</Mob>
+      <Mob Area="ocean" Num="7">179</Mob>
+      <Mob Area="ocean" Num="8">178</Mob>
+      <Mob Area="ocean" Num="9">180</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1580</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1584</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1591</Room>
+      <Flags>
+        <Bit Num="8"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

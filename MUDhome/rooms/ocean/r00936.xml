@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="936" Version="2.40a" Area="ocean">
+  <Name>Hafnia Mountaineer's Supply Store</Name>
+  <ShortDescription>This is the most well equipped store in Hafnia, if you desire mountain gear.</ShortDescription>
+  <LongDescription>Everything's here that you will need to tackle the wilderness including
+mountain gear and torches.  The storekeeper peers at you from behind
+the counter.  Although the elves are very trusting, humans have betrayed
+them in the past and sometimes still do.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="11"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">943</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

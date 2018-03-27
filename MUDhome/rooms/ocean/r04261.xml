@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="4261" Version="2.40" Area="ocean">
+  <Name>Thoto's Emporium Storage Room</Name>
+  <ShortDescription>This is the storage room for Thoto's Emporium in Castle Rutger.</ShortDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4260</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

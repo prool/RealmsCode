@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="1221" Version="2.41b" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are casually walking along Nagaritha Drive, south of the Grape Orchard.</ShortDescription>
+  <LongDescription>The Circle-Bar Butcher is located on the south side of the road, providing
+meats of various cuts from their ranch to the general public.  On the north
+side of the road is the Chateau Richland Grape Orchard, where, as one 
+would guess, grapes are grown and harvested.  The grapes are then pressed
+and fermented into wine.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1222</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1220</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">885</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

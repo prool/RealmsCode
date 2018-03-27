@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="898" Version="2.40" Area="ocean">
+  <Name>Secret Quick Car Transporter</Name>
+  <ShortDescription>You are in the quick car transporter room for the City of Hafnia.</ShortDescription>
+  <LongDescription>The elves used quick cars to get around the mountain quickly and 
+efficiently.  Powered by gravity and literally no friction, quick
+cars can travel between cities in a matter of seconds.  Hold on,
+though.  These cars can travel at speeds up to 200 miles per hour.
+And who knows where you'll end up.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>passage</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">949</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">1299</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

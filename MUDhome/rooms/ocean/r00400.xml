@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room Num="400" Version="2.47i" Area="ocean">
+  <Name>Everborough Way/Hofton Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Hofton Avenue and Everborough Way.</ShortDescription>
+  <LongDescription>Directly to the north, you can see the North Oceancrest Guard Station
+and the north entrance to the town.  There is a popular Inn on the south-
+western corner of the intersection and the Evenborough Stables and 
+Riding Facilities are located on the southeastern corner.  The city asks
+that visitors and guests leave their horses at the stables to prevent
+accidents with pedestrians on the roads.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>west</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">401</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">451</Room></Target><Effects></Effects></Exit><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">682</Room></Target><Effects></Effects></Exit><Exit Name="gate"><Keys></Keys><Target><Room Area="ocean">3840</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

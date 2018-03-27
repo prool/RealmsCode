@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3312" Version="2.41a" Area="ocean">
+  <Name>Oceancrest Necropolis Entrance</Name>
+  <ShortDescription>You stand before a large wrought iron gate which opens into the necropolis.</ShortDescription>
+  <LongDescription>The gate to the south commands a second look, its simple construction
+belies the immense feeling of mortal terror that overcomes you as you
+look upon the gate.  It gives off the impression that it is not only
+an entrance to the necropolis, but also stands to keep whatever has
+been buried in the necropolis inside.  The way back to the road is to
+the north, and it is advised that you take that route.</LongDescription>
+  
+  <Established>759795845</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>gate</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>45000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">540</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1184</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">3313</Room>
+      <Key>43</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

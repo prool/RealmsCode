@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="615" Area="ocean" Version="2.40">
+  <Name>a mountain of gold and jewels</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">gold</Key>
+    <Key Num="1">jewels</Key>
+    <Key Num="2">mountain</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Weight>300</Weight>
+  <Type>11</Type>
+  <InBag/>
+</Object>

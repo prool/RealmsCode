@@ -1,0 +1,15 @@
+Help on: *jail <player> <minutes> [-b]
+
+	This command allows a CT or DM to jail a player for a 
+specified time. They are auto-released after the specified time 
+is up. It does not matter if they remain online or go offline. 
+The time still ticks down. The command can be used on both online 
+and offline players. The -b switch will broadcast to the mud when 
+the player is jailed. Default is always 1 minute. All jailings 
+are logged in the log directories for immortals.
+Example
+:*jail (asshole) 15 -b
+:*jail (asshole) 30
+
+
+

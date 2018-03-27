@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="46" Area="ocean" Version="2.40">
+  <Name>torch</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>60</ShotsMax>
+  <ShotsCur>60</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="11"/>
+  </Flags>
+  <Weight>1</Weight>
+  <Type>13</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

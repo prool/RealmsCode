@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="187" Area="ocean" Version="2.40">
+  <Name>warhammer</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>75</ShotsMax>
+  <ShotsCur>75</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>4</Sides>
+    <Plus>4</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">250</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">hammer</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a large metal hammer specifically made for battle.</Description>
+  <Weight>10</Weight>
+  <Type>5</Type>
+  <SubType>hammer</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

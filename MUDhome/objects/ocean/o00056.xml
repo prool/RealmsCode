@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="56" Area="ocean" Version="2.40">
+  <Name>messy used condom</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>2</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">condom</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="27"/>
+  </Flags>
+  <Description>Gross! Someone has used it before!</Description>
+  <UseOutput>Tingles run down your spine as you put the lubricated, ribbed condom on.</UseOutput>
+  <Weight>1</Weight>
+  <Type>5</Type>
+  <SubType>dagger</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

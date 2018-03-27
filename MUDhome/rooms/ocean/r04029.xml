@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="4029" Version="2.41a" Area="ocean">
+  <Name>Crystalline Tavern Tunnel</Name>
+  <ShortDescription>You are in a tunnel of a seemingly infinite number of beautiful crystals.</ShortDescription>
+  <LongDescription>The vibration of your steps cause the crystals to resonate with harmonics
+which echo and re-echo throughout the cavern.  The beautiful and natural
+crystals look much like the ones you have seen which carry enchantments 
+and are used by the people who understand magic.  The tunnel slopes down
+in the western direction, and a sparkling light appears there.</LongDescription>
+  
+  
+  
+  <Established>771926407</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4028</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4030</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

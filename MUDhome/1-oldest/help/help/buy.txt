@@ -1,0 +1,33 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |           Help on:  buy           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+If you are in a shop, you may purchase an item for sale with the buy
+command. First use the LIST command to see what is for sale, and then
+purchase it with this command. Please note that when you use the buy
+command only the word that directly follows it is interpreted, so if you
+typed "buy leather boots," it would not care what followed the word
+"leather". This could cause you pain if there were several leather items
+for sale, because "buy leather" will buy you the first leather item on the
+list. To avoid this problem, either use "buy boots" or "buy leather 2"
+where leather boots is the second leather item for sale.
+
+You may also use the buy command to purchase items from monsters who sell
+things.
+
+To buy from a player store, you must type # before the item number. For
+example, "buy #26".
+
+Example:
+: list
+You may buy:
+   Some climbing boots                Cost: 50
+   A climbing rope                    Cost: 300
+   A small sack                       Cost: 50
+   A torch                            Cost: 15
+   A wick lantern                     Cost: 100
+
+: buy cli 2
+You bought a climbing rope.
+:
+

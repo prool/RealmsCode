@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1742" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive/Kafkan Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Kafkan Way and Wakeforest Drive.</ShortDescription>
+  <LongDescription>Wakeforest Road runs north and south through a good part of the eastern
+side of town.  To the south, you can see it running parallel to the City
+Walls, which have been re-built to incorporate the Allakaren Pyramid 
+within the safty of the city's protection.  The Dwarven shrine of 
+Moradin lies on the southwestern corner of the intersection.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1741</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1743</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1757</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1758</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

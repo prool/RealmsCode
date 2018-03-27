@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="643" Version="2.40" Area="ocean">
+  <Name>Necropolis Avenue</Name>
+  <ShortDescription>You are walking along Necropolis Avenue, between the Bushman Estates.</ShortDescription>
+  <LongDescription>The Bushman Plantation is located on the east side of the road, and the
+Bushman Farms are located on the west side.  The Plantation grows a number
+of commodities like peanuts and indigo.  The Farms grows fruits and 
+vegetables.  There is a small Fresh Fruit and Vegetable Stand on the 
+northeastern corner of the Farm where the produce is sold to the public.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">642</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">644</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

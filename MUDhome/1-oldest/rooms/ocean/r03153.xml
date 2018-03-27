@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="3153" Version="2.40" Area="ocean">
+  <Name>Sunken Pirate Ship</Name>
+  <ShortDescription>You are standing on the starboard side, near the stern of the Snap Dragon.</ShortDescription>
+  <LongDescription>The Snap Dragon creaks and groans as it rolls slowly with the tide. 
+The motion is almost enough to make you seasick, and you feel a little
+queasy in the stomach.  A portion of the rail, which you were thinking
+of leaning over, is gone, evidently shot away during the battle with
+the Oceancrest Navy.  Other than a few battle scars, the ship is really
+in quite good shape.  Strange that marine life hasn't taken it over.
+It's almost like it's a living ship.</LongDescription>
+  
+  <Established>756271061</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">376</Mob>
+      <Mob Area="ocean" Num="1">376</Mob>
+      <Mob Area="ocean" Num="2">375</Mob>
+      <Mob Area="ocean" Num="3">379</Mob>
+      <Mob Area="ocean" Num="4">379</Mob>
+      <Mob Area="ocean" Num="5">301</Mob>
+      <Mob Area="ocean" Num="6">299</Mob>
+      <Mob Area="ocean" Num="7">380</Mob>
+      <Mob Area="ocean" Num="8">381</Mob>
+      <Mob Area="ocean" Num="9">375</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3154</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3156</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stern">
+      <Keys/>
+      <Room Area="ocean">3152</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

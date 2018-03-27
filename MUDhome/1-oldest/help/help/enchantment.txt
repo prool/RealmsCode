@@ -1,0 +1,25 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  enchantment       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Enchantment spells affect the minds of others, influencing or controlling
+their behavior. Enchantment spells also include magic to imbue items with
+magical properties.
+
+Note that the enchantment school currently has limited spells. More work
+is being done to code spells for this school.
+
+^WSpells:^x
+    courage
+    curse
+    enchant
+    fear
+    globe-of-silence
+    hold-person
+    scare
+    silence
+    stun
+
+See also:
+    HELP SCHOOLS
+

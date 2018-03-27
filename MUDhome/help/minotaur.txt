@@ -1,0 +1,21 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  Minotaur       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Adjustments: +2 Strength, -1 Dexterity, -1 Intelligence
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf
+
+Minotaurs are a magical creation from long ago. They are the result of some
+twisted archmage's experiment, crossing a bull and a human. The result was a
+very large humanoid creature with the head of a bull and the body of a human.
+Minotaurs have very brute strength and little intellect. They often live in
+areas which are often confusing to travel in, such as mazes and rocky canyons.
+Minotaurs have a habit of eating human flesh as well, but not so much as ogres
+and trolls. Minotaurs also have the misfortune of having the worst body odor
+in all the land.
+
+See in dark (infravision): No
+Size class: Large
+Abilities: Track
+

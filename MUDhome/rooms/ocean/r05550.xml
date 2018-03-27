@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="5550" Version="2.40" Area="ocean">
+  <Name>Glabor Gulley Southern Path</Name>
+  <ShortDescription>You are high on the southern slope of Glabor Gulley, near a rock outcropping.</ShortDescription>
+  <LongDescription>there are a lot of three-toed footprints in the soft dirt of the path, and
+from time to time you can hear the harsh tongue of the mountain trolls.
+The trail splits here, allowing you to either go down to the gulley floor,
+or climb higher to the rockcropping.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5543</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5551</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5552</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

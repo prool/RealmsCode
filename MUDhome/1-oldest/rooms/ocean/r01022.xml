@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1022" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are on Hillcrest Drive, a long road connecting the two sides of the city.</ShortDescription>
+  <LongDescription>To the south of Hillcrest Drive resides the Walk of Heroes monument, which
+is primarily just a lush, green park with numerous bronze and marble 
+statues of heroes past and present.  There is a large building on the
+north side of Hillcrest which seems to glow with a magical aura.  
+Unfortunately, there's nothing much to distinguish it from this point
+of view.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1021</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1006</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

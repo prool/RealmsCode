@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="1410" Version="2.40" Area="ocean">
+  <Name>Garden</Name>
+  <ShortDescription>You are in a pleasant garden surrounded by glass.</ShortDescription>
+  <LongDescription>The garden is used mostly for relaxation after the day is done.  It's
+a pretty quiet place to relax for a while.  To the north is the 
+greenhouse where a number of plant experiments are supposedly being
+performed.  Perhaps it's not a very good idea to go exploring in there.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">167</Mob>
+      <Mob Area="ocean" Num="1">167</Mob>
+      <Mob Area="ocean" Num="2">167</Mob>
+      <Mob Area="ocean" Num="3">167</Mob>
+      <Mob Area="ocean" Num="4">166</Mob>
+      <Mob Area="ocean" Num="5">166</Mob>
+      <Mob Area="ocean" Num="6">139</Mob>
+      <Mob Area="ocean" Num="7">139</Mob>
+      <Mob Area="ocean" Num="8">139</Mob>
+      <Mob Area="ocean" Num="9">139</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1409</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1412</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1411</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

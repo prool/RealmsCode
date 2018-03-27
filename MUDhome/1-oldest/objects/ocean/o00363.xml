@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="363" Area="ocean" Version="2.40">
+  <Name>piranha tooth blade</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>3</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">tooth</Key>
+    <Key Num="1">blade</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a small blade crafted from razor sharp piranha teeth.</Description>
+  <Weight>4</Weight>
+  <Type>5</Type>
+  <SubType>dagger</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

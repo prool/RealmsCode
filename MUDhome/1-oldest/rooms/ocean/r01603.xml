@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1603" Version="2.41a" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along Overland Drive, south of the Necropolis.</ShortDescription>
+  <LongDescription>Overland Drive takes a funny turn towards the southeast here.  The
+Necropolis continues along the north side of the road, even past the
+turn.  You can now see the large Manor of Natasha de Allisk to the
+south.  There are two large gates located to the southeast of here
+that appear to lead into the Manor.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1602</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1604</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

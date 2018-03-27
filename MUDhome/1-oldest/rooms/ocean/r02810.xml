@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2810" Version="2.40a" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>You are walking through a junction hallway between two parallel halls.</ShortDescription>
+  <LongDescription>To the east and west, you can see two long hallways running north and 
+south, parallel to each other.  The short hallway you are in connects 
+them together.  The passage is about thirty meters long between the two
+main hallways, and remains quite dark even with your light sources.</LongDescription>
+  
+  
+  
+  <Established>728798512</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2806</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2812</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

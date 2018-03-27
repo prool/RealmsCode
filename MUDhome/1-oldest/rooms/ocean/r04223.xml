@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="4223" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>You are near the entrance to the chapel used by the knights of the castle.</ShortDescription>
+  <LongDescription>The open door lets you see that the chapel is a small place with a simple
+altar and a confessional booth.  Confession is good for the soul, and 
+several knights evidently want a good soul, as there is a line to the booth.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4222</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4224</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4266</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

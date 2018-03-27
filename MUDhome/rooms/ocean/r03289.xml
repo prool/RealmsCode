@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3289" Version="2.40" Area="ocean">
+  <Name>East Grounds</Name>
+  <ShortDescription>This is the east side of the Ogden Villa Estate.</ShortDescription>
+  <LongDescription>The house is palatial in appearance, with at least sixty rooms.  A long
+sun porch, built to catch the morning rays, stretches the length of the
+mansion on this side.  The grounds are beautifully landscaped around a
+monument and open-air tomb where the founder of the Ogden Dynasty rests.</LongDescription>
+  
+  <Established>756376216</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3268</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="cellar">
+      <Keys/>
+      <Room Area="ocean">3290</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

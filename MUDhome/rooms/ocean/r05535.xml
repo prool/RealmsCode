@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="5535" Version="2.40" Area="ocean">
+  <Name>Nyyron Trail</Name>
+  <ShortDescription>This is the north Nyyron Trail, which is used mostly by mountain trolls.</ShortDescription>
+  <LongDescription>A great boulder, larger than a house, sits on the east side of the trail.
+Grafitti mars the stone, but it seems to be in a language you do not
+understand.  Some of it looks to be dried blood.  In the sand at the base 
+of the boulder you can see some rusting pieces of armor, and a few broken
+weapons and gnawed bones.</LongDescription>
+  
+  <Established>795839142</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">671</Mob>
+      <Mob Area="ocean" Num="1">671</Mob>
+      <Mob Area="ocean" Num="2">671</Mob>
+      <Mob Area="ocean" Num="3">671</Mob>
+      <Mob Area="ocean" Num="4">671</Mob>
+      <Mob Area="ocean" Num="5">671</Mob>
+      <Mob Area="ocean" Num="6">671</Mob>
+      <Mob Area="ocean" Num="7">671</Mob>
+      <Mob Area="ocean" Num="8">671</Mob>
+      <Mob Area="ocean" Num="9">671</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">671</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5534</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5536</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

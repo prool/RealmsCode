@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="2040" Version="2.40" Area="ocean">
+  <Name>Garden Circle Road</Name>
+  <ShortDescription>You are on Garden Circle Road, which runs around the Hanging Gardens.</ShortDescription>
+  <LongDescription>The Hanging Gardens monument was built centuries ago by King Randolf the
+Blue for his wife, Queen Isaria, long before Kista was more than just a
+simple town.  The Hanging Gardens were the only things left of his glorious
+reign when his empire crumbled merely decades ago.  An archery range is  
+located on the west side of the road.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2041</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2556</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="range">
+      <Keys/>
+      <Room Area="ocean">2043</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

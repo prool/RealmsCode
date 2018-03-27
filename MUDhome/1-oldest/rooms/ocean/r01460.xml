@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1460" Version="2.40" Area="ocean">
+  <Name>West Balcony</Name>
+  <ShortDescription>You are on the Palace Balcony overlooking the island of Eeste.</ShortDescription>
+  <LongDescription>The view of Eeste Island is spectacular from this vantage point.  You
+can see majestic mountains rising up from the lake and the small paths
+and caves that make the island so unique.  The balcony is a good place
+to relax without having to worry about people bothering you.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">166</Mob>
+      <Mob Area="ocean" Num="5">166</Mob>
+      <Mob Area="ocean" Num="8">166</Mob>
+      <Mob Area="ocean" Num="9">167</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1459</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1461</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="1577" Version="2.40" Area="ocean">
+  <Name>Rose Orchard</Name>
+  <ShortDescription>You are in a very dense rose orchard with rose bushes virtually everywhere.</ShortDescription>
+  <LongDescription>The rose bushes are not really aligned in any real order, but rather
+seem to have natually grown in.  The druids have kept the rose bushes
+as they are, rather than uproot them and organize them.  It gives the
+area a sense of wilderness combined with nature's beauty.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1573</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

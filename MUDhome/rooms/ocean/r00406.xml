@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="406" Version="2.40" Area="ocean">
+  <Name>Evenborough Way</Name>
+  <ShortDescription>You are walking along Evenborough Way, west of Elaine's Bow shop.</ShortDescription>
+  <LongDescription>Elaine's Bow shop supplies archers and knights from the Lyanden Castle
+with superior quality crossbows and longbows for use in battle or defending
+the city.  The high quality bows are more mechanical than natural, but
+nothing can really match an elven longbow.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">405</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">407</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="404" Version="2.40" Area="ocean">
+  <Name>Evenborough Way</Name>
+  <ShortDescription>You are enjoying a brisk walk along Evenborough Way.</ShortDescription>
+  <LongDescription>On the west side of the road, you can see a well-protected jewelry shop
+called "Doberman's Fine Jewels".  The shop looks very well protected,
+perhaps by some vicious dogs or some other guard animal.  On the east side
+of the road, you can see the Darmanian Memorial, a large park-like 
+facility, preserved by the Darmanian Society through a number of healthy
+donations.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">403</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">405</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="5131" Version="2.40" Area="ocean">
+  <Name>North Wall</Name>
+  <ShortDescription>You have reached the northern interior iron gate of Castle Kayleigh.</ShortDescription>
+  <LongDescription>You may continue around the perimeter of the castle, or take the south
+hallway to the castle's center court.  You would think this place would 
+be deathly quiet, but there's an odd moaning sound drifting through the
+hallways.  Occasionally, it seems to turn into a low cackle.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5130</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5157</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5133</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

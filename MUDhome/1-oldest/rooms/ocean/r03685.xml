@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="3685" Version="2.40" Area="ocean">
+  <Name>Tower Tunnel</Name>
+  <ShortDescription>You are in a stone vault with no apparent exit except small and dark steps.</ShortDescription>
+  <LongDescription>The steps lead down into quiet blackness, the only way out.  There is a
+ledge overhead and you can see the wall is set back a few meters from there
+to the ceiling.  You could probably climb up there if the walls were not so
+slippery with slime and fungus.  But why would you want to?</LongDescription>
+  
+  <Flags>
+    <Bit Num="10"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="steps">
+      <Keys/>
+      <Room Area="ocean">3684</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

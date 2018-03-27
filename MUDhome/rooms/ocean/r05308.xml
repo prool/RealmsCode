@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5308" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>The Great King Lyanden ordered this road to be cut through the land.</ShortDescription>
+  <LongDescription>the road builders found there was a natural break between the northern
+forest and the southern desert.  It was easy to simply follow the natural
+break in the topology.  The K'tral Desert to the south gives way to a 
+truly badlands much farther to the south.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5307</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5309</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

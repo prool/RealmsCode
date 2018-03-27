@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3885" Version="2.40" Area="ocean">
+  <Name>Long tunnel</Name>
+  <ShortDescription>You are in a cold, damp tunnel which seems to go on forever.</ShortDescription>
+  <LongDescription>The tunnel appears to turn sharply, and doesn't seem to follow a straight
+path for more than a few meters.  Occasionally you have to climb either up
+or down to continue through these broken tunnels.  This is very confusing.</LongDescription>
+  
+  <Flags>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3884</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3884</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3887</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3893</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

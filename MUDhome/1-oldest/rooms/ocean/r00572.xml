@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="572" Version="2.40" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are traveling along Leviathan Drive, taking in the majesty of the city.</ShortDescription>
+  <LongDescription>On the east side of the road is a spectacular forest, like none you've
+ever seen.  No one ever seems to go near it, as if it were haunted or
+something.  On the west side of the road are the magnificent Avatar Ruins,
+created by a wave of destruction by the Avatars.  Most of the destruction
+has been cleaned up by the passage of time, and the development of the city,
+but the monument stands as a warning for everyone to remember.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">571</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">573</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

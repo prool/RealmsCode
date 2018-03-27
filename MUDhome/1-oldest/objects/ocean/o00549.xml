@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="549" Area="ocean" Version="2.40">
+  <Name>two-handed axe</Name>
+  <Adjustment>2</Adjustment>
+  <ShotsMax>60</ShotsMax>
+  <ShotsCur>60</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>3</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">8000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">axe</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>The heavy axe has a razor edge, and is used in ceremonial decapitations.</Description>
+  <Weight>7</Weight>
+  <Type>5</Type>
+  <SubType>axe</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

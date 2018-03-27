@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<Room Num="2" Version="2.41a" Area="ocean">
+  <Name>Town Square</Name>
+  <ShortDescription>This is the town square, Brownhaven's center of civic activity.</ShortDescription>
+  <LongDescription>People stand about discussing everything from the latest fads in armorwear
+to plots of killing the mayor.  Caledonia Road continues to the east and
+the west, and a small, dark alley heads south.  Directly north of you is
+a spartan Mayor's office.  You can't help but notice an awkwardly placed
+bulletin board in the middle of the intersection.  It's got a single note
+posted on it.  The main post office is next door.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">3</Mob>
+      <Mob Area="ocean" Num="2">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="4">6</Mob>
+      <Mob Area="ocean" Num="5">9</Mob>
+      <Mob Area="ocean" Num="6">8</Mob>
+      <Mob Area="ocean" Num="7">2</Mob>
+      <Mob Area="ocean" Num="8">1</Mob>
+      <Mob Area="ocean" Num="9">3</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">678</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">230</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects>
+    <ObjRef Num="230" Area="ocean" Version="2.41a">
+      <Name>board note</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">1</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">bulletin</Key>
+        <Key Num="1">note</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+  </Objects>
+  <Creatures>
+    <CrtRef Num="678" Area="ocean" Version="2.41a">
+      <Name>Brownhaven guard</Name>
+      <Class>4</Class>
+      <Level>4</Level>
+      <Type>1</Type>
+      <Experience>60</Experience>
+      <Coins>
+        <Coin Num="2">13</Coin>
+      </Coins>
+      <Stats>
+        <Stat Name="Strength">
+          <Current>160</Current>
+          <Max>160</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Dexterity">
+          <Current>140</Current>
+          <Max>140</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Constitution">
+          <Current>150</Current>
+          <Max>150</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Intelligence">
+          <Current>100</Current>
+          <Max>100</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Piety">
+          <Current>100</Current>
+          <Max>100</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Hp">
+          <Current>60</Current>
+          <Max>60</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Mp">
+          <Current>0</Current>
+          <Max>0</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+      </Stats>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="9"/>
+        <Bit Num="12"/>
+        <Bit Num="38"/>
+        <Bit Num="40"/>
+      </Flags>
+      <LastTimes>
+        <LastTime Num="3">
+          <Interval>0</Interval>
+          <LastTime>1207084506</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="4">
+          <Interval>0</Interval>
+          <LastTime>1206322791</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="6">
+          <Interval>0</Interval>
+          <LastTime>1206322791</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="8">
+          <Interval>55</Interval>
+          <LastTime>1206324306</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="41">
+          <Interval>0</Interval>
+          <LastTime>1206322791</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="100">
+          <Interval>55</Interval>
+          <LastTime>1206324306</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="101">
+          <Interval>32</Interval>
+          <LastTime>1206324340</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </LastTimes>
+      <Inventory/>
+    </CrtRef>
+  </Creatures>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">35</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">55</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">46</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">44</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="post office">
+      <Keys/>
+      <Room Area="ocean">25</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

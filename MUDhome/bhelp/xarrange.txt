@@ -1,0 +1,34 @@
+Help on: *xarrange
+
+This command will reorder exits in the following format:
+  north, east, south, west, ne, nw, se, sw, up, down, (alphabetic)
+
+
+Example:
+60 - Builder Waiting Room
+
+All exits: northeast, south, northwest, north, door, arch, east, gate.
+
+: *xa
+Checking exit south vs northeast...
+  Moving south to the front...
+Checking exit northwest vs northeast...ok.
+Checking exit north vs northwest...
+  Moving north to the front...
+Checking exit door vs northwest...ok.
+Checking exit arch vs door...
+  Finding a spot for arch...
+  Spot found after: northwest.
+Checking exit east vs door...
+  Finding a spot for east...
+  Spot found after: north.
+Checking exit gate vs door...ok.
+Exits rearranged!
+: look
+
+60 - Builder Waiting Room
+
+All exits: north, east, south, northeast, northwest, arch, door, gate.
+
+:
+

@@ -1,0 +1,15 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |          Help on:  pay         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Pay is a command which allows you to pay tolls to get through tolled exits.
+Every toll location will have a toll collecting monster. They do not keep the
+money on hand. It goes directly into a vault someplace. If there is no toll
+collector, one cannot go through a tolled exit. Paying the toll automatically
+moves you through the exit. You can find out how much you need to pay simply by
+trying to go through the exit.
+
+Example:
+: pay $100 high gate
+The Highport gatekeeper accepts your toll and ushers you through the gate.
+

@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Room Num="3327" Version="2.40" Area="ocean">
+  <Name>Vacant Plot</Name>
+  <ShortDescription>This is a vacant plot of burial ground.  Did you wander off the path?</ShortDescription>
+  <LongDescription>Looking around you notice that it really isn't just a vacant plot of
+ground at all.  There is a depression in the earth, as though a grave
+had been dug up and the dirt removed was not enough to fill in the hole.
+Whatever monument was here, which might have told you who's grave was
+descrated, has been removed.  You get an uneasy feeling about the area,
+and decide that perhaps it may not be safe to stay here.</LongDescription>
+  
+  <Established>759804890</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">529</Mob>
+      <Mob Area="ocean" Num="1">529</Mob>
+      <Mob Area="ocean" Num="2">530</Mob>
+      <Mob Area="ocean" Num="3">530</Mob>
+      <Mob Area="ocean" Num="4">530</Mob>
+      <Mob Area="ocean" Num="5">531</Mob>
+      <Mob Area="ocean" Num="6">531</Mob>
+      <Mob Area="ocean" Num="7">532</Mob>
+      <Mob Area="ocean" Num="8">533</Mob>
+      <Mob Area="ocean" Num="9">529</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3325</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3329</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3381</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3382</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

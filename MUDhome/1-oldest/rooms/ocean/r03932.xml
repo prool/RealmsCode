@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3932" Version="2.40" Area="ocean">
+  <Name>Gold and Ruby Room</Name>
+  <LongDescription>You are in a spherical gold room, with rings of red rubys around you.
+It looks as though you are inside a great golden ball, at the exact center.
+You appear to be floating in a red mist while an old man's face watches you
+you from near a circular door which probably goes to the training room.
+The face smiles, and a hand appears in the mist, holding a small key.
+You probably ought to ask him what he would like for the key.</LongDescription>
+  <LowLevel>7</LowLevel>
+  <HighLevel>7</HighLevel>
+  
+  <Established>770926358</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training room</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">622</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3930</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">3939</Room>
+      <Key>80</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

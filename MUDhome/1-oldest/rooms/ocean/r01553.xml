@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="1553" Version="2.40a" Area="ocean">
+  <Name>Outer Circle of Etolos</Name>
+  <ShortDescription>You are travelling around the outer circle of Etolos.</ShortDescription>
+  <LongDescription>It's strange that the druid initiates seem to be of various strengths.
+The druid hierarchy consists of a number of initiate circles starting
+from one and going to eleven, after which one becomes a full druid.  
+You have to look at the druids before you consider attacking them.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">177</Mob>
+      <Mob Area="ocean" Num="1">177</Mob>
+      <Mob Area="ocean" Num="2">177</Mob>
+      <Mob Area="ocean" Num="3">178</Mob>
+      <Mob Area="ocean" Num="4">178</Mob>
+      <Mob Area="ocean" Num="5">177</Mob>
+      <Mob Area="ocean" Num="6">177</Mob>
+      <Mob Area="ocean" Num="7">178</Mob>
+      <Mob Area="ocean" Num="8">178</Mob>
+      <Mob Area="ocean" Num="9">177</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1551</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1555</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1556</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

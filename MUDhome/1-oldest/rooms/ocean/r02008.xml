@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2008" Version="2.40a" Area="ocean">
+  <Name>Lake View Road</Name>
+  <ShortDescription>You are on Lake View Road, between Lake Kista and the city.</ShortDescription>
+  <LongDescription>The lake is higher and to the north and towards the east, but it is said
+to be an easy climb from here.  Kista is close by in the southern direction.
+Kista is known far and wide throughout the Land of Mordor as a beautiful
+place to visit, with wonderful gardens and pleasant people.  Many of the
+political decisions that affect the entire land are made here, because
+politicians also recognize the beauty of Kista and hold many conferences
+in the famous Towers of Kista.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3210</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2003</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

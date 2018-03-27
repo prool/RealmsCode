@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="1450" Version="2.40" Area="ocean">
+  <Name>Servant and Guard Quarters</Name>
+  <ShortDescription>You are in the basement of the great Palace of Keslar.</ShortDescription>
+  <LongDescription>You are in a small, plain hallway taking you around the various quarters
+in the basement of the Palace.  This is where most of the common servants
+sleep and relax.  It is also the headquarters for the palace guards.  
+The hallways continue to the west, north and south.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">172</Mob>
+      <Mob Area="ocean" Num="1">172</Mob>
+      <Mob Area="ocean" Num="2">172</Mob>
+      <Mob Area="ocean" Num="3">130</Mob>
+      <Mob Area="ocean" Num="4">173</Mob>
+      <Mob Area="ocean" Num="5">130</Mob>
+      <Mob Area="ocean" Num="6">174</Mob>
+      <Mob Area="ocean" Num="7">126</Mob>
+      <Mob Area="ocean" Num="8">130</Mob>
+      <Mob Area="ocean" Num="9">158</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1405</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1451</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1442</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1449</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

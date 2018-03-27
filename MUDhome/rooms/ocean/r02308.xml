@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2308" Version="2.40" Area="ocean">
+  <Name>Jallud's Missing Persons</Name>
+  <ShortDescription>It's often hard to find people in such a large city, so Jallud set up this
+small service to help people get in touch with each other more conveniently.</ShortDescription>
+  <LongDescription>As luck would have it, there are no post offices in the center of town.
+This is because the town was already built before the city decided to
+adopt the post offices as their official means of communications.  Jallud's
+small shop acts as a message service to get important information to lost
+or missing people you haven't seen in a while.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="10"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2306</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

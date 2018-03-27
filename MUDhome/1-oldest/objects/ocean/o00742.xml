@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="742" Area="ocean" Version="2.40">
+  <Name>lemon yellow scroll</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">25</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">yellow</Key>
+    <Key Num="1">scroll</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="1"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>you see a yellow scroll, tied with a yellow ribbon.</Description>
+  <Weight>1</Weight>
+  <Type>8</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>51</MagicPower>
+  <InBag/>
+</Object>

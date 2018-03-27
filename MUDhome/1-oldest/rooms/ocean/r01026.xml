@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1026" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>You are on Main Street in the center of the Oceancrest Shopping District.</ShortDescription>
+  <LongDescription>A large shopping complex is located to the east of Main Street.  The 
+center boasts a repair shop, a fighting academy and other fine imports
+from throughout the lands.  Main Street continues to the north and south.
+Heading south leads you towards the town's southern entrance, about a 
+block away.  Heading north brings you into the center of Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">6</Mob>
+      <Mob Area="ocean" Num="1">6</Mob>
+      <Mob Area="ocean" Num="2">6</Mob>
+      <Mob Area="ocean" Num="3">6</Mob>
+      <Mob Area="ocean" Num="4">1</Mob>
+      <Mob Area="ocean" Num="5">1</Mob>
+      <Mob Area="ocean" Num="6">5</Mob>
+      <Mob Area="ocean" Num="7">2</Mob>
+      <Mob Area="ocean" Num="8">8</Mob>
+      <Mob Area="ocean" Num="9">1</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1025</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1027</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1920</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

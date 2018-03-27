@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Room Num="4510" Version="2.40a" Area="ocean">
+  <Name>Prince Ragnar's Waiting Room</Name>
+  <ShortDescription>You are in the waiting room for those who would pledge or rescind their
+pledge to Prince Ragnar.</ShortDescription>
+  <LongDescription>In the center of the room is a small table with a single parchment on it.
+The parchment is a covenant between you and Ragnar if you choose to honor
+it.  A priest and a palidin stand nearby, ready to witness your oath of
+fealty to the realm.  To pledge, you must step to the south, where you 
+will be given a last chance to decide this important step in your life.</LongDescription>
+  
+  
+  
+  <Established>774567484</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">723</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects>
+    <ObjRef Num="723" Area="ocean" Version="2.40a">
+      <Name>covenant</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value/>
+      <Keys/>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+  </Objects>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4507</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4519</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

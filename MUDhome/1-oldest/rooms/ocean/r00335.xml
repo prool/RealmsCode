@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="335" Version="2.40" Area="ocean">
+  <Name>Uland Way</Name>
+  <ShortDescription>You are on Uland Way, just west of the intersection with Rum Road.</ShortDescription>
+  <LongDescription>A number of small shops line the twisting street, catering mostly to the
+people who live here on the island.  Immediately to the north is a dirty
+llittle fish market, which gives the street a pleasant smell.  Shopkeepers
+lounge in their doorways and eye you as you stroll along.  Uland Way seems
+to twist out of sight to the west.</LongDescription>
+  
+  <Established>762914854</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">334</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">336</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="361" Version="2.40" Area="ocean">
+  <Name>Cellar of the Dwarven Drinking Society</Name>
+  <ShortDescription>You are in the cellar of a fraternal order of dwarves.</ShortDescription>
+  <LongDescription>The room is dark, but there is a door at the top of some stairs where
+light seeps around the edges.  The door is only slightly over a meter 
+tall however, so you conclude some very short people probably use this
+room.  The smell of rum is quite strong and you are a little sickened by
+its overpowering odor in such a small place.  There is a new padlock on
+the side door.  A broken window leads to a vault in the alley outside.</LongDescription>
+  
+  <Established>760477407</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">515</Mob>
+      <Mob Area="ocean" Num="1">515</Mob>
+      <Mob Area="ocean" Num="2">515</Mob>
+      <Mob Area="ocean" Num="3">515</Mob>
+      <Mob Area="ocean" Num="4">582</Mob>
+      <Mob Area="ocean" Num="5">515</Mob>
+      <Mob Area="ocean" Num="6">515</Mob>
+      <Mob Area="ocean" Num="7">515</Mob>
+      <Mob Area="ocean" Num="8">515</Mob>
+      <Mob Area="ocean" Num="9">515</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>window</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="window">
+      <Keys/>
+      <Room Area="ocean">360</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

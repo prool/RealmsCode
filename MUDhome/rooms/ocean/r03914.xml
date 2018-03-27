@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="3914" Version="2.40" Area="ocean">
+  <Name>Nobunaga's Storage Room</Name>
+  <ShortDescription>You are in Nobunaga's storage.  If you are not Nobunaga, you best leave.</ShortDescription>
+  
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="32"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3913</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

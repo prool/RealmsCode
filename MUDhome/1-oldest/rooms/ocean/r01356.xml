@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1356" Version="2.40" Area="ocean">
+  <Name>Neilian Drive</Name>
+  <ShortDescription>You are traveling along Neilian Drive, south of a small shopping complex.</ShortDescription>
+  <LongDescription>To the north is one of the numerous recycling plants in Oceancrest.  Most
+of the junk that people can't use gets pulverized and then re-used as
+something else.  There are a number of shops in the center to the north.
+The entrance to these shops is on the other side of the building along
+Ministry Way or Riverdell Way, to the east or west respectively.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1330</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1357</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

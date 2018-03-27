@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  drop | put      |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Drop and put are synonyms that allow you to drop something you have in your
+inventory onto the ground, or place it into a container. Use the word "all" to
+drop everything you're holding onto the floor or into a container.
+
+Example:
+: put apple 3 in sack 2
+You put an apple in a small sack.
+:
+

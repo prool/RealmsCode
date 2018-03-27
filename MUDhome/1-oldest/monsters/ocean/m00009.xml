@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<Creature Num="9" Area="ocean" Version="2.40">
+  <Name>monk</Name>
+  <Class>3</Class>
+  <Level>2</Level>
+  <Type>1</Type>
+  <Experience>10</Experience>
+  <Coins/>
+  <Alignment>100</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>90</Current>
+      <Max>90</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>170</Current>
+      <Max>170</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>13</Current>
+      <Max>13</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>6</Current>
+      <Max>6</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>This monk has obviously been cooped up in a monastery too long. Pale as a sheet</Description>
+  <Keys/>
+  <MoveTypes/>
+  <Armor>50</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>1</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <DefenseSkill>15</DefenseSkill>
+  <AttackPower>104</AttackPower>
+  <WeaponSkill>15</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">43</Carry>
+    <Carry Area="ocean" Num="1">36</Carry>
+    <Carry Area="ocean" Num="2">44</Carry>
+    <Carry Area="ocean" Num="3">50</Carry>
+    <Carry Area="ocean" Num="4">50</Carry>
+    <Carry Area="ocean" Num="5">50</Carry>
+    <Carry Area="ocean" Num="6">50</Carry>
+    <Carry Area="ocean" Num="7">43</Carry>
+    <Carry Area="ocean" Num="8">50</Carry>
+    <Carry Area="ocean" Num="9">36</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="0"/>
+    <Bit Num="1"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="17"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

@@ -1,0 +1,21 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  Monk           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Prime Requisites: Strength, Constitution
+Compatible Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The monk is the silent warrior of martial arts. With his hands alone, he is able
+to harm his enemies using ancient techniques of fighting known only to his
+order. Very few weapons, however, are made specifically for monks in order for
+them to fight creatures of a magical nature. To regain his strength, a monk may
+enter a meditative trance while fighting. A monk may also concentrate to focus
+his mental energy on his opponent. This makes him hit his targets easier. At
+higher levels, his power is such that he may touch his enemy, sending mystic
+vibrations throughout his target's body. This can severely damage and even
+fatally wound his opponent. The monks of Derlith owe allegiance to no one,
+wandering the land with the soul purpose of seeking enlightenment.
+
+Abilities: Meditate, Focus, Touch of Death, Kick

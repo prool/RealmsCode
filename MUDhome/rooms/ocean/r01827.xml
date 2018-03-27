@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="1827" Version="2.40" Area="ocean">
+  <Name>The Hot Mud Pits</Name>
+  <ShortDescription>The slimy mud is said to have theraputic effects on the body.</ShortDescription>
+  <LongDescription>A large number of half-giants usually come here to rest after a long
+battle against nearly impossible odds.  As usual, they return victorious,
+but heavily wounded.  The mud, although quite dirty and very smelly,
+appears to help them recover much faster than the Shaman can personally
+tend to each of them.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1835</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1841</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1822</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

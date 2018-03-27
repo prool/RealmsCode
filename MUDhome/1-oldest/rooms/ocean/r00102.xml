@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="102" Version="2.41a" Area="ocean">
+  <Name>Prison Storage Room</Name>
+  <ShortDescription>You are in the Oceancrest Detention and Rehabilitation Center.</ShortDescription>
+  <LongDescription>This is the storage room where a prisoner's belongings are kept.  However,
+few prisoners have ever been known to leave the Detention and Rehabilitation
+alive or dead, and so the stuff in here is seldom reclaimed.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="17"/>
+    <Bit Num="28"/>
+    <Bit Num="31"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>freedom</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

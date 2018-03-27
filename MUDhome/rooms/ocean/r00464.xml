@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="464" Version="2.40" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are on Darmanian Way, north of Pandora's Apothecary and the Inn.</ShortDescription>
+  <LongDescription>The Evenborough Inn is located on the southern side of the road.  The
+entrance to the Inn is on the other side of the building, off of 
+Evenborough Way or Hofton Avenue.  On the south side of the road is 
+Pandora's Apothocary, where various, mysterious potions and oils can
+be bought for just about any purpose.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">463</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">415</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

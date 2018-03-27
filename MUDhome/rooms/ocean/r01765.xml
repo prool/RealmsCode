@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1765" Version="2.40a" Area="ocean">
+  <Name>Kafkan Way</Name>
+  <ShortDescription>You are walking along Kafkan Way, south of the Riverdell Tranquility Park.</ShortDescription>
+  <LongDescription>The Park facilities are open all day and night for the benefit of all the
+citizens of the city, knowing that not everyone quits when the sun goes
+down.  The entrance to the large facility is located on the west side of
+the Park off of Leviathan Drive.  Kafkan road continues to the east and
+west from here, heading west towards the Necropolis.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1764</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1766</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

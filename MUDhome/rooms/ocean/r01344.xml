@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="1344" Version="2.40" Area="ocean">
+  <Name>Brig on the Widowmaker</Name>
+  <ShortDescription>You are in the brig of the pirate ship Widowmaker.</ShortDescription>
+  <LongDescription>Pirates don't really believe in brigs, preferring instead to simply
+toss overboard anyone who misbehaves on their ship.  Several years ago,
+a small hobbitish pirate got drunk, and accidently was locked in here.
+The other pirates tried to get him out, but when they coldn't find the
+key they left him in here.  Since he was in against his will, they called
+it the brig.  Some say the chief bosun knew where the key was all the time
+and simply hid it as a joke.  Some joke.</LongDescription>
+  
+  <Established>755938966</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">21</Mob>
+      <Mob Area="ocean" Num="1">21</Mob>
+      <Mob Area="ocean" Num="2">21</Mob>
+      <Mob Area="ocean" Num="3">21</Mob>
+      <Mob Area="ocean" Num="4">21</Mob>
+      <Mob Area="ocean" Num="5">21</Mob>
+      <Mob Area="ocean" Num="6">21</Mob>
+      <Mob Area="ocean" Num="7">21</Mob>
+      <Mob Area="ocean" Num="8">21</Mob>
+      <Mob Area="ocean" Num="9">21</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>2400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">384</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2322</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

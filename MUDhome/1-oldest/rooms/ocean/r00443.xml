@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="443" Version="2.40" Area="ocean">
+  <Name>Adlermann Way</Name>
+  <ShortDescription>You are walking along Adlermann Way, west of the City Guard Barracks.</ShortDescription>
+  <LongDescription>The impressive structure on the east provides housing for the many
+hundreds of city guards on patrol in this section of town.  The
+Observational Station to the north and the Northern Entrance to the town
+all require a large number of guards to patrol the area in addition to the
+day-to-day patrolling of the city and the City Walls.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">442</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">444</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

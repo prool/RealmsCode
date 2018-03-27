@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1701" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>Marina Way continues to the north and south.  An alley is to the east.</ShortDescription>
+  <LongDescription>On the west side of the street is the Leviathan Small Boat Rental offfice.
+Many people in the city of Oceancrest believe the business is just a front
+for a gang of retired pirates, now in the smuggling trade, but since they
+always pay their taxes and goods can be purchased in there for a fraction
+of their true costs, no one ever complains.  Small shops are to the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="27"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1702</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1126</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="alley">
+      <Keys/>
+      <Room Area="ocean">3853</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

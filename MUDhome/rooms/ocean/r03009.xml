@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3009" Version="2.40" Area="ocean">
+  <Name>East End of Long Hallway</Name>
+  <ShortDescription>You are at the east end of a long and dark hallway.</ShortDescription>
+  <LongDescription>You are now very close to the source of the horrible stench, which seems
+to be just to the east.  However, it is too dark to see far in that
+direction.  Far off to the west there is a point of light.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3008</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3010</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

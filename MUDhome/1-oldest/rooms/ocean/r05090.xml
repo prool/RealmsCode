@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5090" Version="2.40" Area="ocean">
+  <Name>Quarters of Galgorith</Name>
+  <ShortDescription>These are the burned out quarters of Galgorith, once the lover of Tenneya.</ShortDescription>
+  <LongDescription>It was Silventh himself who managed to cast a complicated spell on Galgorith.
+Now, the young mage who had such great promise is an immortal in cat form,
+forever hunting the mice in this tower.</LongDescription>
+  
+  <Established>773562955</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>900</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">677</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5089</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

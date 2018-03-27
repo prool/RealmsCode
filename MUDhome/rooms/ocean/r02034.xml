@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="2034" Version="2.40" Area="ocean">
+  <Name>Tower Lane/Ivory Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Tower Lane and Ivory Way.</ShortDescription>
+  <LongDescription>Ivory Way leads both north and south of here, following a line of trees
+that may be as old as the town itself.  Tower Lane leads to the west through
+the heart of the city.  There is a large amphitheater to the east where some
+of the most renouned speakers in the land are often heard to lecture.  The
+facility is also used for entertainment, which usually draws larger crowds.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2503</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2519</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2521</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2047</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

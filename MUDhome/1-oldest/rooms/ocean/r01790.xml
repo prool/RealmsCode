@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1790" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are traveling along Hillcrest Drive, south of the Obidian Complex.</ShortDescription>
+  <LongDescription>You can start to see the impressive Allakaren Pyramid a short distance
+to the southwest.  The south side of the road is completely barren except
+for the shadow the Pyramid casts on the land.  On the north, you can see
+the Obidian Community Housing Complex where numerous citizens live.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1789</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1791</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

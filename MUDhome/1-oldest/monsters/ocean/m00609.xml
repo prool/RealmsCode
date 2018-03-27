@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<Creature Num="609" Area="ocean" Version="2.40">
+  <Name>elven bowyer</Name>
+  <Level>12</Level>
+  <Type>1</Type>
+  <Experience>550</Experience>
+  <Coins>
+    <Coin Num="2">100</Coin>
+  </Coins>
+  <Alignment>10</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>190</Current>
+      <Max>190</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>220</Current>
+      <Max>220</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>165</Current>
+      <Max>165</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>50</Current>
+      <Max>50</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>The old elf is even smaller than most elves, but he makes very fine bows.</Description>
+  <Keys>
+    <Key Num="0">bowyer</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>300</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>5</Number>
+    <Sides>3</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>occasionally I make a magical crossbow for members of royalty, but not often</Talk>
+  <DefenseSkill>115</DefenseSkill>
+  <AttackPower>190</AttackPower>
+  <WeaponSkill>115</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">281</Carry>
+    <Carry Area="ocean" Num="1">673</Carry>
+    <Carry Area="ocean" Num="2">673</Carry>
+    <Carry Area="ocean" Num="3">673</Carry>
+    <Carry Area="ocean" Num="4">673</Carry>
+    <Carry Area="ocean" Num="5">257</Carry>
+    <Carry Area="ocean" Num="6">258</Carry>
+    <Carry Area="ocean" Num="7">281</Carry>
+    <Carry Area="ocean" Num="8">281</Carry>
+    <Carry Area="ocean" Num="9">258</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects>
+    <Effect>
+      <Name>resist-magic</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+  </Effects>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="12"/>
+    <Bit Num="18"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="1"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+    <Bit Num="17"/>
+    <Bit Num="22"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

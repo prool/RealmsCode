@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2823" Version="2.40" Area="ocean">
+  <Name>Dark Hallway</Name>
+  <ShortDescription>You have wandered into a little used, and lesser known hallway.</ShortDescription>
+  <LongDescription>This hallway was probably just an access way to some area beyond the
+main hallway before it was built.  It is now seldom used, as you can
+see by the layers of dust and grime on the floors.  The hallway runs into
+the main hall to the north.</LongDescription>
+  
+  <Established>729053075</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2815</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2822</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3679" Version="2.40" Area="ocean">
+  <Name>Thieve's Passage</Name>
+  <ShortDescription>You are in a low and narrow crawlway known as the thieve's passage.</ShortDescription>
+  <LongDescription>Many years ago a number of thieves escaped from their prison cells
+and were found here, but no one has ever been willing to crawl through
+the darkness to see where it goes in the western direction.  A major
+tunnel is just to the northeast.  It's probably not right to call this
+narrow crawlway a passage.  It's more like a rat's run.</LongDescription>
+  
+  <Established>765425092</Established>
+  <Flags>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3678</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3661</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

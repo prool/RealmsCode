@@ -1,0 +1,9 @@
+Help on DM command:
+	COMBUST
+
+Instantly kills a player, reducing their HP and MP to 1 each, and
+sends them to Limbo.
+
+: *combust min
+### Sadly, Min spontaneously combusted.
+

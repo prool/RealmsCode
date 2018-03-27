@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5453" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <LongDescription>This is the western end of a short mountain valley leading east/west.
+to the southwest the road spirals lower through a field of old lava flows.
+The peak directly to the south is an active volcano, although it is not 
+doing anything at the moment except putting out a little smoke.  East are
+the towering peaks of the Hafnia Mountain Range.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5452</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5454</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

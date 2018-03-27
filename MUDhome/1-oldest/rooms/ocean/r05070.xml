@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="5070" Version="2.40" Area="ocean">
+  <Name>Light Cloud Layer</Name>
+  <ShortDescription>The clouds are getting less dense, but still hide the direction indicator.</ShortDescription>
+  <LongDescription>The wind is picking up, and it's hard to tell where the dragon is being
+blown.  You might be many kilometers from where you entered the clouds.</LongDescription>
+  
+  <Established>772843825</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>forward</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">5067</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right">
+      <Keys/>
+      <Room Area="ocean">5066</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="forward">
+      <Keys/>
+      <Room Area="ocean">5071</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

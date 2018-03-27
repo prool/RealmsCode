@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<Room Num="4028" Version="2.41a" Area="ocean">
+  <Name>Crystalline Caverns Entrance</Name>
+  <ShortDescription>You see a massive entrance to a cavern hidden by a frozen waterfall. </ShortDescription>
+  <LongDescription>Ice crystals meld with rose quartz crystals as the waterfall becomes an 
+intricate crystalline formation which completely covers the wall of the
+cave.  However, the floor, which is also composed of a translucent stone,
+is completely flat and polished smooth to perfection.</LongDescription>
+  
+  
+  <LowLevel>12</LowLevel>
+  
+  <Established>771919748</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">658</Mob>
+      <Mob Area="ocean" Num="1">658</Mob>
+      <Mob Area="ocean" Num="2">658</Mob>
+      <Mob Area="ocean" Num="3">658</Mob>
+      <Mob Area="ocean" Num="4">658</Mob>
+      <Mob Area="ocean" Num="5">658</Mob>
+      <Mob Area="ocean" Num="6">658</Mob>
+      <Mob Area="ocean" Num="7">658</Mob>
+      <Mob Area="ocean" Num="8">658</Mob>
+      <Mob Area="ocean" Num="9">658</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">658</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">658</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures>
+    <CrtRef Num="658" Area="ocean" Version="2.41a">
+      <Name>crystalline vampire bat</Name>
+      <Level>8</Level>
+      <Type>1</Type>
+      <Experience>250</Experience>
+      <Coins>
+        <Coin Num="2">146</Coin>
+      </Coins>
+      <Alignment>-30</Alignment>
+      <Stats>
+        <Stat Name="Strength">
+          <Current>180</Current>
+          <Max>180</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Dexterity">
+          <Current>180</Current>
+          <Max>180</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Constitution">
+          <Current>160</Current>
+          <Max>160</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Intelligence">
+          <Current>160</Current>
+          <Max>160</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Piety">
+          <Current>160</Current>
+          <Max>160</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Hp">
+          <Current>100</Current>
+          <Max>100</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Mp">
+          <Current>0</Current>
+          <Max>0</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+      </Stats>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="1"/>
+        <Bit Num="6"/>
+        <Bit Num="9"/>
+        <Bit Num="11"/>
+      </Flags>
+      <LastTimes>
+        <LastTime Num="3">
+          <Interval>0</Interval>
+          <LastTime>1207084538</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="4">
+          <Interval>0</Interval>
+          <LastTime>1207090866</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="6">
+          <Interval>0</Interval>
+          <LastTime>1206217633</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="8">
+          <Interval>55</Interval>
+          <LastTime>1207090868</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="41">
+          <Interval>0</Interval>
+          <LastTime>1206217633</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="100">
+          <Interval>50</Interval>
+          <LastTime>1207090864</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="101">
+          <Interval>32</Interval>
+          <LastTime>1207090876</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </LastTimes>
+      <Inventory/>
+    </CrtRef>
+    <CrtRef Num="658" Area="ocean" Version="2.41a">
+      <Name>crystalline vampire bat</Name>
+      <Level>8</Level>
+      <Type>1</Type>
+      <Experience>250</Experience>
+      <Coins>
+        <Coin Num="2">26</Coin>
+      </Coins>
+      <Alignment>-30</Alignment>
+      <Stats>
+        <Stat Name="Strength">
+          <Current>180</Current>
+          <Max>180</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Dexterity">
+          <Current>180</Current>
+          <Max>180</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Constitution">
+          <Current>160</Current>
+          <Max>160</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Intelligence">
+          <Current>160</Current>
+          <Max>160</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Piety">
+          <Current>160</Current>
+          <Max>160</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Hp">
+          <Current>100</Current>
+          <Max>100</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Mp">
+          <Current>0</Current>
+          <Max>0</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+      </Stats>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="1"/>
+        <Bit Num="6"/>
+        <Bit Num="9"/>
+        <Bit Num="11"/>
+      </Flags>
+      <LastTimes>
+        <LastTime Num="3">
+          <Interval>0</Interval>
+          <LastTime>1207084538</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="4">
+          <Interval>0</Interval>
+          <LastTime>1207090866</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="6">
+          <Interval>0</Interval>
+          <LastTime>1206217633</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="8">
+          <Interval>55</Interval>
+          <LastTime>1207090868</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="41">
+          <Interval>0</Interval>
+          <LastTime>1206217633</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="100">
+          <Interval>50</Interval>
+          <LastTime>1207090864</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="101">
+          <Interval>32</Interval>
+          <LastTime>1207090876</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </LastTimes>
+      <Inventory/>
+    </CrtRef>
+  </Creatures>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4027</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tunnel">
+      <Keys/>
+      <Room Area="ocean">4029</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

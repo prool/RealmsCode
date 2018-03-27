@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="4271" Version="2.40a" Area="ocean">
+  <Name>Prayer Room</Name>
+  <ShortDescription>You are in the Prayer Room next to a black docket below Rutger's Throne.</ShortDescription>
+  <LongDescription>You are advised to consider carefully before you rescind your pledge to
+Prince Rutger.  This room has been set aside so that you may seek devine
+guidance concerning the choice you are about to make, and so you may be 
+sure it is the correct one.  If you decide to renounce your loyalty, enter
+the small docket wreathed in black velvet.  Prince Rutger will observe.</LongDescription>
+  
+  
+  
+  <Established>792806384</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4269</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="docket">
+      <Keys/>
+      <Room Area="ocean">4274</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

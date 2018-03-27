@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="2076" Version="2.40" Area="ocean">
+  <Name>East Tower Stairway</Name>
+  <ShortDescription>You are in the eastern tower stairwell which winds around the large tower.</ShortDescription>
+  <LongDescription>A wonderful fragrance comes from the top of the stairs, but there is also
+a smell of decay as well.  The stairs have not been used in a very long 
+time.  Seems as though every time you take a step on the stairs it doesn't
+seem as though you have gotten any closer to your goal.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">2078</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">2075</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

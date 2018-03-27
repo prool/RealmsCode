@@ -1,0 +1,19 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  ambush          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Ambush is an ability only availaible to rogues. It essentially allows a
+rogue to attack from hiding with both weapons, making both weapons do
+half-again as much damage. Ambush can only be done with sharp, thrust, and
+blunt weapons, and BOTH hands must hold a weapon for it to work.
+
+Syntax:
+: ambush wino
+You ambush the wino!
+You bludgeoned the wino for 7 damage.
+You attack the wino!
+You bludgeoned the wino for 6 damage.
+You killed the wino.
+You gained 6 experience for the death of the wino.
+:
+

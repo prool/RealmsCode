@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1420" Version="2.40" Area="ocean">
+  <Name>Guard and Servant Hallway</Name>
+  <ShortDescription>You are in the access hallway for the guards and servants.</ShortDescription>
+  <LongDescription>A door leads into the main dining hall.  The place appears to be fairly
+busy as the maids rush around bringing dinner to the hungry people in
+the hall.  You can see a stairway to the east that must lead up to
+the main kitchen since that's where all the maids are coming from.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">172</Mob>
+      <Mob Area="ocean" Num="1">172</Mob>
+      <Mob Area="ocean" Num="2">172</Mob>
+      <Mob Area="ocean" Num="3">172</Mob>
+      <Mob Area="ocean" Num="4">172</Mob>
+      <Mob Area="ocean" Num="5">172</Mob>
+      <Mob Area="ocean" Num="6">130</Mob>
+      <Mob Area="ocean" Num="7">172</Mob>
+      <Mob Area="ocean" Num="8">130</Mob>
+      <Mob Area="ocean" Num="9">130</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1419</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1421</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1426</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

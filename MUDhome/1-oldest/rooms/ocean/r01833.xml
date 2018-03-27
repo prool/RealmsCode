@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1833" Version="2.40" Area="ocean">
+  <Name>The Center Path</Name>
+  <ShortDescription>You are walking along the center path through the Barbarian Pits.</ShortDescription>
+  <LongDescription>You are now just north of the Barbarian Chief's Hut, where all the major
+planning and strategies are drawn up and torn apart.  Since they are just
+barbarians, it's unlikely that any plan they have would make much sense
+anyway.  The path weaves around the Trading Post, located to the west
+along the Center path.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">261</Mob>
+      <Mob Area="ocean" Num="1">261</Mob>
+      <Mob Area="ocean" Num="2">262</Mob>
+      <Mob Area="ocean" Num="3">262</Mob>
+      <Mob Area="ocean" Num="4">264</Mob>
+      <Mob Area="ocean" Num="5">264</Mob>
+      <Mob Area="ocean" Num="6">261</Mob>
+      <Mob Area="ocean" Num="7">263</Mob>
+      <Mob Area="ocean" Num="8">264</Mob>
+      <Mob Area="ocean" Num="9">264</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1834</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1832</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1826</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

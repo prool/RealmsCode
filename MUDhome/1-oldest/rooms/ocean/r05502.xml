@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5502" Version="2.40" Area="ocean">
+  <Name>Hafnia Circle</Name>
+  <ShortDescription>You are on the northern side of the road that circles Hafnia.</ShortDescription>
+  <LongDescription>To the west is the entrance to the training grounds.  You can hear a lot
+of cheering and roaring.  On the north side of the Circle there is a
+tall, white spire which seems to be a temple of some sort.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">926</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5503</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

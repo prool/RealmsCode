@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="591" Area="ocean" Version="2.40">
+  <Name>wheelbarrow</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>8</ShotsMax>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">35</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="9"/>
+  </Flags>
+  <Description>Used for carting around dirt or whatever you wish.</Description>
+  <Weight>25</Weight>
+  <Type>14</Type>
+  <InBag/>
+</Object>

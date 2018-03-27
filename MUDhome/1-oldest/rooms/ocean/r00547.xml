@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="547" Version="2.40a" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are walking along Lelion Way, south of the Temple of Kurtulmak.</ShortDescription>
+  <LongDescription>On the north side of the road, you can see the kobold Temple of Kurtulmak,
+the chief diety of the kobold pantheon.  Kurtulmak is a hateful diety, 
+despising all races except kobolds and works to destroy life for everyone
+else.  Kobolds are usually only found in the sewers, but occasionally
+they can be seen entering the temple.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">548</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">546</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

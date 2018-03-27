@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3702" Version="2.40" Area="ocean">
+  <Name>Main Mast</Name>
+  <ShortDescription>You are quite high on the main mast of the pirate ship Widow Maker.</ShortDescription>
+  <LongDescription>Far below is the deck of the ship, which now looks very small and narrow.
+From here you can see several of your friends standing and talking, or
+fighting with the ship's personnel.  The crow's nest is higher still on
+the mast, and someone just looked at you from over the edge of the nest.</LongDescription>
+  
+  <Established>762911226</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3701</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3703</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

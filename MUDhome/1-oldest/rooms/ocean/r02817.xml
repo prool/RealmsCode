@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2817" Version="2.40" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>You have come to a desolate corner in the equally desolate hallway.</ShortDescription>
+  <LongDescription>The corner of the hallway is just as unremarkable as the rest of the 
+hallways you have seen; however, you feel the presense of some evil force
+at work here.  Or maybe it's just the evil assassins in your party planning
+to backstab one of you for your weapon.</LongDescription>
+  
+  <Established>728801027</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2818</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2816</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

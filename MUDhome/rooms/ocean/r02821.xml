@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2821" Version="2.40a" Area="ocean">
+  <Name>Dark Hallway</Name>
+  <ShortDescription>You are in a forgotten hallway heading off into the darkness.</ShortDescription>
+  <LongDescription>The desolate and dark hallway continues to the east, and enter the main 
+hallway to the west.  It appears that the people who built these halls
+forgot to seal them off when they were done.  They were apperently used
+as an access hall to the other side of the main hallway.</LongDescription>
+  
+  <Established>729053298</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2822</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2803</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

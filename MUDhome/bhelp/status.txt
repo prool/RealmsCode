@@ -1,0 +1,14 @@
+Help on: *status
+
+This command allows a builder or higher view the current
+stats of any given room, object, monster, or player. It
+will tell you all flags set, combat stats in case of a
+monster or weapon, as well as traps, exit flags, etc for
+any given room.
+
+Syntax:
+To *stat a room:        *stat
+To *stat an object:     *stat (object)
+To *stat a monster:     *stat (monster)
+To *stat a player:      *stat (player)
+

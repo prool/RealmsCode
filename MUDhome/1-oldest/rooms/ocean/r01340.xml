@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1340" Version="2.40" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are walking along Lelion Way, north of the Wakarimasu Park.</ShortDescription>
+  <LongDescription>The large Wakarimasu Park, located to the south, is one of the larger
+city parks in Oceancrest.  The primary function of the park is to give
+a positive image of the city as people walk in from the eastern city
+gates.  To the north is the Snake Eyes Gambling Facility.</LongDescription>
+  
+  <Established>729227837</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1333</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1341</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

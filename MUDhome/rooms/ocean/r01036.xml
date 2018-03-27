@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1036" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive</Name>
+  <ShortDescription>You are walking along Oceanview Drive, just west of the Police Headquarters.</ShortDescription>
+  <LongDescription>On the east side of the road is the City Guard Crime Patrol Headquarters,
+where a number of rough looking guards walk in and out of the building.
+On the west side of the road is the Oceancrest Detention and Rehabilitation
+Facility where criminals and other vagrants are "rehabilitated" into
+useful contributors to society.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1035</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1037</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

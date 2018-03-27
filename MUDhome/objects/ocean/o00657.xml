@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="657" Area="ocean" Version="2.40">
+  <Name>blood stained sign</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">stained</Key>
+    <Key Num="1">sign</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Weight>800</Weight>
+  <Type>14</Type>
+  <InBag/>
+</Object>

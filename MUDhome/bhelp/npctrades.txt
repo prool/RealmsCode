@@ -1,0 +1,22 @@
+NPC Trades
+
+SMITHY			1
+BANKER			2
+ARMOROR			3
+WEAPONSMITH		4
+MERCHANT		5
+TRAINING PERM		6
+
+Skill levels(1-100):
+0-9....................Horrible
+10-19..................Poor
+20-29..................Fair
+30-39..................Decent
+40-49..................Average
+50-59..................Talented
+60-69..................Very Good
+70-79..................Exceptional
+80-89..................Master
+90-99..................Grand Master
+100....................Godlike
+

@@ -1,0 +1,122 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |  Help on:  Multi-Class Chars   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Multi-class characters are a common thing in standard D&D, so we thought we'd
+try to port them into Mordor. While there are big benefits to being multi-class,
+most noteably being able to have alot of the abilities of both classes, there
+are also penalties - the primary one being that multi-class characters
+automatically receieve 3/4 the exp from everything. Therefore, it takes them a
+third as long to level. In addition, while multi-class characters have abilities
+in both their classes, the abilities are not always as strong as a full person
+of that class would be in them. For instance, when stealing, a fighter/thief is
+not as good as a pure thief of the same level, and he can't ever steal gold. In
+some cases, an ability might not even be available. To use the above example,
+a fighter/thief is unable to bash.
+
+It is strongly suggested that only veteran players attempt to level one of these
+classes, as they will be quite taxing to level. Once they are high level,
+though, they will be incredibly cool and well-rounded classes. The following is
+a list of the multi-class combinations available at character creation. These
+are the only ones available for right now. More may be added at a later date.
+
+
+Note: Initial HP/MP is always the average of the normal alotted to each class.
+Note 2: Stat and save adjustments per level has been customized for each of
+       these combinations.
+Note 3: All ability benefits and restrictions are not mentioned here. You will
+       need to find out some for yourselves.
+Note 4: All multi-class chars train at the location of their first class.
+
+
+FIGHTER/MAGE
+HP/lvl: 5
+MP/lvl: 4
+Thac0: Fighter
+Allowed Races: Cambion, Elf, Half-elf, Gnome, Dark-elf, Seraph, Tiefling
+
+Description:
+Fighter/Mages are warrior mages. The first ones appeared among the elves, with
+their mages specifically trained for war with orcs and other evil forest
+denizens. A fighter/mage can automatically detect-magic just like a mage. They
+also cast faster than a fighter does. Fighter/mages are required to wear light
+armor, and they are unable to bash, and do not circle as well as a pure fighter.
+
+
+FIGHTER/THIEF
+HP/lvl: 6
+MP/lvl: 2
+Thac0: Fighter
+Allowed Races: Cambion, Dwarf, Elf, Half-elf, Halfling, Orc, Half-orc,
+	Kataran, Kobold, Goblin, Tiefling
+
+Description:
+A fighter/thief is usually a fighter that started out trying to be a thief at a
+young age and gained some skills in that profession, and then moved on to just
+be a fighter because they liked focusing more on fighting skills than thieving.
+A fighter/thief can pick locks, peek, steal, backstab, sneak, and hide just like
+a thief can, although not as well. Fighter/thieves are also required to wear
+light armor, and they are unable to bash, and do not circle as well as a pure
+fighter.
+
+
+CLERIC/ASSASSIN
+HP/lvl: 5
+MP/lvl: 3
+Thac0: Cleric
+Allowed Races: Half-orc, Cambion
+
+Description:
+Cleric/assassins are clerics which specialize in killing people. As a result,
+they train as assassins as well as in the clerical arts. A cleric/assassin may
+only pledge to Aramon, as the Cult often trains its clerics in this manner. A
+cleric/assassin is able to backstab, scout, sneak, hide, and use envenom just
+like a normal assassin can, only not always as well. They also cast a little
+slower, cannot teach, and their healing is as if they are half their level.
+
+
+MAGE/THIEF
+HP/lvl: 5
+MP/lvl: 4
+Thac0: Mage
+Allowed Races: Elf, Gnome, Cambion, Half-elf, Tiefling
+
+Description:
+A mage/thief is usually a former thief which discovered they had abilities in
+the arcane arts and gave up their criminal career. This by no means stops them
+from being skilled thieves still, however. A mage/thief is able to pick, steal,
+dodge, hide, sneak, and backstab just like a normal thief, only not as well. As
+a result of deviating from their mage studies, their casting time is somewhat
+slower. Mage/thieves are still bound by mage armor restrictions.
+
+
+THIEF/MAGE
+HP/lvl: 5
+MP/lvl: 3
+Thac0: Thief
+Allowed Races: Elf, Gnome, Cambion, Half-elf, Tiefling
+
+Description:
+A thief/mage is a thief who once was a mage, or a thief who dabbles in arcane
+arts while being a thief. They retain their ability to detect magic, and they
+cast spells a little faster than a pure thief does. Dabbling in arcane arts
+causes a thief/mage's ability to steal to be lax somewhat.
+
+
+MAGE/ASSASSIN
+HP/lvl: 5
+MP/lvl: 3
+Thac0: Assassin
+Allowed Races: Cambion, Dark-elf, Tiefling
+
+Description:
+The mage/assassin is the ultimate assassin - the killer with magic. They are
+mages cross-trained to be assassins for various dark organizations. In fact,
+they recently have resurfaced. Previously, none had been seen since before the
+troubled times. It is believed they work for a dark order of shadow assassins,
+trained by the Nightshades, but these are only rumors. A mage assassin is able
+to scout, use envenom, and backstab just like an assassin, only not as well.
+They use an assassin's thac0 to fight. As a result of their cross-training, they
+do not automatically detect-magic, and they are unable to teach or learn how to
+enchant items. They are limited by mage restrictions on armor.
+

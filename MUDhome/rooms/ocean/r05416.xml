@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="5416" Version="2.40" Area="ocean">
+  <Name>Foothills Trail</Name>
+  <ShortDescription>This is the lower trail which goes to the dwarven village of Nyyron.</ShortDescription>
+  <LongDescription>The dwarves don't mind visitors to their small community, so if this is
+your first time to their mining town, be sure to stop at the Hog's Breath
+Saloon for some good Uland rum and a talk with the bartender.  He knows the
+complete history of the area.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5415</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,8 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  search        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The search command allows you to search the room for anything that is secret or
+hidden, including exits, players, monsters and objects. Rangers search much
+better than other classes.
+

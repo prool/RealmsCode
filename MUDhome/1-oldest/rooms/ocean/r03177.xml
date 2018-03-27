@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="3177" Version="2.40" Area="ocean">
+  <Name>Waters Near a Tropical Island</Name>
+  <ShortDescription>You are treading water just offshore a small tropical island.</ShortDescription>
+  <LongDescription>the island isn't very big, and from here you see a few coconut and banana
+trees growing near the center.  there seems to be sandy beach leading to
+the jungle further up on the shore.  Colorful and noisy birds can be seen
+everywhere.</LongDescription>
+  
+  <Established>756111636</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="shore">
+      <Keys/>
+      <Room Area="ocean">3178</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3169</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3170</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

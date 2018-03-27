@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="1579" Version="2.40a" Area="ocean">
+  <Name>Briar Bushes</Name>
+  <ShortDescription>You have stumbled into a large patch of briar bushes.</ShortDescription>
+  <LongDescription>This is by far not one of the best places to visit.  There are many 
+thorny briar bushes everywhere and they seem to be cutting you up.  The
+forest to the east blocks any plans you might have about leaving Etolos
+from any direction other than the way you came in.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1575</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="779" Version="2.40" Area="ocean">
+  <Name>Orange Jacinith Hallway</Name>
+  <ShortDescription>You are in a magnificant hallway composed completely of crystal jacinith
+continuing to the north and east.  There is a mirror directly to the
+west which forces the passage to turn towards the north.</ShortDescription>
+  <LongDescription>The mirror is oddly placed at a 45 degree angle to the two hallways.
+In the mirror, you can see yourself walking towards yourself in a 
+very wierd optical illusion.  Or is it an illusion?  As you look into
+the mirror to the west, you see a seemingly endless hallway.  Turning
+to the east, you can still see the magnificent crystal intersection.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">780</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">778</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

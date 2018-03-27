@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Room Num="1933" Version="2.40" Area="ocean">
+  <Name>The Red Training Room</Name>
+  <ShortDescription>You have entered the Red Training Room.  In order to advance to the next
+level, you must defeat the red knight in hand-to-hand, one-on-one combat.</ShortDescription>
+  <LongDescription>The Red Warrior stands before you, waiting for your first move.  He is very
+experienced, and has dashed the hopes of many young warriors who were not
+really ready for the added responsibilities of the next level.  Once you
+defeat the Red Warrior, you may train for Warrior, First Class.</LongDescription>
+  <LowLevel>5</LowLevel>
+  <HighLevel>5</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training room</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">765</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">103</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">1934</Room>
+      <Key>10</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1928</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

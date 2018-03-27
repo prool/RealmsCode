@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="631" Area="ocean" Version="2.40">
+  <Name>soap bar</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>5</ShotsMax>
+  <ShotsCur>5</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">bar</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="13"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>you see a heavy bar of soap used for medicinal purposes.</Description>
+  <UseOutput>The soap is antiseptic and has healing powers.</UseOutput>
+  <Weight>1</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>49</MagicPower>
+  <InBag/>
+</Object>

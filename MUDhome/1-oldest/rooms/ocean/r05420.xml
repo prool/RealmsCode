@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5420" Version="2.40" Area="ocean">
+  <Name>Ashton River Road</Name>
+  <ShortDescription>You are walking beside the Ashton River, high above the Enchanted Forest.</ShortDescription>
+  <LongDescription>You are at the point along the trail where the species of trees is changing.
+the trees that grow on the lower part of the trail are different from those
+up higher.  this is the place where the mountains start and the Enchanted
+Forest ends.  Or is it where the mountains end and the forest starts?</LongDescription>
+  
+  <Established>783285091</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5419</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5421</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

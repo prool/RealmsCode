@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<Room Num="2507" Version="2.40" Area="ocean">
+  <Name>Archives of the Great Library</Name>
+  <ShortDescription>You are in the dusty archives and stacks of the Great Library.</ShortDescription>
+  <LongDescription>There are many books, tomes, scrolls and other sources of knowledge that
+have been brought here for safe storage that have never been examined.  The
+curators simply haven't had the time, and are constantly busy indexing and
+cross-indexing everything for the scholars who come here.</LongDescription>
+  
+  <Established>788562586</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">740</Mob>
+      <Mob Area="ocean" Num="1">740</Mob>
+      <Mob Area="ocean" Num="2">740</Mob>
+      <Mob Area="ocean" Num="3">740</Mob>
+      <Mob Area="ocean" Num="4">740</Mob>
+      <Mob Area="ocean" Num="5">740</Mob>
+      <Mob Area="ocean" Num="6">739</Mob>
+      <Mob Area="ocean" Num="7">740</Mob>
+      <Mob Area="ocean" Num="8">739</Mob>
+      <Mob Area="ocean" Num="9">740</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">740</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">745</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2100</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2568</Room>
+      <Key>87</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

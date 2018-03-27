@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1089" Version="2.40" Area="ocean">
+  <Name>Hafnia Way</Name>
+  <ShortDescription>You are on a short stretch of road called Hafnia Way, east of the Inn.</ShortDescription>
+  <LongDescription>The Golden Dolphin Inn is located to the west.  However, the entrance to
+the Inn is located on Golden Dolphin Way, which is south of here.  From
+what you can see, it is a very large inn, and seems to cater to visitors
+from outisde the city.  Directly east are the visitors stables for those
+who traveled by horse, and to the northeast is the city's caravan assembly
+lot.  There seems to be a rather large group of people there, and camels
+and horses appear to be heavily packed.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1090</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1088</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

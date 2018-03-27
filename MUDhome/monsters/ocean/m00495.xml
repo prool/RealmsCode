@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<Creature Num="495" Area="ocean" Version="2.40">
+  <Name>bosun's mate</Name>
+  <Level>8</Level>
+  <Type>1</Type>
+  <Experience>240</Experience>
+  <Coins>
+    <Coin Num="2">40</Coin>
+  </Coins>
+  <Alignment>-20</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>140</Current>
+      <Max>140</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>105</Current>
+      <Max>105</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>He is a barrel chested man with a heavy beard and single gold erring.</Description>
+  <Keys>
+    <Key Num="0">mate</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>225</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>2</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>if you got nothin' better to do, you can swab the deck</Talk>
+  <DefenseSkill>75</DefenseSkill>
+  <AttackPower>180</AttackPower>
+  <WeaponSkill>75</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">554</Carry>
+    <Carry Area="ocean" Num="1">558</Carry>
+    <Carry Area="ocean" Num="2">559</Carry>
+    <Carry Area="ocean" Num="3">554</Carry>
+    <Carry Area="ocean" Num="4">558</Carry>
+    <Carry Area="ocean" Num="5">559</Carry>
+    <Carry Area="ocean" Num="6">80</Carry>
+    <Carry Area="ocean" Num="7">70</Carry>
+    <Carry Area="ocean" Num="8">529</Carry>
+    <Carry Area="ocean" Num="9">370</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

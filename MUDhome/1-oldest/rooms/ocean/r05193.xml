@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="5193" Version="2.40" Area="ocean">
+  <Name>Galgorie's Pond</Name>
+  <ShortDescription>You are beneath the surface of Galgorie's Pond.  Can you breath water?</ShortDescription>
+  <LongDescription>Although the water is quiet, it is also murky.  You cannot see very far
+through it, although nearby you see small bubbles rising and strands of
+waving waterweeds.  The bottom of the pond is littered with pieces of
+armor and bones.  The muddy bottom makes it difficult to move.</LongDescription>
+  
+  <Established>773892023</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="16"/>
+    <Bit Num="22"/>
+    <Bit Num="24"/>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">679</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">711</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5189</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5192</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

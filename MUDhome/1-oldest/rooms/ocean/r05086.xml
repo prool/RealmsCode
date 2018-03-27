@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="5086" Version="2.40" Area="ocean">
+  <Name>Dumbwaiter Shaft</Name>
+  <ShortDescription>You are in the kitchen dumbwaiter shaft.</ShortDescription>
+  <LongDescription>Evidently this was the means of delivering food to somewhere deep down in
+the depths of the castle.  You might be able to go down there, but the shaft
+is so small you could never do it with all of the equipment you have with
+you.  There is a terrible stench coming from down there.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5140</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5087</Room>
+      <Flags>
+        <Bit Num="7"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

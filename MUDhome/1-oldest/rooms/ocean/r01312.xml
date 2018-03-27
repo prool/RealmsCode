@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1312" Version="2.40a" Area="ocean">
+  <Name>Riverdell Way/Neilian Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Neilian Drive and Riverdell Way.</ShortDescription>
+  <LongDescription>Riverdell Way runs north and south through the intersection with Neilian
+Drive, which runs east and west.  There is a large forest on both sides
+of the western part of the road.  The thick brush and trees make it hard
+to see what's inside, if indeed there is something inside.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1357</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1361</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1311</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1313</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

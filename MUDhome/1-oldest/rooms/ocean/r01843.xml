@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1843" Version="2.40" Area="ocean">
+  <Name>The Center Path</Name>
+  <ShortDescription>You are walking along the center path coming up to the Ramdes River.</ShortDescription>
+  <LongDescription>The path you are walking on runs northeast to southwest.  On the east,
+you can see the deep river Ramdes.  A bridge crosses the river to the
+northeast.  To the northwest, you can see a great pit area where a
+number of barbarians have gathered to watch others fight for honor
+and glory.  The large pit looks like it's covered with blood.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">261</Mob>
+      <Mob Area="ocean" Num="1">261</Mob>
+      <Mob Area="ocean" Num="2">261</Mob>
+      <Mob Area="ocean" Num="3">262</Mob>
+      <Mob Area="ocean" Num="4">262</Mob>
+      <Mob Area="ocean" Num="5">262</Mob>
+      <Mob Area="ocean" Num="6">264</Mob>
+      <Mob Area="ocean" Num="7">264</Mob>
+      <Mob Area="ocean" Num="8">264</Mob>
+      <Mob Area="ocean" Num="9">262</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1842</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1844</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1824</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

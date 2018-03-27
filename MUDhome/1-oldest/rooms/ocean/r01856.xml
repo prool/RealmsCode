@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="1856" Version="2.40" Area="ocean">
+  <Name>The Green Training Hut</Name>
+  <ShortDescription>You have entered the green training hut designed to test your worthiness.</ShortDescription>
+  <LongDescription>Only the true and brave tribesman may advance to the next level.  To 
+prove this to your elders, you must first defeat the barbarian who stands
+in front of you.  Only through this trial by combat can you advance to
+the next level.  The barbarian awaits your first move.</LongDescription>
+  <LowLevel>4</LowLevel>
+  <HighLevel>4</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training room</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">305</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">365</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">1857</Room>
+      <Key>28</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1868</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

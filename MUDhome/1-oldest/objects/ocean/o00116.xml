@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="116" Area="ocean" Version="2.40">
+  <Name>boots of elvenkind</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Armor>8</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">boots</Key>
+    <Key Num="1">elvenkind</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+  </Flags>
+  <Description>You see a nice pair of pointed tiped boots.</Description>
+  <UseOutput>Snug, but very comfortable.  Too bad they're not very stylish.</UseOutput>
+  <Weight>3</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>8</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3217" Version="2.40a" Area="ocean">
+  <Name>Lake Kista Shore</Name>
+  <ShortDescription>You are on the northern shore of Lake Kista, near Gotland Pass.  </ShortDescription>
+  <LongDescription>This is certainly not a lifeless lake, as you see a lot of activity in
+the water as you stand here.  From here it looks like it might be easy
+to wade in the lake rather than stay on the shore.  Most of the rocks
+at the water's edge appear to be quite slippery.</LongDescription>
+  
+  <Established>756034751</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3213</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3216</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2551</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="beach">
+      <Keys/>
+      <Room Area="ocean">3251</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

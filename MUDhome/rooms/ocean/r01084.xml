@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1084" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are walking along Golden Dolphin Way, north of the City Walls.</ShortDescription>
+  <LongDescription>The large city walls seem to dwarf you in size, especially if you are a
+dwarf.  They rise nearly twenty feet high at some points, especially on
+the south side.  The Southern Entrance to the city is located to the west
+of here off of Main Street.  Although leaving the city is easy, it isn't
+always as simple to get back in.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1085</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1053</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

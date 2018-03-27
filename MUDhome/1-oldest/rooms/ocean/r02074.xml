@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2074" Version="2.40" Area="ocean">
+  <Name>East Tower Stairway</Name>
+  <ShortDescription>You are in the eastern tower stairwell which winds around the large tower.</ShortDescription>
+  <LongDescription>These stairs have been unused for a very long time.  The smell of dust and
+mustiness is mixed with a perfume which seems to get stronger near the top
+of the tower.  A small window allows you to see a grand view of Kista below.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">2076</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">2073</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

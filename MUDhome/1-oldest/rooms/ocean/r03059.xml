@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<Room Num="3059" Version="2.40" Area="ocean">
+  <Name>Goblin Secret Treasure Room</Name>
+  <ShortDescription>Your careful examination of the secret treasure room paid off with 
+the discovery of another treasure room behind the middle tapistries.</ShortDescription>
+  <LongDescription>Lying in the middle of the floor, you see several glowing weapons
+as well as potions and scrolls.  You suddenly realize that you're not
+alone as two cloaked figures start to move out of the shadows, seemingly
+displeased with your discovery. </LongDescription>
+  <Trap>3</Trap>
+  
+  <Established>761313593</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters>
+      <Mob Area="ocean">502</Mob>
+      <Mob Area="ocean" Num="1">509</Mob>
+      <Mob Area="ocean" Num="2">503</Mob>
+      <Mob Area="ocean" Num="3">502</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">502</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">509</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">51</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">71</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">113</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>48800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">387</Misc>
+    </LastTime>
+    <LastTime Num="4">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">354</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3057</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

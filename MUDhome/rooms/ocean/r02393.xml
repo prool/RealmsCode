@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="2393" Version="2.40a" Area="ocean">
+  <Name>Frost Giant Cavern</Name>
+  <ShortDescription>You are in a massive cavern carved out of the ice and rock of the glacier.</ShortDescription>
+  <LongDescription>Frost giants roam around the caverns freely, along with their dreaded
+skeletal warrior armies.  Obviously, the best way to combat a frost
+giant is through magic and fire.  In hand-to-hand combat, just about
+no one would survive the deadly blows of the frost giant's mighty club.</LongDescription>
+  
+  <Established>728361814</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="21"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">355</Mob>
+      <Mob Area="ocean" Num="1">355</Mob>
+      <Mob Area="ocean" Num="2">356</Mob>
+      <Mob Area="ocean" Num="3">356</Mob>
+      <Mob Area="ocean" Num="4">363</Mob>
+      <Mob Area="ocean" Num="5">363</Mob>
+      <Mob Area="ocean" Num="6">363</Mob>
+      <Mob Area="ocean" Num="7">363</Mob>
+      <Mob Area="ocean" Num="8">355</Mob>
+      <Mob Area="ocean" Num="9">356</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2394</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2392</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

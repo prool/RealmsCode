@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="612" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard</Name>
+  <ShortDescription>You are walking along Avatar Boulevard, east of a rather smelly marsh.</ShortDescription>
+  <LongDescription>The river which flows into Lyanden Lake leaves behind a small marsh of
+mud and quicksand in the region to the west, which really starts to smell
+after a long day in the hot sun.  This is not necessarily good for the
+businesses that have to work here.  There is a large complex to the east
+which houses a number of shops.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">611</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">613</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3954" Version="2.40a" Area="ocean">
+  <Name>Trantori's Portico</Name>
+  <ShortDescription>You are on the portico outside Trantori's Summer Home.  Clouds surround you.</ShortDescription>
+  <LongDescription>Far below, over the edge, you can see smaller trees making up the Enchanted
+Forest.  Looking east you see Khallazar's hut, suspended in a clearing.
+There seems to be a misty valley on the other side of the city wall, and
+occasionally great winged monsters of some sort drift through that mist.
+An open door leads inside to a single, large room.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>rope</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3955</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="rope">
+      <Keys/>
+      <Room Area="ocean">3953</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

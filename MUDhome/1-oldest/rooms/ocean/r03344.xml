@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3344" Version="2.40" Area="ocean">
+  <Name>The Vaults</Name>
+  <ShortDescription>Here the path passes around the front of the great vaults.  In the city
+it is rumored that a person of vast power is buried here, but everyone
+knows you can't just bury a very powerful being.  The massive vaults are 
+home to a monstrous lich, so be wary, as its magic controls the entire
+structure.  You can sense the glow of some of your magical items grow
+dim in the presence of this monument.</ShortDescription>
+  
+  <Established>759804169</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>entrance</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3343</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3345</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="entrance">
+      <Keys/>
+      <Room Area="ocean">3426</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

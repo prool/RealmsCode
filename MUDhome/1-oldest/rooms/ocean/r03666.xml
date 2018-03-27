@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3666" Version="2.40" Area="ocean">
+  <Name>Old Tunnel</Name>
+  <ShortDescription>You are in an old tunnel where a great stone has fallen from the ceiling.</ShortDescription>
+  <LongDescription>The massive stone blocks most of the way to the west, but with a bit of
+effort you can probably squeeze by it.  The tunnel walls are moldy and
+the air has a stink to it.  It doesn't look like anyone has been in this
+part of the tunnel complex in many years.  Maybe even hundreds of years.
+There are several closed doors in the tunnel further to the south.</LongDescription>
+  
+  <Established>765134664</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3665</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3667</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

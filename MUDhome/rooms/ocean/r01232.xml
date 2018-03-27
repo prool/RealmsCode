@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1232" Version="2.40a" Area="ocean">
+  <Name>Lankshire Parkway/Golden Dolphin Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Golden Dolphin Way and Lankshire Parkway.</ShortDescription>
+  <LongDescription>Lankshire Parkway runs north from Golden Dolphin Way.  Golden Dolphin Way
+marks the southern border of the city of Oceancrest.  The large City Walls
+loom in the background to the south, preventing unwanted people from 
+entering the city and preventing criminals from leaving.  The city is
+more or less self-sufficient and does not depend on caravans and other
+trading for its survival, although smaller cities depend on Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>3</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">267</Mob>
+      <Mob Area="ocean" Num="1">267</Mob>
+      <Mob Area="ocean" Num="2">267</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1231</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1691</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1690</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

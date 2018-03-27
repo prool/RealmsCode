@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="145" Area="ocean" Version="2.40">
+  <Name>staff of power</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">power</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>It looks like an ordinary tree branch, but very heavy.</Description>
+  <UseOutput>The object you zap disintegrates in a flash of light.</UseOutput>
+  <Weight>5</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>12</MagicPower>
+  <InBag/>
+</Object>

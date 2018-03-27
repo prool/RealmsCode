@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1332" Version="2.40" Area="ocean">
+  <Name>Ministry Way</Name>
+  <ShortDescription>You are on Ministry Way on the west side of the Shrine of Yondalla.</ShortDescription>
+  <LongDescription>Yondalla is the halfling goddess of creation.  The small halfling race,
+also known as hobbits, are quite religious and come to worship at the
+temple at least once a week.  The large, Snake Eyes Gambling Facility
+is located to the west.</LongDescription>
+  
+  <Established>729224637</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1331</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1333</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

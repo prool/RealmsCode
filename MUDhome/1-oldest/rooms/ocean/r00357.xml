@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="357" Version="2.40" Area="ocean">
+  <Name>Red Dog Saloon</Name>
+  <ShortDescription>You are in the main public room of the Red Dog Saloon.</ShortDescription>
+  <LongDescription>The place is crowded and smoky, making it difficult to find a table.
+As you look around you note that most of the patrons are pirates, and
+that most of them are roaring drunk.  This might not be a fun place to
+be for a landlubber.  There is a long, polished bar over at one side,
+and a great many tables and chairs around the room.  A curtain covers
+a small stage at the end of the room.</LongDescription>
+  
+  <Established>760476286</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">494</Mob>
+      <Mob Area="ocean" Num="1">495</Mob>
+      <Mob Area="ocean" Num="2">496</Mob>
+      <Mob Area="ocean" Num="3">494</Mob>
+      <Mob Area="ocean" Num="4">495</Mob>
+      <Mob Area="ocean" Num="5">308</Mob>
+      <Mob Area="ocean" Num="6">309</Mob>
+      <Mob Area="ocean" Num="7">310</Mob>
+      <Mob Area="ocean" Num="8">311</Mob>
+      <Mob Area="ocean" Num="9">311</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">356</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">358</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

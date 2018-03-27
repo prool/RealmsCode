@@ -1,0 +1,1 @@
+../help/bard.txt

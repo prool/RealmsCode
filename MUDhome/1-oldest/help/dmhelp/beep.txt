@@ -1,0 +1,5 @@
+Help on: *beep
+
+Allows a DM to beep another DM.
+
+Syntax: *beep (person)

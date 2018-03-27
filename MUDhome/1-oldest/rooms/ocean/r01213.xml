@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1213" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway/Nagaritha Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Nagaritha Drive and Lankshire Parkway.</ShortDescription>
+  <LongDescription>The intersection of Nagaritha and Lankshire is just north of the Klondike
+Wheat Fields and the DeNail Corn Fields, both of which may be entered off
+of Lankshire Parkway to the south.  Nagaritha Drive runs east and west
+through most of the southern part of town.  Lankshire runs north and 
+south, eventually passing the Necropolis towards the center of town.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1248</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1226</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1212</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1214</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

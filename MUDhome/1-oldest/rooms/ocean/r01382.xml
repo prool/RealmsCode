@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="1382" Version="2.40" Area="ocean">
+  <Name>Secret Hallway Dead End</Name>
+  <ShortDescription>You are in a secret hallway that has come to a dead end.</ShortDescription>
+  <LongDescription>The room is covered with pulverized skeletons of people who were 
+unfortunate enough to walk into the room unprepared.  You can see
+a giant block hanging on the ceiling ready to crash down on a new
+victim.  It's a good thing you prepared for this.</LongDescription>
+  <Trap>3</Trap>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">131</Mob>
+      <Mob Area="ocean" Num="1">131</Mob>
+      <Mob Area="ocean" Num="2">131</Mob>
+      <Mob Area="ocean" Num="3">131</Mob>
+      <Mob Area="ocean" Num="4">151</Mob>
+      <Mob Area="ocean" Num="5">151</Mob>
+      <Mob Area="ocean" Num="6">151</Mob>
+      <Mob Area="ocean" Num="7">151</Mob>
+      <Mob Area="ocean" Num="8">131</Mob>
+      <Mob Area="ocean" Num="9">151</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1379</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="2573" Version="2.40" Area="ocean">
+  <Name>Chambers of Veratus</Name>
+  <ShortDescription>You are in the private chambers of Veratus, the Oracle.</ShortDescription>
+  <LongDescription>The room is dim, and slightly cool with a strange perfume in the air.
+There is no furniture that you can see, but pillows and rare murask furs
+cover the floor.  A pool of shimmering amber liquid is set in the center
+of the room, in a raised soffet with a blue robe across it.</LongDescription>
+  
+  <Established>788742902</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">744</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2577</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

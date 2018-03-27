@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="3007" Version="2.40" Area="ocean">
+  <Name>Entrance Chamber</Name>
+  <ShortDescription>You are in a small chamber at the entrance to the underground city.</ShortDescription>
+  <LongDescription>The residents of the underground city guard this room well, and turn back
+all those who would raid their home.  There are few portals to the sub-
+terrainin city, so it is easy for the denizens to keep track of any who
+might enter here.  Often they will try to overpower visitors by sheer 
+numbers, so stay hidden when possible.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>900</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">327</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north door">
+      <Keys/>
+      <Room Area="ocean">3008</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south door">
+      <Keys/>
+      <Room Area="ocean">3006</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

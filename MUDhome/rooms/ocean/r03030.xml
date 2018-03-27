@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3030" Version="2.40" Area="ocean">
+  <Name>Goblin Underground Passage</Name>
+  <ShortDescription>This section of the passage leads to the eastern section of the shrine.</ShortDescription>
+  <LongDescription>No light can be seen anywhere in the passage, but the sound of the chanting
+from the goblin church echos off the cold stone walls.  Most of the passage
+is easy to walk in, but this particular section seems to only tall enough
+for you to stand if you stoop slightly.  If you are not careful, you might
+bang your head on the ceiling.  Your armor and weapons seem to make a lot
+of noise down here as you walk.</LongDescription>
+  
+  <Established>761481122</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3025</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3031</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3040</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

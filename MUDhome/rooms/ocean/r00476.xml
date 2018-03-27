@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="476" Version="2.40" Area="ocean">
+  <Name>Islandia Drive</Name>
+  <ShortDescription>You are walking along Islandia Drive, south of the Paladin's Shrine of
+Truth and Fairness.  There are a number of shops to the south of the road.</ShortDescription>
+  <LongDescription>The Paladin's Shrine of Truth and Fairness is a testing ground to which
+the worthy paladin will test their skills and the shrine will determine
+their worthiness to advance in the ranks of the holy knights.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">419</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">477</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="shrine">
+      <Keys/>
+      <Room Area="ocean">300</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

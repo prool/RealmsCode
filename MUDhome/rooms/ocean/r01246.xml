@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1246" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are walking along Lankshire Parkway past the Circle-Bar Slaughterhouse.</ShortDescription>
+  <LongDescription>There is a large cattle ranch off to the east, off of Appleton Road.
+When they reach a certain age, they are herded off to the Slaughter-
+house, located to the east of this road.  To the north, you can see
+the Allisk Circle, where Lankshire Parkway, Hillcrest Drive and 
+Appleton Road intersect.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1245</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1247</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

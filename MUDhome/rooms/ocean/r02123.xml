@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="2123" Version="2.40" Area="ocean">
+  <Name>Milsene Children's Exhibition</Name>
+  <ShortDescription>This room in the museum is a tribute to Children's Fantasy.</ShortDescription>
+  <LongDescription>This exhibit is usually of interest to everyone, since there is a child in
+all of us.  The things you see here are not very dangerous in reality, but
+they do look terribly frightening at first.  Small but exotic animals from
+all over the land have been brought here for the children's pleasure.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">201</Mob>
+      <Mob Area="ocean" Num="1">205</Mob>
+      <Mob Area="ocean" Num="2">206</Mob>
+      <Mob Area="ocean" Num="3">237</Mob>
+      <Mob Area="ocean" Num="4">238</Mob>
+      <Mob Area="ocean" Num="5">201</Mob>
+      <Mob Area="ocean" Num="6">205</Mob>
+      <Mob Area="ocean" Num="7">206</Mob>
+      <Mob Area="ocean" Num="8">237</Mob>
+      <Mob Area="ocean" Num="9">238</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2122</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

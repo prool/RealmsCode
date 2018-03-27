@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="456" Area="ocean" Version="2.40">
+  <Name>kelp armor</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>85</ShotsMax>
+  <ShotsCur>85</ShotsCur>
+  <Armor>52</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">7500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">kelp</Key>
+    <Key Num="1">armor</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+  </Flags>
+  <UseOutput>it feels slimy going on, but you feel well protected.</UseOutput>
+  <Weight>10</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

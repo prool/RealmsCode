@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="563" Area="ocean" Version="2.40">
+  <Name>dwarven shield</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>40</ShotsMax>
+  <ShotsCur>40</ShotsCur>
+  <Armor>35</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">6000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">shield</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+  </Flags>
+  <Description>The shield is as polished as a mirror, and difficult to look at.</Description>
+  <Weight>8</Weight>
+  <Type>6</Type>
+  <SubType>shield</SubType>
+  <WearFlag>18</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="751" Area="ocean" Version="2.40">
+  <Name>small velvet bag</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>5</ShotsMax>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">6000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">velvet</Key>
+    <Key Num="1">bag</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="7"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The small velvet bag has a White Moon on its side, the crest of Elise.</Description>
+  <UseOutput>Elise whispers, "thank you, my champion."</UseOutput>
+  <Weight>1</Weight>
+  <Type>10</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

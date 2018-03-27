@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="5005" Version="2.40" Area="ocean">
+  <Name>Copper Pits - Mounted on a Dragon</Name>
+  <ShortDescription>You are mounted atop a copper dragon, in the second level of the pits.</ShortDescription>
+  <LongDescription>There is a light leather harness, securely fastened to a saddle , and a
+gleaming lance set in its socket at your side.  On the other side of you
+is a saddle bag and a small shield.  Mounted on the saddle pummel is a
+direction indicator.  Right now, it reads:  0.0.0.0.0</LongDescription>
+  
+  <Established>772139389</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="dismount">
+      <Keys/>
+      <Room Area="ocean">5004</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5006</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

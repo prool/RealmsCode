@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3408" Version="2.40" Area="ocean">
+  <Name>Entrance to the Mausoleum</Name>
+  <LowLevel>20</LowLevel>
+  
+  <Established>760048860</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3341</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="entrance">
+      <Keys/>
+      <Room Area="ocean">3409</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

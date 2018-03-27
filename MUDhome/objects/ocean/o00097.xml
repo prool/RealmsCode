@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="97" Area="ocean" Version="2.40">
+  <Name>crossbow</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>70</ShotsMax>
+  <ShotsCur>70</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>12</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1200</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Description>It's a piece of fine artisanship that only the best bowyer could have made.</Description>
+  <Weight>8</Weight>
+  <Type>5</Type>
+  <SubType>crossbow</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

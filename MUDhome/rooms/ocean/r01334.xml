@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1334" Version="2.40" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are walking along Lelion Way, north of the Wakarimasu Park.</ShortDescription>
+  <LongDescription>The large park on the south side of the road is surrounded by thick
+brush and trees preventing the casual walker from seeing inside the
+mysterious park.  On the north side of the road is the Temple of
+Harmonic Discord.</LongDescription>
+  
+  <Established>727415662</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">733</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1335</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

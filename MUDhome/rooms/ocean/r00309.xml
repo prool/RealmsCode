@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="309" Version="2.40" Area="ocean">
+  <Name>Roland's Fighting Academy - Green Training Room</Name>
+  <ShortDescription>You are in the green training room inside Roland's Fighting Academy, 
+preparing to do battle with a large knight dressed in green chain armor.</ShortDescription>
+  <LongDescription>In order to advance to the level of Punisher, you must first prove your
+worth to the Academy that you are in deed ready.  This proof lies in your
+defeating the green knight which stands before you.  The green knight is
+waiting for your first move.</LongDescription>
+  <LowLevel>6</LowLevel>
+  <HighLevel>6</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">283</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">360</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">310</Room>
+      <Key>7</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">308</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

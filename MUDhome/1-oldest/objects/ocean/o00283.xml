@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Object Num="283" Area="ocean" Version="2.40">
+  <Name>moon plaque</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">plaque</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Type>14</Type>
+  <InBag/>
+</Object>

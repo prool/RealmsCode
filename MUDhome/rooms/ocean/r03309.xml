@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3309" Version="2.40" Area="ocean">
+  <Name>Gardener's Shack</Name>
+  
+  <Established>758610944</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7500</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">450</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3306</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3308</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3310</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="niche">
+      <Keys/>
+      <Room Area="ocean">3295</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

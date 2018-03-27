@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3680" Version="2.40" Area="ocean">
+  <Name>Tower Tunnel</Name>
+  <ShortDescription>A three-way split in the tunnel appears to be in the northwest direction.</ShortDescription>
+  <LongDescription>Nothing but darkness and an occasional scraping sound is in the oppoisite
+direction.  There is also that constant sound of dripping water.  There are
+some odd scratchings on the wall, and an arrow to the southeast, but it
+was evidently put there a long time ago, and now it's unreadable.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3661</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3682</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

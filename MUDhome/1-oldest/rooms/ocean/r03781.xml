@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3781" Version="2.40" Area="ocean">
+  <Name>Lelion Wildlife Preserve</Name>
+  <ShortDescription>You are on the shore of the Lithium Inlet, in the Lelion wildlife preserve.</ShortDescription>
+  <LongDescription>Actually, this is a gravel beach leading down to the water's edge, rather
+than sand.  It's also one of the few places where you can easily get to
+the water, as most of the way along the Lithium Inlet the banks are pretty
+high.  To the west you can see a walkway which follows the bank but is
+obscured by giant cypress trees which grow down to the water line.  The
+path continues to the east.</LongDescription>
+  
+  <Established>766021599</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3780</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3782</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

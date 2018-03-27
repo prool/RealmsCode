@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="627" Version="2.40a" Area="ocean">
+  <Name>Lankshire Parkway/Hillborough Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Hillborough Way and Lankshire Parkway.</ShortDescription>
+  <LongDescription>You are in the heart of the central trading district in the center of the
+town.  Hillcrest Way runs east and west through the intersection and
+Lankshire Parkway runs north and south.  There are two large complexes
+on the northeast and southeast corners of the intersection, and a couple
+of smaller shops on the northwest and southwest corners.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">713</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">714</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">626</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">628</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

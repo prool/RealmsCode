@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="497" Version="2.40" Area="ocean">
+  <Name>Lithium Beach</Name>
+  <ShortDescription>You are walking along the Lithium Beach, south of the Highland Trade Shop.</ShortDescription>
+  <LongDescription>The Highland Trade Shop imports a number of specialty items from the
+highlands beyond the great sea.  Most of these items are common there,
+but not seen often on this side of the ocean.  Much of the stuff is 
+purely decorative.</LongDescription>
+  
+  <Established>727299450</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">432</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

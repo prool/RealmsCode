@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Room Num="3663" Version="2.40" Area="ocean">
+  <Name>Old Tunnel</Name>
+  <ShortDescription>You are in an old and abandoned tunnel deep under Castle Ragnar.</ShortDescription>
+  <LongDescription>A rotting animal corpse is in the middle of the tunnel floor, giving off
+a horrible odor.  As you look closer, you realize its not an animal you
+have ever seen before.  There are eight eyes completely encircling the
+head, and they are quite large, as though to enable the animal to see
+in the dark.  The corpse has four large sabre teeth.  Whatever killed 
+it must be fearsome.</LongDescription>
+  
+  <Established>765133008</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>6</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">720</Mob>
+      <Mob Area="ocean" Num="1">720</Mob>
+      <Mob Area="ocean" Num="2">720</Mob>
+      <Mob Area="ocean" Num="3">720</Mob>
+      <Mob Area="ocean" Num="4">720</Mob>
+      <Mob Area="ocean" Num="5">720</Mob>
+      <Mob Area="ocean" Num="6">720</Mob>
+      <Mob Area="ocean" Num="7">720</Mob>
+      <Mob Area="ocean" Num="8">720</Mob>
+      <Mob Area="ocean" Num="9">720</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">720</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3662</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3664</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3668</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

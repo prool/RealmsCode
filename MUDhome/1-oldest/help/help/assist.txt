@@ -1,0 +1,19 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  assist          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+syntax: assist <player>
+
+This command will assist <player>, setting your target to theirs as long 
+as they are in the same room as you.  If they have no target your target
+will be cleared.
+
+Ex:
+: ^ytar^x
+You are targetting: Noone!
+
+: ^yassist Plu^x
+You assist Plu!
+You are now targeting black rat.
+: 
+

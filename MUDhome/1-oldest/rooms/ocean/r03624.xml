@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3624" Version="2.40" Area="ocean">
+  <Name>Center Courtyard North</Name>
+  <ShortDescription>You are on the main assembly floor for the fighting forces of Castle Ragnar.</ShortDescription>
+  <LongDescription>It is here that troops are called to muster every morning, and once a month
+an inspection of the fighting men and women takes place.  The inspection is
+generally a lot of pomp and ceremony, but woe to the soldier who doesn't
+pass.  A week in the castle's dungeon with only water and crusty bread is
+no fun.  Further to the south is the review stand and the drummer's kiosk.</LongDescription>
+  
+  <Established>762645722</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3607</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3617</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3637</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3625</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

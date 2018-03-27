@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<Creature Num="605" Area="ocean" Version="2.40">
+  <Name>street mime</Name>
+  <Level>5</Level>
+  <Type>1</Type>
+  <Experience>90</Experience>
+  <Coins>
+    <Coin Num="2">90</Coin>
+  </Coins>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>140</Current>
+      <Max>140</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>210</Current>
+      <Max>210</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>140</Current>
+      <Max>140</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>90</Current>
+      <Max>90</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>60</Current>
+      <Max>60</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>White faced and silent, he looks to be trying to get out of an invisible box.</Description>
+  <Keys>
+    <Key Num="0">mime</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>150</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>1</Number>
+    <Sides>2</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>you didn't really expect a mime to talk, did you?</Talk>
+  <DefenseSkill>45</DefenseSkill>
+  <AttackPower>140</AttackPower>
+  <WeaponSkill>45</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">59</Carry>
+    <Carry Area="ocean" Num="1">59</Carry>
+    <Carry Area="ocean" Num="2">80</Carry>
+    <Carry Area="ocean" Num="3">80</Carry>
+    <Carry Area="ocean" Num="4">80</Carry>
+    <Carry Area="ocean" Num="5">253</Carry>
+    <Carry Area="ocean" Num="6">253</Carry>
+    <Carry Area="ocean" Num="7">260</Carry>
+    <Carry Area="ocean" Num="8">318</Carry>
+    <Carry Area="ocean" Num="9">318</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="10"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

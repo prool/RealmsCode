@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="1495" Version="2.40" Area="ocean">
+  <Name>Men's Restroom</Name>
+  <ShortDescription>This is the Men's Restroom in the Dragon Tooth Inn.  It's not very clean.</ShortDescription>
+  <LongDescription>As a matter of fact, there's nothing here in the way of plumbing, either.
+The room is quite bare except for a dark hole in the floor, and there's an
+awful smell coming from the hole.  The floor is wet where a few drunks have
+missed their opportunity, so it's a good thing you are wearing boots.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3737</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">1497</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="978" Version="2.40a" Area="ocean">
+  <Name>Cloudy Alcove</Name>
+  <ShortDescription>You are on the top of the magical cloud castle overlooking the city.</ShortDescription>
+  <LongDescription>Well, it's virtually impossible to see the city below you, but you can
+make out various landmarks.  The cloudy alcove on top of the castle
+is guarded by a single cloud giant guard who was unlucky or inexperienced
+enough to get chosen for this detail.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>14400</Interval>
+      <LastTime>1206217477</LastTime>
+      <Misc Area="ocean">342</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>1206217478</LastTime>
+      <Misc Area="ocean">402</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">980</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

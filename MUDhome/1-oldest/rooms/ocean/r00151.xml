@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="151" Version="2.40" Area="ocean">
+  <Name>Sharkey's Bordello</Name>
+  <ShortDescription>This bordello is a place where men come to relieve sexual tension.</ShortDescription>
+  <LongDescription>As you look about, you notice a wonderfully sexy woman, who gives you a wink
+back.  It must be time for you to make your move.  The furniture seems to be
+rather shabby and poorly kept, and the doctor's certificate on the wall is
+long out of date.  The place has a very musty smell to it.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="5">7</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">7</Mob>
+      <Mob Area="ocean" Num="8">7</Mob>
+      <Mob Area="ocean" Num="9">7</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">152</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

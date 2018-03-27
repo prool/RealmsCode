@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1857" Version="2.40" Area="ocean">
+  <Name>The Green Training Hut</Name>
+  <ShortDescription>You have successfully defeated your opponent and are worthy to advance.</ShortDescription>
+  <LongDescription>Congratulations.  You are now worthy to train to the level of Tribesman,
+Second Class.  With this rank, you will have additional hit point and
+more healing power.  When you are ready to advance again, come back to
+this location and enter the red training hut.</LongDescription>
+  <LowLevel>4</LowLevel>
+  <HighLevel>4</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1868</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

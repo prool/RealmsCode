@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="3956" Version="2.40" Area="ocean">
+  <Name>Trantor's Workshop</Name>
+  <ShortDescription>You are in the workshop of Trantori the High Invoker.</ShortDescription>
+  <LongDescription>Trantori receives the fine jewelry made by the elves and casts his magic
+on each piece before it is put in the display case outside.  The speciality
+of the shop is magical jewelry, and Trantori and the Chief Jeweler both
+contribute to the final product.  You may purchase from the elven maid
+in the sales room.</LongDescription>
+  <Trap>4</Trap>
+  <TrapExit Area="ocean">4002</TrapExit>
+  
+  <Established>770363027</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>9000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">606</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2942</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="sales">
+      <Keys/>
+      <Room Area="ocean">3957</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="glass slide">
+      <Keys/>
+      <Room Area="ocean">4002</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3740" Version="2.40" Area="ocean">
+  <Name>Tormal's Magic and Wonder Shoppe</Name>
+  <ShortDescription>You are in a Magic and Wonders shop owned by Tormal, An elderly mage. </ShortDescription>
+  <LongDescription>Although Tormal is seldom here, his young apprentice will sell almost 
+anything.  The shop seems to have anything and everything you might need,
+from weapons to armor to wands, and especially scrolls.  Everything has a
+price however, but if you are lucky she might give you a discount.  As you
+gaze around the shop, you spot some rare scrolls under a stack of dusty
+maps on the floor.  And isn't that a dragon blade mixed in with some short
+swords?  Hmm..  She might be willing to sell the entire lot for $100.
+Tormal would never know, would he?</LongDescription>
+  
+  <Established>766608557</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">559</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

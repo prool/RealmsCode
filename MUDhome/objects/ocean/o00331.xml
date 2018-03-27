@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="331" Area="ocean" Version="2.40">
+  <Name>elephant leather armor</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>40</ShotsMax>
+  <ShotsCur>40</ShotsCur>
+  <Armor>52</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">leather</Key>
+    <Key Num="1">armor</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>You see some heavy elephant leather armor, made for smaller races.</Description>
+  <Weight>7</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

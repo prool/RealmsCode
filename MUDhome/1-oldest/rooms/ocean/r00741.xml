@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="741" Version="2.40" Area="ocean">
+  <Name>Highland Avenue</Name>
+  <ShortDescription>You are walking along Highland Avenue, east of the Crimson Dragon Inn.</ShortDescription>
+  <LongDescription>The elegant Crimson Dragon Traveler's Lodge is one of the more popular
+inns in the city.  Of course, being as elegant and well-kept as it is,
+the Lodge tends to cost quite a bit to stay in for just a couple of
+nights.  There are stables to the south where you can leave horses while
+visiting Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">740</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">742</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

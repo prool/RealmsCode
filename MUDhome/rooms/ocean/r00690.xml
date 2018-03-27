@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="690" Version="2.40a" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are walking along Darmanian Way, south of the Hofton Ziggurat.</ShortDescription>
+  <LongDescription>The Hofton Ziggurat towers over the landscape with its unique pyramid
+shape rising towards the heavens.  It is not nearly as tall as the
+Lyanden Castle, which you can see to the south on the lake, but never-
+theless, it is quite an impressive work of art.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">667</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">689</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

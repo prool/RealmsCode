@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3928" Version="2.40" Area="ocean">
+  <Name>Jade Room</Name>
+  <ShortDescription>You are in the Jade room of the Wizard's Eye.</ShortDescription>
+  <LongDescription>Glistening jade in rich carvings set in ivory pillars distinguishes the room.
+The room is cut in triangular shapes of all sizes, each piece meshing with
+the next one, forming a geodesic structure of jade and ivory columns at odd
+angles.  A jade tiger, wearing a red robe, paces the floor.</LongDescription>
+  <LowLevel>5</LowLevel>
+  <HighLevel>5</HighLevel>
+  
+  <Established>770919515</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training room</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">620</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3929</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">3939</Room>
+      <Key>78</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

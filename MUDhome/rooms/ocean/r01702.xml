@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1702" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription></ShortDescription>
+  <LongDescription>The Adrilite Museum of Natural History lies directly to the west, but has
+been undergoing extensive remodeling.  Visitors wishing to see artifacts
+and historical memorbilia may wish to visit the wonderful museums located
+in adjacent cities.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">515</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1701</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

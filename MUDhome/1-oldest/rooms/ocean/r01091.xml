@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1091" Version="2.40" Area="ocean">
+  <Name>Hafnia Way</Name>
+  <ShortDescription>You are walking on Hafnia Way, just east of a noisy encampment.</ShortDescription>
+  <LongDescription>Several large and colorful tents are to the east, and bright banners, flags
+and pennants fly above them.  There are a couple hundred people there, and
+many camels and horses.  The Oceancrest merchants are putting together a
+caravan to take supplies to surrounding cities.  They hope to return with
+a handsome profit, and perhaps some exotic goods they can sell here for 
+even more gold.  They're a greedy bunch.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1092</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1090</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

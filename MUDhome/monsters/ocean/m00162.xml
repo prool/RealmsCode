@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Creature Num="162" Area="ocean" Version="2.47i">
+  <Name>the ghost of Rowland</Name>
+  <Id>-1</Id>
+  <Class>5</Class>
+  <Level>15</Level>
+  <Type>1</Type>
+  <Experience>1000</Experience>
+  <Alignment>250</Alignment>
+  <Stats><Stat Name="Strength"><Initial>180</Initial><Modifiers></Modifiers></Stat><Stat Name="Dexterity"><Initial>200</Initial><Modifiers></Modifiers></Stat><Stat Name="Constitution"><Initial>130</Initial><Modifiers></Modifiers></Stat><Stat Name="Intelligence"><Initial>250</Initial><Modifiers></Modifiers></Stat><Stat Name="Piety"><Initial>200</Initial><Modifiers></Modifiers></Stat><Stat Name="Hp"><Initial>200</Initial><Modifiers></Modifiers></Stat><Stat Name="Mp"><Initial>300</Initial><Modifiers></Modifiers></Stat></Stats>
+  <Description>You see the ghost of Rowland, the last great mage of Keslar.</Description>
+  <Keys><Key Num="0">ghost</Key><Key Num="1">rowland</Key></Keys>
+  <MoveTypes></MoveTypes>
+  <Armor>275</Armor>
+  <Proficiencies></Proficiencies>
+  <Dice><Number>3</Number><Sides>3</Sides></Dice>
+  <Attacks></Attacks>
+  <Talk>Destroy the evil which lurks in the palace.</Talk>
+  <TalkResponses></TalkResponses>
+  <DefenseSkill>145</DefenseSkill>
+  <AttackPower>180</AttackPower>
+  <WeaponSkill>145</WeaponSkill>
+  <Factions></Factions>
+  <Skills></Skills>
+  <Effects><Effect><Name>resist-magic</Name><Duration>-1</Duration><Strength>1</Strength><Extra>0</Extra><PulseModifier>0</PulseModifier></Effect></Effects>
+  <SpecialAttacks></SpecialAttacks>
+  <DailyTimers></DailyTimers>
+  <SavingThrows><SavingThrow Num="0"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="1"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="2"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="3"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="4"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="5"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow></SavingThrows>
+  <Spells><Bit Num="14"></Bit><Bit Num="38"></Bit><Bit Num="39"></Bit><Bit Num="40"></Bit></Spells>
+  <Flags><Bit Num="5"></Bit><Bit Num="7"></Bit><Bit Num="8"></Bit><Bit Num="12"></Bit><Bit Num="14"></Bit><Bit Num="15"></Bit><Bit Num="17"></Bit><Bit Num="22"></Bit></Flags>
+  <Inventory></Inventory>
+</Creature>

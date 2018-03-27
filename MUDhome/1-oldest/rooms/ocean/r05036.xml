@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="5036" Version="2.40" Area="ocean">
+  <Name>Open Skies</Name>
+  <ShortDescription>You are flying in open skies over hilly country.  50.n2.e0.so.w1</ShortDescription>
+  <LongDescription>There is a cold and gray sky to the west.  It might be best to turn away
+from it.  Even your dragon seems a little nervous about the weather in 
+that direction.</LongDescription>
+  
+  <Established>772701643</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5017</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5011</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5015</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5037</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

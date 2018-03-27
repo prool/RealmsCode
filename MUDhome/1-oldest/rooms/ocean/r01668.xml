@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1668" Version="2.40" Area="ocean">
+  <Name>Appleton Road</Name>
+  <ShortDescription>You are on Appleton Road, between Overland Drive and Waterfront Way.</ShortDescription>
+  <LongDescription>One of the reasons there aren't more diagonally running roads in Oceancrest
+is because of the useless land they create.  There is a small, triangular
+sliver of land between Appleton, Waterfront and Overland, which is more
+or less undevelopable.  A couple of small monuments have been put up in
+dedicated to the farmers, but nothing else really can fit there.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1612</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1673</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

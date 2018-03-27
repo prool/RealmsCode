@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="3223" Version="2.40" Area="ocean">
+  <Name>Transporter Room</Name>
+  <ShortDescription>This room contains the Dangerous Destinations Transporter.</ShortDescription>
+  <LongDescription></LongDescription>
+  
+  <Established>755990969</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3221</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

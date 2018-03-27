@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<Room Num="3245" Version="2.40" Area="ocean">
+  <Name>Middle of Lake Kista</Name>
+  <ShortDescription>You are swimming in Kista Lake, wishing you had something to keep you afloat.</ShortDescription>
+  <LongDescription>From here in the middle of the lake, you can see all of the surrounding
+mountains, and perhaps on a clear day you could see parts of Oceancrest
+as you look down the valley towards the east.  The nearby mountain tops
+are covered with snow, and you can see large bird-like creatures flying
+about the peaks.  There's something odd about them, however, as they
+appear to be too large to actually fly.</LongDescription>
+  
+  <Established>756037542</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>150000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">426</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3242</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3243</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3244</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3246</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3247</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3248</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="underwater alcove">
+      <Keys/>
+      <Room Area="ocean">3264</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  hypnotize        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Vampires may hypnotize opponents in order to allow them to not be attacked for
+the duration of the hypnosis. Players that are hypnotized may not attack a
+player who has previously hypnotized him while it lasts. It will not work
+against permanent monsters.
+
+Example:
+: hyp p
+You hypnotize the pickpocket.
+:

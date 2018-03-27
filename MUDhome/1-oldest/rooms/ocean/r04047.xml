@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="4047" Version="2.40" Area="ocean">
+  <Name>Garden Path</Name>
+  <ShortDescription>This is the garden where Granovetter grows fresh vegetables for the kitchen.</ShortDescription>
+  <LongDescription>The back yard for the inn is to the northeast, as well as a fairly new
+building where Hagbert, the second son of Granovetter, has established a 
+local blacksmith shop.  In the middle of the garden to the west you can
+see the residence of Gracella, the oldest daughter.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4057</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4048</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

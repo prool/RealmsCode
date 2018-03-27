@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="719" Version="2.40a" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are walking along Oceancrest Aveune, south of the Fighter's Academy.</ShortDescription>
+  <LongDescription>On the north side of the road, you can see Altihmin's Academy of Advanced
+Fighter Training, where advanced level fighters can go to receive 
+superior training in hard-to-master fighting skills.  Altihmin only
+accepts proven fighters and won't allow people who do not meet his
+strict criterion.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">718</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">620</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="2398" Version="2.40" Area="ocean">
+  <Name>Darkened Hallway</Name>
+  <ShortDescription>You are at a corner in the massive complex under the great glacier.</ShortDescription>
+  <LongDescription>The dark corridor is much too small for any frost giant to be able to
+move in, so it is unlikely that any will bother you here.  However, you
+can hear some sort of chanting from some devilish source.  It sounds like
+they're getting ready for battle.</LongDescription>
+  
+  <Established>728420953</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="21"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">355</Mob>
+      <Mob Area="ocean" Num="1">355</Mob>
+      <Mob Area="ocean" Num="2">355</Mob>
+      <Mob Area="ocean" Num="3">355</Mob>
+      <Mob Area="ocean" Num="4">355</Mob>
+      <Mob Area="ocean" Num="5">355</Mob>
+      <Mob Area="ocean" Num="6">356</Mob>
+      <Mob Area="ocean" Num="7">356</Mob>
+      <Mob Area="ocean" Num="8">355</Mob>
+      <Mob Area="ocean" Num="9">356</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2397</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2399</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

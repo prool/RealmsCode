@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<Room Num="1" Version="2.41b" Area="misc">
+  <Name>The Origin</Name>
+  <ShortDescription>You find yourself at the Origin.</ShortDescription>
+  <LongDescription>This is the Origin of Life, a spiritual place where all living creatures
+enter the world of Derlith. A magnificent door carved out of a single
+piece of jade and decorated with the finest gems and metals leads to the
+world beyond. The Book of Knowledge, an ancient tome some saw was written
+by the gods themselves when they created Derlith, floats about the area.
+An obsidian obelisk placed near the jade door has some information carved
+on it regarding this world.</LongDescription>
+  <Established>895111270</Established>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+    <Bit Num="28"/>
+    <Bit Num="31"/>
+    <Bit Num="37"/>
+    <Bit Num="43"/>
+    <Bit Num="51"/>
+    <Bit Num="53"/>
+    <Bit Num="56"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>jade door</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="4">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="5">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="6">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="7">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="8">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="9">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>300</Interval>
+      <LastTime>1207621853</LastTime>
+      <Misc Area="misc">34</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>3600</Interval>
+      <LastTime>1175032671</LastTime>
+      <Misc Area="misc">35</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="4">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="5">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="6">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="7">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="8">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+    <LastTime Num="9">
+      <Interval>0</Interval>
+      <LastTime>1175032671</LastTime>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="jade door">
+      <Keys/>
+      <Toll>11897</Toll>
+      <Enter>You step through the jade door and into the world of Oceancrest.</Enter>
+      <Flags>
+        <Bit Num="64"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

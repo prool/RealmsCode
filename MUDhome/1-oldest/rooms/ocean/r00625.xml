@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="625" Version="2.40a" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are traveling along Lankshire Parkway, east of the Great Outdoorsman.</ShortDescription>
+  <LongDescription>The Great Outdoorsman is a small shop located on the west side of the
+road in a small shopping complex.  The small shop specializes in unique
+hunting and sporting equipment.  On the east side of the road, you can
+see Deni's World of Spices, which caters to fancy spices and herbs which
+might even be useable as magical components.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">535</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">626</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

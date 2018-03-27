@@ -1,0 +1,23 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  porphryia        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Porphyria is a curse associated with vampirism. Its symptoms will start off
+mild, but as time progresses they will become more severe and more dangerous.
+Letting porphyria run its course or dying from the curse will irrevocably
+turn the victim into a vampire. If the victim is cursed by another player,
+they will be permanently charmed by the vampire that turned them.
+
+A person can contract porphyria in two ways: being killed by a vampire or by
+being bitten by a vampire. Please note that legacy vampires (those who are
+vampires by choosing a class) do not have the ability to inflict others with
+porphyria.
+
+It is also rumored that staying in the sunlight will prevent porphyria from
+taking effect, atleast momentarily. Spells that protect you from the power of
+undead will also prevent this curse from taking hold. Paladins and clerics
+of good-aligned gods are also immune to this curse.
+
+Porphyria may be cured by a remove-curse spell.
+
+See also: vampirism

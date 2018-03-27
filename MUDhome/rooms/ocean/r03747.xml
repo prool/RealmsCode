@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3747" Version="2.40" Area="ocean">
+  <Name>Paladin Training Room</Name>
+  <ShortDescription>You have successfully defeated the white knight.  Now you may train.</ShortDescription>
+  <LongDescription>Only the pure and devoted may advance to such an exalted level of holy
+paladin as you have done.  You should be justifiably proud of your
+accomplishment.  When you go forth into the land of Mordor once again,
+be always faithful and ever watchful.  Do not let the forces of evil
+prevail against God's innocents.  And be warned... never flee from evil.</LongDescription>
+  
+  <Established>766781076</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">290</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

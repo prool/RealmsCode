@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="1104" Version="2.40" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are on Waterfront Way between to small shopping centers.</ShortDescription>
+  <LongDescription>There are two shopping centers on both the north and south sides of the
+road.  On the south side of the road is a large building with three shops
+in it.  Directly to the south is a door entrance to "Richard's Rare 
+Herbs".  A distinct yet unknown odor seems to radiate from the shop.
+On the north side of the road is a sign which reads "Leomund's Water
+Purification" next to a rounded door.  Water purification is a useful
+idea, but can more easily be accomplished by boiling the water.  But as
+they say, there's a sucker born every minute.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1105</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1103</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="269" Area="ocean" Version="2.40">
+  <Name>wand of all-seeing</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>3</ShotsMax>
+  <ShotsCur>3</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">all</Key>
+    <Key Num="1">seeing</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Description>You see a magnificent looking wand made of gold and jewels.</Description>
+  <Weight>5</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>10</MagicPower>
+  <InBag/>
+</Object>

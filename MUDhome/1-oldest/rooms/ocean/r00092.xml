@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="92" Version="2.40" Area="ocean">
+  <Name>Wall Road West</Name>
+  <ShortDescription>Wall Road West continues to the north and south.</ShortDescription>
+  <LongDescription>There is a very old but well kept mansion on the east side of the road. 
+It belongs to squire Frebineb, the commander of the Brownhaven militia.
+A wide path leads east to the carriage house on the estate.  On the west
+side you see the high wall that surrounds the village.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">90</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">110</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

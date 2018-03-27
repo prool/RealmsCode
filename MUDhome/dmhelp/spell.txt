@@ -1,0 +1,32 @@
+Help on:
+	*SPELL [CHECK -A]
+
+Spellcheck the room you are in.
+
+Example:
+
+60 - Builder's Waiting Room
+
+Allthough it emenates.
+All exits: none.
+
+: *spell
+Checking for misspelled words in short description...
+Checking for misspelled words in long description...
+        Allthough
+        emenates
+ *spell check -a
+Checking for misspelled words in short description...
+Checking for misspelled words in long description...
+        Allthough --> Although All though All-though Though
+                Alioth Althea Alethea Alloy Slough Alto Alloys
+                Allah Allow Allot Aloud Alloy's Arthur Author
+                Clotho Allege Allows Allude Allure 
+        emenates --> emanates emanated emends Eumenides amenities
+                emanate Yemenites emirates emulates mantes
+                ruminates cementers manatees emended cements
+                eliminates emotes Yemenite's events germinates
+                terminates 
+:
+
+

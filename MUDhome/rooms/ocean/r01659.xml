@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1659" Version="2.40" Area="ocean">
+  <Name>Regalia Way</Name>
+  <ShortDescription>You are walking along Regalia Way, south of Maria's Market.</ShortDescription>
+  <LongDescription>Maria's Market is a small, outdoor marketplace where some goods may
+be purchased.  Much of the fruits and vegetables are not grown in
+Oceancrest and need to be imported.  However, most of the grain and
+corn comes from inside the city.  Maria's Market provides a little bit
+of diversity for the the citizens' diets.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1658</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1660</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

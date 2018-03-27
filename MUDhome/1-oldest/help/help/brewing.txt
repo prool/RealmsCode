@@ -1,0 +1,117 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  crafting skills     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Crafting skills are a set of skills that let you create items. All of them
+act in similar ways. They are:
+   ^Wcook^x
+   ^Wsmith^x
+   ^Wtailor^x
+   ^Wcarpenter^x
+   ^cbrew^x (not done)
+
+These two commands allow you to create objects, but are not related to a
+skill:
+   ^Wcraft^x
+   ^Wcombine^x
+
+There are three types of objects you will need to create a new object.
+Looking at a recipe will tell you which types of objects are required for
+that specific recipe. They are:
+   ^WIngredients:^x these objects are consumed when creating a new object.
+      These objects are generally required components, like metal ore
+      or yeast.
+   ^WReusables:^x these objects can be reused. Examples include a smithing
+      hammer or a mortar and pedestal.
+   ^WEquipment:^x These objects are usually large and reside in a room
+      somewhere. They do not need to be prepared - this will happen
+      automatically when you attempt to create your item. Examples include
+      a stove, a forge or a loom.
+
+
+There are several ways you can create new items:
+
+^W1)^x Use the prepare command and prepare the items in your inventory.
+   Then use the appropriate command for the skill you are attempting to
+   use. If a combination is possible, a new item will be created. Use the
+   unprepare command to unprepare an item. This method of creating items
+   allows you to experiment with recipes you have not yet learned.
+
+   For example, if you wanted to make bread, you would type:
+   : prepare flour
+   You prepare the flour.
+   : prepare yeast
+   You prepare the yeast.
+   : cook
+   You prepare a stove.
+   ^yYou have successfully cooked a loaf of bread.^x
+   :
+
+   ^WNote:^x some combinations will require you to know the recipe. While you
+   can bake bread using the trial-and-error method, you cannot smith a
+   sword without knowing how.
+
+^W2)^x Use a recipe. This will automatically prepare all the items in your
+   inventory for you. This can be done in two ways. If you have the recipe
+   in your inventory, use the appropriate command on that object.
+
+   : tailor instructions
+   You prepare some cotton.
+   You prepare a spinning wheel.
+   ^yYou have successfully tailored some thread.^x
+   :
+
+   If you have the recipe memorized, you may use the recipe number instead.
+   For example, if the bread recipe were recipe #2 in your recipe book, you
+   could type "^Wcook 2^x" or "^Wcook #2^x" to create
+   the item.
+
+^W3)^x If an object is the sole ingredient in a recipe, and no resuable
+   objects are required, you may simply use the command on that object:
+
+   : cook trout
+   You prepare a stove.
+   You prepare a brown trout.
+   ^yYou have successfully cooked some cooked brown trout.^x
+   :
+
+^W4)^x Some recipes will allow you to create items of any size. This is
+   generally true of smithing and tailoring recipes. If this is possible,
+   the recipe will say so when you examine it.
+
+   Creating items of variable size requires a variable amount of
+   ingredients. Currently, you may examine the chart below to determine how
+   many ingredients you will need:
+
+   ^WSize^x             | ^WNumber of each Ingredient^x
+   -----------------+---------------------------
+   large or smaller |  1 of each
+   huge             |  2 of each
+   gargantuan       |  4 of each
+   colossal         |  8 of each
+
+   Creating something of a different size requires more talent than
+   creating something of your own size. Each size category difference will
+   require one more level (10 points) of experience than the recipe
+   normally requires. If a recipe requires 100 skill points to make and you
+   wish to make the item one size category different, you will need 110
+   skill points.
+
+   To create something of a different size, simply specify the size in the
+   command. By default, your will create the object to match your current
+   size. For example:
+
+   : smith #1 huge
+   You prepare some iron ore.
+   You prepare some iron ore.
+   You prepare a smithing hammer.
+   You prepare a forge.
+   ^yYou have successfully smithed an iron sword.^x
+   :
+
+Related commands:
+   ^Wfish^x
+   ^Wrecipe^x
+   ^Wprepare^x
+   ^Wunprepare^x
+

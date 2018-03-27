@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1349" Version="2.40a" Area="ocean">
+  <Name>Ashton River Bridge</Name>
+  <ShortDescription>The bridge is a part of Lelion Way running east and west.</ShortDescription>
+  <LongDescription>Directly to the east is the intersection of Lelion Way and Riverdell
+Way.  Below is the Ashton River, which runs north/south at this part
+of its course.  A sign on the bridge says to beware of trolls who
+have been known to accost travelers at this point of their journey.
+In the South you can see the Ashton Waterfalls, a spectacular sight
+visited by locals and tourists alike.</LongDescription>
+  
+  <Established>756167282</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1315</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1348</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">1918</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

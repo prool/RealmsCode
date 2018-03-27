@@ -1,0 +1,33 @@
+Help on: *outlaw
+
+This command is used by DMs and certain select CTs to set
+the outlaw flag on misbehaving players. It has several
+options which allow for different levels of the outlaw
+flag. In order for a CT to use this command, a flag must
+be set on them by a DM. The command has many switches,
+all of which will be explained below.
+
+syntax: *outlaw <player> <minutes> [-a|-s|-x]
+        *outlaw <player> [-f|-r]
+
+The first line of switches can only be done when first
+setting a player to outlaw, and can all be done in the
+process of that first command. For example:
+: *outlaw bob 5 -a -s -x
+Or
+: *outlaw bob 10 -x -s
+Or
+: *outlaw bob 7 -a
+etc...
+
+Switch definitions:
+-a: Makes mobs flagged outlaw aggro attack a player.
+-s: Makes a player not able to set nosummon.
+-x: Makes a player lose xp from pkill losses.
+
+The following switches can only be used once a player
+is already an outlaw:
+-f: Tells you which of the above switches are set on the
+    player, and also the time remaining on their outlaw.
+-r: DM only. Allows a DM to cancel a player's outlaw sentence.
+

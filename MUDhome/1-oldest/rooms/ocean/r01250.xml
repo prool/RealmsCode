@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1250" Version="2.40" Area="ocean">
+  <Name>Khelleva Drive</Name>
+  <ShortDescription>You are walking along Khelleva Drive, between the Mansion and the Stables.</ShortDescription>
+  <LongDescription>Khelleva Drive is a small road which runs through the Khelleva Estate,
+splitting the great Mansion apart from the Khelleva Stables.  The 
+mansion can be seen to the east of the road and the stables are located
+on the south side of the road.  The entrance to both establishments may
+be found on Khelleva road to the southeast.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">1</Mob>
+      <Mob Area="ocean" Num="2">1</Mob>
+      <Mob Area="ocean" Num="3">2</Mob>
+      <Mob Area="ocean" Num="4">4</Mob>
+      <Mob Area="ocean" Num="5">5</Mob>
+      <Mob Area="ocean" Num="6">5</Mob>
+      <Mob Area="ocean" Num="7">5</Mob>
+      <Mob Area="ocean" Num="8">5</Mob>
+      <Mob Area="ocean" Num="9">5</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1251</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1249</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,32 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  vampirism        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Vampirism is the disease that turns ordinary people into vampires. Once
+contracted, there is no known cure. Being a vampire has several benefits as
+well as several disadvantages.
+
+^WBenefits^x
+
+A vampire gains vampiric abilities - a bite attack, the ability to turn into
+mist and the power to hypnotize others. When a vampire kills or bites another
+player, there is a chance their victim will become infected with porphyria.
+Should the victim turn into a vampire, they will be unable to attack the
+vampire that turned them.
+
+^WDisadvantages^x
+
+The most significant downside to being a vampire is vulnerability to sunlight.
+Standing exposed in sunlight for even a moment can cause serious damage, and
+any vampire foolish enough to stay in the light will surely perish.
+
+^WBoth^x
+
+Upon becoming a vampire, a player is turned chaotic and does not have the
+option of converting to lawful. They also gain all of the benefits and
+disadvantages that come with being undead.
+
+Legacy vampires (those who are vampires by choOsing a class) have not changed.
+See HELP VAMPIRES for more details.
+
+See also: porphyria

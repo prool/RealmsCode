@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="5019" Version="2.40" Area="ocean">
+  <Name>Open Sky</Name>
+  <ShortDescription>You have reached the northern gorge near Mount Aphinix.  70.n4.e0.s0.w0</ShortDescription>
+  <LongDescription>The northern cliffs are much too high for your steed to fly over, so you
+will have to avoid them.  You can fly higher, however, if you want a better
+look at the sheer rock face coming down from the mountain.  To the east
+it looks like the southern face of Mount Aphinix has a more steep slope
+to it.  A long way to the west, there is a jutting shoulder of the high
+cliffs, and you will probably have to turn south.</LongDescription>
+  
+  <Established>772227884</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5016</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5052</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5053</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

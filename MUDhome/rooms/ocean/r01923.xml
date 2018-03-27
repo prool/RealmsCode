@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1923" Version="2.40" Area="ocean">
+  <Name>Renee's Elven Leather Works</Name>
+  <ShortDescription>You are in a very fancy elven shop filled with exotic leather items.</ShortDescription>
+  <LongDescription>Leather is one of the easiest hides to work with and elves have mastered
+the art of making goods with the fine hides.  A variety of imported elven
+leather works have been put on sale here and line the walls.  The most
+common are suits of leather which protect slightly better than normal
+leather suits because they are custom-fitted for each individual.  It
+is an outstanding choice for mages and thieves who rely on light, easy
+to wear armor.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1920</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

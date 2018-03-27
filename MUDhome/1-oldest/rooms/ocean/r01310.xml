@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1310" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are on Riverdell Way, taking in the scenery of forests and buildings.</ShortDescription>
+  <LongDescription>it's odd to be walking along the street and seeing on the east side of the
+road, a number of buildings housing shops and services, and on the west
+side, a dense forest.  The forest to the west is very thick, covered with
+shrubs and thorn bushes, making it virtually impossible to enter.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1309</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1311</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="5003" Version="2.40" Area="ocean">
+  <Name>Copper Pits - First Level</Name>
+  <ShortDescription>You are at the first level of the copper dragon pits.</ShortDescription>
+  <LongDescription>The pits are carefully guarded by Brownhaven guards to keep just anyone
+from riding the beautiful copper dragons who live it the pits below.  Right
+now, they are probably sleeping on duty, but you can see an alarm rigged
+on the entrance to the pits below.  If you want to joy ride a dragon, you
+might have to fight for the privilege.</LongDescription>
+  
+  <Established>772137542</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>pits</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5002</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="pits">
+      <Keys/>
+      <Room Area="ocean">5004</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="guardshack">
+      <Keys/>
+      <Room Area="ocean">4010</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

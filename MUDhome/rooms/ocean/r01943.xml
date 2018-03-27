@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1943" Version="2.40" Area="ocean">
+  <Name>Silk Dreams Backstage Area</Name>
+  <ShortDescription>You are behind the stage in the Silk Dreams Nightclub.</ShortDescription>
+  <LongDescription>The backstage area is not a very smart place to be right now, because
+all the bouncers are likely to be after you.  Nevertheless, you have made
+your way back here and might as well take in the scenery before being
+kicked out of the club.  The stage is to the north and the dressing room
+is to the south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">79</Mob>
+      <Mob Area="ocean" Num="1">79</Mob>
+      <Mob Area="ocean" Num="2">79</Mob>
+      <Mob Area="ocean" Num="3">79</Mob>
+      <Mob Area="ocean" Num="4">243</Mob>
+      <Mob Area="ocean" Num="5">243</Mob>
+      <Mob Area="ocean" Num="6">243</Mob>
+      <Mob Area="ocean" Num="7">79</Mob>
+      <Mob Area="ocean" Num="8">79</Mob>
+      <Mob Area="ocean" Num="9">79</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1942</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1944</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

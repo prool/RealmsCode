@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1049" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive</Name>
+  <ShortDescription>You are on Oceanview Drive, about a block north of the City Walls.</ShortDescription>
+  <LongDescription>The City Walls lie approximately a block to the south at Golden Dolphin
+Way.  On the east side of Oceanview is Leonardo's Foundry.  The only
+entrance to the foundry is located on Main Street, which runs parallel
+to Oceancrest, one block to the east.  On the west side, there is a small
+gem shop entitled "Eye of the Dragon Fine Gemstones".  The entrance appears
+to be on the south side of Waterfront Way.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1048</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1050</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

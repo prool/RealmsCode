@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="5195" Version="2.40" Area="ocean">
+  <Name>Light Clouds</Name>
+  <ShortDescription>You are in a cloud over the western end of Vallenda Pass.  40.n2.e0.s0.w25</ShortDescription>
+  <LongDescription>You are also near the southwestern end of Mount Aphinix, which is the home
+of a clan of mountain trolls that occasionally try to invade surrounding
+cities.  Long ago, the village of brownhaven had a pitched battle with
+them, and almost wiped them out.  Now, they are mostly just a nuisance.</LongDescription>
+  
+  <Established>773821977</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5194</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5196</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3249" Version="2.40" Area="ocean">
+  <Name>Lake Kista North Shore</Name>
+  <ShortDescription>You are almost waist deep in the waters of Lake Kista on the north shore.</ShortDescription>
+  <LongDescription>The shore line is too muddy to walk there, but the water seems to get
+rather deep just a short distance from the shore.  This is the north
+shore of the lake, and trees and vegetation come right down to the water's
+edge here.  If it doesn't get any deeper, this is probably easier to walk
+than up there on the muddy shore, fighting your way through the brush.</LongDescription>
+  
+  <Established>756088914</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>150000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">424</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3248</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3247</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

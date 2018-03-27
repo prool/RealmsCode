@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1994" Version="2.40" Area="ocean">
+  <Name>Path West of the Manor</Name>
+  <ShortDescription>You are on a narrow path located on the west side of the Manor.</ShortDescription>
+  <LongDescription>As you walk along the path, you can see the impressive Mausoleum located
+towards the northeast.  The path apparently circles around it and then
+eventually goes to the front entrance if you follow it to the north.  If
+you go east you will come to the Werewolves Den south of the Manor.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1993</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1995</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

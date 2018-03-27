@@ -1,0 +1,27 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  lag protection      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Lag protection routines are designed to attempt to save you from a catastrophic
+lagout. Although it is not 100% certain to save you, it, along with wimpy, will
+most certainly increase your chances of surviving a lagout. All characters
+default with lag protection routines turned on at the time of character
+creation.
+
+Lag protection only activates if you are HIT by an attack (from a monster)
+after you are detected to be idle for 10+ seconds. If you are equal to or over
+50% of your max hit points, it will try to make you flee automatically,
+opening doors for you, and even removing your weapon(s). If you are under 50%
+of your hit points, the routines will search your entire inventory (including
+bags) for a word-of-recall item (hazy potion, smokey potion, etc..). You will
+then automatically drink/use this item and be recalled to the Origin where you
+will be safe. You are able to disable this auto-recall effect, which will make
+the routines only make you flee. Simply type CLEAR LAGRECALL to do this. Note
+that lag protection can not save you if you are in a no-flee or
+no-potion/no-magic room.
+
+If you wish ever to turn off your lag protection, which we most definitely do
+NOT recommend, type CLEAR LAGPROTECT. As mentioned, lag protection is not 100%
+certain, and will not save you every time. It is best not to go afk in
+potentially hostile areas and to never play in lag than to rely upon it, or
+anything else, to save you from lagout.

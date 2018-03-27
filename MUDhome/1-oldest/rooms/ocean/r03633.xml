@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="3633" Version="2.40" Area="ocean">
+  <Name>Main Courtyard East</Name>
+  <ShortDescription>This is the preparation area for the knight's jousting run.</ShortDescription>
+  <LongDescription>On the east side is the main building of Castle Ragnar, and on the west
+side is a large hedge.  Together they form a natural alcove for the wide
+alley just to the south which is used as a jousting run.  Further south
+is the small arms practice area.  Prince Ragnar himself can often be found
+here, either participating or watching the knights as they charge down
+the jousting run.</LongDescription>
+  
+  <Established>762646078</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">716</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3634</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3632</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

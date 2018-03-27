@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3718" Version="2.40" Area="ocean">
+  <Name>Lyanden Tomb Portico</Name>
+  <ShortDescription>You are on a floating portico just outside the Lyanden Tomb entrance.</ShortDescription>
+  <LongDescription>You hover in the air a few meters above the ground, held by magic.   
+The portico you are under shelters you somewhat from the chill wind
+and wet mist, but you cannot seriously be thinking of entering the
+tomb of the Lyanden family, can you?  Kings lie in stately rest inside,
+but surely you will disturb them if you enter.</LongDescription>
+  
+  <Established>765244598</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3334</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tomb">
+      <Keys/>
+      <Room Area="ocean">3470</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1034" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive</Name>
+  <ShortDescription>You are on Oceanview Drive, running north and south from this point.</ShortDescription>
+  <LongDescription>Oceanview Drive runs straight through the administrative section of town.
+At this point, the City Guard Barracks lie to the east and the Oceancrest
+Detention and Rehabilitation Center lies to the west.  Entrances to both
+centers are located on Rosecrest Street, which lies to the north.  Ocean-
+view continues to the north and south, heading towards Nylanden Bay and
+the commercial districts, respectively.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1033</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1035</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

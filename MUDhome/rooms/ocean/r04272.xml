@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Room Num="4272" Version="2.40a" Area="ocean">
+  <Name>Benediction Room</Name>
+  <ShortDescription>You are in the Benediction Room, just below Rutger's Throne on the balcony.</ShortDescription>
+  <LongDescription>If you are seeking to pledge your loyalty to Prince Rutger, you must first
+read the covenant you see on the altar before you.  If you still wish to
+join Rutger's Keep, climb the steps to the balcony above where you will find
+Prince Rutger waiting to receive you.</LongDescription>
+  
+  
+  
+  <Established>792810247</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">774</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects>
+    <ObjRef Num="774" Area="ocean" Version="2.40a">
+      <Name>blood covenant</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value/>
+      <Keys>
+        <Key Num="0">covenant</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+  </Objects>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4270</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="steps">
+      <Keys/>
+      <Room Area="ocean">4273</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

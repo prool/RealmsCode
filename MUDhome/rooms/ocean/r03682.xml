@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3682" Version="2.40" Area="ocean">
+  <Name>Tower Tunnel</Name>
+  <ShortDescription>This is a narrow tunnel, not quite tall enough for you to stand up.</ShortDescription>
+  <LongDescription>At times, when the tunnel twists, you can barely make it around the turn.
+The tunnel seems to have a steep slant to it, going up in the southeast
+direction and down into blackness towards the northwest.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3680</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3683</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

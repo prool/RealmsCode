@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="541" Version="2.40a" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are walking along Lelion Way, north of Danielle's Mystic Mage Emporium.</ShortDescription>
+  <LongDescription>Often considered one of the most powerful mages of modern time, Mistress
+Danielle Chanteclaire reached the status of Arch-Mage faster than any
+known previous spellcaster.  Her powers are most likely stronger than
+the Keslar Mages, but they have never had a reason to test their spell-
+casting abilities on each other.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">542</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">540</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

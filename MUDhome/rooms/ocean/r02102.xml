@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Room Num="2102" Version="2.41a" Area="ocean">
+  <Name>Reference Desk</Name>
+  <ShortDescription>You are in a plainly designed room with a number of scrolls pinned up
+along the walls.  It looks like most of these scrolls are falling apart.</ShortDescription>
+  <LongDescription>The reference desk contains a number of scrolls that are used to locate
+objects or provide information on certain items.  These scrolls, collected
+through the ages, date back to as early as the dragon scrolls of the
+Dragon's Citadel.  No doubt, there will be quite a bit of interesting
+material in here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">267</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">232</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2100</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="swinging bookcase">
+      <Keys/>
+      <Room Area="ocean">2299</Room>
+      <Key>24</Key>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

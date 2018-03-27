@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="4269" Version="2.40a" Area="ocean">
+  <Name>Stairway of the Nobles</Name>
+  <LongDescription>This is the stairway used by the castle's nobility.
+Prince Rutger occasionally joins his friends who reside on the third level
+and comes down this way, but he generally descends the east stairway which
+is reserved for the royal family.  Immediately to the south you can see the
+Grand Assembly.  On the east side, you see the room where the fallen may  
+rescind their pledge to Prince Rutger.</LongDescription>
+  
+  
+  
+  <Established>792812054</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4268</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="black door">
+      <Keys/>
+      <Room Area="ocean">4271</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">4275</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1006" Version="2.40" Area="ocean">
+  <Name>Main Street/Hillcrest Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Hillcrest Drive and Main Street.</ShortDescription>
+  <LongDescription>This is a very busy intersection.  Main Street, which continues through
+to the north and south, is the backbone for most of the commercial 
+industry in the southwestern corridor of Oceancrest.  Hillcrest 
+continues to the east and west.  To the east, you can start to make
+out the large estates which populate the richer sections of town. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1005</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1007</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1022</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1141</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

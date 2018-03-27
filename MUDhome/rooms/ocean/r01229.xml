@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<Room Num="1229" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway/Waterfront Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Lankshire Parkway and Waterfront Way.</ShortDescription>
+  <LongDescription>Waterfront Way, running east and west, intersects Lankshire Parkway,
+running north and south.  Lankshire Parkway runs from the southern City
+Wall to just past the Necropolis, located towards the geographic center
+of town.  Waterfront Way is also a long, busy street running from the
+east City Wall to the west City Wall without interruption.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">1</Mob>
+      <Mob Area="ocean" Num="2">1</Mob>
+      <Mob Area="ocean" Num="3">1</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1228</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1230</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1680</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1681</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="grate">
+      <Keys/>
+      <Room Area="ocean">240</Room>
+      <Key>4</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

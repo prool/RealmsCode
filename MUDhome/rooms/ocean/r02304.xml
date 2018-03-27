@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="2304" Version="2.40" Area="ocean">
+  <Name>Nevermore Alchemy</Name>
+  <ShortDescription>You are in an empty store known as the nevermore Alchemy Shop.</ShortDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1027</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1107</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

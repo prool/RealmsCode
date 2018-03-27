@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="3294" Version="2.40" Area="ocean">
+  <Name>Temple of Jinsuti</Name>
+  <ShortDescription>You are in a quiet temple which is dedicated to the impossible goal of peace.</ShortDescription>
+  <LongDescription>However, just because peace is impossible does not mean it should not be 
+sought.  Many legendary fighters and young knights have been in this small
+temple seeking guidance in how best to achieve the impossible.  The Jinsuti 
+Master who resides here will help you in your training.  He believes that
+peace is achieved when you have the ability to defend yourself with the
+advanced fighting techniques he advocates.</LongDescription>
+  
+  <Established>756251503</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">766</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2042</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

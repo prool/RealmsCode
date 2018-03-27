@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  unhallow spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 20
+School:  Not Castable
+Domain:  Evil
+
+The unhallow spell fills a room with an unholy aura, increasing the damage of
+all undead creatures in the room. An unhallow spell can be detected by a
+know-aura spell. Hallow cancels the effects of this spell.
+
+Syntax:
+cast unhallow

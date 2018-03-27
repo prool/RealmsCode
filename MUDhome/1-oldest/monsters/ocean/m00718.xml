@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<Creature Num="718" Area="ocean" Version="2.40">
+  <Name>Trokkawilff</Name>
+  <Class>1</Class>
+  <Level>22</Level>
+  <Type>1</Type>
+  <Experience>2600</Experience>
+  <Coins>
+    <Coin Num="2">1000</Coin>
+  </Coins>
+  <Alignment>-100</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>240</Current>
+      <Max>240</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>240</Current>
+      <Max>240</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>240</Current>
+      <Max>240</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>350</Current>
+      <Max>350</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>Trokkawilff's shade smiles evilly as he stands between you and the door.</Description>
+  <Keys>
+    <Key Num="0">trokkawilff</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>750</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>4</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>ah, you can see me!  Good.  That means you can feel me also</Talk>
+  <DefenseSkill>215</DefenseSkill>
+  <AttackPower>588</AttackPower>
+  <WeaponSkill>215</WeaponSkill>
+  <CarriedItems/>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects>
+    <Effect>
+      <Name>invisibility</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+    <Effect>
+      <Name>detect-invisible</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+  </Effects>
+  <SpecialAttacks>
+    <SpecialAttack>
+      <Name>Gas Breath</Name>
+      <Verb>breathed gas on</Verb>
+      <TargetStr>^G*ATTACKER* breathes poisonous gas on you!*CR*You take ^g*DAMAGE*^G damage!^x</TargetStr>
+      <TargetFailStr></TargetFailStr>
+      <RoomFailStr></RoomFailStr>
+      <SelfStr></SelfStr>
+      <RoomStr>^G*ATTACKER*'s poisonous breath fills the room!^x</RoomStr>
+      <TargetSaveStr>^cYou manage to hold your breath, coughing erratically.^x</TargetSaveStr>
+      <SelfSaveStr></SelfSaveStr>
+      <RoomSaveStr></RoomSaveStr>
+      <Limit>0</Limit>
+      <Delay>60</Delay>
+      <Chance>20</Chance>
+      <StunLength>0</StunLength>
+      <Type>10</Type>
+      <SaveType>2</SaveType>
+      <SaveBonus>0</SaveBonus>
+      <MaxBonus>0</MaxBonus>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="25"/>
+      </Flags>
+      <Dice>
+        <Number>22</Number>
+        <Sides>2</Sides>
+        <Plus>1</Plus>
+      </Dice>
+    </SpecialAttack>
+  </SpecialAttacks>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="12"/>
+    <Bit Num="18"/>
+    <Bit Num="34"/>
+    <Bit Num="37"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="20"/>
+    <Bit Num="26"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

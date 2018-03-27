@@ -1,0 +1,68 @@
+;The Realms of Hell Configuration File
+eggdrop=no
+broadcast=yes
+logdeath=yes
+autoshutdown=no
+gethostbyname=yes
+crashtrap=yes
+;Log off ppl who are 2x logging or just log it so we can
+;jail em later
+checkdouble=no
+nopkincombat=yes
+lessexploss=yes
+niceexp=yes
+record_all=no
+sched=no
+suicide=yes
+saveondrop=yes
+showlvlonwhois=yes
+noinvoke=yes
+jackpot=10000
+lottoticketvalue=100
+maxstorage=999
+
+authorization_questions_email=realms@rohonline.org
+questions_to_email=realms@rohonline.org
+register_questions_email=realms@rohonline.org
+account_exists=Your account already exists in hell.
+
+dm_password=RedHat5.1
+[Ansi]
+dmlinecolor=green
+wizcolor=yellow
+promptcolor=white
+itemcolor=yellow
+creaturecolor=magenta
+clancolor=magenta
+eavescolor=cyan
+
+[Weather]
+sunrise=The sun rises.
+sunset=Derlith is engulfed by the night.
+
+Earth_trembles=The earth rumbles beneath you.
+Heavy_fog=A heavy fog engulfs the docks of Highport.
+
+Beautiful_day=Clouds cover the sun today.
+Bright_sun=The sun shines across the land.
+Glaring_sun=Waves of blistering heat blow in from the Kakkara desert.
+Heat=The hot day brings forth the stench of the fallen.
+
+Still=The air is chillingly calm and quiet.
+Light_breeze=A cold wind sweeps down out of the Dragonhold Mountains.
+Strong_wind=Strong winds cross the Baladus Plains.
+Wind_gusts=Screams of the dead can be heard on the wind.
+Gale_force=Gale force winds blow in from Crystal Bay.
+
+Clear_skies=The sky is clear blue from horizon to horizon.
+Light_clouds=Light clouds cover the peaks of the Firedrake Mountains.
+Thunderheads=Thunderstorms drench the Baladus Plains.
+Light_rain=A light drizzle covers weary travelers.
+Heavy_rain=Blood falls from the sky in the Blood Steppes.
+Sheets_rain=Sheets of chilling rain fall from the sky.
+Torrent_rain=Torrential rains pour from the heavens.
+No_moon=The moon is swallowed by the night.
+Sliver_moon=Howls of werewolves can be heard from the hills.
+Half_moon=Demons scream at the half moon in the night sky.
+Waxing_moon=A blood red moon lights the night sky.
+Full_moon=A full moon illuminates the night.

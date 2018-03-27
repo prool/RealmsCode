@@ -1,0 +1,9 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  petrification      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+A petrification attack is a special ability that will instantly turn your
+character into stone. You will be unable to do anything to save yourself;
+one of your comrades must cast a stone-to-flesh spell on you. Your hitpoints
+will slowly decrease from the moment you are petrified. If you die while a
+statue, your entire inventory will be destroyed.

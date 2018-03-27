@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1887" Version="2.40" Area="ocean">
+  <Name>The Invisible Hand</Name>
+  <ShortDescription>The Invisible Hand is a low-end thieve's guild hidden from plain sight.</ShortDescription>
+  <LongDescription>The small, cramped guild is filled with all sorts of weapons and other
+junk.  It looks like they'll fence any of the booty you've recovered
+during your conquests in exchange for gold.  You had better make sure
+that you only left the things you want to leave behind.  You never know
+who might be picking your pocket.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="49"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1119</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="guild">
+      <Keys/>
+      <Room Area="ocean">3905</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

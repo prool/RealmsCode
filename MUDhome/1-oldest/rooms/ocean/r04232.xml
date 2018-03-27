@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="4232" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>This is the ground floor of the castle, and you are at the northwest corner.</ShortDescription>
+  <LongDescription>The nobility of the castle maintains rooms and apartments along this northern
+hallway.  Rutger and his family live on the fourth floor, and many of his
+closest advisors and friends are housed on the third floor.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4231</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4233</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

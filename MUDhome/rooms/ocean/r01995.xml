@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1995" Version="2.40" Area="ocean">
+  <Name>Path West of the Manor</Name>
+  <ShortDescription>You are on the path that runs around the western side of the Manor.</ShortDescription>
+  <LongDescription>The path ends at the front door of the Mausoleum.  It is a large, stone
+door that doesn't seem to want to budge.  There is a small window that
+you can look into.  The Mausoleum is pretty small and holds but a single
+coffin in the center of the room.  Other than that, the room is virtually
+empty, with a few pictures lying thrown about.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1994</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1996</Room>
+      <Key>7</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

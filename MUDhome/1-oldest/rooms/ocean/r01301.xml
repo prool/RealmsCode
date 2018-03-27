@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1301" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along a relatively quiet stretch of Riverdell Way.</ShortDescription>
+  <LongDescription>Riverdell Way runs north and south through most of the eastern section
+of Oceancrest.  To the west, you can see a dense forest area that doesn't
+look inhabitable.  To the east, you can see the East Oceancrest City
+Guard Barracks, where a good portion of the guards are stationed.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1300</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1302</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

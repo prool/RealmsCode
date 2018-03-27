@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="164" Version="2.40" Area="ocean">
+  <Name>Taragon Road</Name>
+  <ShortDescription>You are walking on Taragon Road near a boarded up old house.</ShortDescription>
+  <LongDescription>There is a ladder leaning against the village wall and it looks as though you
+could make it to the top easily.  Why anyone other than the militia might
+want to do that is another matter.   Taragon Road continues to the north
+and south from here.  A trickle of sewage disappears into a street drain.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">3</Mob>
+      <Mob Area="ocean" Num="3">2</Mob>
+      <Mob Area="ocean" Num="4">5</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">159</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">169</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

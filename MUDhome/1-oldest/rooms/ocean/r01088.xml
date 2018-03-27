@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1088" Version="2.40a" Area="ocean">
+  <Name>Hafnia Way</Name>
+  <ShortDescription>You are on a short road called Hafnia Way between Golden Dolphin Way on the
+south, and Waterfront Way on the north.</ShortDescription>
+  <LongDescription>A short way to the north, on the east side of Hania Way, is a large vacant
+area that was once part of the DeNail corn field, but is now used by
+merchants to assemble caravans to take supplies out of the city.  A camel
+lot creates quite a smell.  There are a number of brightly colored tents
+there, with banners snapping in the breeze.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1089</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1087</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

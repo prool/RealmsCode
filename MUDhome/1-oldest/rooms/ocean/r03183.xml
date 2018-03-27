@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3183" Version="2.40" Area="ocean">
+  <Name>Surf Below the Sea Cliffs</Name>
+  <ShortDescription>You are in a pounding surf below the sea cliffs.</ShortDescription>
+  <LongDescription>The cliffs are not as tall at this point, but they are very steep and
+impossible to climb.  The direction of the tide has changed, and seems
+to be pulling you north, in the direction of rocks and cliffs.  It's
+almost as if there is a passage for the water straight into the rocks.</LongDescription>
+  
+  <Established>756113240</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">289</Mob>
+      <Mob Area="ocean" Num="1">385</Mob>
+      <Mob Area="ocean" Num="2">304</Mob>
+      <Mob Area="ocean" Num="3">293</Mob>
+      <Mob Area="ocean" Num="4">289</Mob>
+      <Mob Area="ocean" Num="5">304</Mob>
+      <Mob Area="ocean" Num="6">300</Mob>
+      <Mob Area="ocean" Num="7">289</Mob>
+      <Mob Area="ocean" Num="8">293</Mob>
+      <Mob Area="ocean" Num="9">293</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3184</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3182</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

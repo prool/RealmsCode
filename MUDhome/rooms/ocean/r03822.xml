@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="3822" Version="2.40" Area="ocean">
+  <Name>Small Ring</Name>
+  <ShortDescription>You are standing in the middle of the rightmost ring of the Carnival.</ShortDescription>
+  <LongDescription>You are standing in the center of the right ring, among several acrobat
+and clowns.  Soon you get in the mood to amuse people and start doing 
+what the others do.  The audience is very excited and shows you with 
+its thundering applause that you could be as good a clown as you are an 
+adventurer.  You, yourself, notice for the first time how good you are in
+standing on your head.  The whole world seem to be in your feet and you
+have reached the top of it...</LongDescription>
+  
+  <Established>765770535</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3826</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3823</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3821</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

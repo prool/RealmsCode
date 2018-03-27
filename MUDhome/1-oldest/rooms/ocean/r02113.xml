@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="2113" Version="2.40" Area="ocean">
+  <Name>Mehetable's Apple Orchid</Name>
+  <ShortDescription>You are in a well tended apple orchid, owned by Mehetable the Witch.</ShortDescription>
+  <LongDescription>Mehetable refuses to let young men court her beautiful daughters, waiting
+for the three sons of Trantori to return from their adventures in the east.
+She owes Trantori a favor, and has promised him wives for his sons.
+The path leads back to Lelion Way, but under the bridge there.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>path</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2112</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2115</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2116</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="path">
+      <Keys/>
+      <Room Area="ocean">1918</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="5071" Version="2.40" Area="ocean">
+  <Name>Very light Clouds</Name>
+  <ShortDescription>You may break out of the clouds at any moment, from the looks of the light.</ShortDescription>
+  <LongDescription>Actually, the light filtering through makes the clouds look like cotton
+candy, but the similarity ends there.  You can sense the unease of the
+great dragon between your legs everytime you enter these forbidding areas.</LongDescription>
+  
+  <Established>772843527</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>left</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">5072</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right">
+      <Keys/>
+      <Room Area="ocean">5067</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="forward">
+      <Keys/>
+      <Room Area="ocean">5070</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

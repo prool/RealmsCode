@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="3736" Version="2.40" Area="ocean">
+  <Name>Dragon Tooth Inn Public Room</Name>
+  <ShortDescription>You are on the west side of the Dragon Tooth Inn in the public room.</ShortDescription>
+  <LongDescription>This is a nice, quiet little bar devoted to serious drinking.  As long as
+you are not loud, you can get as drunk as you please in here.  There are
+a number of officers from the city guard in here, each sitting alone and
+drinking at a steady rate.  Must be something about the job, eh?  The new
+owner of the Dragon Tooth Inn, a half-giant named Tharonwold, spends his
+time here serving drinks.  He's been known to take one or two himself.</LongDescription>
+  
+  <Established>764467016</Established>
+  <Flags>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">174</Mob>
+      <Mob Area="ocean" Num="1">335</Mob>
+      <Mob Area="ocean" Num="2">336</Mob>
+      <Mob Area="ocean" Num="3">335</Mob>
+      <Mob Area="ocean" Num="4">336</Mob>
+      <Mob Area="ocean" Num="5">267</Mob>
+      <Mob Area="ocean" Num="6">202</Mob>
+      <Mob Area="ocean" Num="7">80</Mob>
+      <Mob Area="ocean" Num="8">79</Mob>
+      <Mob Area="ocean" Num="9">64</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">555</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1039</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3737</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

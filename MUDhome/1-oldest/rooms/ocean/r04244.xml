@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="4244" Version="2.40a" Area="ocean">
+  <Name>Main Courtyard - Center South</Name>
+  <ShortDescription>You are between the southern part of the courtyard and the center pool.</ShortDescription>
+  <LongDescription>The reflecting pool to the north is a quiet place where some of the older
+knights occasionally counsel the younger ones.  The pool is known to have
+curative powers, and even the near-dead who have been brought to it have
+been restored to full health.  On the south side you see a heavy equipment
+storage area.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4241</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4245</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4248</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4240</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

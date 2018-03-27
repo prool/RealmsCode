@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3457" Version="2.40" Area="ocean">
+  <Name>Descent into the Onydonn Caverns</Name>
+  
+  <Established>760060930</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3456</Room>
+      <Flags>
+        <Bit Num="8"/>
+      </Flags>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3458</Room>
+      <Flags>
+        <Bit Num="9"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

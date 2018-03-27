@@ -1,0 +1,19 @@
+Help on: *spelling
+
+This command allows all people building rooms to spellcheck
+their descriptions, and also to get a list of possible
+replacement words if desired. DMs and CTs are also able to
+add new words to the RoH dictionary.
+
+Syntax: *spelling check [-s|-l|-a]
+        *spelling learn <word>
+
+-s: checks short description for misspellings.
+-l: checks long description for misspellings.
+-a: advises replacement words for found misspellings.
+
+Default with no switches will spellcheck both long and short
+descriptions. Currently, the -s and -l switches do not work. 
+In addition, right now it will consider strange punctuation, 
+as well as items in quotes as misspelled. This will be 
+rectified eventually.

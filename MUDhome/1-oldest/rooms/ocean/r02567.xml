@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2567" Version="2.40" Area="ocean">
+  <Name>Evan's Quarters</Name>
+  <ShortDescription>You are in the private quarters of Evan the Most Magnificient. </ShortDescription>
+  <LongDescription>Actually, Evan gave himself the title since no one else ever considered
+giving him one.  Evan probably could have been a better than average mage,
+but he had an opportunity to open this shop and became too interested in
+making money.  It's a decision he regrets every day.</LongDescription>
+  
+  <Established>788556052</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">737</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3292</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

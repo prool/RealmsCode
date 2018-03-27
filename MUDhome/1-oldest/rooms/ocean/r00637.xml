@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="637" Version="2.40a" Area="ocean">
+  <Name>Necropolis Avenue/Hillborough Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Hillborough Way and Necropolis Avenue.</ShortDescription>
+  <LongDescription>Hillborough Way, running east and west, intersects Necropolis Avenue,
+running north and south, at this rather busy intersection.  To the south,
+you can make out the Harvest Circle, connecting Necropolis Avenue with 
+Oceancrest Avenue in the center of the town.  There are numerous shops on
+the west side of the intersection, and a magic shop on the northeast 
+corner.  The Shrines of Life and Death are located to the southeast.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">636</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">638</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">709</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">710</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

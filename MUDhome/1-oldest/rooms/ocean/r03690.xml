@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="3690" Version="2.40" Area="ocean">
+  <Name>Circular Well</Name>
+  <LongDescription>You are on a rough but narrow ledge inside a circular well.
+A small door is directly above your head, but it would be really difficult
+to climb up there.  The narrow ledge has a few broken places in it, so be
+careful where you step.  You wouldn't want to fall into the well.  It's
+probably a long, long way down.</LongDescription>
+  
+  <Established>797042818</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">380</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3676</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3689</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3691</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

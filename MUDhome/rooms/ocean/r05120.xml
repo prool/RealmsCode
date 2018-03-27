@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="5120" Version="2.40" Area="ocean">
+  <Name>Dark Tempest Over Castle Kayleigh</Name>
+  <ShortDescription>You are in a swirling dark tempest over the burned Castle Kayleigh.</ShortDescription>
+  <LongDescription>From this height you can see that only a single turreted tower remains
+standing in the fire-blackened ruin.  However, the stone deck of the tower
+looks quite sturdy, and big enough for the copper dragon to land.  Odd,
+but there's not a tree or bush within a mile of the old castle.  The moat
+is still there, but the drawbridge burned away long ago.  Looks like the
+only entrance is by air.</LongDescription>
+  
+  <Established>773337142</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">5044</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right">
+      <Keys/>
+      <Room Area="ocean">5044</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="forward">
+      <Keys/>
+      <Room Area="ocean">5045</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5122</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

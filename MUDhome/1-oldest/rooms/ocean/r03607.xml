@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3607" Version="2.40a" Area="ocean">
+  <Name>Main Courtyard Anteroom</Name>
+  <ShortDescription>You are in an open-air anteroom leading to Castle Ragnar's courtyard.</ShortDescription>
+  <LongDescription>Massive columns support great beams overhead, providing a solid foundation
+for the upper reaches of the castle above you.  To the south is the open air
+courtyard, a huge flagstone and quarried marble assembley area.  Going north
+from here will take you to the main gate of Castle Ragnar.</LongDescription>
+  
+  <Established>762644833</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3604</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3616</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3615</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3624</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

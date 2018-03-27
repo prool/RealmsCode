@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="1375" Version="2.40" Area="ocean">
+  <Name>End of the Hall</Name>
+  <ShortDescription>You are at the end of the hallway.  There is a large door in front of you.</ShortDescription>
+  <LongDescription>You have come to a large door that blocks your entrance to whatever's
+behind it.  There is a large padlock on the door.  It looks like it's
+used quite often, but you don't see anyone around right now.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">131</Mob>
+      <Mob Area="ocean" Num="1">131</Mob>
+      <Mob Area="ocean" Num="2">151</Mob>
+      <Mob Area="ocean" Num="3">151</Mob>
+      <Mob Area="ocean" Num="4">151</Mob>
+      <Mob Area="ocean" Num="5">151</Mob>
+      <Mob Area="ocean" Num="6">152</Mob>
+      <Mob Area="ocean" Num="7">152</Mob>
+      <Mob Area="ocean" Num="8">152</Mob>
+      <Mob Area="ocean" Num="9">152</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1374</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1388</Room>
+      <Key>17</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

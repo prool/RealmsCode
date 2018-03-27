@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="749" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are walking along Wakeforest Drive, west of the Dragon's Citadel.</ShortDescription>
+  <LongDescription>The Dragon's Citadel is filled with both mystery and danger.  Although
+it has long been thought to have been abandoned, strange sounds are often
+heard from it at night.  The entrance to the Citadel is located along
+Neilian Drive.  On the west side of the road are a number of governmental
+building, the entrance to which are located on the other side of the
+building along Ministry Way.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">748</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">750</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

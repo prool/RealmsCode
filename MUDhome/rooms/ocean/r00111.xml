@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="111" Version="2.40" Area="ocean">
+  <Name>Nathan Drive</Name>
+  <ShortDescription>You are near the southwest corner of the village.</ShortDescription>
+  <LongDescription>You are also just south of a string of expensive little shops, where you
+can buy most anything if you have the gold.  Directly north of you is a
+jewelry shop.  Next door is a shop which is known to specialize in footwear
+for all races.  The shop belongs to a very old hobbitish shoemaker.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">110</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">112</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="bootery">
+      <Keys/>
+      <Room Area="ocean">28</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

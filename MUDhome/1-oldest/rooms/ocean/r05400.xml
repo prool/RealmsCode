@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5400" Version="2.40" Area="ocean">
+  <Name>Forest Road</Name>
+  <ShortDescription>You are on a country road just north of a major intersection of roads.</ShortDescription>
+  <LongDescription>There are pleasant sounds from the forest around you, and although the
+trees appear thick and forbidding, everything looks normal enough.  The
+road could use a little work, as it seems the winter's rain has left its
+mark and cut a few channels across it.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5313</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5401</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

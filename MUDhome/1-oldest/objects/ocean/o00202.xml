@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="202" Area="ocean" Version="2.40">
+  <Name>lantern</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>120</ShotsMax>
+  <ShotsCur>120</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">50</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="11"/>
+  </Flags>
+  <Description>It's a handy, little brass lantern with enough oil to last a short while.</Description>
+  <Weight>4</Weight>
+  <Type>13</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

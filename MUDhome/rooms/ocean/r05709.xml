@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5709" Version="2.40" Area="ocean">
+  <Name>Boran Street</Name>
+  <ShortDescription>You are in the nicer section of Phexton Village, on Boran Street.</ShortDescription>
+  <LongDescription>Clean shops and a village meeting hall are on the west side of Boran Street.
+This small village for large people is built on the side of a mountain,
+and is surrounded by sloping fields and gulleys.  Some of the buildings
+on the west side of the street seem to cantilever over steep slopes.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5708</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5710</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

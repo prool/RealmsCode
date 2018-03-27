@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  touch          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The touch of death is a ability monks gain once they reach a level of 10. It
+allows them to do damage beyond that of a normal hit and sometimes may fatally
+wound a opponent to death.
+
+Example:
+: touch win
+You fatally wound the wino.
+You killed the wino.
+You gained 6 experience for the death of the wino.
+:

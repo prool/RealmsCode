@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="242" Version="2.40" Area="ocean">
+  <Name>Valve chamber</Name>
+  <ShortDescription>This is one of the sewer's many valve chambers.</ShortDescription>
+  <LongDescription>There are dozens of valves along the southern wall of the room.  You
+have no idea what parts of the sewer they might open (if any at all).</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">40</Mob>
+      <Mob Area="ocean" Num="1">42</Mob>
+      <Mob Area="ocean" Num="2">43</Mob>
+      <Mob Area="ocean" Num="3">43</Mob>
+      <Mob Area="ocean" Num="4">45</Mob>
+      <Mob Area="ocean" Num="5">43</Mob>
+      <Mob Area="ocean" Num="6">43</Mob>
+      <Mob Area="ocean" Num="7">46</Mob>
+      <Mob Area="ocean" Num="8">46</Mob>
+      <Mob Area="ocean" Num="9">46</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">241</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

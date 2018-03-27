@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1061" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, directly west of the Millwood Mayor's Office.</ShortDescription>
+  <LongDescription>The Millwood Memorial Mayor's Office is the seat of power for most of
+the domestic affairs with regards to the city.  Of course, Lyanden Castle 
+is the real center of power for the City of Oceancrest, but the mayor's job
+is to keep the peace and provide for domestic tranquility.  Rosecrest
+Street takes a turn towards the northeast as it approaches Nylandian Bay.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">267</Mob>
+      <Mob Area="ocean" Num="1">267</Mob>
+      <Mob Area="ocean" Num="2">267</Mob>
+      <Mob Area="ocean" Num="3">267</Mob>
+      <Mob Area="ocean" Num="4">267</Mob>
+      <Mob Area="ocean" Num="5">267</Mob>
+      <Mob Area="ocean" Num="6">267</Mob>
+      <Mob Area="ocean" Num="7">267</Mob>
+      <Mob Area="ocean" Num="8">267</Mob>
+      <Mob Area="ocean" Num="9">267</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1060</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1062</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1965</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

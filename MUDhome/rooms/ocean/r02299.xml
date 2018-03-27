@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Room Num="2299" Version="2.41a" Area="ocean">
+  <Name>The Great Library Basement</Name>
+  <ShortDescription>It is very dark in the basement of this large building.  Who knows what
+might have been forgotten down here in the dusty rows of books.</ShortDescription>
+  <LongDescription>As you blow off the dust on the various tomes and books in the basement,
+you can clearly see that no one has been here in ages.  Some of the books
+crumble apart as soon as you touch them.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">61</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects>
+    <ObjRef Num="61" Area="ocean" Version="2.41a">
+      <Name>burnt scroll</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsMax>1</ShotsMax>
+      <ShotsCur>1</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">15</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">scroll</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+  </Objects>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2102</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

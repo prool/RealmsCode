@@ -1,0 +1,11 @@
+Help on DM command:
+	MOVE
+
+Moves a player who is not logged in to the designated room.
+
+: *move min 50
+Player Min moved to location 50
+: ### Min the Halfling Pickpocket just logged in. (50)
+: *move min 2000
+Min is already logged on, use *Teleport!
+

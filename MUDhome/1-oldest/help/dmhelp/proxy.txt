@@ -1,0 +1,11 @@
+Help on: *proxy
+
+This command allows a DM or CT to set a player up to where
+they are flagged to be using a network/same IP proxy for
+multi-logging purposes. It can be done to a player whether
+they are on or off line.
+
+Syntax:
+: *proxy bob
+Bob is now allowed to multi-log for proxy purposes.
+

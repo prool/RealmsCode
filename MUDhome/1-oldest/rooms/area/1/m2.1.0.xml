@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<AreaRoom>
+  <Unique Area="ocean">1784</Unique>
+  <MapMarker>
+    <Area>1</Area>
+    <X>2</X>
+    <Y>1</Y>
+  </MapMarker>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <AreaRoom>
+        <Area>1</Area>
+        <X>2</X>
+        <Y>2</Y>
+      </AreaRoom>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <AreaRoom>
+        <Area>1</Area>
+        <X>3</X>
+        <Y>1</Y>
+      </AreaRoom>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <AreaRoom>
+        <Area>1</Area>
+        <X>2</X>
+      </AreaRoom>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <AreaRoom>
+        <Area>1</Area>
+        <X>1</X>
+        <Y>1</Y>
+      </AreaRoom>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <AreaRoom>
+        <Area>1</Area>
+        <X>3</X>
+        <Y>2</Y>
+      </AreaRoom>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <AreaRoom>
+        <Area>1</Area>
+        <X>1</X>
+        <Y>2</Y>
+      </AreaRoom>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <AreaRoom>
+        <Area>1</Area>
+        <X>3</X>
+      </AreaRoom>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <AreaRoom>
+        <Area>1</Area>
+        <X>1</X>
+      </AreaRoom>
+      <Flags/>
+    </Exit>
+  </Exits>
+</AreaRoom>

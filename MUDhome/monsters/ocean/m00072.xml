@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<Creature Num="72" Area="ocean" Version="2.40">
+  <Name>soothsayer</Name>
+  <Level>2</Level>
+  <Type>1</Type>
+  <Experience>15</Experience>
+  <Coins/>
+  <Alignment>100</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>80</Current>
+      <Max>80</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>80</Current>
+      <Max>80</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>50</Current>
+      <Max>50</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>18</Current>
+      <Max>18</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>10</Current>
+      <Max>10</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see an old man telling fortunes.</Description>
+  <Keys>
+    <Key Num="0">soothsayer</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>50</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>1</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>Beware the ides of march</Talk>
+  <DefenseSkill>15</DefenseSkill>
+  <AttackPower>100</AttackPower>
+  <WeaponSkill>15</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">36</Carry>
+    <Carry Area="ocean" Num="1">36</Carry>
+    <Carry Area="ocean" Num="2">36</Carry>
+    <Carry Area="ocean" Num="3">37</Carry>
+    <Carry Area="ocean" Num="4">36</Carry>
+    <Carry Area="ocean" Num="5">47</Carry>
+    <Carry Area="ocean" Num="6">50</Carry>
+    <Carry Area="ocean" Num="7">53</Carry>
+    <Carry Area="ocean" Num="8">54</Carry>
+    <Carry Area="ocean" Num="9">55</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="0"/>
+    <Bit Num="1"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="10"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

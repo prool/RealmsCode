@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1990" Version="2.40" Area="ocean">
+  <Name>Path To The Manor</Name>
+  <ShortDescription>You are on the brick path that leads straight up to the front door.</ShortDescription>
+  <LongDescription>The Manor looks much bigger than it did from the road.  The creaky wood
+that has deteriorated over the many years looks like it might fall apart
+if you sneeze in just the right direction.  There is a door directly to
+the west of you that obviously leads into the creepy manor itself.  You
+have to keep saying to yourself, it's just an old house, nothing more...</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1989</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">200</Room>
+      <Key>1</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="364" Version="2.40" Area="ocean">
+  <Name>Red House Veranda</Name>
+  <ShortDescription>You are on a wide and comfortable veranda of a big, red painted house.</ShortDescription>
+  <LongDescription>The main room is through the wide entry to the north, while a broad and
+winding stairway goes to the upstairs area of the house.  Several women
+and rough looking men are in animated conversations around you, and a 
+small dwarf makes his way through the crowd carrying a tray of drinks.</LongDescription>
+  
+  <Established>760503866</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">541</Mob>
+      <Mob Area="ocean" Num="1">541</Mob>
+      <Mob Area="ocean" Num="2">541</Mob>
+      <Mob Area="ocean" Num="3">77</Mob>
+      <Mob Area="ocean" Num="4">77</Mob>
+      <Mob Area="ocean" Num="5">77</Mob>
+      <Mob Area="ocean" Num="6">77</Mob>
+      <Mob Area="ocean" Num="7">77</Mob>
+      <Mob Area="ocean" Num="8">522</Mob>
+      <Mob Area="ocean" Num="9">522</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>entry</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="road">
+      <Keys/>
+      <Room Area="ocean">363</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="entry">
+      <Keys/>
+      <Room Area="ocean">192</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

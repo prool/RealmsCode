@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="3626" Version="2.40" Area="ocean">
+  <Name>Courtyard</Name>
+  <ShortDescription>You are on a walkway reserved for the Prince and his administration.</ShortDescription>
+  <LongDescription>The walkway leads to the reviewing stand to the north and the center to
+the Lyanden Statue in the south.  When the troops are assembled for
+inspection and the Prince comes from the eastern arch, this walkway is
+cordoned off and guards are stationed shoulder-to-shoulder along here.
+The walkway is at least 30 meters across, and is open to the sky above.
+As you look up you marvel at the heights of the towers rising into the
+clouds above.  On the east side one tower in particular stands alone.</LongDescription>
+  
+  <Established>762645836</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3625</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3619</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3635</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3634</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="statue">
+      <Keys/>
+      <Room Area="ocean">3627</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

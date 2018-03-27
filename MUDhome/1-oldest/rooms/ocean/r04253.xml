@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="4253" Version="2.40" Area="ocean">
+  <Name>Bombardier's Quarters</Name>
+  <ShortDescription>You are in the barracks of the bombardiers, a group of wall defenders.</ShortDescription>
+  <LongDescription>The bombardiers are specially trained to man the heavy equipment stationed
+on the upper battlements.  These fighters handle the catapults and boil
+the oil which gets poured over the side in case the castle is attacked.</LongDescription>
+  
+  <Flags>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">775</Mob>
+      <Mob Area="ocean" Num="1">775</Mob>
+      <Mob Area="ocean" Num="2">775</Mob>
+      <Mob Area="ocean" Num="3">778</Mob>
+      <Mob Area="ocean" Num="4">778</Mob>
+      <Mob Area="ocean" Num="5">778</Mob>
+      <Mob Area="ocean" Num="6">778</Mob>
+      <Mob Area="ocean" Num="7">778</Mob>
+      <Mob Area="ocean" Num="8">778</Mob>
+      <Mob Area="ocean" Num="9">778</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4215</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

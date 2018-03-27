@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="582" Area="ocean" Version="2.40">
+  <Name>elven staff of light</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">3000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">staff</Key>
+    <Key Num="1">light</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="2"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The end of this staff pulsates with a warm red glow.</Description>
+  <UseOutput>You light the staff and hold it.</UseOutput>
+  <Weight>3</Weight>
+  <Type>13</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

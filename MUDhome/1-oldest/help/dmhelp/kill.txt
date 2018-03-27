@@ -1,0 +1,43 @@
+Help on DM command:
+	KILL [player] [flag]
+
+Reduces targets HP and MP to 1 each. Each *kill command works differently
+as described by the chart below. Each command can take two optional
+tags: -s (for silent) and -u (for unconsciousness). If -u is specified,
+a duration for the unconsciousness should be specified after it.
+
+                    A = All players         ^rX^x = Don't send to Limbo
+                    R = Everyone in Room
+
+ Flag        Shortcut     Death String                   Color
+.------------------------------------------------------------------------.
+|           | *kill      | strike with lightning        | ^rRed^x        |   |
+| -rape     | *rape      | raped by gods                | ^mMagenta^x    | ^rX^x |
+| -combust  | *combust   | spontaneously combust        | ^rRed^x        |   |
+| -slime    | *slime     | dissolve by green slime      | ^gGreen^x      |   |
+| -gnat     | *gnat      | ravenous gnats               | ^mMagenta^x    |   |
+| -trip     | *trip      | slip on a banana peel        | ^yYellow^x     |   |
+| -bomb     | *bomb      | explode                      | ^rRed^x        | R |
+| -nuclear  | *nuke      | nuclear meltdown             | ^gGreen^x      | R |
+| -arma     | *arma      | freak meteor shower          |            | A |
+| -igmoo    | *igmoo     | disintegrate by Igmoo        |            | A |
+| -drain    | *drain     | drain life force             | ^cCyan^x       | ^rX^x |
+| -crush    | *crush     | crush by stone slab          | ^cCyan^x       |   |
+| -missile  | *missile   | hit by cruise missile        | ^rRed^x        |   |
+.------------------------------------------------------------------------.
+
+
+Examples:
+: *kill bob
+### Sadly, Bob has been incinerated by lightning from the heavens!
+: *kill bob -nuclear
+### Sadly, Bob was killed in a nuclear explosion.
+### Sadly, Boba was killed by Bob's radiation.
+: *arma
+### Sadly, Boba was killed by a freak meteor shower.
+### Sadly, Bob was killed by a freak meteor shower.
+: *kill -armageddon
+### Sadly, Boba was killed by a freak meteor shower.
+### Sadly, Bob was killed by a freak meteor shower.
+:
+

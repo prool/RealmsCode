@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="1977" Version="2.40" Area="ocean">
+  <Name>Ivanhouse Sporting Arena - Beginner's Circle</Name>
+  <ShortDescription>You are in the Beginner's Circle in the Ivanhouse Sporting Complex.</ShortDescription>
+  <LongDescription>The Ivanhouse Sporting Arena is designed for more one-on-one combat with
+equally matched opponents.  The Beginner's Circle allows you, with up to
+two of your comrades, to take on a human gladiator.  The gladiator is
+tough, but you have a three-to-one advantage on him.  If this isn't
+enough, you can always run away very quickly.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="16"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">247</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1976</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

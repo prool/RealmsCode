@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2114" Version="2.40" Area="ocean">
+  <Name>Mehetable's Apple Orchid</Name>
+  <LongDescription>You are in an apple orchid which is tended by Mehetable and her daughters.
+The ancient crone lives in the largest of the huts you see at the east
+end of the orchid.  Each of her three beautiful daughters lives in a
+separate hut near her.  There are some very special trees growing by the
+huts.  Mehetable and her daughters take very good care of this grove.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2112</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2115</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

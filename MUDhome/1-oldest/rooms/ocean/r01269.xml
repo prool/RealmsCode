@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="1269" Version="2.40" Area="ocean">
+  <Name>Entrance to Deneb's Tomb</Name>
+  <ShortDescription>You are at the tomb of Deneb, founding mage of Keslar.</ShortDescription>
+  <LongDescription>You are in a small, crowded passageway.  Only a couple people can fit
+in here at once.  To the west, you can see the great tomb of Deneb,
+the founding mage of Keslar.  Deneb was the first human to master 
+the art of magic from the elves.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">164</Mob>
+      <Mob Area="ocean" Num="1">164</Mob>
+      <Mob Area="ocean" Num="2">164</Mob>
+      <Mob Area="ocean" Num="3">164</Mob>
+      <Mob Area="ocean" Num="4">164</Mob>
+      <Mob Area="ocean" Num="5">164</Mob>
+      <Mob Area="ocean" Num="6">164</Mob>
+      <Mob Area="ocean" Num="7">164</Mob>
+      <Mob Area="ocean" Num="8">164</Mob>
+      <Mob Area="ocean" Num="9">164</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1268</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1270</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="cave">
+      <Keys/>
+      <Room Area="ocean">1271</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

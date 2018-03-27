@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="307" Version="2.40" Area="ocean">
+  <Name>Advanced Paladin Training Area</Name>
+  <ShortDescription>This is the temporary training location for all paladins level ten and 
+above.  This facility may be completed at any time, so some paladins may
+have to fight for their advancement.  </ShortDescription>
+  <LowLevel>9</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">290</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

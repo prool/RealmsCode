@@ -1,0 +1,27 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  Werewolf         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Prime Requisites: Strength, Constitution
+Compatible Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The werewolf is the render of flesh, the bane of mankind, and the creature of
+the full moon. Werewolves often travel in packs in order to hunt their victims.
+Werewolves are magical in nature, and thus are not harmed by traditional
+weapons and attack techniques. Magic spells or enchanted weapons are required
+to harm them. A werewolf never attacks with weapons, except on very rare
+occasions. Instead, he uses powerful jaws and razor sharp claws to attack his
+victims, rending them to a bloody pulp. A werewolf is able to fight in a wild
+frenzy, attacking in a whirlwind to destroy his enemies. He may also maul his
+victim, knocking him to the ground and rendering him helpless to fight back
+for a time. Possessing a keen sense of smell, a werewolf is able even to
+detect invisible opponents in his midst. Werewolves are also faster healers
+then most, owing to their wild nature. No organization across Derlith will
+accept a werewolf into their ranks. Just as well, a werewolf wants nothing
+to do with any order but his own pack, and he will generally shun all
+civilization. It is also well known throughout Derlith that werewolves detest
+vampires and will kill them on sight.
+
+Abilities: Frenzy, Maul, Howl, Track, Pack Damage Bonus

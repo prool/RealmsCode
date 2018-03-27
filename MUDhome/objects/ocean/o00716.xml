@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="716" Area="ocean" Version="2.40">
+  <Name>t-rex claw</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>120</ShotsMax>
+  <ShotsCur>120</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>3</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">8000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">claw</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="14"/>
+    <Bit Num="21"/>
+    <Bit Num="33"/>
+  </Flags>
+  <Description>You see a razor sharp claw of the legendary tyrannosaurus rex.</Description>
+  <Weight>5</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

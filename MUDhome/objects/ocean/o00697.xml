@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="697" Area="ocean" Version="2.40">
+  <Name>crystal shard dagger</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>4</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">6500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">shard</Key>
+    <Key Num="1">dagger</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>You see a dagger with s smooth handle and a blade of jagged crystals.</Description>
+  <Weight>10</Weight>
+  <Type>5</Type>
+  <SubType>dagger</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

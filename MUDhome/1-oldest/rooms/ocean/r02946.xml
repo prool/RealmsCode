@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="2946" Version="2.40" Area="ocean">
+  <Name>Spider Island</Name>
+  <ShortDescription>This is a small island in the enchanted forest swamp which seems to be
+covered with spider webs.</ShortDescription>
+  <LongDescription>Some of the webbing seems to be as thick as ropes!  What size spider makes
+webs that large?  The only spiders you see as you look around are normal
+water spiders, skating on the surface of the deep and dark swamp waters.
+You can hack your way through the stuff, but do you really want to?</LongDescription>
+  
+  <Established>760229038</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">16</Mob>
+      <Mob Area="ocean" Num="1">427</Mob>
+      <Mob Area="ocean" Num="2">474</Mob>
+      <Mob Area="ocean" Num="3">427</Mob>
+      <Mob Area="ocean" Num="4">427</Mob>
+      <Mob Area="ocean" Num="5">474</Mob>
+      <Mob Area="ocean" Num="6">16</Mob>
+      <Mob Area="ocean" Num="7">427</Mob>
+      <Mob Area="ocean" Num="8">474</Mob>
+      <Mob Area="ocean" Num="9">474</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2945</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3931" Version="2.40" Area="ocean">
+  <Name>Silver and Ruby Room</Name>
+  <ShortDescription>You are in a room with silver metal walls, and rows of red rubys.</ShortDescription>
+  <LongDescription>It is said that each gem in this building holds the soul of a person.  Maybe.
+A great many mages, wizards and sorcerers seem to be busy in the building.
+Perhaps you could ask one of them.  Reclining on a bright red couch you see
+one of the most beautiful women you have ever seen.  Perhaps you could ask
+her.  She looks as though she would like to talk to you.</LongDescription>
+  <LowLevel>6</LowLevel>
+  <HighLevel>6</HighLevel>
+  
+  <Established>770926320</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training room</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">616</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3930</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">3939</Room>
+      <Key>80</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

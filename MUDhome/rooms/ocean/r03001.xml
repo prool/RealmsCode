@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3001" Version="2.40" Area="ocean">
+  <Name>Inner Sanctum</Name>
+  <ShortDescription>You are in the secret inner sanctum of Tristram's Temple.</ShortDescription>
+  <LongDescription>The Gods must be smiling on you, for no mortal man or woman could enter
+this blessed ground without divine assistance.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3100</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

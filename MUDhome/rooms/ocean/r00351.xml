@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="351" Version="2.40" Area="ocean">
+  <Name>Leviathan Dock</Name>
+  <ShortDescription>You are on the Leviathan Dock, on the beach of the Nylandian Bay.</ShortDescription>
+  <LongDescription>The Leviathan Dock runs west into the bay, providing access to the various
+ships and vessels docked inside the breakwater of the Nylandian Bay.  Most
+of the bay is empty right now, but a few merchant ships are nearby.  The
+near part of the dock is where the pirate ship Widow Maker berthes when
+she is in port.  Marina Way is located to the east, and the dock continues
+to the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">515</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3311</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

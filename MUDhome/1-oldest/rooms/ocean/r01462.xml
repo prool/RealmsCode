@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="1462" Version="2.40" Area="ocean">
+  <Name>Stairway to Main Floor</Name>
+  <ShortDescription>You are on the stairway leading down to the recreation room.</ShortDescription>
+  <LongDescription>This stairway connects the main floor to the second floor.  It allows
+guests to go onto the balcony to rest without worrying about business
+or other transactions.  Not to mention, the view from the balcony is
+supposed to be spectacular.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">130</Mob>
+      <Mob Area="ocean" Num="1">130</Mob>
+      <Mob Area="ocean" Num="2">166</Mob>
+      <Mob Area="ocean" Num="3">166</Mob>
+      <Mob Area="ocean" Num="4">167</Mob>
+      <Mob Area="ocean" Num="5">167</Mob>
+      <Mob Area="ocean" Num="6">166</Mob>
+      <Mob Area="ocean" Num="7">130</Mob>
+      <Mob Area="ocean" Num="8">166</Mob>
+      <Mob Area="ocean" Num="9">167</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1463</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1461</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1475</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">1404</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

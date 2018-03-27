@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="1812" Version="2.40" Area="ocean">
+  <Name>The Rusty Dagger Training Room</Name>
+  <ShortDescription>You are in the Rusty Dagger's Training Room for Assassins.</ShortDescription>
+  <LongDescription>Only assassins aspiring to be Rutterkins may train in this center.  Once
+you reach the level of Rutterkin First Class, you may no longer train
+in this center.  Your brothers suggest trying to find the Dripping Dagger
+in northeast Oceancrest to further develop your skills.</LongDescription>
+  <LowLevel>3</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1813</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

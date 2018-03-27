@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3820" Version="2.40" Area="ocean">
+  <Name>Director's Tent</Name>
+  <ShortDescription>You are standing inside the Carnival Director's tent.</ShortDescription>
+  <LongDescription>The Director's tent is a pleasant place to stay.  You wish you could take a
+break from adventuring and set up your own business.  The tent looks very
+comfortable, obviously Pavlovich-Barnum has good taste.  Oriental objects
+hang all over the walls, his desk is made from abanosian wood, his chair
+is beautifully carved from white brezza.  The Director is wearing expensive
+clothes with diamond buttons and cuffs.  Unlike you, he wears 16 rings -
+two on each finger.  "He must be really rich!" you think.</LongDescription>
+  
+  <Established>765770462</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3817</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

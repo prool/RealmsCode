@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1733" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, west of the City Walls.</ShortDescription>
+  <LongDescription>the impressive City Walls on the east side of the road stand nearly ten
+meters high at some points, protecting the city and its citizens from 
+attacks and raids from the outside world.  The realm ouside the City
+Walls is very deadly and not very fun to visit.  Only the bravest people
+venture out into the wilderness.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1734</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1732</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

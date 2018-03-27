@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="1901" Version="2.40" Area="ocean">
+  <Name>Oceancrest Central Arena Reception Area</Name>
+  <ShortDescription>You are in a large plaza at the center of the large arena complex.</ShortDescription>
+  <LongDescription>The Oceancrest Central Arena is divided into a number of smaller 
+arenas and combat zones for the pleasure of the viewing audience.  To
+the southeast is the Central Arena, where combatants engage strong
+opponents in hand-to-hand combat.  The Central Arena is divided into
+many small areas of individual skill including a one-on-one combat
+arena.  To the southwest are the Pits of Doom.  The Pits are heavily
+guarded at all times and house a number of large dragons.  To the
+north is the Game Arena, where combatants use wit and skill to eventually
+defeat the great Wizard of Kaldais.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1119</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1903</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1909</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1155</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

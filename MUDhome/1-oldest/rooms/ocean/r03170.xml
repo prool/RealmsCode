@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="3170" Version="2.40" Area="ocean">
+  <Name>Lost in the Respitial Sea</Name>
+  <ShortDescription>You are floating on the waves of a vast sea, hopelessly lost.</ShortDescription>
+  <LongDescription>Smooth waves and a gray sky.  Its difficult to determine where one starts
+and the other leaves off as you look at the horizon.  The sky and sea seem
+to blend into one in all directions.  There is no land in sight, but you
+have seen a few shark fins in the water occasionally.</LongDescription>
+  
+  <Established>756084520</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3169</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3165</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3171</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3179</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3177</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

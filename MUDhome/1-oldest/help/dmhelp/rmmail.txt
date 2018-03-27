@@ -1,0 +1,8 @@
+Help on DM command:
+	RMMAIL
+
+Deletes a player's mudmail.
+
+: *rmmail min
+Min's mail deleted.
+

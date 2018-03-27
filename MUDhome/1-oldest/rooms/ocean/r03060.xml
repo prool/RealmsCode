@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Room Num="3060" Version="2.40" Area="ocean">
+  <Name>Bythme's Chamber</Name>
+  <ShortDescription>This is the study quarters of Blythme, the high priest of Maglubyet.</ShortDescription>
+  <LongDescription>These quarters are far more opulent than should be required by a priest
+devoted to the services of his god.  Great paintings are on the walls,
+and the floor is covered with silks and furs.  It isn't particularly
+clean, however.  Are all goblins simply dirty by nature?  A voice enters
+your head, and in a gravelly tone seems to say, "Maglubyet will be pleased
+with his newest victim."</LongDescription>
+  
+  <Established>761220726</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">502</Mob>
+      <Mob Area="ocean" Num="1">503</Mob>
+      <Mob Area="ocean" Num="2">503</Mob>
+      <Mob Area="ocean" Num="3">504</Mob>
+      <Mob Area="ocean" Num="4">504</Mob>
+      <Mob Area="ocean" Num="5">509</Mob>
+      <Mob Area="ocean" Num="6">505</Mob>
+      <Mob Area="ocean" Num="7">506</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>52000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">507</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>52000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">297</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3055</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="bookshelf">
+      <Keys/>
+      <Room Area="ocean">3061</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="curtain">
+      <Keys/>
+      <Room Area="ocean">3062</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

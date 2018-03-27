@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="141" Area="ocean" Version="2.40">
+  <Name>mountain boots with crampons</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>10</ShotsMax>
+  <ShotsCur>10</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">125</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">boots</Key>
+    <Key Num="1">crampons</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="16"/>
+  </Flags>
+  <Description>These mountain boots have crampons attached to their soles.</Description>
+  <Weight>3</Weight>
+  <Type>6</Type>
+  <WearFlag>8</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,12 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  bloodboil spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 16
+
+This is the second most powerful spell in the water realm. It heats the blood
+in the targets system, causing much internal bleeding and damage. Veins and
+arteries explode, inflicting great agony upon the target of this spell.
+
+Syntax:
+cast bloodboil <target>
+

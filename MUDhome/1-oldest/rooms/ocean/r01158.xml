@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1158" Version="2.40" Area="ocean">
+  <Name>Khelleva Circle</Name>
+  <ShortDescription>You are walking along the western portion of the Khelleva Circle.</ShortDescription>
+  <LongDescription>Khelleva Circle continues to the northeast and southeast.  To the west,
+Rosecrest Street branches off along the north side of the Oceancrest
+Central Arena.  On the northwest corner, you can see a large building
+with a single gem apperently hovering over the building.  The gem casts
+a purple hue over most of the building and some of the adjacent roads.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1157</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1159</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1161</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

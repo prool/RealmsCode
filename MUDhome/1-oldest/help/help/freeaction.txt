@@ -1,0 +1,11 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  free-action spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 15
+School:  Abjuration
+Domain:  Protection
+
+This spell allows the target to be freed of any binding or holding magics, such
+as hold-person or stun. It also allows the recipient to move freely underwater,
+or over hard to move terrain. Only clerics and druids are able to cast this
+spell.

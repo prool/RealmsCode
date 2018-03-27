@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="323" Version="2.40" Area="ocean">
+  <Name>Bendine Aquarium Octopus Tank Room</Name>
+  <ShortDescription>The Octopus Tank stands in the center of the large room you are now in.</ShortDescription>
+  <LongDescription>Octopi are not very friendly creatures, and with eight tenticals each,
+they tend to be very deadly.  Although they are very graceful to watch,
+they probably don't like being disturbed.  The tank lies in the center 
+of the room.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">322</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tank">
+      <Keys/>
+      <Room Area="ocean">324</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

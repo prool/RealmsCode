@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="1071" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street/Nagaritha Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Rosecrest Street and Nagaritha Drive.</ShortDescription>
+  <LongDescription>Nagaritha Drive runs east from Rosecrest Street, and continues east to the
+City Wall.  It is one of the longest roads in Oceancrest.  Rosecrest Street
+is perhaps the longest street, though.  It runs from the most southern part
+of the city to the north City Wall.  It changes direction several times.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1070</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1072</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1102</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

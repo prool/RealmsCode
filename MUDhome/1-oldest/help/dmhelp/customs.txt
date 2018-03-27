@@ -1,0 +1,48 @@
+
+    #  Name             Value  Wgt Tp Adj  Sht   Dice       AC  Wr Mg Qst
+-------------------------------------------------------------------------
+  100. custom sharp     075000 005 00 +4   0150   5d4  +4   000 20 00 000
+  101. custom thrust    075000 005 01 +4   0150   5d4  +4   000 20 00 000
+  102. custom blunt     075000 005 02 +4   0150   5d4  +4   000 20 00 000
+  103. custom pole      075000 005 03 +4   0150   5d4  +4   000 20 00 000
+  104. custom missile   075000 005 04 +4   0150   5d4  +4   000 20 00 000
+  105. custom armor     075000 018 05 +1   0075   0d0  +0   030 01 00 000
+  106. custom sleeves   025000 008 05 +1   0075   0d0  +0   010 02 00 000
+  107. custom leggings  025000 008 05 +1   0075   0d0  +0   010 03 00 000
+  108. custom helmet    025000 008 05 +1   0075   0d0  +0   015 07 00 000
+  109. custom ring      015000 001 05 +1   0500   0d0  +0   003 09 00 000
+  110. custom cape      015000 002 05 +1   0075   0d0  +0   005 04 00 000
+  111. custom shield    050000 005 05 +1   0075   0d0  +0   015 18 00 000
+  112. custom boots     020000 006 05 +1   0075   0d0  +0   010 08 00 000
+  113. custom gloves    020000 006 05 +1   0075   0d0  +0   010 06 00 000
+  114. custom belt      015000 002 05 +1   0075   0d0  +0   005 05 00 000
+  115. custom mask      015000 002 05 +1   0075   0d0  +0   005 19 00 000
+
+Customs Policies
+1) For customs, players need to be level 13 or higher.
+2) No credit purchases.
+3) No refunds.
+4) If it gets stolen/lost, too bad.
+5) Set all customs to level restrict 13. If they delevel thats more
+   motivation to relevel.
+6) Use the chart above as a guideline for prices. For some additions, 
+   however, use the following guidelines IN THIS ORDER:
+   A) If they want it cursed, add 25k gold to price.
+   B) If they want it to cast, triple cost, and make shots 100.
+      If they want a level 2 spell, add 50k. (no level 3 or higher)
+   D) Add on more shots in chunks of 25k per 25 more shots.
+   E) If not a monk or werewolf, class restrict is +100k base cost. If a 
+      monk or werewolf, it is +250k base cost.
+7) Never change AC or Damage.
+8) No profane or incredibly retardedly named items.
+9) Add shatterproof to all weapons.
+10) No repairs, only 2 max extensions are allowed, and they have to
+    bring the item to you BEFORE it breaks to extend it. Note that
+    this does not mean you put shots back to max then extend. That
+    is the same as repairing. You extend the CURRENT shots at 25k
+    per 25k shots, max of 50 shots and 50k.
+
+11) Check this file a lot. We are ironing things out slowly.
+
+Other then this use your best judgement. If in doubt ask a DM.
+

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3049" Version="2.40a" Area="ocean">
+  <Name>Victims of Maglubyet Holding Cell</Name>
+  <ShortDescription>You are in a cramped little holding cell, meant only as a temporary jail.</ShortDescription>
+  <LongDescription>What nasty fate has awaited the many who have been here before you can only
+be guessed at, since none have ever lived to tell of it.  Screams echo from
+far away, but occasionly there is a nearby scream which sets your teeth on
+edge.  The cell was never meant to be a place for someone to live, only a
+place to wait while the goblin priests decide how best to take you apart,
+small piece by small piece.</LongDescription>
+  
+  <Established>761608035</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>altar</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3048</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="altar">
+      <Keys/>
+      <Room Area="ocean">3028</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

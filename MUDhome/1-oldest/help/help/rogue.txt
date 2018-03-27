@@ -1,0 +1,28 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  Rogue          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Prime Requisites: Strength, Dexterity
+Compatible Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The rogue is a swashbuckling outlaw, living from job to job and by his sword.
+Whether he be bounty hunter or bandit, pirate or conman, he is an extreme jack
+of all trades in regards to the seedier sides of life in Derlith. Above all,
+however, a rogue favors honorable combat. Rogues are often partisons which help
+oppressed peoples fight evil authority. Rogues are similar to thieves and
+similar to assassins, but excel as neither. The biggest advantage a rogue has
+is his acrobatics. A rogue is extremely hard to hit, as he can dodge and
+sometimes even riposte attacks against him. A rogue is also able to wield two
+weapons at the same time, and is able to disarm his opponents, although not as
+well as a fighter. Rogues may also kick their enemies in combat at times,
+dealing extra damage. Rogues are good fighters, but they lack the staying power
+of the fighter and the bruteness of a berserker. The rogue is the master of the
+ambush, and he can jump from the shadows to ambush his opponents, catching them
+by surprise. Due to nefarious activities, Rogues are also able to pick locks
+once they reach a certain height in their profession. Several organizations
+will accept Rogues into their ranks across Derlith, as the criminal and
+fighting knowledge of the Rogue is always widely desired.
+
+Abilities: Ambush, Disarm, Kick, Pick, Second

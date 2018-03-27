@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="611" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard/Neilian Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Neilian Drive and Avatar Boulevard.</ShortDescription>
+  <LongDescription>Neilian Drive heads off to the east from the intersection with Avatar
+Boulevard, which continues to run to the north and south.  To the north,
+you can see the Anthian Bridge, which crosses over the river Othax, which
+flows into the Lyanden Lake.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">610</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">612</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">703</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

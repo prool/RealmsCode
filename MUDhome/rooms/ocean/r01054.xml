@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1054" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are on Eidenhoft Boulevard, which runs diagonally through the town.</ShortDescription>
+  <LongDescription>To the south of Eidenhoft Boulevard is a large stable.  You can see a 
+number of horses running around with a few trainers.  There is a building
+on the south side of the lot, off of Nagaritha Drive.  On the north 
+side of the road is the Shrine of the Protectors, a monument which 
+is said to protect the town against invaders both by land and sea.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1003</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1055</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

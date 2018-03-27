@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="1891" Version="2.40" Area="ocean">
+  <Name>Custom Swords</Name>
+  <ShortDescription>You are in the Custom Swords shop in Leonardo's Foundry.</ShortDescription>
+  <LongDescription>Various types of weapons may be purchased from Leonardo here, but his
+specialty is swords.  Almost every known type of sword may be purchased
+here.  There are a couple of gold swords also for sale as well, but 
+since gold is so soft, they do not make very good weapons.  They are
+worth quite a bit, though, more as collector's items.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1890</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

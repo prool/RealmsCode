@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3620" Version="2.40" Area="ocean">
+  <Name>Western Courtyard</Name>
+  <ShortDescription>You are at the western side of the great courtyard in Castle Ragnar.</ShortDescription>
+  <LongDescription>There is a wide set of stone stairs winding out of sight in a turret here.
+the stairs look wide enough for a great many people to go up or down at
+the same time, so its probably meant for the fast deployment of troops to
+the upper reaches of the castle.  High overhead is a beam canterlevered
+over the courtyard, with a block and tackle arrangement and ropes and
+chains hanging from it.  Looks like some very heavy equipment has been 
+hoisted to the top of the turret.  the courtyard continues to the north
+and south, and a larger area is directly east.</LongDescription>
+  
+  <Established>762645529</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>statue</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3619</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3621</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="statue">
+      <Keys/>
+      <Room Area="ocean">3627</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

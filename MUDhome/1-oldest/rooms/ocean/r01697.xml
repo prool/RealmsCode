@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1697" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are on Golden Dolphin Way, east of Overland Drive.</ShortDescription>
+  <LongDescription>Overland Drive intersects Golden Dolphin Way to the west.  The City Wall
+is still visible (as if you could miss it) on the south side of the 
+road.  On the north side of the road are the numerous, individual houses
+of the farmers and their families.  The individual houses were built to
+provide easier access to the farms, where they would be working.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1698</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1617</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

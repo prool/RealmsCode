@@ -1,0 +1,15 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |   Help on:  feeblemind spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 30
+
+The feeblemind spell decreases your intellgience, hindering your reasoning and
+making you completely vulnerable to confusion attacks. This spell does not last
+long, but while it is in effect, you will have less mana. An insight spell
+counteracts the effects of a feeblemind spell.
+
+Only a mage, lich, druid, or cleric may cast this spell.
+
+Syntax:
+cast feeblemind <target>
+

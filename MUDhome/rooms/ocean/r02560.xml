@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2560" Version="2.40" Area="ocean">
+  <Name>Garden Circle Road</Name>
+  <ShortDescription>This is the southeastern side of the Garden Circle Road.</ShortDescription>
+  <LongDescription>Dark forests grow almost to the edge of the City here.  To the south
+you can see the famous Kista Forest, a dense oak and pine growth that
+provides much of the lumber and hardwood for the city.  There is a mill
+not far to the south, but after that there is simply wild woods.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2559</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2041</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="429" Version="2.40" Area="ocean">
+  <Name>Bendine Way</Name>
+  <ShortDescription>You are walking along Bendine Way, near the Rhinestone Marina.</ShortDescription>
+  <LongDescription>The west side of the road is more or less dominated by mucky, swamp-like
+terrain, bordering the Rhinestone Marina.  The Adlermann Center is located
+further to the west.  On the east side of the road is the Oceancrest
+Homeless Soup Kitchen where out of work Oceancrest citizens can get some
+hot food and a cool glass of water.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">428</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">430</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="2808" Version="2.40a" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>You are walking through the dark and desolate hallway under the glacier.</ShortDescription>
+  <LongDescription>The long, dark hallway continues to the north and south seemingly without
+end.  The silent air gives you an eerie feeling that somehow you are
+being watched, but you can't see anything in either direction that might
+be a threat.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>728792374</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2809</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2807</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

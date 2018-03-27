@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1735" Version="2.40" Area="ocean">
+  <Name>Riverdell Way/Waterfront Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Waterfront Way and Riverdell Way.</ShortDescription>
+  <LongDescription>Waterfront Way heads west from Riverdell Way, which runs north and south.
+On the east side of the road, you can see the large City Walls which
+encompass the city.  The Dentra Central Archery Range is located on the
+southwestern corner of the intersection, the entrances to which are 
+located on Waterfront Way.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1736</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1734</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1802</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

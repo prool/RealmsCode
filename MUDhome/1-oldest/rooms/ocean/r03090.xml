@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="3090" Version="2.40" Area="ocean">
+  <Name>Temple Passage</Name>
+  <ShortDescription>You are in a secret passage connecting the temple altar to other holy places.</ShortDescription>
+  <LongDescription>The passage will take you to the Temple Holding Room and various private
+chambers.  It looks like it could also become quite confusing, as it seems
+to twist and turn.  Not all of the twists in the passage were designed by
+the priests.  Some of these turns look like they were caused by an ancient
+earthquake which evidently caused the temple to be abandoned  The Sacred
+Holding Room is directly south of you.</LongDescription>
+  
+  <Established>790800893</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>broken wall</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="broken wall">
+      <Keys/>
+      <Room Area="ocean">3091</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3897</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3097</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3096</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

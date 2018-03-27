@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1131" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are walking down Rosecrest Street, north of the Guard Barracks.</ShortDescription>
+  <LongDescription>On the north of Rosecrest Street is Darby Reynold's Shipyard, where most
+of the tall ships that ever sailed out of Nylandian Bay were originally
+built.  To the south is the Oceancrest Central City Guard Barracks, where
+the City Guards go to relax after a long day patrolling the city and eating 
+donuts.  The entrance to the barracks is to the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1013</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1132</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="5078" Version="2.40" Area="ocean">
+  <Name>Violent Upper Winds</Name>
+  <ShortDescription>You have been caught by a gust of wind!  Your indicator swings wildly.</ShortDescription>
+  <LongDescription>Your air speed has picked up tremendously, and you are being buffeted
+and tossed in all directions.  Below you, the Gotland Glen rushes by at
+a terrible rate.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5041</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5049</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5048</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5062</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

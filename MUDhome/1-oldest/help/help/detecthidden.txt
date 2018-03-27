@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  detect-hidden spell   | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 5
+School:  Divination
+Domain:  Knowledge
+
+The detect-hidden spell allows the caster to momentarily see hidden
+creatures, objects, and exits in a room. A resist-magic spell may protect a
+hidden creature from being revealed by this spell.
+
+Syntax:
+cast detect-hidden
+

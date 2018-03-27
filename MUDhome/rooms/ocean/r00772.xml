@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="772" Version="2.40" Area="ocean">
+  <Name>Tranquility Way</Name>
+  <ShortDescription>You are walking along Tranquility Way, south of the Military Headquarters.</ShortDescription>
+  <LongDescription>The great Oceancrest Military Headquarters is located on the north side
+of the road, and covers much of the northeastern section of town.  The
+City of Oceancrest is very proud of their military might, which is about
+the only way to keep the barbarian cultures outside the city at bay.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">771</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">773</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

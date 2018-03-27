@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="791" Version="2.40" Area="ocean">
+  <Name>Dragon's Feeding Grounds</Name>
+  <ShortDescription>You are somewhere inside the Dragons' Lair</ShortDescription>
+  <LongDescription>This is where the dragons come to eat.  At first you seem interested in
+the activity of the dragons, but then you realize that you are probably
+the main course.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">56</Mob>
+      <Mob Area="ocean" Num="1">57</Mob>
+      <Mob Area="ocean" Num="2">58</Mob>
+      <Mob Area="ocean" Num="3">59</Mob>
+      <Mob Area="ocean" Num="4">92</Mob>
+      <Mob Area="ocean" Num="5">93</Mob>
+      <Mob Area="ocean" Num="6">94</Mob>
+      <Mob Area="ocean" Num="7">95</Mob>
+      <Mob Area="ocean" Num="8">96</Mob>
+      <Mob Area="ocean" Num="9">93</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">790</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

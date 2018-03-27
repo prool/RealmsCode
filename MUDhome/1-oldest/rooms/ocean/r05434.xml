@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5434" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road/Saint Anne's Road</Name>
+  <ShortDescription>To the north is Saint Anne's Retreat, and an old graveyard.</ShortDescription>
+  <LongDescription>The retreat looks a little like a small castle, with twin towers at either
+end, and a rampart in between.  You can see movement at the windows, and 
+there is a good woodsmoke coming from a chimney.  The great door is closed
+but even from here you can see there is a bell tower where a visitor might 
+ring for admittance.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5435</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5433</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5800</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

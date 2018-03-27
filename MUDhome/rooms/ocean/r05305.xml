@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5305" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>You are traveling on a wide highway known as Lyanden Road.</ShortDescription>
+  <LongDescription>The trees are thick on the north side of the road, but strangely none
+are growing on the south side.  The road is a true demarcation for two
+really different environments.  There is nothing but rocks and sand to 
+the south. Far to the northeast you can see snow covered mountains.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5304</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5306</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="4273" Version="2.40a" Area="ocean">
+  <Name>Golden Balcony</Name>
+  <ShortDescription>You are on the golden balcony overlooking Rutger's Grand Assembly.</ShortDescription>
+  <LongDescription>You are about to become one of Rutger's chosen warriors and the assembly
+below waits in hushed silence for your pledge.  Prince Rutger stands beside
+you, and you may speak to him before agreeing to the covenant you have read.</LongDescription>
+  
+  
+  <LowLevel>8</LowLevel>
+  
+  <Established>792808368</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="33"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>steps</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>1206217875</LastTime>
+      <Misc Area="ocean">780</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="steps">
+      <Keys/>
+      <Room Area="ocean">4272</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

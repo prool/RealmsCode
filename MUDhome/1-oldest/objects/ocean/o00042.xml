@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Object Num="42" Area="ocean" Version="2.40">
+  <Name>rake</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>10</ShotsMax>
+  <ShotsCur>10</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>4</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">3</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Weight>2</Weight>
+  <Type>5</Type>
+  <SubType>polearm</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

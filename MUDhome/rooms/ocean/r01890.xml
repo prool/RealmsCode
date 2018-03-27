@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1890" Version="2.40" Area="ocean">
+  <Name>Leonardo's Foundry</Name>
+  <ShortDescription>You are in the plaza of Leondardo's Foundry.</ShortDescription>
+  <LongDescription>The plaza provides access to the three shops Leonardo's Foundry services.
+The Custom Swords shop is located to the north, where fantastic swords
+of unequalled quality (and price) may be purchased.  To the west is
+Unblemished Armor, where fine chain and and brigandine armor may be
+purchased.  To the south is Cast Iron Shields, where strong shields of
+the finest iron are built to stand the toughest battles.  The exit to
+Main Street is to the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1052</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1891</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1893</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1895</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

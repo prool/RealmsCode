@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<Creature Num="547" Area="ocean" Version="2.40">
+  <Name>Theodenes</Name>
+  <Level>17</Level>
+  <Type>1</Type>
+  <Experience>1250</Experience>
+  <Coins>
+    <Coin Num="2">400</Coin>
+  </Coins>
+  <Alignment>100</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>210</Current>
+      <Max>210</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>210</Current>
+      <Max>210</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>220</Current>
+      <Max>220</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>220</Current>
+      <Max>220</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>230</Current>
+      <Max>230</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a muscular little gnome, shrunken with age.  He has but one arm.</Description>
+  <Keys>
+    <Key Num="0">theodenes</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>470</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>4</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>in my youth I served King Lyanden, and was toasted throughout Mordor.</Talk>
+  <DefenseSkill>165</DefenseSkill>
+  <AttackPower>210</AttackPower>
+  <WeaponSkill>165</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">158</Carry>
+    <Carry Area="ocean" Num="1">254</Carry>
+    <Carry Area="ocean" Num="2">255</Carry>
+    <Carry Area="ocean" Num="3">255</Carry>
+    <Carry Area="ocean" Num="4">586</Carry>
+    <Carry Area="ocean" Num="5">255</Carry>
+    <Carry Area="ocean" Num="6">254</Carry>
+    <Carry Area="ocean" Num="7">586</Carry>
+    <Carry Area="ocean" Num="8">255</Carry>
+    <Carry Area="ocean" Num="9">158</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

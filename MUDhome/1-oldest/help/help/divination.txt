@@ -1,0 +1,22 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  divination        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Divination spells enable you to learn secrets about the world, scry across
+large distances, find hidden things, and to foil deceptive spells.
+
+^WSpells:^x
+    clairvoyance
+    comprehend-languages
+    detect-hidden
+    detect-invisibility
+    detect-magic
+    farsight
+    fortune
+    know-aura
+    tongues
+    true-sight
+
+See also:
+    HELP SCHOOLS
+

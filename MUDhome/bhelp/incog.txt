@@ -1,0 +1,14 @@
+Help on DM command:
+	INCOG
+
+Toggles the incognito flag. When set, you will be visibile
+only to those in the same room. Any global commands (broadcast, tell)
+will identify the staff member, but players will not be able to
+detect him (who, whois, tell).
+
+*incog and incog are the same command.
+
+: *incog
+You cloak your presence.
+: incog
+You unlock your pressence.

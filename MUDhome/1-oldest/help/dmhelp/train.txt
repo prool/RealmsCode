@@ -1,0 +1,19 @@
+Room flags to set for training by class:
+
+[____7] Assassin	[3___7] Builder
+[___6_] Berserker	[3__6_] Creator
+[___67] Cleric		[3__67] Caretaker
+[__5__] Fighter		[3_5__] Dungeon Master
+[__5_7] Mage
+[__56_] Paladin
+[__567] Ranger
+[_4___] Thief
+[_4__7] Vampire
+[_4_6_] Monk
+[_4_67] Death Knight
+[_45__] Druid
+[_45_7] Lich
+[_456_] Werewolf
+[_4567] Bard
+[3____] Rogue
+

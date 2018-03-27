@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="25" Area="ocean" Version="2.40">
+  <Name>splint mail</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>27</ShotsMax>
+  <ShotsCur>27</ShotsCur>
+  <Armor>79</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">12500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">mail</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="10"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Weight>15</Weight>
+  <Type>6</Type>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="794" Version="2.40" Area="ocean">
+  <Name>Dead End</Name>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">793</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">807</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="3347" Version="2.40" Area="ocean">
+  <Name>Necropolis Path</Name>
+  <ShortDescription>You are on the west leg of the Necropolis path, circling the grounds.</ShortDescription>
+  <LongDescription>There is a footpath leading north to a cemetery through an iron gate,
+which has been left open.  The path on the other side of the gate is
+only a dirt path, slightly overgrown now with grass, but it is not
+poorly kept.  You see signs of loving care at some of the grave sites.</LongDescription>
+  
+  <Established>759804114</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3346</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3320</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3465</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

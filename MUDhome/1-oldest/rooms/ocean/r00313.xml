@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Room Num="313" Version="2.40" Area="ocean">
+  <Name>Roland's Fighting Academy - Red Training Room</Name>
+  <ShortDescription>You are inside the red training room, about to face off with another knight.</ShortDescription>
+  <LongDescription>In order to advance to the next level, you must first prove yourself to
+the instructors at the academy by defeating this knight.  The Academy
+is proud of your success, but requires proof of your strengths in order
+to advance you to the next level.</LongDescription>
+  <LowLevel>8</LowLevel>
+  <HighLevel>8</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">285</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">362</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">314</Room>
+      <Key>6</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">308</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

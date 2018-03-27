@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3774" Version="2.40" Area="ocean">
+  <Name>Lithium Inlet North Walkway</Name>
+  <ShortDescription>You are on the walkway on the northern side of the Lithium Inlet.</ShortDescription>
+  <LongDescription>You are inside a wildlife preserve that takes up most of the northern
+part of the Lelion Beach and Park.  The walkway continues to the east 
+and west, and seems to rise toward the west where the Nylandian Bay is
+located.  Across the inlet you see a number of shops and stores in the
+northwest section of Oceancrest.  There are heavy woods to the east,
+and a walkway to the south that rises above the tree tops.</LongDescription>
+  
+  <Established>766013661</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3773</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3775</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

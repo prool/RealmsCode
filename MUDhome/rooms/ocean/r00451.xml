@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Room Num="451" Version="2.47i" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are walking along Hofton Avenue, just west of the city entrance.</ShortDescription>
+  <LongDescription>The large building marking the Northern Entrance to the city is located
+to the north.  You can leave the city through Evenborough Way, which is
+located to the east.  On the south side of the road is the Evenborough
+Inn, a popular overnight stop for weary adventurers.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>west</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">400</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">452</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

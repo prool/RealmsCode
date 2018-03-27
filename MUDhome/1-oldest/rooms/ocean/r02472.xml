@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="2472" Version="2.40" Area="ocean">
+  <Name>Oak Tree</Name>
+  <ShortDescription>You are on one of the limbs of a giant oak tree inside the park.</ShortDescription>
+  <LongDescription>The large oak tree appears to support your weight well.  You have reached
+one of the major points in the park.  If you wish to train, you should go
+onto the tree limb.  If you wish to leave the park, you should go out.  If
+you wish to continue through the park, you will need to find tracks at
+the bottom of the tree.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="18"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="tree limb">
+      <Keys/>
+      <Room Area="ocean">2473</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1935</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2454</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

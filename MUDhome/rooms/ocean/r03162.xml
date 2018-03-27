@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="3162" Version="2.40" Area="ocean">
+  <Name>The Sea Outside Nylandian Bay</Name>
+  <ShortDescription>You are drifting in sea swells of a vast body of saltwater.</ShortDescription>
+  <LongDescription>There are a number of sea creatures feeding and swimming around you.
+You also notice large quantities of Oceancrest garbage in the water as
+well.  Far to the east you can still make out the port of Oceancrest and
+the dreaded pirate ship widow Maker.  Perhaps you had better head back
+to shore before you become lost at sea.</LongDescription>
+  
+  <Established>755855931</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">294</Mob>
+      <Mob Area="ocean" Num="1">385</Mob>
+      <Mob Area="ocean" Num="2">301</Mob>
+      <Mob Area="ocean" Num="3">294</Mob>
+      <Mob Area="ocean" Num="4">303</Mob>
+      <Mob Area="ocean" Num="5">304</Mob>
+      <Mob Area="ocean" Num="6">292</Mob>
+      <Mob Area="ocean" Num="7">289</Mob>
+      <Mob Area="ocean" Num="8">295</Mob>
+      <Mob Area="ocean" Num="9">385</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3161</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3163</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3166</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3164</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

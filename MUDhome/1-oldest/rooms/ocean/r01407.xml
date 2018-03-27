@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1407" Version="2.40" Area="ocean">
+  <Name>Lounge</Name>
+  <ShortDescription>You are in the great North Lounge looking out at the mountains of Eeste.</ShortDescription>
+  <LongDescription>The lounge is a busy place with a number of mages both new and old 
+sharing stories and adventures of times when mages literally ruled
+the world.  It is well known that Keslar Palace has been training 
+the most elite mages the world has known, both past and present.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">174</Mob>
+      <Mob Area="ocean" Num="1">170</Mob>
+      <Mob Area="ocean" Num="2">173</Mob>
+      <Mob Area="ocean" Num="3">168</Mob>
+      <Mob Area="ocean" Num="4">168</Mob>
+      <Mob Area="ocean" Num="5">174</Mob>
+      <Mob Area="ocean" Num="6">167</Mob>
+      <Mob Area="ocean" Num="7">167</Mob>
+      <Mob Area="ocean" Num="8">166</Mob>
+      <Mob Area="ocean" Num="9">173</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1406</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1408</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1459</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

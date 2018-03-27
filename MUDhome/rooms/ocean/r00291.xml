@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="291" Version="2.40" Area="ocean">
+  <Name>Paladin Training Room</Name>
+  <ShortDescription>You have successfully made it to the training room.  Congratulations!</ShortDescription>
+  <LongDescription>And now you should search your heart, and be absolutely certain that the
+role of paladin is one you desire.  The paladin is a holy knight, and must
+protect the weak and the rightious, and must never show fear of evilness.
+As you advance farther, you will be called upon to fight against dark
+forces, and must never flee from a such a fight.</LongDescription>
+  
+  <Established>766528030</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">300</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3826" Version="2.40" Area="ocean">
+  <Name>Center Ring</Name>
+  <ShortDescription>You are standing in the Center Ring of the Carnival's main attraction.</ShortDescription>
+  <LongDescription>The Center Ring is the biggest of the three rings under the Big Top.
+The Ringmaster announces the different attractions one after another
+while trained elephants dance around him.  They come from a country far,
+far away where people use them instead of horses.  Above you is the main
+platform where skillful acrobats swing on trapezes and walk tighrtropes
+In the adjoining rings tigers roar and clowns entertain.</LongDescription>
+  
+  <Established>765770686</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3822</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3824</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3821</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3827</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="327" Version="2.40" Area="ocean">
+  <Name>Bendine Marina Foyer</Name>
+  <ShortDescription>You are in the foyer outside the Bendine Aquarium at the entrance to the 
+large Marina, home to the salt-water exhibit and the giant whale tanks.</ShortDescription>
+  <LongDescription>The Aquarium is located to the west.  On the north side of the entranceway
+is the gigantic whale tank where various species of whales are kept to
+amuse children and adults alike.  To the east is the Salt Water Exhibit
+in the Rhinestone Marina itself.  The Bendine Bay is cut off from the
+Marina by a large, iron gate, preventing the animals in the bay from
+escaping and keeping the carniverous creatures of the marina out.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">326</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

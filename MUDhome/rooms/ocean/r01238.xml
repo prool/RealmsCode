@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1238" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are walking along Lankshire Parkway, north of Overland Drive.</ShortDescription>
+  <LongDescription>Lankshire Parkway runs south towards the Overland Drive intersection.  On
+the east side, you can still see tha large Necropolis looming in the 
+darkness.  On the west, you can see the magnificent Khelleva Mansion.
+There appears to be no entrance to the Mansion from this road, but you 
+do see another small road running northwest from the Overland Drive 
+Intersection.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1239</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1237</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="5199" Version="2.40" Area="ocean">
+  <Name>Dark Squall</Name>
+  <ShortDescription>The Vallenda Pass is to the west, if you can get past the bad weather.</ShortDescription>
+  <LongDescription>Although you cannot see your direction indicator, the wind provides you
+with a steady from the east.   Weather is a funny thing - down here
+the winds push you westard, but if you fly higher, the winds are blowing
+from west to east.  Mordor is a strange land indeed.</LongDescription>
+  
+  <Established>773819415</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5198</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5028</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

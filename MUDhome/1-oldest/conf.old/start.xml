@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Locations>
+ <Location Name="oceancrest">
+    <BindName>Oceancrest</BindName>
+    <RequiredName>Center of Allakaren Circle</RequiredName>
+    <Bind>
+        <Room Area="ocean">1</Room>
+    </Bind>  
+    <Required>
+        <Room Area="ocean">1</Room>
+    </Required>
+    <StartingGuide Area="ocean">801</StartingGuide>
+  </Location>
+</Locations>
+

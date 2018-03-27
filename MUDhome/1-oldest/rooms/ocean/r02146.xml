@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2146" Version="2.40" Area="ocean">
+  <Name>Path by the Rockface</Name>
+  <ShortDescription>You are on a path between great boulders and rocks, near a rockface.</ShortDescription>
+  <LongDescription>The rockface rises at a steep angle, but looks safe to climb if you have
+the proper equipment.  It's hard to tell what might be up there, as there
+is a rock shelf a few meters up.  It looks like the fissures up there are
+big enough to enter, and they might prove interesting to explore.</LongDescription>
+  
+  <Established>759011736</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2147</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2145</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

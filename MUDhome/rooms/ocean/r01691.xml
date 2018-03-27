@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1691" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are walking along Golden Dolphin Way, running east and west through town.</ShortDescription>
+  <LongDescription>On the north side of the road, you can see the numerous silos used by
+the farmers to store the corn and wheat for the dangerous winter months
+when literally nothing is growing.  Careful planning prevents famines
+and starvation even under the worse conditions.  Although Oceancrest 
+borders an ocean, it is far enough north that all the air that gets 
+brought down this far is very cold.  It is not uncommon for temperatures
+to go below zero.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1232</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1692</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

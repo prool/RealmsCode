@@ -1,0 +1,17 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  enfeeblement spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 30
+School:  Transmutation
+Domain:  Augmentation
+
+The enfeeblement spell decreases your strength, making you weaker and causing
+you to perform tasks less efficiently. This spell does not last long, but while
+it is in effect, you will do more less in combat. An enfeeblement spell
+counteracts the effects of a strength spell.
+
+An enfeeblement spell will cancel out the berserk ability or a deathknight's
+pray ability. Only a mage, lich, druid, or cleric may cast this spell.
+
+Syntax:
+cast enfeeblement <target>

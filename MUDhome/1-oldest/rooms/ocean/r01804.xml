@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1804" Version="2.40" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are on Waterfront Way, running east and west past the Archery Range.</ShortDescription>
+  <LongDescription>The Dentra Central Archery Range is located on the south side of the road.
+You are at the beginner's level area of the range where anyone is welcome
+to shoot a few bolts.  The young archers in this range are fairly good 
+shots, and come here to practice between school lessons.  It is important
+for young elves to learn the art of archery at a young age.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1717</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1805</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

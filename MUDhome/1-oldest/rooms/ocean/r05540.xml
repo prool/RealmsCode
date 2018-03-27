@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5540" Version="2.40" Area="ocean">
+  <Name>Avalanch</Name>
+  <ShortDescription>You are several meters above the Nyyron trail, on the crest of an avalanch.</ShortDescription>
+  <LongDescription>above you is a gulley where the avalanch debris came from.  It looks like
+you could climb up there, if you have climbing gear with you.  Often gold
+is discovered after a fresh avalanch, and this one only occurred since the
+last winter.  Below you is the Nyyron Creek, where you see a small waterfall
+has formed because of the newly deposited earth in the creek's path.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5537</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gulley">
+      <Keys/>
+      <Room Area="ocean">5541</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

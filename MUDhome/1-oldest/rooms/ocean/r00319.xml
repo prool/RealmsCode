@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="319" Version="2.40" Area="ocean">
+  <Name>Bendine Aquarium Kiddie Tank</Name>
+  <ShortDescription>You have entered the children's facility inside the Bendine Aquarium.</ShortDescription>
+  <LongDescription>There are a number of small children playing around a small pool in the
+center of the room.  The pool appears to be filled with playful dolphins
+and a few very large crabs and crayfish on the bottom of the tank.  
+Occassionally, a few giant sea horses swim by.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">318</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="pool">
+      <Keys/>
+      <Room Area="ocean">320</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

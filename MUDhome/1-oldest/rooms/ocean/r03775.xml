@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3775" Version="2.40" Area="ocean">
+  <Name>Lithium Inlet North Walkway</Name>
+  <ShortDescription>You are on a walkway passing through a forest of cypress.</ShortDescription>
+  <LongDescription>Old and heavy cypress trees stand tall here, and below them is a lush
+growth of heavy vegetation.  If a person went in there, he might become
+lost.  Odd snuffling sounds seem to come from the woods, but when you
+stop and look in that direction, they also stop.  You can hear birds in
+the distance, but none immediately around you.</LongDescription>
+  
+  <Established>766088694</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3774</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3776</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

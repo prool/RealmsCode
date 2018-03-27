@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="5409" Version="2.40" Area="ocean">
+  <Name>Ashton River Road/Foothills Trail Intersection</Name>
+  <ShortDescription>You are at the intersection of Ashton River Road, which runs east and
+west, and the Foothills Trail, which takes a southeast course.</ShortDescription>
+  <LongDescription>A sign post points southeast and says the dwarven mining community of
+Nyyron is a few kilometers in that direction.  There are rolling hills in
+between, so you cannot see any sign of buildings in that direction. </LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5408</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5410</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5414</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

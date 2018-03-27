@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="1044" Version="2.40" Area="ocean">
+  <Name>Oceanview/Eidenhoft/Nagaritha Intersection</Name>
+  <ShortDescription>You are at the rather busy intersection of Oceanview Drive, Nagaritha
+Drive and Eidenhoft Boulevard.  </ShortDescription>
+  <LongDescription>Eidenhoft Boulevard runs awkwardly from northeast to southwest.  The
+road eventually turns northward and ends up at Lithium Inlet.  Oceanview
+Drive is a scenic alternative to the always busy and crowded Main Street.
+It runs parallel to Main Street for almost its entire distance.  Nagaritha
+Drive runs east to west and borders both the large estates and the vast
+farmlands in the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1043</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1045</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1099</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1100</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1055</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1056</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

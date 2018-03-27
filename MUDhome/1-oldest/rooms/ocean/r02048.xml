@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="2048" Version="2.40" Area="ocean">
+  <Name>Kista Amphitheater Stage</Name>
+  <ShortDescription>You are on the main stage of the Kista Amphitheater.</ShortDescription>
+  <LongDescription>The upper stage is rather impressive and the lower stage, designed for
+larger performances requiring an orchestra, is also well constructed.  
+The black floors make it almost impossible to see where you're stepping,
+but you can see the audience seating to the south.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2047</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

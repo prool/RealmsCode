@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="366" Version="2.40" Area="ocean">
+  <Name>Green Goat Inn</Name>
+  <ShortDescription>This is a dirty little bar run by a dirty little dwarf.</ShortDescription>
+  <LongDescription>Rum is the only thing they sell, so if you want to drink anything else
+you had best be going.  Besides, why did the music stop when you came in?
+A lot of sullen looks seem to be directed toward you, and you notice a
+couple of young dwarves over at the side appear to be fingering their
+knives.  A snot-nosed and giggling troll seems to have blocked the exit.</LongDescription>
+  
+  <Established>761212866</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">517</Mob>
+      <Mob Area="ocean" Num="1">499</Mob>
+      <Mob Area="ocean" Num="2">499</Mob>
+      <Mob Area="ocean" Num="3">517</Mob>
+      <Mob Area="ocean" Num="4">515</Mob>
+      <Mob Area="ocean" Num="5">515</Mob>
+      <Mob Area="ocean" Num="6">516</Mob>
+      <Mob Area="ocean" Num="7">516</Mob>
+      <Mob Area="ocean" Num="8">515</Mob>
+      <Mob Area="ocean" Num="9">515</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>back door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">354</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="back door">
+      <Keys/>
+      <Room Area="ocean">368</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

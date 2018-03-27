@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3929" Version="2.40" Area="ocean">
+  <Name>Ruby Hallway</Name>
+  <ShortDescription>You are in the western end of the Wizard's Eye ruby hallway.</ShortDescription>
+  <LongDescription>There are three arches here, and you will find your way if you try them.
+Flickering lights behind ruby panels cast moving shadows on the walls and
+floor.  Each shadow seems to have a face and form, and each tries to gain
+your attention.  The shadows pull at your robes and scream silently in
+your ear.  Ignore them.</LongDescription>
+  <LowLevel>3</LowLevel>
+  <HighLevel>5</HighLevel>
+  
+  <Established>770918621</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>garnet arch</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="opal arch">
+      <Keys/>
+      <Room Area="ocean">3922</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="garnet arch">
+      <Keys/>
+      <Room Area="ocean">3927</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="jade arch">
+      <Keys/>
+      <Room Area="ocean">3928</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3924</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

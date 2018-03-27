@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  crush spell     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 7
+
+This spell is a powerful spell in the earth realm. It creates a collection of
+earth that crushes the target as the caster directs. The spell can often result
+in broken bones and other abrasions, though it is unlikely the target will be
+killed unless it is weak in health. However, the spell can become quite
+formidable in the hands of a powerful mage.
+
+Syntax:
+cast crush <target>
+

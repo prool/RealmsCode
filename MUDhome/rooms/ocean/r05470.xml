@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5470" Version="2.40" Area="ocean">
+  <Name>Castle Rutger Road</Name>
+  <ShortDescription>You are traveling on a winding mountain road carved onto the east wall.</ShortDescription>
+  <LongDescription>The road hugs the mountain face as it turns back and forth, connecting
+the castle above with the main road below.  A game trail leads north.
+The road climbs to the northeast, and drops going northwest.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5469</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5471</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

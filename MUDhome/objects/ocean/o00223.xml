@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="223" Area="ocean" Version="2.40">
+  <Name>bracers of defense</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Armor>22</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">12500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">defense</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="3"/>
+  </Flags>
+  <Description>You see some golden bracers that fit snugly around your wrists.</Description>
+  <Weight>7</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>2</WearFlag>
+  <InBag/>
+</Object>

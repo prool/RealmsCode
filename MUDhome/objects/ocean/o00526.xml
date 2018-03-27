@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Object Num="526" Area="ocean" Version="2.40">
+  <Name>drum</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">25</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Description>The drum is a toy - rata-tat-tat-tat.</Description>
+  <Weight>1</Weight>
+  <Type>14</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

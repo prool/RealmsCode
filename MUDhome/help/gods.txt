@@ -1,0 +1,89 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  gods         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+ENOCH (AL:LG)
+Sex: Male
+Tenets: Righteousness, Destructions of evil, Law, Order,
+        Enochian Supremacy
+God of: paladins, martial righteousness, the truth, justice
+Worshipped by: paladins
+Primary race(s): Humans, Seraphim
+
+
+CERIS (AL:NG)
+Sex: Female
+Tenets: Forgiveness, Love, Pacifism, Earth
+Goddess of: healing, fertitlity, compassion, fertility
+Worshipped by: some druids, farmers, healers, midwives
+Primary race(s): Humans, Half-Elves
+
+
+LINOTHAN (AL:CG)
+Sex: Male
+Tenets: Knowledge, Warfare, Defense of the Forest, Slaying Undead
+God of: the sword dance, daytime forests, elven magic, just causes
+Worshipped by: rangers, scholars, forest dwellers and travelers,
+               undead slayers
+Primary race(s): Elves, Half-Elves
+
+
+MARA (AL:NG)
+Sex: Female
+Tenets: Love, Elven Custom, Hunting
+Goddess of: the moon, night time forest, bow use, the hunt,
+            healing, elven celebration, elven fertility
+Worshipped by: rangers, hunters, bowyers, archers, healers
+Primary race(s): Elves, Half-Elves
+
+
+GRADIUS (AL:NG)
+Sex: Male
+Tenets: Battle, Dwarven Custom, Honor, Law, Order, Creation
+God of: earth, mining, metallurgy, dwarven warfare,
+        dwarven building
+Worshipped by: miners, armorers, weaponsmiths, warriors
+Primary race(s): Dwarves
+
+
+JAKAR (AL:LN)
+Sex: Male
+Tenets: Discovery, Creation, Wealth, Gnomish Custom
+God of: tinkering, invention, gold, merchants
+Worshipped by: inventors, sculptors, merchants, bankers, jewelers
+Primary race(s): Gnomes, Halflings
+
+
+KAMIRA (AL:CG)
+Sex: Female
+Tenets: Luck, Celebration, Adventure
+Goddess of: thieves, fine dining, pleasures, halfling healing
+Worshipped by: thieves, rogues, explorers, gamblers, wine-makers
+Primary race(s): Halflings, Humans
+
+
+ARES (AL:CN)
+Sex: Male
+Tenets: Warfare, Battle, Barbarian Custom, Honor
+God of: war, bloodlust, killing, conquest, freedom
+Worshipped by: berserkers, soldiers
+Primary race(s): Barbarians, Humans, Half-Orcs
+
+
+ARACHNUS (AL:NE)
+Sex: Male
+Tenets: Strife, Drow Supremacy, Chaos, Warfare
+God of: spiders, Drow magic, Drow warfare, poison, death
+Worshipped by: assassins, necromancers, spider-lovers
+Primary race(s): Dark-Elves
+
+
+ARAMON (AL:CE)
+Sex: Male
+Tenets: Strife, Chaos, Destruction of Good
+God of: deceit, the void, disease, death, ambiguity, death knights,
+                Aramonian supremacy
+Worshipped by: swindlers, murderers, necromancers, assassins,
+               death knights
+Primary race(s): Humans, Cambions
+

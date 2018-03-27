@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1730" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, east of the Uland Repair Shop.</ShortDescription>
+  <LongDescription>Uland is the name of a small island off the coast of the Respitial Sea,
+about twenty miles or so south of Oceancrest.  Why the proprietor decided
+to name his shop after this small island is still a mystery to most
+people.  The repair shop will fix almost any weapon or armor for a small
+amount of gold, depending on how much the item in question is worth.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1731</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1729</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2284</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

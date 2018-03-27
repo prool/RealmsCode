@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2478" Version="2.40" Area="ocean">
+  <Name>Ranger Training Location</Name>
+  <ShortDescription>You are in the training center for powerful rangers desiring to advance.</ShortDescription>
+  <LongDescription>As your levels increase, your skills do as well.  Your tracking skills will
+be required by many parties on fantastic quests beyond the realms of
+mankind.  A reward awaits you at the end of the park, but you have a long
+way to go still.</LongDescription>
+  <LowLevel>12</LowLevel>
+  <HighLevel>12</HighLevel>
+  
+  <Established>727256109</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="6"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2477</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

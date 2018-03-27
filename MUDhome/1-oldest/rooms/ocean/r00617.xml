@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="617" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard/Hillborough Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Hillborough Way and Avatar Boulevard.</ShortDescription>
+  <LongDescription>This rather buys intersection near the center of town has a number of
+useful shops and facilities on each corner.  To the southeast is Altihmin's
+Academy of Advanced Fighting Techniques.  On the northeast is the Oceancrest
+Caretaking Facility and on the northwest is Danielle's Mystic Mage's 
+Emporium.  Finally, on the southwest is the Shrine of Life and Death, a
+very symbolic icon to all clerical persons.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">616</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">618</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">707</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">708</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

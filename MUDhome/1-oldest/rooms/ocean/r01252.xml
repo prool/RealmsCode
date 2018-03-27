@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1252" Version="2.40" Area="ocean">
+  <Name>Khelleva Drive</Name>
+  <ShortDescription>You are walking along Khelleva Drive, just south of the Khelleva Mansion.</ShortDescription>
+  <LongDescription>The Khelleva Mansion main entrance is located to the north of here.  The
+large, marble statues and eloquent art design set the Khelleva Estates 
+apart from every other city structure in Oceancrest.  The Stables are
+located to the west and may be entered off of Khelleva Drive further to
+the northwest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1253</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1251</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

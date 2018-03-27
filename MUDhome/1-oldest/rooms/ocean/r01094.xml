@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1094" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive/Hafnia Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Hafnia Way and Nagaritha Drive.</ShortDescription>
+  <LongDescription>Hafnia Way runs south from here, connecting Nagaritha Drive to Golden
+Dolphin Way.  This short road runs past the Marina Plaza shopping center
+and the Golden Dolphin Inn.  Nagaritha Drive continues to the east and
+west.  To the north is the Regalia Convent.  The entrance to the convent
+is located off of Marina Way, west of here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1095</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1093</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1208</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

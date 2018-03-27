@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3035" Version="2.40" Area="ocean">
+  <Name>Passageway Dead End</Name>
+  <ShortDescription>You have reached a part of the passage which has been sealed up.</ShortDescription>
+  <LongDescription>Although you are somewhere in the eastern section of the great goblin
+shrine, perhaps hundreds of meters underground, you feel as though it
+might as well be on one of the moons.  This part of the passage is a
+dead end, although in ages past it looks like it was part of the network
+of tunnels down here.  The sealed up section looks relatively new compared
+to the rest of the ancient tunnel.</LongDescription>
+  
+  <Established>761482258</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3034</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3038</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

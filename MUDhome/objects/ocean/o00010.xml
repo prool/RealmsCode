@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="10" Area="ocean" Version="2.40">
+  <Name>cloth pants</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>10</ShotsMax>
+  <ShotsCur>10</ShotsCur>
+  <Armor>4</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">pants</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+  </Flags>
+  <Weight>2</Weight>
+  <Type>6</Type>
+  <SubType>cloth</SubType>
+  <WearFlag>3</WearFlag>
+  <InBag/>
+</Object>

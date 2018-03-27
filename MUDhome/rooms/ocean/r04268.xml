@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<Room Num="4268" Version="2.40a" Area="ocean">
+  <Name>Grand Assembly Hall</Name>
+  <ShortDescription>You are in the Grand Assembly, which is the largest room in the castle.</ShortDescription>
+  <LongDescription>There are rows and rows of feasting tables along the side, but the center
+of the room is clear.  The floor is a single piece of highly polished black
+onyx, which gives the room a quality of being in the depths of space.  Great
+banners and tapistries hang on the walls, and flags and pennants hang from
+the ceiling.  A golden balcony overhangs the room on the north side, between
+two sweeping stairways that ascend on either side.</LongDescription>
+  
+  
+  
+  <Established>792702688</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>left stairs</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">771</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">772</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">773</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects>
+    <ObjRef Num="773" Area="ocean" Version="2.40a">
+      <Name>100 entertainers</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value/>
+      <Keys>
+        <Key Num="0">entertainers</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="772" Area="ocean" Version="2.40a">
+      <Name>200 knights</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value/>
+      <Keys>
+        <Key Num="0">knights</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="771" Area="ocean" Version="2.40a">
+      <Name>600 fighters</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value/>
+      <Keys>
+        <Key Num="0">fighters</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+  </Objects>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4243</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="left stairs">
+      <Keys/>
+      <Room Area="ocean">4269</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right stairs">
+      <Keys/>
+      <Room Area="ocean">4270</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tunnel">
+      <Keys/>
+      <Room Area="ocean">4230</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="3926" Version="2.40" Area="ocean">
+  <Name>Arched Entry</Name>
+  <ShortDescription>You are in the arched entry reserved for high level mages who wish to train.</ShortDescription>
+  <LongDescription>level ten mages and above are considered the aristocracy in the Land of
+Mordor.  This special entrance to the training room is reserved to those who
+will one day aspire to the council of mages at Lyanden castle.  The training
+room floor is down below you, but you must be at least level 12 to go that
+way.  If you are level nine, ten or eleven, go in the amethest door.</LongDescription>
+  
+  <Established>770773889</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>amethest door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3925</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="amethest door">
+      <Keys/>
+      <Room Area="ocean">3934</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="deck">
+      <Keys/>
+      <Room Area="ocean">4009</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

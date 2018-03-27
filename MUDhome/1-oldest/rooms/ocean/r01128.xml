@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1128" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are traveling along Netherworld Lane, just west of Main Street.</ShortDescription>
+  <LongDescription>To the east, you can see the intersection with Main Street.  Main is one
+of the longer roads in Oceancrest which runs through most of the western
+side of town.  Netherworld Lane continues east and west from here.  On
+the south, you can see Reynold's Drydock, where Darby Reynolds and his
+crew construct ships and other sailing vessels.  The business is pretty
+lucrative at this time since ship-building is just starting to take its
+place in society.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1129</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1016</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

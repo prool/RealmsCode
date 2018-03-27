@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="2130" Version="2.40" Area="ocean">
+  <Name>Milsene K'tral Desert Exhibit</Name>
+  <ShortDescription>You are in the southernmost exhibit of the fantastic Milsene Museum.</ShortDescription>
+  <LongDescription>This place gets stranger and stranger.  There's a lot of sand in here
+and the sun blazes down from an open ceiling.  A small signpost says
+"Welcome to the Unexplored Domain of K'tral".  K'tral is the desert
+valley hidden deep within the mountains with supposedly fantastic riches 
+and deadly monsters, like sandworms.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">196</Mob>
+      <Mob Area="ocean" Num="1">195</Mob>
+      <Mob Area="ocean" Num="2">196</Mob>
+      <Mob Area="ocean" Num="3">195</Mob>
+      <Mob Area="ocean" Num="4">196</Mob>
+      <Mob Area="ocean" Num="5">195</Mob>
+      <Mob Area="ocean" Num="6">196</Mob>
+      <Mob Area="ocean" Num="7">196</Mob>
+      <Mob Area="ocean" Num="8">196</Mob>
+      <Mob Area="ocean" Num="9">195</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2127</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

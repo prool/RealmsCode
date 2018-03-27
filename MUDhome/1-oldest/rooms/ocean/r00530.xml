@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="530" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard/Lelion Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Lelion Way and Eidenhoft Boulevard.</ShortDescription>
+  <LongDescription>Eidenhoft Boulevard runs south out of the intersection with Lelion Way,
+which runs east and west.  Lelion Way runs parallel to the Lithum Bay,
+eventually running into the Lelion Beach and Park to the west.  Eidenhoft
+Boulevard runs south through the major sections of the southwestern section
+of town.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">531</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">529</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">560</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

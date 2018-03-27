@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3325" Version="2.40" Area="ocean">
+  <Name>Necropolis Path</Name>
+  <ShortDescription>You are at a bend in a the path you are traveling through the Necropolis.</ShortDescription>
+  <LongDescription>The Great Fighters Hall is southeast of here, and the Tomb of Eldritch is
+east.  The chill wind brings sounds you really don't want to hear... a
+cacophony of wailing and groaning.  At times it almost dies down to a low
+moan, but it never ceases.  No doubt it is restless souls turning over in
+their graves.  However, as you look around you realize you really don't
+see any grave sites near hear, but only a vacant plot of bare ground.</LongDescription>
+  
+  <Established>759796332</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3322</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3326</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3327</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

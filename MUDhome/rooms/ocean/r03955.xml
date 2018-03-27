@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3955" Version="2.40" Area="ocean">
+  <Name>Trantori's Summer Home</Name>
+  <ShortDescription>You are high over the forest in the summer home of the High Invoker.</ShortDescription>
+  <LongDescription>Windows are on every side, and there is a 360 degree view of the forest and
+the city of Oceancrest.  In the middle of the room a crystal globe floats 
+in mid-air, bobbing slightly on the air currents.  A red robe is thrown
+across a comfortable chair, and a table nearby is littered with books of
+all sizes.  The one that is open on top is an ancient, hand-written tome
+that must be at least half a meter in length.  It's written in a language
+you do not understand.</LongDescription>
+  
+  <Established>770341361</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">606</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">607</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3954</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="trapdoor">
+      <Keys/>
+      <Room Area="ocean">3984</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

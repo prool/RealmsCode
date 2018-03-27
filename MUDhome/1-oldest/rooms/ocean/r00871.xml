@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Room Num="871" Version="2.47e" Area="ocean">
+  <Name>Smooth Path</Name>
+  <ShortDescription>You are on a hard dirt path, worn smooth by the travel of many people.</ShortDescription>
+  <LongDescription>Tall trees shade the path and a gentle breeze skitters through the
+leaves.  The path is broad and clear, and seems to lead to a noisy
+campground to the west.  The path narrows in the eastern direction,
+and you can see a city street in the distance.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:56 2009
+</LastPlayerTime>
+  <HighLevel>10</HighLevel>
+  <BeenHere>1</BeenHere>
+  <Wander><Traffic>15</Traffic><RandomMonsters><Mob Area="ocean">201</Mob><Mob Area="ocean" Num="1">201</Mob><Mob Area="ocean" Num="2">201</Mob><Mob Area="ocean" Num="3">201</Mob><Mob Area="ocean" Num="4">387</Mob><Mob Area="ocean" Num="5">387</Mob><Mob Area="ocean" Num="6">387</Mob><Mob Area="ocean" Num="7">387</Mob><Mob Area="ocean" Num="8">238</Mob><Mob Area="ocean" Num="9">238</Mob></RandomMonsters></Wander>
+  <Track><Direction>west</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">870</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">872</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

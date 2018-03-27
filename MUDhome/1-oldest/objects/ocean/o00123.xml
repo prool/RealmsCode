@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="123" Area="ocean" Version="2.40">
+  <Name>elven chain mail</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>40</ShotsMax>
+  <ShotsCur>40</ShotsCur>
+  <Armor>66</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">chain</Key>
+    <Key Num="1">mail</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="10"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Description>You see some fine chain mail, hand crafted by elves.</Description>
+  <Weight>8</Weight>
+  <Type>6</Type>
+  <SubType>chain</SubType>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,71 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  stats          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Realms is a much better enjoyed game in the long run if you know what stats
+to pick. In most cases it takes trial and error and a lot of playing
+experience to figure out the right stats for you. This file will assist
+you, in that it will explain what each stat does so you can make educated
+decisions on your own about how to pick stats at character creation.
+
+STRENGTH:
+
+Strength determines how hard you hit and how much you can carry. If you are
+a vampire, it helps determine your chance to bite successfully. 
+
+DEXTERITY:
+
+Dexterity is an important stat for some classes but not for others. First
+off, higher dexterity lets you hide better. It also determines your chances
+of fleeing successfully. If you are a berserker or fighter, it helps you
+circle better the higher it is. For thieves, it assists you in your ability
+to steal. Last but not least, a higher dexterity makes it so monsters and 
+players have a harder time hitting you.
+
+CONSTITUTION:
+
+Constitution can be important depending on what you want. First off,
+constitution determines how many hit points you get at a time when you
+tick, or slowly regain your hit points and magic points. For example,
+with a lower constitution, you might get back 1 hit point at a time. A
+higher one, however, can allow you to get 8 back at a time. Another
+thing constitution does if it is high is give you a bonus to the number
+of hit points you get each time you reach a higher level. This can be most
+useful for fighters and berserkers. If you are a vampire, constitution
+helps determine how long your hypnosis lasts. If you are a lich,
+constitution determines how often you regain hit points.
+
+INTELLIGENCE:
+
+Intelligence is the most important attribute for most spell casting
+classes. The higher your intelligence is, the higher the bonus you get on
+the damage your spells do. In addition, the higher the number you have in
+intelligence, the longer your stuns last when you use the stun spell. This
+is very important for all casting classes. Intelligence also determines how
+many magic points you regenerate back at a time. If you are a bard or
+vampire, intelligence helps determine how successful you are when you try
+to charm or hypnotize. If a cleric has a higher intelligence then piety, it
+helps him heal more hit points when using the vigor and mend-wound spells.
+Last but not least, a the higher your intelligence is, the less chance you
+have of spell failure.
+
+PIETY:
+
+Piety is another extremely important attribute to most of the spellcasting
+classes. For all classes except liches, piety determines how often you
+regain hit points and magic points. If your piety is lower, you will tick
+less often then if it is high, and your character wont regenerate his hit
+points and magic back as quickly. Piety also helps you to search. Also, the
+lower your piety is, the most likely an aggressive monster will attack you
+as opposed to someone else in the room with a higher piety. Generally, the
+higher your piety is, the more you will heal back when you use the vigor
+or mend wound spells.
+
+Generally, it is suggested that you put high numbers in any of the
+attributes listed as prime requisites for a class. These are all listed in
+the Book of Knowledge. Another good source for what to make your stats at
+creation are the many experienced players we have playing Realms. Playing
+experience is the best indicator. Remember that the race you pick effects
+your attributes as well. Races and their adjustments are listed in the
+Book of Knowledge.
+

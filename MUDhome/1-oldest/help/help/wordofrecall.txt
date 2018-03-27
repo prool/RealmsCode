@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |  Help on:  word-of-recall spell   | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 25
+School:  Translocation
+Domain:  Travel
+
+This spell recalls its target to the Origin, returning the target from any
+distance to this safe location. However, magical formations can often cause this
+spell to fail, and it is risky to use this spell while on the Ethereal Plane.
+Word-of-recall may only be cast by clerics and paladins, but hazy potions are
+often carried by many adventurers.
+
+Syntax:
+cast word-of-recall <target>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="665" Version="2.40a" Area="ocean">
+  <Name>Delegation Way</Name>
+  <ShortDescription>You are in front of the Embassy Court entry foyer into the complex.</ShortDescription>
+  <LongDescription>The large Embassy Court houses the embassies of the elven and dwarven
+delegations.  Both delegations are rather small, primarily because the
+number of elves and dwarves in Oceancrest is also relatively small.
+The delegation serve as the collective body of all the elves or dwarves
+in Oceancrest for political and social purposes.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">664</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">666</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Room Num="607" Version="2.47i" Area="ocean">
+  <Name>Avatar Boulevard</Name>
+  <ShortDescription>You are casually strolling down Avatar Boulevard, taking in the sights.</ShortDescription>
+  <LongDescription>There are many sights to look at as you walk along Avatar Boulevard.  
+Quite obviously, on the west, you can see the majestic Lyanden Lake and
+the Lyanden Castle.  To the east, you can see the mysterious Avatar
+Ruins, where the gods once fought over control of the land and its people.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>south</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">606</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">608</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="1224" Version="2.41b" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are wandering down Nagaritha Drive, north of a small shopping complex.</ShortDescription>
+  <LongDescription>The complex on the south provides much of the meat and grains to the
+community as well as other essentials to day-to-day survival.  Directly
+to the south is the Downtown Ice and Water Supply Facility where, obviously,
+ice and water can be purchased for storage of meats and, of course, a 
+nice cool glass of iced tea.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1225</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1223</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

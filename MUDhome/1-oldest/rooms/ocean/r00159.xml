@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="159" Version="2.40" Area="ocean">
+  <Name>Plasnelt Road/Taragon Road</Name>
+  <ShortDescription>This is the eastern edge of the village, where Plasnelt Road ends.</ShortDescription>
+  <LongDescription>Taragon Road runs north and south, and a militia armory is on the corner.
+Long ago the wise village elders recognized the need for a militia, so they
+set up a barracks and recruited the nastiest and meanest citizens they could
+for the job.  The tradition has continued to this day.  However, knowing the
+ways of drunken militia, they wisely put the armory at the opposite end of
+town from the main barracks.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">158</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">164</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">154</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5526" Version="2.40" Area="ocean">
+  <Name>Nyyron Trail</Name>
+  <LongDescription>You are on Nyyron Trail, just south of Hafnia Mountain Road. 
+The Trail was important at one time, but since the old watch towers were
+abandoned after better signaling methods were found, this trail has not
+been used much.  In the distance to the south you can see a single stone
+tower, overgrown with heavy vines.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5440</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5527</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

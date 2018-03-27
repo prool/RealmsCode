@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="3412" Version="2.40" Area="ocean">
+  <Name>Crematorium</Name>
+  
+  <Established>760053428</Established>
+  <Flags>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3410</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

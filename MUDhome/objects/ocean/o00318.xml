@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="318" Area="ocean" Version="2.40">
+  <Name>stilleto</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>75</ShotsMax>
+  <ShotsCur>75</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>4</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">125</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a magnificent, sharp dagger that could pierce metal.</Description>
+  <Weight>1</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

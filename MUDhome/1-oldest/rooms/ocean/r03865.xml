@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3865" Version="2.40" Area="ocean">
+  <Name>Jungle Clearing</Name>
+  <ShortDescription>You are standing in a slightly cleared area in the jungle of Uland Island.</ShortDescription>
+  <LongDescription>Looking to the east through the heavy brush, you can barely make out a
+ruined temple, long abandoned and forgotten.  It looks like it was built
+in the form of a truncated pyramid, but several large stones, which must
+weigh tons, are in a jumble near the entrance.  Looks like an earthquake
+might have shattered the ediface, as the entrance is caved in.</LongDescription>
+  
+  <Established>768628165</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3864</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3866</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3875</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

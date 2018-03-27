@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="714" Area="ocean" Version="2.40">
+  <Name>Morbid's bloody head</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">morbid's</Key>
+    <Key Num="1">bloody</Key>
+    <Key Num="2">head</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Description>Morbid's head is high on a slimy pig pole where it looks quite natural.</Description>
+  <Weight>800</Weight>
+  <Type>14</Type>
+  <InBag/>
+</Object>

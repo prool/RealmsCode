@@ -1,0 +1,444 @@
+<?xml version="1.0"?>
+
+<Deities>
+	<Deity id="0" name="Atheist">
+		<Titles>
+			<Title level="1">
+				<Male>Atheist</Male>
+				<Female>Atheist</Female>
+			</Title>
+		</Titles>
+	</Deity>
+	<Deity id="1" name="Aramon">
+		<Titles>
+			<Title level="1">
+				<Male>Heathen</Male>
+				<Female>Harem Girl</Female>
+			</Title>
+			<Title level="4">
+				<Male>Convert</Male>
+				<Female>Convert</Female>
+			</Title>
+			<Title level="7">
+				<Male>Minion</Male>
+				<Female>Miscreant</Female>
+			</Title>
+			<Title level="10">
+				<Male>Cultist</Male>
+				<Female>Cultist</Female>
+			</Title>
+			<Title level="13">
+				<Male>Defiler</Male>
+				<Female>Seductress</Female>
+			</Title>
+			<Title level="16">
+				<Male>Dark Cardinal</Male>
+				<Female>Shadow Priestess</Female>
+			</Title>
+			<Title level="19">
+				<Male>Harbinger</Male>
+				<Female>Evil Temptress</Female>
+			</Title>
+			<Title level="22">
+				<Male>Soulripper</Male>
+				<Female>Soulripper</Female>
+			</Title>
+			<Title level="25">
+				<Male>Darklord</Male>
+				<Female>Black Matriarch</Female>
+			</Title>
+			<Title level="28">
+				<Male>Scythe of Aramon</Male>
+				<Female>Mistress of Aramon</Female>
+			</Title>
+			<Title level="30">
+				<Male>[custom]</Male>
+				<Female>[custom]</Female>
+			</Title>
+		</Titles>
+	</Deity>
+	<Deity id="2" name="Ceris">
+		<Titles>
+			<Title level="1">
+				<Male>Pacifist</Male>
+				<Female>Pacifist</Female>
+			</Title>
+			<Title level="4">
+				<Male>Healer</Male>
+				<Female>Healer</Female>
+			</Title>
+			<Title level="7">
+				<Male>Disciple</Male>
+				<Female>Visionary</Female>
+			</Title>
+			<Title level="10">
+				<Male>Chaplain</Male>
+				<Female>Curate</Female>
+			</Title>
+			<Title level="13">
+				<Male>Prophet</Male>
+				<Female>Confessor</Female>
+			</Title>
+			<Title level="16">
+				<Male>Precentor</Male>
+				<Female>Prelate</Female>
+			</Title>
+			<Title level="19">
+				<Male>Resurrector</Male>
+				<Female>Resurrector</Female>
+			</Title>
+			<Title level="22">
+				<Male>High Priest</Male>
+				<Female>High Priestess</Female>
+			</Title>
+			<Title level="25">
+				<Male>Elder Divine</Male>
+				<Female>Elder Divine</Female>
+			</Title>
+			<Title level="28">
+				<Male>Herald of Ceris</Male>
+				<Female>Oracle of Ceris</Female>
+			</Title>
+			<Title level="30">
+				<Male>[custom]</Male>
+				<Female>[custom]</Female>
+			</Title>
+		</Titles>
+	</Deity>
+	<Deity id="3" name="Enoch">
+		<Titles>
+			<Title level="1">
+				<Male>Acolyte</Male>
+				<Female>Acolyte</Female>
+			</Title>
+			<Title level="4">
+				<Male>Zealot</Male>
+				<Female>Zealot</Female>
+			</Title>
+			<Title level="7">
+				<Male>Adept</Male>
+				<Female>Adept</Female>
+			</Title>
+			<Title level="10">
+				<Male>Priest of Enoch</Male>
+				<Female>Prioress of Enoch</Female>
+			</Title>
+			<Title level="13">
+				<Male>Inquisitor</Male>
+				<Female>Persecutor</Female>
+			</Title>
+			<Title level="16">
+				<Male>Silver Cardinal</Male>
+				<Female>Lightgiver</Female>
+			</Title>
+			<Title level="19">
+				<Male>Grand Inquisitor</Male>
+				<Female>Silver Magistrate</Female>
+			</Title>
+			<Title level="22">
+				<Male>Light Hierophant</Male>
+				<Female>Oracle of Enoch</Female>
+			</Title>
+			<Title level="25">
+				<Male>Saint of Enoch</Male>
+				<Female>Golden Matriarch</Female>
+			</Title>
+			<Title level="28">
+				<Male>Hand of Enoch</Male>
+				<Female>Handmaiden of Enoch</Female>
+			</Title>
+			<Title level="30">
+				<Male>[custom]</Male>
+				<Female>[custom]</Female>
+			</Title>
+		</Titles>
+	</Deity>
+	<Deity id="4" name="Gradius">
+		<Titles>
+			<Title level="1">
+				<Male>Mason</Male>
+				<Female>Mason</Female>
+			</Title>
+			<Title level="4">
+				<Male>Miner</Male>
+				<Female>Miner</Female>
+			</Title>
+			<Title level="7">
+				<Male>Earth Sapper</Male>
+				<Female>Earth Sapper</Female>
+			</Title>
+			<Title level="10">
+				<Male>Metallurgist</Male>
+				<Female>Metallurgist</Female>
+			</Title>
+			<Title level="13">
+				<Male>Mithril Priest</Male>
+				<Female>Mithril Priestess</Female>
+			</Title>
+			<Title level="16">
+				<Male>Stone Patriarch</Male>
+				<Female>Stone Matriarch</Female>
+			</Title>
+			<Title level="19">
+				<Male>Earth Master</Male>
+				<Female>Earth Mistress</Female>
+			</Title>
+			<Title level="22">
+				<Male>Hammer of Gradius</Male>
+				<Female>Hammer of Gradius</Female>
+			</Title>
+			<Title level="25">
+				<Male>Anvil of Gradius</Male>
+				<Female>Anvil of Gradius</Female>
+			</Title>
+			<Title level="28">
+				<Male>Chosen of Gradius</Male>
+				<Female>Chosen of Gradius</Female>
+			</Title>
+			<Title level="30">
+				<Male>[custom]</Male>
+				<Female>[custom]</Female>
+			</Title>
+		</Titles>
+	</Deity>
+	<Deity id="5" name="Ares">
+		<Titles>
+			<Title level="1">
+				<Male>Zamule</Male>
+				<Female>Zamula</Female>
+			</Title>
+			<Title level="4">
+				<Male>Fanatic</Male>
+				<Female>Fanatic</Female>
+			</Title>
+			<Title level="7">
+				<Male>Battle Cleric</Male>
+				<Female>Battle Cleric</Female>
+			</Title>
+			<Title level="10">
+				<Male>Warpriest</Male>
+				<Female>Warpriestess</Female>
+			</Title>
+			<Title level="13">
+				<Male>Sha'Kara</Male>
+				<Female>Sha'Kara</Female>
+			</Title>
+			<Title level="16">
+				<Male>Blood Prophet</Male>
+				<Female>Stoneheart</Female>
+			</Title>
+			<Title level="19">
+				<Male>Bonemancer</Male>
+				<Female>Bonemancer</Female>
+			</Title>
+			<Title level="22">
+				<Male>Deathbringer</Male>
+				<Female>Deathbringer</Female>
+			</Title>
+			<Title level="25">
+				<Male>Blood of Ares</Male>
+				<Female>Blood of Ares</Female>
+			</Title>
+			<Title level="28">
+				<Male>Wrath of Ares</Male>
+				<Female>Wrath of Ares</Female>
+			</Title>
+			<Title level="30">
+				<Male>[custom]</Male>
+				<Female>[custom]</Female>
+			</Title>
+		</Titles>
+	</Deity>
+	<Deity id="6" name="Kamira">
+		<Titles>
+			<Title level="1">
+				<Male>Carouser</Male>
+				<Female>Carouser</Female>
+			</Title>
+			<Title level="4">
+				<Male>Gambler</Male>
+				<Female>Gambler</Female>
+			</Title>
+			<Title level="7">
+				<Male>Wine Adept</Male>
+				<Female>Wine Curate</Female>
+			</Title>
+			<Title level="10">
+				<Male>Jinx</Male>
+				<Female>Jinx</Female>
+			</Title>
+			<Title level="13">
+				<Male>Drunken Priest</Male>
+				<Female>Drunken Priestess</Female>
+			</Title>
+			<Title level="16">
+				<Male>Ta'veren</Male>
+				<Female>Ta'veren</Female>
+			</Title>
+			<Title level="19">
+				<Male>Hexmaster</Male>
+				<Female>Hexmistress</Female>
+			</Title>
+			<Title level="22">
+				<Male>Patriarch of Ale</Male>
+				<Female>Matriarch of Ale</Female>
+			</Title>
+			<Title level="25">
+				<Male>Chosen of Kamira</Male>
+				<Female>Chosen of Kamira</Female>
+			</Title>
+			<Title level="28">
+				<Male>Master of Fate</Male>
+				<Female>Mistress of Fate</Female>
+			</Title>
+			<Title level="30">
+				<Male>[custom]</Male>
+				<Female>[custom]</Female>
+			</Title>
+		</Titles>
+	</Deity>
+	<Deity id="7" name="Linothan">
+		<Titles>
+			<Title level="1">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="4">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="7">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="10">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="13">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="16">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="19">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="22">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="25">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="28">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="30">
+				<Male>[custom]</Male>
+				<Female>[custom]</Female>
+			</Title>
+		</Titles>
+	</Deity>
+	<Deity id="8" name="Arachnus">
+		<Titles>
+			<Title level="1">
+				<Male>Scourge</Male>
+				<Female>Scourge</Female>
+			</Title>
+			<Title level="4">
+				<Male>Web Spinner</Male>
+				<Female>Web Spinner</Female>
+			</Title>
+			<Title level="7">
+				<Male>Web Weaver</Male>
+				<Female>Web Weaver</Female>
+			</Title>
+			<Title level="10">
+				<Male>Spider Master</Male>
+				<Female>Black Widow</Female>
+			</Title>
+			<Title level="13">
+				<Male>Venom Master</Male>
+				<Female>Venom Mistress</Female>
+			</Title>
+			<Title level="16">
+				<Male>Brood Lord</Male>
+				<Female>Brood Mother</Female>
+			</Title>
+			<Title level="19">
+				<Male>Tormenter</Male>
+				<Female>Tortmentress</Female>
+			</Title>
+			<Title level="22">
+				<Male>Arachnid</Male>
+				<Female>Arachnid</Female>
+			</Title>
+			<Title level="25">
+				<Male>Greater Arachnid</Male>
+				<Female>Greater Arachnid</Female>
+			</Title>
+			<Title level="28">
+				<Male>Venom of Arachnus</Male>
+				<Female>Venom of Arachnus</Female>
+			</Title>
+			<Title level="30">
+				<Male>[custom]</Male>
+				<Female>[custom]</Female>
+			</Title>
+		</Titles>
+	</Deity>
+	<Deity id="9" name="Mara">
+		<Titles>
+			<Title level="1">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="4">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="7">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="10">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="13">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="16">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="19">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="22">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="25">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="28">
+				<Male></Male>
+				<Female></Female>
+			</Title>
+			<Title level="30">
+				<Male>[custom]</Male>
+				<Female>[custom]</Female>
+			</Title>
+		</Titles>
+	</Deity>
+</Deities>

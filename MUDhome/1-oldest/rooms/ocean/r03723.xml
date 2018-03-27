@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="3723" Version="2.40" Area="ocean">
+  <Name>Secret Meeting Room</Name>
+  <ShortDescription>You are in a secret room in the Dragon Tooth Inn.</ShortDescription>
+  <LongDescription></LongDescription>
+  
+  <Established>764560793</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

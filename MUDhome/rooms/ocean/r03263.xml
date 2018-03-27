@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3263" Version="2.40" Area="ocean">
+  <Name>Brownhaven West Gate</Name>
+  <ShortDescription>You stand just outside the Brownhaven village gate on a colorful brick road.</ShortDescription>
+  <LongDescription>The village has grown so much in recent years that it probably should be
+referred to as a town or even a small city, but the residents like to
+think of their home as a friendly little village.  The great walls around
+it have served the village well in keeping out invaders, but they have
+also added to rumors concerning what may be untold wealth hidden inside.</LongDescription>
+  
+  <Established>756071006</Established>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3262</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">40</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

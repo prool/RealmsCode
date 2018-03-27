@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="1315" Version="2.40a" Area="ocean">
+  <Name>Riverdell Way/Lelion Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Lelion Way and Riverdell Way.</ShortDescription>
+  <LongDescription>Riverdell Way, running north and south, intersects Lelion Way, which
+continues to the east and west.  The fantastic Ashton River can be seen
+in the distance to the southwest, along with the Ashton Falls Resort,
+a fancy inn where the rich and famous spend their free time.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1314</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1316</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1341</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1349</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

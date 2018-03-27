@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="750" Area="ocean" Version="2.40">
+  <Name>crystal mask</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>3</ShotsMax>
+  <ShotsCur>3</ShotsCur>
+  <Armor>4</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">4000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">mask</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="1"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>This delicate crystal mask belongs to Elise, the White Moon wizard.</Description>
+  <Weight>10</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>19</WearFlag>
+  <InBag/>
+</Object>

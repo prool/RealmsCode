@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  drain-shield spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 15
+School:  Abjuration
+Domain:  Protection
+
+When cast, this spell renders the target resistant to exp drain by
+monsters, drain from player liches, and also bite from player vampires.
+Clerics and paladins cast this spell much better then other classes. The
+duration of the cast is longer from them then any other class. This spell
+can be cast on monsters as well.
+
+Syntax:
+cast drain-shield <target>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="626" Area="ocean" Version="2.40">
+  <Name>four colored stones</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">colored</Key>
+    <Key Num="1">stones</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Description>You see four colored stones set in grey rock.  Black, red, blue and green.</Description>
+  <Weight>800</Weight>
+  <Type>14</Type>
+  <InBag/>
+</Object>

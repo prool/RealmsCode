@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="5113" Version="2.40" Area="ocean">
+  <Name>Drow Antichanber</Name>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>double</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5112</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="double">
+      <Keys/>
+      <Room Area="ocean">5114</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

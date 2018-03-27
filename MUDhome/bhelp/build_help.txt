@@ -1,0 +1,24 @@
+Builder and Creator Help File:
+       Commands:
+..--..--....--..--....--..--....--..--....--..--....--..--
+add		append
+balance		builderpol
+bulk		cname
+delete		fixup
+guide		mob
+mflags		msg
+news		oflags
+perm		prepen
+purge		reload
+replace		rflags
+save		set
+size		status
+teleport	traps
+unfixup         xarrange
+xrename
+..--..--....--..--....--..--....--..--....--..--....--..--
+
+For help on one of these commands specifically, type *bh (filename).
+
+Type *bh by itself if you ever wish to see this list of commands again.
+

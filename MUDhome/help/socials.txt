@@ -1,0 +1,50 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  socials        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+afk          cringe       grimace      nod          shove        sulk
+ahem         crow         grin         noogie       shrug        surrender
+anvil        cuddle       grind        nudge        shudder      swat
+babble       curl         groan        ogle         shuffle      sweat
+bark         curse        grope        ok           sigh         tantrum
+bathe        daydream     grovel       pace         sing         taunt
+beam         defecate     growl        pan          sit          tease
+bear         dice         grumble      panic        skip         thumb
+beer         dirt         grunt        pant         slap         thwack
+beg          disgust      haha         paranoid     sleep        tip
+behind       doh          hail         pat          slobber      trip
+bhand        doodle       hammer       peek         smack        triumph
+bird         drool        hbeer        pester       smell        tug
+bleed        embrace      hiccup       pet          smile        twiddle
+bless        evil         high5        phew         smirk        vangogh
+blink        expose       hiss         pinch        smooch       wail
+blow         eye          howl         poke         snap         wait
+blush        faint        hug          pose         snarl        wake
+boo          fall         hum          pout         sneer        wall
+bored        fangs        hunger       pummel       sneeze       warn
+bounce       fart         imitate      purr         sniff        wave
+bow          fft          jiggy        pyscho       sniffle      wedgy
+cackle       fidget       jump         quack        snore        whimper
+camn         fist         kic          rag          snort        whine
+cance        flex         lag          rage         snuggle      whip
+caress       flip         laugh        raise        sob          whistle
+cgar         foam         listen       rant         spank        wicked
+choke        fondle       lol          relax        spaz         wiggle
+chuckle      freeze       loom         rofl         spin         wild
+clap         french       lust         roll         spit         wince
+clean        froth        maniac       rps          squeal       wink
+cluck        frown        massage      rub          squint       woot
+comb         fume         meow         ruffle       squirm       worry
+comfort      fun          monkey       sad          stab         worship
+compose      gag          moo          salute       stagger      writhe
+confused     gibber       mosh         satisfied    stand        yawn
+cornholio    giggle       munch        scowl        stare        yodel
+cough        glare        murmur       scratch      stomp
+count        glaze        mutter       scream       stretch
+cower        gnaw         narrow       seduce       strip
+crack        goose        nervous      shake        strut
+crazy        grab         nibble       shiver       suck
+
+For social commands that do not appear on this list, you can use the
+^mEMOTE^x command. This will allow you to customize your character's behavior.
+

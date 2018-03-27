@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<Creature Num="568" Area="ocean" Version="2.40">
+  <Name>green knight</Name>
+  <Level>4</Level>
+  <Type>1</Type>
+  <Experience>65</Experience>
+  <Coins>
+    <Coin Num="2">20</Coin>
+  </Coins>
+  <Alignment>50</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>35</Current>
+      <Max>35</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>he waits silently as you prepare yorself for this test.</Description>
+  <Keys>
+    <Key Num="0">knight</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>100</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>2</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>I am strong, but if God wants you to join us, you will prevail over me</Talk>
+  <DefenseSkill>35</DefenseSkill>
+  <AttackPower>130</AttackPower>
+  <WeaponSkill>35</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">633</Carry>
+    <Carry Area="ocean" Num="1">633</Carry>
+    <Carry Area="ocean" Num="2">633</Carry>
+    <Carry Area="ocean" Num="3">633</Carry>
+    <Carry Area="ocean" Num="4">633</Carry>
+    <Carry Area="ocean" Num="5">633</Carry>
+    <Carry Area="ocean" Num="6">633</Carry>
+    <Carry Area="ocean" Num="7">633</Carry>
+    <Carry Area="ocean" Num="8">633</Carry>
+    <Carry Area="ocean" Num="9">633</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="12"/>
+    <Bit Num="40"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

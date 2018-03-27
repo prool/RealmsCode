@@ -1,0 +1,16 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |     Help on:  slow spell       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 30
+
+The slow spell decreases your dexterity, making you slower and unable to perform
+tasks as efficiently. This spell does not last long, but while it is in
+effect, you are only able to attack every 4 seconds in combat instead of every 3.
+A slow spell counteracts the effects of a haste spell.
+
+A slow spell will cancel out the frenzy ability.
+Only a mage, lich, druid, or cleric may cast this spell.
+
+Syntax:
+cast slow <target>
+

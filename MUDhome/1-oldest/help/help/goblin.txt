@@ -1,0 +1,22 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  Goblin          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Adjustments: +1 Strength, +2 Constitution, -3 Intelligence
+Compatible Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf,
+	Fighter/Thief
+
+It is said that after certain gods created elves, other jealous gods attempted
+to create a superior race and failed. The result was the goblin. The goblin is
+a small and repugnant creature with big bulbous eyes and pointy teeth. He is
+quite dull in intellect, yet he can eat almost anything and breeds like a
+rabbit. Goblins are also very strong for their size, often fooling their
+enemies. As a result, a goblin makes a very good fighter or berserker. Many
+tribes of goblins exist in Derlith, often to the chagrin of the areas around
+them, as they often prey on weary travelers and merchants.
+
+Type HELP GOBLINS for roleplaying information.
+
+See in dark (infravision): Yes
+Size class: Small

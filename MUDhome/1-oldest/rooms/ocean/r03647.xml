@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Room Num="3647" Version="2.40" Area="ocean">
+  <Name>Dark Tunnel</Name>
+  
+  <Established>764987937</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

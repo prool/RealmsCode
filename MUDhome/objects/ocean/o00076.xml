@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="76" Area="ocean" Version="2.40">
+  <Name>thieves' boots</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>20</ShotsMax>
+  <ShotsCur>20</ShotsCur>
+  <Armor>8</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">780</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">boots</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="4"/>
+  </Flags>
+  <Description>They look rather stealthy.</Description>
+  <Weight>3</Weight>
+  <Type>6</Type>
+  <WearFlag>8</WearFlag>
+  <InBag/>
+</Object>

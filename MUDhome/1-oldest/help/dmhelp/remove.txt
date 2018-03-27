@@ -1,0 +1,10 @@
+Help on DM command:
+	REMOVE
+
+Works as the player command, except the player is not notified his
+weapon/armor has been removed. The item stays in the player's inventory.
+
+: Min wields a hoe.
+: *remove hoe min
+You remove the hoe from Min's worn equipment.
+

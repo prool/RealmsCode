@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<Creature Num="554" Area="ocean" Version="2.40">
+  <Name>the desk clerk</Name>
+  <Level>7</Level>
+  <Type>1</Type>
+  <Experience>180</Experience>
+  <Coins>
+    <Coin Num="2">50</Coin>
+  </Coins>
+  <Alignment>20</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>140</Current>
+      <Max>140</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>140</Current>
+      <Max>140</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>90</Current>
+      <Max>90</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a hobbit wearing an orange suit and no shoes.</Description>
+  <Keys>
+    <Key Num="0">desk</Key>
+    <Key Num="1">clerk</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>200</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>3</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>by the hour?  No, we don't rent rooms like that.  Begone, slime!</Talk>
+  <DefenseSkill>65</DefenseSkill>
+  <AttackPower>150</AttackPower>
+  <WeaponSkill>65</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">616</Carry>
+    <Carry Area="ocean" Num="1">616</Carry>
+    <Carry Area="ocean" Num="2">616</Carry>
+    <Carry Area="ocean" Num="3">616</Carry>
+    <Carry Area="ocean" Num="4">616</Carry>
+    <Carry Area="ocean" Num="5">616</Carry>
+    <Carry Area="ocean" Num="6">616</Carry>
+    <Carry Area="ocean" Num="7">616</Carry>
+    <Carry Area="ocean" Num="8">616</Carry>
+    <Carry Area="ocean" Num="9">616</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

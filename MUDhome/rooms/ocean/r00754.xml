@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="754" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are on Wakeforest Drive, which cuts through the Wakarimasu Park.</ShortDescription>
+  <LongDescription>As you approach the northern end of the park, you see that a heavy brush 
+and thick trees block off what you can see.  This protective cover on the
+north side of the park prevents people from seeing the real purpose of
+the park, which is actually a shrine to ancient oriental gods.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">753</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">755</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

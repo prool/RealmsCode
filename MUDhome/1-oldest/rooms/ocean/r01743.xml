@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1743" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are walking along Wakeforest Drive, just west of the City Walls.</ShortDescription>
+  <LongDescription>Wakeforest Drive runs north and south past the eastern City Walls, which
+run parallel to Wakeforest on the east side of the road.  On the west 
+side of the road is the Dwarven Shrine of Moradin, the creator god of 
+the dwarven race.  All dwarves in the city are required to make an annual
+pilgrimage to the Shrine to give thanks or repentance to the god.
+The Oceancrest Orphanage is further south on Wakeforest Drive.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1742</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1744</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2861" Version="2.40a" Area="ocean">
+  <Name>Plasnelt Lake Bottom</Name>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="21"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2860</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2862</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

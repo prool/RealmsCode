@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="754" Area="ocean" Version="2.40">
+  <Name>training key</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>92</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">key</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>This key will unlock the door to the straw hut's training room.</Description>
+  <Weight>1</Weight>
+  <Type>12</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

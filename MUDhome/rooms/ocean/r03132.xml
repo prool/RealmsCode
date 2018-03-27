@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3132" Version="2.40" Area="ocean">
+  <Name>East Uland Way</Name>
+  <ShortDescription>You are on East Uland Way, not far from the bluffs dropping into the sea.</ShortDescription>
+  <LongDescription>Calling this a street would be a real travesty, since its mostly a mud path,
+but there are a number of small businesses along here.  A few cottages can
+be seen further back in the thick jungle brush.  If you look eastward, you
+can see the bluffs which rise above the Respitial Sea.  Looking to the south
+is a strip of land with a few brightly colored tents on it.  Looks like a
+flea market from the number of people carrying odd looking stuff.</LongDescription>
+  
+  <Established>769796384</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3131</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3133</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3912</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

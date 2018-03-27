@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="566" Area="ocean" Version="2.40">
+  <Name>silk scarf</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>15</ShotsMax>
+  <ShotsCur>15</ShotsCur>
+  <Armor>8</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">scarf</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="26"/>
+  </Flags>
+  <Description>The scarf is pure silk, but has a sparkle as if it were enchanted.</Description>
+  <Weight>1</Weight>
+  <Type>6</Type>
+  <SubType>cloth</SubType>
+  <WearFlag>4</WearFlag>
+  <InBag/>
+</Object>

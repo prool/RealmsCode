@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1474" Version="2.40" Area="ocean">
+  <Name>Eastern Corridor</Name>
+  <ShortDescription>You are in the eastern corridor on the second floor of the palace.</ShortDescription>
+  <LongDescription>The eastern corridor brings you around to the back of the palace.  This
+area is primarily used by the servants and maids to bring refreshments
+to the guests in the lounge and recreation room.  To the north, you can
+see the front of the palace and the front balcony.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">130</Mob>
+      <Mob Area="ocean" Num="1">130</Mob>
+      <Mob Area="ocean" Num="2">130</Mob>
+      <Mob Area="ocean" Num="3">172</Mob>
+      <Mob Area="ocean" Num="4">172</Mob>
+      <Mob Area="ocean" Num="5">174</Mob>
+      <Mob Area="ocean" Num="6">174</Mob>
+      <Mob Area="ocean" Num="7">174</Mob>
+      <Mob Area="ocean" Num="8">173</Mob>
+      <Mob Area="ocean" Num="9">173</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1469</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1475</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

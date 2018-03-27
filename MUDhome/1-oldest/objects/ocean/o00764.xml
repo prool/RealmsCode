@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="764" Area="ocean" Version="2.40">
+  <Name>pick axe</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>10</ShotsMax>
+  <ShotsCur>10</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>5</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">4400</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">axe</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="1"/>
+    <Bit Num="22"/>
+  </Flags>
+  <Description>You see an axe of the sort used by dwarves to dig tunnels.  It's very sharp.</Description>
+  <Weight>10</Weight>
+  <Type>5</Type>
+  <SubType>axe</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

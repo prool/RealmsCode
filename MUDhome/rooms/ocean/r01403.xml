@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1403" Version="2.40" Area="ocean">
+  <Name>Northern Hall</Name>
+  <ShortDescription>You are in the north hallway of the Palace.</ShortDescription>
+  <LongDescription>The palace hallway continues to the west.  To the north is the Recreation
+Room, where visitors and apprentice mages gather to discuss their latest
+creations or what new spells they have learned.  The eastern hallway
+begins to the south.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">126</Mob>
+      <Mob Area="ocean" Num="1">126</Mob>
+      <Mob Area="ocean" Num="2">130</Mob>
+      <Mob Area="ocean" Num="3">130</Mob>
+      <Mob Area="ocean" Num="4">130</Mob>
+      <Mob Area="ocean" Num="5">130</Mob>
+      <Mob Area="ocean" Num="6">130</Mob>
+      <Mob Area="ocean" Num="7">126</Mob>
+      <Mob Area="ocean" Num="8">126</Mob>
+      <Mob Area="ocean" Num="9">130</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1402</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1404</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1429</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

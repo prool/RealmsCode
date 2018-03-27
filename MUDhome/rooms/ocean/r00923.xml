@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="923" Version="2.40" Area="ocean">
+  <Name>The Dragon Arena</Name>
+  <ShortDescription>You are in the large dragon's arena.</ShortDescription>
+  <LongDescription>The elves have captured a number of dragons to fight with in an
+eventual attempt to learn their techniques and defeat them once and
+for all.  This is where the real warriors train for their adventures
+in the Dragon's Lair.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>14</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">199</Mob>
+      <Mob Area="ocean" Num="1">56</Mob>
+      <Mob Area="ocean" Num="2">92</Mob>
+      <Mob Area="ocean" Num="3">56</Mob>
+      <Mob Area="ocean" Num="4">56</Mob>
+      <Mob Area="ocean" Num="5">93</Mob>
+      <Mob Area="ocean" Num="6">92</Mob>
+      <Mob Area="ocean" Num="7">93</Mob>
+      <Mob Area="ocean" Num="8">93</Mob>
+      <Mob Area="ocean" Num="9">93</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">925</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

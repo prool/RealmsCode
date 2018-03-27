@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1258" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along Overland Drive, just east of Eidenhoft Boulevard.</ShortDescription>
+  <LongDescription>Overland Drive intersects with Eidenhoft Boulevard to the west.  On the
+south side of the street, you can see the Odgen Family Villa, where much
+of the politics of the city are usually decided.  The Odgen Family have
+their hands in nearly every aspect of the political activity in the city,
+and they even have some connections with Lyanden Castle.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1257</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1153</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3265</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

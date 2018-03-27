@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5303" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>You are traveling on Lyanden Road, not far from the City of Oceancrest.</ShortDescription>
+  <LongDescription>This is the top of a small hill, and looking west you can see the walls
+of Oceancrest in the distance.  The road runs down the hill in the southern
+direction.  There is a grove of walnut and oak trees down in the valley
+to the north.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5302</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5304</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

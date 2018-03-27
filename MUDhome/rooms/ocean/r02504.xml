@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2504" Version="2.40" Area="ocean">
+  <Name>Charybdis Way</Name>
+  <ShortDescription>You are south of Tower Lane, and north of a snow white building.</ShortDescription>
+  <LongDescription>The building, located on  west side of the street, is a research hospital
+financed by one of the paladin orders.  Seems they are interested in the
+process of life and death, and as such have built this hospital for the
+purpose of investigating this interesting cycle.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2032</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2505</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

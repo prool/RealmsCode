@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  resist-magic spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 25
+School:  Abjuration
+Domain:  Not Castable
+
+This spell protects its target from magical attacks. This spell will form a
+magical shield around the target that will prevent many spells from affecting
+it. However, any benefitial spells that can affect the target still will. Only
+mages and liches may cast this spell.
+
+Syntax:
+cast resist-magic <target>

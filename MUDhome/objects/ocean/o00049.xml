@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="49" Area="ocean" Version="2.40">
+  <Name>silver key</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>2</ShotsMax>
+  <ShotsCur>2</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">key</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>It's a little rusted, but it still looks like it will work.</Description>
+  <UseOutput>The door makes a slight creak as you unlock it.</UseOutput>
+  <Weight>1</Weight>
+  <Type>12</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

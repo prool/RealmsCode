@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="2078" Version="2.40" Area="ocean">
+  <Name>East Tower Stairway</Name>
+  <ShortDescription>You are in the eastern tower stairwell which winds around the large tower.</ShortDescription>
+  <LongDescription>This tower seems to be endless in in height.  At least the stairwell seems
+to go forever.  Every time you take a step, either up or down, it seems as
+though you have not moved at all.  The stairwell smells of mildew and wood
+rot.  However, there is a wonderful smell of perfume coming from above.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">2074</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">2077</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="1637" Version="2.41b" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive, west of a large shopping center.</ShortDescription>
+  <LongDescription>The large shopping center on the east caters to the less wealthy 
+people in town who need some light protection without having to pay an
+arm and a leg for armor they don't need.  Catherine's Weapons Shop
+provides adventurers with light weapons to handle themselves on the
+some of the more dangerous streets at night.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">5</Mob>
+      <Mob Area="ocean" Num="3">5</Mob>
+      <Mob Area="ocean" Num="4">6</Mob>
+      <Mob Area="ocean" Num="5">1</Mob>
+      <Mob Area="ocean" Num="6">2</Mob>
+      <Mob Area="ocean" Num="7">3</Mob>
+      <Mob Area="ocean" Num="8">4</Mob>
+      <Mob Area="ocean" Num="9">10</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1636</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1638</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2260</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

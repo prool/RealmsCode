@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="2041" Version="2.40" Area="ocean">
+  <Name>Garden Circle Road</Name>
+  <ShortDescription>You are on the southernmost side of the famous Hanging Gardens.</ShortDescription>
+  <LongDescription>There is a trail to the south leading out of Kista into the dense woods.
+Kista was founded by the Triad of Wisdom after the fall of Randolf, the
+creater of the Hanging Gardens.  The Triad represent the three dominant
+races whom the elves had contact with: the humans and the dwarves. 
+Although the elves were not comfortable with dwarves, they persuaded them
+to be a part of the Triad to promote peace in the land.  The Gardens were
+maintained in honor of the coming together.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2560</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2040</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2578</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

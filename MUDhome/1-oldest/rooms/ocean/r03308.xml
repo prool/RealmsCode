@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3308" Version="2.40" Area="ocean">
+  <Name>A Dark Corner</Name>
+  
+  <Established>758611300</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7500</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">447</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3305</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3309</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

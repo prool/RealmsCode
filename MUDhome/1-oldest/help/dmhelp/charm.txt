@@ -1,0 +1,10 @@
+Help on DM command:
+	CHARM
+
+Displays a list of who / what the person has charmed.
+
+: *charm dominus
+Charm list for Dominus:
+nobleman.
+Min.
+

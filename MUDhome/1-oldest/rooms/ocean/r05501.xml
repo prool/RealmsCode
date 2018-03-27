@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5501" Version="2.40" Area="ocean">
+  <Name>Rue Caledonia</Name>
+  <ShortDescription>You are south of Hafnia Central park on Rue Caledonia.</ShortDescription>
+  <LongDescription>To the south is the circle road which travels all the way around the city.
+On the west side of the street is a large lot covered with tents and
+a lot of people.  Looks like another caravan is getting ready to leave
+the city.  A lot of stuff comes here from Oceancrest, but Hafnia also
+exports some very finely made elven crafts, such as archery tackle.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5507</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">921</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3833" Version="2.40" Area="ocean">
+  <Name>Oceancrest Mercernary Services</Name>
+  <ShortDescription>You are in the seedy little office of a group of mercenaries.</ShortDescription>
+  <LongDescription>Long ago when Oceancrest was a new city, a group of adventurers banded
+together and made their services available to any who would pay.  After
+a number of years the older adventurers retired or died, and today only
+a few old-timers are left, and a few unproven new members.  You get what
+you pay for.</LongDescription>
+  
+  <Established>769561178</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">15</Mob>
+      <Mob Area="ocean" Num="1">15</Mob>
+      <Mob Area="ocean" Num="2">15</Mob>
+      <Mob Area="ocean" Num="3">15</Mob>
+      <Mob Area="ocean" Num="4">15</Mob>
+      <Mob Area="ocean" Num="5">15</Mob>
+      <Mob Area="ocean" Num="6">15</Mob>
+      <Mob Area="ocean" Num="7">15</Mob>
+      <Mob Area="ocean" Num="8">15</Mob>
+      <Mob Area="ocean" Num="9">15</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">657</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3854</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="5042" Version="2.40" Area="ocean">
+  <Name>Sky Over Gotland Glenn Creek</Name>
+  <ShortDescription>You are flying over a creek which flows from the north.  50.n2.e3.s0.w0</ShortDescription>
+  <LongDescription>The creek evidently splits off from the Baldywyne, and takes a route more
+towards the southeast, in the direction of the city of Kista, where the
+beautiful towers are located.   The great copper dragon beneath you flies
+effortlessly.</LongDescription>
+  
+  <Established>772228504</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5043</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5041</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5066</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5034</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

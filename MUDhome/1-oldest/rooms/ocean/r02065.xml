@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Room Num="2065" Version="2.40" Area="ocean">
+  <Name>East Hallway</Name>
+  <ShortDescription>The eastern hallway comes to an end here.  There is a door to the east.</ShortDescription>
+  <LongDescription>Surprisingly, this place seems to be much smaller inside than it appears
+to be from the outside.  Although the hallway seems pretty long, there's
+not much to see.  The door on the east wall says "Alchemist - Keep Out".   
+You see a small wisp of smoke rising from the crack under the door.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">736</Mob>
+      <Mob Area="ocean" Num="1">736</Mob>
+      <Mob Area="ocean" Num="2">736</Mob>
+      <Mob Area="ocean" Num="3">736</Mob>
+      <Mob Area="ocean" Num="4">736</Mob>
+      <Mob Area="ocean" Num="5">736</Mob>
+      <Mob Area="ocean" Num="6">736</Mob>
+      <Mob Area="ocean" Num="7">736</Mob>
+      <Mob Area="ocean" Num="8">736</Mob>
+      <Mob Area="ocean" Num="9">736</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">736</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">736</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2064</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2066</Room>
+      <Flags>
+        <Bit Num="18"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="423" Version="2.40" Area="ocean">
+  <Name>Bendine Way/Darmanian Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Darmanian Way and Bendine Way.</ShortDescription>
+  <LongDescription>Darmanian Way runs east and west out of the intersection while Bendine 
+Way runs north and south.  On the southeastern corner of the intersection
+is the Blue Rose Meditation Chamber.  On the southwestern corner is the
+Cathedral of Worldly Bliss, and on the northwestern corner is the Oceancrest
+Municiple Library.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">422</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">424</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">467</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">468</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="763" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are travelling along Wakeforest Drive, east of the Iilandi University.</ShortDescription>
+  <LongDescription>On the west side of the road, you can see the magnificent building known
+as the Chancellor's Hall in the Illandi University complex.  The University
+is one of the most prestigious in the realm, and gladly accepts any student
+who has a desire to learn.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">762</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1739</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

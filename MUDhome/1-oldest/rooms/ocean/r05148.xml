@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="5148" Version="2.40" Area="ocean">
+  <Name>Witch's Antechamber</Name>
+  <ShortDescription>You are in a tiny alcove, and can see a large cluttered room to the west.</ShortDescription>
+  <LongDescription>This tiny alcove offers you a dark spot to stand, and the shadows provide
+a place from which to observe the large room.  There seems to be movement
+in there, and a flickering fire.  The shadows move about, but you cannot
+see anyone other than several large and savage looking black cats.  From
+time to time, the single word, "Silventh" floats on the air, and a chuckle.</LongDescription>
+  
+  <Established>773392505</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>steps</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">674</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5149</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="steps">
+      <Keys/>
+      <Room Area="ocean">5147</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="dumbwaiter">
+      <Keys/>
+      <Room Area="ocean">5088</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

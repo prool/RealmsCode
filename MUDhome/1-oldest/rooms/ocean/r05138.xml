@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="5138" Version="2.40" Area="ocean">
+  <Name>South Hall</Name>
+  <ShortDescription>You are in the tall and wide southern hall of the ancient castle.</ShortDescription>
+  <LongDescription>Long tables once ran the length of the hall, and servants proudly brought
+fresh game and other foods from the kitchen.  Now the tables are charred
+timber under a collapsed ceiling.  The kitchen can be seen through the
+west doorway.  Not much damage seems to have occured in there.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5127</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5139</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5140</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

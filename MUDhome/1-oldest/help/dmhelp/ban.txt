@@ -1,0 +1,16 @@
+Help on DM command:
+        *BAN <player/site> [dur] [comment] [-p [password]]
+
+The new version of sitelock - bans an IP address from connecting to the mud.
+Duration, comment, and passwords are all optional, though it really is
+recommened you leave a comment so the other DMs know what you were doing.
+This you can use any combination of the last three switches. Typing *ban
+by itself will display a list of banned sites.
+
+: *ban 218.50.*.* Repeatedly disrespectful, multiple innappropriate character names
+'218.50.*.*' has been banned indefinately. Reason: 'Repeatedly disrespectful, multiple innappropriate character names'.
+
+: *ban choi
+Choi (211.178.124.254) has been banned indefinately. Reason: 'No reason given'.
+### Choi just logged off. (2013)
+

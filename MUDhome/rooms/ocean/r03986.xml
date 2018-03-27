@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3986" Version="2.40" Area="ocean">
+  <Name>Trantori's Store Room</Name>
+  <ShortDescription>You are in the store room of Trantori, the High Invoker.</ShortDescription>
+  <LongDescription>There's not much in here except a pile of dirty clothes and a stack of
+dull blue balls in a net, hanging from the ceiling.  The blue balls look
+to be the sort that carry enchantments, but these must be either duds or
+ones that are not ready yet.   They don't have that pretty glow to them.
+On a table is a red sash, carelessly thrown there.</LongDescription>
+  
+  <Established>771321491</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>900</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">691</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3985</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

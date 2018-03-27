@@ -1,0 +1,9 @@
+Available flag help files:
+  Monster flags:  ^Wmflags^x
+  Object flags:   ^Woflags^x
+  Room flags:     ^Wrflags^x
+  Exit flags:     ^Wxflags^x
+  Spell flags:    ^Wsflags^x
+
+  Special Attack flags:    ^Wsaflags^x
+

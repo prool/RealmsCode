@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="555" Version="2.40a" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are on Oceancrest Avenue, running east and west through town.</ShortDescription>
+  <LongDescription>On the north side of the road, you can see the great Fellowship Hall, 
+home of the religious cult known to most as just the Fellowship.  On the
+south side of the road is the Oceancrest Recycling Plant, where useless
+goods are disposed of and recycled into more useless goods.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">512</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">556</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">21</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

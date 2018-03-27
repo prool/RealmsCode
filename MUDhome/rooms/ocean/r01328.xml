@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1328" Version="2.40" Area="ocean">
+  <Name>Ministry Way</Name>
+  <ShortDescription>You are traveling along Ministry Way, east of Miriam's Repair Shop.</ShortDescription>
+  <LongDescription>Miriam is one of the finest blacksmiths in the town, but limits his work
+to just repairing armor, claiming that more people are willing to fix
+their armors instead of buying new stuff.  On the east side of the road
+are the three North Oceancrest Ministries.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1327</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1329</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

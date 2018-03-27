@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3133" Version="2.40" Area="ocean">
+  <Name>East Uland Way</Name>
+  <ShortDescription>You are traveling on the old carriage road for the Uland Mansion.</ShortDescription>
+  <LongDescription>One of the most notorious pirates that ever sailed the Respitial Sea built
+his mansion on the bluffs overlooking the sea he loved.  Or so the stories
+say.  No living sober person has ever found the place.  However, there are 
+plenty of tales of its existance back in the pubs and bars along Rum Road.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3132</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3134</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

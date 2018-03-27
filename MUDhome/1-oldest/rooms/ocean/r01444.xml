@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1444" Version="2.40" Area="ocean">
+  <Name>Basement Hallway</Name>
+  <ShortDescription>You are in a small hallway deep in the basement of the Palace.</ShortDescription>
+  <LongDescription>With the exception of a passing guard, this area of the basement 
+appears to be quite desolate.  To the north, you can see a bit
+more activity.  A lot of people appear to be going into a large
+room in the west.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">174</Mob>
+      <Mob Area="ocean" Num="1">173</Mob>
+      <Mob Area="ocean" Num="2">130</Mob>
+      <Mob Area="ocean" Num="3">130</Mob>
+      <Mob Area="ocean" Num="4">130</Mob>
+      <Mob Area="ocean" Num="5">126</Mob>
+      <Mob Area="ocean" Num="6">172</Mob>
+      <Mob Area="ocean" Num="7">172</Mob>
+      <Mob Area="ocean" Num="8">172</Mob>
+      <Mob Area="ocean" Num="9">172</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1441</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1440</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1443</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

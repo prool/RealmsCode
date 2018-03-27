@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5314" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>You are traveling east/west on Lyanden Road, just east of Forest Road.</ShortDescription>
+  <LongDescription>To the north and east you see a forbidding mountain range in the distance
+and occasionally feel a chill gust of wind that came down off the snow-
+covered peaks.  Rumors speak of a race of giants who live there, and of
+course there are the mountain trolls.  The Enchanted Forest is north of you.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5313</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5315</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="77" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>You are on Main Street, one of the busiest streets in Brownhaven.</ShortDescription>
+  <LongDescription>To the north and south continue Main Steet.  To the west you can see a
+shoppe with a large wooden sign hanging in front of it.  The sign has a
+shield on it that says, "Discount Armor."  Another armor shop is a little
+farther north, on the other side of the street, next to the park.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">67</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">87</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">94</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">58</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

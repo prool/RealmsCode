@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="1974" Version="2.40" Area="ocean">
+  <Name>Ennia's Pet Playroom</Name>
+  <ShortDescription>You are in a large terrerium where numerous pets are kept on display.</ShortDescription>
+  <LongDescription>This large room is surrounded by glass and protected from the outside
+world.  Oddly, you have found yourself curious about the animals in
+the room and have foolishly entered.  The large scorpions and spiders
+probably think you're dinner.  They're obviously not in the mood for
+playing around.  It's a good think Ennia carries a good number of 
+poison remedies.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1972</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

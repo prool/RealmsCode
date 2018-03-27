@@ -1,0 +1,13 @@
+
+Help on: *reset
+
+	This command allows a Creator or higher to reset all permanent
+object and monster timeout information to 0. This needs to be done when
+an admin kills a perm monster or gets and object, and wants it to come
+back before its timeout period. Simply run *reset, then *t back into
+the room instead of unperming an re-perming everything.
+
+Example
+:*reset
+Permanent object and creature timeouts reset.
+

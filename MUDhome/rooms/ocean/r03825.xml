@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3825" Version="2.40" Area="ocean">
+  <Name>Left Platform</Name>
+  <ShortDescription>You are clinging to the left platform, high above the tigers in the Carnival.</ShortDescription>
+  <LongDescription>Sitting high above the tigers, the view from here is extraordinary.  You
+can see just about everywhere, although everything looks so small.  The
+only exits are back to the highwire and, heaven forbid, down.  It looks
+like you could just about miss the cage directly below if you jumped out
+far enough.</LongDescription>
+  
+  <Established>765770668</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="wire">
+      <Keys/>
+      <Room Area="ocean">3832</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3828</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

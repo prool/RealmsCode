@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Room Num="784" Version="2.40" Area="ocean">
+  <Name>Red Ruby Hall</Name>
+  <ShortDescription>You are in a hall composed completely of sparkling red rubies.  The rubies
+reflect so much light that the entire corridor appears to be red.  The
+passage continues to the north and south, both ends terminating in crystal
+intersections.  To the east, there is a large room covered in gold plates.</ShortDescription>
+  <LongDescription>You try to escape the brilliant red light of the ruby hall but without
+much success.  Carefully examining the hallway, you find a short, cryptic 
+message written on the floor near the west wall.  It says: "HELP."  As you
+walk closer to it, the letters disappear into the redness of the hallway.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">782</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">778</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">785</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">787</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

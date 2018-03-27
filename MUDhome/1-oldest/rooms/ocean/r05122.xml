@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="5122" Version="2.40" Area="ocean">
+  <Name>Castle Kayleigh Tower</Name>
+  <ShortDescription>You are the back of a copper dragon, sitting on the Tower of Kayleigh.</ShortDescription>
+  <LongDescription>The stone is blackened from a long ago fire, and all the doors have turned to
+ashes.  Every portal seems to be open.  As you look over the side, you can
+see a seething, bubbling moat.  It appears to be filled with acid.</LongDescription>
+  
+  <Established>773379211</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>dismount</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5120</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="dismount">
+      <Keys/>
+      <Room Area="ocean">5121</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

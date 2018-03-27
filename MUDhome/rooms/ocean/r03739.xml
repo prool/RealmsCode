@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3739" Version="2.40a" Area="ocean">
+  <Name>Dragon Tooth Inn Registration Desk</Name>
+  <ShortDescription>You are at the registration desk of the Dragon Tooth Inn.</ShortDescription>
+  <LongDescription>The vestibule and main entry is to the north,while the grand ballroom
+is immediately to the east.  You see a sweeping stairway leading to the
+upper floors of the inn, where a number of luxurious rooms are located.
+There is a dark hallway behind the desk with a sign over the door that
+says, "keep out."</LongDescription>
+  
+  <Established>764535787</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">554</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="ballroom">
+      <Keys/>
+      <Room Area="ocean">3724</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hallway">
+      <Keys/>
+      <Room Area="ocean">3734</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stairway">
+      <Keys/>
+      <Room Area="ocean">3725</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3722</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

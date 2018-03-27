@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="66" Area="ocean" Version="2.40">
+  <Name>flail</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>60</ShotsMax>
+  <ShotsCur>60</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>6</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">420</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Description>It's a threshing device with two wooden blocks attached by a chain.</Description>
+  <Weight>5</Weight>
+  <Type>5</Type>
+  <SubType>mace</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

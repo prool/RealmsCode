@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1693" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are on Golden Dolphin Way, just north of the great City Walls.</ShortDescription>
+  <LongDescription>The vast City Walls have been the protectors of Oceancrest for as long
+as anyone can remember.  On the north side of the road, you can see
+the Farmer's Federation Building, where the farmers all gather to
+discuss local politics and how it will adversly affect their well-being.
+The farmer's lobby is one of the most powerful political units in 
+Oceancrest and should not be taken lightly.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1692</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1694</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

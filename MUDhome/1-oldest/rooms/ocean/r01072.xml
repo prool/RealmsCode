@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1072" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, approaching the southwestern shopping areas.</ShortDescription>
+  <LongDescription>Nagaritha Drive is directly to the north of this point.  To the east,
+you can see a large banner which reads "Dangerous Destinations: Guide
+to the Universe."  The entrance appears to be around the corner off of
+Nagaritha Drive.  There seems to be a bit of a ruckus towards the south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1071</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1073</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

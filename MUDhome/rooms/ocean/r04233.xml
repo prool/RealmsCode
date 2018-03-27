@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="4233" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>You are on the northwest corner of Castle Rutger, on the ground floor.</ShortDescription>
+  <LongDescription>This part of the hallway has a divider down the center, and the ladies of
+the castle generally separate when they come to it, with the single maidens
+taking the side closest to the inside wall and the matrons the other side.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">255</Mob>
+      <Mob Area="ocean" Num="1">266</Mob>
+      <Mob Area="ocean" Num="2">266</Mob>
+      <Mob Area="ocean" Num="3">266</Mob>
+      <Mob Area="ocean" Num="4">255</Mob>
+      <Mob Area="ocean" Num="5">266</Mob>
+      <Mob Area="ocean" Num="6">266</Mob>
+      <Mob Area="ocean" Num="7">266</Mob>
+      <Mob Area="ocean" Num="8">255</Mob>
+      <Mob Area="ocean" Num="9">266</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4232</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4234</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

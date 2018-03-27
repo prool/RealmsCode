@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="356" Version="2.40" Area="ocean">
+  <Name>Rum Road South</Name>
+  <ShortDescription>You are at the southern end of Rum Road, the only road in the village.</ShortDescription>
+  <LongDescription>Wagons are pulled up to the double doors of the old wooden building, and
+great barrels and kegs stand everywhere.  Some are empty, but most appear
+to be full of rum.  All of the workmen you see are dwarves, but for the 
+most part they simply ignore you.  On the east side of the road is the
+Red Dog Saloon, one of the most popular places in the village.</LongDescription>
+  
+  <Established>760475997</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">26</Mob>
+      <Mob Area="ocean" Num="1">26</Mob>
+      <Mob Area="ocean" Num="2">497</Mob>
+      <Mob Area="ocean" Num="3">600</Mob>
+      <Mob Area="ocean" Num="4">497</Mob>
+      <Mob Area="ocean" Num="5">210</Mob>
+      <Mob Area="ocean" Num="6">210</Mob>
+      <Mob Area="ocean" Num="7">600</Mob>
+      <Mob Area="ocean" Num="8">497</Mob>
+      <Mob Area="ocean" Num="9">497</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">355</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">357</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">298</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

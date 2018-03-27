@@ -1,0 +1,27 @@
+Factions
+
+Commands:
+     *set c mob pf FACTION
+     *set c mob faction FACTION ##
+
+Ranges, taken from the code:
+     WORSHIP_CUTOFF               31000    // 31000 and higher
+     REGARD_CUTOFF                25000    // 25000 to 30999
+     ADMIRATION_CUTOFF            15000    // 15000 to 24999
+     FAVORABLE_CUTOFF             8000     // 8000 to 14999
+     INDIFFFERENT_CUTOFF          0        // 0 to 7999
+     DISAPPROVE_CUTOFF            -1000    // -1000 to -1
+     DISFAVOR_CUTTOFF             -7000    // -7000 to -1001
+     CONTEMPT_CUTOFF              -8000    // -8000 to -7001
+     MALICE_CUTOFF                -32000   // -8001 and lower
+
+    Unadjusted maximum: 45000
+    Unadjusted minimum: -64999
+
+Only these monster types (*dmh mtypes) will perform worship socials:
+     Humanoid           Monsterous Humanoid
+     Goblinoid          Giantkin
+     Dragon             Faerie
+     Deva               Demon
+     Devil
+

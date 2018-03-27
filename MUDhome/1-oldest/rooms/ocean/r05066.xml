@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="5066" Version="2.40" Area="ocean">
+  <Name>Fluffy White Clouds</Name>
+  <ShortDescription>Ooops.  The clouds are pretty, but hide the direction indicator.</ShortDescription>
+  <LongDescription>It's like being inside a wet marshmallow, and you can't see a thing.
+It's hard to determine just how far a left or right turn will take
+you, and often when you come out of a cloud, you are many kilometers
+from where you think you should be.</LongDescription>
+  
+  <Established>772702210</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>right</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">5042</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right">
+      <Keys/>
+      <Room Area="ocean">5041</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="forward">
+      <Keys/>
+      <Room Area="ocean">5067</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

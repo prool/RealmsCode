@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="6" Version="2.40a" Area="ocean">
+  <Name>Chat Room</Name>
+  <ShortDescription>This is where people can talk privately in peace and quiet.</ShortDescription>
+  
+  <Established>782155422</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">35</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

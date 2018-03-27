@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  well-of-magic spell   | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 40
+School:  Transmutation
+Domain:  Healing
+
+The well-of-magic spell increases the target's mental vitality, allowing
+them to recover magic points at an accelerated rate.
+
+Syntax:
+cast well-of-magic <target>
+

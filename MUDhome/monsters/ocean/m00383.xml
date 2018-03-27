@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<Creature Num="383" Area="ocean" Version="2.40">
+  <Name>the chief bosun</Name>
+  <Class>4</Class>
+  <Level>16</Level>
+  <Type>1</Type>
+  <Experience>1100</Experience>
+  <Coins>
+    <Coin Num="2">600</Coin>
+  </Coins>
+  <Alignment>-25</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>230</Current>
+      <Max>230</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>220</Current>
+      <Max>220</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>He is a half-giant with arms as big as your legs.</Description>
+  <Keys>
+    <Key Num="0">chief</Key>
+    <Key Num="1">bosun</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>250</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>5</Number>
+    <Sides>2</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>What the hell are you doin' below decks?</Talk>
+  <DefenseSkill>155</DefenseSkill>
+  <AttackPower>556</AttackPower>
+  <WeaponSkill>155</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">453</Carry>
+    <Carry Area="ocean" Num="1">449</Carry>
+    <Carry Area="ocean" Num="2">449</Carry>
+    <Carry Area="ocean" Num="3">453</Carry>
+    <Carry Area="ocean" Num="4">450</Carry>
+    <Carry Area="ocean" Num="5">450</Carry>
+    <Carry Area="ocean" Num="6">449</Carry>
+    <Carry Area="ocean" Num="7">453</Carry>
+    <Carry Area="ocean" Num="8">451</Carry>
+    <Carry Area="ocean" Num="9">451</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1154" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>Eidenhoft Boulevard continues to the north and south from here.</ShortDescription>
+  <LongDescription>The long stretch of road runs east of the Oceancrest Central Arena,
+the entrance to which is located just to the north.  The intersection
+with Overland Drive is located to the south, and the Khelleva Stables
+are to the east.  You can see the many beautiful riding horses the
+Khelleva Stables train.  Although most of the horses belong to the 
+Khelleva Family, some are available for trade or purchase.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1155</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1153</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

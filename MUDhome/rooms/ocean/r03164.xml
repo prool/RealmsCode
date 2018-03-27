@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3164" Version="2.40" Area="ocean">
+  <Name>Lost in the Respitial Sea</Name>
+  <ShortDescription>You are floating on the waves in a vast sea.  Land is nowhere in sight.</ShortDescription>
+  <LongDescription>You have the sinking feeling (pardon the pun) that you have become lost in
+the sea.  You are probably wondering if you will ever see the land again.
+Wouldn't it be nice to be back in Oceancrest and telling lies to to your
+buddies again?  (You just know they tell 'em to you.)</LongDescription>
+  
+  <Established>756084081</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3165</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3163</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3172</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3168</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

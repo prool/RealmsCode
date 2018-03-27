@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3051" Version="2.40" Area="ocean">
+  <Name>Goblin Underground Hall</Name>
+  <ShortDescription>You are in a dark passage, which leads to the western side of the shrine.</ShortDescription>
+  <LongDescription>Smoky torches are high on the ceiling, giving scant light.  They seem to
+have burned out entirely up ahead in the direction you are traveling.
+The passageway is dry and quiet as you move through it, almost eerie in
+its silence.  A great wooden door with a single, massive symbol carved
+on it is over to the west.</LongDescription>
+  
+  <Established>761306982</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3050</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3052</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3064</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

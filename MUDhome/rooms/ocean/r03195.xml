@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="3195" Version="2.40" Area="ocean">
+  <Name>Pirate Bay</Name>
+  <ShortDescription>You are at the western side of a secluded pirate bay.</ShortDescription>
+  <LongDescription>The cliffs form a protective cove around this part of the bay and cast
+long shadows across the surface of the water.  The water is quite deep
+and dark, making it impossible to see what lies below.  From here you
+can see the entrance to this bay, probably the very spot where the
+Oceancrest Navy blocked the way when they found Morgan's ship in here.
+There are tales in the pubs of Oceancrest that Morgan climbed into the
+rigging of his ship as it went under and screamed he would have his revenge.</LongDescription>
+  
+  <Established>756210537</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">299</Mob>
+      <Mob Area="ocean" Num="1">300</Mob>
+      <Mob Area="ocean" Num="2">301</Mob>
+      <Mob Area="ocean" Num="3">302</Mob>
+      <Mob Area="ocean" Num="4">303</Mob>
+      <Mob Area="ocean" Num="5">304</Mob>
+      <Mob Area="ocean" Num="6">375</Mob>
+      <Mob Area="ocean" Num="7">380</Mob>
+      <Mob Area="ocean" Num="8">381</Mob>
+      <Mob Area="ocean" Num="9">385</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3194</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3196</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3158</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

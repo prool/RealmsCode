@@ -1,0 +1,24 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  Troll         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Adjustments: +1 Strength, +3 Constitution, -1 Dexterity, -1 Intelligence,
+	-2 Piety
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf
+
+Trolls are hideous humanoid beings which stand approximately nine feet tall.
+Their skin is mottled and greenish in color, and they smell terrible. Most
+trolls are uncivilized and totally unintelligent beasts. A few, however, are of
+a different type which actually form themselves into organized tribes to raid
+humans. A troll's favorite food is human flesh, a delicacy which he is always
+hunting for. As a result, trolls are often not allowed into civilized areas and
+are often attacked by guards if sighted within city limits. A troll can live in
+any but the most horrible conditions of filth and as such has an extremely high
+constitution. They aren't very smart or pious, however, as all they care about
+is what they are going to fight or eat next. In general, most other races don't
+like trolls, especially humans.
+
+See in dark (infravision): Yes
+Size class: Large
+

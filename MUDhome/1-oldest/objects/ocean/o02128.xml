@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Object Num="2128" Area="ocean" Version="2.40">
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <InBag/>
+</Object>

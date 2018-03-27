@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="4101" Version="2.40" Area="ocean">
+  <Name>Ashton Falls Resort Entrance</Name>
+  
+  <Established>774989909</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>marble stairs</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="marble stairs">
+      <Keys/>
+      <Room Area="ocean">4100</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4102</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

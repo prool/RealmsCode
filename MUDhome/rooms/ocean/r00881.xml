@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="881" Version="2.41b" Area="ocean">
+  <Name>Rutted Road</Name>
+  <ShortDescription>You are on a deeply rutted road leading through the Chateau Richland Winery.</ShortDescription>
+  <LongDescription>Heavy wagons have been pulled down this road, and the ruts are deep.
+The vines on either side of the road are heavy with this year's crop
+of grapes, and the field hands who pick them can be seen in the distance.
+The road seems to run between a grove of trees to the east and some
+farm buildings to the west.</LongDescription>
+  
+  
+  <HighLevel>10</HighLevel>
+  
+  <Established>755823041</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">880</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">882</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

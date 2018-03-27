@@ -1,0 +1,182 @@
+^WObject Flags^x
+ 1         Perm                   Object is permanent
+ 2         Hidden                 Object is hidden
+ 3         Invisible              Object is invisible
+ 4         SomePrefix             "some" prefix
+ 5         PushPullSpringsTrap    Pushing or pulling this object springs the
+                                  room's trap
+ 6         NoPrefix               No prefix
+ 7         Fishing                Can be used to fish
+ 8         NoWgtContain           Container of weightless holding
+ 9         TempPerm               Temporarily permanent
+ 10        InvPerm                Inventory-permanent
+ 11        NoMageLich             Mages and liches cannot wear/use object
+ 12        LightSource            Object serves as a light
+ 13        GoodOnly               Usable only by good players
+ 14        EvilOnly               Usable only by evil players
+ 15        NoEnchant              Object cannot be enchanted
+ 16        NoFix                  Object cannot be repaired
+ 17        ClimbGear              Climbing gear
+ 18        NoTake                 Object cannot be taken
+ 19        Scenery                Part of room description/scenery (hidden,
+                                  cannot be searched for)
+ 20        Darkness               Object creates magical darkness
+ 21        Hot                    Object is hot (can be used in cooking)
+ 22        RandEnchant            Object is randomly enchanted
+ 23        Cursed                 Object is cursed
+ 24        Worn                   Object is being worn
+ 25        FloorUse               Can be used from the floor
+ 26        Devours                Container devours items
+ 27        FemaleOnly             Usable by only females
+ 28        MaleOnly               Usable by only males
+ 29        SexlessOnly            Usable by only sexless creatures
+ 30        PledgeOnly             Usable by only pledged players
+ 31        Magic                  Object is magical (displays (M) with detect-magic)
+ 32        ClassInvert            Invert class-restriction rules
+ 33        Assassin               Only Assassins may use
+ 34        Berserker              Only Berserkers may use
+ 35        Cleric                 Only Clerics may use
+ 36        Fighter                Only Fighters may use
+ 37        Mage                   Only Mages may use
+ 38        Paladin                Only Paladins may use
+ 39        Ranger                 Only Rangers may use
+ 40        Thief                  Only Thieves may use
+ 41        Vampire                Only Vampires may use
+ 42        Monk                   Only Monks may use
+ 43        Deathknight            Only Deathknights may use
+ 44        Druid                  Only Druids may use
+ 45        Lich                   Only Liches may use
+ 46        Werewolf               Only Werewolves may use
+ 47        Bard                   Only Bards may use
+ 48        Rogue                  Only Rogues may use
+ 49        Disposable             Object will not keep area room in memory
+ 50        NoShatter              Weapon will never shatter
+ 51        AlwaysCrit             Weapon will always critical
+ 52        Lucky                  Object is a luck charm
+ 53        Casts                  Weapon casts spells on hit (realm-offensive only)
+ 54        TwoHands               Weapon requires two hands to wield (no
+                                  double wield)
+ 55        EquipEffect            Equiping this object bestows an effect
+ 56        JustLoaded             Object was just loaded on a monster and
+                                  hasn't been obtained by a player yet so exp
+                                  can be gained from stealing it
+ 57        ChaoticOnly            Chaotics only
+ 58        LawfulOnly             Lawfuls only
+ 59        TmpEnchant             Temporarily enchanted
+ 60        StartingItem           Starting item - cannot be stolen or pawned
+                                  for money
+ 61        ^yUnused^x
+ 62        Clan1                  Only clan 1 may use
+ 63        Clan2                  Only clan 2 may use
+ 64        Clan3                  Only clan 3 may use
+ 65        Clan4                  Only clan 4 may use
+ 66        Clan5                  Only clan 5 may use
+ 67        Clan6                  Only clan 6 may use
+ 68        Clan7                  Only clan 7 may use
+ 69        Clan8                  Only clan 8 may use
+ 70        Clan9                  Only clan 9 may use
+ 71        Clan10                 Only clan 10 may use
+ 72        ^yUnused^x
+ 73        ^yUnused^x
+ 74        ^yUnused^x
+ 75        ^yUnused^x
+ 76        ^yUnused^x
+ 77        ^yUnused^x
+ 78        ^yUnused^x
+ 79        ^yUnused^x
+ 80        ^yUnused^x
+ 81        LoadAll                When trading, load all RandomObjects, rather
+                                  than a random one
+ 82        R-Dissolve             Object resists dissolve
+ 83        Reclaimed              Object has been reclaimed
+ 84        ^yUnused^x
+ 85        ^yUnused^x
+ 86        ^yUnused^x
+ 87        ^yUnused^x
+ 88        ^yUnused^x
+ 89        ^yUnused^x
+ 90        ^yUnused^x
+ 91        ^yUnused^x
+ 92        Drinkable              You can drink the object
+ 93        Eatable                You can eat the object
+ 94        AlwaysDrop             Monsters always drop this object
+ 95        ConsumeHeal            Consumable object that will heal the player
+ 96        ^yUnused^x
+ 97        ^yUnused^x
+ 98        ^yUnused^x
+ 99        ^yUnused^x
+ 100       Clan11                 Only clan 11 may use
+ 101       Clan12                 Only clan 12 may use
+ 102       ^yUnused^x
+ 103       ^yUnused^x
+ 104       ^yUnused^x
+ 105       Custom                 Object is a custom
+ 106       NoShopLift             Object cannot be shoplifted
+ 107       Stolen                 Object was shoplifted (so people can't sell
+                                  shoplifted items)
+ 108       ^yUnused^x
+ 109       HitsMist               Object can hit misted vampire
+ 110       Silver                 Object made of silver - extra damage to werewolf
+ 111       HoldBonus              Object confers a bonus to hit if held
+ 112       ^yUnused^x
+ 113       NoSteal                Object cannot be stolen
+ 114       1hShield               Object is a small shield
+ 115       ^yUnused^x
+ 116       ^yUnused^x
+ 117       ^yUnused^x
+ 118       ^yUnused^x
+ 119       NoPawn                 Object not pawnable
+ 120       BreakDrop              Object breaks when drops
+ 121       Lore                   Player may only have a limited number of
+                                  this object
+ 122       RaceSelInvert          Invert race-selective rules
+ 123       Dwarf                  Only Dwarves may use
+ 124       Elf                    Only Elves may use
+ 125       Half-Elf               Only Half-Elves may use
+ 126       Halfling               Only Halflings may use
+ 127       Human                  Only Humans may use
+ 128       Orc                    Only Orcs may use
+ 129       Half-Giant             Only Half-Giants may use
+ 130       Gnome                  Only Gnomes may use
+ 131       Troll                  Only Trolls may use
+ 132       Half-Orc               Only Half-Orcs may use
+ 133       Ogre                   Only Ogres may use
+ 134       Dark-Elf               Only Dark-Elves may use
+ 135       Goblin                 Only Goblins may use
+ 136       Minotaur               Only Minotaurs may use
+ 137       Seraph                 Only Seraphs may use
+ 138       Kobold                 Only Kobolds may use
+ 139       Cambion                Only Cambions may use
+ 140       Barbarian              Only Barbarians may use
+ 141       Kataran                Only Katarans may use
+ 142       Envenomed              Object has been envenomed
+ 143       NullMagic              Object does not reveal that it is magical to detect-magic
+ 144       NoBreak                Object does not break
+ 145       CanTouchWith           Monks can use touch-of-death with this
+                                  weapon wielded
+ 146       JustBought             Object was just bought and is refundable
+ 147       NoDrop                 Can't drop or otherwise get rid of this object
+ 148       DisplayFile            Display file all at once
+ 149       Breaked                Object is broken by break command
+ 150       SmallBow               Objext is a small bow
+ 151       CoinOperated           Coin operated object
+ 152       Prepared               Object is being prepared
+ 153       StrengthBow            Missile weapon uses strength bonus
+ 154       Unique                 Object is unique or limited
+ 155       NoBulkCont             Bulkless container object
+ 156       NoBulk                 Bulkless object
+ 157       ^yUnused^x
+ 158       NoPeekAt               Object can not be peeked at
+ 159       Bash+                  Object does extra bash damage equal to dice
+ 160       Keep                   Object is being kept - cannot be dropped or
+                                  sole on accident
+ 161       NoBackstab             Cannot backstab with this weapon
+ 162       SaveFull               Save the entire object to pfile/roomfile
+                                  instead of just a reference. Mainly used
+                                  when a ct/dm has changed an item, cleared
+                                  when *saving or for custom
+ 163       BodyPart               Object cannot be peeked/stolen, unset when
+                                  monster dies
+ 164       Darkmetal              Object is a darkmetal item (destroyed in sunlight)
+ 165       Tiefling               Only Tieflings may use
+

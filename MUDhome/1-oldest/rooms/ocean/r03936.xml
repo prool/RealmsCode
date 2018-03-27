@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="3936" Version="2.40" Area="ocean">
+  <Name>Nab's Sitting Room</Name>
+  <ShortDescription>You are in the sitting room reserved for Nab, the great wizard.</ShortDescription>
+  <LongDescription>The room is furnished in tasteful pieces of carved cheerywood and rich
+tapistries in bright colors.  A pot of tea and tiny crystal cups stand on
+the sideboard.  There is an alabaster pillar by the door, with a single
+amethest mounted atop it.  When you look closely, you see dark shadows
+swirl inside the gem.</LongDescription>
+  <LowLevel>10</LowLevel>
+  <HighLevel>10</HighLevel>
+  
+  <Established>771269907</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training room</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3934</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">3939</Room>
+      <Key>82</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

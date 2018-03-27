@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="581" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are on Leviathan Drive, east of the Knightly Order of the White Cross.</ShortDescription>
+  <LongDescription>Directly to the west is a superb apple orchid, with some of the most
+beautiful trees you have ever seen.  Each tree is loaded with large
+and shiny apples.  In the distance to the southeast, across the orchid,
+you can see the towers of the Ashton Falls Resort, where the rich and
+famous stay when they are visiting Oceancrest.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">549</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">582</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

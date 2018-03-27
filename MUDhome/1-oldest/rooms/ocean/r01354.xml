@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1354" Version="2.40" Area="ocean">
+  <Name>Neilian Drive</Name>
+  <ShortDescription>You are walking along Neilian Way, north of the Holy Order of the Red Rose.</ShortDescription>
+  <LongDescription>The Paladin's Holy Order of the Red Rose is located to the south of Neilian
+Drive, but the entrance to the large building is located off of Wakeforest
+Drive, to the east.  The Holy Order provides advanced training to Paladins
+before they apply to the Lyanden Castle for service.  On the north side of
+the road is the North Oceancrest Ministry of Rumor Control, a sort of media
+controller for the city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">750</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1355</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

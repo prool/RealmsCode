@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="539" Area="ocean" Version="2.40">
+  <Name>ruby encrusted rod</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>5</ShotsMax>
+  <ShotsCur>5</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">4000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">encrusted</Key>
+    <Key Num="1">rod</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The ruby rod pulsates with a shimmering red glow.</Description>
+  <Weight>3</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>11</MagicPower>
+  <InBag/>
+</Object>

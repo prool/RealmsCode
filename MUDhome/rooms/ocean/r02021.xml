@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<Room Num="2021" Version="2.40" Area="ocean">
+  <Name>Tiamat Lane/Charybdis Way Intersection</Name>
+  <ShortDescription>Charybdis Way runs north and south, and Tiamat Lane goes east and west.</ShortDescription>
+  <LongDescription>The northeastern corner of the Kista Towers looks similar to the north-
+western corner at the intersection of Tiamat and Pearl.  The moat seems
+much wider here than at Pearl Avenue.  Some say the monsters are bigger 
+on this side.  The entrance to the Great Observatory is east of here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">210</Mob>
+      <Mob Area="ocean" Num="1">211</Mob>
+      <Mob Area="ocean" Num="2">222</Mob>
+      <Mob Area="ocean" Num="3">211</Mob>
+      <Mob Area="ocean" Num="4">221</Mob>
+      <Mob Area="ocean" Num="5">208</Mob>
+      <Mob Area="ocean" Num="6">207</Mob>
+      <Mob Area="ocean" Num="7">208</Mob>
+      <Mob Area="ocean" Num="8">220</Mob>
+      <Mob Area="ocean" Num="9">207</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>moat</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2510</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2511</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2549</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2022</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="moat">
+      <Keys/>
+      <Room Area="ocean">2056</Room>
+      <Flags>
+        <Bit Num="9"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

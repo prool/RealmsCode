@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="546" Version="2.40a" Area="ocean">
+  <Name>Amberton Lane/Lelion Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Lelion Way and Amberton Lane.</ShortDescription>
+  <LongDescription>On the northeast corner of the intersection, you can see a number of 
+small temples and shrines dedicated to the lesser appreciated dieties of
+lesser appreciated races such as the drow, goblins and kobalds.  Although
+they are authentic, people usually visit these temples mostly out of 
+curiosity rather than to pray.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">547</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">545</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">649</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">650</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

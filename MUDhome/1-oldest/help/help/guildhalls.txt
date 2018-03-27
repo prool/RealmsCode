@@ -1,0 +1,52 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  guildhalls        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+^WGuild Halls^x
+    For a list of comands related to guild halls, type "^yguild hall^x".
+    You may also type "^ygh^x" as a shortcut for this command.
+
+Guild halls are pieces of property that belong to a guild. The ownership of
+the real estate stays with the guild, not with the person who purchased the
+property. Should a guild leader abdicate their responsibilities, their
+successor will assume ownership of the guild hall. Note that only members
+of the guild may enter this guildhall.
+
+^WGuild Layout^x
+
+The initial shape of your guild hall is determined by the type of deed you
+purchase. To view the layout, you may purchase the deed, examine it, and then
+refund it without using it. Each room in the layout will be numbered, unless
+you are purchasing a tower layout, in which the lowest room will be #1. When
+creating a guild hall, you may link the exit to any room in the layout.
+
+^yNote:^x when your guild is created, the first guild layout deed in your
+inventory will be used. Do not carry multiple layout deeds.
+
+Extensions to your basic layout may be purchased. Extensions are usually
+single rooms that add functionality to your guild, such as a clinic or a
+post offices. Additionally, upon guild creation, you may make the entrance
+hidden, concealed, or invisibile by buying the appropriate item from the
+realty shop.
+
+^WRoom Names, Descriptions, and Exits^x
+
+Room names descriptions in the guild hall will initially start empty. It is
+the job of the guildmaster to ensure that the rooms are descripted properly.
+Exits may also be renamed to fit the theme of the guild more closely.
+Note that cardinal exits (north, southwest, etc) cannot be renamed. If you
+would like further help customizing your guild hall, contact a watcher
+and a staff member will get in touch with you.
+
+^WNotice:^x local governments watch guilds very closely. An assassins guild
+trying to set up shop in Sigil, for example, would be shut down immediately.
+Choose the city you are trying to set up headquarters in carefully. Note that
+Highport is a neutral town and guilds of all kinds are welcome.
+
+^rFinal Note^x
+Roleplaying with guilds will be strictly enforced, so please keep guilds
+properly themed with the room and city they are built it.
+
+
+For further information about guilds, please type ^yHELP GUILDS^x.
+

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="510" Area="ocean" Version="2.40">
+  <Name>lead hammer</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>84</ShotsMax>
+  <ShotsCur>84</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>5</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1024</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">hammer</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Description>This hammer is similar to a warhammer, with a heavy lead head.</Description>
+  <Weight>8</Weight>
+  <Type>5</Type>
+  <SubType>hammer</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

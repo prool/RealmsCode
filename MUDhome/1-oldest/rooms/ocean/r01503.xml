@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="1503" Version="2.40" Area="ocean">
+  <Name>Kellevah Road</Name>
+  <ShortDescription>Kellevah road continues east and west between Brownhaven and Lake Kellevah.</ShortDescription>
+  <LongDescription>The sounds of town-life emanate from the east where the town of
+Brownhaven lies, nestled among the great mountains of Garadruin.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1502</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1504</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

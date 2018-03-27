@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5425" Version="2.40" Area="ocean">
+  <Name>Phexton Bridge</Name>
+  <ShortDescription>You are on the southwest end of the Phexton Bridge.</ShortDescription>
+  <LongDescription>Although the bridge is wide, it has no side rails of any sort.  Heavy planks
+were laid over a web of ropes and cables to form the bridge, but it looks
+like they didn't consider it necessary to add handholds at the sides.  The
+water below looks deep and swift, as it leaves the falls to the east.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5424</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5426</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

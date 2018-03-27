@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  flamefill spell     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 25
+School:  Evocation
+Domain:  Destruction
+
+This is the most powerful spell in the fire realm. It causes a column of flame
+to engulf a single target, buring them and melting their bones. The severe burns
+can often leave long- lasting, if not permenant, scars and other deformities.
+
+Syntax:
+cast flamefill <target>

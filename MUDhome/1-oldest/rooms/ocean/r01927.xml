@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="1927" Version="2.40" Area="ocean">
+  <Name>Michael's All-Purpose Repair Shop</Name>
+  <ShortDescription>You are in Michael O'Nalle's repair shop in the Waterfront Plaza.</ShortDescription>
+  <LongDescription>O'Nalle does a lot of work on swords and armors, but can fix just about
+anything known to man and even a few things not known by man.  The 
+price is fairly modest for simple items, but gets rather expensive for
+exotic and enchanted items.  But some things are just irreplacible if
+they're broken. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1920</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

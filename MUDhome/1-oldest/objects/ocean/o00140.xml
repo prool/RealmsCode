@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="140" Area="ocean" Version="2.40">
+  <Name>climbing pick</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>4</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">pick</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="16"/>
+  </Flags>
+  <Description>You see a strong, sturdy climbing pick.  You need this to climb a mountain.</Description>
+  <Weight>5</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

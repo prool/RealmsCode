@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  scare spell       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 25
+School:  Enchantment
+Domain:  Trickery
+
+The scare spell causes brief but intense fear in the target. The target will
+be magically compelled to flee the room but will regain their senses
+immediately. Creatures immune to fear will not be affected by this spell.
+
+Syntax:
+cast scare <target>

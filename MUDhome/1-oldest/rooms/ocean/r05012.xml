@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="5012" Version="2.40" Area="ocean">
+  <Name>Skies Over Brownhaven</Name>
+  <ShortDescription>You are atop a copper dragon flying over Gotland Glenn.  50.n1.e1.s0.w0</ShortDescription>
+  <LongDescription>Farms are well tended in this area, and the soil is very rich.  The homes
+are thatched-roof single story dwellings.  The thatch  comes from  the
+grasslands to the east.</LongDescription>
+  
+  <Established>772147169</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">5010</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5033</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5008</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5031</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5010</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

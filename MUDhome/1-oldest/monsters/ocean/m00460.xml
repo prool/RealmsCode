@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<Creature Num="460" Area="ocean" Version="2.40">
+  <Name>the undertaker</Name>
+  <Level>15</Level>
+  <Type>1</Type>
+  <Experience>500</Experience>
+  <Coins>
+    <Coin Num="2">500</Coin>
+  </Coins>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>350</Current>
+      <Max>350</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>The old but capable undertaker of the Necropolis, patiently smokes his pipe.</Description>
+  <Keys>
+    <Key Num="0">undertaker</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>250</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>7</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>can I sell you a plot?</Talk>
+  <DefenseSkill>145</DefenseSkill>
+  <AttackPower>180</AttackPower>
+  <WeaponSkill>145</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">532</Carry>
+    <Carry Area="ocean" Num="1">532</Carry>
+    <Carry Area="ocean" Num="2">532</Carry>
+    <Carry Area="ocean" Num="3">532</Carry>
+    <Carry Area="ocean" Num="4">532</Carry>
+    <Carry Area="ocean" Num="5">532</Carry>
+    <Carry Area="ocean" Num="6">532</Carry>
+    <Carry Area="ocean" Num="7">532</Carry>
+    <Carry Area="ocean" Num="8">532</Carry>
+    <Carry Area="ocean" Num="9">532</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects>
+    <Effect>
+      <Name>detect-invisible</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+  </Effects>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="8"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="22"/>
+    <Bit Num="23"/>
+    <Bit Num="36"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

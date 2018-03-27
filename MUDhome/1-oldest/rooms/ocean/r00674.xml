@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="674" Version="2.40a" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are walking along Hofton Avenue, north of the large Hofton Ziggurat.</ShortDescription>
+  <LongDescription>The Hofton Ziggurat is a large, pyramid-shaped building which houses the
+primary political policy making bodies.  Delegations from various races
+from around the world come here to discuss the problems of the world and
+what they plan to do about them. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">664</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">675</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

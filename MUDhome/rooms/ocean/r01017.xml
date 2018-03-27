@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1017" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>You are on Main Street, close to Nylandian Bay, which lies to the north.</ShortDescription>
+  <LongDescription>Main Street reaches Nylandian Bay.  Netherworld Lane, to the south, 
+marks the beginning of the southwestern district of Oceancrest.  On the
+west side of Main, a solitary small building rests with a sign which
+reads "Misty's Travel Services".  The docks are to the north.  You can
+hear some rowdy noises coming from the building on the east, which 
+appears to be some sort of pub or tavern. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1016</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1018</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3126</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

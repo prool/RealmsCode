@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5482" Version="2.40" Area="ocean">
+  <Name>Snow Flower Inn</Name>
+  <ShortDescription>You are in the large public room of the Snow Flower Inn.</ShortDescription>
+  <LongDescription>This looks like a good place to relax and take off your armor.  The smell
+of hot food from the kitchen is wonderful, and the roaring fire in the 
+fireplace feels good after the cold mountain road you have been traveling 
+on.  The innkeeper's name is Trago, a small, fat hobbit with an even fatter
+wife.  Several customers are here.</LongDescription>
+  
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5480</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

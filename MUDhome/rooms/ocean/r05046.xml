@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="5046" Version="2.40" Area="ocean">
+  <Name>Fog Bank</Name>
+  <ShortDescription>You have flown into a fog bank, and cannot see the direction indicator.</ShortDescription>
+  <LongDescription>It looks like a hard left may take you back to where you entered this blanket
+of wetness.  The fog is not so thick in that direction.  Directly ahead is
+the thickest and densest part of the fog.</LongDescription>
+  
+  <Established>772228563</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>left</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">5076</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right">
+      <Keys/>
+      <Room Area="ocean">5047</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="forward">
+      <Keys/>
+      <Room Area="ocean">5047</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

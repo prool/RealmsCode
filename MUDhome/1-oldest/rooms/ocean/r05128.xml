@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="5128" Version="2.40" Area="ocean">
+  <Name>West Hall</Name>
+  <ShortDescription>You are in the western hall of the Castle Kayleigh.</ShortDescription>
+  <LongDescription>This is the hall of nobility, which leads to the private quarters of long 
+dead royalty.  The scorched hallway is a sad reminder of glorious days of
+past ages.  After the Witch made this her home, she brought in pigs to keep
+in the royal bedchambers, as an insult to the family.  Now, there are pig 
+skeletons littering the floor.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5156</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5125</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3437" Version="2.40" Area="ocean">
+  <Name>The Vaults</Name>
+  
+  <Established>760058600</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3436</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3438</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

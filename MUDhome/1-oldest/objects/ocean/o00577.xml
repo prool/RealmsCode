@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="577" Area="ocean" Version="2.40">
+  <Name>flaming flail</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>6</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">flail</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="15"/>
+    <Bit Num="33"/>
+    <Bit Num="34"/>
+    <Bit Num="35"/>
+    <Bit Num="37"/>
+    <Bit Num="38"/>
+  </Flags>
+  <Description>It flames brightly...</Description>
+  <Weight>5</Weight>
+  <Type>5</Type>
+  <SubType>mace</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

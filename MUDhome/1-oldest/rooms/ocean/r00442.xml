@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="442" Version="2.40" Area="ocean">
+  <Name>Adlermann Way</Name>
+  <ShortDescription>You are walking along Adlermann Way, west of the City Guard Officer's Club.</ShortDescription>
+  <LongDescription>The City Guard Officer's Club is one of the most exclusive bars in 
+Oceancrest.  The guards and other patrol personnel don't really like to
+see outsiders in their personal clubs, so it might not be a really good
+idea to go in there without a very heavy escort.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">441</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">443</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

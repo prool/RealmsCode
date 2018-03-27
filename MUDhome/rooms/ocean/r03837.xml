@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="3837" Version="2.40" Area="ocean">
+  <Name>Oceancrest Post Office - Branch Office</Name>
+  <ShortDescription>You are in one of the many branches of the Oceancrest Post Office.</ShortDescription>
+  <LongDescription>you may send mail to anyone in the Land of Mordor by typing  
+sendmail &lt;player&gt;.  Because this is a very primitive line editor,  
+be sure to hit the return key at the end of a line.  Two blank lines 
+will exit the mail system.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3853</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

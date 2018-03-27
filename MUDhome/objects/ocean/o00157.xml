@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="157" Area="ocean" Version="2.40">
+  <Name>crimson naga bands</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Armor>8</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">naga</Key>
+    <Key Num="1">bands</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+  </Flags>
+  <Description>You see some arm-bands made from the crimson skin of the naga.</Description>
+  <Weight>5</Weight>
+  <Type>6</Type>
+  <WearFlag>2</WearFlag>
+  <InBag/>
+</Object>

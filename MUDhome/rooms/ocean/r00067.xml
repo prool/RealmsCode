@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="67" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>This is Main Street, the center of most of the activities in Brownhaven.</ShortDescription>
+  <LongDescription>One of the most attractive entertainment centers in the entire village is
+the Sportsman's Arena, located just to the west.  A great banner across
+the top indicates there are three arenas going at all times, even one for
+the kids.  It's a family affair, with door prizes and a set of dishes to
+the lucky winner.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">57</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">77</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">66</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">186</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

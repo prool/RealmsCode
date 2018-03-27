@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  fear spell        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 15
+School:  Enchantment
+Domain:  Trickery
+
+This spell causes a magical panic to be instilled in the target which causes
+them to flee whenever hit, no matter for how little damage. You cannot cast this
+spell on yourself. In order to do that, you must drink a potion which causes the
+spell effect. If cast on a monster, it causes the monster to flee when hit.
+Permanent monsters are unaffected by this spell, and paladins are immune to both
+this spell and potions with its effect. This spell can be casted on lawfuls.
+
+Syntax:
+cast fear <target>

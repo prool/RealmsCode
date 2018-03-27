@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="489" Version="2.40" Area="ocean">
+  <Name>Nissiau Lane</Name>
+  <ShortDescription>You are on Nissiau Lane, between the Oceancrest Soup Kitchen on the north
+side of the road and Steve's Fishing and Tackle Shop on the south side.</ShortDescription>
+  <LongDescription>The Oceancrest Soup Kitchen provides food and supplies to the homeless
+and displaced people in Oceancrest.  Although there aren't that many people
+so poor that they cannot even afford to live in the housing complexes, 
+many can barely put food on the table.  To the south, you can see Steve's
+Fishing and Tackle Shop where you can buy fishing supplies, bait and even
+book a boat ride into the harbor to do some relaxing fishing.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">488</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">430</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

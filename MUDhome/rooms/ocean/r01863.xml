@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="1863" Version="2.40" Area="ocean">
+  <Name>Gustave's Fine Swords Storage Room</Name>
+  <ShortDescription>You are in the storage room for Gustave's shop.</ShortDescription>
+  
+  <Established>758700981</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1862</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1824" Version="2.40" Area="ocean">
+  <Name>The Sporting Pit</Name>
+  <ShortDescription>You are in the southern end of a large pit about fifty meters wide.</ShortDescription>
+  <LongDescription>The Sporting Pit allows barbarians and their kind to experiment with
+new weapons and armors in battles with outsiders or other worthy 
+barbarian opponents.  You are in the higher of the two pits, the other
+lying to the north, more depressed into the landscape.  Less barbarians
+wander into this pit than into the deeper one to the north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">268</Mob>
+      <Mob Area="ocean" Num="1">268</Mob>
+      <Mob Area="ocean" Num="2">269</Mob>
+      <Mob Area="ocean" Num="3">268</Mob>
+      <Mob Area="ocean" Num="4">269</Mob>
+      <Mob Area="ocean" Num="5">263</Mob>
+      <Mob Area="ocean" Num="6">264</Mob>
+      <Mob Area="ocean" Num="7">242</Mob>
+      <Mob Area="ocean" Num="8">268</Mob>
+      <Mob Area="ocean" Num="9">263</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1825</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1843</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

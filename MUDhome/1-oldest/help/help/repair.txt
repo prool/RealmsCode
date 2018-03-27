@@ -1,0 +1,11 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |           Help on:  fix           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The repair command will allow you to repair an object that has been broken.
+To find out how much the repair will cost, use the COST command first. Once an
+item is repaired, it is as good as new. But watch out, sometimes a smith can
+completely mess up the object you're trying to repair. You can look at the
+smithy to see how skilled he is in repairing items. Also note that if your
+alignment differs significantly from that of the smithy, you will have problems
+fixing your items.

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="783" Area="ocean" Version="2.40">
+  <Name>DM handbook</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">handbook</Key>
+    <Key Num="1">dm</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="17"/>
+  </Flags>
+  <Description>You see a large tome of important information.</Description>
+  <Type>14</Type>
+  <InBag/>
+</Object>

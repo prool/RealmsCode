@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3329" Version="2.40" Area="ocean">
+  <Name>Necropolis Path</Name>
+  <ShortDescription>The north-south path curves near the southern end of the Fighter's Hall.</ShortDescription>
+  <LongDescription>The Walk of Lords is farther to the south and is a glittering display of
+the adage that you can take it with you.  The Walk of Lords is a wonderful
+testimonial to the power of money, and the rich and powerful families of
+Oceancrest.  The path continues both north and south from here.</LongDescription>
+  
+  <Established>759804488</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3326</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3330</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3327</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,15 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |  Help on:  resist-fire spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 13
+
+This spell halves all magical spell damage from the fire realm. An intangible
+shield of fire forms around the target, attempting to nullify and offensive
+magic that comes toward it and the target. Note that only magic from the realm
+of fire is affected.
+
+See "help resist" for more information.
+
+Syntax:
+cast resist-fire <target>
+

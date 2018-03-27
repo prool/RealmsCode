@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1152" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are walking along Eidenhoft Boulevard, southwest of Overland Drive.</ShortDescription>
+  <LongDescription>The intersection of Overland Drive lies to the northeast.  From that
+intersection, Eidenhoft runs due north.  Eidenhoft Boulevard is one of
+the easiest streets to remember since it is one of the few that travel
+diagonally through the town.  Heading southwest down Eidenhoft brings
+you towards the Oeancrest Memorial Fountain and eventually towards the
+southwestern corner of Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1151</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1153</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

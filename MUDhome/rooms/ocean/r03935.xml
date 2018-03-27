@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3935" Version="2.40" Area="ocean">
+  <Name>Hab's Sitting Room</Name>
+  <LongDescription>You are in the wizard Hab's sitting room.  A lone wooden bench is here.
+A single amethest on a single alabaster pillar stands at the end of the
+carved wooden bench.  The room is stark save for the radiance of the gem.
+Someday, to advance to the very highest levels, you must learn the secrets
+of the gems.</LongDescription>
+  <LowLevel>9</LowLevel>
+  <HighLevel>9</HighLevel>
+  
+  <Established>771269859</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training room</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3934</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">3939</Room>
+      <Key>81</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

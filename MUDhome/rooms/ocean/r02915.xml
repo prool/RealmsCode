@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Room Num="2915" Version="2.40" Area="ocean">
+  <Name>Avernus</Name>
+  <ShortDescription>You are walking along the outer fringes of the wasteland that is Avernus.</ShortDescription>
+  <LongDescription>The strange land that you find yourself trapped in seems to radiate evil
+from every rock and grain of sand you find.  The further you go into the
+strange land of Avernus, the more powerful the evil becomes.  The outer
+fringes of Avernus are guarded by abishai, while the inner sanctum is
+guarded by dragons.  At the center of everything is Tiamat, the Chromatic
+Dragon.</LongDescription>
+  
+  <Established>727858059</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">361</Mob>
+      <Mob Area="ocean" Num="1">360</Mob>
+      <Mob Area="ocean" Num="2">359</Mob>
+      <Mob Area="ocean" Num="3">358</Mob>
+      <Mob Area="ocean" Num="4">357</Mob>
+      <Mob Area="ocean" Num="5">357</Mob>
+      <Mob Area="ocean" Num="6">358</Mob>
+      <Mob Area="ocean" Num="7">359</Mob>
+      <Mob Area="ocean" Num="8">360</Mob>
+      <Mob Area="ocean" Num="9">361</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2909</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2921</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2914</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2916</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

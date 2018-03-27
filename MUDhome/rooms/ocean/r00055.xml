@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="55" Version="2.40a" Area="ocean">
+  <Name>Small Alley</Name>
+  <ShortDescription>This is the end of a small alley.</ShortDescription>
+  <LongDescription>To the north is Brownhaven Town Square, to the west is the back entrance
+to an inn, and to the east is a back entrance to a shoppe.   There's quite a
+bit of noise coming from the pub.  Either they're having a good time, or 
+a very bad time in there.  You hear a lot of yelling and cheering on the
+other side of the south wall.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="6"/>
+  </Flags>
+  <Wander>
+    <Traffic>13</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">10</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">8</Mob>
+      <Mob Area="ocean" Num="3">7</Mob>
+      <Mob Area="ocean" Num="4">10</Mob>
+      <Mob Area="ocean" Num="5">2</Mob>
+      <Mob Area="ocean" Num="6">8</Mob>
+      <Mob Area="ocean" Num="7">7</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">184</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">54</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1714" Version="2.40" Area="ocean">
+  <Name>Melbourne Avenue</Name>
+  <ShortDescription>You are walking along Melbourne Avenue, east of D'Tan's Leather Armory.</ShortDescription>
+  <LongDescription>The small armory is located to the west of the road, where everyday citizens
+may purchase light armor to use for day-to-day protection.  The armor is not
+nearly as strong as you'd like, but for the price range, you can't really
+argue.  On the east side of the road is the Bows &amp; Arrows Unlimited Shop
+where various bows, mostly made by elves, may be purchased.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1715</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1713</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2289</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

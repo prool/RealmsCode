@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="770" Version="2.40" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are walking along Oceancrest Avenue, north of the Iilandi University.</ShortDescription>
+  <LongDescription>The Iilandi University is one of the most prestigious schools in all the
+realms, mostly because it not only lets anyone who has a desire to learn
+enroll, but also because the professors must have a genuine desire to
+teach and do research.  The various scientific stations around the 
+University provide an infinite amount of researchable activity that could
+keep the great minds of the time busy for generations to come.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">769</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1320</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

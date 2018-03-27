@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1172" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, just east of Marina Way.</ShortDescription>
+  <LongDescription>Netherworld Lane is wide and busy road which gets its name because it passes
+along the north side of the Necropolis, an infamous "City of the Dead"
+monument which was built to honor those who have died in battle defending
+the city.  The Necropolis is about three city blocks wide and contains a
+number of monuments and statues for the viewing pleasure of the public.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1173</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1124</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

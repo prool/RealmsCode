@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3414" Version="2.40" Area="ocean">
+  <Name>Dark Passage</Name>
+  
+  <Established>760053790</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3413</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3415</Room>
+      <Flags>
+        <Bit Num="9"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

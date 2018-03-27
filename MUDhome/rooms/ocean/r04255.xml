@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="4255" Version="2.40" Area="ocean">
+  <Name>Servant's Stairwell</Name>
+  <ShortDescription>You are on the servant's stairwell, below the ground floor.</ShortDescription>
+  <LongDescription>You can either go up or out the door, but there is nothing else here of
+interest.  The walls are heavy gray stone, and cold and clammy to the touch.
+The door does not look as though it has been opened in a long time.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">4254</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

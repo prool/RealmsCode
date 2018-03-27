@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="2306" Version="2.40a" Area="ocean">
+  <Name>North Hillborough Plaza</Name>
+  <ShortDescription>You are in a large shopping plaza to the north of Hillborough Way.</ShortDescription>
+  <LongDescription>This large plaza hosts a number of small specialty shops.  To the southwest
+is the Hillborough Adamantine Works where adamantine is formed into strong
+shields, weapons and armors.  To the west is Deni's World of Spices.  To
+the north is Jallud's Missing Persons, where people can leave messages for
+people believed to be lost or missing.  To the east is the rowdy Crimson
+Tales Saloon, and to the southeast is the Lankshire Hall of Wonders.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">712</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2309</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2311</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2308</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2313</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

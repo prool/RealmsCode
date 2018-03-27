@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1374" Version="2.40" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>You are in a narrow hallway leading north and southeast inside the palace.</ShortDescription>
+  <LongDescription>There are a number of small holes in the walls indicating that something
+might set off a trap in this room.  You should be careful what you do in 
+here because it might set off some poisoned darts or worse.  Obviously
+someone doesn't want you snooping around. </LongDescription>
+  <Trap>2</Trap>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1370</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1375</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2297" Version="2.40" Area="ocean">
+  <Name>The Poisoned Dagger Training Room</Name>
+  <ShortDescription>You are in the training center of some of the most powerful assassins known.</ShortDescription>
+  <LongDescription>No one ever survives an assassination attempt by the Guild of the Poisoned
+Dagger.  If you wish to advance into their ranks, you must train with them,
+learning their techniques of stealth and backstabbing.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2296</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

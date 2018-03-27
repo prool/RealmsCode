@@ -1,0 +1,12 @@
+Help on DM command:
+	TITLE
+
+Changes the player's title to the desired text. Keep in mind that
+this title will stick even as the character levels. Once changed
+the player's title will no longer go through the title-changing cycle.
+
+Use the -d flag to delete a player's custom title.
+
+Title the player "[custom]" (without quotes) to let them choose their
+own title using the title command.
+

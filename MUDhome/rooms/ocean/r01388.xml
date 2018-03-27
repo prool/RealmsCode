@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="1388" Version="2.40" Area="ocean">
+  <Name>Dungeon Hallway</Name>
+  <ShortDescription>You are in the main dungeon hallway.</ShortDescription>
+  <LongDescription>The west end of the hallway is quiet with an occasional guard wandering
+in to check up on things.  There is a door to the south that reads
+"Laboratory".  Rumor has it that a mad scientist works on creating
+human-like monsters out of human parts in there.  There's also a door
+to the north leading to the Mausoleum.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">131</Mob>
+      <Mob Area="ocean" Num="1">131</Mob>
+      <Mob Area="ocean" Num="2">131</Mob>
+      <Mob Area="ocean" Num="3">151</Mob>
+      <Mob Area="ocean" Num="4">151</Mob>
+      <Mob Area="ocean" Num="5">151</Mob>
+      <Mob Area="ocean" Num="6">151</Mob>
+      <Mob Area="ocean" Num="7">151</Mob>
+      <Mob Area="ocean" Num="8">152</Mob>
+      <Mob Area="ocean" Num="9">152</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1387</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1375</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="laboratory">
+      <Keys/>
+      <Room Area="ocean">1389</Room>
+      <Key>17</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1281" Version="2.40" Area="ocean">
+  <Name>Passage Over the Cyclops Den</Name>
+  <ShortDescription>You are on a path that has abruptly stopped at a large crater.</ShortDescription>
+  <LongDescription>Peering down over the edge of the crater, you notice that there's actually
+a room down there.  It appears to be the den of the great Cyclops.  He
+is rumored to have a number of great and powerful weapons that no one
+has been able to duplicate efficiently.</LongDescription>
+  <Trap>1</Trap>
+  <TrapExit Area="ocean">1282</TrapExit>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1279</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">1282</Room>
+      <Flags>
+        <Bit Num="9"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

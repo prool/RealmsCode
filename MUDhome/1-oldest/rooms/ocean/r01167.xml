@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="1167" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard/Netherworld Lane Intersection</Name>
+  <ShortDescription>You are at the intersection of Eidenhoft Boulevard and Netherworld Lane.</ShortDescription>
+  <LongDescription>Netherworld Lane crosses Eidenhoft Boulevard in an east to west direction.
+The wide street gets its name because it passes on the north side of the
+Necropolis, an eerie "City for the Dead."  Eidenhoft Boulevard continues to
+the north and south, bisecting most of the city.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1168</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1166</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1174</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1173</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

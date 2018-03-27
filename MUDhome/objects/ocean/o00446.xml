@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="446" Area="ocean" Version="2.40">
+  <Name>Charon's souvenir pin</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>10</ShotsMax>
+  <ShotsCur>10</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">charon's</Key>
+    <Key Num="1">souvenir</Key>
+    <Key Num="2">pin</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="5"/>
+  </Flags>
+  <Description>It reads, "I crossed the River Styx and all I got was this lousy pin."</Description>
+  <UseOutput>You look like a loser wearing a pin like this.</UseOutput>
+  <Weight>1</Weight>
+  <Type>6</Type>
+  <WearFlag>4</WearFlag>
+  <InBag/>
+</Object>

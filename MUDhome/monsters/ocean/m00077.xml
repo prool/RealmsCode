@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<Creature Num="77" Area="ocean" Version="2.40">
+  <Name>strumpet</Name>
+  <Level>4</Level>
+  <Type>1</Type>
+  <Experience>60</Experience>
+  <Coins>
+    <Coin Num="2">20</Coin>
+  </Coins>
+  <Alignment>5</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>140</Current>
+      <Max>140</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>50</Current>
+      <Max>50</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>40</Current>
+      <Max>40</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>10</Current>
+      <Max>10</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a sleezy looking woman displaying herself proudly.</Description>
+  <Keys/>
+  <MoveTypes/>
+  <Armor>125</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>2</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>Looking for a good time?</Talk>
+  <DefenseSkill>35</DefenseSkill>
+  <AttackPower>140</AttackPower>
+  <WeaponSkill>35</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">120</Carry>
+    <Carry Area="ocean" Num="1">121</Carry>
+    <Carry Area="ocean" Num="2">122</Carry>
+    <Carry Area="ocean" Num="3">56</Carry>
+    <Carry Area="ocean" Num="4">56</Carry>
+    <Carry Area="ocean" Num="5">62</Carry>
+    <Carry Area="ocean" Num="6">62</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+    <Bit Num="34"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

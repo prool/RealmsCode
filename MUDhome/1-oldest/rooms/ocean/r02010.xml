@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Room Num="2010" Version="2.40a" Area="ocean">
+  <Name>Myrr Lane/Pearl Avenue Intersection</Name>
+  <ShortDescription>Myrr Lane continues east and west, while Pearl Lane runs north and south.</ShortDescription>
+  <LongDescription>Pearl Avenue comes to an end here (or starts here, depending on how you
+look at it.)  Pearl Avenue leads into the heart of the city of Kista
+passing by the Great Library and the Towers of Kista.  The library is    
+where the greatest wise men in the Land of Mordor come to meet.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">206</Mob>
+      <Mob Area="ocean" Num="1">208</Mob>
+      <Mob Area="ocean" Num="2">208</Mob>
+      <Mob Area="ocean" Num="3">208</Mob>
+      <Mob Area="ocean" Num="4">208</Mob>
+      <Mob Area="ocean" Num="5">208</Mob>
+      <Mob Area="ocean" Num="6">208</Mob>
+      <Mob Area="ocean" Num="7">208</Mob>
+      <Mob Area="ocean" Num="8">208</Mob>
+      <Mob Area="ocean" Num="9">208</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">738</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2531</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2020</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2512</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2050</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

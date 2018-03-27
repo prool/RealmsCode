@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1207" Version="2.40a" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>You are traveling along Main Street, south of the Reclaimation Plant.</ShortDescription>
+  <LongDescription>The large Oceancrest Central Recycling Plant and Reclaimation Center,
+a fancy name for a dump, is used to collect old and used up trash from 
+all over the city.  There are smaller collection sites around the 
+city, but they all end up here eventually.  Most of the equipment that
+finds its way here usually ends up as scrap metal, used to create new
+weapons at a cheaper cost.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1206</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1169</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">21</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

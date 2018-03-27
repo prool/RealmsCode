@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3912" Version="2.40" Area="ocean">
+  <Name>Nobunaga's Flea Market</Name>
+  <ShortDescription>You have entered a bustling flea market owned by Nobunaga.</ShortDescription>
+  <LongDescription>There are several tents around you, and a number of sellers have open-air
+tables set up.  Sellers and buyers crowd around, trying to get the best
+bargains.  Nobunaga has a large tent to the south, and he takes a cut of
+all the sales that happen here.  If you would like to trade or swap some
+armor, or a nice weapon, you should contact Nobunaga the orc.</LongDescription>
+  
+  <Established>770869586</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">476</Mob>
+      <Mob Area="ocean" Num="1">476</Mob>
+      <Mob Area="ocean" Num="2">204</Mob>
+      <Mob Area="ocean" Num="3">205</Mob>
+      <Mob Area="ocean" Num="4">206</Mob>
+      <Mob Area="ocean" Num="5">204</Mob>
+      <Mob Area="ocean" Num="6">205</Mob>
+      <Mob Area="ocean" Num="7">206</Mob>
+      <Mob Area="ocean" Num="8">476</Mob>
+      <Mob Area="ocean" Num="9">204</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3132</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tent">
+      <Keys/>
+      <Room Area="ocean">3913</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,10 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  gsend          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Send a message to everyone in your guild.
+
+Example:
+: gs I rule the universe!
+[High Society] ### Bane sent, "I rule the universe!".
+[High Society] ### Johny sent, "Sure you do...".

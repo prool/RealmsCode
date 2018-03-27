@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Room Num="303" Version="2.40" Area="ocean">
+  <Name>Bashing Unlimited Items</Name>
+  
+  <Established>756031916</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">302</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

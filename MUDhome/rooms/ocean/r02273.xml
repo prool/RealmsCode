@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2273" Version="2.40" Area="ocean">
+  <Name>Panther Guard Headquarters</Name>
+  <ShortDescription>You are in the Panther Guard headquarters, a city peacekeeping force.</ShortDescription>
+  <LongDescription>Young fighters use the headquarters as a training facility, but as they
+advance in level they need to go to a more professional establishment.
+You will learn some of the best street fighting techniques known to the
+guard here, but if you wish to advance to level three, you must go to
+Rudolph's over on Main Street in the Plaza.</LongDescription>
+  <HighLevel>2</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1726</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

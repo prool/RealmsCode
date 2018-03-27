@@ -1,0 +1,13 @@
+...·····.....·····/                                     \·····.....·····...
+ ·  .  .  ·  ·  . | Help on: comprehend-languages spell | .  ·  ·  .  .  ·
+···.....·····.....\                                     /.....·····.....···
+MP cost: 20
+School:  Divination
+Domain:  Knowledge
+
+This spell allows whomever it's cast upon to understand all languages
+spoken around them. Only mages and bards may cast this spell.
+
+Syntax:
+cast comprehend-languages <target>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="1066" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street/Hillcrest Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Rosecrest Street and Hillcrest Drive.</ShortDescription>
+  <LongDescription>Hillcrest Drive runs east of here towards the large family estates, and past
+the numerous monuments and fountains dedicated to the people who are brave
+enough to stand up to tyranny and oppression.  Rosecrest Street runs north
+and south, parallel to the City Wall on the west side of the street.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1065</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1067</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1143</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

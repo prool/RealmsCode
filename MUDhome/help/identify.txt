@@ -1,0 +1,15 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  identify       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+At higher levels, a bard is able to identify certain aspects of various items in
+the game. The item must be in the bards inventory in order to do it.
+
+Example:
+: id hazy
+You carefully study the hazy potion.
+You manage to learn about the hazy potion!
+The hazy potion is a potion, with the word-of-recall spell.
+It is worth 10000 gold coins, and is brand new.
+:
+

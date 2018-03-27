@@ -1,0 +1,29 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  roleplaying     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+_________
+	 \
+	  >----------   -------------
+	 | Races:	  See also:
+	  >----------	-------------
+help...	 | goblins	  goblin
+	 | dwarves	  dwarf
+	 | darkelves	  darkelf
+	 | cambions	  cambion
+	 |
+	  >----------	-------------
+	 | Classes:	  See also:
+	  >----------	-------------
+help...	 | aramon	  clerics
+	 | enoch	  clerics
+	 | gradius	  clerics
+	 | ceris	  clerics
+	 | fighters	  fighter
+	 | druids	  druid
+	 | assassins	  assassin
+	 | berserkers	  berserker
+	 |
+	  >----------	-------------
+_________/
+

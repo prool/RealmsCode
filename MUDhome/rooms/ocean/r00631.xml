@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="631" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are walking through one of the more peaceful sections of town.</ShortDescription>
+  <LongDescription>On the east side of the road, you can see the large Bushman Farms estate
+where various fruit trees of nearly every variety grow in plenty.  The
+peace and quiet of the road is only interrupted by the occassional shouts
+of encouragement from the Ivanhouse Sporting Facility, located to the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">630</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">632</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

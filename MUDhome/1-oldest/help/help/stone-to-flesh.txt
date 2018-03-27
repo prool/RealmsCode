@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |  Help on:  stone-to-flesh spell   | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 20
+School:  Transmutation
+Domain:  Other
+
+This spell turns solid stone into living flesh. If cast on a character who was
+recently petrified, this will reverse the petrification. Type HELP
+PETRIFICATION for more details on stoning.
+
+Syntax:
+cast stone-to-flesh <target>

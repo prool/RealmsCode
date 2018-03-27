@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<Room Num="1119" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>You are on Marina Way, just west of the Entrance to the Central Arena.</ShortDescription>
+  <LongDescription>Directly to the east is the entrance to the Oceancrest Central Arena and
+Gaming Complex.  Anyone may enter the complex, but it is highly unadvised
+for those of the weak of heart.  Not just anyone survives...only the 
+strongest and braves can challenge the terrors of the Arena.  The city,
+however, is always looking for a few brave gladiators to fight for the
+pleasure and entertainment of the public.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>4000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">441</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>5500</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">441</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>9000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">441</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">714</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1120</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1118</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1901</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1887</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

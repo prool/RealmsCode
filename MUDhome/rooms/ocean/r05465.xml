@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="5465" Version="2.40" Area="ocean">
+  <Name>Rutger Castle Road</Name>
+  <ShortDescription>You are south of a guard barracks, and west of a sentry kiosk.</ShortDescription>
+  <LongDescription>The road is built on a long north-south mountain ridge, but drops slightly
+to the southeast before starting a long uphill series of switchbacks going
+to Castle Rutger high on the east mountain face.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5464</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5466</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5476</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

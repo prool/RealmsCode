@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3725" Version="2.40" Area="ocean">
+  <Name>Grand Stairway Landing</Name>
+  <ShortDescription>You are on the landing of the grand stairway in the Dragon Tooth Inn.</ShortDescription>
+  <LongDescription>Below you is the foyer and the registration desk for the inn, and looking
+north you see the vestibule at the main entrance.  Above you is a hallway
+going to the west.  The carpet beneath your feet is a deep, dark, wine red
+plush and matches the beautiful velvet draperies on the wall.  A polished
+mahogany rail runs around the landing, and a locked closet door is in the
+south wall.</LongDescription>
+  
+  <Established>764457943</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3739</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3726</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

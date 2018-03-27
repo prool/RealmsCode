@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3952" Version="2.40a" Area="ocean">
+  <Name>Spiral Staircase</Name>
+  <ShortDescription>You are high on a spiraling staircase, looking down at the Enchanted Forest.</ShortDescription>
+  <LongDescription>This huge redwood tree is the largest in the entire forest, and the staircase
+winds around it through the clouds.  Trantori, the High Invoker, is a member
+of the red-robed mages.  He makes his summer home at the top of this redwood
+tree, and occasionally holds conferences for the order up here.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3951</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3953</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

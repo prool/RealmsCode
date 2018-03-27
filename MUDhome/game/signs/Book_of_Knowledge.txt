@@ -1,0 +1,1050 @@
+
+ :::: The Book of Knowledge ::::
+
+You hold a dusty tome in your hands, a tome older than any other you have seen
+or ever will see. The pages within hold information that were written long
+before you were born and will still be educating those who come long after you
+are dead. This is it; this is the Book of Knowledge. It provides the most vital
+information on the inhabitants that walk this realm and the professions they
+seek. Herein lies invaluable information for the journey that lies ahead...
+
+
+ :::: ASSASSIN ::::
+
+Prime Requisites: Strength, Dexterity
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The assassin is the cold warrior of the night. He moves in shadow, stalking his
+prey. Assassins have the ability to backstab their opponents, doing massive
+damage in one blow by attacking in surprise from the shadows. Assassins can hide
+better then most, and they often can sneak from place to place without being
+seen. Due to there slippery nature, assassins are able to dodge attacks
+on occasion. The ability gets better the more powerful they become. The assassin
+may also scout for his potential prey, keeping himself out of danger while he
+does so. An assassin can be so murderous and diabolical, that they will often
+envenom their blades to kill their victims long after they strike and fade into
+the shadows. At higher levels, they owe allegiance to the dark courts of
+Caladon, as well as several dark organizations across Derlith.
+
+See HELP ASSASSINS for some roleplaying notes.
+
+Assassins must pledge to reach levels 8, 9, 10, and 11.
+
+Abilities: Backstab, Envenom, Peek, Scout
+
+ :::: BARD ::::
+
+Prime Requisites: Piety, Intelligence
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+Bards are the traveling lore masters and storytellers of Derlith. Early on in
+their lives, they set out to travel the land to find out as much as they can.
+Often they attend colleges in order to gain expertise in particular areas as
+well. As such, they know a lot about the lands and the creatures in them. This
+gives bards a unique perspective on almost everything, and chances are that
+they will know something about almost anything they find, particularly items
+and weapons. A bard's singing ability is legendary, and it is said to be able
+to heal the body. Some other more traveled bards are said to be able to
+mentally revitalize those that hear their music. It is also said that bards are
+able to learn songs which can damage their enemies through the power of magic,
+as well as many other magical affects. Some creatures are so enticed by a bards
+stories and song, that they are instantly charmed and under the sway of the
+bard. Bards play a vital role in Derlith, as they act as historians. Don't let
+this fool you. Bards are quite roguish, and they definitely know how to have a
+good time.
+
+Abilities: Charm, Sing, Identify
+Bards can learn different songs to do different things.
+
+ :::: BERSERKER ::::
+
+Prime Requisites: Strength, Dexterity, Constitution
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+Berserkers are wild men - most are nomads who roam the Baladus Plains. Blood and
+steel are all they know and understand. The lust for battle burns within them. A
+berserker often goes berserk in battle (hence his namesake), heightening his
+senses and increasing his strength. Despite his usual large size, a berserker is
+often quick as a cat, and can dance circles around his enemies, confusing them.
+With his brute strength, he is often able to daze his enemies, bashing them
+senseless.
+
+See HELP BERSERKERS for some roleplaying notes.
+
+Abilities: berserk, circle, bash, kick
+
+ :::: CLERIC ::::
+
+Clerics on Realms are all of different deities. You must choose which diety you
+want at character creation. All clerics endeavor to increase the influence of
+their diety in the world of Derlith. All clerics are able to pray to their diety
+in order to get increased piety.
+
+Clerics of Aramon
+(HELP ARAMON)
+
+Aramon is the god of deceit, the void, death, strife, and ambiguity. His sole
+purpose is to bring about the total destruction of Derlith by plunging it into
+a realm of infinite darkness. As such, his priests seek to kill, mame, destroy,
+and scheme to this end. Aramon's clerics are highly tied to necromantic arts,
+so they deal with the undead often. As such, they are able to call forth undead
+to aid them. They are also able to enthrall these undead creatures, thereby
+charming them to not cause the cleric any harm. Aggressive undead will not
+usually attack a cleric of Aramon without provocation. Aramon clerics must
+remain evil at all times, less they risk the wrath  of Aramon. Clerics of
+Aramon hate clerics of Enoch, and they will go way out of their way to destroy
+them by any means.
+
+Abilities: pray, teach, enthrall, animate
+Restrictions: Must wear light armor. Must remain evil.
+              Healing spells on others are penalized.
+Races: Cambion, Goblin, Half-Elf, Half-Giant, Half-Orc, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Tiefling, Troll
+
+
+Clerics of Ares
+
+Ares is the god of war, destruction, bloodlust, and violence. Conquest is his
+chief goal, and anywhere he can increase it, he gains more influence. As such,
+priests of Ares tend to be of a less civilized mindset. Ares priests are not
+very adept at healing as clerics usually are. A priest of Ares is much like a
+berserker-priest, in that he is able to go berserk in combat in order to do
+more damage. Also like a berserker, an Ares priest is able to bash his opponents
+to oblivion, although not as well. Ares priests are always in the vanguard of
+any barbarian conquests, and they often seek to lead in battle all over Derlith.
+Clerics of Ares despise clerics of Ceris, often openly attacking them or driving
+them away.
+
+Abilities: pray, teach, bash, berserk
+Restrictions: Must remain neutral. Healing spells are
+              always cast at half level.
+Races:  Barbarian, Cambion, Goblin, Half-Elf, Half-Giant, Half-Orc, Human,
+	Kataran, Kobold, Minotaur, Ogre, Orc, Troll
+
+
+Clerics of Ceris
+(HELP CERIS)
+
+Ceris is Derlith's goddess of healing, fertility, and compassion. She seeks to
+prevent death, violence, and war however possible. Her clerics are often renown
+as the best  healers and disease curers in the entire world. It is even said
+that some of the more powerful Ceris clerics are able to raise back people from
+the dead! As Ceris clerics are pacifists, they abore combat. As such, they are
+not very good with weapons, and are only able to use blunt and pole class
+weapons. Clerics of Ceris openly despise any kind of violence or evil. As such,
+they stand in the way of followers of Ares and Aramon whenever possible. Ceris'
+followers try to stay clear of priests of Enoch, as those priests recently have
+been on a crusade to subjegate followers of Ceris using "righteous violence".
+
+Abilities: pray, teach, turn, healing spell bonus
+Restrictions: Light armor only. Pole and blunt weapons only. Must not
+              go to extreme good or evil alignment.
+Races: Human, Half-Elf
+Special: rejuvinate spell (HELP REJUVINATE)
+         resurrect spell (HELP RESURRECT)
+
+
+Clerics of Enoch
+(HELP ENOCH)
+
+Enoch is Derlith's god of martial righteousness, truth, justice, and paladins.
+He seeks to spread his influence however possible by helping the weak and
+oppressed, by showing them his light and the singular truth of his ways. Clerics
+of Enoch seek to convert all people to follow the beliefs of Enoch, and they
+will openly fight if necessary to do this. They hunt out evil wherever they find
+it, even if it's not really there in some cases. Followers of Aramon are to be
+given no mercy, as Enoch has a long standing feud with Aramon. Others who aid
+him receive no mercy either. Enoch clerics of higher power are able to use a
+holyword to smite their evil enemies. They are also very good with weapons and
+armor, due to their martial nature. Undead fear clerics of Enoch, and often run
+in fear from their increased turning abilities. A cleric of Enoch must remain
+good, or their power is liable to wane, and the Inquisitors' Order might come
+looking for them for questioning.
+
+Abilities: holyword, pray, teach, turn, turn bonus
+Restrictions: Must remain as good as possible, or
+              abilities wane.
+Races: Half-Elf, Half-Giant, Half-Orc, Human, Kataran, Seraph
+
+Clerics of Gradius
+(HELP GRADIUS)
+
+Derlith's dwarves all follow the god Gradius, their god of mining, metallurgy,
+earth, and creation. Gradius is a jovial god, known as the best drinker and
+carouser in the heavens. On Derlith, he seeks to increase his influence
+primarily through dwarven expansion and building, but also through conquests
+against evil humanoids such as orcs, goblins, ogres, trolls, and giants.
+Dwarven clerics of Gradius are second in warfare only to clerics of Ares, and
+they often are seen at the head of dwarven armies leading in perilous charges,
+screaming their god's name. Upon reaching certain power, a cleric of Gradius is
+able to smother opponents with the power of earth. He is also able to conjure
+creatures of earth to aid and assist him in combat. Healing is not a strong suit
+of a Gradius cleric, as they are more focused on the areas of warfare and
+elemental earth magic. Clerics of Gradius will seek to spread their god's
+influence in any way they can, most often by killing as many orcs, goblins,
+ogres, giants, and trolls as possible.
+
+Abilities: pray, teach, smother, conjure(earth only)
+Restrictions: Must remain neutral to light blue, or powers will wane,
+              sometimes not functioning. Healing magic is penalized.
+Bonus: see "help vile" for more information.
+Races: Dwarf only
+
+
+Clerics of Kamira
+
+Kamira is Derlith's goddess of merriment, adventure, thieves, gambling, and
+excitement. She is all about having a good time at all costs. Her priesthood
+is completely chaotic, being one huge long party whenever any clerics are awake
+and not unconscious. She is also the goddess of luck, and many wish the luck of
+Kamira on their allies before battle or some other risky endeavor. Clerics of
+Kamira are said to be unnaturally lucky. So much so, that nobody will gamble
+with them, and in some places it's even illegal! They also have a tendancy to
+"borrow" things and give them to the poor, or otherwise to play practical jokes
+on people, so they are fully versed in the ability to steal. Clerics of Kamira
+are good of heart, and must remain so, or their power with the goddess will
+wane. They are some of the best explorers in the land, able to search almost as
+well as some rangers, and to hide as well as a thief. At a certain point, they
+even learn to pick locks. The enemy of a cleric of Kamira is anybody not out to
+have a good time.
+
+Abilities: pray, teach, pick, peek, steal, naturally lucky,
+           search and hide well
+Restrictions: Must remain good, or powers will wane,
+              Must wear light armor, no missile weapons.
+Races: Gnome, Half-Elf, Halfling, Human
+
+ :::: DEATHKNIGHT ::::
+
+Prime Requisites: Strength, Piety
+Compatable Races: Cambion, Dark-Elf, Goblin, Half-Elf, Half-Giant, Half-Orc,
+	Human, Kataran, Kobold, Minotaur, Ogre, Orc, Tiefling, Troll
+
+A fearsome warrior augmented by powerful necromantic magics, a death knight
+derives most of his demonic power directly from his evil god. The mission
+of the death knight is the systematic and ordered pain and suffering of all
+in his path. A death knight can be so evil as to drain the life from his
+enemy when he attacks him. If he performs a blood sacrifice prior to battle,
+he may infuse his dark soulless body with the drained life energies of his
+victims. A death knight may pray to infuse  his body with evil, in order to
+do more damage in attacks and also raising him strength for a time. This
+evil is so destructive, in fact, that very powerful death knights are able
+to touch their enemies and channel it into them, doing extreme damage.
+Death knights also show their excellent combat abilities by their ability
+to kick their victims once they reach enough experience to do so. The
+nemesis of the death knight is the paladin, the warrior of light. The Death
+Knight is so strong in his evil faith that he may renounce a Paladin to do
+harm. Paladins are attacked on sight, as no quarter can be given to the
+just and merciful.
+
+Abilities: Pray, Bloodsacrifice, Harm, Kick, Renounce
+
+ :::: DRUID ::::
+
+Prime Requisites: Intelligence, Constitution
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The druid is the master of elements and the forces of mother nature. Such is the
+affinity he has for the powers of the universe, that he can conjure elemental
+creatures of earth, air, fire, and water to assist him. The forest is the
+kingdom of the druid, where he can be the most together with nature. The order
+of druids in Derlith is a complex hierarchy. The most experienced druids can
+call very powerful elemental creatures to fight for them, yet only those druids
+with the most devotion can hope to hold them to this world for long. Like a
+ranger, a druid may also find tracks in a room in order to determine routes of
+travel most often used. However, unlike a ranger, a druid is able to commune
+with nature to learn the whereabouts of nearby creatures.
+
+See HELP DRUIDS for some roleplaying notes.
+
+Abilities: Conjure, Track, Barkskin, Commune
+
+ :::: FIGHTER ::::
+
+Prime Requisites: Strength, Dexterity
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The fighter is a master of weapons and fighting arts. He travels from place to
+place to do battle in armies as a vassal or as a mercenary. The more powerful
+fighters are masters of the lands around them. Fighters may circle their
+enemies in attacks, confusing them for many seconds before moving in to strike.
+Like barbarians, fighters are also able to bash their opponents senseless with
+force of strength. In addition, they are able to kick their enemies in combat
+as an augmentation to their fighting skills with weapons. Fighters are also
+able to disarm their opponents, depriving their enemies of their weapons in
+order to have a better advantage. At higher levels, the fighter of high
+intelligence is able to cast some spells to help him fight. There are several
+clans throughout Derlith in which a fighter may join - most often those
+opposing thieves and assassins.
+
+See HELP FIGHTERS for some roleplaying notes.
+
+Abilities: Bash, Circle, Disarm, Kick
+
+ :::: LICH ::::
+
+Prime Requisites: Intelligence, Constitution
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+A lich is the result of forbidden necromantic magics. Some mages, when they
+reach venerable age, set out to extend their lives forever. To do this, they
+magically transform themselves into a lich using powerful negative energies. The
+result is an evil and undead being, which is the bane of all life in its path.
+A newly created lich is a shadow of its former self, having to start all over
+again to advance in power and experience. A lich is averse to healing magics,
+and no such spells will work for them or to their benefit. The magical energies
+which the immortal lich uses are a tap on its own life force. As such, a lich
+doesn't cast spells as the living do, but drains its own life to do so. A lich
+may touch a living creature and drain the life from it, leeching part of the
+creature's life force for itself. In addition, liches may also draw on the
+positive energy of the world around them to regenerate their own life force. As
+a result, there is always a deathly coldness whenever a lich is present. Due to
+the feeble nature of a lich's new body, they take more damage from physical
+attacks then normal. However, since they are essentially magical undead
+creations, they tend to resist magic the more powerful they get. They even
+absorb some of the damage to replenish their life force. A lich is unaffected
+by poison or disease, as these are weaknesses it only had in its former life. A
+lich is able to be turned by clerics and paladins, which actively hunt them down
+to destroy them. The lich is the destroyer of all things living and will kill at
+all costs. It must remain evil. If it does not, it surely will fade out of
+existence. On the world of Derlith, the lich owes allegiance to no one but
+itself.
+
+Abilities: Drain, Regenerate, Magic resistance
+
+ :::: MAGE ::::
+
+Prime Requisites: Intelligence, Piety
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+A mage is the user of magic, the powerful wielder of the arcane arts. At low
+levels a mage is not very powerful, but at higher levels, he may control
+powerful magic which may destroy all in his path. A single spell from a mage is
+often able to do massive damage to an enemy. A mage's learning of arcane arts is
+so intense, that he may detect the presence of magic around him at all times.
+When he becomes powerful enough, he gains the power to temporarily enchant
+items. A mage is also a superb teacher, able to instruct beginning pupils in
+some low level magical abilities. When he reaches a certain level of magical
+ability, a mage may recharge items such as wands and staves. He does this by
+transmuting gold into magical energy. The amount of power in the magical item
+determines the amount of gold needed. The center of power for the mage on
+Derlith is in the Highport Wizards' Guild. There, all arcane knowledge is
+stored throughout the land. A society of mages exists which most mages are able
+to join, yet this is not required.
+
+Abilities: Teach, Transmute, Enchant, Always detects magic
+
+ :::: MONK ::::
+
+Prime Requisites: Strength, Constitution
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The monk is the silent warrior of martial arts. With his hands alone, he is able
+to harm his enemies using ancient techniques of fighting known only to his
+order. Very few weapons, however, are made specifically for monks in order for
+them to fight creatures of a magical nature. To regain his strength, a monk may
+enter a meditative trance while fighting. A monk may also concentrate to focus
+his mental energy on his opponent. This makes him hit his targets easier. At
+higher levels, his power is such that he may touch his enemy, sending mystic
+vibrations throughout his target's body. This can severely damage and even
+fatally wound his opponent. The monks of Derlith owe allegiance to no one,
+wandering the land with the soul purpose of seeking enlightenment.
+
+Abilities: Meditate, Focus, Touch of Death, Kick
+
+ :::: PALADIN ::::
+
+Prime Requisites: Strength, Piety
+Compatable Races: Dwarf, Elf, Half-Elf, Half-Giant, Half-Orc, Human, Kataran,
+	Seraph
+
+The paladin is a holy warrior of a god, the crusader of all that is righteous
+and just. A paladin can be so strong in his faith that it gives him power
+against his enemies in combat, making his attacks do more damage then normal.
+He may also turn back evil creatures of the undead with his faith, sometimes
+just harming them but other times destroying them utterly. A paladin is always
+able to determine the evil or good nature of those around him. Also, paladins
+of extreme faith and power are able to lay hands on people to heal them almost
+to full health three times per day. The nemesis of the paladin is the Death
+Knight, a blatant creation of evil and a mockery of his faith. Paladins may
+renounce a Death Knight with the martial strength of their faith to harm them.
+A paladin normally attacks a Death Knight on sight in order to send the
+creature to Hell where it belongs.
+
+Abilities: Pray, Turn, Hands, Renounce, always can know-aura
+
+ :::: RANGER ::::
+
+Prime Requisites: Strength, Dexterity, Intelligence
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The ranger is the protector of the forest and guardian of nature. His goal is
+the destruction of all that seeks to harm nature, and to thwart all that is an
+affront to it. A ranger is an excellent scout, able to search ahead of his
+companions without being seen. He may also search the ground and find common
+routes of travel by finding tracks, making him an invaluable asset when trying
+to escape areas such as mazes. Rangers search better then most, making them the
+best explorers in all of Derlith. Last but not least, the ranger is an excellent
+fighter, being able to wield a weapon in each hand when he attacks. The most
+common enemy of a ranger is any undead, creatures of which he despises as a
+mockery to all that is natural. To this end, rangers of Derlith have been known
+to become some of the best vampire hunters that have ever lived. They are the
+only ones known to be able to detect the foul creatures at night. Rangers are
+known to hunt liches as well at times.
+
+See HELP RANGERS for some roleplaying notes.
+
+Abilities: Scout, Track, Second, Ambush, Mistbane
+
+ :::: ROGUE ::::
+
+Prime Requisites: Strength, Dexterity
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The rogue is a swashbuckling outlaw, living from job to job and by his sword.
+Whether he be bounty hunter or bandit, pirate or conman, he is an extreme jack
+of all trades in regards to the seedier sides of life in Derlith. Above all,
+however, a rogue favors honorable combat. Rogues are often partisons which help
+oppressed peoples fight evil authority. Rogues are similar to thieves and
+similar to assassins, but excel as neither. The biggest advantage a rogue has
+is his acrobatics. A rogue is extremely hard to hit, as he can dodge and
+sometimes even riposte attacks against him. A rogue is also able to wield two
+weapons at the same time, and is able to disarm his opponents, although not as
+well as a fighter. Rogues may also kick their enemies in combat at times,
+dealing extra damage. Rogues are good fighters, but they lack the staying power
+of the fighter and the bruteness of a barbarian. The rogue is the master of the
+ambush, and he can jump from the shadows to ambush his opponents, catching them
+by surprise. Due to nefarious activities, Rogues are also able to pick locks
+once they reach a certain height in their profession. Several organizations
+will accept Rogues into their ranks across Derlith, as the criminal and
+fighting knowledge of the Rogue is always widely desired.
+
+Abilities: Ambush, Disarm, Kick, Pick, Second
+
+ :::: THIEF ::::
+
+Prime Requisites: Strength, Dexterity
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+Thieves are the rogues of Derlith, the common criminals and scam artists. Their
+goal in life is to get ahead no matter what the cost, whether to themselves or
+to others. A thief can steal very well, often taking things from his victim's
+inventory without them even knowing it is even missing until hours later. He
+also may peek at his victim's possessions so that he may know what he can take.
+Like an assassin, a thief has the ability to strike from the shadows, stabbing
+his enemy in the back to do massive damage in one strike. Although he is not as
+adept at it as an assassin, the thief is still often able to kill his opponent
+in this manner. All but the most exotic locks often are not an obstacle for a
+thief, as he has the ability to pick them open to always get where he wants to
+go. A thief can also hide in the shadows and often sneaks from place to place
+without being seen, making him hard to detect or catch. A thief is so dexterous,
+that he is able to dodge attacks the more experienced he becomes. Sometimes the
+moves they make are amazing.
+
+Thieves must pledge to reach levels 8, 9, 10, and 11.
+
+Abilities: Steal, Peek, Backstab, Pick
+
+ :::: VAMPIRE ::::
+
+Prime Requisites: Strength, Intelligence
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The vampire is the undead creature of the night. He has a hatred of all that is
+living, as he must rely on the blood of the living to survive. The night is the
+vampire's kingdom. When the sun sets across Derlith, hordes of vampires come out
+to feast. During the night, a vampire is able to bite any living creature, doing
+massive damage in a single strike. He may also transform himself into a
+translucent mist, unable to be detected until the time of his attack. Contrary
+to popular belief, a vampire is not powerless when the sun comes up. A vampire
+is often able to hypnotize his victim, even in daylight. This renders an enemy
+harmless to the vampire, as the victim perceives the vampire to be a friend and
+thus will not attack. There aren't many organizations across Derlith which a
+vampire may join, as many are afraid of his unnatural power. At least one
+organization solely for vampires is rumored to exist somewhere in Derlith,
+however.
+
+Abilities: Bite, Mist, Hypnotize
+
+ :::: WEREWOLF ::::
+
+Prime Requisites: Strength, Constitution
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The werewolf is the render of flesh, the bane of mankind, and the creature of
+the full moon. Werewolves often travel in packs in order to hunt their victims.
+Werewolves are magical in nature, and thus are not harmed by traditional
+weapons and attack techniques. Magic spells or enchanted weapons are required
+to harm them. A werewolf never attacks with weapons, except on very rare
+occasions. Instead, he uses powerful jaws and razor sharp claws to attack his
+victims, rending them to a bloody pulp. A werewolf is able to fight in a wild
+frenzy, attacking in a whirlwind to destroy his enemies. He may also maul his
+victim, knocking him to the ground and rendering him helpless to fight back
+for a time. Possessing a keen sense of smell, a werewolf is able even to
+detect invisible opponents in his midst. Werewolves are also faster healers
+then most, owing to their wild nature. No organization across Derlith will
+accept a werewolf into their ranks. Just as well, a werewolf wants nothing
+to do with any order but his own pack, and he will generally shun all
+civilization. It is also well known throughout Derlith that werewolves detest
+vampires and will kill them on sight.
+
+Abilities: Frenzy, Maul, Howl, Track, Pack Damage Bonus
+
+
+ :::: MULTICLASS ::::
+
+Multi-class characters are a common thing in standard D&D, so we thought we'd
+try to port them into Mordor. While there are big benefits to being multi-class,
+most noteably being able to have alot of the abilities of both classes, there
+are also penalties - the primary one being that multi-class characters
+automatically receieve 3/4 the exp from everything. Therefore, it takes them a
+third as long to level. In addition, while multi-class characters have abilities
+in both their classes, the abilities are not always as strong as a full person
+of that class would be in them. For instance, when stealing, a fighter/thief is
+not as good as a pure thief of the same level, and he can't ever steal gold. In
+some cases, an ability might not even be available. To use the above example,
+a fighter/thief is unable to bash.
+
+It is strongly suggested that only veteran players attempt to level one of these
+classes, as they will be quite taxing to level. Once they are high level,
+though, they will be incredibly cool and well-rounded classes. The following is
+a list of the multi-class combinations available at character creation. These
+are the only ones available for right now. More may be added at a later date.
+
+
+Note: Initial HP/MP is always the average of the normal alotted to each class.
+Note 2: Stat and save adjustments per level has been customized for each of
+       these combinations.
+Note 3: All ability benefits and restrictions are not mentioned here. You will
+       need to find out some for yourselves.
+Note 4: All multi-class chars train at the location of their first class.
+
+
+FIGHTER/MAGE
+HP/lvl: 5
+MP/lvl: 4
+Thac0: Fighter
+Allowed Races: Cambion, Elf, Half-elf, Gnome, Dark-elf, Seraph, Tiefling
+
+Description:
+Fighter/Mages are warrior mages. The first ones appeared among the elves, with
+their mages specifically trained for war with orcs and other evil forest
+denizens. A fighter/mage can automatically detect-magic just like a mage. They
+also cast faster than a fighter does. Fighter/mages are required to wear light
+armor, and they are unable to bash, and do not circle as well as a pure fighter.
+
+
+FIGHTER/THIEF
+HP/lvl: 6
+MP/lvl: 2
+Thac0: Fighter
+Allowed Races: Cambion, Dwarf, Elf, Half-elf, Halfling, Orc, Half-orc,
+	Kataran, Kobold, Goblin, Tiefling
+
+Description:
+A fighter/thief is usually a fighter that started out trying to be a thief at a
+young age and gained some skills in that profession, and then moved on to just
+be a fighter because they liked focusing more on fighting skills than thieving.
+A fighter/thief can pick locks, peek, steal, backstab, sneak, and hide just like
+a thief can, although not as well. Fighter/thieves are also required to wear
+light armor, and they are unable to bash, and do not circle as well as a pure
+fighter.
+
+
+CLERIC/ASSASSIN
+HP/lvl: 5
+MP/lvl: 3
+Thac0: Cleric
+Allowed Races: Half-orc, Cambion
+
+Description:
+Cleric/assassins are clerics which specialize in killing people. As a result,
+they train as assassins as well as in the clerical arts. A cleric/assassin may
+only pledge to Aramon, as the Cult often trains its clerics in this manner. A
+cleric/assassin is able to backstab, scout, sneak, hide, and use envenom just
+like a normal assassin can, only not always as well. They also cast a little
+slower, cannot teach, and their healing is as if they are half their level.
+
+
+MAGE/THIEF
+HP/lvl: 5
+MP/lvl: 4
+Thac0: Mage
+Allowed Races: Elf, Gnome, Cambion, Half-elf, Tiefling
+
+Description:
+A mage/thief is usually a former thief which discovered they had abilities in
+the arcane arts and gave up their criminal career. This by no means stops them
+from being skilled thieves still, however. A mage/thief is able to pick, steal,
+dodge, hide, sneak, and backstab just like a normal thief, only not as well. As
+a result of deviating from their mage studies, their casting time is somewhat
+slower. Mage/thieves are still bound by mage armor restrictions.
+
+
+THIEF/MAGE
+HP/lvl: 5
+MP/lvl: 3
+Thac0: Thief
+Allowed Races: Elf, Gnome, Cambion, Half-elf, Tiefling
+
+Description:
+A thief/mage is a thief who once was a mage, or a thief who dabbles in arcane
+arts while being a thief. They retain their ability to detect magic, and they
+cast spells a little faster than a pure thief does. Dabbling in arcane arts
+causes a thief/mage's ability to steal to be lax somewhat.
+
+
+MAGE/ASSASSIN
+HP/lvl: 5
+MP/lvl: 3
+Thac0: Assassin
+Allowed Races: Cambion, Dark-elf, Tiefling
+
+Description:
+The mage/assassin is the ultimate assassin - the killer with magic. They are
+mages cross-trained to be assassins for various dark organizations. In fact,
+they recently have resurfaced. Previously, none had been seen since before the
+troubled times. It is believed they work for a dark order of shadow assassins,
+trained by the Nightshades, but these are only rumors. A mage assassin is able
+to scout, use envenom, and backstab just like an assassin, only not as well.
+They use an assassin's thac0 to fight. As a result of their cross-training, they
+do not automatically detect-magic, and they are unable to teach or learn how to
+enchant items. They are limited by mage restrictions on armor.
+
+
+
+ :::: BARBARIAN ::::
+
+Adjustments: +1 Strength, +1 Dexterity, -2 Intelligence
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Druid, Fighter, Lich,
+	Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf
+
+Barbarians are wild savage humans who roam the Baladus Plains and other frontier
+areas of Derlith. They are tribal in nature, and are led by a barbarian chief or
+king usually. Humans in civilized areas often do not understand barbarians, and
+vice versa, so there are usually cool relations between them. Barbarians do not
+understand magic not related to battle enhancement or healing, so as a result
+they usually don't trust mages. All barbarian warriors are berserkers, and all
+barbarian clerics worship the god Ares, god of war, bloodlust, and battle.
+Blood, battle, tribal honor, and steel are all a barbarian understands or cares
+about. Barbarians are exceptionally large humans, occasionally over 7 feet in
+height. They are extremely robust in stature. Their savage nature causes them
+to be less intelligent due to ignorance, however.
+
+See in dark (infravision): No
+Size class: Large
+
+ :::: CAMBION ::::
+
+Adjustments: +1 Intelligence, +1 Strength, -2 Piety
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf,
+	Fighter/Mage, Cleric/Assassin, Mage/Thief, Thief/Mage, Mage/Assassin
+
+Cambions are half-breeds between demons of Hell and humans. As such, they are
+often of greater intellect then a mere human would be. They appear just as
+humans, although they often have a distorted feature here and there, such as
+pointed ears or strange colored skin, hair, or eyes. On occasion they even have
+small horns. Cambions are very attuned to magic, and they make excellent mages.
+Many Cambion Death Knights can be found as well. Cambion women are ALWAYS
+beautiful and seductive, and they are often in highly influential positions.
+Due to their unworldly connections and sometimes deformities, Cambions aren't
+as dexterous as most. They aren't as robust in constitution as humans either.
+Type HELP CAMBIONS for roleplaying information.
+
+See in dark (infravision): Yes
+Size class: Medium
+
+ :::: DARKELF ::::
+
+Adjustments: +2 Dexterity, -1 Strength, -1 Constitution, +1 Intelligence,
+	-1 Piety
+Compatable Classes: Assassin, Bard, Berserker, Deathknight, Druid, Fighter,
+	Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf, Fighter/Mage,
+	Mage/Assassin
+
+Dark elves, or Drow as they are sometimes called, are the ancient cousins of
+elves who were banished to the underworld for practicing evil magics and
+worshipping dark gods. Occasionally, one of these dark elves will wander to
+the surface of Derlith to live instead. These rogue dark elves never have a
+place in society and are shunned and often attacked by other elves of the
+surface. As a result, they often become criminals,  living as thieves,
+assassins, or something equally bad. The dark elf's small and slender form and
+long fingers gives him a fighting edge in addition to helping him in matters
+of stealth. A dark elf is thus very  agile. However, thousands of years under
+the surface of the world in  darkness has rendered him not as strong as some
+surface races.
+
+Type HELP DARKELVES for roleplaying information.
+
+See in dark (infravision): Yes
+Size class: Medium
+
+ :::: DWARF ::::
+
+Adjustments: +1 Strength, +2 Constitution, -1 Dexterity, -1 Piety,
+	-1 Intelligence
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Druid, Fighter, Lich,
+	Mage, Monk, Paladin, Ranger, Rogue, Thief, Vampire, Werewolf,
+	Fighter/Thief
+
+Dwarves are jolly folk, short of stature and long of beard. They always have a
+very bulky and stocky appearance. Dwarves are some of the toughest fighters
+around, owing to years and years spent toiling in underground mines and hauling
+rock. Dwarves love beer and ale, and will always take the opportunity to drink
+them whenever the moment arrives. Due to their bulky build, dwarves are often
+stronger then other races of similar size, and they are often usually healthier.
+However, they aren't as quick as  other races their size and also aren't very
+pious in general. Dwarves often make excellent armor and weapons, which they
+often use to great effectiveness. Battle, mining, honor, and spirits are the
+most important  things to a dwarf, besides the history and traditions of his
+ancestors, which take precedence over all.
+
+Type HELP DWARVES for roleplying information.
+
+See in dark (infravision): Yes
+Size class: Medium
+
+ :::: ELF ::::
+
+Adjustments: +2 Intelligence, -1 Strength, -1 Constitution, +1 Dexterity,
+	-1 Piety
+Compatable Classes: Assassin, Bard, Berserker, Druid, Fighter, Lich, Mage, Monk,
+	Paladin, Ranger, Rogue, Thief, Vampire, Werewolf, Fighter/Mage,
+	Fighter/Thief, Mage/Thief, Thief/Mage
+
+Elves are the dwellers of Derlith's forests, a fairy folk who have lived for
+centuries. The command elves have for magic is legendary, and as such they are
+often very good mages. Most of an elf's life is spent in intellectual persuits
+and studies of the world around him. He also has a fine appreciation of the
+arts, and often is able to sing and dance very well. The elves of Derlith make
+the best wine known, which is often consumed while sitting around fires telling
+stories of times ancient past.  An elf is small and slender of stature, and due
+to his size he is not as robust or strong as some other races. However, his
+intellect eclipses that of nearly all other race on Derlith.
+
+See in dark (infravision): Yes
+Size class: Medium
+
+ :::: GNOME ::::
+
+Adjustments: +1 Piety, +1 Constitution, +1 Intelligence, -1 Dexterity,
+	-2 Strength
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Druid, Fighter, Lich,
+	Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf, Fighter/Mage,
+	Mage/Thief, Thief/Mage
+
+Gnomes are cousins of dwarves. They differ in appearance slightly from their
+cousins, having long noses and no beards. While a dwarf loves mining and stone
+crafts, a gnome excels in the craftsmanship of jewelry and fine art. Gnomes also
+prefer to live in the hills where they may communicate and trade easier with the
+world around them. Gnomes also have a love for invention, and they will often
+toil long into the night to try and figure out how a simple item works. Gnomes
+tend to be very good clerics, as they have come to know the arts of healing
+better then most races, and they are often quite pious in nature.
+
+See in dark (infravision): No
+Size class: Small
+
+ :::: GOBLIN ::::
+
+Adjustments: +1 Strength, +2 Constitution, -3 Intelligence
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf,
+	Fighter/Thief
+
+It is said that after certain gods created elves, other jealous gods attempted
+to create a superior race and failed. The result was the goblin. The goblin is
+a small and repugnant creature with big bulbous eyes and pointy teeth. He is
+quite dull in intellect, yet he can eat almost anything and breeds like a
+rabbit. Goblins are also very strong for their size, often fooling their
+enemies. As a result, a goblin makes a very good fighter or barbarian. Many
+tribes of goblins exist in Derlith, often to the chagrin of the areas around
+them, as they often prey on weary travelers and merchants.
+
+Type HELP GOBLINS for roleplaying information.
+
+See in dark (infravision): Yes
+Size class: Small
+
+ :::: HALFELF ::::
+
+Adjustments: +1 Dexterity, +1 Intelligence, -1 Constitution, -1 Strength
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Paladin, Ranger, Rogue, Thief, Vampire,
+	Werewolf, Fighter/Mage, Fighter/Thief, Mage/Thief, Thief/Mage
+
+Half elves are the result of the crossing of elves and humans. As a result, they
+often have no place to call a home, as neither side accepts them fully. Half
+elves living with humans fair better however, as elves tend to be a bit more
+racist then mankind. A half elf inherits his elven half's quick intellect as
+well as his smallness of stature. Half elves are able to become masters at any
+profession, and they can be found all across Derlith.
+
+See in dark (infravision): No
+Size class: Medium
+
+ :::: HALFGIANT ::::
+
+Adjustments: +2 Strength, -1 Intelligence, -1 Piety
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Paladin, Ranger, Rogue, Thief, Vampire,
+	Werewolf
+
+Half giants are a strange race, a magical cross between humans and hill giants.
+Standing often nine or ten feet tall, half giants have very brute strength. Half
+giants often live as barbarian gladiators and body guards, and usually learn to
+fight at a very young age. There are many special armors and weapons which are
+only usable by half giants, as any other being is too small of stature or weak
+to wear or wield them. Half giants tend to be a little more dull witted in
+general, and they are not very pious, owing mostly to their giantkin roots.
+Some half giants become very good assassins, but this is rare due to their
+large size.
+
+See in dark (infravision): No
+Size class: Large
+
+ :::: HALFORC ::::
+
+Adjustments: +1 Strength, +1 Constitution, -1 Intelligence, -1 Piety
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Paladin, Ranger, Rogue, Thief, Vampire,
+	Werewolf, Fighter/Thief, Cleric/Assassin
+
+An illegitimate cross between an orc and a human, a half orc is shunned by all
+society. Most often these freaks of nature wind up as criminals. Half orcs are
+usually paid thugs, thieves or assassins. They can often be found high in the
+ranks of many of Derlith's criminal organizations. They are not as agile as
+some humans, but are often quite strong and sturdy. Most of them have bad
+attitude as well, brought on by an inferiority complex due to no one accepting
+them.
+
+See in dark (infravision): No
+Size class: Medium
+
+ :::: HALFLING ::::
+
+Adjustments: +2 Dexterity, -2 Strength
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Druid, Fighter, Lich,
+	Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf, Fighter/Thief
+
+Halflings get their namesake from the fact that they are roughly half the size
+of a human. Short and often plump, the halfling loves good food and drink. They
+also tend to have more body hair then humans, with tufts on the backs of their
+hands and feet. A halfling is very agile, owing to his small size. His small
+size handicaps him, however, when strength is considered. Halflings make the
+best thieves in Derlith, and almost everyone equates being a halfling and a
+thief as being one in the same.
+
+See in dark (infravision): No
+Size class: Small
+
+ :::: HUMAN ::::
+
+Adjustments: Pick one stat to raise, and one to lower.
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Paladin, Ranger, Rogue, Thief, Vampire,
+	Werewolf
+
+Humans are the most populous race in Derlith. They are often able to excel in
+any class. Most other races take a neutral view of humans, some viewing them all
+as being petty and materialistic. Some races, like orcs, ogres, and trolls, view
+humans as arch enemies or even as a food source. Humans are definitely the most
+flexible and powerful race in all of Derlith. Due to their flexibility and
+diversity, Humans are able to choose one stat to raise and one stat to lower
+during character creation.
+
+See in dark (infravision): No
+Size class: Medium
+
+ :::: KATARAN ::::
+
+Adjustments: +2 Dexterity, +1 Constitution, -2 Intelligence, -1 Piety
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Paladin, Ranger, Rogue, Thief, Vampire,
+	Werewolf, Fighter/Thief
+
+Katarans are a race of savage cat people which live often live in Derlith's
+tropical jungles and temerate forests. They are quite uncivilized, to a point
+where most of the civilized societies of Derlith fail to understand or accept
+them. Katarans are medium of build and are quite strong for their size. Due to
+their cat-like nature, they are also EXTREMELY agile and quick. Kats, as they
+are sometimes called, have varying colors to their coats of fur, the females
+usually having brighter colors and more varied markings then the males. They
+all have tails which are almost prehensile. Because Katarans do not understand
+normal civilization too well, they often are not quite as intelligent as
+average due to ignorance. Katarans do not like, nor do they understand magic
+and magical things, and Kataran shamans are often the most feared members of
+their tribes. Due to their dexterity and constitution, Katarans are known to
+be some of the best assassins and thieves in all of Derlith.
+
+See in dark (infravision): Yes
+Size class: Medium
+
+ :::: KOBOLD ::::
+
+Adjustments: +2 Dexterity, +1 Intelligence, -1 Constitution, -2 Strength
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf,
+	Fighter/Thief
+
+Kobolds are small dog-faced creatures which live in hills and low mountain
+regions underground. They are usually quite clever in large numbers, and they
+are often the bane of many halfling or gnome settlements in hilly areas all
+across Derlith. Kobolds are tribal in nature, and each community population
+often numbers in the thousands. They breed like rabbits. Dwarves cannot stand
+them, and they often have "Kobold tossing" events at parties or clan get
+togethers. Kobolds can live in any but the most terrible filth, so they are
+quite robust for their size. In addition, they are also pretty nimble, making
+excellent thieves. Due to their small size, however, they suffer from lack of
+strength much like halflings.
+
+See in dark (infravision): Yes
+Size class: Small
+
+ :::: MINOTAUR ::::
+
+Adjustments: +2 Strength, -1 Dexterity, -1 Intelligence
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf
+
+Minotaurs are a magical creation from long ago. They are the result of some
+twisted archmage's experiment, crossing a bull and a human. The result was a
+very large humanoid creature with the head of a bull and the body of a human.
+Minotaurs have very brute strength and little intellect. They often live in
+areas which are often confusing to travel in, such as mazes and rocky canyons.
+Minotaurs have a habit of eating human flesh as well, but not so much as ogres
+and trolls. Minotaurs also have the misfortune of having the worst body odor
+in all the land.
+
+See in dark (infravision): No
+Size class: Large
+Abilities: Track
+
+ :::: OGRE ::::
+
+Adjustments: +1 Strength, +2 Constitution, -1 Dexterity, -2 Intelligence
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf
+
+Ogres are ancient cousins of giants. They are big and very ugly, standing often
+between seven and eight feet tall. Tribes of ogres can be found in the mountains
+and sometimes in remote hilly areas. Ogres are very strong, a trait which they
+get from their relation to giants. They aren't very pious though, often caring
+more about when their next raid will be then anything else. Ogres make very good
+barbarians or fighters, and this is often what they become. Since they have a
+tendency to eat human flesh, they are not well tolerated by mankind. As a result
+they are often shunned by civilized areas.
+
+See in dark (infravision): No
+Size class: Large
+
+ :::: ORC ::::
+
+Adjustments: +1 Strength, +1 Constitution, -2 Intelligence
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf,
+	Fighter/Thief
+
+Orcs are fierce warriors which live mostly in forests and hills. They look like
+a cross between a boar and a human, having pig-like nostrils, reddish eyes, and
+tusks which protrude from their mouths. Orcs often travel in bands, raiding
+humans, dwarves, and elves alike. Dwarves and orcs hate one another, as they've
+been enemies since the beginning of time. Orcs are quite strong for their size,
+yet they are also quite dull-minded.
+
+See in dark (infravision): Yes
+Size class: Medium
+
+ :::: SERAPH ::::
+
+Adjustments: +2 Piety, +1 Intelligence, -2 Strength, -1 Dexterity
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Druid, Fighter, Lich,
+	Mage, Monk, Paladin, Ranger, Rogue, Thief, Vampire, Werewolf,
+	Fighter/Mage
+
+Seraphs are hybrid crosses between angels and humans of Derlith. Heavenly
+creatures have been known to walk the earth in Derlith in recent years due to
+the rise of evil in the land. Seraphs are usually quiet and keep to themselves.
+They only learn of their divine half later after growing up. Seraphs often make
+it their mission in life to point out any Cambion they may see to all around
+them. Cambions often hide in society wreaking havoc. Due to their divine
+connection, Seraphs are very very pious by nature. Thus, Seraphs make excellent
+clerics.
+
+See in dark (infravision): No
+Size class: Medium
+
+ :::: TIEFLING ::::
+
+Adjustments: +2 Intelligence, +1 Dexterity, -2 Constitution, -1 Piety
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf,
+	Fighter/Mage, Fighter/Thief, Mage/Thief, Thief/Mage, Mage/Assassin
+
+Tieflings are the offspring of demons and halflings. Thus they have inbred
+magical talent and intelligence. They often suffer from strange deformities due
+to their abyssal nature, such as a forked tail or tongue, steely spiked hair,
+clawed hands and feet, large horns, etc. The deformities tend to hamper their
+natural halfling dexterity as well as to make them have much less stature than
+normal for a halfling. Tieflings make some of the best mages on Derlith, and
+they only recently have begun to emerge in this regard. The majority of
+tieflings are of a multi-class nature, usually one having magical abilities.
+They are often hired out as assassins by one evil organization or another, as
+they have an inherent michievously evil nature. Most are shunned at birth as
+some kind of bad omen, and they are drawn to criminal and chaotic behavior like
+a moth to a flame. All tieflings have red eyes with black or white pupils which
+glow when the light is low.
+
+See in dark (infravision): Yes
+Size class: Small
+Note: Tieflings must be Chaotic.
+
+ :::: TROLL ::::
+
+Adjustments: +1 Strength, +3 Constitution, -1 Dexterity, -1 Intelligence,
+	-2 Piety
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf
+
+Trolls are hideous humanoid beings which stand approximately nine feet tall.
+Their skin is mottled and greenish in color, and they smell terrible. Most
+trolls are uncivilized and totally unintelligent beasts. A few, however, are of
+a different type which actually form themselves into organized tribes to raid
+humans. A troll's favorite food is human flesh, a delicacy which he is always
+hunting for. As a result, trolls are often not allowed into civilized areas and
+are often attacked by guards if sighted within city limits. A troll can live in
+any but the most horrible conditions of filth and as such has an extremely high
+constitution. They aren't very smart or pious, however, as all they care about
+is what they are going to fight or eat next. In general, most other races don't
+like trolls, especially humans.
+
+See in dark (infravision): Yes
+Size class: Large
+

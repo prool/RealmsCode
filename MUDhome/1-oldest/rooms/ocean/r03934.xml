@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<Room Num="3934" Version="2.40" Area="ocean">
+  <Name>Amethest Room</Name>
+  <ShortDescription>You are in a quiet room with a fireplace and comfortable chairs.</ShortDescription>
+  <LongDescription>On the walls are pictures of long dead mages who are remembered today for
+their work with the order.  A triple amethest, mounted on an alabaster
+pillar, stands in the center of the room.  There are three red-robed
+wizards seated about the room, and you are invited to sit and talk to
+them.  They will tell you what you must do to train.</LongDescription>
+  
+  <Established>771112479</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">626</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">627</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">628</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3926</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hab's door">
+      <Keys/>
+      <Room Area="ocean">3935</Room>
+      <Key>81</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="nab's door">
+      <Keys/>
+      <Room Area="ocean">3936</Room>
+      <Key>82</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="yab's door">
+      <Keys/>
+      <Room Area="ocean">3937</Room>
+      <Key>83</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

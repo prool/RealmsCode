@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1394" Version="2.40" Area="ocean">
+  <Name>Ghoul's Dining Hall</Name>
+  <ShortDescription>You have stumbled into the dining hall of the ghouls.</ShortDescription>
+  <LongDescription>If you haven't already figured it out, ghouls live off of human flesh.
+They also don't mind elves and dwarves.  There are a number of dead
+carcasses scattered around the room.  One is prepared on the table
+for dinner.  The stench and atmosphere in here is really making you ill.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">150</Mob>
+      <Mob Area="ocean" Num="1">150</Mob>
+      <Mob Area="ocean" Num="2">150</Mob>
+      <Mob Area="ocean" Num="3">150</Mob>
+      <Mob Area="ocean" Num="4">23</Mob>
+      <Mob Area="ocean" Num="5">23</Mob>
+      <Mob Area="ocean" Num="6">23</Mob>
+      <Mob Area="ocean" Num="7">150</Mob>
+      <Mob Area="ocean" Num="8">23</Mob>
+      <Mob Area="ocean" Num="9">150</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>hallway</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1395</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hallway">
+      <Keys/>
+      <Room Area="ocean">1376</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

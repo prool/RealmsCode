@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1262" Version="2.40" Area="ocean">
+  <Name>Crypt Intersection</Name>
+  <ShortDescription>You are in a large cave in the crypt which splits off in all directions.</ShortDescription>
+  <LongDescription>The crypt does not look very big, but with the number of intersections
+and dead-end paths, it's very easy to get lost.  The great mages also
+knew people would try to invade their tomb to retrieve lost artifacts
+and have made a number of traps to prevent this.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1261</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1263</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1270</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1278</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

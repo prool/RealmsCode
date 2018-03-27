@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="4248" Version="2.40a" Area="ocean">
+  <Name>Main Courtyard/Apstone Tunnel Intersection</Name>
+  <ShortDescription>You are at the southeast corner of the courtyard, near Apstone Tunnel.</ShortDescription>
+  <LongDescription>The tunnel you see leads to the eastern interior of the castle.  The chief  
+wizard of the castle, Apstone, maintains quarters just off the north side
+of the tunnel.  South of you are the castle stables, where most of the war
+horses are kept.  There are other steeds and mounts there as well.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>tunnel</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4246</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4249</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4245</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4244</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tunnel">
+      <Keys/>
+      <Room Area="ocean">4251</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

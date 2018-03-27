@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="78" Version="2.40" Area="ocean">
+  <Name>Trunbull's Fine Armor</Name>
+  <ShortDescription>You are in an armory, but everything you see is extra large.</ShortDescription>
+  <LongDescription>Racks of different kinds of armor line the wall, but the sizes are enormous.
+Even the owner here is a half-giant, and and he looks down on you from
+his four meters of height.  He waits impatiently for you to either buy
+something or leave.  Oh, yeah....   He doesn't approve of shoplifting. </LongDescription>
+  
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">170</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

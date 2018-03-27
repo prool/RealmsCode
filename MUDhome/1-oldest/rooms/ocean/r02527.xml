@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2527" Version="2.40" Area="ocean">
+  <Name>Teal Avenue</Name>
+  <ShortDescription>You are traveling on Teal Avenue, near the intersection with Annetol Way.</ShortDescription>
+  <LongDescription>There is a huge pillar of flame shooting out of the ground just south of
+here.  A small building is at the southern end of Teal Avenue, and it looks
+like it is the entrance to a testing grounds.  The flames are blow-torch 
+hot, and there are several dwarves in flame retardent suits testing shields
+in the pillar of flames.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2526</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2529</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3763" Version="2.40" Area="ocean">
+  <Name>Cellar Annex</Name>
+  <ShortDescription>You are in a cold and damp annex to the cellar of the Oceancrest Orphanage.</ShortDescription>
+  <LongDescription>This seems to be the dirtiest living quarters you have ever seen.  It's also
+cramped and cold in here, but it's obvious that someone live in this place.
+The children in the orphanage upstairs believe Miculash,  the caretaker of
+the place, turns bad kids into soap.  They tell visitors that he slits
+their throats, lets them bleed dry, then renders their bodies in a huge
+vat of lye and ash to make soap.  Of course no one believes such wild tales.</LongDescription>
+  
+  <Established>765665002</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">562</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3762</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

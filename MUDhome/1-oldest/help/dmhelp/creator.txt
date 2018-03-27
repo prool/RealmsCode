@@ -1,0 +1,54 @@
+proposed new class Creator
+
+  This would be an intermediary class between 
+builder and CT
+  Basically it would be for people 
+that we don't mind *sending to, but don't trust
+enough to make full CT
+
+Powers allowed 
+All Builder commands (appending rooms etc.)
+modify mobs except can not set exp on mobs
+*send
+*teleport
+*users
+*stat
+*mon
+
+Powers NOT allowed
+modify objects
+set exp on mobs
+*list
+*create
+
+
+   ocelot mentioned we might not need a new class,
+just a new flag on the CT or builder class
+here's why i'd like to see this done:
+   with this set up, its very difficult for a 
+creator to cheat, so we could allow creators 
+to still play
+
+  if we were to make this class, we could ask 
+all the CTs
+if they wanna stay CT, or go down to creator
+if they go down, they could play again
+
+   also, i feel like i can't promote any 
+builders right now
+cause then i'd have to ask them to suicide 
+all their characters, i don't think they will
+ but i really don't want to become a pure 
+mob-builder but at the rate these new builders
+ are going, i'm going to
+have my hands full making mobs to fill up 
+all these new areas
+
+ well look it over, and tell me any problems
+ you might see with it
+
+   (I think we might automatically demote 
+gonjinn, occulus and darklight)
+
+
+

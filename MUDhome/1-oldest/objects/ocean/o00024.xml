@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Object Num="24" Area="ocean" Version="2.40">
+  <Name>boomerang</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>32</ShotsMax>
+  <ShotsCur>32</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>3</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">70</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Weight>2</Weight>
+  <Type>5</Type>
+  <SubType>bow</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

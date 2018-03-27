@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3977" Version="2.40" Area="ocean">
+  <Name>Wooden Hut Training Room</Name>
+  <ShortDescription>You have won the right to train to level eight!  Congratulations!</ShortDescription>
+  <LongDescription>You hear a lot of applause outside as your fellow barbarians realize you
+you have become one of the leaders of the group.  The Shaman has a standing
+invitation for you to come to his hut for dinner.</LongDescription>
+  
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1845</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

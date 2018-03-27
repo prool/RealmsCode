@@ -1,0 +1,28 @@
+                                       General Spells
+Offensive Realm Spells                 ---------------------------------
+----------------------------------     resist-cold(16)
+Earth Realm           Air Realm        resist-earth*
+------------          ------------     resist-magic*
+                                       resist-fire*
+                                       earth-shield(16)      
+earthquake*                            resist-water*
+                                       fly(12)             
+Fire Realm            Water Realm      transport*
+-----------           ------------     word-of-recall*
+                                       breathe-water(16)               
+                                       remove-blindness*
+flamefill*            iceblade*        remove-curse(21)
+                                       remove-disease(21)
+Area of Effect Spells                  resist-air*
+---------------------                  
+quake*
+hurricane*
+firestorm*
+room-vigor*
+
+* Indicates spell needs to be a quest.
+(#) indicates the approximate difficulty of what should drop the
+    spell. This doesn't necessarily mean that level monster has to 
+    drop the spell, it just means level of difficulty. Just use it 
+    as a guideline for difficulty.  -- Rap
+

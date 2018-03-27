@@ -1,0 +1,25 @@
+Help on: *balance
+
+This command is used to simplify the building of monsters.
+It is the only way someone less then CT status is able to
+make and modify certain stats, as they are not allowed to
+*set certain things. Monsters can be balanced either normal,
+weak, or buff, depending on which switch you use or lack
+thereof. Most stats are based around *dmh guide, but in some
+cases this was deviated from. Please use this whenever
+possible, as it should greatly improve game balance.
+Syntax:
+*balance <monster> <level#> [-w | -b]
+
+Example:
+: You see a Highport Guardsman.
+: *balance high 20 -w
+: The Highport guardsman is now balanced at level 20.
+: The Highport guardsman was balanced with weak stats.
+: *balance high 10
+: The Highport guardsman is now balanced at level 10.
+: The Highport guardsman was balanced with average stats.
+: *balance high 15 -b
+: The Highport guardsman is now balanced at level 15.
+: The Highport guardsman was balanced with buff stats.
+

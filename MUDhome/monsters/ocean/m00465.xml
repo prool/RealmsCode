@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<Creature Num="465" Area="ocean" Version="2.40">
+  <Name>Jason the bridge guard</Name>
+  <Class>1</Class>
+  <Level>8</Level>
+  <Type>1</Type>
+  <Experience>220</Experience>
+  <Coins>
+    <Coin Num="2">100</Coin>
+  </Coins>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>Jason is a wiry little half-orc with a white, bloodshot blind eye.</Description>
+  <Keys>
+    <Key Num="0">jason</Key>
+    <Key Num="1">bridge</Key>
+    <Key Num="2">guard</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>225</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>2</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>you can buy a key, if you say it just right... purchase key jason</Talk>
+  <DefenseSkill>75</DefenseSkill>
+  <AttackPower>352</AttackPower>
+  <WeaponSkill>75</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">538</Carry>
+    <Carry Area="ocean" Num="1">538</Carry>
+    <Carry Area="ocean" Num="2">538</Carry>
+    <Carry Area="ocean" Num="3">538</Carry>
+    <Carry Area="ocean" Num="4">538</Carry>
+    <Carry Area="ocean" Num="5">538</Carry>
+    <Carry Area="ocean" Num="6">538</Carry>
+    <Carry Area="ocean" Num="7">538</Carry>
+    <Carry Area="ocean" Num="8">538</Carry>
+    <Carry Area="ocean" Num="9">538</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+    <Bit Num="22"/>
+    <Bit Num="23"/>
+    <Bit Num="36"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

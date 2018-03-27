@@ -1,0 +1,39 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  resisting elements    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+For each of the 6 elemental realms (water, fire, earth, wind, electricity,
+cold), there is a spell resists that realm (resist-water, resist-fire,
+resist-earth, resist-air, resist-lightning, resist-cold). Each of these spells
+takes 13 MP to cast. A character may only have two of the aforementioned spells
+effecting them at any given time. If a third resist-element spell is cast, the
+spell that has the least time remaining will wear off.
+
+Also note that you cannot resist elements of opposite realms at the same time.
+If you are resisting water, you cannot resist lightning. Opposite realms are:
+
+	water  --  electricity
+	fire   --  cold
+	earth  --  air
+
+Example:
+: c resist-w
+You cast a resist-water spell.
+: c resist-a
+You cast a resist-air spell.
+: c resist-f
+You cast a resist-fire spell.
+Your resist-water spell wears off.
+:
+
+
+The resist-water spell wears off because it was cast first and has the
+shortest remaining duration. Below, resist-fire wears off because cold
+is opposite of fire.
+
+
+Example:
+: c resist-c
+You cast a resist-cold spell.
+Your resist-fire spell wears off.
+:

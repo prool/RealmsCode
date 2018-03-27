@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="2023" Version="2.40" Area="ocean">
+  <Name>Tiamat Lane/Ivory Way Intersection</Name>
+  <ShortDescription>You are at the east end of Tiamat Lane where it joins Ivory Way.</ShortDescription>
+  <LongDescription>To the east, you see a large and modern complex facility that was built
+to accomodate the people's desire to learn more about para-psychology. 
+To the northwest, you can see the large dome of the Great Observatory.  
+Its entrance is to the west.  Ivory Way runs north and south. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">201</Mob>
+      <Mob Area="ocean" Num="1">202</Mob>
+      <Mob Area="ocean" Num="2">203</Mob>
+      <Mob Area="ocean" Num="3">204</Mob>
+      <Mob Area="ocean" Num="4">205</Mob>
+      <Mob Area="ocean" Num="5">206</Mob>
+      <Mob Area="ocean" Num="6">207</Mob>
+      <Mob Area="ocean" Num="7">208</Mob>
+      <Mob Area="ocean" Num="8">198</Mob>
+      <Mob Area="ocean" Num="9">208</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2550</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2022</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2520</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2018</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

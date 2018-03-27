@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="513" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are walking along Rosecrest Street, west of the Ivanhouse Arena.</ShortDescription>
+  <LongDescription>Occasionally, you can hear shouts of victory or defeat coming from 
+inside the stone walls of the Ivanhouse Sporting Facility, where people
+are challenged to take on gladiators literally one-on-one, without the
+assistance of other people.  On the west side of the road, you can see
+the Oceancrest Central Recycling Plant and Reclaimation Center, where
+all the trash in Oceancrest is processed.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">512</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">514</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">21</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

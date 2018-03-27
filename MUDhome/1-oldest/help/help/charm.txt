@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  charm          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Bards may charm opponents in order to allow them to not be attacked for
+the duration of the charm. Players that are charmeded may not attack a
+player who has previously charmed him while it lasts. It will not work
+against permanent monsters.
+
+Example:
+: charm wino
+Your song charms the wino.
+:
+

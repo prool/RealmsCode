@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="789" Version="2.40" Area="ocean">
+  <Name>Inside the Dragon's Lair</Name>
+  <ShortDescription>You are somewhere inside the Dragon's Lair</ShortDescription>
+  <LongDescription>The rooms all look the same, glimmering with gold and jewels.  You wonder
+how many warriors have given their lives for this fantastic lair.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">774</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">790</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">808</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

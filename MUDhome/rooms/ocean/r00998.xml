@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="998" Version="2.47i" Area="ocean">
+  <Name>Cloudy Grotto</Name>
+  <ShortDescription>You are in a mysterious cloudy grotto, high above the city of Oceancrest.</ShortDescription>
+  <LongDescription>The mysterious grotto you find yourself in appears as a huge, fluffy cloud 
+high above the city.  The cloud-like land appears to be solid, but you
+better watch out that you don't fall back to the surface.  If humanoids
+were meant to fly, they would have been given wings.</LongDescription>
+  <Flags><Bit Num="12"></Bit><Bit Num="15"></Bit><Bit Num="20"></Bit></Flags>
+  <Wander><Traffic>5</Traffic><RandomMonsters><Mob Area="ocean">144</Mob><Mob Area="ocean" Num="1">312</Mob><Mob Area="ocean" Num="2">313</Mob><Mob Area="ocean" Num="3">145</Mob><Mob Area="ocean" Num="4">144</Mob><Mob Area="ocean" Num="5">312</Mob><Mob Area="ocean" Num="6">313</Mob><Mob Area="ocean" Num="7">145</Mob><Mob Area="ocean" Num="8">313</Mob><Mob Area="ocean" Num="9">312</Mob></RandomMonsters></Wander>
+  <Track><Direction>down</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="down"><Keys></Keys><Target><Room Area="ocean">609</Room></Target><Effects></Effects><Flags><Bit Num="11"></Bit></Flags></Exit><Exit Name="up"><Keys></Keys><Target><Room Area="ocean">997</Room></Target><Effects></Effects><Flags><Bit Num="0"></Bit><Bit Num="11"></Bit></Flags></Exit></Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1755" Version="2.40" Area="ocean">
+  <Name>Kafkan Way</Name>
+  <ShortDescription>You are on Kafkan Way, running parallel with the City Walls to the south.</ShortDescription>
+  <LongDescription>Occasionally, you can see a couple of guards patrolling the City Walls,
+watching out for invasion forces.  No one is really stupid enough to try
+to invade Oceancrest, but the threat always exists.  The only people who
+really venture out past the City Walls are caravans and mercenaries looking
+for a quick gold piece.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1754</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1756</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

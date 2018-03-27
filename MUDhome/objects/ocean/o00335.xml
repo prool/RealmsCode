@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="335" Area="ocean" Version="2.40">
+  <Name>elephant leather hood</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>40</ShotsMax>
+  <ShotsCur>40</ShotsCur>
+  <Armor>35</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">750</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">leather</Key>
+    <Key Num="1">hood</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>You see a rather heavy leather hood made of elephant hides.</Description>
+  <Weight>4</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>7</WearFlag>
+  <InBag/>
+</Object>

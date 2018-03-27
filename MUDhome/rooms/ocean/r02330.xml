@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="2330" Version="2.40" Area="ocean">
+  <Name>Glacier Cavern</Name>
+  <ShortDescription>The majestic glacier's walls rise up from the cold ice you're standing on.</ShortDescription>
+  <LongDescription>The ice caverns allow you to see beyond the mountain landscape, into the
+massive and seemingly endless Ituk Glacier.  The passage walls glow with
+sunlight and reflect your every movements.  Reflections of yourself mesh
+in with the strange designs and creatures trapped within the ice.</LongDescription>
+  
+  <Established>762452926</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2331</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

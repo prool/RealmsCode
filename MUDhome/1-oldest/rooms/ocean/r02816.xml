@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2816" Version="2.40" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>The darkened hallway continues to the east and west through the silence.</ShortDescription>
+  <LongDescription>The eerie silence has returned.  The deathly quiet atmosphere is an almost
+sure sign of danger as nothing would be stupid enough to stick around 
+when their very livelihood is threatened.  The hallway continues to the
+east and west through the darkness.</LongDescription>
+  
+  <Established>728800887</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2817</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2815</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

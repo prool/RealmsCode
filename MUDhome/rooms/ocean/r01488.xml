@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="1488" Version="2.40" Area="ocean">
+  <Name>Master Hallway</Name>
+  <ShortDescription>You are in the master hallway on the third level of the Palace.</ShortDescription>
+  <LongDescription>To the north, you see a door labled "Wizard of Keslar".  The Wizard is
+an old mage who has obtained a level of magic which puts him near 
+immortality.  You had better think twice before going through that
+door.  The hallway continues to the east and west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">170</Mob>
+      <Mob Area="ocean" Num="1">170</Mob>
+      <Mob Area="ocean" Num="2">170</Mob>
+      <Mob Area="ocean" Num="3">170</Mob>
+      <Mob Area="ocean" Num="4">168</Mob>
+      <Mob Area="ocean" Num="5">168</Mob>
+      <Mob Area="ocean" Num="6">168</Mob>
+      <Mob Area="ocean" Num="7">168</Mob>
+      <Mob Area="ocean" Num="8">170</Mob>
+      <Mob Area="ocean" Num="9">167</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1487</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1489</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1493</Room>
+      <Key>23</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

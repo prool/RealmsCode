@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3787" Version="2.40" Area="ocean">
+  <Name>South Beach</Name>
+  <ShortDescription>You are on a beach popular with tourists and students from the University.</ShortDescription>
+  <LongDescription>Students from the Iilandi University like to party here on weekends, and
+there are several fire rings on the beach which look recently used.  There
+are also a couple of empty beer kegs in sight.  The white sand is dazzling
+during the day, and at night it sparkles in the moonlight.  Tourists say
+it is one of the nicest beaches on the coast of Mordor.</LongDescription>
+  
+  <Established>766091151</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3794</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3788</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="483" Version="2.40" Area="ocean">
+  <Name>Islandia Drive</Name>
+  <ShortDescription>You are on Islandia Drive, between the Veteran's Library and the Aquarium.</ShortDescription>
+  <LongDescription>The Bendine Aquarium and Marina is a very large facility, connected to
+the Adlermann Center of Marine Research and Oceanography.  Bordering
+the facility is the Bendine Bay, a closed off section of the Bay where
+a number of monsterous creatures are kept for study and to perform
+for children.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">482</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">448</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

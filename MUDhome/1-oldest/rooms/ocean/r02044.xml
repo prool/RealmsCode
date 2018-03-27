@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2044" Version="2.40" Area="ocean">
+  <Name>Elena's Archery Emporium</Name>
+  <ShortDescription>You are in Elena's Archery shop.  She owns a similar shop in Hafnia.</ShortDescription>
+  <LongDescription>The Archery Emporium sells a number of good elven bows that work 
+significantly better than the ones used by humans.  Elena claims that
+she can't even shoot with a human crossbow.  She will be happy to
+teach you some basic archery skills for a price.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="11"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2043</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

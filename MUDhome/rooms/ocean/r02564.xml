@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2564" Version="2.40" Area="ocean">
+  <Name>Tower Lane</Name>
+  <ShortDescription>You are On Tower Lane, north of the Kista Library.</ShortDescription>
+  <LongDescription>The citizens of Kista are very proud of their library, as it is known
+throughout the land as the depository of all knowledge.  Actually, many
+of the books owned by the Kista Library are on loan to the library in
+Oceancrest, but the rarest books have never left this building.  Pearl
+Avenue is to the east.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2030</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2565</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

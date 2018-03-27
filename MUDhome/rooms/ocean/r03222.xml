@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Room Num="3222" Version="2.40" Area="ocean">
+  <Name>Dangerous Destinations Store Room</Name>
+  
+  <Established>755990608</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

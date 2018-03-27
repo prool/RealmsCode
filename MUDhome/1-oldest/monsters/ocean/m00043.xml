@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<Creature Num="43" Area="ocean" Version="2.40">
+  <Name>orc</Name>
+  <Level>4</Level>
+  <Type>1</Type>
+  <Experience>40</Experience>
+  <Coins/>
+  <Alignment>-20</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>36</Current>
+      <Max>36</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>The orc is a perversion of the elven race.</Description>
+  <Keys/>
+  <MoveTypes/>
+  <Armor>125</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>1</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>you're not an elf, are you?  I hate elves!</Talk>
+  <DefenseSkill>35</DefenseSkill>
+  <AttackPower>130</AttackPower>
+  <WeaponSkill>35</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">90</Carry>
+    <Carry Area="ocean" Num="1">96</Carry>
+    <Carry Area="ocean" Num="2">38</Carry>
+    <Carry Area="ocean" Num="3">10</Carry>
+    <Carry Area="ocean" Num="4">18</Carry>
+    <Carry Area="ocean" Num="5">20</Carry>
+    <Carry Area="ocean" Num="6">26</Carry>
+    <Carry Area="ocean" Num="7">34</Carry>
+    <Carry Area="ocean" Num="8">52</Carry>
+    <Carry Area="ocean" Num="9">52</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="8"/>
+    <Bit Num="10"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

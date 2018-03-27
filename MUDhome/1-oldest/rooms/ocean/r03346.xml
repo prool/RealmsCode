@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3346" Version="2.40" Area="ocean">
+  <Name>Necropolis Path</Name>
+  <ShortDescription>The path continues to the east and west, circling the grounds.</ShortDescription>
+  <LongDescription>The the northeast and to the west you see the commoner's cemetery, where
+many a citizen has been buried.  Oceancrest believes in honoring the dead.
+To the south you get a glimpse of the mausoleum, which some say has been
+taken over by evil forces.  You are warned to stay away.  To the southwest
+are the great burual vaults, which serve as a monument to Onydonn.</LongDescription>
+  
+  <Established>759804129</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3345</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3347</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="110" Area="ocean" Version="2.40">
+  <Name>pirate's key</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>13</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">200</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">key</Key>
+    <Key Num="1"> </Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a strange key of iron with teeth set like a skull.</Description>
+  <Weight>1</Weight>
+  <Type>12</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

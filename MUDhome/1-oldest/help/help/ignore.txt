@@ -1,0 +1,17 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  ignore          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The ignore command allows you to ignore flashes (sends, tells) from other
+players in the game. If typed without an argument, the list of people you are
+ignoring will be displayed. If typed with a player's name, that player will be
+added to your ignore list if he or she is not already on it. Otherwise the name
+is removed from the list.
+
+Example:
+: ignore bob
+Bob added to your ignore list.
+: ignore bob
+Bob removed from your ignore list.
+:
+

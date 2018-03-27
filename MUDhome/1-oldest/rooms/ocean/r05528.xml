@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5528" Version="2.40" Area="ocean">
+  <Name>Nyyron Trail</Name>
+  <ShortDescription>You are traveling on the Nyyron Trail near an old tower, which is west.</ShortDescription>
+  <LongDescription>Heavy vines cover the ancient tower, and a fallen stone blocks the only
+doorway.  However, if you are interested in exploring, it looks like the 
+vines are heavy enough to climb, and you could probably make it to the top.
+Further south is a small glen and a burned out house and barn.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5527</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5529</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

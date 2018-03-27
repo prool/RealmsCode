@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1102" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are on Nagaritha Drive, south of the Oceancrest Amphitheatre.</ShortDescription>
+  <LongDescription>The large Amphitheatre extends for the entire city block, and provides
+enough access so that no one in the city is ever really denied entrance
+to the public location.  On the south side of Nagaritha Drive is a large
+door which sports the words "Dangerous Destinations" above it in bright
+red letters.  A small plaque beside the door says "Guide to the Universe".</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1101</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1071</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3221</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

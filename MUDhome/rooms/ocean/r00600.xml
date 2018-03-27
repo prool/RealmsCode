@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="600" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are walking along Rosecrest Street, east of the Evenborough Park.</ShortDescription>
+  <LongDescription>The large Evenborough Park seems out of place in the busy city, next to
+the prime commercial districts to the south and west, and just across
+the lake from the Lyanden Castle.  However, the park provides a serene
+atmosphere for people to talk without being bothered.  This restful
+meditation makes the citizens of the city much happier and therefore,
+more productive.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">599</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">502</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

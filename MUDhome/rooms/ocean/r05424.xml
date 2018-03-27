@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5424" Version="2.40" Area="ocean">
+  <Name>Ashton River Road/Phexton Bridge</Name>
+  <ShortDescription>The bridge across the gorge is old, but wide enough for a couple of carts.</ShortDescription>
+  <LongDescription>A small footpath leads down into the canyon below the bridge, but it soon
+disappears out of sight and you cannot see where it goes.  A spectacular
+waterfalls is at the eastern end of the gorge and a plume of fine mist is
+everywhere.  The falls is much higher than the road at this point of your
+journey.  the road drops considerably to the west.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5423</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="bridge">
+      <Keys/>
+      <Room Area="ocean">5425</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<Creature Num="133" Area="ocean" Version="2.40">
+  <Name>sea dragon</Name>
+  <Level>10</Level>
+  <Type>1</Type>
+  <Experience>400</Experience>
+  <Coins>
+    <Coin Num="2">100</Coin>
+  </Coins>
+  <Alignment>-75</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>80</Current>
+      <Max>80</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>135</Current>
+      <Max>135</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a giant sea dragon with its head reared high out of the water.</Description>
+  <Keys>
+    <Key Num="0">dragon</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>275</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>5</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <DefenseSkill>95</DefenseSkill>
+  <AttackPower>250</AttackPower>
+  <WeaponSkill>95</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">142</Carry>
+    <Carry Area="ocean" Num="1">142</Carry>
+    <Carry Area="ocean" Num="2">142</Carry>
+    <Carry Area="ocean" Num="3">142</Carry>
+    <Carry Area="ocean" Num="4">142</Carry>
+    <Carry Area="ocean" Num="5">368</Carry>
+    <Carry Area="ocean" Num="6">371</Carry>
+    <Carry Area="ocean" Num="7">371</Carry>
+    <Carry Area="ocean" Num="8">383</Carry>
+    <Carry Area="ocean" Num="9">387</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks>
+    <SpecialAttack>
+      <Name>Fire Breath</Name>
+      <Verb>breathes fire on</Verb>
+      <TargetStr>^r*ATTACKER* breathes fire on you!*CR*You take ^R*DAMAGE*^r damage!^x</TargetStr>
+      <TargetFailStr></TargetFailStr>
+      <RoomFailStr></RoomFailStr>
+      <SelfStr></SelfStr>
+      <RoomStr>^r*ATTACKER* breathes fire on *LOW-TARGET*!^x</RoomStr>
+      <TargetSaveStr>^cYou almost manage to dive out of the way.^x</TargetSaveStr>
+      <SelfSaveStr></SelfSaveStr>
+      <RoomSaveStr>*TARGET* almost dives out of the way.</RoomSaveStr>
+      <Limit>0</Limit>
+      <Delay>60</Delay>
+      <Chance>20</Chance>
+      <StunLength>0</StunLength>
+      <Type>3</Type>
+      <SaveType>4</SaveType>
+      <SaveBonus>0</SaveBonus>
+      <MaxBonus>0</MaxBonus>
+      <Flags>
+        <Bit Num="1"/>
+      </Flags>
+      <Dice>
+        <Number>10</Number>
+        <Sides>4</Sides>
+        <Plus>0</Plus>
+      </Dice>
+    </SpecialAttack>
+  </SpecialAttacks>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

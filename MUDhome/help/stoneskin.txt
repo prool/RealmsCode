@@ -1,0 +1,12 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  stoneskin spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: half
+
+This spell turns the caster's skin to solid stone, making them virtually
+impervious to physcial attacks for the duration of the spell. You must be
+atleast level 13 to cast this spell.
+
+Syntax:
+cast stoneskin
+

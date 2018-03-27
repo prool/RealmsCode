@@ -1,0 +1,36 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  | Help on: The Powerbone Lottery |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The lottery has returned! It has taken a new form now. Once a week (Sunday
+nights), five huge dice are rolled, and the results are recorded. After that,
+another big die is rolled, called the Powerbone. When you purchase a Powerbone
+ticket, it has 5 random numbers and a random Powerbone number. Depending on your
+combination of guessed numbers with or without the Powerbone, you can win cash
+by claiming your ticket. If your ticket matches all five numbers, as well as
+the Powerbone, you will win the grand jackpot!
+
+You can use the LOTTERYINFO command in order to see what the current numbers
+are, as well as the amount of the jackpot. If no one wins the jackpot, the pot
+rises slowly over time.
+
+When the numbers are drawn, and you have a winning ticket, you may procede to
+any nearby lottery office and use the CLAIM command in order to collect your
+prize money! Only one person can ever win the jackpot. It is not divided.
+Powerbone tickets are only good for the current lottery cycle.
+
+Powerbone tickets have a bulk rating of 3. They are unable to be dropped or
+traded to anybody else. Tickets can never be bought on the day of the drawing.
+
+The winnings are caculated as follows:
+0 numbers and Powerbone...................500gp
+2 numbers.................................1000gp
+1 number and Powerbone....................3000gp
+2 numbers and Powerbone...................7000gp
+3 numbers ................................7000gp
+3 numbers and Powerbone...................10000gp
+4 numbers.................................10000gp
+4 numbers and Powerbone...................50000gp
+5 numbers.................................250000gp
+5 numbers and Powerbone...................JACKPOT
+

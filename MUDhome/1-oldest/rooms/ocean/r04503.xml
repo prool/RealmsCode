@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="4503" Version="2.40" Area="ocean">
+  <Name>Vestuary</Name>
+  <ShortDescription>You are in the vestuary behind the altar in Ragnar's castle.</ShortDescription>
+  <LongDescription>Long black robes hang on hooks, and there are bibles and hymnals near a 
+north door.  The door seems to be slightyl ajar.  A narrow stairway leads
+to the pulpit above the altar.  There are ropes hanging here, and as you
+look up, you see moving shadows in the bell tower above.</LongDescription>
+  
+  <Established>774486662</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+    <Bit Num="31"/>
+    <Bit Num="32"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">723</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">724</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4502</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4504</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

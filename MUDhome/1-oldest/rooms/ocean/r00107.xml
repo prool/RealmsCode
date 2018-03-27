@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="107" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>Main Street continues to the north and south.</ShortDescription>
+  <LongDescription>A large building on the west side glistens in the light.  It seems to be
+plated with some sort of metal.  Could it be gold?  At each corner there
+is a tall, round tower with an even taller spire atop it.  Lightning and
+static seems to ionize the air between the two towers at the front of
+the building.  Across the street on the east side is a school for thieves 
+and pickpockets.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="5">6</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">117</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">97</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">109</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

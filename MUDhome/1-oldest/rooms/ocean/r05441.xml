@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5441" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>You are east of the Nyyron Trail, on Hafnia Mountain Road.</ShortDescription>
+  <LongDescription>The road has patches of snow in places, which the wind occasionally pick up
+and blows in your face, almost laughing at you.  This area of the mountains
+is desolate and bleak, and there is no place to avoid the cold wind.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5440</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5442</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="74" Version="2.40" Area="ocean">
+  <Name>Arena Challenge</Name>
+  <ShortDescription>This part of the arena truly challenges your wits and skill.</ShortDescription>
+  <LongDescription>The action is a little faster and the fighters a little meaner.
+A great many of your predecessors have died here, entertaining the masses
+who come to see the blood spurt, and the eyes bulge.  You do want to
+entertain them, don't you?  Loud cheering erupts as you step into the 
+center of the arena.  they're cheering for you!</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">28</Mob>
+      <Mob Area="ocean" Num="1">26</Mob>
+      <Mob Area="ocean" Num="2">27</Mob>
+      <Mob Area="ocean" Num="3">45</Mob>
+      <Mob Area="ocean" Num="4">214</Mob>
+      <Mob Area="ocean" Num="5">213</Mob>
+      <Mob Area="ocean" Num="6">257</Mob>
+      <Mob Area="ocean" Num="7">215</Mob>
+      <Mob Area="ocean" Num="8">216</Mob>
+      <Mob Area="ocean" Num="9">257</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">75</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">64</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3798" Version="2.40" Area="ocean">
+  <Name>Cliff Top</Name>
+  <ShortDescription>You are on top of rocky cliffs extending westward in Lelion Beach and Park.</ShortDescription>
+  <LongDescription>The cliffs on either side run down to the beach areas to the south and
+the Lithium Inlet on the north.  The flat part of the cliff extends
+to the west and east.  You are much higher than the fog, but the bay is
+shrouded in a dense blanket of grey to the southwest.  The clifftops 
+provide a nice view of the ships in the bay, and the city to the east.</LongDescription>
+  
+  <Established>766009633</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3796</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3799</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

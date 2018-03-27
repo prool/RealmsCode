@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  tailoring        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Tailoring is a skill that will allow you to create cloth and leather armor.
+Read through ^WHELP CRAFT^x for more information on creating items. Pay
+special attention to these points:
+
+ * Read section #2 about creating an item from a recipe as most tailoring
+   recipes will require you to use a recipe in this manner.
+
+ * Read section #4 about creating items of different sizes as this is possible
+   with most tailoring recipes.

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="205" Area="ocean" Version="2.40">
+  <Name>gold ring</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>2</ShotsMax>
+  <ShotsCur>2</ShotsCur>
+  <Armor>8</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">250</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">ring</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>You see a shimmering 24 K gold ring.</Description>
+  <UseOutput>You feel an aura of magic surround you.</UseOutput>
+  <Weight>2</Weight>
+  <Type>6</Type>
+  <SubType>ring</SubType>
+  <WearFlag>9</WearFlag>
+  <InBag/>
+</Object>

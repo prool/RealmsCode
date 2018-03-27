@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3807" Version="2.40" Area="ocean">
+  <Name>The Illusionist's Lab</Name>
+  <ShortDescription>You feel your own presence in a complete illusion.  Are you still alive?</ShortDescription>
+  <LongDescription>The illusion is so realistic that you can even touch it.  The lab is full
+of mysterious objects from all over the world.  Some of them are 
+priceless and exist only once in time and space.  Interesting that you
+see Shishkin's painting on the imaginatory wall.  It represents a forest
+in so realistic way, that you even hear birds's songs and smell clover,
+as you approach it.  On the opposite wall you can spot a mirror.  You
+were just going to see how ugly you are, when you are struck by it's
+emptyness.  The mirror offers no reflection!</LongDescription>
+  
+  <Established>765769618</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="mirror">
+      <Keys/>
+      <Room Area="ocean">3808</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="1"/>
+      </Flags>
+    </Exit>
+    <Exit Name="painting">
+      <Keys/>
+      <Room Area="ocean">1290</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="1"/>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3834</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

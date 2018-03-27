@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1295" Version="2.40" Area="ocean">
+  <Name>Stone Cottage</Name>
+  <ShortDescription>This simple cottage belongs to a woodsman who sells firewood.</ShortDescription>
+  <LongDescription>The small stone house has an earthen roof and no windows, but appears
+to be clean and well maintained.  The chimney emits a good smelling
+smoke, and there is also the smell of roasting meat.  The walk way
+is lined with river rock, and flowers grow on the roof.  A small pen
+of goats is around to the back.</LongDescription>
+  
+  <Established>756202418</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">431</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1294</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

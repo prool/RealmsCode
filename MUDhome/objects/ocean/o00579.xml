@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="579" Area="ocean" Version="2.40">
+  <Name>golden circlet</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>15</ShotsMax>
+  <ShotsCur>15</ShotsCur>
+  <Armor>44</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">30000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">circlet</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>A golden band, worn about the head.</Description>
+  <Weight>1</Weight>
+  <Type>6</Type>
+  <WearFlag>7</WearFlag>
+  <InBag/>
+</Object>

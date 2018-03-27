@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="2028" Version="2.40" Area="ocean">
+  <Name>Randolf Lane</Name>
+  <ShortDescription>You are on Randolf lane, a narrow lane leading to the east gate.</ShortDescription>
+  <LongDescription>The Kista amphitheater is to the south.  Many lectures and sophisticated
+forms of entertainment are presented there, and it is a popular place for
+the city's citizens.  To the north is the entrance to the Rhinefield
+Building located on the Althemanian College Campus.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">201</Mob>
+      <Mob Area="ocean" Num="1">198</Mob>
+      <Mob Area="ocean" Num="2">201</Mob>
+      <Mob Area="ocean" Num="3">202</Mob>
+      <Mob Area="ocean" Num="4">202</Mob>
+      <Mob Area="ocean" Num="5">198</Mob>
+      <Mob Area="ocean" Num="6">201</Mob>
+      <Mob Area="ocean" Num="7">198</Mob>
+      <Mob Area="ocean" Num="8">203</Mob>
+      <Mob Area="ocean" Num="9">198</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2027</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2018</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2518</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

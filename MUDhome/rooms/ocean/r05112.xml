@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Room Num="5112" Version="2.40" Area="ocean">
+  <Name>Shadowy Underground Tunnel</Name>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5113</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3334" Version="2.40" Area="ocean">
+  <Name>Lyanden Tomb Site</Name>
+  <ShortDescription>You stand below the magnificent entrance to the Lyanden Tomb.</ShortDescription>
+  <LongDescription>The tomb floats quietly about three meters above ground.  White marble 
+sheets and columns reflect the light of day quite beautifully, although your
+vision is somewhat impaired by the chilly mist that has been following 
+you around.  A crypt guardian hovers over the portico entrance to the 
+tomb, so watch your step.</LongDescription>
+  
+  <Established>759804736</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3333</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3718</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1097" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are walking along Nagaritha Drive, between Marina Way and Main Street.</ShortDescription>
+  <LongDescription>This small section of road connects Main Street with Marina Way, both
+running north to south.  Directly to the north is the Sleeping Deer
+Real Estate Office, where many people go to purchase land for development
+in Oceancrest.  There are quite a few places that are still under
+construction, even in a town as old as Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1096</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1024</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

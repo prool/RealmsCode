@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1905" Version="2.40" Area="ocean">
+  <Name>Knight's Honor Arena</Name>
+  <ShortDescription>You are in the Knight's Honor Arena.</ShortDescription>
+  <LongDescription>The Knight's Honor Arena provides participants the challenge of the
+mighty and powerful knights, rangers and other honorable fighters, who
+primarily attack only when attacked first.  But just because these
+knights do not initiate a fight, that doesn't mean that they are unwilling
+to finish you off.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">14</Mob>
+      <Mob Area="ocean" Num="1">146</Mob>
+      <Mob Area="ocean" Num="2">212</Mob>
+      <Mob Area="ocean" Num="3">213</Mob>
+      <Mob Area="ocean" Num="4">214</Mob>
+      <Mob Area="ocean" Num="5">279</Mob>
+      <Mob Area="ocean" Num="6">214</Mob>
+      <Mob Area="ocean" Num="7">14</Mob>
+      <Mob Area="ocean" Num="8">213</Mob>
+      <Mob Area="ocean" Num="9">212</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1904</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1906</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

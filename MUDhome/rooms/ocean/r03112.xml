@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="3112" Version="2.40" Area="ocean">
+  <Name>Shadowy Hall</Name>
+  <ShortDescription>You are in a musty shodowy narrow passage underneath the city.</ShortDescription>
+  <LongDescription>The walls of the passage</LongDescription>
+  <HighLevel>5</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3113</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

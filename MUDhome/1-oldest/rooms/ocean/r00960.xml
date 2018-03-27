@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="960" Version="2.40" Area="ocean">
+  <Name>The Widow Maker Main Deck</Name>
+  <ShortDescription>You are on the port side of the pirate ship The Widow Maker.</ShortDescription>
+  <LongDescription>The pirate ship is docked at the Nylandian Bay Harbor while the pirates
+go in search of food and other provisions.  Of course, while their flag
+is not waving, no one would know that this ship is in fact a pirate's
+ship.  The pirates often go in search of other pirates to steal their
+treasures.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">308</Mob>
+      <Mob Area="ocean" Num="1">308</Mob>
+      <Mob Area="ocean" Num="2">308</Mob>
+      <Mob Area="ocean" Num="3">309</Mob>
+      <Mob Area="ocean" Num="4">309</Mob>
+      <Mob Area="ocean" Num="5">310</Mob>
+      <Mob Area="ocean" Num="6">311</Mob>
+      <Mob Area="ocean" Num="7">310</Mob>
+      <Mob Area="ocean" Num="8">309</Mob>
+      <Mob Area="ocean" Num="9">308</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">961</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">963</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">957</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

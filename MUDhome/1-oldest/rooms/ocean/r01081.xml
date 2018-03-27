@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1081" Version="2.40" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are on Golden Dolphin Way, west of Oceanview Drive.</ShortDescription>
+  <LongDescription>The small shopping complex to the north appears to have three buildings
+along the south end of the block.  Directly to the north, you can see
+Denise's Imported Elven Silks shop.  Elven materials are not all that
+uncommon in Oceancrest as one of the largest trading partners provides
+services throughout the lands, even deep into elven territory.  It's too   
+that the high costs of importing elven material is passed on to the public.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1080</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1051</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

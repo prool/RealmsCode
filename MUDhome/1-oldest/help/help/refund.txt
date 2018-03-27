@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  refund          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+This command allows you to refund an item in a shop which you just purchased.
+You will receive back full gold. Items are refundable so long as you do not
+leave the room with them or use them in any way. This includes logging off/on
+with them. There are NO REFUNDS in player run shops.
+
+If an item is used in ANY way, including bard identify, the item is used, and
+it will not be refunded.
+
+Syntax: refund (item) [#]

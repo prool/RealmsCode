@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="3905" Version="2.40" Area="ocean">
+  <Name>Thieve's Guild</Name>
+  <ShortDescription>You are in one of the local chapters of the Oceancrest Thieve's Guild.</ShortDescription>
+  <LongDescription>There are three doors here, each painted a different color.  If you are
+level 3 and wish to train to level 4, please go in the green door.  Level
+4 players should select the blue door, and level 5 should go in the red
+door.  There will be a fee charged for the training.  Should you fail the
+the training session, you may come back later and try again.</LongDescription>
+  
+  <Established>770680781</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>green door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1887</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="green door">
+      <Keys/>
+      <Room Area="ocean">3906</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="blue door">
+      <Keys/>
+      <Room Area="ocean">3907</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="red door">
+      <Keys/>
+      <Room Area="ocean">3908</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

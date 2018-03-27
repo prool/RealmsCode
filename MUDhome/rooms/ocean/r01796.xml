@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="1796" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are wandering along Hillcrest Drive, north of the Melbourne Arena.</ShortDescription>
+  <LongDescription>The fantastic Melbourne Entertainment Arena is designed to amuse the law-
+abiding citizens by throwing criminals and other degenerates into the 
+pits to battle gladiators and sometimes lions.  The spectators are often
+given stones to throw at the people in the arena if things get a little
+boring.  On the north side of the road is Imeldia's Potions and Stuff
+arguably a magic shop.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">10</Mob>
+      <Mob Area="ocean" Num="1">10</Mob>
+      <Mob Area="ocean" Num="2">10</Mob>
+      <Mob Area="ocean" Num="3">10</Mob>
+      <Mob Area="ocean" Num="4">1</Mob>
+      <Mob Area="ocean" Num="5">2</Mob>
+      <Mob Area="ocean" Num="6">3</Mob>
+      <Mob Area="ocean" Num="7">4</Mob>
+      <Mob Area="ocean" Num="8">5</Mob>
+      <Mob Area="ocean" Num="9">6</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1709</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1797</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

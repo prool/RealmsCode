@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="143" Version="2.40" Area="ocean">
+  <Name>Mordichi's Wine Shoppe</Name>
+  <ShortDescription>This is a wine shop specializing in the cheaper bottles of the grape.
+You are below ground level in a cool and dark cellar, which belongs to
+Mordichi the wine merchant.  If you have never tried his wares, he is
+quite generous and will let you sample the cask which practically fills
+the cellar.</ShortDescription>
+  <LongDescription>You are below ground level in a cool and dark cellar which belongs to
+Mordichi the wine merchant.  Mordichi specializes in bottles of the
+cheaper variety of wines.  If you wish to buy in bulk, there is a 1000
+gallon cask standing in the center of the room.  A number of people are
+here with empty jugs, waiting their turn at the cask spigot.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="49"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">142</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">142</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,11 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  pray           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Pray is a skill given to clerics and paladins which will allow them every 10
+minutes or so to pray to their god(s) for additional piety. If granted, the
+player will have extra piety for about 5 minutes or so.  This means that the
+player will heal faster and be attacked less by monsters during that time.
+
+Deathknight pray is similar to berserk. Instead of raising piety, it increases
+the strength of the deathknight.

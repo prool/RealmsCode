@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1650" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive/Golden Dolphin Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Golden Dolphin Way and Leviathan Drive.</ShortDescription>
+  <LongDescription>Leviathan Drive heads off to the north from here, and continues
+uninterrupted until it reaches the northern City Walls, many miles to
+the north.  Golden Dolphin Way marks the southern edge of the City of
+Oceancrest, running parallel to the great City Walls, which enclose 
+the entire city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1649</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1700</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1670</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1809</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

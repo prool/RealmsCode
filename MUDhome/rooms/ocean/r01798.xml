@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="1798" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are walking along Nagaritha Drive, north of the Bow &amp; Arrow shop.</ShortDescription>
+  <LongDescription>A small business that calls itself Bows &amp; Arrows Unlimited does pretty good
+work for the price and supplies a number powerful bows and various 
+ammunition to go with it.  Most of the bows are elven in nature, many of
+which were made next door at Ian's Fletchery.  On the north side of the 
+road you can see the Uland Repair Shop.  Entrances to both shopping centers
+are located off of Riverdell Way.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">5</Mob>
+      <Mob Area="ocean" Num="1">5</Mob>
+      <Mob Area="ocean" Num="2">5</Mob>
+      <Mob Area="ocean" Num="3">5</Mob>
+      <Mob Area="ocean" Num="4">1</Mob>
+      <Mob Area="ocean" Num="5">2</Mob>
+      <Mob Area="ocean" Num="6">2</Mob>
+      <Mob Area="ocean" Num="7">6</Mob>
+      <Mob Area="ocean" Num="8">6</Mob>
+      <Mob Area="ocean" Num="9">4</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1731</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1799</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2284</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="56" Version="2.40" Area="ocean">
+  <Name>Shrine of the White Rose</Name>
+  <ShortDescription>The Knightly Order of the White Rose welcomes all who come to pray.</ShortDescription>
+  <LongDescription>A simple altar stands at the south end of the room, and a pulpit is at the
+side of the shrine's holy icon.  There are doors on the east side that
+go to palaidn training rooms.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">97</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,67 @@
+Monster Classification Types
+
+1............Monster(default)(8HD)  16............Plant(8HD)
+2............Humanoid(8HD)          17............Demon(16HD)
+3............Goblinoid(6HD)         18............Devil(16HD)
+4............Monst. Humanoid(8HD)   19............Dragon(24HD)
+5............Giantkin(14HD)         20............Beast(10HD)
+6............Animal(4HD)            21............Magical Beast(14HD)
+7............Dire Animal(8HD)       22............Golem(14HD)
+8............Insect(2HD)            23............Ethereal(10HD)
+9............Insectoid(8HD)         24............Astral(10HD)
+10...........Arachnid(8HD)          25............Gaseous(8HD)
+11...........Reptile(6HD)           26............Energy(12HD)
+12...........Dinosaur(10HD)         27............Faerie(6HD)
+13...........Automaton(10HD)        28............Deva(18HD)
+14...........Avian(6HD)             29............Elemental(12HD)
+15...........Fish(6HD)              30............Pudding(12HD)
+
+31...........Slime(8HD)
+32...........Undead(12HD)
+
+
+
+Type            Descriptions/examples (by no means complete)
+Monster:        the default mob type (dont leave them default!)
+Humanoid:       humans, orcs, most medium bi-pedal creatures
+Goblinoid:      goblins, kobolds, most small, evil, bi-bedal 
+                creatures. (exception: hobgoblin)
+Monstrous Hum:  minotaur, bugbear, other monsterous humanoids..
+Giantkin:       any giant, trolls, ettins, half-giants
+Animal:         domestic cats, deer, cows, buffulo, etc.
+Dire Animal:    giant versions of animals (giant rat, dire wolf)
+Insect:         swarms of insects, normal sized insects
+Insectoid:      human-shaped insect people
+Arachnid:       giant spiders (normal spiders go under insect)
+Reptile:        lizards, alligators, giant frogs, etc..
+Dinosaur:       t-rex, velociraptor, bronotosaurus, etc..
+Automaton:      any mechanically animated monster
+Avian:          normal and giant birds. (Birdmen are humanoids)
+Fish:           sharks, goldfish, giant jellyfish, etc..
+Plant:          venus fly traps, shambling mounds, yellow mold, etc.
+Demon:          any creature from The Abyss or surroining planes
+Devil:          any creature from Hell or surrounding planes
+Dragon:         any dragon (dragons are always perms)
+Beast:          any mob with special abilities which cannot be
+                classified otherwise: carrion crawler, hook horror,
+                rust monster, manticore, pegasus, griffon, etc.
+Magical Beast:  chimera, fire toads, behir, basilisks, water weirds,
+                fire lizards, gorgons, medusa, etc.
+Golem:          any magically animated monster (but not undead)
+Ethereal:       creatures living primarily on the ethereal plane:
+                ethereal cyclones, spectres, ghosts, etc.
+Astral:         creatures living primarily on the astral plane:
+                githyanki, other astral creatures
+Gaseous:        gaseous creatures
+Energy:         creatures of energy (will-o-wisp)
+Faerie:         faerie creatures: dryads, quicklings, leprechauns,
+                nymphs, brownies, blink dogs, elfin cats, etc.
+Deva:           any creature from the Heavens or surrounding planes
+Elemental:      any creature from the elemental planes of earth,
+                air, fire, or water
+Pudding:        amorphous puddings with pods: black pudding, 
+                grey ooze, geletinous cubes, ochre jelly, etc.
+Slimes:         green slime, olive slime, etc.
+Undead:         Intelligent and free-willed undead. Mindless undead
+                such as skeletons and zombies are of the mtype they
+                spawned from. Ghosts, wraiths, and spectres are ethereal.

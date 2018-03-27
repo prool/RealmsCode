@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="5152" Version="2.40" Area="ocean">
+  <Name>Castle Kayleigh Armory</Name>
+  <ShortDescription>This is the armory and weaponsmith's shop in the old castle.</ShortDescription>
+  <LongDescription>There's nothing left here now but memories and ghosts.  stacks of equipment
+going to waste.  Weapons gleam in the dim light, never to be used again.
+When the duke was murdered, the entire keep was driven into the forest,
+and everything that wasn't burned was left behind.</LongDescription>
+  
+  <Established>773538174</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">675</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">708</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5150</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

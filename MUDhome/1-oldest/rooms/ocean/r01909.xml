@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="1909" Version="2.41a" Area="ocean">
+  <Name>Pits of Doom Training Room</Name>
+  <ShortDescription>You are in the metallic, cube-shaped training room introducing the Pits.</ShortDescription>
+  <LongDescription>The Pits of Doom are typically reserved for the most famous and most
+powerful gladiators.  What lies beyond the door to the south are perhaps
+the most powerful creatures to roam the world.  Luckily, the great
+fighters have subdued these dragons and now there are here for your
+fighting enjoyment.  You have been warned, and the management claims
+no responsibility for anyone or anything in the Pits of Doom.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1910</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="women">
+      <Keys/>
+      <Room Area="ocean">2103</Room>
+      <Flags>
+        <Bit Num="12"/>
+      </Flags>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1901</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

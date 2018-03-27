@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="3789" Version="2.40" Area="ocean">
+  <Name>Nylandian Beach</Name>
+  <ShortDescription>You are at the southern most tip of Lelion Beach and Park.</ShortDescription>
+  <LongDescription>looking southwest, you see the entire Nylandian Bay and the guarded exit
+to the Respitial Sea.  In the middle of the bay is an island that houses
+the Marina Guard and the Oceancrest Marines.  If you look north, you see
+the famed Lyanden Lighthouse at the western point of the Lelion Beach and
+Park peninsula.  Large rocks are at the water's edge here, providing the
+marine mammel life a place to sun themselves.</LongDescription>
+  
+  <Established>766109156</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3788</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

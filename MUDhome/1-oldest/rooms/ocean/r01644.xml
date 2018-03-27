@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1644" Version="2.41b" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive, west of the Shrine of Victory.</ShortDescription>
+  <LongDescription>The Shrine of Victory is more of a superstitious holy point where many
+fighters converge before going into some large battle where perhaps the
+odds are that they will not come back.  In fact, it has worked often,
+so many fighters still do come to the Shrine of Victory because every
+little bit hurts and you can't really argue with divine intervention.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">5</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1225</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1645</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

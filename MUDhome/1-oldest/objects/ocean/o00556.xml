@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="556" Area="ocean" Version="2.40">
+  <Name>rusty sleeves</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>15</ShotsMax>
+  <ShotsCur>15</ShotsCur>
+  <Armor>26</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">250</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">sleeves</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="10"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>The sleeves are starting to rust at the elbows, but once were high quality.</Description>
+  <Weight>6</Weight>
+  <Type>6</Type>
+  <SubType>chain</SubType>
+  <WearFlag>2</WearFlag>
+  <InBag/>
+</Object>

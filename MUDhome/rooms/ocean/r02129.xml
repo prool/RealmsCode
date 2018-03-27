@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="2129" Version="2.40" Area="ocean">
+  <Name>Dragons and Brimstone Exhibit</Name>
+  <ShortDescription>You are in a large room that tries to recreate the Valley of the Dragons
+in the Enchanted Forest.  Strong adventurers might enjoy a trek into that
+valley, and may find the dragons here rather young compared to the forest.</ShortDescription>
+  <LongDescription>There are a number of dragons you've never seen before, but also several 
+of your favorites.  This room is quite large and there are two very wide
+exits to the east, one on the north side of the east wall and one on
+the south side of the wall.  When the sign said "Brimstone", they meant it.
+There are lots of hot rocks and what appears to be simulated lava flow.</LongDescription>
+  <LowLevel>5</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">240</Mob>
+      <Mob Area="ocean" Num="1">239</Mob>
+      <Mob Area="ocean" Num="2">240</Mob>
+      <Mob Area="ocean" Num="3">239</Mob>
+      <Mob Area="ocean" Num="4">332</Mob>
+      <Mob Area="ocean" Num="5">332</Mob>
+      <Mob Area="ocean" Num="6">240</Mob>
+      <Mob Area="ocean" Num="7">57</Mob>
+      <Mob Area="ocean" Num="8">240</Mob>
+      <Mob Area="ocean" Num="9">239</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2127</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2126</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

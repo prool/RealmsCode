@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="1810" Version="2.40" Area="ocean">
+  <Name>The Wizard's Eye</Name>
+  <ShortDescription>You have entered the mysterious Mage's Sanctuary called the Wizard's Eye.</ShortDescription>
+  <LongDescription>This is the Wizard's Eye, where souls are kept in fine gems.  Any and all
+who seek to learn the arts of necromancy and magic must come here to train
+and advance in level.  Neophytes up to level two should go through the 
+silver arch.  If you seek a level from four to nine, you may enter the ruby
+encrusted door.  Those powerful mages who hope to advance to level ten and
+above must fly to the diamond and gold balcony. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">686</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1162</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="silver arch">
+      <Keys/>
+      <Room Area="ocean">3920</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="ruby door">
+      <Keys/>
+      <Room Area="ocean">3924</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3925</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

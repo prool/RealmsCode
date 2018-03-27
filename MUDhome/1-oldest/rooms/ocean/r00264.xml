@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="264" Version="2.40" Area="ocean">
+  <Name>Dry Sewer Passage</Name>
+  <ShortDescription>This northwest/southeast passage dead ends to the northwest where a large
+stone door, intricately carved from granite, sits within the sewer wall.</ShortDescription>
+  <LongDescription>This passage is completely dry due to the fact that a high-wall was used
+at the southeastern end of it to keep the sewer water from the south out
+of here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">46</Mob>
+      <Mob Area="ocean" Num="1">46</Mob>
+      <Mob Area="ocean" Num="2">42</Mob>
+      <Mob Area="ocean" Num="3">42</Mob>
+      <Mob Area="ocean" Num="4">42</Mob>
+      <Mob Area="ocean" Num="5">42</Mob>
+      <Mob Area="ocean" Num="6">45</Mob>
+      <Mob Area="ocean" Num="7">45</Mob>
+      <Mob Area="ocean" Num="8">45</Mob>
+      <Mob Area="ocean" Num="9">45</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">263</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">265</Room>
+      <Key>3</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

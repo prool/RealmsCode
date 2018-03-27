@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<Room Num="5532" Version="2.40" Area="ocean">
+  <Name>Gorgon's Tower</Name>
+  <ShortDescription>You are inside an acrid smelling tower, which is quite dark.</ShortDescription>
+  <LongDescription>A dim light from above is the only light to enter, but there are black 
+shadows on dark shadows which seem to shift as you turn to look at this
+awful place.  You are standing on rotting planks while below your feet  
+is a great vat of poisonous acid, which seeths and bubbles constantly.  
+The demon Gorgon used this vile poison to terrorize the travelers on the
+Nyyron Trail, but it eventually blinded him.  Poetic justice, eh?</LongDescription>
+  <Trap>1</Trap>
+  <TrapExit Area="ocean">5533</TrapExit>
+  
+  <Established>794517097</Established>
+  <Flags>
+    <Bit Num="23"/>
+    <Bit Num="24"/>
+    <Bit Num="25"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">785</Mob>
+      <Mob Area="ocean" Num="1">785</Mob>
+      <Mob Area="ocean" Num="2">785</Mob>
+      <Mob Area="ocean" Num="3">785</Mob>
+      <Mob Area="ocean" Num="4">591</Mob>
+      <Mob Area="ocean" Num="5">785</Mob>
+      <Mob Area="ocean" Num="6">785</Mob>
+      <Mob Area="ocean" Num="7">785</Mob>
+      <Mob Area="ocean" Num="8">785</Mob>
+      <Mob Area="ocean" Num="9">785</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>vat</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">784</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">785</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">273</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">775</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5531</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="vat">
+      <Keys/>
+      <Room Area="ocean">5533</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

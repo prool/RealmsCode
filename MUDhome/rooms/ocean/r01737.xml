@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1737" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, next to the Archery Range and City Wall.</ShortDescription>
+  <LongDescription>The Dentra Archery Range is located on the east side of the road.  On the
+east side of the road is the City Wall, marking the city's border on the
+east side.  The City Wall does not travel in a straight line at this corner
+of the city, though.  It will head east again in order to enclose the 
+Pyramid of Allakaren.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1738</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1736</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

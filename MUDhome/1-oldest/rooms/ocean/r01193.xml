@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1193" Version="2.40a" Area="ocean">
+  <Name>Amberton Lane</Name>
+  <ShortDescription>You are walking along Amberton Lane, east of the Necropolis.</ShortDescription>
+  <LongDescription>Amberton Lane, if it continued past Kafkarn Way, forms the eastern
+boundry of the Necropolis.  Due to some strange magic from the Mages
+of Keslar, a large hill was pulled out from the earth and severed
+Amberton Lane into two separate roads.  The Mages of Keslar are 
+the strongest and most powerful of the creatures in Oceancrest not
+directly affiliated with the undead.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1189</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1194</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

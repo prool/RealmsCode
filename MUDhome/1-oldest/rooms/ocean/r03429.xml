@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="3429" Version="2.40" Area="ocean">
+  <Name>The Vaults</Name>
+  <ShortDescription>The hallway proceeds to the east and west.  A purple door opens north.</ShortDescription>
+  <LongDescription>The purple door to your north reminds you of one you would see at
+athe entrance to a throne room.  It is made of a purple metallic 
+sort of material.  A passageway leads off to the southwest towards
+the center of the vaults a little to the west of here.</LongDescription>
+  
+  <Established>760058530</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3428</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3430</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="purple door">
+      <Keys/>
+      <Room Area="ocean">3551</Room>
+      <Key>73</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

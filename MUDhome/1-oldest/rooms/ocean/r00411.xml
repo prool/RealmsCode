@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="411" Version="2.40" Area="ocean">
+  <Name>Evenborough Way</Name>
+  <ShortDescription>You have reached the corner of Evenborough Lane at the Lithium Inlet.</ShortDescription>
+  <LongDescription>Evenborough Way makes a sharp turn to the north and east to avoid the
+Lithium Inlet to the south.  The small area of land between the inlet and
+the road is being used as a nightclub by some of the discouraged students
+from Iilandi University.  A dirt path leads south towards the inlet and
+the nightclub.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">410</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">499</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

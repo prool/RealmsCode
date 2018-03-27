@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<Room Num="997" Version="2.40a" Area="ocean">
+  <Name>Cloudy Grotto</Name>
+  <ShortDescription>You are in the cloudy grotto, high above the lands of Oceancrest.</ShortDescription>
+  <LongDescription>The majestic clouds make for a very peaceful place to relax and enjoy
+the scenery.  Occassionally, you can see passing pegasi and unicorns
+flying around, but they seem to be going towards the cloud to the south.
+There appears to be a green keyhole in one of the clouds shaped similar
+to a unicorn's horn.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Wander>
+    <Traffic>7</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">144</Mob>
+      <Mob Area="ocean" Num="1">145</Mob>
+      <Mob Area="ocean" Num="2">144</Mob>
+      <Mob Area="ocean" Num="3">145</Mob>
+      <Mob Area="ocean" Num="4">313</Mob>
+      <Mob Area="ocean" Num="5">312</Mob>
+      <Mob Area="ocean" Num="6">313</Mob>
+      <Mob Area="ocean" Num="7">312</Mob>
+      <Mob Area="ocean" Num="8">313</Mob>
+      <Mob Area="ocean" Num="9">312</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">998</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+    <Exit Name="cloud">
+      <Keys>
+        <LastTime Num="0">
+          <Interval>0</Interval>
+          <LastTime>1206217391</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </Keys>
+      <Room Area="ocean">996</Room>
+      <Key>31</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

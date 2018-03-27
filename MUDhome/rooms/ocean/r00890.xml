@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="890" Version="2.40" Area="ocean">
+  <Name>Orchard Path</Name>
+  <ShortDescription>You are on a short path between the winery general store and farm housing.</ShortDescription>
+  <LongDescription>The path meanders in an east-west direction, following a drainage
+ditch filled with sewage.  The grape vines along the sewage ditch
+appear to be particularily healthy and productive.  To the west is
+a number of small shacks, lovingly called homes by the grape pickers
+who live there.</LongDescription>
+  
+  <Established>755894071</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">884</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">888</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

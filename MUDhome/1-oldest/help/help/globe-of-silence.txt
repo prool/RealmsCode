@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . | Help on:  globe-of-silence spell  | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 45
+School:  Enchantment
+Domain:  Trickery
+
+The globe-of-silence spells fills the entire room with a silence spell,
+preventing everyone within the radius from speaking. The caster of this spell
+is not immune to the effect.
+
+Syntax:
+cast globe-of-silence
+

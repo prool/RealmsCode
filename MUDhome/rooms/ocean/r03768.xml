@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3768" Version="2.40" Area="ocean">
+  <Name>Mortuary Cellar</Name>
+  <ShortDescription>You are in the extemely cold cellar of the Davis Brothers Mortuary.</ShortDescription>
+  <LongDescription>Bodies on cold marble slabs are covered with white sheets, still and stiff.
+One body lies uncovered however, and as you look closely you see it has
+been partially devoured!  Loose body parts lie on the slab, and the stomach
+has been gouged out.  Most of the organs are gone.  Bloody footprints on
+the cold floor around the slab look like those belonging to ghouls.  Must
+have been a feast going on just before you got here.</LongDescription>
+  
+  <Established>768891508</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">23</Mob>
+      <Mob Area="ocean" Num="1">23</Mob>
+      <Mob Area="ocean" Num="2">150</Mob>
+      <Mob Area="ocean" Num="3">23</Mob>
+      <Mob Area="ocean" Num="4">23</Mob>
+      <Mob Area="ocean" Num="5">23</Mob>
+      <Mob Area="ocean" Num="6">486</Mob>
+      <Mob Area="ocean" Num="7">23</Mob>
+      <Mob Area="ocean" Num="8">23</Mob>
+      <Mob Area="ocean" Num="9">23</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>stairs</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="stairs">
+      <Keys/>
+      <Room Area="ocean">3767</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

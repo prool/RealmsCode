@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="776" Area="ocean" Version="2.40">
+  <Name>heart-shaped key</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>5</ShotsMax>
+  <ShotsCur>5</ShotsCur>
+  <Dice>
+    <Number>96</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">key</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>You see a heavy, acid etched key in the shape of a broken heart.</Description>
+  <Weight>1</Weight>
+  <Type>12</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

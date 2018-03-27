@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="589" Area="ocean" Version="2.40">
+  <Name>oaken box</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>15</ShotsMax>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">box</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="9"/>
+  </Flags>
+  <Description>A well crafted oak box, it can probably hold a lot.</Description>
+  <Weight>15</Weight>
+  <Type>14</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  farsight spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 10
+School:  Divination
+Domain:  Knowledge
+
+The farsight spell augments your eyes, making your long-range vision more keen
+and precise. This spell will increase your range of vision on the overland,
+doubling how far you are able to see. It will not affect your vision when you
+are not in the overland.
+
+Syntax;
+cast farsight <target>

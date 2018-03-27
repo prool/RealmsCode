@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3869" Version="2.40" Area="ocean">
+  <Name>Aquaduct</Name>
+  <ShortDescription>You are in a dark and wet brick lined aquaduct, running east and west.</ShortDescription>
+  <LongDescription>The way is slippery and wet, and you have to be verey cautious as you move
+along the tunnel.  Its also quite dark.  Hard to tell what you might find
+down here.  Of course, nothing could live down here, right?  The water flow
+is from west to east, so the water source must be further west.  This old  
+waterduct was probably built by the ancient islanders who worshipped at the
+ruined jungle temple located to the east.</LongDescription>
+  
+  <Established>768694227</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3870</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3868</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

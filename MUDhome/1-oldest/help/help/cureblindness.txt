@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |  Help on:  cure-blindness spell   | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 15
+School:  Other
+Domain:  Healing
+
+This spell nullifies the effects of blindness on the target, healing their
+eyes and restorting sight. Most often this spell is used to counteract the
+effects of the blindness spell. Note, however, that if you are blind you
+cannot cast this spell on yourself, so the spell will be of no use to you
+unless a companion is able to cast it as well.
+
+Syntax:
+cast cure-blindness <target>
+

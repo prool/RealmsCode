@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="42" Version="2.40" Area="ocean">
+  <Name>Caledonia Road</Name>
+  <ShortDescription>A large mansion stands to the north.  Looks like it is boarded up.</ShortDescription>
+  <LongDescription>Caledonia Road continues to the east and west, but the gate to the
+mansion is north.  It doesn't look as if anyone has lived in the mansion
+for quite some time, because it's windows are totally covered and all the
+lights are completely out.  If you didn't know any better, you'd say it
+was haunted.  Of course, every village has its mystery old house.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">41</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">43</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">38</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

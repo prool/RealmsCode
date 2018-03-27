@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="432" Version="2.40" Area="ocean">
+  <Name>Bendine Way</Name>
+  <ShortDescription>You are at the end of Bendine Way, on the north side of Nylandian Bay.</ShortDescription>
+  <LongDescription>Bendine Way ends here at the beach along the northern coast of the Nylandian
+Bay.  On the east side of the road is a small import shop called Highland
+Trade Imports.  A small dirt road runs along the northern beach between
+the Bay and a few more shops.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">431</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">497</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

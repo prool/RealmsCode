@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5417" Version="2.40" Area="ocean">
+  <Name>Enchanted Forest Garden</Name>
+  <ShortDescription>You are in the Enchanted Forest Garden, west of the Foothills Trail.</ShortDescription>
+  <LongDescription>There is a major trail located a little distance to the east, while the
+narrow trail you are presently on seems to go through a very strange garden.
+Looking east you see rolling foothills which eventually turn into a
+formidble looking mountain range.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5415</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5413</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1872" Version="2.40" Area="ocean">
+  <Name>Main Hallway</Name>
+  <ShortDescription>You are walking along the Main Hallway inside the Temple of the Rising Moon.</ShortDescription>
+  <LongDescription>The hallway turns to the west, heading towards a large room a bit further
+to the west.  The hall heads towards the entrance of the Temple to the
+southeast.  The walls are covered with portraits of Artemis in various
+locations in the wilderness.  Artemis is the goddess of the hunt and 
+provides strength and courage against enemies of greater power.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1871</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1873</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

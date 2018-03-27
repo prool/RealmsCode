@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="2001" Version="2.40a" Area="ocean">
+  <Name>Kista's North Gate</Name>
+  <ShortDescription>You are at the North Gate for the city of Kista.  Kista Avenue is south.</ShortDescription>
+  <LongDescription>Outside the city gates is a very long road which connects to the great
+city of Oceancrest to the west.  As you stand here just inside the huge
+gate, you notice there are stables to the east where you may leave your
+horses, or whatever you may be riding.  Further to the south is the center 
+of town, where you may find more information about this famous city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2002</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2513</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">3224</Room>
+      <Key>41</Key>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1612" Version="2.40" Area="ocean">
+  <Name>Overland Drive/Appleton Road Intersection</Name>
+  <ShortDescription>You are at the intersection of Appleton Road and Overland Drive.</ShortDescription>
+  <LongDescription>Appleton Road runs diagonally through the southern portion of town and
+crosses Overland Drive, running north and south from here.  On the west
+side of the intersection, you can see the Klondike Wheat Fields where
+wheat and grain is harvested for the town.  On the east side of the 
+road are a number of small shops, but not accessible from here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1613</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1611</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1667</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1668</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

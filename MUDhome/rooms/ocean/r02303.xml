@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="2303" Version="2.40" Area="ocean">
+  <Name>Conan's Storage Facility</Name>
+  <ShortDescription>This is the storage room for Conan's Dragon Wares Shop.</ShortDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2302</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5333" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>You are west of a gulley where a stream of water flows from north to south.</ShortDescription>
+  <LongDescription>the Lyanden Road was built only a few years ago, but there is another way
+to travel between the eastern cities and Oceancrest.  Long ago, a caravan
+trail was established, and it is still in use, but it lies far to the south.
+The caravan trail is not considered safe for lone travelers.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5332</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5334</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

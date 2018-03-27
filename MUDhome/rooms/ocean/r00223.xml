@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="223" Version="2.40" Area="ocean">
+  <Name>Child's Bedroom</Name>
+  <ShortDescription>This must have been a child's bedroom at one time.</ShortDescription>
+  <LongDescription>You can tell by the size of the canopy bed that stands against the northern
+wall.  It's much too small for an adult.  Of course, no child would want
+to live in this room now; it's full of insects, cobwebs, dust and ...?? </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <Traffic>14</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">38</Mob>
+      <Mob Area="ocean" Num="1">37</Mob>
+      <Mob Area="ocean" Num="2">35</Mob>
+      <Mob Area="ocean" Num="3">24</Mob>
+      <Mob Area="ocean" Num="4">23</Mob>
+      <Mob Area="ocean" Num="5">20</Mob>
+      <Mob Area="ocean" Num="6">18</Mob>
+      <Mob Area="ocean" Num="7">19</Mob>
+      <Mob Area="ocean" Num="8">16</Mob>
+      <Mob Area="ocean" Num="9">16</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">216</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

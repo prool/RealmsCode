@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  | Help on: heat-protection spell |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 12
+
+Heat-protection is a spell which will protect you from firey breath of monsters
+and fire-damaging rooms. An invisibile, intangible shield surrounding the target
+will absorb some of the damage inflicted upon them from the previous sources,
+but keep in mind: it does NOT protect the target from fire-based spells.
+
+Syntax:
+cast heat-protection <target>
+

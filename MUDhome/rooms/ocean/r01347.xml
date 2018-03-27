@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1347" Version="2.40a" Area="ocean">
+  <Name>Lelion Way/Apple Orchid</Name>
+  <ShortDescription>You are on Lelion Way just north of an old apple orchid.</ShortDescription>
+  <LongDescription>An incredibley beautiful apple orchid is guarded by a small wooden fence on
+the south side of Lelion Way, while the forest on the north provides a home
+for a number of wood creatures and folk.  Rumors in the city speak of odd
+happenings in the forest, and not all of them good things.  Some say a great
+wizard makes his summer home in the forest.</LongDescription>
+  
+  
+  
+  <Established>756166509</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1348</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1346</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stile">
+      <Keys/>
+      <Room Area="ocean">2112</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

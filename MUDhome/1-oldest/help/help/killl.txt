@@ -1,0 +1,31 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  attack          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The attack command allows a player to fight a monster or player who is in the
+same room. Once a monster is attacked, it will remember your face until it's
+dead, so don't make too many enemies at once. If you do not supply a numeric
+modifier to the monster's name and there are more than one of that monster in
+the room, then you will be assumed to be attacking the first such monster in
+the room. As additional monsters are added to the room, they will be given
+larger identifying numbers, so you can assume that the numeric identifier
+you chose to begin with will not change.
+
+IMPORTANT: Combat in Realms is not like combat in many other MUDs where you
+type kill <monster> once and sit back and yawn. You must continue to attack
+the monster you're fighting. You may turn on auto-attack (type CLEAR NOAUTO),
+which will make you swing back whenever you are hit, but it is unreliable and
+makes it impossible to flee should you become mortally injured.
+
+Syntax:
+  attack <player/monster> [#]
+  kill <player/monster> [#]
+  k <player/monster> [#]
+
+Example:
+: Two winos just arrived.
+: k win 2
+You attack the 2nd wino.
+You missed.
+: The 2nd wino burps on you for 2 damage.
+:

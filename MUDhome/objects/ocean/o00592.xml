@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="592" Area="ocean" Version="2.40">
+  <Name>shovel</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>7</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">15</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Description>Used for digging, but maybe for hitting people over the head also.</Description>
+  <Weight>6</Weight>
+  <Type>5</Type>
+  <SubType>club</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

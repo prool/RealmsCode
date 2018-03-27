@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Room Num="1720" Version="2.44b" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are proceeding down Riverdell Way, west of the Iilandi University.</ShortDescription>
+  <LongDescription>The Iilandi University covers nearly three city blocks, starting at the
+Allakaren Circle and heading north from there.  The University houses the
+city's finest creators and thinkers.  Citizens may take classes here for
+their own self-enrichment or to work towards degrees in various fields 
+of study.  The Facility is rather modernistic for its time, but runs into
+a number of budget problems as it expands.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:41 2009
+</LastPlayerTime>
+  <BeenHere>1</BeenHere>
+  <Wander></Wander>
+  <Track><Direction>north</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1719</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1721</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

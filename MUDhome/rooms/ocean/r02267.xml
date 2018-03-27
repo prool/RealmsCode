@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2267" Version="2.40" Area="ocean">
+  <Name>The Holy Order of the White Rose Training Room</Name>
+  <ShortDescription>You are in the training facility inside the Holy Order of the White Rose.</ShortDescription>
+  <LongDescription>You are now worthy to train to the level of Gallant Warrior, First Class.
+You have exceeded the standards set by this facility and we commission
+you go out out into the world standing proudly for good and justice.  In
+order to be commissioned to a Protector, you must seek out the Shrine of
+Truth and Fairness in northwestern Oceancrest.</LongDescription>
+  <LowLevel>2</LowLevel>
+  <HighLevel>2</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2262</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="2037" Version="2.40" Area="ocean">
+  <Name>Alturis Road/Garden Circle West</Name>
+  <ShortDescription>You are at the intersection of Alturis Road and Garden Circle West.</ShortDescription>
+  <LongDescription>Garden Circle Road travels around the magnificent Hanging Gardens, a 
+monument to the queen Isaria from her husband, King Randolf the Blue.
+Randolf got his title by swimming in Lake Kista in the winter.  It was
+pretty much a ritual for him as he dove into the nearly frozen lake 
+every year on his birthday.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2036</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2553</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2038</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

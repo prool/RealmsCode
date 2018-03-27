@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1147" Version="2.40" Area="ocean">
+  <Name>Regalia Drive</Name>
+  <ShortDescription>You are walking along Regalia Drive, west of Oceancrest Drive.</ShortDescription>
+  <LongDescription>Regalia Drive intersects Oceanview Drive to the east.  On the south, you
+can see the stage area of the Oceancrest Public Amphitheatre.  The 
+Amphitheatre is used by the public for general gatherings, usually after
+dusk, where people can come to relax and listen to the bards and minstrels
+play their mandolins.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1042</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1148</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

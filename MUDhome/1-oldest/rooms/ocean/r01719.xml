@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Room Num="1719" Version="2.44b" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, east of the Riverdell Tranquility Park.</ShortDescription>
+  <LongDescription>The Tranquility Park is a vast, restful place where people go to enjoy a
+day in the park.  It is also the home of the Riverdell Center for Tracking
+Training, where a number of rangers practice and improve their skills.  On
+the east side of the road is the Odinialli Memorial Administration Building
+for the Iilandi University.  The large University houses many of Ocean-
+crest's biggest minds in science and technology.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:41 2009
+</LastPlayerTime>
+  <BeenHere>1</BeenHere>
+  <Wander></Wander>
+  <Track><Direction>north</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1718</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1720</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

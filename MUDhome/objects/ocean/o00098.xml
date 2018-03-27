@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="98" Area="ocean" Version="2.40">
+  <Name>stone key</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">50</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">key</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>The key is made completely of stone.  It is quite fragile.</Description>
+  <UseOutput>The key crumbles as it unlocks the door.</UseOutput>
+  <Weight>1</Weight>
+  <Type>12</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

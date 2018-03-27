@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<Creature Num="83" Area="ocean" Version="2.40">
+  <Name>mummy of dabin</Name>
+  <Level>13</Level>
+  <Type>1</Type>
+  <Experience>600</Experience>
+  <Coins>
+    <Coin Num="2">100</Coin>
+  </Coins>
+  <Alignment>100</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>175</Current>
+      <Max>175</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>50</Current>
+      <Max>50</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see the mummified remains of Dabin, founder of the city of Caledonia.</Description>
+  <Keys>
+    <Key Num="0">dabin</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>100</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>5</Number>
+    <Sides>1</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>I cannot rest until Caledonia is returned to the elves.</Talk>
+  <DefenseSkill>125</DefenseSkill>
+  <AttackPower>180</AttackPower>
+  <WeaponSkill>125</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">127</Carry>
+    <Carry Area="ocean" Num="1">127</Carry>
+    <Carry Area="ocean" Num="2">127</Carry>
+    <Carry Area="ocean" Num="3">127</Carry>
+    <Carry Area="ocean" Num="4">127</Carry>
+    <Carry Area="ocean" Num="5">127</Carry>
+    <Carry Area="ocean" Num="6">127</Carry>
+    <Carry Area="ocean" Num="7">127</Carry>
+    <Carry Area="ocean" Num="8">127</Carry>
+    <Carry Area="ocean" Num="9">127</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects>
+    <Effect>
+      <Name>detect-invisible</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+  </Effects>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="0"/>
+    <Bit Num="1"/>
+    <Bit Num="6"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+    <Bit Num="34"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

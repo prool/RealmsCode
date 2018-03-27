@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="782" Version="2.40" Area="ocean">
+  <Name>Crystal Intersection</Name>
+  <ShortDescription>You have entered a magnificant crystal room connecting the jacinith hall
+extending to the east and west, and the ruby hallway extending to the south.</ShortDescription>
+  <LongDescription>The room reflects a lot of light, making it hard to tell which direction
+you are actually heading.   Far to the south, you can make out another
+crystal room and a stairway.  Looking to the east, you can see yourself in
+the distance standing in a crystal hallway.  Is it an illusion or isn't it?</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">781</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">784</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">783</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

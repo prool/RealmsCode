@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Room Num="3944" Version="2.40" Area="ocean">
+  <Name>Under the Hofton Avenue Bridge</Name>
+  <ShortDescription>You are under the Hofton Avenue Bridge in Oceancrest.</ShortDescription>
+  <LongDescription>The deep and dark Ramdes River flows from outside the city under an
+opening below the city Wall.  From here, it continues to the south and
+makes its way through the old forest before turning west to Lyanden Lake.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">397</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

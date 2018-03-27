@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="565" Version="2.40a" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are on Eidenhoft Boulevard, west of the Reclaimation Center.</ShortDescription>
+  <LongDescription>The Oceancrest Central Recycling Plant and Reclaimation Center is the main
+recycling and remanufacturing plant of trash in Oceancrest.  All the 
+smaller centers bring their recycled goods here to be used in other, less
+useful objects in a vain attempt to keep the city clean.  A small reward
+is given out to people who recycle. To the west is an alley which winds out
+out of sight in that direction.  Several shops are there.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>alley</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">564</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1169</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="alley">
+      <Keys/>
+      <Room Area="ocean">3854</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">21</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

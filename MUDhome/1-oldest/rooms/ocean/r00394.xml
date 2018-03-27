@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="394" Version="2.40" Area="ocean">
+  <Name>Tranquility Way</Name>
+  <ShortDescription>You are on Tranquility Way, , west of the Brunskid Trader's Guild.</ShortDescription>
+  <LongDescription>There is an old-growth forest to the north which the city fathers have left
+completely undisturbed.  At one time a land developer tried to go in there,
+thinking he would make a lot of money, but nobody ever saw him again.  The
+forest on the south side seems to be a little younger then the north side,
+but its still quite mature.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1304</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">395</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="4256" Version="2.40" Area="ocean">
+  <Name>Servant's Stairwell</Name>
+  <LongDescription>You are on the second floor of the servant's stairwell in Castle Rutger.
+the second floor of the castle is almost exclusively offices and archives
+used in administrative work.  Its just amazing how much paperwork there is
+to running a castle of this side.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4254</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">4257</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

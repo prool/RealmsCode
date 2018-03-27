@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="456" Version="2.40" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are walking along Hofton Avenue, south of the Northern City Walls.</ShortDescription>
+  <LongDescription>The City Walls rise nearly ten meters up from the ground you are walking
+on, giving the city's guards a very good lookout into the wilderness and
+deserts around Oceancrest.  On the south side of the road is the Red-Eye
+Pub and Grill Stage, where various bards and minstrels go to practice in
+front of an audience.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">455</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">420</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

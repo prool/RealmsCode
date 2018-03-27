@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="735" Version="2.40" Area="ocean">
+  <Name>Small Bridge</Name>
+  <ShortDescription>You are walking over a beautiful bridge passing over a rapidly flowing river.</ShortDescription>
+  <LongDescription>As you look over the railings of the bridge, you can see the wide river
+bringing cold and fresh water down from the mountains into the large park
+to the west.  The river appears to flow evenly into the forest-like wooded 
+park, bringing fresh water from the mountain icepacks.</LongDescription>
+  
+  <Established>727327675</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">734</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">736</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

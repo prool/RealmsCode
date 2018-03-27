@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  transport spell     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 8
+School:  Translocation
+Domain:  Not Castable
+
+Transport allows a caster to send an item to a player. The player must be able
+to hold the weight of the item for the transport to work. This spell can be used
+to transfer valuable goods across great distances instantaneously. Many
+business-involved wizards find this spell very useful in conjunction with the
+bank system. This spell is only castable by mages and liches.
+
+Syntax:
+cast transport <item> <target>

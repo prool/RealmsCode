@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="2100" Version="2.40" Area="ocean">
+  <Name>Front Entry of the Great Library</Name>
+  <ShortDescription>You are in the magnificent front foyer of the equally spectacular Great
+Library, built primarily to house the world's greatest works.</ShortDescription>
+  <LongDescription>The great entry is surrounded with mirrors and glass, with a large sun-
+roof letting the brilliant sunlight illuminate the Library.  There are a
+number of fantastic displays for everyone to see and experiment with.
+There are three doors here.  The oak door leads to an "Archives" room.  
+The green door to the north says "Research" on a old and tarnished bronze
+plaque.  The blue door to the west says "Reference" on it's plaque.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>blue door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="oak door">
+      <Keys/>
+      <Room Area="ocean">2507</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="green door">
+      <Keys/>
+      <Room Area="ocean">2101</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="blue door">
+      <Keys/>
+      <Room Area="ocean">2102</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2506</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="206" Version="2.40" Area="ocean">
+  <Name>Study</Name>
+  <ShortDescription>This is the mansion's study, where once many years ago someone came to read.</ShortDescription>
+  <LongDescription>There is a plush reclining chair in the corner of the room sitting under a
+long burnt-out lantern.  In front of the chair is a mahogany desk with old
+papers strewn across its surface.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>13</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">20</Mob>
+      <Mob Area="ocean" Num="1">18</Mob>
+      <Mob Area="ocean" Num="2">18</Mob>
+      <Mob Area="ocean" Num="3">21</Mob>
+      <Mob Area="ocean" Num="4">23</Mob>
+      <Mob Area="ocean" Num="5">24</Mob>
+      <Mob Area="ocean" Num="6">23</Mob>
+      <Mob Area="ocean" Num="7">18</Mob>
+      <Mob Area="ocean" Num="8">19</Mob>
+      <Mob Area="ocean" Num="9">19</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">205</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

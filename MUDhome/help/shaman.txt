@@ -1,0 +1,21 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  Shaman         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Prime Requisites: Constitution, Piety
+Compatable Races: Half-Giant, Half-Orc, Kataran, Orc, Goblin, Ogre, Troll
+
+All the savage and less civilized races of Derlith must have spiritual guidance,
+primitive as it may be. Tribal shamans fill this roll. Acting as both
+witchdoctors and healers, they are savage fighters and also are able to command
+magical powers, some of a powerful nature. A shaman has the ability to chant
+before battle, inciting a mild battle frenzy in members of his tribe. He is also
+able to mix and brew substances together to make concoctions of almost any sort
+- some being poisons and others being magical potions or having other effects.
+Other abilities of shaman aren't know very well, as most of the savage tribes
+are somewhat elusive and cryptic.
+
+Abilities: Chant, Brew, (not all abilities done yet)
+
+Note: This class is not yet available.
+

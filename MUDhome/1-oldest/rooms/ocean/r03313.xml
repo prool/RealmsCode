@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3313" Version="2.40" Area="ocean">
+  <Name>Necropolis Path</Name>
+  <ShortDescription>You are inside the gate of the Necropolis.  Shivers runs down your spine..</ShortDescription>
+  <LongDescription>The path you are on leads north and south, and is paved with simple crushed
+gravel.  On both sides to the east and west you see a well kept cemetery
+with plain tombstones imbedded in the cold earth.  An eerie mist is curling
+around you as walk on the path, a mist that is not visible from outside the
+gate.  Perhaps you are imagining it, but perhaps the residents of the
+necropolis don't like sunny days or visitors.</LongDescription>
+  <LowLevel>3</LowLevel>
+  
+  <Established>759795920</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">3312</Room>
+      <Key>43</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3314</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

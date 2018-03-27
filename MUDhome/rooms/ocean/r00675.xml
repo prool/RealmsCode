@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="675" Version="2.47i" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are on Hofton Avenue between the City Walls and the Hofton Ziggurat.</ShortDescription>
+  <LongDescription>The impressive City Walls still dwarf the tall Hofton Ziggurat in size,
+completely protecting it from bombardment from the outside.  The City
+Walls provide security to the people of Oceancrest, which is why most
+of the political conferences take place within the city.  No other city
+in the lands provides as much protection.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>east</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">674</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">676</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

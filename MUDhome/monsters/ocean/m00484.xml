@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Creature Num="484" Area="ocean" Version="2.47i">
+  <Name>little match girl</Name>
+  <Id>-1</Id>
+  <Level>1</Level>
+  <Type>1</Type>
+  <Experience>1</Experience>
+  <Alignment>200</Alignment>
+  <Stats><Stat Name="Strength"><Initial>100</Initial><Modifiers></Modifiers></Stat><Stat Name="Dexterity"><Initial>100</Initial><Modifiers></Modifiers></Stat><Stat Name="Constitution"><Initial>100</Initial><Modifiers></Modifiers></Stat><Stat Name="Intelligence"><Initial>100</Initial><Modifiers></Modifiers></Stat><Stat Name="Piety"><Initial>150</Initial><Modifiers></Modifiers></Stat><Stat Name="Hp"><Initial>8</Initial><Modifiers></Modifiers></Stat><Stat Name="Mp"><Initial>0</Initial><Modifiers></Modifiers></Stat></Stats>
+  <Description>You see a shivering little waif in rags, selling matches.</Description>
+  <Keys><Key Num="0">match</Key><Key Num="1">girl</Key><Key Num="2">    </Key></Keys>
+  <MoveTypes></MoveTypes>
+  <Armor>590</Armor>
+  <Proficiencies></Proficiencies>
+  <Dice><Number>50</Number></Dice>
+  <Attacks></Attacks>
+  <Talk>please, kind person, buy a match from me?  I'm very cold</Talk>
+  <TalkResponses></TalkResponses>
+  <DefenseSkill>5</DefenseSkill>
+  <AttackPower>100</AttackPower>
+  <WeaponSkill>5</WeaponSkill>
+  <Factions></Factions>
+  <Skills></Skills>
+  <Effects></Effects>
+  <SpecialAttacks></SpecialAttacks>
+  <DailyTimers></DailyTimers>
+  <SavingThrows><SavingThrow Num="0"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="1"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="2"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="3"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="4"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="5"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow></SavingThrows>
+  <Flags><Bit Num="0"></Bit></Flags>
+  <Inventory></Inventory>
+</Creature>

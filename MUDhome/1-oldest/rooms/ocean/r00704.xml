@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="704" Version="2.40a" Area="ocean">
+  <Name>Hillborough Way</Name>
+  <ShortDescription>You are walking between the Holy Orders of the White Cross and Black Cross.</ShortDescription>
+  <LongDescription>This is not necessarily a good place to be.  The great holy warriors of
+Oceancrest built these two facilities to further train and challenge
+themselves.  It was eventually discovered that there must be evil in
+everything that is also good, but in order to truly be good, you must
+in fact face evil and be able to walk away from it.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">583</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">705</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Object Num="130" Area="ocean" Version="2.40">
+  <Name>platinum dragon scale mail</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>65</ShotsMax>
+  <ShotsCur>65</ShotsCur>
+  <Armor>176</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">99999</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">dragon</Key>
+    <Key Num="1">scale</Key>
+    <Key Num="2">mail</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="10"/>
+    <Bit Num="13"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Description>You see glimmering armor made from the scales of the Platinum Dragon.</Description>
+  <UseOutput>You feel the might and power of the Platinum Dragon.</UseOutput>
+  <Weight>40</Weight>
+  <Type>6</Type>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

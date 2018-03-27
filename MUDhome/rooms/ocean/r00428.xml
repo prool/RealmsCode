@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="428" Version="2.40" Area="ocean">
+  <Name>Bendine Way</Name>
+  <ShortDescription>You are walking along Bendine Way, west of the Kimber Family Locksmith.</ShortDescription>
+  <LongDescription>The Kimber Family has, for many generations, provided custom locks and 
+bolts for nearly everyone who has ever wanted to keep something protected.
+Furthermore, they're likely to be able to open up any known lock.  On the
+west side of the road is the Adlermann Center of Marine Research and
+Oceanography, bordering the Rhinestone Marina.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">427</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">429</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

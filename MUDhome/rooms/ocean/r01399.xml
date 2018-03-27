@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1399" Version="2.40" Area="ocean">
+  <Name>Stairwell</Name>
+  <ShortDescription>You are in a narrow stairwell.</ShortDescription>
+  <LongDescription>The stairway leads up into the main level of the palace. At the top
+of the stairway, you can see what looks like the back of a bookcase.
+The door at the top must be a secret door.  At the bottom, you can
+see the makings of a large laboratory.  </LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1415</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">1389</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

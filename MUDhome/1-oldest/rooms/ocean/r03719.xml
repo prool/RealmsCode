@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3719" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Park</Name>
+  <ShortDescription>You are in a small, triangular park dedicated to Conan the Dragon-Slayer.</ShortDescription>
+  <LongDescription>An alabaster statue of Conan the barbarian stands life-size in the
+section of the small park next to the boulevard.  He is surrounded by
+lesser heros of Oceancrest, and a maiden is on his left arm.  He wields
+a glittering dragon blade, and battles several chromatic dragons.  Conan
+died a true hero in the Land of Mordor.  He is remembered by many.</LongDescription>
+  
+  <Established>765339945</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1059</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1057</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="red door">
+      <Keys/>
+      <Room Area="ocean">2302</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

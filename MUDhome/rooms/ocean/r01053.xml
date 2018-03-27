@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="1053" Version="2.40a" Area="ocean">
+  <Name>Main Street/Golden Dolphin Way Intersection - South Gate</Name>
+  <ShortDescription>You are at the intersection of Golden Dolphin Way and Main Street.</ShortDescription>
+  <LongDescription>You are at one of the primary entrances to the town.  In fact, its only one
+of four basic ways into town, not including scaling the City Walls.  The
+City Walls are constantly patrolled by guards.  Golden Dolphin travels 
+along the southern wall of the city going east to west.  Main Street heads
+into the center of town, and more immediately, the main shopping districts
+of Oceancrest, south of Nylandian Bay.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">2</Mob>
+      <Mob Area="ocean" Num="1">267</Mob>
+      <Mob Area="ocean" Num="2">267</Mob>
+      <Mob Area="ocean" Num="3">2</Mob>
+      <Mob Area="ocean" Num="4">267</Mob>
+      <Mob Area="ocean" Num="5">2</Mob>
+      <Mob Area="ocean" Num="6">267</Mob>
+      <Mob Area="ocean" Num="7">267</Mob>
+      <Mob Area="ocean" Num="8">2</Mob>
+      <Mob Area="ocean" Num="9">267</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1052</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1083</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1084</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">3229</Room>
+      <Flags>
+        <Bit Num="17"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

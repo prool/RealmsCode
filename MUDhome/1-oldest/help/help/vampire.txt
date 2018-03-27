@@ -1,0 +1,24 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  Vampire         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Prime Requisites: Strength, Intelligence
+Compatible Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The vampire is the undead creature of the night. He has a hatred of all that is
+living, as he must rely on the blood of the living to survive. The night is the
+vampire's kingdom. When the sun sets across Derlith, hordes of vampires come out
+to feast. During the night, a vampire is able to bite any living creature, doing
+massive damage in a single strike. He may also transform himself into a
+translucent mist, unable to be detected until the time of his attack. Contrary
+to popular belief, a vampire is not powerless when the sun comes up. A vampire
+is often able to hypnotize his victim, even in daylight. This renders an enemy
+harmless to the vampire, as the victim perceives the vampire to be a friend and
+thus will not attack. There aren't many organizations across Derlith which a
+vampire may join, as many are afraid of his unnatural power. At least one
+organization solely for vampires is rumored to exist somewhere in Derlith,
+however.
+
+Abilities: Bite, Mist, Hypnotize

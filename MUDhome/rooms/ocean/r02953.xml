@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Room Num="2953" Version="2.40" Area="ocean">
+  <Name>Hera's Inner Garden</Name>
+  <ShortDescription>You are in the inner garden of Queen Hera, a forbidden area.</ShortDescription>
+  <Established>760438803</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

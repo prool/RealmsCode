@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="12" Version="2.40a" Area="ocean">
+  <Name>Goldenrod Avenue</Name>
+  <ShortDescription>You are on Goldenrod Avenue which runs east and west.</ShortDescription>
+  <LongDescription>The village wall is a uniform dirty brown on the north side of the road.
+The appearance of the wall is how the village of Brownhaven got its name.
+This narrow little road might better be called an alley along here.  It
+seems to twist and turn every few meters as it winds along behind the back
+doors of a number of shops.  A faded old sign above one of the doors says
+the place was established about four hundred years ago by a dwarf named
+Ahabanabanazzer.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">11</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">13</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

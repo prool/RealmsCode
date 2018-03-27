@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="4246" Version="2.40a" Area="ocean">
+  <Name>Main Courtyard - Center East</Name>
+  <ShortDescription>You are in the eastern part of the castle's central courtyard.</ShortDescription>
+  <LongDescription>To the west is a beautiful reflecting pool with large statues surrounding
+it.  This area is a small garden filled with lush ferns and exotic plants, 
+providing a nice setting to observe the pool in the center of the courtyard.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4247</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4248</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4249</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4241</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

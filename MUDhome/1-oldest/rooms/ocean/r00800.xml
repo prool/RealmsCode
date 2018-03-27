@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="800" Version="2.40" Area="ocean">
+  <Name>Dark Staircase</Name>
+  <ShortDescription>You are in a dark staircase that apparently goes deep into the depths of
+the Citadel.  The winding staircase takes you about three meters down.</ShortDescription>
+  <LongDescription>You can easily make out the stairs with the light you have generated,
+but the ground is very slippery.  It appears to be covered with moss
+and other slime.  The ornate staircase reveals nothing about the upper
+or lower realms you are venturing into except for the incredible detail
+of which the staircase is crafted.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">778</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">807</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

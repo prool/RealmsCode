@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Room Num="4041" Version="2.40a" Area="ocean">
+  <Name>Crystalline Tower Hallway</Name>
+  <ShortDescription>This is a very long hallway and light reflects from many diamond facets.</ShortDescription>
+  <LongDescription>You are in a beautiful diamond studded hallway which is patrolled by the
+crystalline warriors.  It's difficult to determine what pattern they use
+to patrol, and seem to appear on a random basis.  There are two guards at
+the far end of the hallway.  They don't seem to be aware of you right now.</LongDescription>
+  
+  
+  <LowLevel>13</LowLevel>
+  
+  <Established>772432280</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>13</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">651</Mob>
+      <Mob Area="ocean" Num="1">651</Mob>
+      <Mob Area="ocean" Num="2">651</Mob>
+      <Mob Area="ocean" Num="3">651</Mob>
+      <Mob Area="ocean" Num="4">651</Mob>
+      <Mob Area="ocean" Num="5">651</Mob>
+      <Mob Area="ocean" Num="6">651</Mob>
+      <Mob Area="ocean" Num="7">651</Mob>
+      <Mob Area="ocean" Num="8">651</Mob>
+      <Mob Area="ocean" Num="9">651</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>staircase</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>1206217643</LastTime>
+      <Misc Area="ocean">659</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>1206217657</LastTime>
+      <Misc Area="ocean">659</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="staircase">
+      <Keys/>
+      <Room Area="ocean">4040</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="chamber">
+      <Keys>
+        <LastTime Num="0">
+          <Interval>0</Interval>
+          <LastTime>1206217647</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </Keys>
+      <Room Area="ocean">4042</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+        <Bit Num="18"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

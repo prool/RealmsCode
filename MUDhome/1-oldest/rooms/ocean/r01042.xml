@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1042" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive/Regalia Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Regalia Drive and Oceanview Drive.</ShortDescription>
+  <LongDescription>Oceanview Drive is a fairly scenic route which is a pleasant detour from
+the hectic, busy roads like Main and Rosecrest.  It travels north to south,
+ending in the north at Nylandian Bay and in the south at the City Walls. 
+Regalia Drive is a short street which runs west through the Fountain and
+ends at the Regalia Convent, which acts as both a nunnary and a school 
+for wayward women. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1041</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1043</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1146</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1147</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="4517" Version="2.40a" Area="ocean">
+  <Name>Private Chambers Hallway</Name>
+  <ShortDescription>You arte in a richly appointed hallway, which leads to private quarters.</ShortDescription>
+  <LongDescription>there are several door and alcoves along the way, but almost all of them
+are closed.  The candles high on the stone walls give off a sweet smell
+from the burning incense.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4516</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3613</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

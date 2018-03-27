@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1305" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, west of the Brunskid Trader's Guild.</ShortDescription>
+  <LongDescription>The Brunskid Trader's Guild is a notoriously dangerous place to do 
+business, but the business can be quite profitable.  The Guild is filled
+with thieves and assassins out to make a quick buck.  To the distress
+of the city patrols, they have been unable to shut down this establishment.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1304</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1306</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

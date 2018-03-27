@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5469" Version="2.40" Area="ocean">
+  <Name>Castle Rutger Road</Name>
+  <ShortDescription>You are on a steep mountain road leading down from Castle Rutger.</ShortDescription>
+  <LongDescription>Actually, you might be on a steep mountain road leading up to Castle Rutger.
+It's hard to say whether a road is leading up or down, so perhaps one should
+just say it runs between Castle Rutger and the mountain ridge below.  This
+road certainly changes direction often.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5468</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5470</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

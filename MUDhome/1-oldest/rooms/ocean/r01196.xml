@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1196" Version="2.40" Area="ocean">
+  <Name>Kafkan Way</Name>
+  <ShortDescription>You are traveling on Kafkan Way, just north of a large palace.</ShortDescription>
+  <LongDescription>To the south is an iron gate.  Past that gate, a long, winding path
+leads up the artificial mountain to a large palace on the top.  The
+Mages that built the palace, also build the mountain and all the
+surrounding magical effects.  The Mages of Keslar, as they are commonly
+known as, are not really evil, but appear to be by the people who
+do not really understand the use and power of magic.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1195</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1197</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">1358</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

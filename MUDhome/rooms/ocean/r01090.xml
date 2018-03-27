@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="1090" Version="2.40" Area="ocean">
+  <Name>Hafnia Way/Waterfront Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Hafnia Way and Waterfront Way.</ShortDescription>
+  <LongDescription>Waterfront Way runs east to west, taking people from the western gates
+surrounding the city, through the farmlands and orchards a couple blocks
+to the east, all the way to the other side of town.  Hafnia Way connects
+Golden Dolphin Way and Nagaritha Way in order to alleviate some of the
+traffic congestion on Main Street.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">1</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">2</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1091</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1089</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1110</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1685</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

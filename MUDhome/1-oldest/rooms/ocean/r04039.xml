@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="4039" Version="2.41a" Area="ocean">
+  <Name>Imperial Crystal Tower Lobby</Name>
+  <ShortDescription>You are inside the main lobby of the crystal tower.</ShortDescription>
+  <LongDescription>This is a vast reception area which seems to be composed almost entirely of
+diamonds.  In place of furniture, you see smooth, sculptured protrusions
+rising from the floor and shaped as chairs or desks.  A magnificient set 
+of broad stairs rises in a spiral to the upper levels of the tower.</LongDescription>
+  
+  
+  
+  <Established>772047740</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>doors</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="doors">
+      <Keys/>
+      <Room Area="ocean">4038</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="spiral">
+      <Keys/>
+      <Room Area="ocean">4040</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

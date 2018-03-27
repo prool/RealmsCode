@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="2042" Version="2.40" Area="ocean">
+  <Name>Garden Circle Road/Ivory Way</Name>
+  <ShortDescription>You are at the end of Ivory Way as it joins Garden Circle Road.</ShortDescription>
+  <LongDescription>Ivory Way runs along the east side of Kista and borders the city's famous
+Amphitheater, where many traveling minstrels play nightly.  Garden Circle
+takes you around the great Hanging Gardens momument to the southeast.  The
+Kista Temple of Jinsuti lies to the east.  Jinsuti is a high art form of 
+self defense taught to more advanced fighters.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>temple</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2039</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2557</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="temple">
+      <Keys/>
+      <Room Area="ocean">3294</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

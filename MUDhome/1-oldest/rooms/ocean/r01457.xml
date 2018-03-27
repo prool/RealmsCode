@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="1457" Version="2.40" Area="ocean">
+  <Name>Basement Hallway</Name>
+  <ShortDescription>You are in a hallway in the basement of the Palace of Keslar.</ShortDescription>
+  <LongDescription>The basement hallways continue to the north and south.  Another hallway
+branches out from this one to the east.  There is a door on the north
+wall that appears to lead to the main guards quarters.  There's a 
+pretty high concentration of guards in this area.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">130</Mob>
+      <Mob Area="ocean" Num="1">130</Mob>
+      <Mob Area="ocean" Num="2">126</Mob>
+      <Mob Area="ocean" Num="3">126</Mob>
+      <Mob Area="ocean" Num="4">172</Mob>
+      <Mob Area="ocean" Num="5">173</Mob>
+      <Mob Area="ocean" Num="6">174</Mob>
+      <Mob Area="ocean" Num="7">130</Mob>
+      <Mob Area="ocean" Num="8">130</Mob>
+      <Mob Area="ocean" Num="9">130</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1455</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1449</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1458</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1456</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

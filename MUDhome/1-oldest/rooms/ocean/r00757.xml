@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="757" Version="2.40" Area="ocean">
+  <Name>Oceancrest Circle</Name>
+  <ShortDescription>You are on the northern rim of the large Oceancrest Circle.</ShortDescription>
+  <LongDescription>The Oceancrest Circle welcomes visitors and friends to the City of
+Oceancrest.  The entrance to the city is located to the east of the Circle
+about a block away.  There is a magnificent tree centered in the middle
+of the circle, but there appears to be no significance attached to it.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">758</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">759</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">756</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3213" Version="2.40a" Area="ocean">
+  <Name>Lake View Road</Name>
+  <ShortDescription>You are high on a mountain road, near the beautiful Lake Kista.</ShortDescription>
+  <LongDescription>The view from here is magnificient, and looking east you see the clear
+blue waters of Lake Kista.  There is some activity out on the water, but
+you cannot make out what it is from here.  Gotland Pass is east of you.</LongDescription>
+  
+  <Established>755854740</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3212</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3217</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

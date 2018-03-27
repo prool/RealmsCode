@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="971" Version="2.40" Area="ocean">
+  <Name>The Widow Maker - Below Deck</Name>
+  <ShortDescription>You are on the Widow Maker pirate ship, below the main deck of the ship.</ShortDescription>
+  <LongDescription>Ahead to the north is the galley.  You can smell the cook stiring up
+something delicious for dinner, but the continuous rocking of the ship
+under the main deck prevents you from enjoying that sensation.  The 
+hallway you are in continues to the south from here, past most of the
+crew cabins.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">972</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">970</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="port door">
+      <Keys/>
+      <Room Area="ocean">975</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

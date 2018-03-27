@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5446" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>You are on the slopes of Hafnia Mountain, south of the Ituk Glacier.</ShortDescription>
+  <LongDescription>Snow swirls around you, and at this elevation snow stays on the ground all
+year round.  Several times a year the road crew finds a frozen traveler,
+so be warned.  This is not a friendly part of the world.  There is an odd
+occurance of a hot draft of wind occasionally from the south, probably from
+one of the active cinder cones that make up the Aphinix Mountain Range.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5445</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5447</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,16 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  classes | race    |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Playable RACES on Realms are as follows:
+Dwarf, Elf, Half-Elf, Halfling, Gnome, Troll, Human, Orc, Half-Giant, Ogre,
+Half-Orc, Dark-Elf, Goblin, Minotaur, Seraph, Kobold, Cambion, Barbarian,
+Kataran.
+
+Playable CLASSES on Realms are as follows:
+Assassin, Berserker, Cleric, Fighter, Mage, Paladin, Ranger, Thief, Vampire,
+Monk, Deathknight, Druid, Lich, Werewolf, Bard, Rogue.
+
+You may see a description of any one of these items by typing "help <topic>"
+at the prompt (do not include hyphens).
+

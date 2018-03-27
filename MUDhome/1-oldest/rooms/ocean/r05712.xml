@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="5712" Version="2.40" Area="ocean">
+  <Name>Galgorn Way</Name>
+  <ShortDescription>This is Galgorn Way, named after a hero who saved the village years ago.</ShortDescription>
+  <LongDescription>Long ago, the Mountain Trolls had an alliance with the red dragons and tried
+to conquer the village of Phexton.  Galgorn, although not a Mountain Giant,
+helped the people of the village and defeated two of the red dragons.  
+When the trolls saw that, they retreated and have not been back since.
+Several homes are on the north side of the way, and the village green is
+to the south.  There appears to be a statue in the center of the green.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5711</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

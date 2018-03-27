@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<Creature Num="318" Area="ocean" Version="2.40">
+  <Name>angry pirate</Name>
+  <Level>5</Level>
+  <Type>1</Type>
+  <Experience>70</Experience>
+  <Coins>
+    <Coin Num="2">40</Coin>
+  </Coins>
+  <Alignment>-10</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>60</Current>
+      <Max>60</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a rather dirty looking pirate running towards you.</Description>
+  <Keys>
+    <Key Num="0">pirate</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>150</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>4</Number>
+    <Sides>2</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>Avast there!  Get off me ship before I make you walk the plank!</Talk>
+  <DefenseSkill>45</DefenseSkill>
+  <AttackPower>180</AttackPower>
+  <WeaponSkill>45</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">97</Carry>
+    <Carry Area="ocean" Num="1">78</Carry>
+    <Carry Area="ocean" Num="2">77</Carry>
+    <Carry Area="ocean" Num="3">113</Carry>
+    <Carry Area="ocean" Num="4">115</Carry>
+    <Carry Area="ocean" Num="5">187</Carry>
+    <Carry Area="ocean" Num="6">199</Carry>
+    <Carry Area="ocean" Num="7">192</Carry>
+    <Carry Area="ocean" Num="8">229</Carry>
+    <Carry Area="ocean" Num="9">247</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

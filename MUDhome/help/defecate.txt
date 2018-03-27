@@ -1,0 +1,20 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  defecate       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The ability to defecate in Realms is actually linked with a free restore,
+bringing your hit points and magic points back up to full. Note that you cannot
+defecate in the middle of combat - you must flee, relieve yourself, and then
+return.
+
+Example:
+: defec
+You can't do that now! You are in combat!
+Do you want to shit all over yourself?
+:
+
+: defec
+You squat down and shit.
+You feel SOOO much better now.
+:
+

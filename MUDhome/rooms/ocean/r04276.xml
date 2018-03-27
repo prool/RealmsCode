@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="4276" Version="2.40a" Area="ocean">
+  <Name>Stairway of the Nobles</Name>
+  <ShortDescription>You are on the third level of the Stairway of the Nobles in Castle Rutger.</ShortDescription>
+  <LongDescription>A long hallway runs east and west, and several closed doors appear to
+have access here.  These are the apartments of some of Rutger's closest
+friends, adventurers who have pledged their loyalty to him.  Along the 
+hall you see oil paintings and banners of some of the residents.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>hall</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4275</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">4277</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hall">
+      <Keys/>
+      <Room Area="ocean">4278</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

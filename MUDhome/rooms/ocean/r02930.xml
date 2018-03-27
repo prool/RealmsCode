@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="2930" Version="2.40" Area="ocean">
+  <Name>CrossRoads</Name>
+  <ShortDescription>You are at the crossroads of a wide path and a small road.</ShortDescription>
+  <LongDescription>The path goes through very thick woods to the north, while the small road
+heads east and southwest.  Wagon tracks have made ruts in the road, but
+it appears to be easy to walk.  A small rest area with a wooden table is
+on the south side of the road.  A road sign says the city of Oceancrest is
+to the southwest, and the home of Khallazar is to the east.  The elven city
+of Hafnia is far to the northeast.</LongDescription>
+  
+  <Established>759014781</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2931</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2932</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2929</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

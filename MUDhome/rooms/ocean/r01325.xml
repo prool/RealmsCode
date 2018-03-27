@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1325" Version="2.40" Area="ocean">
+  <Name>Ministry Way/Orchard Lane Intersection</Name>
+  <ShortDescription>You are at the intersection of Orchard Lane and Ministry Way.</ShortDescription>
+  <LongDescription>Ministry Way runs south out of the intersection with Orchard Lane, which
+runs east and west.  On the north side of the intersection is the Brunskid
+Trader's Guild, where all sorts of items are sold.  These items are usually
+not legal, or possibly stolen.  It is also a very dangerous place where
+theives and assassins abound, lurking in the shadows.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">380</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">381</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1326</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

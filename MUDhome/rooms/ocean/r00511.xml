@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="511" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street between the Fellowship Hall and the taxidermist.</ShortDescription>
+  <LongDescription>Hunting trophies are a big thing among many hunters, and Roger's Taxidermy
+Shop has no problem providing magnificent stuffed heads and torsos of
+any animal brought in to him.  On the west side of the road is the Great
+Fellowship Hall, a strange group of fanatical religious philosophers who
+probably think the world is going to end tomorrow.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">510</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">512</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2082" Version="2.40" Area="ocean">
+  <Name>Lord Aaileman's Personal Chambers</Name>
+  <ShortDescription>You are in Lord Aaileman's personal chambers.  Aaileman is the head of 
+the Kista Council of Law and Order, dedicated to peace among the races.</ShortDescription>
+  <LongDescription>The chambers are about ten meters wide and long, covered with ornate
+golden trinkets and other items that appear to have no real bearing
+on anything.  There are a couple of small statues and models of new
+cities being planned.  There's also a large map of the region of 
+Kista.  Aaileman is usually in his chambers, here, but sometimes 
+he's in the throne room or talking in the council chambers.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>86400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">233</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2079</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

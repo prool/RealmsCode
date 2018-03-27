@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="3201" Version="2.40" Area="ocean">
+  <Name>Imprisoned</Name>
+  <ShortDescription>You are stuck here, awaiting benign mercy. </ShortDescription>
+  <Trap>6</Trap>
+  
+  <Established>755735282</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="17"/>
+    <Bit Num="28"/>
+    <Bit Num="31"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

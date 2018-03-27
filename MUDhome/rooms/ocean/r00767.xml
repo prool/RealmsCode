@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="767" Version="2.40" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are walking down Oceancrest Avenue, south of Wakarimasu Park.</ShortDescription>
+  <LongDescription>On the north side of the road, you can see the large Wakarimasu Park,
+based primarily on ancient oriental architecture.  There is a large
+building in the park a bit to the west along Oceancrest Avenue.  On
+the south side of the road is the Iilandi University.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">759</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">768</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

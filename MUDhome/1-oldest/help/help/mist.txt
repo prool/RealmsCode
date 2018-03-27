@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  mist           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Vampires may mist in order to disappear from sight. They cannot be seen until
+they attack a monster or player. This is especially good for surprising players
+for the kill. You may only mist during the night. A true-sight spell will allow
+you to see misted vampires.
+
+: mist
+You turn to mist.
+: The sun rises.
+: You return to your natural form.
+:

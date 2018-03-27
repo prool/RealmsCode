@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="459" Area="ocean" Version="2.40">
+  <Name>transporter</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>500</ShotsMax>
+  <ShotsCur>500</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys/>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="17"/>
+    <Bit Num="24"/>
+  </Flags>
+  <Description>A small booth that emits a faint rumbling sound.</Description>
+  <UseOutput></UseOutput>
+  <Type>9</Type>
+  <MagicPower>12</MagicPower>
+  <InBag/>
+</Object>

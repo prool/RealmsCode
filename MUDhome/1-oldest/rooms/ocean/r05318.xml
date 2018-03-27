@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5318" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>The Lyanden Road follows the northern boundary of the immense K'tral Desert.</ShortDescription>
+  <LongDescription>The desert actually forms a buffer with the badlands farther south.
+Entire caravans have beeen lost in the K'tral, but it is a faster route
+between Brownhaven and Oceancrest.  However, no one has ever been known
+to enter the badlands and return, except a few raving lunatics.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5317</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5319</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

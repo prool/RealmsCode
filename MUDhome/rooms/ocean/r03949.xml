@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3949" Version="2.40" Area="ocean">
+  <Name>Shaman's Hut</Name>
+  <ShortDescription>You are in the Shaman's Hut and may train here.  Congratulations!</ShortDescription>
+  <LongDescription>You have certainly come a long way, and now may take a seat around the
+campfire to give advice and council to the Chief.  You may also select a 
+second mate and a larger hut if you wish.</LongDescription>
+  <LowLevel>9</LowLevel>
+  
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1845</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

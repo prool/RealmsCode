@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="4005" Version="2.40a" Area="ocean">
+  <Name>Shrine of Corellion Larethian</Name>
+  <ShortDescription>This structure is a monument to the god, Corellion Larethian.</ShortDescription>
+  <LongDescription>The shrine shares a similar design with the traditonal Greek 
+ampitheaters.  Hundreds of onlookers are seen gazing towards the
+central altar, as if in a hypnotic trance, as the sacred invocation
+of Corellion Larethian is being performed by the high priestess.</LongDescription>
+  
+  <Established>771740317</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">652</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">655</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

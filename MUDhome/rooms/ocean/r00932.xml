@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="932" Version="2.40" Area="ocean">
+  <Name>Jacob's Repair Shoppe</Name>
+  <ShortDescription>Jacob has been fixing weapons and armor for over 200 years. </ShortDescription>
+  <LongDescription>You breathe a sigh of relief as you walk into the repair shop.  
+You didn't really want to travel all the way back to Brownhaven
+to fix your broken equipment.  Hopefully the smithy won't break
+your weapons as often.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">931</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

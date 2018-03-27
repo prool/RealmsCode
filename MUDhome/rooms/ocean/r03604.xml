@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<Room Num="3604" Version="2.40a" Area="ocean">
+  <Name>Corridor Intersection</Name>
+  <ShortDescription>You are at a corridor intersection near Castle Ragnar's main gate.</ShortDescription>
+  <LongDescription>The great corridor runs east and west from here, while the main courtyard
+is directly south.  Many of the visitors to the castle have set up vending
+booths on the flagstone courtyard of the castle.  Directly north is the
+great arch leading to the castle's main gate and the palace guard head-
+quarters.  West of here is the Knight's Walk, while the Ladies Walk is
+to the east.</LongDescription>
+  
+  
+  
+  <Established>762644646</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">725</Mob>
+      <Mob Area="ocean" Num="1">725</Mob>
+      <Mob Area="ocean" Num="2">725</Mob>
+      <Mob Area="ocean" Num="3">725</Mob>
+      <Mob Area="ocean" Num="4">726</Mob>
+      <Mob Area="ocean" Num="5">725</Mob>
+      <Mob Area="ocean" Num="6">725</Mob>
+      <Mob Area="ocean" Num="7">725</Mob>
+      <Mob Area="ocean" Num="8">725</Mob>
+      <Mob Area="ocean" Num="9">726</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">727</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures>
+    <CrtRef Num="727" Area="ocean" Version="2.40a">
+      <Name>knight</Name>
+      <Class>6</Class>
+      <Level>9</Level>
+      <Type>1</Type>
+      <Experience>320</Experience>
+      <Coins>
+        <Coin Num="2">138</Coin>
+      </Coins>
+      <Alignment>100</Alignment>
+      <Stats>
+        <Stat Name="Strength">
+          <Current>220</Current>
+          <Max>220</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Dexterity">
+          <Current>140</Current>
+          <Max>140</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Constitution">
+          <Current>140</Current>
+          <Max>140</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Intelligence">
+          <Current>120</Current>
+          <Max>120</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Piety">
+          <Current>200</Current>
+          <Max>200</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Hp">
+          <Current>120</Current>
+          <Max>120</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Mp">
+          <Current>40</Current>
+          <Max>40</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+      </Stats>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="7"/>
+        <Bit Num="8"/>
+        <Bit Num="12"/>
+        <Bit Num="40"/>
+      </Flags>
+      <LastTimes>
+        <LastTime Num="3">
+          <Interval>0</Interval>
+          <LastTime>1206217731</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="4">
+          <Interval>0</Interval>
+          <LastTime>1206217730</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="6">
+          <Interval>0</Interval>
+          <LastTime>1206217730</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="8">
+          <Interval>55</Interval>
+          <LastTime>1206219245</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="41">
+          <Interval>0</Interval>
+          <LastTime>1206217730</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="100">
+          <Interval>45</Interval>
+          <LastTime>1206219261</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="101">
+          <Interval>32</Interval>
+          <LastTime>1206219279</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </LastTimes>
+      <Inventory/>
+    </CrtRef>
+  </Creatures>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3605</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3606</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3607</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="arch">
+      <Keys/>
+      <Room Area="ocean">3602</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,19 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  regeneration spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 40
+School:  Not Castable
+Domain:  Healing
+
+The regeneration spell temporarily grants the target a magical means of
+recovering from wounds, increasing their natural rate of healing. A
+character under the regeneration spell will heal more quickly than normal.
+If the target of the spell is being affected by festering wounds, the
+regeneration spell will expend itself to heal the wounds.
+
+This spell cannot be cast on the undead. Only druids and clerics may
+cast this spell.
+
+Syntax:
+cast regeneration <target>
+

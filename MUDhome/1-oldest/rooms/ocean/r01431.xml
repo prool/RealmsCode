@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1431" Version="2.40" Area="ocean">
+  <Name>Stairwell</Name>
+  <ShortDescription>You are in a stairwell connecting the gaming lounge to the second floor.</ShortDescription>
+  <LongDescription>This stairwell is used primarily by the mages coming down to challenge
+the prisoners who are in the game lounge.  The mages enjoy using their
+magic on the prisoners as there is no one else in the world to use it
+on.  The mages have not dared to leave the palace in numbers for ages.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1430</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1471</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

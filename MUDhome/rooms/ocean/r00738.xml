@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="738" Version="2.40" Area="ocean">
+  <Name>Highland Avenue/Oceancrest Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Highland Avenue and Oceancrest Avenue.</ShortDescription>
+  <LongDescription>Oceancrest Avenue runs west from the intersection with Highland Avenue,
+which runs north and south.  On the east side of the intersection is the
+eastern entrance to the city.  Leaving through the east will take you
+into the plains beyond the city, a relatively dangerous place, roamed by
+barbarian hordes and other bandits.  This path is the quickest way to
+the mountains, but is also the most dangerous.  The cities of Brownhaven,
+Hafnia and Kista lie to the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>gate</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">737</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">739</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">764</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">5300</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

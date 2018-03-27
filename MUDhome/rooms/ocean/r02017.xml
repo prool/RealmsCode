@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="2017" Version="2.40" Area="ocean">
+  <Name>The Red Dragon Tavern</Name>
+  <ShortDescription>The Red Dragon Tavern is perhaps the most popular place to visit in Kista.</ShortDescription>
+  <LongDescription>The tavern is well kept by Kaliv and Crystal, who have claimed (while
+under the influence) that they have single-handedly killed a red dragon
+after it had burned off all their armor and melted their weapons.  They
+claim to have used their last remaining magic spells to finally subdue
+the dragon.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">208</Mob>
+      <Mob Area="ocean" Num="1">208</Mob>
+      <Mob Area="ocean" Num="2">210</Mob>
+      <Mob Area="ocean" Num="3">209</Mob>
+      <Mob Area="ocean" Num="4">209</Mob>
+      <Mob Area="ocean" Num="5">208</Mob>
+      <Mob Area="ocean" Num="6">211</Mob>
+      <Mob Area="ocean" Num="7">207</Mob>
+      <Mob Area="ocean" Num="8">206</Mob>
+      <Mob Area="ocean" Num="9">209</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2511</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

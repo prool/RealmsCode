@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1711" Version="2.40" Area="ocean">
+  <Name>Melbourne Avenue</Name>
+  <ShortDescription>You are walking along Melbourne Avenue, west of a number of small shops.</ShortDescription>
+  <LongDescription>Melbourne Avenue is one of the most popular streets in Oceancrest because
+it runs past all the various shops and facilities located in the south-
+eastern section of town.  On the east, you can see the Royal Jousting
+Supplies shop where a number of polearms and other jousting weapons may 
+be purchased for general use or training.  Since this is the poorer 
+section of town, you can't expect much here to be of that great of quality.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1712</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1710</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2287</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

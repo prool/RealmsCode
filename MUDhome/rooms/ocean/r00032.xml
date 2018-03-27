@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="32" Version="2.40" Area="ocean">
+  <Name>Vickers Wine Cellar</Name>
+  <ShortDescription>You are in the small cellar under the old Vickers House.</ShortDescription>
+  <LongDescription>Wine bottles in dusty racks line the walls, and a small sampling table
+is near the center of the room.  You see a corking machine and several
+empty bottles near a large wooden vat.</LongDescription>
+  
+  <Established>785783334</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">734</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">743</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">179</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

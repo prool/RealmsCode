@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<Room Num="875" Version="2.41b" Area="ocean">
+  <Name>Wagon Clearing</Name>
+  <ShortDescription>You are in a clearing between the campfire and several large wagons.</ShortDescription>
+  <LongDescription>The large blue wagon belongs to the king of the gypsys, while Madame
+Nicolov occupies the bright red wagon.  Some type of heavy animal,
+with a great shaggy head, grazes between the wagons.  A faded green
+wagon is next to an orange one, and a huge brown wagon is a little
+apart from the others.  The campfire in the clearing is to the south.</LongDescription>
+  <HighLevel>10</HighLevel>
+  
+  <Established>755818166</Established>
+  <Flags>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">389</Mob>
+      <Mob Area="ocean" Num="1">389</Mob>
+      <Mob Area="ocean" Num="2">389</Mob>
+      <Mob Area="ocean" Num="3">389</Mob>
+      <Mob Area="ocean" Num="4">390</Mob>
+      <Mob Area="ocean" Num="5">390</Mob>
+      <Mob Area="ocean" Num="6">390</Mob>
+      <Mob Area="ocean" Num="7">388</Mob>
+      <Mob Area="ocean" Num="8">396</Mob>
+      <Mob Area="ocean" Num="9">400</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>green wagon</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="red wagon">
+      <Keys/>
+      <Room Area="ocean">879</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="blue wagon">
+      <Keys/>
+      <Room Area="ocean">876</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="green wagon">
+      <Keys/>
+      <Room Area="ocean">873</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="orange wagon">
+      <Keys/>
+      <Room Area="ocean">874</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">872</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

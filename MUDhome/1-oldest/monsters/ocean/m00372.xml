@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<Creature Num="372" Area="ocean" Version="2.40">
+  <Name>Marbella the Arch Mage</Name>
+  <Class>5</Class>
+  <Level>26</Level>
+  <Type>1</Type>
+  <Experience>1800</Experience>
+  <Coins>
+    <Coin Num="2">25000</Coin>
+  </Coins>
+  <Alignment>100</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>105</Current>
+      <Max>105</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>5000</Current>
+      <Max>5000</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>Dressed in an emerald green robe, the elven mage looks at you with curiosity.</Description>
+  <Keys>
+    <Key Num="0">marbella</Key>
+    <Key Num="1">arch</Key>
+    <Key Num="2">mage</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>910</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>2</Number>
+    <Sides>5</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>For what purpose do you seek me?</Talk>
+  <DefenseSkill>255</DefenseSkill>
+  <AttackPower>130</AttackPower>
+  <WeaponSkill>255</WeaponSkill>
+  <CarriedItems/>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects>
+    <Effect>
+      <Name>resist-magic</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+  </Effects>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="11"/>
+    <Bit Num="14"/>
+    <Bit Num="18"/>
+    <Bit Num="19"/>
+    <Bit Num="38"/>
+    <Bit Num="39"/>
+    <Bit Num="40"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="8"/>
+    <Bit Num="15"/>
+    <Bit Num="17"/>
+    <Bit Num="20"/>
+    <Bit Num="23"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

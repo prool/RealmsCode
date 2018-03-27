@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="2936" Version="2.40" Area="ocean">
+  <Name>Ashton River Road</Name>
+  <ShortDescription>You are on the east bank of the Ashton River, on a wide dirt road.</ShortDescription>
+  <LongDescription>Further north, the road has been washed out, but through the woods to
+the east you can see a strange sight...  There's a house built on a canopy
+of ropes strung between the trees!  It seems to be swaying gently in the
+strong breeze coming from the mountains, creaking as it flexes on its odd
+foundation.  A rope ladder hangs to the ground.</LongDescription>
+  
+  <Established>759021029</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2935</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="path">
+      <Keys/>
+      <Room Area="ocean">2938</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5407</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

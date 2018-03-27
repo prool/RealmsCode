@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="397" Version="2.40" Area="ocean">
+  <Name>Hofton Avenue Bridge</Name>
+  <ShortDescription>You are walking over a small bridge crossing a river flowing north to south.</ShortDescription>
+  <LongDescription>The wide and rapid river seems to head into the forest on the south side of
+the road, but there doesn't seem to be any way to get down to the river.
+Hofton Avenue continues to the east and west, running parallel to the
+northern City Walls.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">396</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">398</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3944</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

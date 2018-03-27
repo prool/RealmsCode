@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="28" Version="2.40" Area="ocean">
+  <Name>Frodorab's Fine Boots and Shoes</Name>
+  <ShortDescription>This is the bootery of Frodorab, the finest shoemaker in the village.</ShortDescription>
+  <LongDescription>Hobbits have long been known for their craftsmanship with shoes and tools,
+and Frodorab is one of the best.  He makes boots and shoes of all sizes,
+for any race.  If you have seven toes or three, he can make the shoe fit.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="11"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">111</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

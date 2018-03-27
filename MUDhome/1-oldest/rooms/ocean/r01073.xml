@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="1073" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, just west of a nightclub-like building.</ShortDescription>
+  <LongDescription>In mysterious glowing letters, the words "Silk Dreams" lights up the
+sky and the building to the east.  There appears to be a lot of activity
+in the building, but it looks like access is pretty restrictive.  There
+is a burly bouncer at the door into the building that doesn't look like
+he's having that good of a time watching people walk by.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">7</Mob>
+      <Mob Area="ocean" Num="4">7</Mob>
+      <Mob Area="ocean" Num="5">65</Mob>
+      <Mob Area="ocean" Num="6">4</Mob>
+      <Mob Area="ocean" Num="7">4</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1072</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1074</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1940</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5708" Version="2.40" Area="ocean">
+  <Name>Boran Street</Name>
+  <ShortDescription>You are traveling on Boran Street, on the west side of Phexton Village.</ShortDescription>
+  <LongDescription>Shops line the west side of the street, and the peaceful village green
+is on the east side.  The green is a pleasant park where many of the 
+residents like to spend the afternoon.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5707</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5709</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

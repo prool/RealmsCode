@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="587" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are on Leviathan Drive, between the Rodaisl Complex and the Shrine.</ShortDescription>
+  <LongDescription>The Rodaisl Community Housing Complex is located on the east side of the
+road, providing housing to thousands of Oceancrest citizens.  Individual
+houses cannot be built inside the city due to the large population and the
+confining City Walls.  The compromise was the construction of two Housing
+Complexes to house the citizens of Oceancrest within the safety of the
+City Walls.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">586</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">588</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

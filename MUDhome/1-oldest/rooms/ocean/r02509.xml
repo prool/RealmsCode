@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2509" Version="2.40" Area="ocean">
+  <Name>Tiamat Lane</Name>
+  <ShortDescription>You are traveling along Tiamat Lane, north of the Kista Towers.</ShortDescription>
+  <LongDescription>The Towers soar far into the clouds over your head, making you feel like
+a country bumpkin as you tilt your head back to look.  But the Towers are 
+impressive!  On the north side of the street you see a fellowship hall for
+members of the Royal Order of Trackers and Rangers.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2020</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2510</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Object Num="778" Area="ocean" Version="2.40">
+  <Name>oceancrest sign</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">sign</Key>
+    <Key Num="1">celduin</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="17"/>
+  </Flags>
+  <Description>You see a large note with important information about the city.</Description>
+  <Type>14</Type>
+  <InBag/>
+</Object>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1689" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are walking along Golden Dolphin Way, south of the Oceancrest Stables.</ShortDescription>
+  <LongDescription>The Oceancrest Stables and Walking Yards are to the north of Golden 
+Dolphin Way, providing very luxurious accomodations for long term visitors
+of Oceancrest.  The Walking Yard allows horses to get their daily
+exercise without having to take them out into the fields or out of
+town.  There is not a lot of walking space along the streets with all
+the other pedestrian traffic.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1688</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1690</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

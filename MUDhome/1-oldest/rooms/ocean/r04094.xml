@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="4094" Version="2.40" Area="ocean">
+  <Name>Mud Pool</Name>
+  <ShortDescription>You are standing in a shallow pool of mud.</ShortDescription>
+  <LongDescription>Before you, you see a vast underground pool which has been muddied by the
+soft dirt walls which contain it.  The murky, dark waters make it impossible
+to see what may lie within the pool itself.  However, several small ripples
+which move toward your direction indicate that something may be approaching,
+completely submerged and masked from your sight.</LongDescription>
+  
+  <Established>774576581</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="22"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">680</Mob>
+      <Mob Area="ocean" Num="1">680</Mob>
+      <Mob Area="ocean" Num="2">680</Mob>
+      <Mob Area="ocean" Num="3">682</Mob>
+      <Mob Area="ocean" Num="4">682</Mob>
+      <Mob Area="ocean" Num="5">682</Mob>
+      <Mob Area="ocean" Num="6">680</Mob>
+      <Mob Area="ocean" Num="7">680</Mob>
+      <Mob Area="ocean" Num="8">680</Mob>
+      <Mob Area="ocean" Num="9">682</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4093</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="slope">
+      <Keys/>
+      <Room Area="ocean">4095</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

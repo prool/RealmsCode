@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="2125" Version="2.40" Area="ocean">
+  <Name>Dark Forest Exhibit</Name>
+  <ShortDescription>You have wandered into the dark forest exhibit of the Milsene Museum.</ShortDescription>
+  <LongDescription>It's hard to say where the light, happy forest turned into this dark,
+gloomy forest with a number of nasty or otherwise evil creatures lurk
+behind the dense bushes.  The trees have grown taller and cover the
+Museum's skylight, making this area dark and spooky.  Mysterious 
+creatures lie in wait behind every stone.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>18</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">17</Mob>
+      <Mob Area="ocean" Num="1">43</Mob>
+      <Mob Area="ocean" Num="2">46</Mob>
+      <Mob Area="ocean" Num="3">52</Mob>
+      <Mob Area="ocean" Num="4">109</Mob>
+      <Mob Area="ocean" Num="5">118</Mob>
+      <Mob Area="ocean" Num="6">89</Mob>
+      <Mob Area="ocean" Num="7">90</Mob>
+      <Mob Area="ocean" Num="8">189</Mob>
+      <Mob Area="ocean" Num="9">195</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2124</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2148" Version="2.40" Area="ocean">
+  <Name>Wet Forest Path</Name>
+  <ShortDescription>You are on a muddy path beside a pond in the enchanted forest.</ShortDescription>
+  <LongDescription>the pond is rather shallow here, but appears to get deeper toward the north.
+trees grow in the water, and moss hangs from everything.  The path is not
+well defined, and the mud is rather slippery.  It's kinda gloomy, don't
+you think?  An owl hoots in the distance, and there's some noise you can't
+identify closer by.</LongDescription>
+  
+  <Established>759012643</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2149</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2147</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

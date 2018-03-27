@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3862" Version="2.40" Area="ocean">
+  <Name>Steamy Jungle Trail</Name>
+  <ShortDescription>You are on a hot and steamy path leading east and west through the jungle.</ShortDescription>
+  <LongDescription>Heavy vines hang from the trees and monkeys chatter overhead, watching
+you as you travel along the poorly defined path.  A family of ettercaps
+has been reported to live on this section of the island, but you haven't
+seen any evidence of that yet.  It's surprising how quiet the jungle
+can be, and then suddenly it erupts with noise.  When the monkeys stop
+their chattering it may be a bad sign that something dangerous is nearby.</LongDescription>
+  
+  <Established>768681157</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3861</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3863</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3876</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

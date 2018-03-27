@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="68" Version="2.40" Area="ocean">
+  <Name>South Plasnelt Park</Name>
+  <ShortDescription>You are on the south side of Plasnelt Road, in the common man's park.</ShortDescription>
+  <LongDescription>Actually, when the park was built, the village elders thought of the north
+and south parks as simply one park.  It didn't take long however, for the
+residents to segregate themselves into separate groups.  The poor people
+who generally live on the east side of town come to this southern section,
+and leave the northern side to the rich snobs who live on the west side.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">88</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">69</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

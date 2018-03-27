@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1117" Version="2.40" Area="ocean">
+  <Name>Marina Way/Overland Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Overland Drive and Marina Way.</ShortDescription>
+  <LongDescription>Marina Way runs north to south through most of town, and acts primarily
+as a delivery route for most of the shops to the west.  The main entrance
+to these shops is located off of Main Street.  Overland Drive heads 
+through the large estates of the wealthy Oceancrestillians to the east.
+It also heads west towards the administrative sections of the town.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1118</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1116</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1164</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1135</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

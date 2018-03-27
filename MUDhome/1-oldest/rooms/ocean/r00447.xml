@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="447" Version="2.40" Area="ocean">
+  <Name>Adlermann Way</Name>
+  <ShortDescription>You are on Adlermann Way, between Al's Woodwork and the City Walls.</ShortDescription>
+  <LongDescription>Al's Woodwork provides a number of interesting, but otherwise useless wood
+statues and other carvings to decorate homes and castles.  He is supposed
+to know a lot about the wood, though, and claims wood spirits inhabit
+all the wood growing inside the city of Oceancrest.  All the wood he uses
+comes from outside the city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">446</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">448</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

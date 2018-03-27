@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="3266" Version="2.41a" Area="ocean">
+  <Name>Carriage Lane</Name>
+  <ShortDescription>You are in the carriage lane for the Ogden Villa Estate.</ShortDescription>
+  <LongDescription>to the north is the gate which exits to Overland Drive, and on both sides
+of you are well kept gardens and grounds.  Your view is blocked by hedges 
+on the southwest side.</LongDescription>
+  
+  <Established>756160994</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">3265</Room>
+      <Key>42</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3267</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

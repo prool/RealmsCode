@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="168" Area="ocean" Version="2.40">
+  <Name>small throwing axe</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>6</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">throwing </Key>
+    <Key Num="1">axe</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>The axe is small and easily handled.</Description>
+  <Weight>3</Weight>
+  <Type>5</Type>
+  <SubType>axe</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

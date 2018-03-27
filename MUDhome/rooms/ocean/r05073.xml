@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="5073" Version="2.40" Area="ocean">
+  <Name>Sky Over the Kista Forest</Name>
+  <ShortDescription>You are on the back of a copper dragon.  75.n0.e24.s7.w0</ShortDescription>
+  <LongDescription>Nothing but trees, for as far as you can see.  From this height, it's like 
+a green carpet covering the land.  From time-to-time, there is another rider
+in the sky.  He seems to be riding a copper dragon also, but is pretty far
+away, and may not see you.</LongDescription>
+  
+  <Established>773816993</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5048</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5074</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5075</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5076</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

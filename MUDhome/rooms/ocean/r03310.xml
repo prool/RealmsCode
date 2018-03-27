@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3310" Version="2.40" Area="ocean">
+  <Name>Southeast Corner</Name>
+  
+  <Established>758611421</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7500</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">446</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>7500</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">446</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3307</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3309</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

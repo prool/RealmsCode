@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="3804" Version="2.40" Area="ocean">
+  <Name>Carnival Midway</Name>
+  <ShortDescription>You are on the main concourse of a very popular Carnival and Sideshow.</ShortDescription>
+  <LongDescription>The crowd surges and pushes as the barker proclaims the wonders of the
+world for only one gold piece.  You see dwarves, elves, orcs, half-giants,
+gnomes, and humans all pushing each other to get a glimpse of the inside
+of the tents.  Looks like the barker has deliberately left the flap open
+a little to give the crowd a tantalizing peek.  It's a strange world
+where people will pay money to laugh at a freak.</LongDescription>
+  
+  <Established>765769390</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">605</Mob>
+      <Mob Area="ocean" Num="1">605</Mob>
+      <Mob Area="ocean" Num="2">605</Mob>
+      <Mob Area="ocean" Num="3">605</Mob>
+      <Mob Area="ocean" Num="4">605</Mob>
+      <Mob Area="ocean" Num="5">605</Mob>
+      <Mob Area="ocean" Num="6">605</Mob>
+      <Mob Area="ocean" Num="7">605</Mob>
+      <Mob Area="ocean" Num="8">605</Mob>
+      <Mob Area="ocean" Num="9">605</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3803</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3805</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

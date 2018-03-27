@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="1907" Version="2.40" Area="ocean">
+  <Name>Monster Feeding Grounds</Name>
+  <ShortDescription>You are in an ugly-looking arena with scattered bones lying about.</ShortDescription>
+  <LongDescription>The Monsters seldom pick up after themselves, and the guards don't like
+to even enter this dangerous arena.  Those who die here are left to be
+digested by the monsters that ate them.  The Gladiator Pits are to the
+east and the One-on-One combat arena is to the north.  Only one person
+can be in that arena at once.  The monsters are starting to smell some
+fresh meat so you had better be on your guard.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">29</Mob>
+      <Mob Area="ocean" Num="1">27</Mob>
+      <Mob Area="ocean" Num="2">110</Mob>
+      <Mob Area="ocean" Num="3">141</Mob>
+      <Mob Area="ocean" Num="4">194</Mob>
+      <Mob Area="ocean" Num="5">195</Mob>
+      <Mob Area="ocean" Num="6">218</Mob>
+      <Mob Area="ocean" Num="7">219</Mob>
+      <Mob Area="ocean" Num="8">131</Mob>
+      <Mob Area="ocean" Num="9">109</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1906</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1908</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3981" Version="2.40" Area="ocean">
+  <Name>Trantori's Redwood</Name>
+  <ShortDescription>You are inside a hollow part of a giant redwood tree.</ShortDescription>
+  <LongDescription>there is hole leading out onto a large branch nearby, and ladder rungs are
+nailed to the inside of the huge trunk.  They disappear into the dark as
+you look both up and down.  Outside, you can see a staircase attached to the
+side of the tree, and it seems to spiral out of sight also.  But at least
+its not dark out there.</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3951</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3982</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3987</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

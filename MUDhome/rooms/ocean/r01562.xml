@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="1562" Version="2.40" Area="ocean">
+  <Name>Forest Brook</Name>
+  <ShortDescription>There is a small stream here bringing water in from the north.</ShortDescription>
+  <LongDescription>The small brook does not really catch your attention until you step
+into the mud.  The brook is fairly well hidden under the brush and trees,
+but it manages to bring a lot of water into the forest of Etolos.  The
+brook heads off to the south through the inner circles of Etolos.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">177</Mob>
+      <Mob Area="ocean" Num="1">177</Mob>
+      <Mob Area="ocean" Num="2">178</Mob>
+      <Mob Area="ocean" Num="3">178</Mob>
+      <Mob Area="ocean" Num="4">177</Mob>
+      <Mob Area="ocean" Num="5">178</Mob>
+      <Mob Area="ocean" Num="6">178</Mob>
+      <Mob Area="ocean" Num="7">177</Mob>
+      <Mob Area="ocean" Num="8">177</Mob>
+      <Mob Area="ocean" Num="9">177</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1557</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1561</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1563</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1565</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

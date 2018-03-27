@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="1928" Version="2.41a" Area="ocean">
+  <Name>Rudolph's Fighting Academy</Name>
+  <ShortDescription>Welcome to Rudolph's Fighting Academy, training location for fighters.</ShortDescription>
+  <LongDescription>Rudolph's Fighting Academy is a moderate-level training location for 
+Fighters wishing to obtain Warrior status.  If you are applying for 
+Warrior status for the first time, you should enter the blue door.  If
+you are applying for Warrior Second Class status, enter the green door.
+If you are applying for Warrior First Class status, enter the red door.
+Behind each door, you will find a single opponent that you must defeat.
+Once defeated in hand-to-hand combat, you will be allowed to train.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1920</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="blue door">
+      <Keys/>
+      <Room Area="ocean">1929</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="green door">
+      <Keys/>
+      <Room Area="ocean">1931</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="red door">
+      <Keys/>
+      <Room Area="ocean">1933</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

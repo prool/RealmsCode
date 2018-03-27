@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<Creature Num="415" Area="ocean" Version="2.40">
+  <Name>frost salamander</Name>
+  <Level>10</Level>
+  <Type>1</Type>
+  <Experience>400</Experience>
+  <Coins>
+    <Coin Num="2">300</Coin>
+  </Coins>
+  <Alignment>-35</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>A huge white and blue salamander that sends a chill through your body.</Description>
+  <Keys>
+    <Key Num="0">salamander</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>275</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>4</Number>
+    <Sides>4</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk></Talk>
+  <NumWander>1</NumWander>
+  <DefenseSkill>95</DefenseSkill>
+  <AttackPower>200</AttackPower>
+  <WeaponSkill>95</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">482</Carry>
+    <Carry Area="ocean" Num="1">482</Carry>
+    <Carry Area="ocean" Num="2">482</Carry>
+    <Carry Area="ocean" Num="3">482</Carry>
+    <Carry Area="ocean" Num="5">517</Carry>
+    <Carry Area="ocean" Num="6">517</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects>
+    <Effect>
+      <Name>resist-magic</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+  </Effects>
+  <SpecialAttacks>
+    <SpecialAttack>
+      <Name>Fire Breath</Name>
+      <Verb>breathes fire on</Verb>
+      <TargetStr>^r*ATTACKER* breathes fire on you!*CR*You take ^R*DAMAGE*^r damage!^x</TargetStr>
+      <TargetFailStr></TargetFailStr>
+      <RoomFailStr></RoomFailStr>
+      <SelfStr></SelfStr>
+      <RoomStr>^r*ATTACKER* breathes fire on *LOW-TARGET*!^x</RoomStr>
+      <TargetSaveStr>^cYou almost manage to dive out of the way.^x</TargetSaveStr>
+      <SelfSaveStr></SelfSaveStr>
+      <RoomSaveStr>*TARGET* almost dives out of the way.</RoomSaveStr>
+      <Limit>0</Limit>
+      <Delay>60</Delay>
+      <Chance>20</Chance>
+      <StunLength>0</StunLength>
+      <Type>3</Type>
+      <SaveType>4</SaveType>
+      <SaveBonus>0</SaveBonus>
+      <MaxBonus>0</MaxBonus>
+      <Flags>
+        <Bit Num="1"/>
+      </Flags>
+      <Dice>
+        <Number>10</Number>
+        <Sides>4</Sides>
+        <Plus>0</Plus>
+      </Dice>
+    </SpecialAttack>
+  </SpecialAttacks>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="34"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

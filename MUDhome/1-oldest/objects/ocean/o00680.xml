@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="680" Area="ocean" Version="2.40">
+  <Name>drow crossbow</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>65</ShotsMax>
+  <ShotsCur>65</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>7</Sides>
+    <Plus>7</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">6000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">drow</Key>
+    <Key Num="1">crossbow</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="13"/>
+  </Flags>
+  <Description>The drow crossbow is legdanary for it's great range and powerful bolts.</Description>
+  <Weight>3</Weight>
+  <Type>5</Type>
+  <SubType>crossbow</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

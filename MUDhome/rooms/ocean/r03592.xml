@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Room Num="3592" Version="2.40" Area="ocean">
+  <Name>Protector's Antechamber</Name>
+  <ShortDescription>This is where clerics of the protector title come to advance.</ShortDescription>
+  <LongDescription>For those protectors of first rank, use the door on the right.  Those
+who are second rank wishing to advance to the third rank protector, use
+the middle door, and those wishing to advance to the rank of adept, use
+the left door.</LongDescription>
+  <LowLevel>4</LowLevel>
+  <HighLevel>6</HighLevel>
+  
+  <Established>771842457</Established>
+  <Flags>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>left door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1811</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="right door">
+      <Keys/>
+      <Room Area="ocean">3595</Room>
+      <Key>87</Key>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="middle door">
+      <Keys/>
+      <Room Area="ocean">3595</Room>
+      <Key>88</Key>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="left door">
+      <Keys/>
+      <Room Area="ocean">3595</Room>
+      <Key>89</Key>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

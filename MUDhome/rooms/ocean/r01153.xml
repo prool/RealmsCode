@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1153" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard/Overland Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Eidenhoft Boulevard and Overland Drive.</ShortDescription>
+  <LongDescription>Eidenhoft Boulevard takes a turn towards the southwest at this intersection.
+The turn looks a little odd, considering how well the other streets in the
+city are laid out, but if it continued to the south it would run into the
+Ogden Family Villa.  The Ogden family, being one of the richest and most
+influential in Oceancrest, paid the city to make the road go around their
+house instead of having to move.  Overland Drive heads east and west, and
+eventually passes by what most people believe to be a haunted house.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1152</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1154</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1163</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1258</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

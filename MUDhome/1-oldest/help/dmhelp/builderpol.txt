@@ -1,0 +1,91 @@
+Builder Policies
+
+1) Read the Realms Policy. All rules in there apply to you.
+
+2) Do NOT change any rooms that already exist. You are only allowed
+to modify rooms that are in YOUR set. If you change any rooms that
+are not assigned to you in the list room, you will be fired.
+
+3) In order to remain a builder, you must meet all deadlines which
+are imposed upon you, if any. We promise these deadlines will be
+realistic, and they're in place so we don't have areas that go
+uncompleted and sit around for years (it's happened in the past).
+
+4) Builder characters are not allowed in any open part of the mud
+unless ordered there by a DM or CT which is online. There are two
+reasons for this:
+
+    a) We don't want you changing existing rooms in the mud, and
+       this is the simplest way to enforce this.
+    b) We don't want you interacting with players in any way, and
+       again, this is the easiest way to enforce this.
+
+5) You may not interact with the players in ANY way with your builder
+character. Your builder characters are for building. If you want to
+talk to other players, log in a different character.
+
+6) Do not tell players ANY information they cannot get through regular
+play, either with your builder, OR with ANY of your other
+players. This is pretty cut and dry....
+
+7) If you have completed your area, do NOT open it to the rest of the
+mud. A DM must look over your area before it can be opened to the
+public. Keep in mind, as a builder, you can't make mobs, and none of
+you can make objects, so your areas will never be ready to open until
+all mobs are made, objects are put in, and the area is approved
+ultimately by a DM.
+
+8) Do not tell anyone you have a builder character. This is mainly
+for your own protection, because if you tell players you have a
+builder, they will bug you to death trying to get you to do stuff
+for them. It will cause a political mess that we don't want to deal
+with.
+
+9) Do not leave your assigned area without the expressed permission
+of a DM or CT which is currently online. If you do so, it will be
+logged, and you might have some explaining to do. If you want to talk
+to another builder, then use send/tell or *msg. That is what
+they are there for.
+
+10) As per number 5 above, do not divulge ANY information you gain
+while online as a builder to players EVER. This includes
+ANYTHING the DMs or CTs say or do, and anything you might learn. Being
+a builder makes you privilege to this information, as you
+are part of the staff now. Do not break this trust, or it will be
+proven that you cannot be relied upon, and you will most likely be
+fired.
+
+11) NO MATTER WHAT happens to your player character, NEVER log on your
+builder with the sole purpose of talking to DMs/CTs. Your
+builder is for building, it's not a means which to bitch
+at the staff because something happens to your player. NOTHING
+aggravates the DMs more then people who have done this in the past,
+aside from something like crashing the game.
+
+12) Builders may not share characters, sell them, or
+give them away at any time. As a builder you are able
+to receive rewards for completing areas. These rewards most often
+make your character level easier or higher. Because of this, we do
+not allow you to sell, share, or give away any of your characters,
+as the people you sell/share/give them to did NOT build for us to
+main the rewards which helped you. This is even the case between two
+builders, as we do not want to bother keeping track of that. If you
+wish to quit a character, either keep it and dont use it, or suicide
+it.
+
+
+As a builder, if you break ANY of these rules, you could be
+immediately fired. If you are fired you will NOT be rehired under
+ANY circumstances. These rules are very sensible, and thought out.
+We want a balanced, fun mud, and these rules are just guidelines to
+help us achieve this goal. We cannot tolerate people who will break
+these rules.
+
+Note that this policy is not set in stone, and it can change at any
+time. The word of the DMs is law. Just because something isn't written
+in this document for some reason, does not mean it is ok to ignore a
+direction from a DM.
+
+(Last update, 15/02/03)
+
+

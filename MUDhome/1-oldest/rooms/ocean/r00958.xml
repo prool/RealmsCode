@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<Room Num="958" Version="2.40" Area="ocean">
+  <Name>The Widow Maker Main Deck</Name>
+  <ShortDescription>You are near the center of the main deck of the pirate ship Widow Maker.</ShortDescription>
+  <LongDescription>At the center of the ship, you can see the masthead where you can try
+to climb up to the crow's nest.  The crow's nest is the official look-
+out for the captain and the crew.  However, since the ship is docked
+in the port, it is unlikely that anyone is up there right now.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">308</Mob>
+      <Mob Area="ocean" Num="1">308</Mob>
+      <Mob Area="ocean" Num="2">308</Mob>
+      <Mob Area="ocean" Num="3">309</Mob>
+      <Mob Area="ocean" Num="4">309</Mob>
+      <Mob Area="ocean" Num="5">310</Mob>
+      <Mob Area="ocean" Num="6">310</Mob>
+      <Mob Area="ocean" Num="7">311</Mob>
+      <Mob Area="ocean" Num="8">309</Mob>
+      <Mob Area="ocean" Num="9">308</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">961</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">952</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">959</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">957</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3701</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

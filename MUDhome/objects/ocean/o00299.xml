@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="299" Area="ocean" Version="2.40">
+  <Name>warboard</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>35</ShotsMax>
+  <ShotsCur>35</ShotsCur>
+  <Armor>44</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">3000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">board</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>This smaller metal shield only provides protection for smaller races.</Description>
+  <Weight>10</Weight>
+  <Type>6</Type>
+  <SubType>shield</SubType>
+  <WearFlag>18</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<Room Num="5" Version="2.40a" Area="ocean">
+  <Name>Garth's Room of Quiet Thought</Name>
+  <ShortDescription>You've entered Garth's very own, personal room of thought.</ShortDescription>
+  <LongDescription>Tacked up on the walls are lists of m0dz he is planning to make to
+the game as well as posters of users who have been naughty and deserve
+to be deleted.  There are three buttons next to the door.  One is
+red, one is blue and the other is grey.</LongDescription>
+  <Trap>3</Trap>
+  <TrapExit Area="ocean">1</TrapExit>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="5"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters>
+      <Mob Area="ocean">199</Mob>
+      <Mob Area="ocean" Num="1">199</Mob>
+      <Mob Area="ocean" Num="2">199</Mob>
+      <Mob Area="ocean" Num="3">199</Mob>
+      <Mob Area="ocean" Num="4">199</Mob>
+      <Mob Area="ocean" Num="5">3</Mob>
+      <Mob Area="ocean" Num="6">3</Mob>
+      <Mob Area="ocean" Num="7">3</Mob>
+      <Mob Area="ocean" Num="8">3</Mob>
+      <Mob Area="ocean" Num="9">3</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">233</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">234</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">235</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects>
+    <ObjRef Num="235" Area="ocean" Version="2.40a">
+      <Name>blue button</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>2</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value/>
+      <Keys>
+        <Key Num="0">button</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="233" Area="ocean" Version="2.40a">
+      <Name>grey button</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>1</Number>
+        <Sides>0</Sides>
+        <Plus>2</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">1</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">button</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="234" Area="ocean" Version="2.40a">
+      <Name>red button</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>1</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value/>
+      <Keys>
+        <Key Num="0">button</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+  </Objects>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

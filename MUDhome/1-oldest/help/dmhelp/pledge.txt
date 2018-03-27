@@ -1,0 +1,15 @@
+                      #    pledge          rescind
+
+Obsidian Blade        1    Drakken Port    Drakken Port
+Crusader's Order      2    Sigil           Sigil
+Devil Knights         3    Caladon         Caladon
+Clan of Gradius       4    Gradius Keep    Gradius Keep
+Code Warriors         5    nowhere         nowhere
+Dragon Warriors       6    Baladus Plains  Baladus Plains
+Shadow Masters        7    Caladon         Ft. Baladus
+Highport Guard        8    Highport        Highport 
+Wizard's Eye          9    ?               ?
+Order of Vlad        10    Togago          Sigil
+Holy Order of Enoch  11    Sigil           Sigil
+Cult of Aramon       12    Caladon         Caladon
+

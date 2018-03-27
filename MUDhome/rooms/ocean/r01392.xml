@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1392" Version="2.40" Area="ocean">
+  <Name>The Crypt</Name>
+  <ShortDescription>You trip as you stumble into the dark crypt.</ShortDescription>
+  <LongDescription>This crypt was used to store the ashes of ancient generations of 
+ancestors to the Keslar family.  A few are embalmed, but most are
+in urns lining up along the wall.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>86400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">154</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1511</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">1260</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

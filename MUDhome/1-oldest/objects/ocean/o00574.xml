@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Object Num="574" Area="ocean" Version="2.40">
+  <Name>suit of glowing ringmail</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Armor>83</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">26000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">glowing</Key>
+    <Key Num="1">ringmail</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="15"/>
+    <Bit Num="19"/>
+    <Bit Num="33"/>
+    <Bit Num="34"/>
+    <Bit Num="35"/>
+    <Bit Num="37"/>
+  </Flags>
+  <Description>It's constructed of tiny rings, nearly as protective as plate mail.</Description>
+  <Weight>16</Weight>
+  <Type>6</Type>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3806" Version="2.40" Area="ocean">
+  <Name>Milus' Magic Miracles</Name>
+  <ShortDescription>You are standing behind a big crowd watching the Illusionist's show.</ShortDescription>
+  <LongDescription>The Illusionist and his beautiful assistant are talented gnomish 
+prestidigitators who are entertaining the visitors with various
+illiusions which you have never seen before.  The illiusions require
+deep concentration and thought, so try to be quiet and not disturb
+the masters of magic.  Maybe there is something else here which you will
+find more interesting?</LongDescription>
+  
+  <Established>765769584</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3805</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3809</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="illusion">
+      <Keys/>
+      <Room Area="ocean">3807</Room>
+      <Flags>
+        <Bit Num="1"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="10" Version="2.40a" Area="ocean">
+  <Name>Wall Road West/Goldenrod Avenue</Name>
+  <ShortDescription>This is the intersection of Goldenrod Avenue and Wall Road West.</ShortDescription>
+  <LongDescription>You have reached the northwest corner of the village of Brownhaven.
+A guard's tower is set in the corner of the wall, and you can see a
+stairwell just inside the wall which appears to provide access to the
+station up there.  The Brownhaven militia isn't very large, but they
+have recruited the meanest and toughest citizens they could find.  The
+guards at this post seem to be typical of the Brownhaven force.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">10</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">11</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">20</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

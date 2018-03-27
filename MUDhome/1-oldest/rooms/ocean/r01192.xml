@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Room Num="1192" Version="2.44b" Area="ocean">
+  <Name>Leviathan Drive/Netherworld Lane Intersection</Name>
+  <ShortDescription>You are at the intersection of Netherworld Lane and Leviathan Drive.</ShortDescription>
+  <LongDescription>Leviathan Drive runs north and south from one end of town to the other.  
+Most notably, Leviathan runs on the west side of most of the major parks
+and natural facilities.  Much of this land was set aside by the town to
+preserve the natural beauty of the land without giving up the protection
+of the City Walls.  Netherworld Lane gets its name because it passes along
+the north side of the eerie Necropolis, located a block to the west.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:46 2009
+</LastPlayerTime>
+  <BeenHere>1</BeenHere>
+  <Wander><Traffic>10</Traffic><RandomMonsters><Mob Area="ocean">4</Mob><Mob Area="ocean" Num="1">4</Mob><Mob Area="ocean" Num="2">9</Mob><Mob Area="ocean" Num="3">3</Mob><Mob Area="ocean" Num="4">1</Mob><Mob Area="ocean" Num="5">6</Mob><Mob Area="ocean" Num="6">1</Mob><Mob Area="ocean" Num="7">7</Mob><Mob Area="ocean" Num="8">1</Mob><Mob Area="ocean" Num="9">4</Mob></RandomMonsters></Wander>
+  <Track><Direction>south</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1191</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1200</Room></Target><Effects></Effects></Exit><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">590</Room></Target><Effects></Effects></Exit><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">1778</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

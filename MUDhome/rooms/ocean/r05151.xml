@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5151" Version="2.40" Area="ocean">
+  <Name>Western Wall of Castle Kayleigh</Name>
+  <ShortDescription>This is a barren and godforsaken hallway, not even a mouse is here.</ShortDescription>
+  <LongDescription>Grime, dirt and ashes cover everything with a fine, black powder.
+The hallway is as quiet as a tomb, and your own footfall is muffled in
+the soft soot on the floor.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5150</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5153</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

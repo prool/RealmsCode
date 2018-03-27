@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="318" Version="2.40" Area="ocean">
+  <Name>Bendine Aquarium Main Hall</Name>
+  <ShortDescription>You are in the Main Hall of the Bendine Aquarium.  The hallway continues
+to the east, and another hallway branches off to the south.  The south
+hallway leads towards the Bendine Marina, outside the complex.  On the
+north, you can see a small room where children are playing with dolphins
+and other apperently harmless creatures.</ShortDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">317</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">319</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">322</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">325</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

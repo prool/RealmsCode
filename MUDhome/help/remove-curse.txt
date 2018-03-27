@@ -1,0 +1,12 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |  Help on:  remove-curse spell  |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 18
+
+This spell allows its target to remove cursed items. Only items worn will have
+the curse lifted from them, and then it will be permenant. Thus, the item will
+forever be un-cursed unless the enchantment is put on the item again.
+
+Syntax:
+cast remove-curse <target>
+

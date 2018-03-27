@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  craft, combine    |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Combine and craft are two commands related to item creation. You may use the in
+two ways:
+
+1. Use the prepare command and prepare the relative items in your inventory.
+   Type "combine" or "craft", and if a combination is possible, a new item
+   will be created.
+
+2. Use the combine or craft command on a recipe - "craft <object>" - and
+   you will follow the recipe and create a new object.
+

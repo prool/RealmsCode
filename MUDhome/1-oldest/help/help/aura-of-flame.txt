@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  aura-of-flame spell   | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 18
+School:  Abjuration
+Domain:  Not Castable
+
+The aura-of-flame spell will surround the target in a shield of magical
+flames, flaring up and burning an enemy whenever the target is struck by
+physical melee damage (bows and thrown weapons do not trigger this spell).
+The damage to the attacker does not vary based on how much damage is dealt.
+
+Syntax:
+cast aura-of-flame <target>
+

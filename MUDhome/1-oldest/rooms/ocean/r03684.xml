@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3684" Version="2.40" Area="ocean">
+  <Name>Tower Tunnel</Name>
+  <ShortDescription>You are in a cramped little tunnel where you can barely turn around.</ShortDescription>
+  <LongDescription>Cold stone, covered with condensation form the walls.  They are clammy to
+the touch.  Steps lead upward from here, and the tunnel slants down at a
+steep angle from here.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>steps</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3683</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="steps">
+      <Keys/>
+      <Room Area="ocean">3685</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

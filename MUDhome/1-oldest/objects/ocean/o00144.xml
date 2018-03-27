@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="144" Area="ocean" Version="2.40">
+  <Name>crystal amulet</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>5</ShotsMax>
+  <ShotsCur>5</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">amulet</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>You see a brilliant crystal trinket attached to a golden necklace.</Description>
+  <UseOutput>A flash of brilliant light surrounds you.</UseOutput>
+  <Weight>3</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>17</MagicPower>
+  <InBag/>
+</Object>

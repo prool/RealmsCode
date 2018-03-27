@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Room Num="98" Version="2.40" Area="ocean">
+  <Name>Erech's Dungeon</Name>
+  <ShortDescription>Get out.</ShortDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">50</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

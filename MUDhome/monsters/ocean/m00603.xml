@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<Creature Num="603" Area="ocean" Version="2.40">
+  <Name>weight lifter</Name>
+  <Level>6</Level>
+  <Type>1</Type>
+  <Experience>140</Experience>
+  <Coins>
+    <Coin Num="2">40</Coin>
+  </Coins>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>220</Current>
+      <Max>220</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>60</Current>
+      <Max>60</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>60</Current>
+      <Max>60</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>75</Current>
+      <Max>75</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>He has rippling muscles on every square inch of his body!</Description>
+  <Keys>
+    <Key Num="0">lifter</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>175</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>4</Number>
+    <Sides>5</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>duhhh</Talk>
+  <DefenseSkill>55</DefenseSkill>
+  <AttackPower>220</AttackPower>
+  <WeaponSkill>55</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">187</Carry>
+    <Carry Area="ocean" Num="1">187</Carry>
+    <Carry Area="ocean" Num="2">187</Carry>
+    <Carry Area="ocean" Num="3">220</Carry>
+    <Carry Area="ocean" Num="4">220</Carry>
+    <Carry Area="ocean" Num="5">220</Carry>
+    <Carry Area="ocean" Num="6">251</Carry>
+    <Carry Area="ocean" Num="7">250</Carry>
+    <Carry Area="ocean" Num="8">259</Carry>
+    <Carry Area="ocean" Num="9">280</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

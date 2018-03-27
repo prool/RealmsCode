@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3241" Version="2.40" Area="ocean">
+  <Name>Water's Edge</Name>
+  <ShortDescription>You are at the water's edge of Lake Kista, enjoying the view and air.</ShortDescription>
+  <LongDescription>Birds wheel in the air and occasionly dip to the water's surface, scooping
+up small fish and other marine life.  The lake looks inviting enough to
+take a swim, but who knows what might be out there?  It's probably better
+to be safe than sorry, and staying on the shore is a prudent action.</LongDescription>
+  
+  <Established>756036563</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">413</Mob>
+      <Mob Area="ocean" Num="1">413</Mob>
+      <Mob Area="ocean" Num="2">289</Mob>
+      <Mob Area="ocean" Num="3">289</Mob>
+      <Mob Area="ocean" Num="4">290</Mob>
+      <Mob Area="ocean" Num="5">290</Mob>
+      <Mob Area="ocean" Num="6">421</Mob>
+      <Mob Area="ocean" Num="7">421</Mob>
+      <Mob Area="ocean" Num="8">422</Mob>
+      <Mob Area="ocean" Num="9">422</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>beach</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3242</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3243</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="beach">
+      <Keys/>
+      <Room Area="ocean">3251</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="5025" Version="2.40" Area="ocean">
+  <Name>Blue Skies</Name>
+  <ShortDescription>You are atop a fast dragon in blue skies.  50.n0.e0.s0.w2</ShortDescription>
+  <LongDescription>There are clouds on either side of you, but it looks like you can fly between
+them with no trouble.  Down below you can see the caravan road which leads
+east and west.  There is a terrible waste land far to the west, and caravans
+often have troubles there.</LongDescription>
+  
+  <Established>772228182</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5022</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5054</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5007</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5030</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

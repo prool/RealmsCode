@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="4500" Version="2.40" Area="ocean">
+  <Name>Vertinio's Apothecary Shoppe</Name>
+  <ShortDescription>You are in an apothercary shoppe run by Vertinio, the earth mage.</ShortDescription>
+  <LongDescription>you may purchase a varity of potions, balms, and other items of magic here.
+There is a list available for customers.</LongDescription>
+  
+  <Established>774484108</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">722</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3636</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

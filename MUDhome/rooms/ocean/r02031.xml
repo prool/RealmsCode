@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<Room Num="2031" Version="2.40" Area="ocean">
+  <Name>Tower Lane</Name>
+  <ShortDescription>You are on Tower Lane, directly in front of the Kista Towers to the north.</ShortDescription>
+  <LongDescription>There is a guard house to the north that leads into the Towers, but
+you can see that the drawbridge is still up.  Swimming through the
+moat doesn't sound like a very smart thing to do.  To the south is the
+main town meeting hall.  The meeting hall is usually pretty busy most
+of the day, but is used for social gatherings in the evenings as well.
+The entry for the Town Hall is on Pearl Avenue.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">146</Mob>
+      <Mob Area="ocean" Num="1">146</Mob>
+      <Mob Area="ocean" Num="2">213</Mob>
+      <Mob Area="ocean" Num="3">214</Mob>
+      <Mob Area="ocean" Num="4">213</Mob>
+      <Mob Area="ocean" Num="5">214</Mob>
+      <Mob Area="ocean" Num="6">214</Mob>
+      <Mob Area="ocean" Num="7">212</Mob>
+      <Mob Area="ocean" Num="8">212</Mob>
+      <Mob Area="ocean" Num="9">212</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2030</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2032</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2060</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="moat">
+      <Keys/>
+      <Room Area="ocean">2058</Room>
+      <Flags>
+        <Bit Num="9"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+    <Exit Name="moat">
+      <Keys/>
+      <Room Area="ocean">2059</Room>
+      <Flags>
+        <Bit Num="9"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

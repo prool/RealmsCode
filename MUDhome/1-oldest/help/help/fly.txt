@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  fly spell        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 15
+School:  Transmutation
+Domain:  Augmentation
+
+This spell allows its target to fly as if it had grown wings. Obviously,
+this spell allows the target to obtain heights normally unreachable by
+normal means, ones in which land-bound creatures cannot normally reach.
+This often opens up many new avenues of exploration.
+
+Syntax:
+cast fly <target>
+

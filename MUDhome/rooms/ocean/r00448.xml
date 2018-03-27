@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="448" Version="2.40" Area="ocean">
+  <Name>Adlermann Way/Islandia Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Islandia Drive and Adlermann Way.</ShortDescription>
+  <LongDescription>Islandia Drive heads off to the east from Adlermann Way, which runs north
+and south.  On the southeast side of the road is the Bendine Aquarium
+and Marina.  To the west, you can see the impressive City Walls, which
+tower above the ground, overlooking the Respital Sea and the Nylandian
+Bay, protecting Oceancrest from invasions.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">483</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">447</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">449</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

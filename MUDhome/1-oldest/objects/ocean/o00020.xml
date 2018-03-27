@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="20" Area="ocean" Version="2.40">
+  <Name>hand axe</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>5</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">50</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">axe</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Weight>5</Weight>
+  <Type>5</Type>
+  <SubType>axe</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

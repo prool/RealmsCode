@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="218" Version="2.40" Area="ocean">
+  <Name>Musty Basement Entrance</Name>
+  <ShortDescription>This is the entrance to an old, rarely used basement.</ShortDescription>
+  <LongDescription>There is a ladder leading up to the hatch from which you entered the
+basement.  Loud and disturbing creaking noises can be heard from all
+around you, except that it's completely dark so you don't know where
+they are coming from.  The basement opens up toward the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>18</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">31</Mob>
+      <Mob Area="ocean" Num="2">31</Mob>
+      <Mob Area="ocean" Num="3">32</Mob>
+      <Mob Area="ocean" Num="4">33</Mob>
+      <Mob Area="ocean" Num="5">33</Mob>
+      <Mob Area="ocean" Num="6">33</Mob>
+      <Mob Area="ocean" Num="7">34</Mob>
+      <Mob Area="ocean" Num="8">35</Mob>
+      <Mob Area="ocean" Num="9">24</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>hatch</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="hatch">
+      <Keys/>
+      <Room Area="ocean">208</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">219</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

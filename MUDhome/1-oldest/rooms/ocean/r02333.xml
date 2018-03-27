@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2333" Version="2.40a" Area="ocean">
+  <Name>High Over the Dennanl Abyss</Name>
+  <ShortDescription>This is as close as it gets to the feeling of death.   You are in a void.</ShortDescription>
+  <LongDescription>Blackness surrounds you totally, and it is so quiet you can hear your blood
+pumping in your body.  There is an occasional flash, but you can't be sure
+it isn't your mind playing tricks with your eyes.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2377</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2332</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

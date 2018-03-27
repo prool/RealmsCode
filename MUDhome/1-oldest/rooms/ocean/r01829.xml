@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="1829" Version="2.40" Area="ocean">
+  <Name>The Northern Path</Name>
+  <ShortDescription>You are walking along the northern path around the Barbarian Pits.</ShortDescription>
+  <LongDescription>The northern path curves sharply to the east and south here.  To the
+south, you can see the entrance where you entered the Barbarian Pits.
+Looking to the east, you can see that the path heads towards the 
+Ramdes River.  A giant hedge is located north of the Pits, but you
+cannot leave that way.  The heavy brush and steep slope prevent you 
+from leaving anywhere except the entrances.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">261</Mob>
+      <Mob Area="ocean" Num="1">261</Mob>
+      <Mob Area="ocean" Num="2">262</Mob>
+      <Mob Area="ocean" Num="3">263</Mob>
+      <Mob Area="ocean" Num="4">261</Mob>
+      <Mob Area="ocean" Num="5">262</Mob>
+      <Mob Area="ocean" Num="6">264</Mob>
+      <Mob Area="ocean" Num="7">264</Mob>
+      <Mob Area="ocean" Num="8">261</Mob>
+      <Mob Area="ocean" Num="9">262</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1830</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1828</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

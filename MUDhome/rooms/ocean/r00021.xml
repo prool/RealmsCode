@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<Room Num="21" Version="2.40a" Area="ocean">
+  <Name>Oceancrest Reclaimation Plant</Name>
+  <ShortDescription>You are in a noisy, stinking plant where huge machines recycle refuse.</ShortDescription>
+  <LongDescription>Great piles of broken and discarded items from all over the city are
+in several separate mounds, awaiting disposal.  Several city workers are
+busy sorting and moving trash, and a great machine sits in the center of
+the plant, receiving material from them.  Over in one corner is a pile of
+broken armor, and another pile nearby is made up of shattered blades and
+daggers.  Just about anything you have ever seen in the city winds up
+here when it breaks.</LongDescription>
+  
+  
+  
+  <Established>769504124</Established>
+  <Flags>
+    <Bit Num="1"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">654</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">655</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects>
+    <ObjRef Num="655" Area="ocean" Version="2.40a">
+      <Name>recycling machine</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsMax>100</ShotsMax>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value/>
+      <Keys>
+        <Key Num="0">machine</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="654" Area="ocean" Version="2.40a">
+      <Name>shattered dragon's blade</Name>
+      <Adjustment>1</Adjustment>
+      <ShotsMax>3</ShotsMax>
+      <ShotsCur>3</ShotsCur>
+      <Dice>
+        <Number>4</Number>
+        <Sides>4</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">5</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">dragon</Key>
+        <Key Num="1">blade</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="1"/>
+      </Flags>
+    </ObjRef>
+  </Objects>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1207</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">555</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">565</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">513</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

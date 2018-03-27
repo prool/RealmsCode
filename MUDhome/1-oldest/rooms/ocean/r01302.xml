@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1302" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, west of the Guard Barracks.</ShortDescription>
+  <LongDescription>The City Guards provide much of the needed security for the citizens of
+the town.  The Guards are primarily responsible for external, foreign
+affairs, such as conflicts with neighboring communities, and will seldom
+get involved in domestic disputes.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1301</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1303</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="599" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are traveling along Rosecrest Street, east of the Evenborough Park.</ShortDescription>
+  <LongDescription>The entrance to the Evenborough Park is located to the west.  The park
+is formed around four small paths leading into the park from each 
+direction, and then forming two concentric circles in the center of the
+park.  On the east side of the road, you can see the shoreline of the
+Lyanden Lake.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">598</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">600</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

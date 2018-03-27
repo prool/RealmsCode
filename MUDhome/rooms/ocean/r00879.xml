@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="879" Version="2.41b" Area="ocean">
+  <Name>Madam Nicolov's Wagon</Name>
+  <ShortDescription>This room is ominously wallpapered with charts of the human head.</ShortDescription>
+  <LongDescription>Madame Nicolov is a world famous phrenologist who has given lectures at
+all of the great universities on the meaning of head bumps and methods
+for reading them.  A very low chair is in the center of the room, and
+another, higher chair is directly behind it.  Standing nearby is an
+armature with a human head mounted on it.  The mouth looks about ready
+to speak, but the eyes are closed and the head remains silent.</LongDescription>
+  <HighLevel>10</HighLevel>
+  
+  <Established>755821584</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">390</Mob>
+      <Mob Area="ocean" Num="1">390</Mob>
+      <Mob Area="ocean" Num="2">390</Mob>
+      <Mob Area="ocean" Num="3">390</Mob>
+      <Mob Area="ocean" Num="4">390</Mob>
+      <Mob Area="ocean" Num="5">390</Mob>
+      <Mob Area="ocean" Num="6">390</Mob>
+      <Mob Area="ocean" Num="7">390</Mob>
+      <Mob Area="ocean" Num="8">390</Mob>
+      <Mob Area="ocean" Num="9">390</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>2400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">392</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">875</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

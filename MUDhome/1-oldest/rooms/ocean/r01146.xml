@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="1146" Version="2.40" Area="ocean">
+  <Name>Regalia Drive</Name>
+  <ShortDescription>You are traveling on Regalia Drive, just west of the Memorial Fountain.</ShortDescription>
+  <LongDescription>The Oceancrest Memorial Fountain lies directly to the east, and is 
+visited by most of the visitors to Oceancrest.  On the north side of
+Regalia Drive is the Temple of the Rising Moon.  The priests of the
+Rising Moon are dedicated towards balance and harmony.  This order is
+very druidic.  However, the moon also represents the forest and the hunt,
+thus many hunters and trackers also visit to gain the priests' blessings.
+On the south side of the road is the Shrine of the Protectors, which is 
+more of a monument than a religious shrine.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1004</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1042</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1870</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1811</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

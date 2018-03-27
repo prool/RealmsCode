@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2047" Version="2.40" Area="ocean">
+  <Name>Kista Amphitheater Main Seating</Name>
+  <ShortDescription>You are in the main seating section of the Kista Amphitheater.</ShortDescription>
+  <LongDescription>There are excellent seats near the stage area, and vendors are selling hot
+drinks and food on the side.  There are some very rich people attending, if
+the quality of their dress is any indication.  You can hear an orchestra
+tuning up, waiting for the oboe to give them an "A".</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2046</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2034</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2048</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

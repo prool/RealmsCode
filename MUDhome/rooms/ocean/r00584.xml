@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="584" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are admiring the scenery while casually walking along Leviathan Drive.</ShortDescription>
+  <LongDescription>On the east side of the road is the spectacular Ashton Falls Resort and
+Inn, where a number of the more famous visitors to Oceancrest and even
+a number of high powered officials stay from time to time to get away
+from the chaos of life.  The magnificent resort overlooks the equally
+impressive Ashton Falls (a waterfall), to which the resort is named after.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">583</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">585</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

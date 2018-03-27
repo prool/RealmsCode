@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1699" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are traveling along Golden Dolphin Way, north of the City Walls.</ShortDescription>
+  <LongDescription>On the north side of the road, you can see a number of small houses used
+by the farmers and their families.  Since the regular houses are so far
+away from the farms, the farmer's federation demanded that special houses
+be provided for the farmers.  This would increase productivity and make
+everyone's lives much better.  And so it was done because the farmer's
+lobby is one of the largest political lobby groups in the city, and holds
+more power than even the government.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1700</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1698</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

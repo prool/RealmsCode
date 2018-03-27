@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flags>
+	<Rooms>
+		<Flag id="1" Name="Shoppe">You can also use the trapexit to set the storage room, otherwise it defaults to this room + 1</Flag>
+		<Flag id="2" Name="Dump">Dropped items recycled for 5gp</Flag>
+		<Flag id="3" Name="Training">Training flag. See *dmh train</Flag>
+		<Flag id="4" Name="Training">Training flag. See *dmh train</Flag>
+		<Flag id="5" Name="Training">Training flag. See *dmh train</Flag>
+		<Flag id="6" Name="Training">Training flag. See *dmh train</Flag>
+		<Flag id="7" Name="Training">Training flag. See *dmh train</Flag>
+		<Flag id="8" Name="MobJail">A jail room a monster takes you to (as opposed to staff)</Flag>
+		<Flag id="9" Name="DarkAlways">Always naturally dark</Flag>
+		<Flag id="10" Name="DarkNight">Naturally dark at night</Flag>
+		<Flag id="11" Name="PostOffice">Players can send/read mail here</Flag>
+		<Flag id="12" Name="NoPkill">Safe room, no playerkilling</Flag>
+		<Flag id="13" Name="NoPortTo">Cannot teleport to this room</Flag>
+		<Flag id="14" Name="HealFast">Heal faster in this room</Flag>
+		<Flag id="15" Name="OnePly">1-player only inside</Flag>
+		<Flag id="16" Name="TwoPly">2-players only inside</Flag>
+		<Flag id="17" Name="ThreePly">3-players only inside</Flag>
+		<Flag id="18" Name="NoMagic">No magic will work here</Flag>
+		<Flag id="19" Name="PermTracks">Permanent tracks</Flag>
+		<Flag id="20" Name="Earth">Earth realm</Flag>
+		<Flag id="21" Name="Air">Air realm</Flag>
+		<Flag id="22" Name="Fire">Fire realm</Flag>
+		<Flag id="23" Name="Water">Water realm</Flag>
+		<Flag id="24" Name="GrpWander">Player-dependent monster wanders</Flag>
+		<Flag id="25" Name="PHarm">Harmful room</Flag>
+		<Flag id="26" Name="Toxic">Poisonous gas</Flag>
+		<Flag id="27" Name="MPDrain">Mana draining room</Flag>
+		<Flag id="28" Name="Stun">Stunning room</Flag>
+		<Flag id="29" Name="NoSummonOut">Can not be summon out</Flag>
+		<Flag id="30" Name="CanPledge">Can pledge to clans here</Flag>
+		<Flag id="31" Name="CanRescind">Can rescind from clans here</Flag>
+		<Flag id="32" Name="NoPotion">Potions will not work</Flag>
+		<Flag id="33" Name="Magic+">Magical bonus room</Flag>
+		<Flag id="34" Name="NoLog">Player will relog in room 1</Flag>
+		<Flag id="35" Name="VampireCoven">Room is vampire coven</Flag>
+		<Flag id="36" Name="Indoors">Players won't hear weather messages, darkmetal is safe</Flag>
+		<Flag id="37" Name="Jail">Jail room</Flag>
+		<Flag id="38" Name="NoCastPort">Teleport cannot be cast here</Flag>
+		<Flag id="39" Name="Lottery">Can buy lottery ticket; must set 1-Shoppe flag</Flag>
+		<Flag id="40" Name="DesertHarm">Heat damage during the day, cold damage at night</Flag>
+		<Flag id="41" Name="BuyStrg">Can purchase storage rooms here</Flag>
+		<Flag id="42" Name="StrgRm">Is a storage room</Flag>
+		<Flag id="43" Name="NoClair">Cannot be claired in this room</Flag>
+		<Flag id="44" Name="NoFlee">Cannot flee from this room</Flag>
+		<Flag id="45" Name="RH:Vines">Vines try to strangle you (druids immune)</Flag>
+		<Flag id="46" Name="CanShoplift">You can attempt to shoplift</Flag>
+		<Flag id="47" Name="Forest">Room is forest</Flag>
+		<Flag id="48" Name="Ethereal">Room is ethereal</Flag>
+		<Flag id="49" Name="OppRealm+">The opposite realm of the room is given a bonus</Flag>
+		<Flag id="50" Name="Pawn">Can sell items</Flag>
+		<Flag id="51" Name="RH:IcyWater">Icy water damage</Flag>
+		<Flag id="52" Name="NoTrackTo">Other players cannot track to this room</Flag>
+		<Flag id="53" Name="DropDestroy">Environment destroys dropped items</Flag>
+		<Flag id="54" Name="NoSummonTo">Cannot summon anyone to this room</Flag>
+		<Flag id="55" Name="NoTrackOut">Cannot track out of this room</Flag>
+		<Flag id="56" Name="Realm+">Room's realm adds to same realms spell damage</Flag>
+		<Flag id="57" Name="OutlawSafe">Outlaws may not be killed, are damaged by lightning</Flag>
+		<Flag id="58" Name="Bank">Can perform bank transactions</Flag>
+		<Flag id="59" Name="ATM">Magic money machine - withdraw and balance only: used mainly for jails to bail out</Flag>
+		<Flag id="60" Name="Unused" />
+		<Flag id="61" Name="Guild:OpenAccess">This room belongs to a guild, but anyone may enter</Flag>
+		<Flag id="62" Name="NoRecall">Word of recall does not work</Flag>
+		<Flag id="63" Name="LogToTrapExt">Player will relog into room specified by trap exit</Flag>
+		<Flag id="64" Name="HardMove">Hard to move from room</Flag>
+		<Flag id="65" Name="Electricity">Electricity realm</Flag>
+		<Flag id="66" Name="Cold">Cold realm</Flag>
+		<Flag id="67" Name="HardFlee">Hard to flee from this room</Flag>
+		<Flag id="68" Name="NoMist">Mists cannot enter</Flag>
+		<Flag id="69" Name="DisperseMist">Mists will be forced to unmist</Flag>
+		<Flag id="70" Name="Unused" />
+		<Flag id="71" Name="CanBuildShop">Can build a shop here</Flag>
+		<Flag id="72" Name="MagicDark">Magically dark</Flag>
+		<Flag id="73" Name="Underwater">Room is underwater and players will drown</Flag>
+		<Flag id="74" Name="NoDodge">Cannot dodge here</Flag>
+		<Flag id="75" Name="Aramon">Only worshipers of Aramon may enter</Flag>
+		<Flag id="76" Name="Ceris">Only worshipers of Ceris may enter</Flag>
+		<Flag id="77" Name="Enoch">Only worshipers of Enoch may enter</Flag>
+		<Flag id="78" Name="Gradius">Only worshipers of Gradius may enter</Flag>
+		<Flag id="79" Name="Ares">Only worshipers of Ares may enter</Flag>
+		<Flag id="80" Name="Kamira">Only worshipers of Kamira may enter</Flag>
+		<Flag id="81" Name="Jakar">Only worshipers of Jakar may enter</Flag>
+		<Flag id="82" Name="Linothan">Only worshipers of Linothan may enter</Flag>
+		<Flag id="83" Name="Mara">Only worshipers of Mara may enter</Flag>
+		<Flag id="84" Name="Arachnus">Only worshipers of Arachnus may enter</Flag>
+		<Flag id="85" Name="Underground">Players won't hear weather messages, darkmetal is safe</Flag>
+		<Flag id="86" Name="CanBuildGldHall">Can build a guildhall here</Flag>
+		<Flag id="87" Name="WasBuildGldHall">A guildhall has been built here</Flag>
+		<Flag id="88" Name="RH:Archers">Elven archers</Flag>
+		<Flag id="89" Name="RH:Moss">Deadly underdark moss</Flag>
+		<Flag id="90" Name="WasBuildShop">A shop has been built here</Flag>
+		<Flag id="91" Name="Construction">Room is under construction</Flag>
+		<Flag id="92" Name="Typo">A typo was found here</Flag>
+		<Flag id="93" Name="CanBuildHouse">Can build a house here</Flag>
+		<Flag id="94" Name="WasBuildHouse">A house has been built here</Flag>
+		<Flag id="95" Name="WinterCold">Room is cold during the winter</Flag>
+		<Flag id="96" Name="NoPrevious">Player does not record this as previous room</Flag>
+		<Flag id="97" Name="ShopStorage">Must be set in storage room for room flag 1 (Shoppe) to work</Flag>
+		<Flag id="98" Name="AlwaysWinter">Treat this room as winter regardless of season</Flag>
+		<Flag id="99" Name="CanAlwaysMist">Vampires can always turn to mist here, regardless of time of day</Flag>
+		<Flag id="100" Name="Limbo">Room is Limbo (where players go when they die)</Flag>
+		<Flag id="101" Name="NoSpringTrapOnEnter">A player entering this room won't spring any traps</Flag>
+	</Rooms>
+	<Exits>
+		<Flag id="1" Name="Hidden">Exit is hidden</Flag>
+		<Flag id="2" Name="Invisible">Exit is invisible</Flag>
+		<Flag id="3" Name="Locked">Exit is locked: set 3-Locked and 5-Lockable together</Flag>
+		<Flag id="4" Name="Closed">Exit is closed: set 4-Closed and 6-Closable together</Flag>
+		<Flag id="5" Name="Lockable">Exit can be locked: set 3-Locked and 5-Lockable together</Flag>
+		<Flag id="6" Name="Closable">Exit can be closed: set 4-Closed and 6-Closable together</Flag>
+		<Flag id="7" Name="NoPick">Exit cannot be picked</Flag>
+		<Flag id="8" Name="NakedExit">Must have no inventory to go through this exit</Flag>
+		<Flag id="9" Name="ClimbUp">Climbing gear required</Flag>
+		<Flag id="10" Name="ClimbDown">Climbing gear required</Flag>
+		<Flag id="11" Name="HardClimb">Difficult to climb here</Flag>
+		<Flag id="12" Name="FlyExit">Must be flying to see/go to this exit</Flag>
+		<Flag id="13" Name="FemaleOnly">Only females may go through</Flag>
+		<Flag id="14" Name="MaleOnly">Only males may go through</Flag>
+		<Flag id="15" Name="Pledge">Player must be pledged to any clan to go through</Flag>
+		<Flag id="16" Name="Portal">Exit created by the portal spell</Flag>
+		<Flag id="17" Name="NightOnly">May only go through at night</Flag>
+		<Flag id="18" Name="DayOnly">May only go through during the day</Flag>
+		<Flag id="19" Name="PassiveGuard">Any monsters flagged as 39-PassiveGuard will block this exit</Flag>
+		<Flag id="20" Name="NoSee">Players cannot see or use exit (staff only)</Flag>
+		<Flag id="21" Name="ClsSelInvert">Invert the class-selective flags</Flag>
+		<Flag id="22" Name="Assassin">Only Assassins may enter</Flag>
+		<Flag id="23" Name="Berserker">Only Berserkers may enter</Flag>
+		<Flag id="24" Name="Cleric">Only Clerics may enter</Flag>
+		<Flag id="25" Name="Fighter">Only Fighters may enter</Flag>
+		<Flag id="26" Name="Mage">Only Mages may enter</Flag>
+		<Flag id="27" Name="Paladin">Only Paladins may enter</Flag>
+		<Flag id="28" Name="Ranger">Only Rangers may enter</Flag>
+		<Flag id="29" Name="Thief">Only Thieves may enter</Flag>
+		<Flag id="30" Name="Vampire">Only Vampires may enter</Flag>
+		<Flag id="31" Name="Monk">Only Monks may enter</Flag>
+		<Flag id="32" Name="Deathknight">Only Deathknights may enter</Flag>
+		<Flag id="33" Name="Druid">Only Druids may enter</Flag>
+		<Flag id="34" Name="Lich">Only Liches may enter</Flag>
+		<Flag id="35" Name="Werewolf">Only Werewolves may enter</Flag>
+		<Flag id="36" Name="Bard">Only Bards may enter</Flag>
+		<Flag id="37" Name="Rogue">Only Rogues may enter</Flag>
+		<Flag id="38" Name="NoGood">Good players may not enter</Flag>
+		<Flag id="39" Name="NoNeut">Neutral players may not enter</Flag>
+		<Flag id="40" Name="NoEvil">Evil players may not enter</Flag>
+		<Flag id="41" Name="StaffOnly">Only staff members may enter</Flag>
+		<Flag id="42" Name="Clan1">Only members of Clan 1 may enter</Flag>
+		<Flag id="43" Name="Clan2">Only members of Clan 2 may enter</Flag>
+		<Flag id="44" Name="Clan3">Only members of Clan 3 may enter</Flag>
+		<Flag id="45" Name="Clan4">Only members of Clan 4 may enter</Flag>
+		<Flag id="46" Name="Clan5">Only members of Clan 5 may enter</Flag>
+		<Flag id="47" Name="Clan6">Only members of Clan 6 may enter</Flag>
+		<Flag id="48" Name="Clan7">Only members of Clan 7 may enter</Flag>
+		<Flag id="49" Name="Clan8">Only members of Clan 8 may enter</Flag>
+		<Flag id="50" Name="Clan9">Only members of Clan 9 may enter</Flag>
+		<Flag id="51" Name="Clan10">Only members of Clan 10 may enter</Flag>
+		<Flag id="52" Name="Clan11">Only members of Clan 11 may enter</Flag>
+		<Flag id="53" Name="Clan12">Only members of Clan 12 may enter</Flag>
+		<Flag id="54" Name="NoWander">Monsters will not wander here</Flag>
+		<Flag id="55" Name="ToStrg">Leads to player's storage room</Flag>
+		<Flag id="56" Name="NoFleeTo">Cannot flee to this exit</Flag>
+		<Flag id="57" Name="NoScout">Cannot scout this exit</Flag>
+		<Flag id="58" Name="Concealed">Very difficult to find; do not set Hidden</Flag>
+		<Flag id="59" Name="DescOnly">Cannot be searched, can only be guessed from room description</Flag>
+		<Flag id="60" Name="NoMist">Musts cannot go through this exit</Flag>
+		<Flag id="61" Name="Tollbooth">Players must pay a toll to go through, needs to be a Tollkeeper in room</Flag>
+		<Flag id="62" Name="TollLvlVary">Toll cost will vary by level</Flag>
+		<Flag id="63" Name="WatcherLock">Watchers can unlock without a key</Flag>
+		<Flag id="64" Name="MovingExit">Exit has been created by ship code</Flag>
+		<Flag id="65" Name="ExitToBoundRoom">Exit leads to player's bound room</Flag>
+		<Flag id="66" Name="RaceSelInvert">Invert the race-selective flags</Flag>
+		<Flag id="67" Name="Dwarf">Only Dwarves may enter</Flag>
+		<Flag id="68" Name="Elf">Only Elves may enter</Flag>
+		<Flag id="69" Name="Half-Elf">Only Half-Elves may enter</Flag>
+		<Flag id="70" Name="Halfling">Only Halflings may enter</Flag>
+		<Flag id="71" Name="Human">Only Humans may enter</Flag>
+		<Flag id="72" Name="Orc">Only Orcs may enter</Flag>
+		<Flag id="73" Name="Half-Giant">Only Half-Giants may enter</Flag>
+		<Flag id="74" Name="Gnome">Only Gnomes may enter</Flag>
+		<Flag id="75" Name="Troll">Only Trolls may enter</Flag>
+		<Flag id="76" Name="Half-Orc">Only Half-Orcs may enter</Flag>
+		<Flag id="77" Name="Ogre">Only Ogres may enter</Flag>
+		<Flag id="78" Name="Dark-Elf">Only Dark-Elves may enter</Flag>
+		<Flag id="79" Name="Goblin">Only Goblins may enter</Flag>
+		<Flag id="80" Name="Minotaur">Only Minotaurs may enter</Flag>
+		<Flag id="81" Name="Seraph">Only Seraphs may enter</Flag>
+		<Flag id="82" Name="Kobold">Only Kobolds may enter</Flag>
+		<Flag id="83" Name="Cambion">Only Cambions may enter</Flag>
+		<Flag id="84" Name="Barbarian">Only Barbarians may enter</Flag>
+		<Flag id="85" Name="Kataran">Only Katarans may enter</Flag>
+		<Flag id="86" Name="Tiefling">Only Tieflings may enter</Flag>
+		<Flag id="87" Name="NotInWinter">Heavy winter snows block passage</Flag>
+		<Flag id="88" Name="NotInSpring">Spring floods block passage</Flag>
+		<Flag id="89" Name="NotInSummer">Summer heat blocks passage</Flag>
+		<Flag id="90" Name="NotInAutumn">Simply can't go this way</Flag>
+		<Flag id="91" Name="OnOpen:Player">OnOpen will only print to player</Flag>
+		<Flag id="92" Name="ToPrevious">Take player to room they were previously in</Flag>
+		<Flag id="93" Name="MistOnly">Only mists may pass through</Flag>
+		<Flag id="94" Name="CanLook">Can look through this exit (free scout)</Flag>
+		<Flag id="95" Name="LookOnly">Can only look through this exit (free scout)</Flag>
+		<Flag id="96" Name="LockAfterUsage">Exit locks and closes after being used once</Flag>
+	</Exits>
+	<Players>
+		<Flag id="1" Name="Unused" />
+		<Flag id="2" Name="Hidden">Player is hidden</Flag>
+		<Flag id="3" Name="*Hardcore*">A hardcore character: death is permanent</Flag>
+		<Flag id="4" Name="NoSeeBroad">Don't show broadcasts</Flag>
+		<Flag id="5" Name="NoLong">Don't show long description</Flag>
+		<Flag id="6" Name="NoShort">Don't show short description</Flag>
+		<Flag id="7" Name="IgnoreGossip">Don't show gossip channel</Flag>
+		<Flag id="8" Name="IgnoreClan">Don't show clan channel</Flag>
+		<Flag id="9" Name="Portal">Player has an active portal</Flag>
+		<Flag id="10" Name="NoAutoAttack">Player will not automatically attack</Flag>
+		<Flag id="11" Name="DMInvis">Staff member is invisible</Flag>
+		<Flag id="12" Name="Sleeping">Player is sleeping</Flag>
+		<Flag id="13" Name="Male">Player is male</Flag>
+		<Flag id="14" Name="Sexless">Player is sexless</Flag>
+		<Flag id="15" Name="Wimpy">Player has wimpy mode set</Flag>
+		<Flag id="16" Name="Eaves">Staff is eavesdropping (tells and group chat)</Flag>
+		<Flag id="17" Name="AutoInvis">Automatically turn on DM Invis if idle for over 100 minutes</Flag>
+		<Flag id="18" Name="UniqueToDecay">Player has a unique that must decay</Flag>
+		<Flag id="19" Name="Prompt">Display status prompt</Flag>
+		<Flag id="20" Name="Frenzy">Player is frenzying (werewolves)</Flag>
+		<Flag id="21" Name="MXPEnabled">Player wants to use MXP</Flag>
+		<Flag id="22" Name="MXPActive">MXP is active: make sure we need to close it</Flag>
+		<Flag id="23" Name="Praying">Player is praying</Flag>
+		<Flag id="24" Name="AreaInvertColor">Overland colors are inverted (brightness)</Flag>
+		<Flag id="25" Name="Prepared">Player is prepared for traps</Flag>
+		<Flag id="26" Name="*TtoBound">*t takes staff to bound room</Flag>
+		<Flag id="27" Name="AnsiOn">Ansi Color is on</Flag>
+		<Flag id="28" Name="Spying">Staff is spying on someone</Flag>
+		<Flag id="29" Name="Chaotic">Player is chaotic</Flag>
+		<Flag id="30" Name="ReadingFile">Player is reading a file</Flag>
+		<Flag id="31" Name="NoMobTickMsg">Staff does not want to see mob tick broadcasts</Flag>
+		<Flag id="32" Name="NoMobAggroMsg">Staff does not want to see mob aggro broadcasts</Flag>
+		<Flag id="33" Name="NoMobDeathMsg">Staff does not want to see mob death broadcasts</Flag>
+		<Flag id="34" Name="CanChooseTitle">Player can choose a custom title</Flag>
+		<Flag id="35" Name="NoSummon">Player does not want to be summoned</Flag>
+		<Flag id="36" Name="IgnoreAll">Ignore all messages</Flag>
+		<Flag id="37" Name="IgnoreSMS">Ignore text messages</Flag>
+		<Flag id="38" Name="NoTrackStats">Do not track statistics</Flag>
+		<Flag id="39" Name="Darkness">Player is carrying a darkness item</Flag>
+		<Flag id="40" Name="Pledged">Player is pledged to a clan</Flag>
+		<Flag id="41" Name="mIRC">mIRC Color</Flag>
+		<Flag id="42" Name="SeeHooks">Whether or not to show this DM successful hooks as they happen</Flag>
+		<Flag id="43" Name="ShowSkillProgress">Show skill progress</Flag>
+		<Flag id="44" Name="CannotChooseTitle">Player has lost the privilege of choosing a custom title</Flag>
+		<Flag id="45" Name="SeeAllHooks">Whether or not to show this DM all hooks as they happen</Flag>
+		<Flag id="46" Name="Charmed">Player is charmed</Flag>
+		<Flag id="47" Name="NoLogin">Player does not want to see login messages</Flag>
+		<Flag id="48" Name="ViewZones">Staff wants to see zones on the overland (cleared on login)</Flag>
+		<Flag id="49" Name="Secure">Player has passed security check</Flag>
+		<Flag id="50" Name="NoPort">No-port that has been authorized</Flag>
+		<Flag id="51" Name="DMAlias">DM is aliasing (possessing a mob)</Flag>
+		<Flag id="52" Name="BloodSac">Player is in blood sacrifice mode</Flag>
+		<Flag id="53" Name="NLPrompt">Print newline after promp</Flag>
+		<Flag id="54" Name="Berserk">Player is berserking</Flag>
+		<Flag id="55" Name="DmLogWatch">Staff is watching the log channel</Flag>
+		<Flag id="56" Name="Misted">Player is misted</Flag>
+		<Flag id="57" Name="Endurance">Player is running</Flag>
+		<Flag id="58" Name="ClassIgnore">Player is ignoring class sends</Flag>
+		<Flag id="59" Name="NoGroup">Player is ignoring group broadcasts</Flag>
+		<Flag id="60" Name="+1ToHit">Player is immune to normal weapons</Flag>
+		<Flag id="61" Name="JustStatMod">Player just removed a stat-modifying effect</Flag>
+		<Flag id="62" Name="R-Stun">Player resists stun</Flag>
+		<Flag id="63" Name="ShowAllPrefs">Show all preferences by default</Flag>
+		<Flag id="64" Name="Compact">Show compact output</Flag>
+		<Flag id="65" Name="ShowTicks">Show ticks</Flag>
+		<Flag id="66" Name="JustRefunded">Player just refunded something and cannot haggle</Flag>
+		<Flag id="67" Name="Unused" />
+		<Flag id="68" Name="Unused" />
+		<Flag id="69" Name="Unused" />
+		<Flag id="70" Name="Unused" />
+		<Flag id="71" Name="HideForumPosts">Player does not want to see forum post notifications</Flag>
+		<Flag id="72" Name="FullForumPosts">Player wants to see first few lines of forum posts</Flag>
+		<Flag id="73" Name="Outlaw">Player is an outlaw</Flag>
+		<Flag id="74" Name="Trained">Player just trained</Flag>
+		<Flag id="75" Name="NoCompute">DM flag only: don't compute ac</Flag>
+		<Flag id="76" Name="MistedSneak">Sneak while misted</Flag>
+		<Flag id="77" Name="Focused">Player is focused</Flag>
+		<Flag id="78" Name="Stunned">Player is stunned</Flag>
+		<Flag id="79" Name="Unused" />
+		<Flag id="80" Name="NoAutoWear">Player won't wear all when they log on</Flag>
+		<Flag id="81" Name="Unused" />
+		<Flag id="82" Name="Unused" />
+		<Flag id="83" Name="Unused" />
+		<Flag id="84" Name="NoFollow">Player cannot be followed</Flag>
+		<Flag id="85" Name="Shoplifted">Player was caught shoplifting</Flag>
+		<Flag id="86" Name="LagProt">Lag protection set (auto-hazy / auto-disconnect)</Flag>
+		<Flag id="87" Name="LagProtOn">Lag detection routines currently in operation</Flag>
+		<Flag id="88" Name="LPActive">Check for lag protection activated</Flag>
+		<Flag id="89" Name="DMSilence">Player silenced by DM</Flag>
+		<Flag id="90" Name="DMBlind">Player blinded by DM</Flag>
+		<Flag id="91" Name="NoMsg">Staff will not see *msg channel</Flag>
+		<Flag id="92" Name="CanAward">DM only. Allows CTs to award roleplaying xp if set</Flag>
+		<Flag id="93" Name="NoCashTrain">Player doesn't need cash to level (for p-testing)</Flag>
+		<Flag id="94" Name="AutoSplit">Player has auto gold split turned on</Flag>
+		<Flag id="95" Name="Unused" />
+		<Flag id="96" Name="P-Tester">Player is a p-tester</Flag>
+		<Flag id="97" Name="NoShowStats">HP/MP will not show when followed</Flag>
+		<Flag id="98" Name="NoCastSummon">Player cannot cast summon - for summon slaves</Flag>
+		<Flag id="99" Name="NoGetAll">Player cannot get all - for people abusing it</Flag>
+		<Flag id="100" Name="CanOutlaw">DM only. Allows a CT to use *outlaw command</Flag>
+		<Flag id="101" Name="OutlawAggro">Outlaw will be attacked by outlaw aggros</Flag>
+		<Flag id="102" Name="ExpLossOutlaw">Outlaw will lose experience when killed</Flag>
+		<Flag id="103" Name="LinkDead">Player is linkdead (shouldn't be considered 2x-logging)</Flag>
+		<Flag id="104" Name="Unconscious">Player is unconscious</Flag>
+		<Flag id="105" Name="Incognito">Staff is incognito</Flag>
+		<Flag id="106" Name="BrainDead">Player is brain dead</Flag>
+		<Flag id="107" Name="Unused" />
+		<Flag id="108" Name="CanList">DM only. Caretaker can use *list command</Flag>
+		<Flag id="109" Name="Unused" />
+		<Flag id="110" Name="Unused" />
+		<Flag id="111" Name="Can*broad">DM only. Caretaker can use *broad</Flag>
+		<Flag id="112" Name="XPinPrompt">XP shows in player prompt</Flag>
+		<Flag id="113" Name="HasMail">Player has unread mudmail</Flag>
+		<Flag id="114" Name="NoSeeMail">Player will not see new mail notification</Flag>
+		<Flag id="115" Name="PlyPoison">Poisoned by player</Flag>
+		<Flag id="116" Name="MobPoison">Poisoned by monster</Flag>
+		<Flag id="117" Name="NoRecall">Hazy looked for 2nd in lag protection</Flag>
+		<Flag id="118" Name="NoAlColor">Extra color options</Flag>
+		<Flag id="119" Name="NoPkill%">P-kill percent not shown</Flag>
+		<Flag id="120" Name="NoAuction">Will not see auction broadcasts</Flag>
+		<Flag id="121" Name="KillsLogged">All player's kills logged</Flag>
+		<Flag id="122" Name="SuperEaves">Staff is eavesdropping (says)</Flag>
+		<Flag id="123" Name="CanTellSelf">Player is allowed to send tell messages to themself</Flag>
+		<Flag id="124" Name="SavesSet">Saving throw values defined. DO NOT UNSET THIS FLAG!</Flag>
+		<Flag id="125" Name="Unused" />
+		<Flag id="126" Name="RaceIgnore">Player ignoring race broadsend</Flag>
+		<Flag id="127" Name="AFK">Player is away from keyboard</Flag>
+		<Flag id="128" Name="Unused" />
+		<Flag id="129" Name="GlobalGag">Player globally gagged</Flag>
+		<Flag id="130" Name="NoProfit">Don't show shop profits</Flag>
+		<Flag id="131" Name="Unused" />
+		<Flag id="132" Name="Unused" />
+		<Flag id="133" Name="IgnoreTell">Player ignores send/tell messages</Flag>
+		<Flag id="134" Name="L:Alien">Player speaks alien language (unknown)</Flag>
+		<Flag id="135" Name="L:Dwarven">Player speaks dwarven</Flag>
+		<Flag id="136" Name="L:Elven">Player speaks elven</Flag>
+		<Flag id="137" Name="L:Halfling">Player speaks halfling</Flag>
+		<Flag id="138" Name="L:Common">Player speaks common</Flag>
+		<Flag id="139" Name="L:Orcish">Player speaks orcish</Flag>
+		<Flag id="140" Name="L:Giantkin">Player speaks giantkin</Flag>
+		<Flag id="141" Name="L:Gnomish">Player speaks gnomish</Flag>
+		<Flag id="142" Name="L:Troll">Player speaks language of trolls</Flag>
+		<Flag id="143" Name="L:Ogrish">Player speaks ogrish</Flag>
+		<Flag id="144" Name="L:DarkElven">Player speaks dark elven</Flag>
+		<Flag id="145" Name="L:Goblinoid">Player speaks goblinoid</Flag>
+		<Flag id="146" Name="L:Minotaur">Player speaks language of minotaurs</Flag>
+		<Flag id="147" Name="L:Celestial">Player speaks celestial (seraph)</Flag>
+		<Flag id="148" Name="L:Kobold">Player speaks kobold</Flag>
+		<Flag id="149" Name="L:Infernal">Player speaks infernal (cambion)</Flag>
+		<Flag id="150" Name="L:Schnai">Player speaks barbarian</Flag>
+		<Flag id="151" Name="L:Kataran">Player speaks kataran</Flag>
+		<Flag id="152" Name="Unused" />
+		<Flag id="153" Name="Unused" />
+		<Flag id="154" Name="Unused" />
+		<Flag id="155" Name="LangColor">Player sees language colors</Flag>
+		<Flag id="156" Name="LangSet">Player language been initialized</Flag>
+		<Flag id="157" Name="Unused" />
+		<Flag id="158" Name="Proxy">Player is allowed to multi-log (use *2x instead)</Flag>
+		<Flag id="159" Name="SecretWatcher">Player does not show up as a watcher</Flag>
+		<Flag id="160" Name="No Group Exp (Abused)">No group exp due to abuse</Flag>
+		<Flag id="161" Name="Watcher">Player is a watcher</Flag>
+		<Flag id="162" Name="CanMudmailStaff">Player can mudmail CTs and DMs</Flag>
+		<Flag id="163" Name="NoDuelBroad">Player will not see duel messages</Flag>
+		<Flag id="164" Name="Bugged">Player is bugged for observation</Flag>
+		<Flag id="165" Name="LostDuel">Player just died in a duel - DO NOT SET</Flag>
+		<Flag id="166" Name="Mistbane">Player can hit mist</Flag>
+		<Flag id="167" Name="XPsplit">Player has xp split turned on</Flag>
+		<Flag id="168" Name="NoPkill">Player cannot be pkilled right now</Flag>
+		<Flag id="169" Name="PermDeath">Player sees perm deaths</Flag>
+		<Flag id="170" Name="Unused" />
+		<Flag id="171" Name="Unused" />
+		<Flag id="172" Name="NoNewbie">Player ignoring newbie channel</Flag>
+		<Flag id="173" Name="Unused" />
+		<Flag id="174" Name="Unused" />
+		<Flag id="175" Name="Unused" />
+		<Flag id="176" Name="Sitting">Player is sitting</Flag>
+		<Flag id="177" Name="No*wts">Cannot use *wts command</Flag>
+		<Flag id="178" Name="CreatingGuild">Player is currently attempting to create a new guild</Flag>
+		<Flag id="179" Name="Unused" />
+		<Flag id="180" Name="Unused" />
+		<Flag id="181" Name="Free-Action">Player under free-action spell</Flag>
+		<Flag id="182" Name="No*flushcrtobj">Builder doesn't have to *flushcrtobj (auto-flush)</Flag>
+		<Flag id="183" Name="NoMobNumbers">Player does not see mob numbers</Flag>
+		<Flag id="184" Name="Can*reboot">Can use *reboot command</Flag>
+		<Flag id="185" Name="ChangeStats">Can change stats</Flag>
+		<Flag id="186" Name="*jailed">Jailed by *jail command. DO NOT SET</Flag>
+		<Flag id="187" Name="Unused" />
+		<Flag id="188" Name="KillAggro">Player attacks aggros first</Flag>
+		<Flag id="189" Name="PasswordOK">Password is current</Flag>
+		<Flag id="190" Name="NoMPTick">Player cannot tick MP</Flag>
+		<Flag id="191" Name="NoHPTick">Player cannot tick HP</Flag>
+		<Flag id="192" Name="Anchor">Player under anchor spell</Flag>
+		<Flag id="193" Name="KilledByMob">Just killed by mob</Flag>
+		<Flag id="194" Name="Unused" />
+		<Flag id="195" Name="DoctorKiller">Player is a doctor killer</Flag>
+		<Flag id="196" Name="Surname">Player has chosen surname</Flag>
+		<Flag id="197" Name="NoSetSurname">Player cannot use surname command</Flag>
+		<Flag id="198" Name="Unused" />
+		<Flag id="199" Name="AdultChannel">Player can use adult channel</Flag>
+		<Flag id="200" Name="Veteran">Player can use veteran channel</Flag>
+		<Flag id="201" Name="CantBroadcast">Player cannot broadcast</Flag>
+		<Flag id="202" Name="ChosenAlign">Player has chosen alignment</Flag>
+		<Flag id="203" Name="CantSuicide">Player cannot suicide - cool off period</Flag>
+		<Flag id="204" Name="Builder:Mobs">Builder can make mobs</Flag>
+		<Flag id="205" Name="Builder:Objs">Builder can make objs</Flag>
+		<Flag id="206" Name="HasDarkmetal">Player has a darkmetal item (DONT SET)</Flag>
+		<Flag id="207" Name="Unused" />
+		<Flag id="208" Name="Unused" />
+		<Flag id="209" Name="Unused" />
+		<Flag id="210" Name="Unused" />
+		<Flag id="211" Name="Unused" />
+		<Flag id="212" Name="Unused" />
+		<Flag id="213" Name="Unused" />
+		<Flag id="214" Name="Unused" />
+		<Flag id="215" Name="Unused" />
+		<Flag id="216" Name="Unused" />
+		<Flag id="217" Name="Unused" />
+		<Flag id="218" Name="Unused" />
+	</Players>
+	<Monsters>
+		<Flag id="1" Name="Perm">Monster is permanent</Flag>
+		<Flag id="2" Name="Hidden">Monster is hidden</Flag>
+		<Flag id="3" Name="WasHidden">Monster was hidden before and will rehide again</Flag>
+		<Flag id="4" Name="FactionNoGuard">If the player is in good standing with the monster, the monster will not passively guard exits</Flag>
+		<Flag id="5" Name="Unused" />
+		<Flag id="6" Name="NoPrefix">Don't add a prefix article</Flag>
+		<Flag id="7" Name="Aggro">Monster is aggresive</Flag>
+		<Flag id="8" Name="GuardLoot">Monster will prevent player from getting treasure</Flag>
+		<Flag id="9" Name="BlocksExits">Monster will prevent player from leaving the room (excluding flee) during combat</Flag>
+		<Flag id="10" Name="Follows">Monster will follow a player who walks out of the room during combat</Flag>
+		<Flag id="11" Name="Flees">Monster will flee</Flag>
+		<Flag id="12" Name="Scavenger">Monster will randomly get items from the ground</Flag>
+		<Flag id="13" Name="Male">Monster is male</Flag>
+		<Flag id="14" Name="SA:Poisons">Monster will poison</Flag>
+		<Flag id="15" Name="Undead">Monster is undead</Flag>
+		<Flag id="16" Name="NoStealPeek">Monster cannot be peeked and cannot be stolen from</Flag>
+		<Flag id="17" Name="Unused" />
+		<Flag id="18" Name="SA:Casts">Monster can cast spells</Flag>
+		<Flag id="19" Name="Scavenged">Monster has already scavenged something</Flag>
+		<Flag id="20" Name="Unused" />
+		<Flag id="21" Name="MagicOnly">Monster can only be harmed by magic</Flag>
+		<Flag id="22" Name="FactionAssist">Monster will assist members of primeFaction</Flag>
+		<Flag id="23" Name="+1ToHit">Player needs +1 weapon or better to be hit</Flag>
+		<Flag id="24" Name="Talks">Monster uses old talk system (DONT SET)</Flag>
+		<Flag id="25" Name="NoKill">Monster cannot be harmed</Flag>
+		<Flag id="26" Name="FixedGold">Monster has a fixed amount of gold</Flag>
+		<Flag id="27" Name="TalkAggro">Monster becomes aggressive after talking</Flag>
+		<Flag id="28" Name="NoFactionAggro">Don't aggro based on faction</Flag>
+		<Flag id="29" Name="CanRiposte">Can riposte regardless of other rules</Flag>
+		<Flag id="30" Name="Darkness">Monster is carrying a darkness item</Flag>
+		<Flag id="31" Name="Unused" />
+		<Flag id="32" Name="Unused" />
+		<Flag id="33" Name="CanPledgeTo">Players can pledge to monster</Flag>
+		<Flag id="34" Name="CanRescindTo">Players can rescind to monster</Flag>
+		<Flag id="35" Name="SA:Diseases">Monster causes disease</Flag>
+		<Flag id="36" Name="SA:Dissolves">Monster can dissolve items</Flag>
+		<Flag id="37" Name="Selling">Players can purchase items from this monster</Flag>
+		<Flag id="38" Name="Trades">Players can trade items with this monster</Flag>
+		<Flag id="39" Name="PassiveGuard">Monster passively prevents players from going through an exit (exit needs flag 19-PassiveGuard)</Flag>
+		<Flag id="40" Name="GoodAggro">Monster will attack good-aligned players</Flag>
+		<Flag id="41" Name="EvilAggro">Monster will attack evil-aligned players</Flag>
+		<Flag id="42" Name="DieDesc">Monster has additon description after death (requires special file)</Flag>
+		<Flag id="43" Name="CastPercent">Monster cast magic percent flag</Flag>
+		<Flag id="44" Name="ResistStun">Monster resists stun</Flag>
+		<Flag id="45" Name="NoCircle">Monster cannot be circled</Flag>
+		<Flag id="46" Name="SA:Blinds">Monster can blind</Flag>
+		<Flag id="47" Name="FollowDM">Monster will follow DM (DONT SET - used for possessing)</Flag>
+		<Flag id="48" Name="Unused" />
+		<Flag id="49" Name="Unused" />
+		<Flag id="50" Name="Unused" />
+		<Flag id="51" Name="Charmed">Monster is charmed</Flag>
+		<Flag id="52" Name="Mobile">Monster will wander around the area</Flag>
+		<Flag id="53" Name="Scripted">Monster is scripted (requires special file)</Flag>
+		<Flag id="54" Name="TakeLoot">Monster will try to take players' loot</Flag>
+		<Flag id="55" Name="FastWander">Monster will quickly wander around the area</Flag>
+		<Flag id="56" Name="Pet">Monster is a pet</Flag>
+		<Flag id="57" Name="Unused" />
+		<Flag id="58" Name="Unused" />
+		<Flag id="59" Name="Unused" />
+		<Flag id="60" Name="Unused" />
+		<Flag id="61" Name="Unused" />
+		<Flag id="62" Name="Unused" />
+		<Flag id="63" Name="Sexless">Monster is sexless</Flag>
+		<Flag id="64" Name="Unused" />
+		<Flag id="65" Name="Unused" />
+		<Flag id="66" Name="Unused" />
+		<Flag id="67" Name="Unused" />
+		<Flag id="68" Name="Unused" />
+		<Flag id="69" Name="Unused" />
+		<Flag id="70" Name="Unused" />
+		<Flag id="71" Name="Unused" />
+		<Flag id="72" Name="NoMobile">Monster will not wander</Flag>
+		<Flag id="73" Name="Unused" />
+		<Flag id="74" Name="Unused" />
+		<Flag id="75" Name="Unused" />
+		<Flag id="76" Name="Unused" />
+		<Flag id="77" Name="Unused" />
+		<Flag id="78" Name="Unused" />
+		<Flag id="79" Name="Unused" />
+		<Flag id="80" Name="Unused" />
+		<Flag id="81" Name="Unused" />
+		<Flag id="82" Name="Unused" />
+		<Flag id="83" Name="Unused" />
+		<Flag id="84" Name="Unused" />
+		<Flag id="85" Name="Unused" />
+		<Flag id="86" Name="Unused" />
+		<Flag id="87" Name="Unused" />
+		<Flag id="88" Name="Unused" />
+		<Flag id="89" Name="Unused" />
+		<Flag id="90" Name="Unused" />
+		<Flag id="91" Name="Regen">Monster regenerates</Flag>
+		<Flag id="92" Name="+2ToHit">Player needs +2 weapon or better to be hit</Flag>
+		<Flag id="93" Name="+3ToHit">Player needs +3 weapon or better to be hit</Flag>
+		<Flag id="94" Name="Unused" />
+		<Flag id="95" Name="StealAggro">Monster will steal from players during combat</Flag>
+		<Flag id="96" Name="Steals">Monster will steal from players</Flag>
+		<Flag id="97" Name="Unused" />
+		<Flag id="98" Name="Unused" />
+		<Flag id="99" Name="Unused" />
+		<Flag id="100" Name="Assisted">Monster will be assisted by any monster with 101-WillAssist (DONT SET - use assist fields)</Flag>
+		<Flag id="101" Name="WillAssist">Monster will assist any monster with 100-Assisted (DONT SET - use assist fields)</Flag>
+		<Flag id="102" Name="NightOnly">Monster will only come at night</Flag>
+		<Flag id="103" Name="OutlawAggro">Monster will aggro outlaws</Flag>
+		<Flag id="104" Name="Unused" />
+		<Flag id="105" Name="Unused" />
+		<Flag id="106" Name="Unused" />
+		<Flag id="107" Name="Wields">Monster will wield weapons in their inventory</Flag>
+		<Flag id="108" Name="Unused" />
+		<Flag id="109" Name="Unused" />
+		<Flag id="110" Name="DayOnly">Monster will only come during the day</Flag>
+		<Flag id="111" Name="SneakLoad">Don't show when monster arrives</Flag>
+		<Flag id="112" Name="Unused" />
+		<Flag id="113" Name="Unused" />
+		<Flag id="114" Name="NoDodge">Monster cannot be dodged</Flag>
+		<Flag id="115" Name="Unused" />
+		<Flag id="116" Name="Unused" />
+		<Flag id="117" Name="AggroShoplifter">Monster is attacking a shoplifter</Flag>
+		<Flag id="118" Name="Chasing">Monster chasing someone</Flag>
+		<Flag id="119" Name="HardCircle">Monster resists circle - circled as if undead</Flag>
+		<Flag id="120" Name="WillYell">Monster will yell for help</Flag>
+		<Flag id="121" Name="HasYelled">Monster yelled for help - DONT SET</Flag>
+		<Flag id="122" Name="NoShowYell">Monster doesn't actually yell for help, but mobs arrive to help</Flag>
+		<Flag id="123" Name="BeneCast">Monster is a benevolent spellcaster</Flag>
+		<Flag id="124" Name="Logged">Anything that happens to the monster will be logged until saved</Flag>
+		<Flag id="125" Name="Unused" />
+		<Flag id="126" Name="Unused" />
+		<Flag id="127" Name="LvlBaseStun">Level-based stunnable</Flag>
+		<Flag id="128" Name="NoTouch">Monster resists touch-of-death</Flag>
+		<Flag id="129" Name="Greedy">Monster will sometimes steal cash instead of killing</Flag>
+		<Flag id="130" Name="Subdues">Monster will sometimes knock the player unconscious and haul them off to jail</Flag>
+		<Flag id="131" Name="LvlRestrict">Monster can only be killed/attacked by someone less than maxLevel</Flag>
+		<Flag id="132" Name="NoBackstab">Monster cannot be backstabbed - for really small creatures and stuff like slimes</Flag>
+		<Flag id="133" Name="Unused" />
+		<Flag id="134" Name="Unused" />
+		<Flag id="135" Name="Unused" />
+		<Flag id="136" Name="Unused" />
+		<Flag id="137" Name="Unused" />
+		<Flag id="138" Name="Unused" />
+		<Flag id="139" Name="Unused" />
+		<Flag id="140" Name="Unused" />
+		<Flag id="141" Name="Unused" />
+		<Flag id="142" Name="Unused" />
+		<Flag id="143" Name="Unused" />
+		<Flag id="144" Name="Unused" />
+		<Flag id="145" Name="Unused" />
+		<Flag id="146" Name="Unused" />
+		<Flag id="147" Name="Unused" />
+		<Flag id="148" Name="Unused" />
+		<Flag id="149" Name="Unused" />
+		<Flag id="150" Name="Unused" />
+		<Flag id="151" Name="Unused" />
+		<Flag id="152" Name="Unused" />
+		<Flag id="153" Name="Unused" />
+		<Flag id="154" Name="Unused" />
+		<Flag id="155" Name="Unused" />
+		<Flag id="156" Name="Unused" />
+		<Flag id="157" Name="NoLvl1">Monster uneffected by level 1 spells</Flag>
+		<Flag id="158" Name="NoLvl2">Monster uneffected by level 2 spells or lower</Flag>
+		<Flag id="159" Name="NoLvl3">Monster uneffected by level 3 spells or lower</Flag>
+		<Flag id="160" Name="NoLvl4">Monster uneffected by level 4 spells or lower</Flag>
+		<Flag id="161" Name="NoKick">Monster cannot be kicked (for things like slimes)</Flag>
+		<Flag id="162" Name="SA:DeathScream">Monster screams like a banshee</Flag>
+		<Flag id="163" Name="WillSneak">Monster will sneak around</Flag>
+		<Flag id="164" Name="isSneaking">Monster is sneaking</Flag>
+		<Flag id="165" Name="Unused" />
+		<Flag id="166" Name="RandAggro">Monster will randomly become aggressive</Flag>
+		<Flag id="167" Name="NoPoison">Monster cannot be poisoned</Flag>
+		<Flag id="168" Name="NoCharm">Monster cannot be charmed</Flag>
+		<Flag id="169" Name="SpecUndead">Monster turned as 'special' undead -- harder to turn</Flag>
+		<Flag id="170" Name="Unused" />
+		<Flag id="171" Name="Unused" />
+		<Flag id="172" Name="Unused" />
+		<Flag id="173" Name="NoExpLoss">Monster does not make player lose exp when they die</Flag>
+		<Flag id="174" Name="Unused" />
+		<Flag id="175" Name="Unused" />
+		<Flag id="176" Name="Unused" />
+		<Flag id="177" Name="Unused" />
+		<Flag id="178" Name="Unused" />
+		<Flag id="179" Name="Unused" />
+		<Flag id="180" Name="SA:Petrifies">Monster's touch can turn to stone</Flag>
+		<Flag id="181" Name="Unused" />
+		<Flag id="182" Name="AlwaysAggro">Monster ALWAYS aggressive, ignoring other rules that can override aggro</Flag>
+		<Flag id="183" Name="KillsPerms">Monster will attack perm creatures</Flag>
+		<Flag id="184" Name="KillAllMobs">Monster attacks all mobs it will not assist</Flag>
+		<Flag id="185" Name="KillMaster">Monster kills master - not pet</Flag>
+		<Flag id="186" Name="Unused" />
+		<Flag id="187" Name="FastTick">Monster fast ticks when no one in room</Flag>
+		<Flag id="188" Name="RestrictXP">Lower exp after max-killable level</Flag>
+		<Flag id="189" Name="Unused" />
+		<Flag id="190" Name="Unused" />
+		<Flag id="191" Name="TollKeeper">Monster is a tollkeeper</Flag>
+		<Flag id="192" Name="AlignVary">Monster's alignment will vary</Flag>
+		<Flag id="193" Name="AssistHitChance">Monsters assist each others' chance to hit</Flag>
+		<Flag id="194" Name="Sweeper">Monster is a streetsweeper - cleans rooms (will pick up a lot of objects)</Flag>
+		<Flag id="195" Name="CustomType">Monster is custom - has no specific mtype</Flag>
+		<Flag id="196" Name="NoAdjust">Monster will not adjust on loading</Flag>
+		<Flag id="197" Name="Unused" />
+		<Flag id="198" Name="Unused" />
+		<Flag id="199" Name="Unused" />
+		<Flag id="200" Name="Unused" />
+		<Flag id="201" Name="StayActive">Monster will remain on active list until killed</Flag>
+		<Flag id="202" Name="NoAutoCrit">Monster will not be auto-critted</Flag>
+		<Flag id="203" Name="Unused" />
+		<Flag id="204" Name="AntiMagic">Monster is anti-magic - blocks magic in room</Flag>
+		<Flag id="205" Name="MageStun">Monster is mage/lich stun only</Flag>
+		<Flag id="206" Name="SA:FireAura">Monster has fire aura attack</Flag>
+		<Flag id="207" Name="SA:ColdAura">Monster has cold aura attack</Flag>
+		<Flag id="208" Name="SA:NauseaAura">Monster has a nauseating aura</Flag>
+		<Flag id="209" Name="SA:NegAura">Monster has a negative life-draining aura</Flag>
+		<Flag id="210" Name="SA:WindAura">Monster has a turbulent wind aura</Flag>
+		<Flag id="211" Name="Unused" />
+		<Flag id="212" Name="Unused" />
+		<Flag id="213" Name="Unused" />
+		<Flag id="214" Name="SA:Wounding">Monster has wounding attack</Flag>
+		<Flag id="215" Name="Berserk">Monster is berserk (DONT SET)</Flag>
+		<Flag id="216" Name="SA:Berserking">Monster will berserk</Flag>
+		<Flag id="217" Name="Teleported">Monster was teleported (DO NOT SET)</Flag>
+		<Flag id="218" Name="Unused" />
+		<Flag id="219" Name="Unused" />
+		<Flag id="220" Name="Unused" />
+		<Flag id="221" Name="RaceAggroInvert">Race aggro invert flag</Flag>
+		<Flag id="222" Name="ClassAggroInvert">Class aggro invert flag</Flag>
+		<Flag id="223" Name="Unused" />
+		<Flag id="224" Name="SaveFull">Save the full mob to a roomfile instead of just a reference</Flag>
+		<Flag id="225" Name="DeityAggroInvert">Deity aggro invert flag</Flag>
+		<Flag id="226" Name="Unused" />
+		<Flag id="227" Name="Unused" />
+		<Flag id="228" Name="Unused" />
+		<Flag id="229" Name="Unused" />
+		<Flag id="230" Name="Unused" />
+		<Flag id="231" Name="Raiding">Monster is raiding (DO NOT SET)</Flag>
+		<Flag id="232" Name="Unused" />
+		<Flag id="233" Name="Unused" />
+		<Flag id="234" Name="Unused" />
+		<Flag id="235" Name="Unused" />
+		<Flag id="236" Name="Unused" />
+		<Flag id="237" Name="Unused" />
+	</Monsters>
+	<Objects>
+		<Flag id="1" Name="Perm">Object is permanent</Flag>
+		<Flag id="2" Name="Hidden">Object is hidden</Flag>
+		<Flag id="3" Name="Invisible">Object is invisible</Flag>
+		<Flag id="4" Name="SomePrefix">"some" prefix</Flag>
+		<Flag id="5" Name="PushPullSpringsTrap">Pushing or pulling this object springs the room's trap</Flag>
+		<Flag id="6" Name="NoPrefix">No prefix</Flag>
+		<Flag id="7" Name="Fishing">Can be used to fish</Flag>
+		<Flag id="8" Name="NoWgtContain">Container of weightless holding</Flag>
+		<Flag id="9" Name="TempPerm">Temporarily permanent</Flag>
+		<Flag id="10" Name="InvPerm">Inventory-permanent</Flag>
+		<Flag id="11" Name="NoMageLich">Mages and liches cannot wear/use object</Flag>
+		<Flag id="12" Name="LightSource">Object serves as a light</Flag>
+		<Flag id="13" Name="GoodOnly">Usable only by good players</Flag>
+		<Flag id="14" Name="EvilOnly">Usable only by evil players</Flag>
+		<Flag id="15" Name="NoEnchant">Object cannot be enchanted</Flag>
+		<Flag id="16" Name="NoFix">Object cannot be repaired</Flag>
+		<Flag id="17" Name="ClimbGear">Climbing gear</Flag>
+		<Flag id="18" Name="NoTake">Object cannot be taken</Flag>
+		<Flag id="19" Name="Scenery">Part of room description/scenery (hidden, cannot be searched for)</Flag>
+		<Flag id="20" Name="Darkness">Object creates magical darkness</Flag>
+		<Flag id="21" Name="Hot">Object is hot (can be used in cooking)</Flag>
+		<Flag id="22" Name="RandEnchant">Object is randomly enchanted</Flag>
+		<Flag id="23" Name="Cursed">Object is cursed</Flag>
+		<Flag id="24" Name="Worn">Object is being worn</Flag>
+		<Flag id="25" Name="FloorUse">Can be used from the floor</Flag>
+		<Flag id="26" Name="Devours">Container devours items</Flag>
+		<Flag id="27" Name="FemaleOnly">Usable by only females</Flag>
+		<Flag id="28" Name="MaleOnly">Usable by only males</Flag>
+		<Flag id="29" Name="SexlessOnly">Usable by only sexless creatures</Flag>
+		<Flag id="30" Name="PledgeOnly">Usable by only pledged players</Flag>
+		<Flag id="31" Name="Magic">Object is magical (displays (M) with detect-magic)</Flag>
+		<Flag id="32" Name="ClassInvert">Invert class-restriction rules</Flag>
+		<Flag id="33" Name="Assassin">Only Assassins may use</Flag>
+		<Flag id="34" Name="Berserker">Only Berserkers may use</Flag>
+		<Flag id="35" Name="Cleric">Only Clerics may use</Flag>
+		<Flag id="36" Name="Fighter">Only Fighters may use</Flag>
+		<Flag id="37" Name="Mage">Only Mages may use</Flag>
+		<Flag id="38" Name="Paladin">Only Paladins may use</Flag>
+		<Flag id="39" Name="Ranger">Only Rangers may use</Flag>
+		<Flag id="40" Name="Thief">Only Thieves may use</Flag>
+		<Flag id="41" Name="Vampire">Only Vampires may use</Flag>
+		<Flag id="42" Name="Monk">Only Monks may use</Flag>
+		<Flag id="43" Name="Deathknight">Only Deathknights may use</Flag>
+		<Flag id="44" Name="Druid">Only Druids may use</Flag>
+		<Flag id="45" Name="Lich">Only Liches may use</Flag>
+		<Flag id="46" Name="Werewolf">Only Werewolves may use</Flag>
+		<Flag id="47" Name="Bard">Only Bards may use</Flag>
+		<Flag id="48" Name="Rogue">Only Rogues may use</Flag>
+		<Flag id="49" Name="Disposable">Object will not keep area room in memory</Flag>
+		<Flag id="50" Name="NoShatter">Weapon will never shatter</Flag>
+		<Flag id="51" Name="AlwaysCrit">Weapon will always critical</Flag>
+		<Flag id="52" Name="Lucky">Object is a luck charm</Flag>
+		<Flag id="53" Name="Casts">Weapon casts spells on hit (realm-offensive only)</Flag>
+		<Flag id="54" Name="TwoHands">Weapon requires two hands to wield (no double wield)</Flag>
+		<Flag id="55" Name="EquipEffect">Equiping this object bestows an effect</Flag>
+		<Flag id="56" Name="JustLoaded">Object was just loaded on a monster and hasn't been obtained by a player yet so exp can be gained from stealing it</Flag>
+		<Flag id="57" Name="ChaoticOnly">Chaotics only</Flag>
+		<Flag id="58" Name="LawfulOnly">Lawfuls only</Flag>
+		<Flag id="59" Name="TmpEnchant">Temporarily enchanted</Flag>
+		<Flag id="60" Name="StartingItem">Starting item - cannot be stolen or pawned for money</Flag>
+		<Flag id="61" Name="Unused" />
+		<Flag id="62" Name="Clan1">Only clan 1 may use</Flag>
+		<Flag id="63" Name="Clan2">Only clan 2 may use</Flag>
+		<Flag id="64" Name="Clan3">Only clan 3 may use</Flag>
+		<Flag id="65" Name="Clan4">Only clan 4 may use</Flag>
+		<Flag id="66" Name="Clan5">Only clan 5 may use</Flag>
+		<Flag id="67" Name="Clan6">Only clan 6 may use</Flag>
+		<Flag id="68" Name="Clan7">Only clan 7 may use</Flag>
+		<Flag id="69" Name="Clan8">Only clan 8 may use</Flag>
+		<Flag id="70" Name="Clan9">Only clan 9 may use</Flag>
+		<Flag id="71" Name="Clan10">Only clan 10 may use</Flag>
+		<Flag id="72" Name="Unused" />
+		<Flag id="73" Name="Unused" />
+		<Flag id="74" Name="Unused" />
+		<Flag id="75" Name="Unused" />
+		<Flag id="76" Name="Unused" />
+		<Flag id="77" Name="Unused" />
+		<Flag id="78" Name="Unused" />
+		<Flag id="79" Name="Unused" />
+		<Flag id="80" Name="Unused" />
+		<Flag id="81" Name="LoadAll">When trading, load all RandomObjects, rather than a random one</Flag>
+		<Flag id="82" Name="R-Dissolve">Object resists dissolve</Flag>
+		<Flag id="83" Name="Reclaimed">Object has been reclaimed</Flag>
+		<Flag id="84" Name="Unused" />
+		<Flag id="85" Name="Unused" />
+		<Flag id="86" Name="Unused" />
+		<Flag id="87" Name="Unused" />
+		<Flag id="88" Name="Unused" />
+		<Flag id="89" Name="Unused" />
+		<Flag id="90" Name="Unused" />
+		<Flag id="91" Name="Unused" />
+		<Flag id="92" Name="Drinkable">You can drink the object</Flag>
+		<Flag id="93" Name="Eatable">You can eat the object</Flag>
+		<Flag id="94" Name="AlwaysDrop">Monsters always drop this object</Flag>
+		<Flag id="95" Name="ConsumeHeal">Consumable object that will heal the player</Flag>
+		<Flag id="96" Name="Unused" />
+		<Flag id="97" Name="Unused" />
+		<Flag id="98" Name="Unused" />
+		<Flag id="99" Name="Unused" />
+		<Flag id="100" Name="Clan11">Only clan 11 may use</Flag>
+		<Flag id="101" Name="Clan12">Only clan 12 may use</Flag>
+		<Flag id="102" Name="Unused" />
+		<Flag id="103" Name="Unused" />
+		<Flag id="104" Name="Unused" />
+		<Flag id="105" Name="Custom">Object is a custom</Flag>
+		<Flag id="106" Name="NoShopLift">Object cannot be shoplifted</Flag>
+		<Flag id="107" Name="Stolen">Object was shoplifted (so people can't sell shoplifted items)</Flag>
+		<Flag id="108" Name="Unused" />
+		<Flag id="109" Name="HitsMist">Object can hit misted vampire</Flag>
+		<Flag id="110" Name="Silver">Object made of silver - extra damage to werewolf</Flag>
+		<Flag id="111" Name="HoldBonus">Object confers a bonus to hit if held</Flag>
+		<Flag id="112" Name="Unused" />
+		<Flag id="113" Name="NoSteal">Object cannot be stolen</Flag>
+		<Flag id="114" Name="1hShield">Object is a small shield</Flag>
+		<Flag id="115" Name="Unused" />
+		<Flag id="116" Name="Unused" />
+		<Flag id="117" Name="Unused" />
+		<Flag id="118" Name="Unused" />
+		<Flag id="119" Name="NoPawn">Object not pawnable</Flag>
+		<Flag id="120" Name="BreakDrop">Object breaks when drops</Flag>
+		<Flag id="121" Name="Lore">Player may only have a limited number of this object</Flag>
+		<Flag id="122" Name="RaceSelInvert">Invert race-selective rules</Flag>
+		<Flag id="123" Name="Dwarf">Only Dwarves may use</Flag>
+		<Flag id="124" Name="Elf">Only Elves may use</Flag>
+		<Flag id="125" Name="Half-Elf">Only Half-Elves may use</Flag>
+		<Flag id="126" Name="Halfling">Only Halflings may use</Flag>
+		<Flag id="127" Name="Human">Only Humans may use</Flag>
+		<Flag id="128" Name="Orc">Only Orcs may use</Flag>
+		<Flag id="129" Name="Half-Giant">Only Half-Giants may use</Flag>
+		<Flag id="130" Name="Gnome">Only Gnomes may use</Flag>
+		<Flag id="131" Name="Troll">Only Trolls may use</Flag>
+		<Flag id="132" Name="Half-Orc">Only Half-Orcs may use</Flag>
+		<Flag id="133" Name="Ogre">Only Ogres may use</Flag>
+		<Flag id="134" Name="Dark-Elf">Only Dark-Elves may use</Flag>
+		<Flag id="135" Name="Goblin">Only Goblins may use</Flag>
+		<Flag id="136" Name="Minotaur">Only Minotaurs may use</Flag>
+		<Flag id="137" Name="Seraph">Only Seraphs may use</Flag>
+		<Flag id="138" Name="Kobold">Only Kobolds may use</Flag>
+		<Flag id="139" Name="Cambion">Only Cambions may use</Flag>
+		<Flag id="140" Name="Barbarian">Only Barbarians may use</Flag>
+		<Flag id="141" Name="Kataran">Only Katarans may use</Flag>
+		<Flag id="142" Name="Envenomed">Object has been envenomed</Flag>
+		<Flag id="143" Name="NullMagic">Object does not reveal that it is magical to detect-magic</Flag>
+		<Flag id="144" Name="NoBreak">Object does not break</Flag>
+		<Flag id="145" Name="CanTouchWith">Monks can use touch-of-death with this weapon wielded</Flag>
+		<Flag id="146" Name="JustBought">Object was just bought and is refundable</Flag>
+		<Flag id="147" Name="NoDrop">Can't drop or otherwise get rid of this object</Flag>
+		<Flag id="148" Name="DisplayFile">Display file all at once</Flag>
+		<Flag id="149" Name="Breaked">Object is broken by break command</Flag>
+		<Flag id="150" Name="SmallBow">Objext is a small bow</Flag>
+		<Flag id="151" Name="CoinOperated">Coin operated object</Flag>
+		<Flag id="152" Name="Prepared">Object is being prepared</Flag>
+		<Flag id="153" Name="StrengthBow">Missile weapon uses strength bonus</Flag>
+		<Flag id="154" Name="Unique">Object is unique or limited</Flag>
+		<Flag id="155" Name="NoBulkCont">Bulkless container object</Flag>
+		<Flag id="156" Name="NoBulk">Bulkless object</Flag>
+		<Flag id="157" Name="Unused" />
+		<Flag id="158" Name="NoPeekAt">Object can not be peeked at</Flag>
+		<Flag id="159" Name="Bash+">Object does extra bash damage equal to dice</Flag>
+		<Flag id="160" Name="Keep">Object is being kept - cannot be dropped or sole on accident</Flag>
+		<Flag id="161" Name="NoBackstab">Cannot backstab with this weapon</Flag>
+		<Flag id="162" Name="SaveFull">Save the entire object to pfile/roomfile instead of just a reference. Mainly used when a ct/dm has changed an item, cleared when *saving or for custom</Flag>
+		<Flag id="163" Name="BodyPart">Object cannot be peeked/stolen, unset when monster dies</Flag>
+		<Flag id="164" Name="Darkmetal">Object is a darkmetal item (destroyed in sunlight)</Flag>
+		<Flag id="165" Name="Tiefling">Only Tieflings may use</Flag>
+	</Objects>
+	<SpecialAttacks>
+		<Flag id="1" Name="Single Target"></Flag>
+		<Flag id="2" Name="AE: Enemey"></Flag>
+		<Flag id="3" Name="AE: All"></Flag>
+		<Flag id="4" Name="AE: Player"></Flag>
+		<Flag id="5" Name="AE: Monster"></Flag>
+		<Flag id="6" Name="Require Hide"></Flag>
+		<Flag id="7" Name="No Dodge"></Flag>
+		<Flag id="8" Name="No Parry"></Flag>
+		<Flag id="9" Name="No Block"></Flag>
+		<Flag id="10" Name="Undead Targets Only"></Flag>
+		<Flag id="11" Name="No Undead Targets"></Flag>
+		<Flag id="12" Name="No Undead Ward"></Flag>
+		<Flag id="13" Name="No Drain Shield"></Flag>
+		<Flag id="14" Name="Undead Ward Reduces Dmg"></Flag>
+		<Flag id="15" Name="Intelligence Reduces Dmg"></Flag>
+		<Flag id="16" Name="Berserk Reduces Dmg"></Flag>
+		<Flag id="17" Name="Drain Shield Reduces Dmg"></Flag>
+		<Flag id="18" Name="Save NoDmg"></Flag>
+		<Flag id="19" Name="Half Hp Dmg"></Flag>
+		<Flag id="20" Name="Can Dinsintegrate"></Flag>
+		<Flag id="21" Name="RM No Dmg"></Flag>
+		<Flag id="22" Name="Earth Shield Reduce"></Flag>
+		<Flag id="23" Name="Acid"></Flag>
+		<Flag id="24" Name="Dissolves"></Flag>
+		<Flag id="25" Name="Poisons"></Flag>
+		<Flag id="26" Name="Diseases"></Flag>
+		<Flag id="27" Name="Blinds"></Flag>
+		<Flag id="28" Name="Can Knock Unconscious"></Flag>
+		<Flag id="29" Name="Zap Mana"></Flag>
+		<Flag id="30" Name="Randomize Stun"></Flag>
+		<Flag id="31" Name="Check Die Rob"></Flag>
+		<Flag id="32" Name="Drain Damge"></Flag>
+		<Flag id="33" Name="Day Only"></Flag>
+		<Flag id="34" Name="Night Only"></Flag>
+		<Flag id="35" Name="Check Phys Dmg"></Flag>
+		<Flag id="36" Name="Check Neg Energy Dmg"></Flag>
+		<Flag id="37" Name="No Attack on Low HP"></Flag>
+		<Flag id="38" Name="Holy War Only"></Flag>
+		<Flag id="39" Name="No Unconscious"></Flag>
+		<Flag id="40" Name="Target Needs Mana"></Flag>
+		<Flag id="41" Name="No Room Message on Save"></Flag>
+		<Flag id="42" Name="Breathing Targets Only"></Flag>
+	</SpecialAttacks>
+	<PropStorage>
+		<Flag id="1" Name="View Log">Player can view property log</Flag>
+	</PropStorage>
+	<PropShop>
+		<Flag id="1" Name="View Log">Player can view property log</Flag>
+		<Flag id="2" Name="Can Stock">Player is allowed to stock items. Stock + Remove means the player can reprice items</Flag>
+		<Flag id="3" Name="Can Remove">Player is allowed to remove items. Stock + Remove means the player can reprice items</Flag>
+	</PropShop>
+	<PropHouse>
+		<Flag id="1" Name="Private">Private property</Flag>
+	</PropHouse>
+	<PropGuild>
+		<Flag id="1" Name="Public">Public property</Flag>
+	</PropGuild>
+</Flags>

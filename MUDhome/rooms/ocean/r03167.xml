@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3167" Version="2.40" Area="ocean">
+  <Name>Lost in the Respitial Sea</Name>
+  <ShortDescription>You are floating on the waves of a vast sea, hopelessly lost.</ShortDescription>
+  <LongDescription>You are going to have to find land soon.  The weather can't stay like this
+forever.  If it gets rough you might be swept even further out to sea, and
+thus eliminate any chance at all of ever getting back to Oceancrest.  Have
+you ever heard the stories in the pubs of the pirate ship Snapdragon?</LongDescription>
+  
+  <Established>756084371</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3166</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3174</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3170</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3168</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

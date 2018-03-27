@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="508" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are walking along Rosecrest Street, west of Lawrence's Sporting Shop.</ShortDescription>
+  <LongDescription>Lawrence LeMaande runs a rather large sporting goods shop, where you can 
+purchase a number of useful items for whatever sport you enjoy, from light
+shoes for long distance walking to mountain climbing equipment for those
+who enjoy the adrenaline rush of possibly falling hundreds of feet to an
+unyielding rock floor.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">507</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">509</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

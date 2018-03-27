@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1313" Version="2.40a" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are travelling along Riverdell Way, west of the Snake Eyes facility.</ShortDescription>
+  <LongDescription>The Snake Eyes Gambling Facility is a notorious bar and casino where
+people are known to enter but never leave from.  The police have tried
+to stop the activity, but seem to have little success.  Gambling is not
+at all illegal in Oceancrest, but losing money and owing a shark thousands
+of gold pieces with 200% interest per hour tends to cause problems.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1312</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1314</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

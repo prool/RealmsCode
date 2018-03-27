@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3908" Version="2.40" Area="ocean">
+  <Name>Thieve's Guild Red Room</Name>
+  <ShortDescription>You are in the thieve's guild red qualification room.</ShortDescription>
+  <LongDescription>If you are successful in stealing the training room key from the master
+training thief, you will not have to fight to the death.  The guild doesn't
+allow just any inept and bungling would-be thief into the training room.</LongDescription>
+  <LowLevel>5</LowLevel>
+  <HighLevel>5</HighLevel>
+  
+  <Established>770691585</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">613</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3905</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="training door">
+      <Keys/>
+      <Room Area="ocean">2295</Room>
+      <Key>77</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

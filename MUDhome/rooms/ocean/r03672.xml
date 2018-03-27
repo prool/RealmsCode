@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3672" Version="2.40" Area="ocean">
+  <Name>Damp Tunnel</Name>
+  <ShortDescription>A trickle of water runs down the center of the floor in this slimy tunnel.</ShortDescription>
+  <LongDescription>There's a smell of unwashed bodies coming from the southern direction,
+and there's also a sound of people arguing in that direction.  The north 
+is rather dismal.  The water is flowing from that direction.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3671</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3673</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

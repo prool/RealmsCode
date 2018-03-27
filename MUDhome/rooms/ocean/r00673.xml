@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="673" Version="2.47i" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are traveling along Hofton Avenue, just north of the Embassy Court.</ShortDescription>
+  <LongDescription>The two predominant minority races in Oceancrest are the elves and dwarves.
+Both races have cities of their own, and the embassies to the south provide
+their people with a link to their heritage.  In addition, the embassies 
+provide a unified, political voice to the government with sympathies towards
+their own race. </LongDescription>
+  <Wander></Wander>
+  <Track><Direction>west</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">672</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">664</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

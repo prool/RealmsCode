@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="5197" Version="2.40" Area="ocean">
+  <Name>Light Clouds</Name>
+  <ShortDescription>You are flying over the Vallenda Pass.  120.n0.e0.s0.w23</ShortDescription>
+  <LongDescription>The sides of the pass are steep and rocky, making it difficult to fly.
+The dragon requires your constant attention, as it flys fast through the
+narrow and dangerous mountain pass.</LongDescription>
+  
+  <Established>773819310</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5196</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5198</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

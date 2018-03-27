@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="624" Area="ocean" Version="2.40">
+  <Name>blue stone</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>2</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">stone</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="17"/>
+    <Bit Num="18"/>
+  </Flags>
+  <Description>You see a bright blue stone next to a red stone in the wall.</Description>
+  <UseOutput>02213313</UseOutput>
+  <Weight>1</Weight>
+  <Type>14</Type>
+  <InBag/>
+</Object>

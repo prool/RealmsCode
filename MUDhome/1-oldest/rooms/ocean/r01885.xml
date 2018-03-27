@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1885" Version="2.40" Area="ocean">
+  <Name>The Angry Camper Hunting Supplies</Name>
+  <LongDescription>The Angry Camper Hunting Supplies shop is dedicated towards the lay 
+person who wants to be protected from the dangers of the wilderness.
+This shop specializes in simple weapons that just about anyone can 
+use.  Although they're not very powerful, a simple show of force is 
+sometimes all you need to ward off a hungry bear.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1047</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1888</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

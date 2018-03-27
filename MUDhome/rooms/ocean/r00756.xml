@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="756" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are walking along Wakeforest Drive, between the Wakarimasu Park.</ShortDescription>
+  <LongDescription>The massive Wakarimasu Park was built nearly two decades ago with the
+unclaimed land on the north side of Oceancrest Avenue.  Since that plot
+of land was the first thing seen by visitors to Oceancrest, the City
+decided to build an elegant park, which spans approximately two city blocks.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">755</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">757</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

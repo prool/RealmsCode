@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="895" Version="2.40" Area="ocean">
+  <Name>Secret Quick Car Transporter</Name>
+  <ShortDescription>You are in the elven quick car transporters.  You appear to have come
+to a dead end in the caves.  Looks like you're somewhere in the mountains.</ShortDescription>
+  <LongDescription>You've found an old quick car terminal.  There's a car here for you to
+use but you're not sure if it'll get you anywhere.  The quick cars were
+created by the elves to get around the mountains quickly and efficiently.</LongDescription>
+  <Trap>3</Trap>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>passage</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">1299</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="niche">
+      <Keys/>
+      <Room Area="ocean">3219</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="9"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

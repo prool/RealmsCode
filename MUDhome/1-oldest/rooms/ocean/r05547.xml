@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="5547" Version="2.40" Area="ocean">
+  <Name>Glabor Gulley Altar</Name>
+  <ShortDescription>You stand before a crude stone altar, in the open air of Glabor Gulley.</ShortDescription>
+  <LongDescription>From this height, you can look down on a community gathering area for the
+mountain trolls which is between you and the vile structure to the vile
+structure to the east.  Behind the altar you can see a great circular
+firepit with a roaring flame.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">788</Mob>
+      <Mob Area="ocean" Num="1">788</Mob>
+      <Mob Area="ocean" Num="2">788</Mob>
+      <Mob Area="ocean" Num="3">788</Mob>
+      <Mob Area="ocean" Num="4">788</Mob>
+      <Mob Area="ocean" Num="5">788</Mob>
+      <Mob Area="ocean" Num="6">788</Mob>
+      <Mob Area="ocean" Num="7">788</Mob>
+      <Mob Area="ocean" Num="8">788</Mob>
+      <Mob Area="ocean" Num="9">788</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5545</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

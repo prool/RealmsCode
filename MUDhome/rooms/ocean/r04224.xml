@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="4224" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>You are traveling on the east side of the ground floor of Castle Rutger.</ShortDescription>
+  <LongDescription>This is the widest hallway in the entire castle, and from here it heads
+south and northwest.  The ceiling is high and torches are close spaced 
+along the way, providing a well lighted throughfare.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4223</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4225</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

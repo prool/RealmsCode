@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="312" Version="2.40" Area="ocean">
+  <Name>Roland's Fighting Academy Training Room</Name>
+  <ShortDescription>You have successfully defeated the blue knight and are worthy to advance.</ShortDescription>
+  <LongDescription>Only the bravest and most powerful knights may advance through the Roland
+Royal Fighting Academy, and you have earned your rank of Punisher, 
+Second Class.  This vial of holy water will help you recover some of
+the dammage you sustained in battle.  Good luck in your adventures and
+return here when you are ready for your final lesson.</LongDescription>
+  <LowLevel>7</LowLevel>
+  <HighLevel>7</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">359</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">308</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

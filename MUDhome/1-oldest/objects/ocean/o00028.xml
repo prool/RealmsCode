@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="28" Area="ocean" Version="2.40">
+  <Name>metal visor</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>20</ShotsMax>
+  <ShotsCur>20</ShotsCur>
+  <Armor>13</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">87</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">visor</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+  </Flags>
+  <Weight>5</Weight>
+  <Type>6</Type>
+  <SubType>plate</SubType>
+  <WearFlag>19</WearFlag>
+  <InBag/>
+</Object>

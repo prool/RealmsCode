@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  heal spell      |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 25
+
+This spell totally refills the HP of the person casted on fixing nearly any
+wounds that can be inflicted. Heal can be cast by only paladins and non grey
+aura clerics. Casters are limited to a certain number of uses per day, depending
+on the level of the caster. It is very unwise and unhealthy for a lich to be the
+recipient of this spell.
+
+Syntax:
+cast heal <target>
+

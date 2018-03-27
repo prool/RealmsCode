@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1903" Version="2.40" Area="ocean">
+  <Name>Central Arena Preparation Room</Name>
+  <ShortDescription>You are in the Oceancrest Central Arena Ready Room.</ShortDescription>
+  <LongDescription>The Preparation Lounge is designed to be a locker room for the 
+gladiators before they venture out into the arena.  To the east is
+the Warm-Up Arena, where young gladiators and knights may challenge
+you.  Further south is the Knight's Honor Arena.  Knights do not
+initiate the fighting, but will fight a frightening battle once 
+engaged.  To the south of the Ready Room is the One-on-One Combat
+Arena.  Only one person may enter this arena at a time to battle
+the lone gladiator in a one-on-one, hand-to-hand, to the death combat.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1901</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1904</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1908</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

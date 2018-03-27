@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="2319" Version="2.40" Area="ocean">
+  <Name>The Fiesty Kitten Nightclub and Bar</Name>
+  <ShortDescription>You are in the main party section of the Fiesty Kitten Nightclub and Bar.</ShortDescription>
+  <LongDescription>The nightclub is notorious for barfights and other rocking parties.  For
+this reason, the management doesn't take responsibility for any loss of
+possessions by any patrons.  Morality patrol officers often have to stop
+by to clean out the bloody bodies of those not so skilled in the ways
+of defense and bar-style fighting.</LongDescription>
+  <LowLevel>10</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">334</Mob>
+      <Mob Area="ocean" Num="1">335</Mob>
+      <Mob Area="ocean" Num="2">336</Mob>
+      <Mob Area="ocean" Num="3">337</Mob>
+      <Mob Area="ocean" Num="4">338</Mob>
+      <Mob Area="ocean" Num="5">339</Mob>
+      <Mob Area="ocean" Num="6">340</Mob>
+      <Mob Area="ocean" Num="7">341</Mob>
+      <Mob Area="ocean" Num="8">334</Mob>
+      <Mob Area="ocean" Num="9">339</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">338</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">176</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2318</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

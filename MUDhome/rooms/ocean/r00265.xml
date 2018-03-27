@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="265" Version="2.40" Area="ocean">
+  <Name>Circular Room</Name>
+  <ShortDescription>This room is completely circular in shape, with a door to the southeast.</ShortDescription>
+  <LongDescription>You're led to wonder what a room like this is doing in the sewer.  After
+considering it for several minutes, you finally come to the conclusion 
+that it must have been used by some religous cult.  Mystical markings and 
+animals skulls sit atop obsidian black tables all throughout the room.
+Tablets with strange letters marked upon them stand shakily against
+the northern wall.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">49</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">747</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">264</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

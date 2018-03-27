@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1740" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are walking along Wakeforest Drive, on the east side of the campus.</ShortDescription>
+  <LongDescription>The Iilandi University is a more or less privately funded school which
+promotes academics in all fields of study, but mostly technology.  Directly
+to the west, you can see the Oceancrest Technological Research Facility
+where mystical phenomena like earthquakes are studies and recorded.  On
+the east side of the road are the Highland Stables, where guests of the
+town may leave their horses while visiting.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1739</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1741</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="alley">
+      <Keys/>
+      <Room Area="ocean">1342</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

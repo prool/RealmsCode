@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Room Num="5714" Version="2.40" Area="ocean">
+  <Name>Boran's Trail</Name>
+  <LongDescription>This is Boran's Mountain Trail near the gate to Phexton Village.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>gate</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">5713</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

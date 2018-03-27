@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="796" Version="2.40" Area="ocean">
+  <Name>Inside the Dragon's Lair</Name>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="hallway">
+      <Keys/>
+      <Room Area="ocean">793</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hallway">
+      <Keys/>
+      <Room Area="ocean">795</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">801</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

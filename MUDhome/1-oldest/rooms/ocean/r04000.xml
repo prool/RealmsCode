@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="4000" Version="2.40" Area="ocean">
+  <Name>Glass Bubble</Name>
+  <LongDescription>You are edging along a narrow walkway inside an underground bubble.  
+You seem to be going in circles around the inside of this wierd bubble.
+For what purpose was this bubble created?  Why is the sky blue?  What  
+is that red glow at the center of the bubble?  Why does evil exist?
+Why, why, why?</LongDescription>
+  
+  <Established>765155365</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3999</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4001</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

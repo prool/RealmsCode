@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3786" Version="2.40" Area="ocean">
+  <Name>Lookout Point</Name>
+  <ShortDescription>You are at Lookout point, a northern section of the city of Oceancrest.</ShortDescription>
+  <LongDescription>This is the famous lookout point of the Lelion Beach and Park.  It is
+the highest point in the western part of Oceancrest, and from here you
+can look east over the city and see most of the landmarks which have
+brought fame to this metropolis.  As you look west, you see that the
+carnival and fair has arrived and pitched its tents on the eastern end
+of the peninsula which forms the park.  The Nylandian Bay is located
+to the southwest, and you see many of the merchant vessels which visit
+the city docked there.</LongDescription>
+  
+  <Established>766024184</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">525</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3785</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

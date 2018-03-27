@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="121" Version="2.40" Area="ocean">
+  <Name>Goldenrod Avenue</Name>
+  <ShortDescription>Goldenrod Avenue continues to the east and west.</ShortDescription>
+  <LongDescription>To the west is the end of the avenue.  From here its possible to see the
+intersection with East Ulandia, which runs north and south through the
+village.  Further west you can see the banks of the rives which separates
+the two parts of the village.  The eastern part of the village is mostly
+used for low-rent housing and huge warehouses.  The militia also keeps
+equipment here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">120</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">122</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

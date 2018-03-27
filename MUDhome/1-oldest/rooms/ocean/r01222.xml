@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="1222" Version="2.41b" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are walking down Nagaritha Drive, north of the Butcher Shop.</ShortDescription>
+  <LongDescription>The Circle-Bar Farm Fresh Prime Meats shop is located on the south corner
+of the road, where all the fresh meat is sold to consumers.  The butcher
+shop is ideally located around the various ice and preservative shops so
+that the meat can be kept relatively edible for long periods of time 
+without having to worry about bacteria or other nasty diseases.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1223</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1221</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

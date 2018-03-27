@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="80" Version="2.40" Area="ocean">
+  <Name>Plasnelt Road/Wall Road West</Name>
+  <ShortDescription>This is the intersection of Plasnelt Road and Wall Road West.</ShortDescription>
+  <LongDescription>Plasnelt Road goes all the way across the village in an east-west direction.
+Wall Road West parallels the western village wall.  This is the better part
+of the village, and a number of old mansions are on the east side of the
+road.  Lately, a few shops have been established to service the homes.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">70</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">90</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">81</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

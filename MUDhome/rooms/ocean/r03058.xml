@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="3058" Version="2.40" Area="ocean">
+  <Name>Goblin Treasure Guard Post</Name>
+  <ShortDescription>You are in a hidden guard room overlooking the goblin's treasure room.</ShortDescription>
+  <LongDescription>On the northern wall there are several peep holes at about the height of
+your stomach.  You realize they allow someone to peer into the goblin
+treasure room next door.  Next to each hole is a small wooden stool, and
+a table for drinks and snacks.  There seems to be a system of alarms
+overhead.</LongDescription>
+  
+  <Established>761312789</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>300</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">502</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>300</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">502</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>300</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">509</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3056</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

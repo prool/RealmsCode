@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2589" Version="2.40" Area="ocean">
+  <Name>Poppy Field</Name>
+  <ShortDescription>You are in a bright orange field of poppies, waving in the breeze.</ShortDescription>
+  <LongDescription>This is the second level, but you can get down to the first level by
+going east from here.  The third level is actually a tower you see to the
+west, more or less in the center of the entire Garden.  The tower seems to
+be covered with honeysuckle and other climbing vines.  Pixies use the gum
+from the poppies to make a fine dust for parties.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2584</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2586</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2588</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

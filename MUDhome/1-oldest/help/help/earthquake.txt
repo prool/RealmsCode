@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  earthquake spell     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: Dependant on the number of targets.
+School:  Evocation
+Domain:  Destruction
+
+This spell affects all monsters in the area that the spell is cast in. A small
+yet powerful earthquake is temporarily summoned to the area after the spell is
+attacked, using its power to assault all the creatures designated. It is part
+of the earth realm.
+
+Type "help aoe" for more information.
+
+Syntax:
+cast earthquake [<monsters>|<players>|<all>]

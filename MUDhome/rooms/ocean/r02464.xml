@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="2464" Version="2.40" Area="ocean">
+  <Name>Riverdell Tree</Name>
+  <ShortDescription>You are in a small tree stuck somewhere inside the Riverdell Park.</ShortDescription>
+  <LongDescription>Being able to track is essential for any ranger.  Your ability to track
+this far shows that you are ready to advance to the next level.  If this
+is your goal, go to the tree branch.  If you wish to leave the park, go
+out.  If you wish to continue in the park, you must look for more tracks.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="18"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="tree branch">
+      <Keys/>
+      <Room Area="ocean">2465</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1935</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2417</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

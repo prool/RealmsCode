@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="543" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard/Lelion Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Lelion Way and Avatar Boulevard.</ShortDescription>
+  <LongDescription>Avatar Boulevard, running north and south, intersects Lelion Way, which
+runs east and west, through the intersection.  On the southeast, you can
+see a large facility for the numerous wounded people of Oceancrest.  Many
+if not all of the people entering the facility are being carried in on
+stretchers, bleeding profusely.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">544</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">542</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">614</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">615</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

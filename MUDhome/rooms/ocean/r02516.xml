@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2516" Version="2.40" Area="ocean">
+  <Name>Myrr Lane</Name>
+  <ShortDescription>You are traveling east-west on Myrr Lane, north of the Great Observatory.</ShortDescription>
+  <LongDescription>A very large but ruined building stands on the north side of the lane.
+Kista is a city devoted to research and the advancement of knowledge, but
+the Institute of Investigations into Ball Lightning simply ran a particular
+experiment with too little safeguards.  Part of the building was destroyed,
+but you see there were several left intact. </LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2515</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2013</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

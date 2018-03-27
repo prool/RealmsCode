@@ -1,0 +1,78 @@
+| # |        Name        |  Join Exp  | Rescind Exp 
+|---|--------------------|------------|-------------|
+|  1|Obsidian Blade      |        1400|        10000|
+|  2|Crusaders' Order    |        1000|        10000| 
+|  3|Devil Knights       |        1000|        10000|  
+|  4|Clan of Gradius     |        1000|        10000| 
+|  5|Code Warriors       |        1000|        10000|   
+|  6|Dragon Warriors     |        1000|        10000|  
+|  7|Shadow Masters      |        2000|        15000| 
+|  8|Highport Guard      |         500|         5000|  
+|  9|Wizard's Eye        |        3000|        20000| 
+| 10|Order of Vlad       |        1500|        15000| 
+| 11|Holy Order of Enoch |        3000|        25000| 
+| 12|Cult of Aramon      |        3000|        25000|  
+|---|--------------------|------------|-------------|
+
+Note: Monks, Druids, Liches, and Werewolves may never pledge.
+
+-------------------------------------------------------------------
+
+1) The Obsidian Blade   
+       This is a clan dedicated to excellence in battle and the principle of honoring ones enemy. They practice honorable combat. Dishonor in battle is the ultimate shame to them. The Obsidian Blade is mainly forfighters, but rangers and often bards join as well. Bards often chroniclethe major battles they witness or participate in. The Obsidian Blade headquarters can be found in Drakken Port.
+Allowed Classes: Fighter, Ranger, Bard 
+Emblem: A Black sword on a white background
+
+2) Crusaders' Order	
+          The Crusaders' order is an order of Sendralian Paladins who fightin the name of the righteousness of the god Enoch. Chivalry and honor inbattle are held above everything short of the word of Enoch. Paladins mustpledge to this clan before reaching level 8. Only after achieving level 12are they worthy to step out of the clan. The Crusaders' Order is subservientto the Holy order of Enoch and has to obey its will. However, tensions havebeen apparent in the past, as the church is quite bureaucratic and frivolousin nature. Fighters often join on as auxillary forces to the clan in itsmany battles with the Devil Knights. The Devil Knights is this clan's sworn enemy, as in it are the scum of Aramon, Enoch's nemesis. Bards will often join this clan in order to chronicle its epic battles. The headquarters of the Crusaders' Order is in the Holy city of Sigil.
+Allowed Classes: Paladin, Fighter, Bard
+Emblem: A golden sunburst on a white background.
+
+3) Devil Knights	
+             This evil clan is home to Derlith's death knights, who must pledgeto it before reaching level 8. Upon reaching level 12, their service is complete. Assassins, thieves, and mercenary fighters make up this clan ofevil. They work in service of the priests of The Cult of Aramon, whom theyare allied with often. However, there is still plenty of tension between the two clans, and often battle breaks out between them. The Devil Knights can be found in the imperial city of Caladon.
+Allowed classes: Death Knight, Assassin, Thief, Fighter
+Emblem: A demonic horse's head surrounded by fire.
+
+4) Clan of Gradius	         
+              This dwarven clan is more like a religious cult.  They are dedicated to Gradius, the dwarven god of mining, blacksmithing, and mettalurgy.  Followers of Gradius believe Gradius created the earth at his forge, and ruled over the earth for several millenia.  Soon he tired of ruling, and longed for his smithy again, so he created the gods to rule in his absense.  Followers are fanatical and somewhat insane.  They can often be found trying to convert anyone to the ways of Gradius, including members of non-dwarven races.  (The idea that an elf would convert to Gradius is patently ridiculous.)
+Allowed classes: Dwarves only, but no dwarven vampires or death knights.      
+Emblem: Black hammer and anvil on a maroon background
+
+5) Code Warriors	
+           This clan is the coolest clan of any clans, and luckily only CT and DMs may join this clan.  Members of the clan generally spend their hours building stuff on the mud, and fixing bugs, but occasionally we can be seen lounging about, talking about current events, telling jokes, and trading stories.
+
+6) Dragon Warriors	
+               The Dragon Warriors are known throughout Derlith for their extremebravery and courage. They love to perform any monumental task or quest. Death in battle is the ultimate honor for any in the Dragon Warriors. Barbarians make up the majority of the members of this clan. However, fighters and rangers sometimes join as well if they are extremely adventurous. Bards join sometimes so they can chronicle the many queststhat the members complete. Some of them also join to participate.
+Allowed classes: Barbarian, Fighter, Ranger, Bard
+Emblem: A red dragon's head poised to strike on a black background.
+
+7) Shadow Masters	
+           The Shadow Masters is Derlith's one and only clan for assassinsand thieves. Both must join the clan in order to reach level 8. Only when they reach level 12 are they able to leave the clan. This clan is the ultimate in treachery and criminal activity. It is said they are thecause for all the chaos that is in Derlith at the moment. Since assassinsand thieves aren't very good fighters, they often employ fighters as mercenary forces. The Shadow Masters can be found in Caladon as well as the ruins of Fort Baladus.
+Allowed classes: Assassin, Thief, Fighter
+Emblem: A bloody dagger on a black background.
+
+8) The Highport Guard	
+       The Highport Guard is a clan of adventurers. The free city put forth a call to all adventures so they could muster more defense in case the free city is ever attacked. After all, Highport is the onlyfree city left in Derlith. All the others allow no freedom whatsoever.Either you are under the eyes of inquisitors in Sendral or the Dark Knights in Caladonia. Bordia is no more, and it is a land of chaos ruled by barbarian tribes and ruthless humanoids. Anyone can join the Highport Guard for as long as they like. The Highport Guard headquarters can be found at the guard compound inside Highport.
+Allowed classes: Any pledging class
+Emblem: A ruby, an emerald, a sapphire, and diamond forming a square with a sword in the middle.
+
+9) The Wizards' Eye
+               The Wizards' Eye is a secret society of mages. They are constantly  watching all in the lands of Derlith. Occasionally they influnce things here and there. Their primary goal is to gain knowledge and spread their influence. Only mages are allowed to join the Wizards' Eye, as they are an extremely elusive bunch. No one knows for sure where the headquarters of the Wizards' Eye is, because it is always moving.
+ Allowed classes: Mages only.
+Emblem: An eye inside a triangle inscribed inside a circle.
+
+10) Order of Vlad             
+               The mortals of this plan would like nothing better then to hunt down and exterminate all vampire-kind, but what mortals don't understand is the hunter-prey relationship.  Vampires are the necessary predators in order to keep the prey (mortals) from overpopulating, and destroying the environment.  The Order of Vlad was founded by the deceased forefather, Vlad, to ensure the survival of vampirekind.  Hideouts have been set up throughout the land, and pledged vampires can enter any of our safehouses, to escape hostile mortals.  
+Allowed classes: Vampires only.  
+Emblem: There is no emblem for the Order of Vlad.  Vampires can sense their own.
+
+11) Holy Order of Enoch	
+             The Holy Order of Enoch is the dedicated order to the god Enoch.The Church is maintained in the Holy City of Sigil. That is where the headquarters of the Holy Order is. All clerics must pledge to reach levels8, 9 and 10. If they are good in alignment, they may pledge to The Holy Order. If they are evil, they must pledge to the Cult of Aramon. Pledged clerics have different abilities then normal unpledged clerics. Clerics of The Holy Order often work closely with the Order of Crusaders in order to purge the land of evil.
+Allowed classes: Clerics of good alignment
+Emblem: A black diamond on a white background.
+
+12) Cult of Aramon	
+           The Cult of Aramon is the order of evil priests dedicated to the worship of the dark god Aramon, nemesis of the good god Enoch. The priests of this order are some of the most sinister personalities in all of Derlith. They are closely tied to the Devil Knights and often do joint things with them. Clerics of an evil inclanation must pledge to The Cult of Aramon to reach levels 8, 9, and 10. The headquarters for the Cult can be found in the Imperial City of Caladon.
+Allowed classes: Clerics of evil alignment
+Emblem: A grinning skull covered in blood on a black background.
+

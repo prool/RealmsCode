@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |  Help on:  cure-disease spell  |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 12
+
+This spell removes diseases. Though it will cure the common cold, the spell is
+more often used to cure harmful diseases such as mummy rot. Any ill-effects
+caused by the disease will remain, though the disease itself will not. Only
+paladins and clerics may cast this spell.
+
+Syntax:
+cast cure-disease <target>
+

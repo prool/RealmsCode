@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Room Num="2370" Version="2.40a" Area="ocean">
+  <Name>The Great Glacier Ituk</Name>
+  <ShortDescription>You are on the massive glacier known to the natives as Ituk.</ShortDescription>
+  <LongDescription>The glacier is surrounded by high mountains all around, preventing any
+of the water from ever leaving this zone.  The massive block of ice
+seems to stretch on for miles and miles in every direction.  Hopefully
+you will have a ranger to help you track through this wasteland.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="18"/>
+    <Bit Num="21"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">92</Mob>
+      <Mob Area="ocean" Num="1">345</Mob>
+      <Mob Area="ocean" Num="2">346</Mob>
+      <Mob Area="ocean" Num="3">347</Mob>
+      <Mob Area="ocean" Num="4">348</Mob>
+      <Mob Area="ocean" Num="5">349</Mob>
+      <Mob Area="ocean" Num="6">348</Mob>
+      <Mob Area="ocean" Num="7">349</Mob>
+      <Mob Area="ocean" Num="8">76</Mob>
+      <Mob Area="ocean" Num="9">350</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2351</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2365</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2371</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2369</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

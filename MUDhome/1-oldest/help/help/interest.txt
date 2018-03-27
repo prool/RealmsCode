@@ -1,0 +1,29 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  interest         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+While your money is in the bank, it will accumulate interest. The rate at
+which it grows is based on how frequently you log in. This interest is
+compounded continuously, but only computed when you log in or before someone
+transfers money to your account. Interest computations are only done once
+every day to keep your bank statement from becoming cluttered.
+
+Example:
+: statement
+The bank teller shows you your bank statement:
+
+Fri Apr 10 10:41:03 2009: INTEREST for 7 days at 6%: 1118 [Balance: 1001118 gold coins]
+
+   Last Login        |  Interest Rate
+  -------------------+------------------
+   within 2 days     |  8% effective annual rate
+   within 14 days    |  6% effective annual rate
+   within 30 days    |  2% effective annual rate
+   more than 30 days |  no interest
+
+You will earn the most interest by logging in frequently. If you wait for
+several days, the interest period will be longer, so it may look like you
+are getting more money, but the interest rate will begin to decrease.
+
+See also:
+   ^WHELP BANK^x

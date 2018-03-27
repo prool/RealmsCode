@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="512" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street/Oceancrest Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Oceancrest Avenue and Rosecrest Street.</ShortDescription>
+  <LongDescription>Oceancrest Avenue runs to the east and west, fron the Nylandian Bay, all
+the way to the eastern entrance to the City.  This large road runs through
+the heart of Oceancrest, which is probably why it was named Oceancrest
+Avenue.  Rosecrest Street runs north and south, heading past the great
+Lyanden Castle near the northern entrance to town.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">511</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">513</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">725</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">555</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

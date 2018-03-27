@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="2128" Version="2.40" Area="ocean">
+  <Name>Milsene Museum's Theatre of Doom</Name>
+  <ShortDescription>You are in a small theatre-like room with a front stage to the north.</ShortDescription>
+  <LongDescription>The set is very gothic and looks like it's inhabited by ghosts and 
+goblins.  Perhaps even worse.  The stage and the set are just props
+that you can't seem to move, but everything around you seems to be
+moving.  Chairs rattle, tables move and small drinking glasses 
+tumble to the ground and shatter.  A very scary place, indeed.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">32</Mob>
+      <Mob Area="ocean" Num="1">33</Mob>
+      <Mob Area="ocean" Num="2">34</Mob>
+      <Mob Area="ocean" Num="3">35</Mob>
+      <Mob Area="ocean" Num="4">37</Mob>
+      <Mob Area="ocean" Num="5">141</Mob>
+      <Mob Area="ocean" Num="6">143</Mob>
+      <Mob Area="ocean" Num="7">150</Mob>
+      <Mob Area="ocean" Num="8">197</Mob>
+      <Mob Area="ocean" Num="9">194</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2126</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

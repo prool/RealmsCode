@@ -1,0 +1,116 @@
+----Training locations for RoH by class----
+
+Assassin
+  2-7	Highport Assassins Guild
+	Gnomebarrow Assassins Guild
+	Oakspire Assassins Guild
+  8+	Drakken Port
+Assassins must pledge to reach levels 8, 9, 10, and 11.
+
+Barbarian
+  2-7	Highport Gladatorial Pits
+	Dragon Warriors Bar (Sigil)
+8+................Baladus Plains (Kingdom of Schnai)
+
+Bard (just lacking 2 objdrops ... waiting on areas)
+  2-4	Back room of The Silver Mandolin in Highport Entertainment Alley
+	tent in Gnomebarrow fairgrounds
+*5-12..............Bards' College in Sigil
+13+...............Drakken Port
+
+
+
+Clerics
+
+Enoch
+  2-7	Sendralian Temple in Highport
+	Church of Enoch in Sigil
+  8+	Sigil
+
+Aramon
+2-7................Sendralian Temple in Highport
+*8+.................Citadel Church of Aramon in Caladon
+
+Ceris
+Kamira
+Ares
+Gradius
+
+
+
+Death Knight
+  2-7	Caladonian Temple in Highport
+	Dark Temple in Oakspire
+  8+	Caladon (Devil Knights' HQ)
+	Death Spires in Oakspire
+
+Druid (complete I'm pretty sure)  
+1-10 complete
+11-14 nearly complete (waiting on area openings)
+15-16 complete
+17+ complete 
+*Druid Training is all in The Druidwood, and it will require an item for all
+*levels up to level 16.
+
+Fighter
+  2-8	Highport University
+	Gnomebarrow School of War
+	Oakspire Barracks
+  8+	Fort Kao in Baladus Plains
+	Drow Outpost in Darkhold Forest
+  Fighters must pledge to reach levels 10, 11, and 12.
+
+Lich
+  2-6	Secret chambers under Highport Wizards' Guild Outbuilding
+	Hidden area of Oakspire Library
+  7-10	Graveyard outside Highport
+*11+..............Necropolis
+Lich training for levels 7 to 16 will require items.
+
+Mage
+  2-14	Highport Wizards' Guild
+  15+	Wizard's Eye Tower
+  2+	Wizards' Guild in Oakspire
+
+Monk 
+  2-7	Highport Dojo (Southbeach Avenue)
+	Easterner Compound
+  8-12	Easterner Compound
+  13+	Monestary in Drakken Port
+
+Paladin
+  2+	Sigil (Order of Crusaders)
+
+Ranger
+  2-5	Highport Southbeach Park (In the woody area there)
+	Grove by Vaemona River (just north of Sigil)
+  6+	Meadhil Wood
+
+Rogue
+  2-7	Highport _ crystal Bay Inn
+	Gnomebarrow - Ennadd Tavern
+	Oakspire - Ethenear Tavern
+*8+ ...............Breakwater Point
+Rogues must be pledged to train to levels 8, 9, 10, 11, 12, and 13
+Rogues will quest to reach levels 11, 12, and 13
+ 
+Thief
+  2-7	Highport Thieves Guild
+	Gnomebarrow Thieves Guild
+	Oakspire Thieves Guild
+  8+	Drakken Port
+Thieves must pledge to reach levels 8, 9, 10, and 11.
+
+Vampire 
+  2-7	Under Bordello of Blood in Highport (Saltrock Avenue South)
+	Graveyard north of Gnomebarrow
+  8-12	Caves under Baladus Plains
+  13+	Drakken Port
+
+Werewolf
+  2-7	Den under Southbeach Park in Highport
+	Den under the Druid Woods in Gnomebarrow
+  8-10	Bloodmound Hills
+  11+	Dirth Hills
+
+

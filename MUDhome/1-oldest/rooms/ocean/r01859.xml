@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1859" Version="2.40" Area="ocean">
+  <Name>The Red Training Hut</Name>
+  <ShortDescription>You are now worthy of the title Tribesman, First Class.</ShortDescription>
+  <LongDescription>You have completed your training on this side of the river and now should
+begin adventuring in the higher level barbarian pits across the Ramdes 
+River.  Your next training location will be located on the east side of
+the river.</LongDescription>
+  <LowLevel>5</LowLevel>
+  <HighLevel>5</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1868</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="320" Area="ocean" Version="2.40">
+  <Name>adamantine dart</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>12</ShotsMax>
+  <ShotsCur>12</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>4</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">dart</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a brightly-colored dart made of pure adamantine metal.</Description>
+  <Weight>1</Weight>
+  <Type>5</Type>
+  <SubType>thrown</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

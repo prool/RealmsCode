@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="110" Version="2.40" Area="ocean">
+  <Name>Wall Road West/Nathan Drive</Name>
+  <ShortDescription>This is the intersection of Nathan Drive and Wall Road West.</ShortDescription>
+  <LongDescription>You are at the southwest corner of the city, where the commander of the
+militia has his office.  An honor guard maintains a small barracks on the
+corner.  Looking east, you see a line of posh little shops which cater to
+the expensive tastes of the higher class in Brownhaven.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">678</Mob>
+      <Mob Area="ocean" Num="1">678</Mob>
+      <Mob Area="ocean" Num="2">678</Mob>
+      <Mob Area="ocean" Num="3">678</Mob>
+      <Mob Area="ocean" Num="4">678</Mob>
+      <Mob Area="ocean" Num="5">678</Mob>
+      <Mob Area="ocean" Num="6">678</Mob>
+      <Mob Area="ocean" Num="7">678</Mob>
+      <Mob Area="ocean" Num="8">678</Mob>
+      <Mob Area="ocean" Num="9">678</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">111</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">92</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

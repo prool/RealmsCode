@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="5525" Version="2.40" Area="ocean">
+  <Name>Anti-Royalist Meeting Room</Name>
+  <ShortDescription>You are in the meeting room for a group of anti-royalists.</ShortDescription>
+  <LongDescription>These people are opposed to the concept of royalty, and want to inflame
+the populace so as to overthrow the crown.  Most people simply ignore them.
+Rumors are that they are responsible for many assassinations.  They used to
+have a secret meeting place in the Dragon's Tooth Inn in Oceancrest, but
+the city guard found them out and hanged the innkeeper.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5524</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,12 @@
+PIETY:
+
+Piety is another extremely important attribute to most of the spellcasting
+classes. For all classes except liches, piety determines how often you
+regain hit points and magic points. If your piety is lower, you will tick
+less often then if it is high, and your character wont regenerate his hit
+points and magic back as quickly. Piety also helps you to search. Also, the
+lower your piety is, the most likely an aggressive monster will attack you
+as opposed to someone else in the room with a higher piety. Generally, the
+higher your piety is, the more you will heal back when you use the vigor
+or mend wound spells.
+

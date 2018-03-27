@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="3836" Version="2.40" Area="ocean">
+  <Name>Dark Lord's Storage Annex</Name>
+  <ShortDescription>You are in an annex to the Dark Lord's storage room.</ShortDescription>
+  <LongDescription>The air is dry and musty, perfect storage conditions for ancient scrolls and 
+magical items.  The shelves are lined with arcane objects.</LongDescription>
+  
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3835</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

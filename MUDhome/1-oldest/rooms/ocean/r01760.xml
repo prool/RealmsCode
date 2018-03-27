@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1760" Version="2.40" Area="ocean">
+  <Name>Kafkan Way</Name>
+  <ShortDescription>You are walking along Kafkan Way, just south of the Founder's Fountain.</ShortDescription>
+  <LongDescription>There is a rather nice-looking fountain on the north side of the road on
+the Iilandi University campus.  The fountain has been dedicated to the 
+founding pioneers in the sciences.  The University gives out an award
+each year on the basis of science, and new inductees get their names put
+on the plaques around the fountain.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1759</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1761</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

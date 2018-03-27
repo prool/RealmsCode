@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="1243" Version="2.40" Area="ocean">
+  <Name>Allisk Circle</Name>
+  <ShortDescription>You are casually walking along the eastern rim of the Allisk Circle.</ShortDescription>
+  <LongDescription>You can see the mysterious Allisk Manor on the northeast side of the 
+circle, surrounded by metal bars.  The Manor is believed to still be
+haunted by the ghosts of previous owners and even the notorious Countess
+Natasha de Allisk herself.  Luckily, she hasn't been seen outside of 
+her mansion so perhaps she has gone into hibernation.  Hillcrest Drive
+continues off to the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1245</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1242</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1625</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1661</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="circle">
+      <Keys/>
+      <Room Area="ocean">1259</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

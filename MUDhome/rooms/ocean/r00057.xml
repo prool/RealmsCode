@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="57" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>You ar on Main Street, the major north-south street in the village.</ShortDescription>
+  <LongDescription>To the east is the town park, and to the north and south Main Street
+continues.  To the west you can see a shoppe with a weathered wooden sign
+across the front of it.  The sign has a sword and a mace on it.  It must
+be a weapons shoppe, but probably run of the mill stuff.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="3"/>
+  </Flags>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">1</Mob>
+      <Mob Area="ocean" Num="2">1</Mob>
+      <Mob Area="ocean" Num="3">1</Mob>
+      <Mob Area="ocean" Num="4">1</Mob>
+      <Mob Area="ocean" Num="5">6</Mob>
+      <Mob Area="ocean" Num="6">6</Mob>
+      <Mob Area="ocean" Num="7">6</Mob>
+      <Mob Area="ocean" Num="8">6</Mob>
+      <Mob Area="ocean" Num="9">10</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">47</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">67</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">184</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="624" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard</Name>
+  <ShortDescription>You are on Avatar Boulevard, between the Bushman Estate and the Plantation.</ShortDescription>
+  <LongDescription>The Plantation to the west grows a number of precious commodities that 
+Oceancrest uses to trade with other cities who are not so fortunate.
+Luckily, there is not much the City of Oceancrest needs in addition to
+what is already farmed within the city.  However, it is always nice to
+get in some good elven bows or strong dwarven armors.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">623</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1186</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

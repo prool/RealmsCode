@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="896" Version="2.40" Area="ocean">
+  <Name>Dead People's Reclaimation Center</Name>
+  <ShortDescription>This is the place where dead people go to get their stuff back if the
+DMs are nice enough to put it here.  </ShortDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">35</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

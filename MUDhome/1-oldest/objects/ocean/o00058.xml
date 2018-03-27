@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Object Num="58" Area="ocean" Version="2.40">
+  <Name>cutlass</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>45</ShotsMax>
+  <ShotsCur>45</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>4</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">500</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Weight>7</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

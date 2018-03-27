@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5718" Version="2.40" Area="ocean">
+  <Name>East Hildor Lane</Name>
+  <ShortDescription>You are on East Hildor Lane, outside a famous fighting school.</ShortDescription>
+  <LongDescription>The building on the south side of the lane doesn't look any more imposing
+than the rest of the buildings in the neighborhood, and has a thatched roof
+just as they do.  But a sign out front proclaims it to be Jerome's School
+for Fighters.  Jerome no longer does the training, but leaves it to his
+three sons to accomplish under his supervision.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5717</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5719</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5720</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

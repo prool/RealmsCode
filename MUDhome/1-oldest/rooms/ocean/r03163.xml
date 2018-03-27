@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3163" Version="2.40" Area="ocean">
+  <Name>West of Nylandian Bay</Name>
+  <ShortDescription>You are floating on the waves in the vast Respitial Sea.  Far in the
+distance to the east, you can see the Nylandian Bay and Oceancrest city.</ShortDescription>
+  <LongDescription>It's very easy to get lost at sea because every wave looks like the next,
+and the sky is very overcast.  A strong swimmer could easily stay out here
+for days.  There doesn't seem to be any immediate danger except perhaps
+from the weather.  Right now it's fine, but it could change without warning.</LongDescription>
+  
+  <Established>756082378</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3164</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3162</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3166</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3169</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

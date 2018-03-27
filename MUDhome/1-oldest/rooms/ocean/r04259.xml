@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="4259" Version="2.40" Area="ocean">
+  <Name>Tower Castle Roof Battlements</Name>
+  <ShortDescription>You are on the roof of Prince Rutger's Tower Castle, behind the battlements.</ShortDescription>
+  <LongDescription>There are archery nooks and catapult launching ramps along here, and in
+the distance there is a hot oil station.  A huge sled of rocks, held in
+place by a net, stands nearby.  Looks like the fighting forces are ready
+for any kind of a siege.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>ladder</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="ladder">
+      <Keys/>
+      <Room Area="ocean">4258</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

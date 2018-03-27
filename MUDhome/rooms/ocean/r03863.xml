@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3863" Version="2.40" Area="ocean">
+  <Name>Steaming Jungle Trail</Name>
+  <ShortDescription>This is a hot and humid path leading through dense jungle brush.</ShortDescription>
+  <LongDescription>It's almost impossible to step off the path to either side because of
+the thick, wet brush.  Low ferns and young palms grow everywhere, and
+tall banana trees hang ripe with fruit.  Ancient trees, covered with
+moss and vines, stand tall and obscure the light.  The path is dim
+and hard to see, and twists around frequent obstacles.</LongDescription>
+  
+  <Established>768680818</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3862</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3864</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

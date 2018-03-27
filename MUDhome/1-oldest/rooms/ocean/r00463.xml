@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="463" Version="2.40" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are walking along Darmanian Way, north of the Handmade Spices shop.</ShortDescription>
+  <LongDescription>Handmade Herbs and Spices provides its customers with a wide variety of
+rare herbs and spices, prepared specifically for your use, whether it be
+for cooking or for magic spells.  Spices usually come in handy when trying
+to bribe guards in other cities, as some spices can be rarer than gold
+itself.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">462</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">464</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

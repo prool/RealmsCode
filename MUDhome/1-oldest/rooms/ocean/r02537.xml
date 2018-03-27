@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2537" Version="2.40a" Area="ocean">
+  <Name>Kista Avenue</Name>
+  <ShortDescription>You are on Kista Avenue, north of the intersection with Tower Lane.</ShortDescription>
+  <LongDescription>A shopping center and several good restaurants are along the avenue here.
+On the west side of the avenue you see Haxel's New Antiques next door to
+the Tail o' the Ox Fine Foods.  On the east side of the avenue there is
+a custom armorsmith and a tiny restaurant specializing in Fresh Fowl and
+Old Wine.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2029</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2538</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

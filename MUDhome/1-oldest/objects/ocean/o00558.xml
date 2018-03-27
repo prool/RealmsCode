@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="558" Area="ocean" Version="2.40">
+  <Name>rusty visored hood</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>20</ShotsMax>
+  <ShotsCur>20</ShotsCur>
+  <Armor>48</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">350</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">visored</Key>
+    <Key Num="1">hood</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>The visor is rusted shut and dented, but can still protect from heavy blows.</Description>
+  <Weight>7</Weight>
+  <Type>6</Type>
+  <SubType>chain</SubType>
+  <WearFlag>7</WearFlag>
+  <InBag/>
+</Object>

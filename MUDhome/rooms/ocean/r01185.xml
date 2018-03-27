@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="1185" Version="2.40a" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are traveling along Netherworld Lane, north of the Necropolis.</ShortDescription>
+  <LongDescription>The entrance to the massive Necropolis lies to the west at the intersection
+of Netherworld Lane and Necropolis Avenue.  The large Necropolis lies to
+the south, surrounded by iron gates that keep graverobbers from defiling
+the gravesites and buildings.  Security is pretty tight so there haven't
+been too many incidents lately.  The Bushman Plantation is located to the
+north.  It is also owned by Reginald Bushman and is used to grow soybeans
+and other comodities.  As usual, he is always looking for some cheap,
+unskilled labor.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1186</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1184</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

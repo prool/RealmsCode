@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="124" Version="2.40a" Area="ocean">
+  <Name>Goldenrod Avenue/Taragon Road</Name>
+  <ShortDescription>This is the intersection of Goldenrod Avenue and Taragon Road.</ShortDescription>
+  <LongDescription>A large guard tower stands at the intersetion of the north and east walls.
+There is a long ramp also, which is used to move heavy equipment to the
+top of the wall.  Stored near the base of the ramp are several old and
+obsolete catapults, but the village is reluctant to dismantle them, since
+they are still in working condition.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">10</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="5">6</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">129</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">123</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

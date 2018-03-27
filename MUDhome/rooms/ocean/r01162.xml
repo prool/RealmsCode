@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1162" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, just north of the Oceancrest Central Arena.</ShortDescription>
+  <LongDescription>The famous arena is the home of numerous gladiators and fearsome foes who
+are there to test the skills of brave adventurers.  The entrance to the
+Central Arena is located off of either Marina Way to the west or Eidenhoft 
+Boulevard to the east.  There is a strange looking building on the north of 
+Rosecrest Street with a large gem above it, radiating a purple hue over the
+building and parts of the street.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1121</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1161</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1810</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

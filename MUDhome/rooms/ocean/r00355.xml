@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="355" Version="2.40" Area="ocean">
+  <Name>Rum Road South/Thieve's Alley Intersection</Name>
+  <ShortDescription>You are at the corner of Rum Road and a small alley.</ShortDescription>
+  <LongDescription>The alley is known by the local folk as Thieve's Alley, but perhaps a 
+better name would be garbage alley.  The smell of urine and vomit is very
+strong, and filth litters the narrow walkway.  Hungry cats seem to be
+everywhere, silently watching you.  Your presence has brought a momentary
+truce to the war raging between the cats and some very large rats.</LongDescription>
+  
+  <Established>760475743</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">26</Mob>
+      <Mob Area="ocean" Num="1">26</Mob>
+      <Mob Area="ocean" Num="2">26</Mob>
+      <Mob Area="ocean" Num="3">210</Mob>
+      <Mob Area="ocean" Num="4">210</Mob>
+      <Mob Area="ocean" Num="5">210</Mob>
+      <Mob Area="ocean" Num="6">210</Mob>
+      <Mob Area="ocean" Num="7">26</Mob>
+      <Mob Area="ocean" Num="8">77</Mob>
+      <Mob Area="ocean" Num="9">77</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>alley</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">354</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">356</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="alley">
+      <Keys/>
+      <Room Area="ocean">359</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

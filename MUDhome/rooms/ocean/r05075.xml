@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="5075" Version="2.40" Area="ocean">
+  <Name>Light Rain Over Kista Forest</Name>
+  <ShortDescription>Light rain falls in a steady drizzle over this part of the forest.</ShortDescription>
+  <LongDescription>the rain splatters and collects to run down the copper platelets on the
+great dragon beneath you.  She seems to have picked up a little speed,
+perhaps to get out of this weather.  Maybe you should let her pick the
+way, until you can see where you are.</LongDescription>
+  
+  <Established>772868432</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>right</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">5077</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right">
+      <Keys/>
+      <Room Area="ocean">5073</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="forward">
+      <Keys/>
+      <Room Area="ocean">5074</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="490" Area="ocean" Version="2.40">
+  <Name>bridal gown</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>2</ShotsMax>
+  <ShotsCur>2</ShotsCur>
+  <Armor>13</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">gown</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="26"/>
+  </Flags>
+  <Description>A beautiful custom tailored white dress.</Description>
+  <Weight>5</Weight>
+  <Type>6</Type>
+  <SubType>cloth</SubType>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

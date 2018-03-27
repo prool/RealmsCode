@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="315" Version="2.40" Area="ocean">
+  <Name>Advanced Level Fighter's Room</Name>
+  <ShortDescription>You are already at the highest level of training available here.</ShortDescription>
+  <LongDescription>To advance your fighting skills further, you must journey to the City of
+Kista and talk to the Jinsuti Master, who has studied every form of hand-to-
+hand fighting known to living kind.  He will guide your training from this
+point forward.  Good luck in your quest for enlightment. </LongDescription>
+  <LowLevel>9</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">308</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

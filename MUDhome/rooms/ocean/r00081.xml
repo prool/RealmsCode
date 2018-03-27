@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="81" Version="2.40" Area="ocean">
+  <Name>Plasnelt Road</Name>
+  <ShortDescription>Plasnelt Road continues to the east and west.</ShortDescription>
+  <LongDescription>A small park is on the south side of Plasnelt Road.  Trees and gardens
+with well kept paths can be seen.  There are park benches, and if you
+are in need of rest, it might be a nice place to sit and think for awhile.
+You might consider this:  Why does everyone want to kill everything in
+sight?  What's the meaning of this cycle of death followed by life?</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">80</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">82</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">22</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

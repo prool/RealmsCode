@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="2575" Version="2.40" Area="ocean">
+  <Name>First Station of the Oracle</Name>
+  <ShortDescription>You are in the first of three stations in the Cathedral of Veratus.</ShortDescription>
+  <LongDescription>Veratus the Oracle often takes the form of a small owl at this first station,
+and will answer one question only here.  If you pique her interest, you
+may advance to the second station, and ask anoter.  Unfortunately, the
+monks here do not like you taking up her time with your questions, when
+they have questions of their own.</LongDescription>
+  
+  <Established>788768151</Established>
+  <Flags>
+    <Bit Num="16"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2569</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2571</Room>
+      <Key>88</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

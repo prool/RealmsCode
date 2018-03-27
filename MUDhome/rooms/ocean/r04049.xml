@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="4049" Version="2.40" Area="ocean">
+  <Name>Garden Path</Name>
+  <ShortDescription>This is the south side of the old stone building known as Granovetter's Inn.</ShortDescription>
+  <LongDescription>Huge jacintha plants, taller than a half-giant, nod in the breeze.  They
+appear ready to harvest.  There are rows and rows of them stretching to the
+south.  A tiny building is in the garden to the southeast. </LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4048</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4056</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="342" Area="ocean" Version="2.40">
+  <Name>light leather hood</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>60</ShotsMax>
+  <ShotsCur>60</ShotsCur>
+  <Armor>17</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">leather</Key>
+    <Key Num="1">hood</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>You see a light hood made of stealthy black leather.</Description>
+  <Weight>1</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>7</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="1906" Version="2.40" Area="ocean">
+  <Name>The Gladiator Pits</Name>
+  <ShortDescription>You are in a blood-filled room known as the Gladiator Pits.</ShortDescription>
+  <LongDescription>The coarse sand beneath your feet absorbs the blood of past victims of
+both the gladiators and the participants (mostly the latter).  The
+gladiators are ruthless fighters who will waste no time in attacking
+you when you least expect it.  There are a number of different levels
+of gladiators, but most of them look the same.  To the west is the
+Monster's Feeding Grounds, where combatants fight non-humanoid monsters
+who are hungry for dinner.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">242</Mob>
+      <Mob Area="ocean" Num="1">242</Mob>
+      <Mob Area="ocean" Num="2">242</Mob>
+      <Mob Area="ocean" Num="3">437</Mob>
+      <Mob Area="ocean" Num="4">438</Mob>
+      <Mob Area="ocean" Num="5">439</Mob>
+      <Mob Area="ocean" Num="6">440</Mob>
+      <Mob Area="ocean" Num="7">439</Mob>
+      <Mob Area="ocean" Num="8">440</Mob>
+      <Mob Area="ocean" Num="9">439</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1905</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1907</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

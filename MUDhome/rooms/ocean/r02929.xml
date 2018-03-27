@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="2929" Version="2.40" Area="ocean">
+  <Name>Short Valley</Name>
+  <ShortDescription>You are in a short, wooded valley in the Enchanted Forest.</ShortDescription>
+  <LongDescription>the trees are not very thick here in the valley, but they are strange.
+Each one seems to have a door and windows cut into it, and some very small
+people apparently live here.  There is a stream near the western edge of
+the valley, and several of the small folk are setting fish nets.  A lilting
+music seems to pervade the valley, although faintly.  The path you are on
+continues north and south.  An almost unseen path heads west.</LongDescription>
+  
+  <Established>759014199</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2930</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2928</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="path">
+      <Keys/>
+      <Room Area="ocean">3960</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="661" Version="2.47i" Area="ocean">
+  <Name>Center Drive</Name>
+  <ShortDescription>You are walking along Center Drive, just west of the Hofton Ziggurat.</ShortDescription>
+  <LongDescription>The impressive Hofton Ziggurat is based roughly on the Allakaren Pyramid,
+found in the southeastern corner of the town.  Although it wasn't 
+duplicated in the same size, the resemblance is fairly clear.  The
+Ziggurat is used by many of the foreign policy makers to create stable
+relations between the various city-states in the land.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>south</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">660</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">662</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

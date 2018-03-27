@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="1904" Version="2.40" Area="ocean">
+  <Name>Warm-Up Arena</Name>
+  <ShortDescription>You are in the Oceancrest Central Arena's Warm-up Arena.</ShortDescription>
+  <LongDescription>The Warm-Up Arena is designed to prepare combatants for the thrills 
+and excitement which awaits them to the south in the Knight's Honor
+Arena and the Gladiator's Pits.  There's not much of a crowd watching
+you here as they're all down further south where all the excitement
+and killing is.  There does seem to be quite a bit of blood on the
+ground, though.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">10</Mob>
+      <Mob Area="ocean" Num="1">25</Mob>
+      <Mob Area="ocean" Num="2">5</Mob>
+      <Mob Area="ocean" Num="3">227</Mob>
+      <Mob Area="ocean" Num="4">203</Mob>
+      <Mob Area="ocean" Num="5">9</Mob>
+      <Mob Area="ocean" Num="6">5</Mob>
+      <Mob Area="ocean" Num="7">200</Mob>
+      <Mob Area="ocean" Num="8">25</Mob>
+      <Mob Area="ocean" Num="9">10</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1903</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1905</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="4247" Version="2.40a" Area="ocean">
+  <Name>Northeast Courtyard/Franchot Tunnel Intersection</Name>
+  <ShortDescription>This is the northeast side of the courtyard, at the Franchot Tunnel opening.</ShortDescription>
+  <LongDescription>The lower class members of the fighting forces are restricted from this area,
+and only castle's troop commanders and knights are allowed to be here.  The
+tunnel leads into the interior of the castle, and to the quarters of one of
+Prince Rutger's most loyal friends, Franchot the paladin.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4243</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4246</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4249</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4242</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tunnel">
+      <Keys/>
+      <Room Area="ocean">4250</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

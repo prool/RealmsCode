@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="487" Version="2.40" Area="ocean">
+  <Name>Nissiau Lane</Name>
+  <ShortDescription>You are walking along Nissiau Lane, south of Roland's Royal Fighting Academy.</ShortDescription>
+  <LongDescription>Rowland's Royal Fighting Academy is one of the finest training facilities
+for great fighters aspiring to enter the service of Lyanden Castle.  The
+Castle only accepts brave, strong and experienced fighters.  On the south
+side of the road, you can see Dixon's Polearms, a small shop where large
+polearms are sold.  Between Dixon's Polearms and Victory Travels, there is
+a small alley running towards the bay.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">486</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">488</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">308</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

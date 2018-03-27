@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="413" Version="2.40a" Area="ocean">
+  <Name>Lorian Parkway</Name>
+  <ShortDescription>You are walking along Lorian Parkway, between the Evenborough Inn on the
+east and the Red-Eye Pub and Grill on the west side of the road.</ShortDescription>
+  <LongDescription>The Evenborough Inn covers nearly one city block square, catering to the
+weary adventurers wandering in from the north gate for a good nights rest.
+On the west side of the road is the Red-Eye Pub and Grill, where many
+adventurers come to discuss what perils lie ahead should they be venturing
+out of the town.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">412</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">414</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">344</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="186" Version="2.40" Area="ocean">
+  <Name>Starrine's Armor Shoppe</Name>
+  <ShortDescription>You have entered Louis Brandywine Starrine's armor shoppe.</ShortDescription>
+  <LongDescription>As you walk through the door, you notice attractive pieces of small armor
+hung on pegs all about the room.  Behind a counter in the back of the
+shoppe stands a swarthy little man who looks as if he's probably killed a
+few dragons in his day.  He only sells armor for small races.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="11"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">67</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

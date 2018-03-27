@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="664" Version="2.40a" Area="ocean">
+  <Name>Delegation Way/Hofton Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Hofton Avenue and Delegation Way.</ShortDescription>
+  <LongDescription>Delegation Way runs south from Hofton Avenue, which runs to the east and
+west, parallel to the northern City Walls.  On the southeast corner of the
+intersection, you can see the Embassy Court, housing the Elven and Dwarven
+Embassies.  On the southwest, you can see the Hofton Ziggurat, which is the 
+primary location for political delegations to meet and discuss problems.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">673</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">674</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">665</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

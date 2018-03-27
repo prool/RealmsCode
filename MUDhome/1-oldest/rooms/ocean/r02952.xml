@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Room Num="2952" Version="2.40" Area="ocean">
+  <Name>Hera's Outer Garden</Name>
+  <ShortDescription>This is the outer garden of Queen Hera, descendent of the original queen.</ShortDescription>
+  <LongDescription>The trees here are all fruit bearing trees, and it is evident that a
+great deal of planning went into their selection, as several of the trees
+are always in bloom, regardless of the time of year.  The thicket you see
+is heavy with berries, and sweet smelling honeysuckle climbs on an almost
+hidden stone wall.  There is an opening in the wall leading to the inner
+garden.  Rumor says that a Sleepless Dragon guards the inner garden.</LongDescription>
+  <Established>760438241</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

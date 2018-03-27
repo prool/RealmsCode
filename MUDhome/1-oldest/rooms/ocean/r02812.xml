@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="2812" Version="2.40a" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>You are in the middle of a long hallway running north and south.</ShortDescription>
+  <LongDescription>The long hallway extends out to the north and south as far as you can
+see, even in the darkness.  There is a small hallway to the east which
+appears to connect this and another, longer hallway further to the east.
+The dark tunnels are still strangely quiet and tranquil; an obvious sign
+that something is amiss.</LongDescription>
+  
+  
+  
+  <Established>728798794</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2813</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2811</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2810</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

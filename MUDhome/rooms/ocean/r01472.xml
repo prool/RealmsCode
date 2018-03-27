@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1472" Version="2.40" Area="ocean">
+  <Name>Balcony Over Gaming Lounge</Name>
+  <ShortDescription>You are on the balcony overlooking the gaming lounge.</ShortDescription>
+  <LongDescription>Many mages have come here to witness the slaughter of prisoners who
+have disobeyed the mages or intruded on the palace.  There are many
+interested third parties here as well who may be interested in hiring
+mages for their adventures.  To the northeast, you can see the great
+sorceress who is guarded by many of here elite palace guards. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">166</Mob>
+      <Mob Area="ocean" Num="1">166</Mob>
+      <Mob Area="ocean" Num="2">166</Mob>
+      <Mob Area="ocean" Num="3">166</Mob>
+      <Mob Area="ocean" Num="4">167</Mob>
+      <Mob Area="ocean" Num="5">167</Mob>
+      <Mob Area="ocean" Num="6">168</Mob>
+      <Mob Area="ocean" Num="7">167</Mob>
+      <Mob Area="ocean" Num="8">166</Mob>
+      <Mob Area="ocean" Num="9">168</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1470</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1473</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

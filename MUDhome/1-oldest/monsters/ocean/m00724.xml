@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<Creature Num="724" Area="ocean" Version="2.40">
+  <Name>the bellringer</Name>
+  <Class>4</Class>
+  <Level>22</Level>
+  <Type>1</Type>
+  <Coins/>
+  <Alignment>200</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>370</Current>
+      <Max>370</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>Huge and dull-eyed, he stares at you suspicously.</Description>
+  <Keys>
+    <Key Num="0">bellringer</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>670</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>the brothers have taught me that I must kill evil.  Are you evil?</Talk>
+  <DefenseSkill>215</DefenseSkill>
+  <AttackPower>632</AttackPower>
+  <WeaponSkill>215</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">43</Carry>
+    <Carry Area="ocean" Num="1">43</Carry>
+    <Carry Area="ocean" Num="2">43</Carry>
+    <Carry Area="ocean" Num="3">43</Carry>
+    <Carry Area="ocean" Num="4">43</Carry>
+    <Carry Area="ocean" Num="5">43</Carry>
+    <Carry Area="ocean" Num="6">43</Carry>
+    <Carry Area="ocean" Num="7">43</Carry>
+    <Carry Area="ocean" Num="8">43</Carry>
+    <Carry Area="ocean" Num="9">43</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="40"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="289" Area="ocean" Version="2.40">
+  <Name>sabre</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>6</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">950</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0"> </Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>This straight, single-edged blade is a dangerous weapon.</Description>
+  <Weight>1</Weight>
+  <Type>5</Type>
+  <SubType>rapier</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="4204" Version="2.40" Area="ocean">
+  <Name>Guard Barracks</Name>
+  <ShortDescription>This is the barracks for the guards who have duty at the main gate.</ShortDescription>
+  <LongDescription>Unless you are wearing a black uniform with silver piping and are a member
+of Rutger's Force, you are in trouble.  The guards are not happy to have
+people simply wander into their quarters.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">714</Mob>
+      <Mob Area="ocean" Num="1">714</Mob>
+      <Mob Area="ocean" Num="2">714</Mob>
+      <Mob Area="ocean" Num="3">714</Mob>
+      <Mob Area="ocean" Num="4">714</Mob>
+      <Mob Area="ocean" Num="5">714</Mob>
+      <Mob Area="ocean" Num="6">714</Mob>
+      <Mob Area="ocean" Num="7">714</Mob>
+      <Mob Area="ocean" Num="8">714</Mob>
+      <Mob Area="ocean" Num="9">714</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4202</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

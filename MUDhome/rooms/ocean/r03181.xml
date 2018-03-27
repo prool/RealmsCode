@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3181" Version="2.40" Area="ocean">
+  <Name>Below High Sea Cliffs</Name>
+  <ShortDescription>You are floating in the water below tall, windswept sea cliffs.</ShortDescription>
+  <LongDescription>The cliffs are at least 100 meters high, and appear to be unscalable.
+There is a strong current pulling you toward the base of the cliffs,
+and you wonder how many ships have been dashed against the rocks there.</LongDescription>
+  
+  <Established>756112274</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>6</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">385</Mob>
+      <Mob Area="ocean" Num="1">385</Mob>
+      <Mob Area="ocean" Num="2">304</Mob>
+      <Mob Area="ocean" Num="3">293</Mob>
+      <Mob Area="ocean" Num="4">385</Mob>
+      <Mob Area="ocean" Num="5">304</Mob>
+      <Mob Area="ocean" Num="6">385</Mob>
+      <Mob Area="ocean" Num="7">304</Mob>
+      <Mob Area="ocean" Num="8">293</Mob>
+      <Mob Area="ocean" Num="9">293</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3179</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3189</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3182</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="1853" Version="2.40" Area="ocean">
+  <Name>The Orange Training Hut</Name>
+  <ShortDescription>You have successfully defeated the Barbarian, and proven your worth 
+as a Grunt, First Class.  Your barbarian brothers applaude your victory.</ShortDescription>
+  <LongDescription>As you probably now know, barbarians don't let their kind advance without
+making sure that they earn the title they are planning to advance to.  Now
+that you have defeated the grunt, first class, you are now allowed to 
+train to that class rank.  Unfortunately, as a grunt, first class, your
+skills have exceeded the skills being taught at this section of the 
+Barbarian Pits, and you must now search for the Tribesman Training Huts.</LongDescription>
+  <LowLevel>2</LowLevel>
+  <HighLevel>2</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1869</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

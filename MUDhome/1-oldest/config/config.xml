@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Config>
+  <General>
+    <Port>3333</Port>
+    <MudName>Default Mud Name</MudName>
+    <DmPass>default_dm_pw</DmPass>
+    <CustomColors>xMYMggYGCycmxgmwg##</CustomColors>
+    <LogDatabaseType></LogDatabaseType>
+    <LogDatabaseUser></LogDatabaseUser>
+    <LogDatabasePassword></LogDatabasePassword>
+    <LogDatabaseDatabase></LogDatabaseDatabase>
+    <AprilFools>No</AprilFools>
+    <AutoShutdown>No</AutoShutdown>
+    <CharCreationDisabled>No</CharCreationDisabled>
+    <CheckDouble>Yes</CheckDouble>
+    <GetHostByName>Yes</GetHostByName>
+    <LessExpLoss>No</LessExpLoss>
+    <LogDeath>Yes</LogDeath>
+    <PkillInCombatDisabled>No</PkillInCombatDisabled>
+    <RecordAll>No</RecordAll>
+    <LogSuicide>Yes</LogSuicide>
+    <SaveOnDrop>Yes</SaveOnDrop>
+  </General>
+  <Lottery>
+    <CurrentCycle>1</CurrentCycle>
+    <CurrentJackpot>500000</CurrentJackpot>
+    <Enabled>Yes</Enabled>
+    <TicketPrice>100</TicketPrice>
+    <LotteryRunTime>1367208000</LotteryRunTime>
+    <Tickets></Tickets>
+  </Lottery>
+</Config>

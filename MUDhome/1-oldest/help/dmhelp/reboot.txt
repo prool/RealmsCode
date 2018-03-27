@@ -1,0 +1,9 @@
+Help on DM command:
+	REBOOT
+
+Shuts down the mud and restarts it without disconnecting any players. This
+is useful for adding new code to the mud.
+
+If the -ships flag is used, game time will reset to midnight and
+"conf/ships.midnight.xml" will replace the current "conf/ships.xml".
+

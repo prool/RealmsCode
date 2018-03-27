@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="634" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are on Lankshire Parkway, just north of Netherworld Lane.</ShortDescription>
+  <LongDescription>You can see the intersection with Netherworld Lane to the south of 
+here through the clear plains of the farm land.  On the east side of the
+road, you can see the Bushman Farms Fresh Farm Fruit market where they
+sell all the interesting varieties of fruits and vegetables that they
+grow on the farm.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">633</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1179</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

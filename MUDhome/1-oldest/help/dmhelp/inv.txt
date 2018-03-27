@@ -1,0 +1,25 @@
+Help on DM command:
+	INV
+
+Lists the inventory for the mob or player.
+	inv <player>
+	*inv <mob>
+	*inv <mob> -l  /  peek <mob> -l
+
+: inv min
+Min's inventory: nothing.
+: *inv wino
+The wino is carrying: Nothing.
+: *inv wino -l
+Items wino will possibly drop:
+Carry slot 1:  old shoes(2003).
+Carry slot 2:  old shoes(2003).
+Carry slot 3:  dirty shirt(2004).
+Carry slot 4:  dirty shirt(2004).
+Carry slot 5:  Nothing.
+Carry slot 6:  Nothing.
+Carry slot 7:  Nothing.
+Carry slot 8:  Nothing.
+Carry slot 9:  Nothing.
+Carry slot 10: Nothing.
+

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<Room Num="3643" Version="2.40" Area="ocean">
+  <Name>Magician's Research Shop</Name>
+  <ShortDescription>You are in a research area used by Prince Ragnar's magicians.</ShortDescription>
+  <LongDescription>The room has a very high ceiling and a smooth, stone floor with a
+permanent pentagram inscribed on the floor.  A ring of candles form
+an outline of the pentagram.  Floating in mid-air there is a great
+two-handed sword which gleams so brightly it hurts your eyes to look
+at it.  Thrown over the back of a tiny stool you see a bright blue
+woolen shroud imprinted with yellow stars and lightning bolts.   
+A silver and gold wand lies on top of it.</LongDescription>
+  
+  <Established>764987834</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="16"/>
+    <Bit Num="19"/>
+    <Bit Num="23"/>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">112</Mob>
+      <Mob Area="ocean" Num="1">112</Mob>
+      <Mob Area="ocean" Num="2">112</Mob>
+      <Mob Area="ocean" Num="3">112</Mob>
+      <Mob Area="ocean" Num="4">112</Mob>
+      <Mob Area="ocean" Num="5">112</Mob>
+      <Mob Area="ocean" Num="6">112</Mob>
+      <Mob Area="ocean" Num="7">112</Mob>
+      <Mob Area="ocean" Num="8">112</Mob>
+      <Mob Area="ocean" Num="9">112</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>dark tunnel</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">717</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>43200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">713</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="dark tunnel">
+      <Keys/>
+      <Room Area="ocean">3644</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

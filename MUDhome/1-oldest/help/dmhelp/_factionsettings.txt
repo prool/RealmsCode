@@ -1,0 +1,17 @@
+#define KINDLY_CUT               30000  //  3
+#define WARMLY_CUT               20000  //  2
+#define AIMIABLE_CUT             8000   //  1
+#define INDIFF_CUT               0      //  0
+#define APPREHEN_CUT             -1000  // -1 
+#define DUBIOUS_CUT              -7000  // -2
+#define GLARE_CUT                -9000  // -3
+#define SCOWL_CUT                -32000 // -4
+
+#define KINDLY            3
+#define WARMLY            2
+#define AIMIABLE          1
+#define INDIFF            0
+#define APPREHEN         -1
+#define DUBIOUS          -2
+#define GLARE            -3
+#define SCOWL            -4

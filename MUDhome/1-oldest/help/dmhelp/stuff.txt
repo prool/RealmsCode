@@ -1,0 +1,33 @@
+Things to fix to once again make Abaddon a viable mud:
+
+CODE CHANGES/UPDATES
+1) Redo how players, obj, mobs, and rooms are saved to disk
+   and loaded. (XML)
+
+2) Redo how game updates: players, mobs, ticking, weather, 
+   boats, calendar
+
+3) Add a skills system based on 3rd edition D&D, or customized.
+
+4) New combat system using skills
+   - Saves, fighting sequence, etc..
+   - Mobs use skills to fight also
+
+5) New magic system using skills (magic schools)
+
+6) Psionics system (psychic disciplinary areas)
+
+7) Redo pets & Mob vs Mob combat
+
+8) Class modifications
+   - Add shaman
+   - Add psionicist
+   - Add necromancer
+   - Remove rogue (skills customization replaces)
+   - Remove multi-class as it is now (skills customization replaces)
+   - Remove werewolf
+   - Remove vampire
+   - Vampire + lycanthropy are afflictions
+   - Remove lich
+   - Add karma classes (Lich, others)
+   - Alter other classes depending on skills system

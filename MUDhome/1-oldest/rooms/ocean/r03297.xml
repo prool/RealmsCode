@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3297" Version="2.40" Area="ocean">
+  <Name>The Magical Garden</Name>
+  <ShortDescription>You are just to the south of the gate by which you entered.</ShortDescription>
+  <LongDescription>You stand a short walk to the south of the gate which so rudely closed
+behind you upon entering the magical garden.  There is a path which leads
+to the north and south, but if no one is looking, you can hop over a row 
+of strange looking flowers to the west or climb over a tranquil little brook
+to the east which comes out of nowhere and probably ends nowhere also.
+To the south you see a statue which stands in a small clearing.</LongDescription>
+  
+  <Established>758603522</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3296</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3300</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3301</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3303</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="2117" Version="2.40" Area="ocean">
+  <Name>Megan's Hut</Name>
+  <ShortDescription>You are in the hut of Megan, oldest daughter of Mehetable.</ShortDescription>
+  <LongDescription>There's nothing here but a simple straw mattress and small fireplace with
+a cauldron over it.  Three books are stacked neatly near the pile of straw.
+The title of the book on top is, "Precious Metals and Horticulture, A New
+Approach."  It lies open to page 312.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2107</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

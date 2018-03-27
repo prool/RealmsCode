@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="3674" Version="2.40" Area="ocean">
+  <Name>Thieve's Passage</Name>
+  <ShortDescription>You are in a narrow crawl space, above a hole leading to a prison cell.</ShortDescription>
+  <LongDescription>You can see several criminals below you, and a black crawlway leading to
+the east.  The stones are cold and clammy, and  you can hear rats in the
+distance.  Big rats.  It's hard to make a decision as to which is worse,
+hungry rats or hungry prisoners.  Which way to go?</LongDescription>
+  
+  <Established>797302049</Established>
+  <Flags>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>hole</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">46</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3675</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hole">
+      <Keys/>
+      <Room Area="ocean">3681</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

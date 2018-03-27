@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="71" Version="2.40" Area="ocean">
+  <Name>Under South Bridge</Name>
+  <ShortDescription>You are under the South Bridge, behind a wooden shack.</ShortDescription>
+  <LongDescription>The entrance to the shack is on the north side, but there appears to be
+a back door here.  there are a lot of wine bottles lying on the ground
+and the smell of urine and vomit is strong.  An old mattress is against
+the bridge buttress, and a few dirty dishes are around a campfire.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">69</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">72</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

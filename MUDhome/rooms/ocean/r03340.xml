@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3340" Version="2.40" Area="ocean">
+  <Name>Walk of Heroes</Name>
+  <ShortDescription>Here the crushed gravel path is lined with statues in honor of the heroes.</ShortDescription>
+  <LongDescription>The walk has statues erected in honor of the heroes of Oceancrest.  When
+a great hero dies, be it by old age or by less fortunate means, and should
+the powers that be deem he or she worthy, a monument is erected in their
+memory.  Small paths lead off the walk towards the burial sites of some 
+of the greatest heroes in Oceancrest's history.</LongDescription>
+  
+  <Established>759804275</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3339</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3341</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

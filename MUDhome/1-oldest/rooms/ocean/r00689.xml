@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="689" Version="2.40a" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are just north of the north shore of Lyanden Lake along Darmanian Way.</ShortDescription>
+  <LongDescription>The northern coast of Lyanden Lake creates a beautiful beach along the
+southern side of the road.  Through the mist which often covers the lake,
+you can see the towering Lyanden Castle, rising high above the small
+island which it is built upon.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">690</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">688</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

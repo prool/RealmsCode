@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="161" Area="ocean" Version="2.40">
+  <Name>animal hides</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>15</ShotsMax>
+  <ShotsCur>15</ShotsCur>
+  <Armor>8</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">50</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">hides</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+  </Flags>
+  <Description>The hide looks as though it could make a decent piece of armor.</Description>
+  <Weight>5</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

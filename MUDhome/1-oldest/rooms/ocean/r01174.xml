@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1174" Version="2.41a" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, north of the Kaldeas Mansion.</ShortDescription>
+  <LongDescription>There is a strangely shaped mansion to the south of Netherworld Lane.
+A large banner reads "Kaldeas' Mansion of Illusion".  There appears
+to be an entrance to the east on Netherworld Lane.  On the north side
+of the road, there is a public storage facility.  On a first-come, 
+first-served basis, citizens may rent or use some of the storage 
+locations in the complex.  The entrance to the facility is to the
+north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1175</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1167</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2300</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

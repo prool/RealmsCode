@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="686" Version="2.40a" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are on Darmanian Way, north of one of the many postal facilities.</ShortDescription>
+  <LongDescription>To the south is the North Oceancrest Post Office, where you can send
+mail to people, even in other cities.  The postal service is very
+efficient and seldom loses mail.  Darmanian Way continues to the east
+and west, intersecting with Rosecrest Street to the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">687</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">593</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1999</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

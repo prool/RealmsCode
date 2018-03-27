@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  drink          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The drink / quaff command allows you to use a drinkable item. Usually this
+will be a potion. If it is food instead, such as an apple or a banana, you
+may use the eat command instead.
+
+Example:
+: eat a
+You feel better.
+Food eaten.
+You ate all of the apple.
+:
+

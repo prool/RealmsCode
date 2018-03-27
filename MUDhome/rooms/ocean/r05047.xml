@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="5047" Version="2.40" Area="ocean">
+  <Name>Fog Bank</Name>
+  <ShortDescription>You are in a heavy fog covering, so dense you cannot tell you are flying.</ShortDescription>
+  <LongDescription>You can still feel the might muscles of the copper dragon as she beats her
+wings in a rythmic slowness, but it's really hard to discern movement or
+that you are actually flying.  With luck the dragon will find her way out
+of this pretty soon.</LongDescription>
+  
+  <Established>772228577</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>forward</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">5048</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right">
+      <Keys/>
+      <Room Area="ocean">5046</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="forward">
+      <Keys/>
+      <Room Area="ocean">5049</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

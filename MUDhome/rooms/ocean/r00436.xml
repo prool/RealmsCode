@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="436" Version="2.40" Area="ocean">
+  <Name>Delaney Drive/Darmanian Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Darmanian Way and Delaney Drive.</ShortDescription>
+  <LongDescription>Delaney Drive running north and south, is intersected by Darmanian Way,
+running east and west at this point.  The Oceancrest Municiple Library
+is located on the northeast corner of the intersection, and the Cathedral
+of Worldly Bliss is located on the southeast.  A number of shops are on
+the southwest corner and the Oceancrest North City Guard Barracks are 
+located on the northwest corner.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">435</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">437</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">470</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">471</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

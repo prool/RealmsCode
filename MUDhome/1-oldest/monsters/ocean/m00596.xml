@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<Creature Num="596" Area="ocean" Version="2.40">
+  <Name>drunken ghost</Name>
+  <Level>8</Level>
+  <Type>1</Type>
+  <Experience>225</Experience>
+  <Coins>
+    <Coin Num="2">50</Coin>
+  </Coins>
+  <Alignment>-10</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>20</Current>
+      <Max>20</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a spirit filled with spirits.</Description>
+  <Keys>
+    <Key Num="0">ghost</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>225</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>4</Number>
+    <Sides>2</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>my shipmates went off and left me. *sob*</Talk>
+  <DefenseSkill>75</DefenseSkill>
+  <AttackPower>150</AttackPower>
+  <WeaponSkill>75</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">97</Carry>
+    <Carry Area="ocean" Num="1">97</Carry>
+    <Carry Area="ocean" Num="2">119</Carry>
+    <Carry Area="ocean" Num="3">156</Carry>
+    <Carry Area="ocean" Num="4">249</Carry>
+    <Carry Area="ocean" Num="5">280</Carry>
+    <Carry Area="ocean" Num="6">319</Carry>
+    <Carry Area="ocean" Num="7">660</Carry>
+    <Carry Area="ocean" Num="8">660</Carry>
+    <Carry Area="ocean" Num="9">660</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="0"/>
+    <Bit Num="12"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="17"/>
+    <Bit Num="20"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

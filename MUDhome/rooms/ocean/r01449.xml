@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="1449" Version="2.40" Area="ocean">
+  <Name>Central Basement Hallway</Name>
+  <ShortDescription>You are in the middle of the basement in the Palace of Keslar.</ShortDescription>
+  <LongDescription>Two hallways meet here, one going north and south, the other going east
+and west.  They essentially divide the basement in half.  Most of the
+southern half of the basement is reserved for the servants and maids.
+The northern area is primarially used by the elite palace guards.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">174</Mob>
+      <Mob Area="ocean" Num="1">173</Mob>
+      <Mob Area="ocean" Num="2">174</Mob>
+      <Mob Area="ocean" Num="3">130</Mob>
+      <Mob Area="ocean" Num="4">130</Mob>
+      <Mob Area="ocean" Num="5">126</Mob>
+      <Mob Area="ocean" Num="6">172</Mob>
+      <Mob Area="ocean" Num="7">172</Mob>
+      <Mob Area="ocean" Num="8">172</Mob>
+      <Mob Area="ocean" Num="9">172</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1454</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1450</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1441</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1457</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

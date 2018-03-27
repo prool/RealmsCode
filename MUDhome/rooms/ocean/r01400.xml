@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="1400" Version="2.40" Area="ocean">
+  <Name>Entryway to the Palace of Keslar</Name>
+  <ShortDescription>You are outside the great palace of Keslar, the great wizard.</ShortDescription>
+  <LongDescription>The sign on the door says "Welcome to Keslar's Palace / Now Go Home!".  
+Not a very friendly person, but mages seldom are.  The palace, from
+what you can see of it, is huge.  Two great oak doors stand to the
+south of you leading into the palace.</LongDescription>
+  <LowLevel>7</LowLevel>
+  <Trap>1</Trap>
+  <TrapExit Area="ocean">1438</TrapExit>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1360</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1401</Room>
+      <Key>18</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

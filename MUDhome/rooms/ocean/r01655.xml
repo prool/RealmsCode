@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1655" Version="2.40" Area="ocean">
+  <Name>Amberton Lane</Name>
+  <ShortDescription>You are walking along Amberton Lane, north of the Grape Orchards.</ShortDescription>
+  <LongDescription>The Chateau Richland Grape Orchards lie to the south of Hillcrest Drive,
+located to the south of here.  The large grape orchard supplies nearly
+all of the grapes used in making the Chateau Richland Wines and other
+natural drinks.  Chateau Richland is well known throughout the land as
+being one of the finest producers of wine in the world.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1654</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1631</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

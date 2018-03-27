@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3777" Version="2.40" Area="ocean">
+  <Name>Cypress Trees</Name>
+  <ShortDescription>You are in a grove of cypress trees on the south bank of the Lithium Inlet.</ShortDescription>
+  <LongDescription>The trees get denser to the south and the east, forming a dark, shadowy
+canopy where you hear small sounds unlike anything you have ever heard
+in a forest before.  The walkway, however, is broad and well maintained
+by the groundskeepers here in the park.</LongDescription>
+  
+  <Established>766020141</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3776</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3778</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

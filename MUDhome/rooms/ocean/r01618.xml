@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1618" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are walking along Hillcrest Drive, east of the large intersection.</ShortDescription>
+  <LongDescription>A large intersection to the west joing Hillcrest Drive, Eidenhoft 
+Boulevard and Marina Way.  The small sliver of land formed by Eidenhoft
+Boulevard as it runs off to the northeast is owned by the Odgen Family
+and is used to display their famous statues for the public's admiration.
+On the south, you can see the large Regalia Convent.  The entrance to
+the Convent is located off of Marina Way.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">4</Mob>
+      <Mob Area="ocean" Num="1">4</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1619</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1021</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

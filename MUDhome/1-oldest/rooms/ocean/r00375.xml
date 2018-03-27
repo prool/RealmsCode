@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="375" Version="2.40" Area="ocean">
+  <Name>Orchard Lane</Name>
+  <ShortDescription>You are walking along Orchard Lane near the rear end of the Dragon's Citadel.</ShortDescription>
+  <LongDescription>The magnificent Dragon's Citadel lies to the south of Orchard Lane, but
+the entrance to the Citadel is located on the other side of the building.
+The fantastic structure was built ages ago and is thought to be
+abandoned by its original owners.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">726</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">376</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

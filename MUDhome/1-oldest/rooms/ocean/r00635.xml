@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="635" Version="2.40a" Area="ocean">
+  <Name>Necropolis Avenue</Name>
+  <ShortDescription>You are walking along Necropolis Avenue, west of Danielle's Mage Emporium.</ShortDescription>
+  <LongDescription>Mistress Danielle Chanteclaire is one of the only arch-mages in Oceancrest
+and has achieved this rank at but the mere age of 623, very young for a
+grey elf.  There are only a handful of known arch-mages that ever existed
+in the world.  This is usually very good because the power which comes with
+this rank is also very powerful and manipulative.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">540</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">636</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

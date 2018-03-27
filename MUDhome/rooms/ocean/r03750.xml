@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<Room Num="3750" Version="2.41a" Area="ocean">
+  <Name>Eiden Public Storage North Hallway</Name>
+  <ShortDescription>You are in the north hallway of the Eiden Public Storage Facility.</ShortDescription>
+  <LongDescription>Each room is locked with a special key, and the lock cannot be picked.
+No one can teleport into the storage rooms.  A notice on the wall says,
+"If you lose a key, it will cost you $2000 to replace it."  In small
+letters it says the management will not be held responsible for any
+losses.</LongDescription>
+  
+  <Established>766896074</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2300</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="room1">
+      <Keys/>
+      <Room Area="ocean">3751</Room>
+      <Key>62</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="room2">
+      <Keys/>
+      <Room Area="ocean">3752</Room>
+      <Key>63</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="room3">
+      <Keys/>
+      <Room Area="ocean">3753</Room>
+      <Key>64</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="room4">
+      <Keys/>
+      <Room Area="ocean">3754</Room>
+      <Key>65</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="room5">
+      <Keys/>
+      <Room Area="ocean">3755</Room>
+      <Key>66</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="room6">
+      <Keys/>
+      <Room Area="ocean">3756</Room>
+      <Key>67</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="room7">
+      <Keys/>
+      <Room Area="ocean">3757</Room>
+      <Key>68</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="room8">
+      <Keys/>
+      <Room Area="ocean">3758</Room>
+      <Key>69</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

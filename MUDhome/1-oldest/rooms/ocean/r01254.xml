@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1254" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along Overland Drive, just west of Lankshire Parkway.</ShortDescription>
+  <LongDescription>Lankshire Parkway intersects Overland Drive to the east.  On the north
+side of the road, you can see the Khelleva Stables.  There is a small
+road running between the Stables and the Khelleva Mansion, which joins
+the road at the Lankshire intersection.  On the south side of the 
+road, you can see the Iilandi Family Mansion.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1239</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1255</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

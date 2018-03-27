@@ -1,0 +1,10 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  daily          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+This command will allow you to see how many daily limited actions you have
+remaining, such as tracks, teleports, enchants, heals, etc. If you do not
+have the respective ability due to level or lack of the spell or whatever,
+it will not show up. This command also will tell you if you are able to
+defecate or not, as defecate is a restore.
+

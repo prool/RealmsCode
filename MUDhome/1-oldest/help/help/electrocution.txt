@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  electrocution spell   | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 16
+School:  Evocation
+Domain:  Destruction
+
+This spell causes massive pulses of electricity to run through its target,
+causing total system failure and electrically burning the target grotesquely. As
+with all electrical contact, the nervous system is also damaged, causing damaged
+nerves, interal burns, and often death.
+
+Syntax:
+cast electrocution <target>

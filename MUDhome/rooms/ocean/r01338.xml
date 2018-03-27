@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1338" Version="2.40" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are walking along Lelion Way, south of the Holy Order of the Red Rose.</ShortDescription>
+  <LongDescription>On the north side of the road is the Paladin's Holy Order of the Red
+Rose, where worthy paladins train.  To the south is the large Wakarimasu
+Park, home of a number of old dieties from ancient times, no longer
+believed in.  However, their presence is still felt within the park.</LongDescription>
+  
+  <Established>729226062</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">753</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1339</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

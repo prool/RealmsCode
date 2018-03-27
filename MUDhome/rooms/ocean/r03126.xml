@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3126" Version="2.40" Area="ocean">
+  <Name>Officer's Mess</Name>
+  <ShortDescription>You are in the dining room of the Grinning Sailor Pub.</ShortDescription>
+  <LongDescription>This room is normally reserved for the older and wealthier clients of the
+pub.  But since only pirates and other seafaring adventurers come here, it 
+tends to be for officers only.  The low lamp light throws flickering 
+shadows on the wall, making it difficult to see where you are going.   
+Don't trip on some drunken bosun.  He might not understand.</LongDescription>
+  
+  <Established>769638356</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">311</Mob>
+      <Mob Area="ocean" Num="1">311</Mob>
+      <Mob Area="ocean" Num="2">311</Mob>
+      <Mob Area="ocean" Num="3">310</Mob>
+      <Mob Area="ocean" Num="4">310</Mob>
+      <Mob Area="ocean" Num="5">318</Mob>
+      <Mob Area="ocean" Num="6">311</Mob>
+      <Mob Area="ocean" Num="7">309</Mob>
+      <Mob Area="ocean" Num="8">318</Mob>
+      <Mob Area="ocean" Num="9">310</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3125</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1017</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

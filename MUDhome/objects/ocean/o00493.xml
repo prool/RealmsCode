@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="493" Area="ocean" Version="2.40">
+  <Name>golden trident</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>75</ShotsMax>
+  <ShotsCur>75</ShotsCur>
+  <Dice>
+    <Number>5</Number>
+    <Sides>3</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">25000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">golden</Key>
+    <Key Num="1">triden</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>You see a glimmering gold and jeweled trident.</Description>
+  <Weight>10</Weight>
+  <Type>5</Type>
+  <SubType>spear</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="95" Version="2.40" Area="ocean">
+  <Name>Discount Armor Shoppe Storage</Name>
+  <ShortDescription>You are in the storage shack for Brownhaven's armor shoppe.</ShortDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">94</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

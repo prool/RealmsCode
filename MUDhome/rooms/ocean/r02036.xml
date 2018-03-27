@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="2036" Version="2.40" Area="ocean">
+  <Name>Alturis Road/Pearl Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Pearl Avenue and Alturis Road.</ShortDescription>
+  <LongDescription>The Cathedral of Veratus stands proudly to the northwest.  The entrance
+to the Cathedral is to the west.  Pearl Avenue runs through the center
+of the city heading past the great Towers.  To the south, you can see 
+a number of archers practicing on a large field.  Better not get too 
+close, or you might be catching arrows. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2542</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2037</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2548</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

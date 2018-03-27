@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1223" Version="2.41b" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are walking along Nagaritha Drive, south of the Richland Grape Orchard.</ShortDescription>
+  <LongDescription>The large Chateau Richland Grape Orchard provides for nearly all the grapes
+which go into the production of the various wines and juices that the 
+Winery makes.  On the south side of the road is the Deep Freeze Storage
+Facility where cold items may be preserved without worrying about decay
+or melting.  The facility is maintained using dry ice, a relatively modern
+approach to cold preservation.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1224</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1222</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

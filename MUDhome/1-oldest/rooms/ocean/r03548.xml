@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3548" Version="2.40" Area="ocean">
+  <Name>Draknal's Cove</Name>
+  <ShortDescription>You are under the Great Fighter's Hall, in Draknal's private chamber.</ShortDescription>
+  <LongDescription>Draknal the Death Knight was once a respected lord, serving in the services
+of King Lyanden.  But he was responsible for a dark deed, and was found
+out by the council of mages.  As punishment for breaking his knight's code,
+he has been cursed with afterlife as a knight of death.  Unlike a mortal
+fighter, he possesses wonderful magical power in addition to being a
+great fighter.  This is the chamber where he must spend eternity.</LongDescription>
+  
+  <Established>760564120</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="31"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>300000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">482</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3380</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

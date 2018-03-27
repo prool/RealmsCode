@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1046" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive</Name>
+  <ShortDescription>You are on Oceanview Drive, towards the center of the shopping district.</ShortDescription>
+  <LongDescription>You are in the primary shopping district for the southwestern portion of
+Oceancrest.  It is not the largest shopping district, but by far the
+most exclusive and expensive.  The shops here cater to the discriminating
+shopper, not to the bums on the street.  To the west, there is a large
+building.  One of the signs on the door reads "Batton Locks &amp; Picks".
+There is another door on both the east and west sides of the street to
+the south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1045</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1047</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

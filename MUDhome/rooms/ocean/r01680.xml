@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1680" Version="2.40" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are walking along Waterfront Way, south of the Klondike Wheat Fields.</ShortDescription>
+  <LongDescription>The Klondike Wheat Fields produce more wheat and grain than one can
+comfortably imagine.  Most of the grain is eventually stored in the
+graineries and silos on the south side of the street.  The Wheat Fields
+may be entered from the west side off of Lankshire Parkway. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1229</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1679</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="4250" Version="2.40a" Area="ocean">
+  <Name>Franchot Tunnel</Name>
+  <ShortDescription>This is one of two tunnels that connects the great circular hallway to the 
+main courtyard of Prince Rutger's Tower Castle.</ShortDescription>
+  <LongDescription>The old oak door here leads to the private apartment of one of the greatest
+paladins in the land, Commander Franchot.  Franchot is a life-long friend
+of Prince Rutger, and supports Rutger in his battle with Prince Ragnar for
+the throne at Lyanden Castle in Oceancrest.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4225</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4247</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4236</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

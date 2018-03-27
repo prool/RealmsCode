@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1007" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>You are on Main Street, which continues to the north and south.</ShortDescription>
+  <LongDescription>Being that Main Street is one of the major roads in Oceancrest, it would
+not be unnatural not to see a few inns and taverns along the way.  To the
+west is the Dragon Tooth Inn, a very popular and rather expensive Inn 
+for the very exclusive upper class.  The entrance to the Inn is off
+of Hillcrest Drive, to the south.  There is also a large building on the
+east side of the road which seems to radiate a lot of magical energy.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1006</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1008</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

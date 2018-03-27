@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="650" Version="2.40a" Area="ocean">
+  <Name>Amberton Lane</Name>
+  <ShortDescription>You are walking along Amberton Lane, west of the Order of the White Cross.</ShortDescription>
+  <LongDescription>The Knightly Order of the White Cross is designed to be the ultimate 
+training facility for the Holy Knights of Lyanden Castle.  Once admitted
+into knighthood at Lyanden Castle, further training is required at the
+Order of the White Cross.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">546</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">651</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1572" Version="2.40a" Area="ocean">
+  <Name>Natural Spring of Health</Name>
+  <ShortDescription>You have wandered into a natural spring, bringing fresh water to Etolos.</ShortDescription>
+  <LongDescription>The fresh spring brings fresh water from the depths of the earth to the
+surface.  Perhaps like the rest of the forest, the water itself is 
+mystical as well.  You see a number of druids taking water from the
+spring and bringing it back towards the center of the circle.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1571</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1569</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

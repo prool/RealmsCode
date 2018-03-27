@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1899" Version="2.40" Area="ocean">
+  <Name>The Davis Brothers Mortuary</Name>
+  <ShortDescription>You are in the Davis Brothers Mortuary, viewing all the dead bodies.</ShortDescription>
+  <LongDescription>A mortuary isn't always the funnest place to visit.  In fact, it's down-
+right boring.  You might be able to find some friends who have died in
+battle in the Arena or have fallen down a mountain.  The mortuary exits
+to the west onto Marina Way, and east to Eidenhoft Boulevard.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3500</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">441</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1116</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1151</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stairs">
+      <Keys/>
+      <Room Area="ocean">3767</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

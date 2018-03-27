@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1611" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along Overland Drive, east of Thackery's Pub.</ShortDescription>
+  <LongDescription>Loud noises and laughter echo out of Thackery's Pub, located on the west
+side of the road.  Although a bit run down and cockroach infested, it is
+very popular amongst the poorer classes in town, and many farm workers
+in the area like to gather there.  The food might be bad, but the wine
+is excellent and the people make the atmosphere festive.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1220</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1612</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1343</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

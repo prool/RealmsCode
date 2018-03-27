@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1129" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are traveling along Netherworld Lane, heading east to west.</ShortDescription>
+  <LongDescription>Netherworld Lane ends just west of here at Oceanview Drive, just before
+the South Nylandian Bay Guard Station.  The guard station is positioned
+near the entrance to Nylandian Bay to prevent pirates and other invasion
+forces from entering the city.  Netherworld Lane continues east towards
+the center of town.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1030</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1128</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

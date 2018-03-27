@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Room Num="692" Version="2.47i" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are walking along Darmanian Way, north of the great Lyanden Lake.</ShortDescription>
+  <LongDescription>The crystal waters of the Lyanden Lake come ashore to the south of the
+road, creating a small beach where children often go to play.  The large
+lake is supplied by two rivers flowing in from the north and east.  The
+high mountains in the east supply most of the water to Oceancrest.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>east</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">604</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">691</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1666" Version="2.40" Area="ocean">
+  <Name>Appleton Road</Name>
+  <ShortDescription>You are walking along Appleton Road, east of the Klondike Wheat Fields.</ShortDescription>
+  <LongDescription>You can see the thin, mesh-wire fence which protects the large Klondike
+Wheat Fields on the west side of the road.  There is no entrance to the 
+Fields from this side of the road.  The only entrance is located on the
+western edge of the Wheat Fields off of Lankshire Parkway.  On the east
+side of the road, you can see a small inn and tavern where a number of
+people are wandering in and out.  The entrance to the inn is located off
+of Nagaritha Drive.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1218</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1667</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

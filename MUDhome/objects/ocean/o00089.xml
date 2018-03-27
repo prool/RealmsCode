@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="89" Area="ocean" Version="2.40">
+  <Name>silver arm-bands</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>32</ShotsMax>
+  <ShotsCur>32</ShotsCur>
+  <Armor>8</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2410</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">arm</Key>
+    <Key Num="1">bands</Key>
+    <Key Num="2">arm-bands</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="10"/>
+  </Flags>
+  <Description>They're made from the finest silver.</Description>
+  <Weight>5</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>2</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2542" Version="2.40" Area="ocean">
+  <Name>Alturis Road</Name>
+  <ShortDescription>You are on Alturis Road, west of Pearl Avenue.</ShortDescription>
+  <LongDescription>The grand Cathedral of Veratus is on the south side of the road, a
+monument to a cluster of gods and immortals who inhabited the mountains
+long ago.  The strangest thing about the gods who are worshipped here is
+that they are no longer in residence.  Some say they are simply sleeping,
+awaiting the time when they are truly needed to save the world.  A single
+immortal remains.  She is the oracle.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2036</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2547</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

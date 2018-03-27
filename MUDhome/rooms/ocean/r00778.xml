@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="778" Version="2.40" Area="ocean">
+  <Name>Crystal Intersection</Name>
+  <ShortDescription>You have entered a magnificant crystal room that intersects the orange
+jacinith hallway going east to west and the ruby hallway extending to
+the north.  There is a small stairwell to the south that leads down.</ShortDescription>
+  <LongDescription>A small sign above the staircase says "Crystal Alcove".  As you peer
+down the staircase, you can see your reflection, as if you were waiting
+at the bottom of the staircase looking up.  A cool breeze can be felt
+coming from the bottom of the stairwell.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">779</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">784</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">777</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="staircase">
+      <Keys/>
+      <Room Area="ocean">800</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

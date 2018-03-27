@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3187" Version="2.40" Area="ocean">
+  <Name>Sahuagin Altar</Name>
+  <ShortDescription>You are in a small, subterranian sea chamber connected to a larger cave.</ShortDescription>
+  <LongDescription>On a coral reef jutting from the center of the chamber is an altar,
+constructed from a rainbow of different colored coral.  The center of
+the altar is dark red, stained with what looks like blood.  From your
+childhood, you recall the horrifying tales of the sadistic rituals of
+the Sahuagin race of creatures said to inhabit the depths below the seas.
+Beyond a high part of the small island of coral, where you cannot see,
+the chanting seems to be getting louder.</LongDescription>
+  
+  <Established>756196503</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="22"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">298</Mob>
+      <Mob Area="ocean" Num="1">371</Mob>
+      <Mob Area="ocean" Num="2">299</Mob>
+      <Mob Area="ocean" Num="3">368</Mob>
+      <Mob Area="ocean" Num="4">368</Mob>
+      <Mob Area="ocean" Num="5">368</Mob>
+      <Mob Area="ocean" Num="6">369</Mob>
+      <Mob Area="ocean" Num="7">369</Mob>
+      <Mob Area="ocean" Num="8">370</Mob>
+      <Mob Area="ocean" Num="9">302</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3186</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="154" Area="ocean" Version="2.40">
+  <Name>bastard sword</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>75</ShotsMax>
+  <ShotsCur>75</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>10</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">750</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">sword</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a large, powerful sword.</Description>
+  <Weight>8</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

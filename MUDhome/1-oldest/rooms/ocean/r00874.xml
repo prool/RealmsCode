@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room Num="874" Version="2.44b" Area="ocean">
+  <Name>Orange Wagon</Name>
+  <ShortDescription>You are in a room richly appointed with silk tapistries and large pillows.</ShortDescription>
+  <LongDescription>A young boy, perhaps seven years old, sits amidst the pillows on the floor
+attended by several old men.  He speaks and they listen intently, while
+one of them writes swiftly in a large book.  A curtain hangs between you
+and the scene inside, and a hand motions for you to enter.  You may speak
+to the boy, known as Vlassen the Wise.</LongDescription>
+  <HighLevel>10</HighLevel>
+  <Wander></Wander>
+  <Track><Direction>out</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="out"><Keys></Keys><Target><Room Area="ocean">875</Room></Target><Effects></Effects></Exit><Exit Name="curtain"><Keys></Keys><Target><Room Area="ocean">878</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

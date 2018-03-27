@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="1284" Version="2.40" Area="ocean">
+  <Name>Ancient Bibliotheke</Name>
+  <ShortDescription>You have entered a large, ancient library filled with books.</ShortDescription>
+  <LongDescription>The Great Bibliotheke (rumored to be only a mere myth) houses the most
+powerful spells in creation.  It is the storehouse for all of Kelsar's
+ancient mages and was thought to have been destroyed centuries ago.
+There are bookshelves upon bookshelves of ancient books along the walls.
+It's a mage's paradise.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>259200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">165</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1283</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1285</Room>
+      <Key>24</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

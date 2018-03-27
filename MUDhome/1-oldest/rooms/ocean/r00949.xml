@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="949" Version="2.40" Area="ocean">
+  <Name>Hafnia East Gate/Mountain Path</Name>
+  <ShortDescription>You are on a rocky mountain path outside the east gate of Hafnia.</ShortDescription>
+  <LongDescription>There is snow all around you, but you notice that the trail has been
+well cleared of it.  To the west, you see the massive gates of Hafnia, 
+a mountain city.  As you approach the gates, you start to see more and 
+more people.  Some wave to you as they pass by.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">69</Mob>
+      <Mob Area="ocean" Num="1">70</Mob>
+      <Mob Area="ocean" Num="2">69</Mob>
+      <Mob Area="ocean" Num="3">70</Mob>
+      <Mob Area="ocean" Num="4">60</Mob>
+      <Mob Area="ocean" Num="5">60</Mob>
+      <Mob Area="ocean" Num="6">65</Mob>
+      <Mob Area="ocean" Num="7">51</Mob>
+      <Mob Area="ocean" Num="8">51</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>gate</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">948</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="321" Version="2.40" Area="ocean">
+  <Name>Bendine Aquarium Kiddie Tank Depths</Name>
+  <ShortDescription>You have swum down into the depths of the Children's Tank.</ShortDescription>
+  <LongDescription>The floor of the Children's Tank is not really kid's stuff.  Large crabs
+and crayfish inhabit this area and don't always like invaders to their
+domain.  You can also see a number of large fish and an occassional eel
+swim by as well.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="22"/>
+  </Flags>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">287</Mob>
+      <Mob Area="ocean" Num="1">288</Mob>
+      <Mob Area="ocean" Num="2">289</Mob>
+      <Mob Area="ocean" Num="3">290</Mob>
+      <Mob Area="ocean" Num="4">291</Mob>
+      <Mob Area="ocean" Num="5">292</Mob>
+      <Mob Area="ocean" Num="6">293</Mob>
+      <Mob Area="ocean" Num="7">289</Mob>
+      <Mob Area="ocean" Num="8">288</Mob>
+      <Mob Area="ocean" Num="9">287</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">320</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

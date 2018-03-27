@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<Room Num="2826" Version="2.40a" Area="ocean">
+  <Name>Gold Hallway</Name>
+  <ShortDescription>You are in an eerie hallway with a mysterious gold door to the north.</ShortDescription>
+  <LongDescription>The odd looking door to the north seems to glow with a strange, bluish
+hue.  The otherwise majestic hallway is composed almost completely of 
+gold.  The gold door on the north wall appears to be locked magically.
+Careful examination of the south wall will reveal four rings that 
+you probably didn't see before.  That is, if you can detect invisible
+things.</LongDescription>
+  
+  
+  
+  <Established>729058807</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">433</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">434</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">435</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">436</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects>
+    <ObjRef Num="433" Area="ocean" Version="2.40a">
+      <Name>center ring</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>1</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">1</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">ring</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="434" Area="ocean" Version="2.40a">
+      <Name>inner ring</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>1</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">1</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">ring</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="435" Area="ocean" Version="2.40a">
+      <Name>middle ring</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>2</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">1</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">ring</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="436" Area="ocean" Version="2.40a">
+      <Name>outer ring</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>3</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">1</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">ring</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+  </Objects>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2827</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2825</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

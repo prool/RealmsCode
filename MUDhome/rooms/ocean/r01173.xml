@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1173" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, just west of Eidenhoft Boulevard.</ShortDescription>
+  <LongDescription>On the north side of Netherworld Lane, you can see the back side of a
+small shopping complex.  The entrance to the complex is probably on the
+other side of the building.  To the south, there is a large building
+with a moderate-sized gem hovering about it.  When the sun hits the gem,
+it radiates a brilliant purple glow over the entire building and some of
+the adjacent streets.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1167</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1172</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="back door">
+      <Keys/>
+      <Room Area="ocean">1813</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

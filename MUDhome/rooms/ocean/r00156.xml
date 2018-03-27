@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="156" Version="2.40" Area="ocean">
+  <Name>Plasnelt Road</Name>
+  <ShortDescription>You are on Plasnelt Road, just north of the Brownhaven Disposal Pits.</ShortDescription>
+  <LongDescription>There are several wagons pulled up at the gate, and some are waiting to
+enter while a few are just leaving.  There is a gatekeeper holding a key
+and waving the wagons through.  Looks like there is a small administration
+building for the disposal pits just to the east.  On the north side of the
+road there is a stone cutter's place of business.  A sign says, "Why not
+order your tombstone while you can enjoy it?"</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">155</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">157</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">161</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

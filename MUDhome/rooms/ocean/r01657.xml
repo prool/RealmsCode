@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1657" Version="2.40" Area="ocean">
+  <Name>Regalia Way</Name>
+  <ShortDescription>You are walking along Regalia Way between the Convent and the Markets.</ShortDescription>
+  <LongDescription>On the east side of the road, you can see Maria's Market, a small
+grocery store which caters to the lower, working classes, providing
+meat and vegetables from the various small farms both inside and
+outside of Oceancrest.  The Convent is located on the western side
+of the road.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1656</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1658</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

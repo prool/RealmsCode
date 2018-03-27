@@ -1,0 +1,19 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |  Help on:  chain-lightning spell  | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: Dependant on the number of targets.
+School:  Evocation
+Domain:  Destruction
+
+This spell affects all monsters in the area that the spell is cast in.
+Using powerful magic, the caster is able to summon a potent lightning-bolt
+that ricochets from reflectable objects in the room to strike all the
+designated targets. Guided by magic, there is no way to dodge such a spell,
+but it can be resisted by other magic. This spell is part of the
+electricity realm.
+
+Type "help aoe" for more information.
+
+Syntax:
+cast chain-lightning [<monsters>|<players>|<all>]
+

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3074" Version="2.40" Area="ocean">
+  <Name>Temple Passage</Name>
+  <ShortDescription>You are in a secret passage that connects the main chamber to private rooms.</ShortDescription>
+  <LongDescription>There are crushed doorways along the western side of the passage, which means
+it would be impossible to enter them from this narrow tunnel.  Perhaps there
+is another passage elsewhere in the Temple that would provide access.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3073</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3097</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

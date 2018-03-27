@@ -1,0 +1,15 @@
+
+^YPlayer Shop :: Item Confiscation Draft^x
+
+The following items stocked in your shop exceed the average market value of
+the item by more than 200%. Items stocked significantly above the average
+market value are in danger of confiscation per the policy of not using a shop
+as a storage room.
+
+    Item                            Price
+      aquatic polearm (+3)            $500,000
+      blackstaff (+3)                 $300,000
+
+Please re-price your items or send Dominus a message on the forum arguing
+your case within 3 day's time.
+

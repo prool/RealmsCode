@@ -1,0 +1,8 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  transmute       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Transmute is a ability given to mages that allows them to repair broken wands
+in exchange for gold pieces. The amount of gold needed is based on the amount
+of shots in the wand.
+

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="2002" Version="2.40a" Area="ocean">
+  <Name>Kista Stables and Exercise Yard</Name>
+  <ShortDescription>There is an abundance of vacant stables in which to leave your trusty
+steed.  A nearby sign proclaims that horses are exercised daily.</ShortDescription>
+  <LongDescription>The exercise yard is a large field which extends to the north and
+east of the stables.  It is primarily a large track where people
+can train their horses for everything from simple trail riding to
+knightly jousting and fox hunting.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">229</Mob>
+      <Mob Area="ocean" Num="1">229</Mob>
+      <Mob Area="ocean" Num="2">229</Mob>
+      <Mob Area="ocean" Num="3">230</Mob>
+      <Mob Area="ocean" Num="4">230</Mob>
+      <Mob Area="ocean" Num="5">230</Mob>
+      <Mob Area="ocean" Num="6">229</Mob>
+      <Mob Area="ocean" Num="7">229</Mob>
+      <Mob Area="ocean" Num="8">229</Mob>
+      <Mob Area="ocean" Num="9">230</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2001</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2003</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

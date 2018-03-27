@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1635" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are casually walking along Leviathan Drive, east of the Keslar Palace.</ShortDescription>
+  <LongDescription>A large mountain of dirt has strangely risen on the west side of the 
+road, where the Keslar Palace stands.  The sheer cliffs which run up
+the virtually impossible mountain prevent people from entering the 
+Palace except through the proper route.  On the west is a large black-
+smith's shop and a couple of other smaller shops.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1198</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1636</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,8 @@
+Help on: *range
+
+This command allows a DM to see the assigned range
+of numbers of any Builder, Creator, or Caretaker.
+It will work for both on and offline players.
+
+Syntax:
+*range (player)

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2532" Version="2.40a" Area="ocean">
+  <Name>Myrr Lane</Name>
+  <ShortDescription>You are on Myrr Lane, just east of the intersection with Kista Avenue.</ShortDescription>
+  <LongDescription>On the north side of the lane is a fence around an empty lot.  On the south
+side you see another lot, but a huge multi-branched fungus covers it.  The
+fungus seems to writh and move, but only slowly.  There is a path through
+the tangled mass, but why would anyone want to walk through it?</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2531</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2009</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

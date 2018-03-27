@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="4006" Version="2.40" Area="ocean">
+  <Name>Cellar Hall</Name>
+  <ShortDescription>You are in a hallway under Natasha's mausoleum.  It connects to a cellar. </ShortDescription>
+  <LongDescription>No one has been here in a long time, as you can see by the dust and cobwebs.
+Under the dust there is a heap of old bones, and if you are not careful,
+your own may be there also.  There is an animal-like smell coming from the
+cellar, and its not very plesant.  </LongDescription>
+  
+  <Established>771743356</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>hall</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">694</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="cellar">
+      <Keys/>
+      <Room Area="ocean">3911</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hall">
+      <Keys/>
+      <Room Area="ocean">4007</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

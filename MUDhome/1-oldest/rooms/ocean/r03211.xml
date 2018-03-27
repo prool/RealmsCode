@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3211" Version="2.40" Area="ocean">
+  <Name>Lake View Road</Name>
+  <ShortDescription>You are walking along Lake View Road, which runs north toward the lake.</ShortDescription>
+  <LongDescription>Lake View Road takes you around the town's grainery and dairy storage
+areas bringing you towards Lake Kista.  The beautiful blue water of
+the lake is almost always near freezing, even in the short summers here.  
+The crystal-blue waters and snow-white shores are lovely to look at, though.</LongDescription>
+  
+  <Established>755776921</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3214</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2007</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="402" Version="2.40" Area="ocean">
+  <Name>Evenborough Way</Name>
+  <ShortDescription>You are walking along Evenborough Way, west of the Evenborough Stables.</ShortDescription>
+  <LongDescription>The Evenborough Stables and the Evenborough Inn are located across the
+street from each other to provide easy access for the travellers just
+coming into the city.  There are a number of small shops in the northern
+side of town where you can buy something to eat, watch some bards play
+some annoying tunes, or just walk along the Nylandian Bay beach.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">401</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">403</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

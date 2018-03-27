@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |  Help on:  wind-protection spell  | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 12
+School:  Abjuration
+Domain:  Protection
+
+Wind-protection is a spell which will protect you from air-damaging rooms and
+air-based attacks from monsters. An invisibile, intangible shield surrounding
+the target will absorb some of the damage inflicted upon them from the previous
+sources, but keep in mind: it does NOT protect the target from air-based spells.
+
+Syntax:
+cast wind-protection <target>

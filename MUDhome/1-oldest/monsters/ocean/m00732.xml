@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<Creature Num="732" Area="ocean" Version="2.40">
+  <Name>the shade of Lady Vickers</Name>
+  <Class>5</Class>
+  <Level>12</Level>
+  <Type>1</Type>
+  <Experience>600</Experience>
+  <Coins>
+    <Coin Num="2">600</Coin>
+  </Coins>
+  <Alignment>100</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>50</Current>
+      <Max>50</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a dark shadow wearing a white gown.  She is playing a violin.</Description>
+  <Keys>
+    <Key Num="0">shade</Key>
+    <Key Num="1">lady</Key>
+    <Key Num="2">vickers</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>300</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>4</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>If I stop playing, the forces of darkness will come back.</Talk>
+  <DefenseSkill>115</DefenseSkill>
+  <AttackPower>180</AttackPower>
+  <WeaponSkill>115</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">741</Carry>
+    <Carry Area="ocean" Num="1">741</Carry>
+    <Carry Area="ocean" Num="2">741</Carry>
+    <Carry Area="ocean" Num="3">741</Carry>
+    <Carry Area="ocean" Num="4">741</Carry>
+    <Carry Area="ocean" Num="5">741</Carry>
+    <Carry Area="ocean" Num="6">741</Carry>
+    <Carry Area="ocean" Num="7">741</Carry>
+    <Carry Area="ocean" Num="8">741</Carry>
+    <Carry Area="ocean" Num="9">741</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects>
+    <Effect>
+      <Name>invisibility</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+  </Effects>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="18"/>
+    <Bit Num="50"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="14"/>
+    <Bit Num="17"/>
+    <Bit Num="41"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

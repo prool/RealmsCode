@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="3642" Version="2.40" Area="ocean">
+  <Name>Small Arms Storage and Repair</Name>
+  <ShortDescription>You are in a small arms storage armory and repair facility in Castle Ragnar.</ShortDescription>
+  <LongDescription>This is the storage and repair shop for small arms and personal armor.
+Several weaponsmiths and an armoror are busy in the work area behind the
+counter, and one looks up as you come in.  Prince Ragnar's knights store
+their extra weapons here in the racks lining the walls.  The passage to
+the south appears to go to the archery tackle shop.</LongDescription>
+  
+  <Established>764987784</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">715</Mob>
+      <Mob Area="ocean" Num="1">715</Mob>
+      <Mob Area="ocean" Num="2">715</Mob>
+      <Mob Area="ocean" Num="3">715</Mob>
+      <Mob Area="ocean" Num="4">715</Mob>
+      <Mob Area="ocean" Num="5">715</Mob>
+      <Mob Area="ocean" Num="6">715</Mob>
+      <Mob Area="ocean" Num="7">715</Mob>
+      <Mob Area="ocean" Num="8">715</Mob>
+      <Mob Area="ocean" Num="9">715</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>passage</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">716</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">3640</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3638</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

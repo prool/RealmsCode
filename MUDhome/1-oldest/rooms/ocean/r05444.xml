@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5444" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>You are on a steep, winding road in the Taseletek Mountain Range.</ShortDescription>
+  <LongDescription>This road follows a natural trail between Mount Tasletek on the north,
+and Mount Aphinix on the south.  The mountains to the south were formed by
+active volcanos, and are the homes of horrible mountain trolls.  Peaceful, 
+but dumb giants live on the slopes of the Tasletek.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5443</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5445</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,19 @@
+Help on DM command:
+	MOB
+
+Shows a listing of monsters that will arrive in the room as well as
+some information on them.
+
+: *mob
+Random monsters which come in this room:
+Traffic = 50%
+Slot 1:  Highport guardsman [Humanoid:8HD]
+         [I:2011 L:10 X:300 G:0 H:135 M:0 N:2 A:100 D:15]
+Slot 2:  Highport guardsman [Humanoid:8HD]
+         [I:2011 L:10 X:300 G:0 H:135 M:0 N:2 A:100 D:15]
+Slot 10: elite Highport guardsman [Humanoid:8HD]
+         [I:2012 L:22 X:500 G:1000 H:500 M:0 N:2 A:100 D:42]
+
+: 
+
+

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3215" Version="2.40" Area="ocean">
+  <Name>Lake View Road</Name>
+  <ShortDescription>You are near the north leg of the road around the beautiful Lake Kista. </ShortDescription>
+  <LongDescription>Not far from here is another road that heads north to the Gotland Pass.
+Lake View Road continues to the northwest not far from here, and will
+eventually turn back to the south and return to Kista.  The view of the 
+lake is very good from this height.  In the drinking rooms back in the
+city there are stories of monsters who inhabit the lake.  How silly.</LongDescription>
+  
+  <Established>756071345</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3214</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3216</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

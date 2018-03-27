@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="3243" Version="2.40" Area="ocean">
+  <Name>Lake Kista West Shore</Name>
+  <ShortDescription>You are wading in the waters of Lake Kista near the western shore.</ShortDescription>
+  <LongDescription>An earthen bank overhangs the water here on the western edge, and a great
+tree has fallen, making a bridge from the high ground to the water.  The
+top of the tree lies submerged in the water.  Moss covered trees stand in
+the shallow water, impeding your travel as you wade in the cold water.</LongDescription>
+  
+  <Established>756037273</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">419</Mob>
+      <Mob Area="ocean" Num="1">419</Mob>
+      <Mob Area="ocean" Num="2">419</Mob>
+      <Mob Area="ocean" Num="3">419</Mob>
+      <Mob Area="ocean" Num="4">419</Mob>
+      <Mob Area="ocean" Num="5">419</Mob>
+      <Mob Area="ocean" Num="6">423</Mob>
+      <Mob Area="ocean" Num="7">425</Mob>
+      <Mob Area="ocean" Num="8">423</Mob>
+      <Mob Area="ocean" Num="9">425</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3241</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3242</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3245</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3246</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

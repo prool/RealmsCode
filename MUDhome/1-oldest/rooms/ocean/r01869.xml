@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1869" Version="2.40" Area="ocean">
+  <Name>The Barbarian Training Pits</Name>
+  <ShortDescription>You have entered the Barbarian Training Pits, where the barbarian tribes
+test the skills and weaknesses of their kind in live battles.</ShortDescription>
+  <LongDescription>These pits are designed for the lower level barbarians aiming to advance
+beyond the title of grunt.  If you are seeking to rise to the level
+grunt second class, you should enter the yellow hut.  If you are now
+ready to be called a grunt, first class, you should enter the orange
+hut, and be prepared for a good battle.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="yellow hut">
+      <Keys/>
+      <Room Area="ocean">1850</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="orange hut">
+      <Keys/>
+      <Room Area="ocean">1852</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1838</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

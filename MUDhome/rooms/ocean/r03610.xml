@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3610" Version="2.40" Area="ocean">
+  <Name>Knight's Walk</Name>
+  <ShortDescription>This is the western end of the Knight's Walk.</ShortDescription>
+  <LongDescription>A narrow, circular hallway seems to descend deeper into the castle from
+here.  The hallway runs south for a short distance before starting its
+downward spiral.  To the east the floor rises at an angle, going past the
+armory and the bachelor's barracks.</LongDescription>
+  
+  <Established>762644965</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">725</Mob>
+      <Mob Area="ocean" Num="1">726</Mob>
+      <Mob Area="ocean" Num="2">727</Mob>
+      <Mob Area="ocean" Num="3">725</Mob>
+      <Mob Area="ocean" Num="4">725</Mob>
+      <Mob Area="ocean" Num="5">725</Mob>
+      <Mob Area="ocean" Num="6">726</Mob>
+      <Mob Area="ocean" Num="7">725</Mob>
+      <Mob Area="ocean" Num="8">725</Mob>
+      <Mob Area="ocean" Num="9">727</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3609</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

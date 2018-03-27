@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1326" Version="2.40" Area="ocean">
+  <Name>Ministry Way</Name>
+  <ShortDescription>You are walking along Ministry Way, east of the Healer's Eye.</ShortDescription>
+  <LongDescription>The Healer's Eye, located on the west side of the road, is one of the
+many healers in the land that will provide services for no charge.  
+Unfortunately, the shop is rather small and they can only accomodate
+a few people at a time.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1325</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1327</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

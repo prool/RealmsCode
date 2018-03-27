@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3311" Version="2.40" Area="ocean">
+  <Name>End of the Dock</Name>
+  <ShortDescription>This is the Leviathan Dock, where occasionally large ships will dock.</ShortDescription>
+  <LongDescription>Looking out into the Nylandian Bay, you see several small vessels either
+making their way into the bay, or out into the treacherous Respitial Sea.
+While Pirates are fairly calm when on shore leave, they can get pretty
+aggressive when out of the bay, looking for prey.  This dock is the home
+of the pirate ship Widow Maker, and occasionally it sets sail unexpectedly
+with some of the citizens of Oceancrest still aboard.  The swashbucklers
+aboard turn ugly when that happens, and become aggressive.</LongDescription>
+  
+  <Established>759104922</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">351</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">951</Room>
+      <Flags>
+        <Bit Num="19"/>
+      </Flags>
+    </Exit>
+    <Exit Name="ocean">
+      <Keys/>
+      <Room Area="ocean">3161</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

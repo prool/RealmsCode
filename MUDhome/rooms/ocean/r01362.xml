@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Room Num="1362" Version="2.47i" Area="ocean">
+  <Name>Neilian Drive</Name>
+  <ShortDescription>You are walking down Neilian Drive, between two large forests.</ShortDescription>
+  <LongDescription>On both sides of the road, you can see some thick forests that completely
+obstruct your view inside them.  Not that there's anything to really see
+if you could see past the trees.  The trees and brush tend to be so thick
+that people seldom ever try to get into the forests.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>west</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">1361</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1363</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

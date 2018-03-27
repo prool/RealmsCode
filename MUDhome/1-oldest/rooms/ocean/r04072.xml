@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="4072" Version="2.41a" Area="ocean">
+  <Name>Golgoth's Cave</Name>
+  <ShortDescription>You are in a pleasantly warm cave, which at first glance seems rather</ShortDescription>
+  <LongDescription>shallow.  An icy stream of water trickles off the back wall and forms a
+small runnel to the cave's entrance.  Mushrooms grow all about you, and
+they look good to eat.  You probably could spend a relaxing time here.</LongDescription>
+  
+  
+  
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4025</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

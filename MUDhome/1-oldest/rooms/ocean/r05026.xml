@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="5026" Version="2.40" Area="ocean">
+  <Name>Blue Skies</Name>
+  <ShortDescription>You are riding a dragon at the south slope of Mount Aphinix.  50.n3.e0.so.w3</ShortDescription>
+  <LongDescription>The mountain is considered to be the domain of a clan of blood thirsty
+trolls, and the dragons have been trained to not fly there, lest it anger
+the trolls and another long war erupts between the people of Brownhaven and
+the mountain trolls.  To the west is the Nartiz Mountain Range, just over 
+some low hills.  South of you is the Vallenda Pass, which connects Gotland
+Glenn with the Vallenda Plains.</LongDescription>
+  
+  <Established>772228202</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5038</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5023</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5027</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

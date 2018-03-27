@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="3125" Version="2.40" Area="ocean">
+  <Name>Public Room of the Grinning Sailor.</Name>
+  <ShortDescription>You are in the public room of a low class dive called the Grinning Sailor.</ShortDescription>
+  <LongDescription>This is the main center room of the pub where most of the drinking takes
+place.  Of course, since most everyone in here is usually drunk, the
+friendly fights that occur here tend to get out of hand.  Near the middle
+of the floor is a wooden trap door, and bloody drag marks end there.</LongDescription>
+  
+  <Established>769639080</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">494</Mob>
+      <Mob Area="ocean" Num="1">494</Mob>
+      <Mob Area="ocean" Num="2">494</Mob>
+      <Mob Area="ocean" Num="3">81</Mob>
+      <Mob Area="ocean" Num="4">318</Mob>
+      <Mob Area="ocean" Num="5">309</Mob>
+      <Mob Area="ocean" Num="6">310</Mob>
+      <Mob Area="ocean" Num="7">310</Mob>
+      <Mob Area="ocean" Num="8">309</Mob>
+      <Mob Area="ocean" Num="9">311</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3124</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3126</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="trapdoor">
+      <Keys/>
+      <Room Area="ocean">3127</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

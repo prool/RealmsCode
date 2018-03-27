@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<Creature Num="379" Area="ocean" Version="2.40">
+  <Name>kelp creature</Name>
+  <Level>10</Level>
+  <Type>1</Type>
+  <Experience>355</Experience>
+  <Coins>
+    <Coin Num="2">150</Coin>
+  </Coins>
+  <Alignment>-25</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>140</Current>
+      <Max>140</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>45</Current>
+      <Max>45</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>The creature is a hideous collection of intertwined pieces of kelp.</Description>
+  <Keys>
+    <Key Num="0">kelp</Key>
+    <Key Num="1">creature</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>175</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>5</Number>
+    <Sides>4</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>glug glub?</Talk>
+  <NumWander>2</NumWander>
+  <DefenseSkill>95</DefenseSkill>
+  <AttackPower>180</AttackPower>
+  <WeaponSkill>95</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">455</Carry>
+    <Carry Area="ocean" Num="1">456</Carry>
+    <Carry Area="ocean" Num="2">457</Carry>
+    <Carry Area="ocean" Num="3">85</Carry>
+    <Carry Area="ocean" Num="4">35</Carry>
+    <Carry Area="ocean" Num="5">456</Carry>
+    <Carry Area="ocean" Num="6">384</Carry>
+    <Carry Area="ocean" Num="7">458</Carry>
+    <Carry Area="ocean" Num="8">69</Carry>
+    <Carry Area="ocean" Num="9">201</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects>
+    <Effect>
+      <Name>detect-invisible</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+    <Effect>
+      <Name>resist-magic</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+  </Effects>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="28"/>
+    <Bit Num="30"/>
+    <Bit Num="34"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="16"/>
+    <Bit Num="17"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

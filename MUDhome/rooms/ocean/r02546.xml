@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2546" Version="2.40" Area="ocean">
+  <Name>Alturis Road</Name>
+  <LongDescription>You are on Alturis Road, between the Cathedral and the Hanging Gardens.
+The Cathedral is run by an order of monks who believe they must forever
+cover their eyes to simulate blindness, and thus approach the attainment
+of knowledge without being corrupted by worldly attractions.  They once
+had many gods who resided in the Cathedral whom they believe taught them
+this strange behaviour, but now there is only the Oracle remaining.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2035</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2547</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

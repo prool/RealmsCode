@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2107" Version="2.40" Area="ocean">
+  <Name>Megan's Silver Apple Tree</Name>
+  <ShortDescription>You are under the shade of Megan's silver apple tree.  Her hut is nearby.</ShortDescription>
+  <LongDescription>Several large silver apples hang heavily on the tree, and even the leaves
+seem to shine with the luster of silver.  The simple hut has a flap over the
+doorway, and you can smell apples being cooked inside.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>yard</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="yard">
+      <Keys/>
+      <Room Area="ocean">2116</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hut">
+      <Keys/>
+      <Room Area="ocean">2117</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

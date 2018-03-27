@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1625" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are walking along Hillcrest Drive, east of the Allisk Circle.</ShortDescription>
+  <LongDescription>The Allisk Circle is a moderate-sized traffic circle around which three
+roads intersect.  Hillcrest Drive runs east and west.  Lankshire Parkway
+runs north and south, and Appleton Road runs to the southeast.  On the
+north side of the road you can see the dreaded Allisk Manor.  On the 
+south, you can see the western corner of the Circle-Bar Cattle Ranch.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1626</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1243</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

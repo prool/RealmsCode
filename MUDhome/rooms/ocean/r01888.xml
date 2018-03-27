@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="1888" Version="2.40" Area="ocean">
+  <Name>Bysantal's General Goods and Services</Name>
+  <ShortDescription>You are in a rather large General Store with everything imaginable on sale.</ShortDescription>
+  <LongDescription>Bysantal prides himself on being able to get just about anything anyone
+wants, for a reasonable price.  The general store is proof of this fact.
+Everything from mountain climbing gear to torches and lanterns may be
+bought here.  The exit back to the street is to the west and the Angry
+Camper Hunting Supplies shop is located to the south.  It is a small
+subsidiary of Bysantal's shop.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1045</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1885</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

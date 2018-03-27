@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  dense-fog spell     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 10
+School:  Conjuration
+Domain:  Nature
+
+The dense-fog spell will summon a cloud of magical fog to the area. This
+fog makes it difficult to see - all creatures in the room will find it
+more difficult to hit enemy combatants. The spell will also make it more
+difficult to scout either into or out of the room. All creatures in a room
+with a dense fog spell cast will have an easier time hiding in shadows.
+
+Syntax:
+cast dense-fog
+

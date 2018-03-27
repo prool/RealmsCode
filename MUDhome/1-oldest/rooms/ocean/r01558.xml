@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="1558" Version="2.40" Area="ocean">
+  <Name>Middle Circle of Etolos</Name>
+  <ShortDescription>You are on one of the concentric circles circling Etolos.</ShortDescription>
+  <LongDescription>You can see a number of higher level druids here working on perfecting
+their magical abilities.  Although they are not nearly as powerful as
+mages, they have been compared to clerics with their mystical ability
+to heal the wounded.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">178</Mob>
+      <Mob Area="ocean" Num="1">178</Mob>
+      <Mob Area="ocean" Num="2">179</Mob>
+      <Mob Area="ocean" Num="3">179</Mob>
+      <Mob Area="ocean" Num="4">179</Mob>
+      <Mob Area="ocean" Num="5">180</Mob>
+      <Mob Area="ocean" Num="6">179</Mob>
+      <Mob Area="ocean" Num="7">178</Mob>
+      <Mob Area="ocean" Num="8">177</Mob>
+      <Mob Area="ocean" Num="9">177</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1554</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1555</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1563</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

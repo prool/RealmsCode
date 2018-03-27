@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1675" Version="2.40" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are walking along Waterfront Way, north of the Civilian Farm Residences.</ShortDescription>
+  <LongDescription>The Farmers, being one of the most powerful lobbying groups, somehow
+got the city to allow them to build their own, individual houses near the
+farm lands.  On the north side of the road is the Klondike Wheat Fields,
+where the wheat and grain for the entire city is grown.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1676</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1614</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

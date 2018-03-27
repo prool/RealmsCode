@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="2137" Version="2.40" Area="ocean">
+  <Name>Hermit's Cave</Name>
+  <ShortDescription>You are in the cave of Xandaus the wise hermit.</ShortDescription>
+  <LongDescription>You had expected rocks to sit on, and perhaps a small fire in the center
+of the cave, but instead the place is nicely furnished with old but
+expensive furniture.  One wall is floor to ceiling with books and a
+comfortable chair is positioned for the best light to read by.  He is
+a wise hermit, afterall.  A fireplace and hearth has been constructed of
+stone and provides a cheerful atmosphere to the cave.</LongDescription>
+  
+  <Established>756241633</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">435</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2136</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="storage">
+      <Keys/>
+      <Room Area="ocean">4091</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

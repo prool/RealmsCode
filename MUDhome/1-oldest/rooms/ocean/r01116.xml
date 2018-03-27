@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1116" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>You are traveling along Marina Way, west of the Davis Brothers Mortuary.</ShortDescription>
+  <LongDescription>Ironically, the Davis Brothers Mortuary is situated just south of the
+Oceancrest Central Arena and Gaming Facility.  After the combat, the
+deceased are brought here to be prepared for burial or cremation.  The
+arena may be entered north of Overland Drive in the next city block.
+A large building to the west seems to glow with an unusual blue-green
+haze, which continues to puzzle you.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1117</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1115</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1899</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="4513" Version="2.40a" Area="ocean">
+  <Name>Heraldry Hall</Name>
+  <ShortDescription>You are in a quiet hall whose walls are covered with colorful banners.</ShortDescription>
+  <LongDescription>The hallway is wide, clean and well lighted.  Heraldic banners cover the
+the walls, each with its distinctive markings and colors.  Famous families
+from generations back have placed their identifying flags here.  At one
+time, this castle was the summer palace for the Lyanden royal family and
+it was known for its pomp and ceremonies.  All royal families participated.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4508</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4514</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

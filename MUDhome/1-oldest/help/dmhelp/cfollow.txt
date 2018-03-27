@@ -1,0 +1,6 @@
+Help on: *cfollow
+
+Causes a creature to follow a DM.
+
+Syntax: *cfollow (creature)
+

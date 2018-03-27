@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3240" Version="2.40" Area="ocean">
+  <Name>Danzig's Cart</Name>
+  <ShortDescription>You are in an overturned cart where Danzig the Powermonger resides.</ShortDescription>
+  <LongDescription>This cart is quite a sight.  Danzig sits on his throne, a wooden
+chair in the center of this reasonable large cart, which has been turned o
+over and built up to form a simple room with four walls with a 
+piece of heavy cloth over the doorway.  Danzig is a leader among the
+outlaws that you met on your way through the thicket, but he thinks
+he is a king.</LongDescription>
+  
+  <Established>756029812</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>150000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">406</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3239</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

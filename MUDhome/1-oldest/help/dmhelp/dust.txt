@@ -1,0 +1,18 @@
+Help on:
+	*dust <name> [-n]
+
+This command utterly destroys the named character.  They are kicked off of
+the game, and their player file is deleted.  Only DMs may use this command.
+
+example:
+:*dust ninja
+### Ninja has been turned to dust! We'll miss him dearly.
+### Ninja just logged off.
+Ominous thunder rumbles in the distance.
+
+Using the -n switch eliminates the mud broadcast in order that someone can
+be dusted without the entire mud knowing about it. It also eliminates the
+room broadcast as well. All DMs/CTs will still see the message broadcasted
+however. The "Ominous thunder rumbles in the distance." message will still
+happen, but the players will not know who was dusted.
+

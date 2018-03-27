@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3296" Version="2.40" Area="ocean">
+  <Name>Inside the Garden</Name>
+  <ShortDescription>Trapped!  As you enter the garden the gate slams shut behind you.</ShortDescription>
+  <LongDescription>The magical glow you felt radiating from the garden as you approached it
+is now very intense.  There are rows of fabulously beautiful plants lining
+the paths which lead up and down the inside of this garden, and the walls
+form an area which, once inside, is surprisingly large.  You cannot see the
+other end of the garden from where you stand as it simply fades into a
+mystically white radiance.  The gate, which has shut behind you, looks
+nothing like it did from the outside.  It is now a solid gold surface and
+prevents you from looking back in that direction.</LongDescription>
+  
+  <Established>758416137</Established>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="6"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3297</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3298</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3299</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<Room Num="3193" Version="2.40" Area="ocean">
+  <Name>Pirate Cove</Name>
+  <ShortDescription>You are in a pirate treasure cove, and see chests scattered on the sand.</ShortDescription>
+  <LongDescription>Several shovels are beside a deep hole dug in the sand well above the
+high water line.  There are signs that pirates have used this area for
+a long time to hide their booty, and apparently there is a crew of pirates
+nearby right now.  This cove is well hidden and difficult to enter, so
+they probably are not expecting anyone.</LongDescription>
+  
+  <Established>756210201</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">314</Mob>
+      <Mob Area="ocean" Num="1">314</Mob>
+      <Mob Area="ocean" Num="2">318</Mob>
+      <Mob Area="ocean" Num="3">318</Mob>
+      <Mob Area="ocean" Num="4">311</Mob>
+      <Mob Area="ocean" Num="5">375</Mob>
+      <Mob Area="ocean" Num="6">310</Mob>
+      <Mob Area="ocean" Num="7">310</Mob>
+      <Mob Area="ocean" Num="8">314</Mob>
+      <Mob Area="ocean" Num="9">318</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>86400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">314</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>86400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">314</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>86400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">464</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>86400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">253</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>86400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">70</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3190</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

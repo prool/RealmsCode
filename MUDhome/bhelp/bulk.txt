@@ -1,0 +1,84 @@
+
+Item Bulk
+
+Item bulk is how much space an item takes up in a
+character's inventory. The higher the number, the
+more bulky the item is. Each player has a maximum
+bulk value dependent on their size class:
+Small:  75
+Medium: 100
+Large:  125
+
+This is the max allowed for all items combined on a
+player. If a player wants to get, purchase, steal,
+be handed, or in any way add to their inventory, bulk
+will be checked first, and if it will exceed their
+max allowed bulk, then they cannot put the item in
+their inventory. Items in bags are not counted, and
+only the bag's bulk is counted instead. In addition,
+items worn (armor), count as only half their bulk value.
+The code will take care of this when it's calculating 
+bulk- you do not have to. A bag can hold inside it any 
+item equal to or less then the bag's bulk. We wont have
+people putting blackened-steel eviscerators in small bags
+anymore. They also wont be able to carry around 50
+healing potions or other small items without impeding
+their ability to pick up anything else.
+
+Items will have a default bulk value dependent upon type.
+This can be further modified as desired as you make items.
+Generally, if an object is magical in nature (such as
+magical weapons) it's bulk can be reduced to reflect how
+easy it is to handle. Use realism when determining this -
+a magical lance +4 is still about 10' long and will still
+be bulky as hell, but since it would have a bulk rate of
+like 20, it could instead have 15 because it's magical.
+These are the default values:
+
+ITEM TYPE               DEFAULT BULK
+Sharp........................4
+Thrust.......................4
+Blunt........................5
+Pole.........................8
+Missile......................6
+Armor(body)..................20
+Armor(arms)..................12
+Armor(legs)..................14
+Armor(neck)..................6
+Armor(belt)..................4
+Armor(hands).................4
+Armor(feet)..................4
+Armor(finger)................1
+Armor(held)..................4
+Armor(shield)................10
+Armor(face)..................4
+Potion.......................4
+Scroll.......................3
+Wand.........................3
+Container....................5
+Money........................4
+Key..........................1
+Lightsource..................2
+Miscellaneous................3
+Song Scroll..................3
+Poison.......................4
+Bandage......................2
+
+
+Things to remember:
+1) If an item is extremely fragile, its bulk
+can be doubled.
+2) Magical items can have reduced bulk.
+3) For weapons, go by basic size:
+   Small:  -2  (Dagger size)
+   Medium: +0  (A longsword or shortsword)
+   Large:  +2  (Battle-Axe size)
+   Huge:   +4  (A hill giant's club)
+   Giant:  +6  (A frost giant's axe)
+4) Other items can go by size like above too.
+For example, a pair of pixie wings would be
+small(-2), and a holding item called a "severed
+troll's head" would be large (+2).
+5) If an item is unwieldy and generally hard to
+carry, it has increased bulk.
+

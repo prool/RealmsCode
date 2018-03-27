@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="632" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>Lankshire Parkway continues through the farm land to the north and south.</ShortDescription>
+  <LongDescription>The large Bushman Farms fruit and vegetable garden feeds virtually all
+of Oceancrest.  Although fruits are not in great demand here, they are
+nevertheless required as a good source of vitamins.  The Bushman Farms
+does fairly good business with both the city and as an exporter to other
+less fortunate towns.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">631</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">633</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="325" Version="2.40" Area="ocean">
+  <Name>Bendine Aquarium Main Hallway</Name>
+  <ShortDescription>You are in the Main Hallway running through the Bendine Aquarium.</ShortDescription>
+  <LongDescription>This section of the Main Hallway runs through the pirahna exhibit.  The
+Pirahna Pit, as it is so named, lies to the west.  Although the small
+fish are not very powerful or strong, they tend to travel in packs, 
+making them a very deadly threat to their victim.  Encouraging them by
+jumping into the pirahna pool is not recommended.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">318</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">326</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">328</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

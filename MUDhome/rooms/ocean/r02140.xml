@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="2140" Version="2.40" Area="ocean">
+  <Name>Hedged Pathway</Name>
+  <ShortDescription>You are on a path in the enchanted forest, walking beside a high hedge.</ShortDescription>
+  <LongDescription>Although the path is very broad, the hedge is so thick you cannot step off
+the path.  To the west there is a clearing where you can see towering
+redwood trees.  To the east the path takes a turn, but the trees are more
+normal in size.  You can smell the pleasant smoke of a wood fire on the
+breeze coming from the east.</LongDescription>
+  
+  <Established>759008944</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">51</Mob>
+      <Mob Area="ocean" Num="1">51</Mob>
+      <Mob Area="ocean" Num="2">51</Mob>
+      <Mob Area="ocean" Num="3">60</Mob>
+      <Mob Area="ocean" Num="4">51</Mob>
+      <Mob Area="ocean" Num="5">60</Mob>
+      <Mob Area="ocean" Num="6">60</Mob>
+      <Mob Area="ocean" Num="7">60</Mob>
+      <Mob Area="ocean" Num="8">60</Mob>
+      <Mob Area="ocean" Num="9">60</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2139</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2141</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5414" Version="2.40" Area="ocean">
+  <Name>Foothills Trail</Name>
+  <ShortDescription>You are south of the intersection of the Foothills Trail and the Ashton
+River Road.  To the southeast is the dwarven community of Nyyron.</ShortDescription>
+  <LongDescription>The dwarves make a pretty good living by mining the foothills, but some of
+the best ores come from deep under the mountains you see far to the east.
+The dwarves have never said how deep their tunnels go.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5409</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5415</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

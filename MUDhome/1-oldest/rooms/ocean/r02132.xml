@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2132" Version="2.40" Area="ocean">
+  <Name>East Side of Stump</Name>
+  <ShortDescription>You are on the east side of a great forest stump.</ShortDescription>
+  <LongDescription>The path circles around the massive stump to the north and to the south.
+High on the remains of the ancient tree that once stood her you can see
+where someone has carved something, perhaps a message, or perhaps just
+graffiti.  A prickly hedge on the east side of the path requires you to
+stay close to the tree stump as you follow the path.</LongDescription>
+  
+  <Established>756208289</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1297</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2133</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

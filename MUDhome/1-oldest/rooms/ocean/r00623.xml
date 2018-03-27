@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="623" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard</Name>
+  <ShortDescription>You are casually walking down Avatar Boulevard, between the Bushman Estates.</ShortDescription>
+  <LongDescription>The large farmlands that the Bushman Family owns provides much of the
+required fruit and vegetable allowances to the citizens of the city.  
+Without the estate being used towards growing fruits, vegetables and other
+commodities, the city would have to import these items at an outrageous
+price.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">622</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">624</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

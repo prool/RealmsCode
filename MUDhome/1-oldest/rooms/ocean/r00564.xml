@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="564" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are walking along Eidenhoft Boulevard, east of the Adrilite Museum.</ShortDescription>
+  <LongDescription>The Adrilite Museum of Natural History gives a concise and complete look
+at the various stages of life in various parts of the world from the 
+strange and exotic, to the downright deadly.  The museum entrance is 
+located on the west side of the building off of Marina Way.  A row of
+quaint, multicolored small buildings line the west side of the road.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">557</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">565</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

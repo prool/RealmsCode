@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="279" Version="2.40a" Area="ocean">
+  <Name>Avatar Ruins Center Path</Name>
+  <ShortDescription>You are walking along the center path running through the Avatar Ruins.</ShortDescription>
+  <LongDescription>The Avatar Ruins are rumored to have been created by the massive destruction
+caused by the fighting avatars.  Although this is just superstition, many
+people like to believe that supernatural forces created regions of land
+such as this where magic appears to have no effect.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="17"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">280</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">278</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

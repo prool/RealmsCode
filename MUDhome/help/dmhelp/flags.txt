@@ -1,0 +1,14 @@
+Available flag help files:
+  Monster flags:  ^Wmflags^x
+  Object flags:   ^Woflags^x
+  Room flags:     ^Wrflags^x
+  Player flags:   ^Wpflags^x
+  Exit flags:     ^Wxflags^x
+  Spell flags:    ^Wsflags^x
+
+  Special Attack flags:    ^Wsaflags^x
+  Property Storage flags:  ^Wstflags^x
+  Property Shop flags:     ^Wshflags^x
+  Property House flags:    ^Whflags^x
+  Property Guild flags:    ^Wgflags^x
+

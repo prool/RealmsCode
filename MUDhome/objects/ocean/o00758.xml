@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="758" Area="ocean" Version="2.40">
+  <Name>goat horn</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>3</ShotsMax>
+  <ShotsCur>3</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">4000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">horn</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The goat horn has often been thought to have magical properties.</Description>
+  <Weight>2</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>43</MagicPower>
+  <InBag/>
+</Object>

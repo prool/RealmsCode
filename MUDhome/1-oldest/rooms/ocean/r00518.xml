@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="518" Version="2.40" Area="ocean">
+  <Name>Marina Circle</Name>
+  <ShortDescription>You are on the south side of Marina Circle, near the Nylandian Bay.</ShortDescription>
+  <LongDescription>Marina Circle is the first monument to greet incoming guests coming from
+the harbor.  The Circle acts as a junction between Hillborough Way,
+running east, Marina Way, running north and south, and the Nylandian
+Bridge, heading west into the Bay, onto Catlania Island.  Catlania Island
+is the home to the Marine Headquarters.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">519</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">520</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">517</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

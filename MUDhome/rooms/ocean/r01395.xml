@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1395" Version="2.40" Area="ocean">
+  <Name>Storage Room</Name>
+  <ShortDescription>You are in a disgusting storage room for dead human and elven bodies.</ShortDescription>
+  <LongDescription>This is where the ghouls keep their meat relatively fresh, although
+the bodies are already starting to decay.  The smell is unbearable.
+Two doors lead out of this room.  There is a similar stench in the
+direction of the first door.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">150</Mob>
+      <Mob Area="ocean" Num="1">23</Mob>
+      <Mob Area="ocean" Num="2">150</Mob>
+      <Mob Area="ocean" Num="3">150</Mob>
+      <Mob Area="ocean" Num="4">23</Mob>
+      <Mob Area="ocean" Num="5">23</Mob>
+      <Mob Area="ocean" Num="6">23</Mob>
+      <Mob Area="ocean" Num="7">150</Mob>
+      <Mob Area="ocean" Num="8">23</Mob>
+      <Mob Area="ocean" Num="9">150</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1394</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1509</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

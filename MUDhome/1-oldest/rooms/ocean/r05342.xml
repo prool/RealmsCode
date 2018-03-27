@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5342" Version="2.40" Area="ocean">
+  <Name>West Forest Lane</Name>
+  <ShortDescription>You are on a well traveled lane in the forest, west of a giant redwood tree.</ShortDescription>
+  <LongDescription>heavy ferns and damp underbrush are on either side of the lane, making it
+difficult to leave the path at this point.  The lane seems to be a popular
+path, if the amount of discarded items is any indication.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5403</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5343</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

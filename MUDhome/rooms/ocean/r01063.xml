@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1063" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street/Overland Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Overland Drive and Rosecrest Street.</ShortDescription>
+  <LongDescription>Rosecrest Street is parallel to the great City Wall on the west.  The waters
+of Nylandian Bay are on the other side of the wall, and before the wall was
+built the sea would often swell up and flood the city, destroying everything
+in its path.  Overland Drive heads east from this point, and connects the
+commercial and administrative areas located in this area to the estates of
+the rich and powerful farther east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1062</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1064</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1140</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

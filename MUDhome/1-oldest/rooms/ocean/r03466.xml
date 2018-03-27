@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3466" Version="2.40" Area="ocean">
+  <Name>Dead Poet's Tombstone</Name>
+  <ShortDescription>You stand before a battered granite tombstone, which stands in
+recognition of a long forgotten poet.  An elegaic peom begins, 
+"The meaning of life..." but is has been made unreadable by 
+the sands of time, haveing eroded the raised letters.</ShortDescription>
+  <LongDescription>As you approach the tombstone, you hear a voice speaking, perhaps to 
+itself. </LongDescription>
+  
+  <Established>760065142</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3331</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

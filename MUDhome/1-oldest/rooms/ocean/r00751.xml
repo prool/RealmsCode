@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="751" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are on Wakeforest Drive, between the Shrine of Creation on the east
+side of the road and the Holy Order of the Red Rose on the west side.</ShortDescription>
+  <LongDescription>The Holy Order of the Red Rose is one of the Paladin's training centers
+in Oceancrest.  This center is designed to train intermediate level
+Paladins before they enter the services of Lyanden Castle.  The Shrine
+of Creation is a monument to life in general, although no one can really
+figure out who built it or why.  Many people, however, still frequent the
+small shrine, hoping for a miracle of some sort.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">752</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">750</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">290</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Room Num="3155" Version="2.40" Area="ocean">
+  <Name>Sunken Pirate Ship</Name>
+  <ShortDescription>You are standing on the starboard side, near the bow, of the Snap Dragon.</ShortDescription>
+  <LongDescription>The Snap Dragon is a heavy man-o-war, and when it sailed the seas it
+carried a complement of over 100 men, all of them mean and nasty pirates.
+Often the mere sight of the ship on the horizon caused merchant captains
+to abandon their ships and leave them to be plundered by Morgan's men.
+It's been estimated that billions in gold and jewels have been carried
+in the hold of this very ship.</LongDescription>
+  
+  <Established>756270970</Established>
+  <Flags>
+    <Bit Num="22"/>
+  </Flags>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">375</Mob>
+      <Mob Area="ocean" Num="1">376</Mob>
+      <Mob Area="ocean" Num="2">376</Mob>
+      <Mob Area="ocean" Num="3">380</Mob>
+      <Mob Area="ocean" Num="4">380</Mob>
+      <Mob Area="ocean" Num="5">381</Mob>
+      <Mob Area="ocean" Num="6">381</Mob>
+      <Mob Area="ocean" Num="7">304</Mob>
+      <Mob Area="ocean" Num="8">385</Mob>
+      <Mob Area="ocean" Num="9">375</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3158</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3159</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3154</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

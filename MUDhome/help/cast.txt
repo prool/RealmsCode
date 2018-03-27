@@ -1,0 +1,24 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  cast         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The cast command allows you to cast spells which you may have learned by
+studying scrolls (help study). The "spells" command will tell you which spells
+you currently know. Different spells cost different amounts of magic points.
+When you cast a spell, the magic points are subtracted, and the special magic
+effect is produced. Unlike other MUDs, this one allows all classes to cast
+spells. Of course, some classes get more magic points than others. To cast a
+spell on yourself, do not include a target.
+
+Shortcuts
+
+A couple spells have casting shortcuts to make casting them quicker and easier.
+For example, you can type "c d-i" as a shortcut for "cast detect-invisibility".
+
+Example:
+: c v
+You cast a vigor spell on yourself.
+: c ench hoe
+The hoe (+2) begins to glow brightly.
+:
+

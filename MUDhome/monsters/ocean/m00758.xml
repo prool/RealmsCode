@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<Creature Num="758" Area="ocean" Version="2.40">
+  <Name>kitchen helper</Name>
+  <Level>4</Level>
+  <Type>1</Type>
+  <Experience>60</Experience>
+  <Coins>
+    <Coin Num="2">20</Coin>
+  </Coins>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>40</Current>
+      <Max>40</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a smaller than normal dwarf rushing about the kitchen.</Description>
+  <Keys>
+    <Key Num="0">helper</Key>
+    <Key Num="1">3</Key>
+    <Key Num="2">3</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>125</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>2</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>customers aren't allowed here in the kitchen, so get out.</Talk>
+  <DefenseSkill>35</DefenseSkill>
+  <AttackPower>130</AttackPower>
+  <WeaponSkill>35</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">20</Carry>
+    <Carry Area="ocean" Num="1">179</Carry>
+    <Carry Area="ocean" Num="2">208</Carry>
+    <Carry Area="ocean" Num="3">208</Carry>
+    <Carry Area="ocean" Num="4">208</Carry>
+    <Carry Area="ocean" Num="5">20</Carry>
+    <Carry Area="ocean" Num="6">20</Carry>
+    <Carry Area="ocean" Num="7">179</Carry>
+    <Carry Area="ocean" Num="8">179</Carry>
+    <Carry Area="ocean" Num="9">179</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

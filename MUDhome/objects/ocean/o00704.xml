@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="704" Area="ocean" Version="2.40">
+  <Name>crystalline battle boots</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>10</ShotsMax>
+  <ShotsCur>10</ShotsCur>
+  <Armor>35</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5250</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">battle</Key>
+    <Key Num="1">boots</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="10"/>
+    <Bit Num="27"/>
+  </Flags>
+  <Description>They are constructed from a crystal which seems to glow with life.</Description>
+  <Weight>10</Weight>
+  <Type>6</Type>
+  <SubType>plate</SubType>
+  <WearFlag>8</WearFlag>
+  <InBag/>
+</Object>

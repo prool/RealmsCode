@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="179" Version="2.40" Area="ocean">
+  <Name>Butler's Pantry in the Vickers House</Name>
+  <ShortDescription>You are in the butler's pantry between the kitchen and the dining room.</ShortDescription>
+  <LongDescription>There is an unlocked liquor cabinet here, and a trapdoor leads to the wine
+cellar.  This is where the good silver and fine china was stored.</LongDescription>
+  
+  <Established>785614556</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>dining room</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="dining room">
+      <Keys/>
+      <Room Area="ocean">178</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="trapdoor">
+      <Keys/>
+      <Room Area="ocean">32</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2870" Version="2.40" Area="ocean">
+  <Name>Kaldeas' Mansion Entry</Name>
+  <ShortDescription>You are at the entrance to the home of Mardic Kaldeas, illusionist.</ShortDescription>
+  <LongDescription>This is the famed Kaldeas Mansion of Illusion.  Not all is what it appears
+to be, once you enter this place.  The place is reputed to be empty, but
+that may not be true.  From here, near the front door, you can see the
+rooms apparently have a large number of mirrors in them.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1175</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2871</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

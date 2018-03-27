@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="639" Version="2.40a" Area="ocean">
+  <Name>Harvest Circle</Name>
+  <ShortDescription>You are on the northern section of the the large Harvest Circle.</ShortDescription>
+  <LongDescription>The Harvest Circle marks the center of the town of Oceancrest.  It connects
+Necropolis Avenue, running north and south, with Oceancrest Avenue, running
+east and west through the center of the city.  The Harvest Circle more or
+less gets its name because every autumn, the town gathers at the Circle in
+celebration of the end of the harvesting season.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">638</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">640</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">641</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

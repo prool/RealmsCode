@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<Room Num="1980" Version="2.40" Area="ocean">
+  <Name>Evander's World Of Weapons Plaza</Name>
+  <ShortDescription>You are in Evander's World of Weapons Main Plaza.</ShortDescription>
+  <LongDescription>The Main Plaza gives you access to all the major shops in this complex,
+all owned and managed by Evander.  On the east is the largest building
+which houses the Evander Repair Shop.  Here, Evander or one of his
+trusted laborers will repair damaged weapons.  On the northwest is the
+Polearms Emporium where all sorts of unique and interesting weapons may
+be bought.  On the west is the Armory, dealing mostly with chain mail
+and other metallic armor.  On the southwest is the Swordsmith, where 
+various swords and daggers may be bought.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">267</Mob>
+      <Mob Area="ocean" Num="1">267</Mob>
+      <Mob Area="ocean" Num="2">267</Mob>
+      <Mob Area="ocean" Num="3">267</Mob>
+      <Mob Area="ocean" Num="4">267</Mob>
+      <Mob Area="ocean" Num="5">267</Mob>
+      <Mob Area="ocean" Num="6">267</Mob>
+      <Mob Area="ocean" Num="7">267</Mob>
+      <Mob Area="ocean" Num="8">267</Mob>
+      <Mob Area="ocean" Num="9">267</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1191</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1197</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1981</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1982</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1984</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1986</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

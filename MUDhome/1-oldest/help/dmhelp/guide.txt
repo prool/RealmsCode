@@ -1,0 +1,59 @@
+  LVL    Stats   HP     AC      T0       XP     DMG
+   1      55      9    100      20       06      4
+   2      58     17     90      19       15      6
+   3      61     27     80      18       35      7
+   4      65     40     70      17       50      8
+   5      68     60     60      16       65     10
+   6      71     75     50      15       85     12
+   7      73     90     40      14      110     14
+   8      75    105     30      13      140     16
+   9      80    120     20      12      200     18
+  10      80    135     10      11      260     20
+  11      83    150      0      10      340     22
+  12      86    165    -10       9      425     24
+  13      89    180    -15       8      580     26
+  14      92    195    -20       7      700     28
+  15      95    210    -25       6      850     30
+  16      98    225    -30       5     1000     33
+  17     101    240    -35       4     1150     36
+  18     104    255    -40       3     1300     40
+  19     107    270    -45       2     1450     45
+  20     110    285    -50       1     1600     50
+  21     110    300    -55       0     1800     52
+  22     113    350    -60      -2     2000     54
+  23     115    400    -65      -4     2500     56
+  24     118    450    -70      -7     3000     58
+  25     120    500    -80      -8     3500     60
+  26     122    550    -90      -8     4000     64
+  27     123    625    -95      -8     5500     68
+  28     124    750    -100     -8     7000     70
+  29     125    900    -110     -8     8500     73
+  30     125    1000   -120     -9    10000     80
+
+
+Note: These are only maximum values. They do not HAVE
+      to be set this high. In addition, some of the
+      following guidelines can be used to ADD above
+      the maximum xp alotted for that level up to level 20.
+      They are as follows:
+      
+      For each type of special OFFENSIVE ability flag: +10%
+      For each type special DEFENSIVE ability flag: +20%
+      Mob casts and has decent amount of MP: +10%
+      If the mob casts with enhanced realms:   +10%
+      If the mob is harmed only by magic:      +10%
+
+Note that this should only apply to mobs under level
+20. Anything 20 and above is assumed to have some sort
+of special abilites and that is included in the xp value.
+
+Examples of OFFENSIVE abilities are: breath weapons, 
+casting stun, energy drain, dissolves, casting, etc...
+
+Examples of DEFENSIVE abilities are: resist-magic, enchanted
+weapons needed (any plus), resisting realms, resisting
+weapon types, etc...
+
+In general, use your common sense.
+
+

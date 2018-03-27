@@ -1,0 +1,18 @@
+^WSpells:^x
+    animate-dead
+    bloodfusion
+    dispel-good
+    draw-spirit
+    harm
+    lifedraw
+    lifetap
+    sap-life
+    siphon-life
+    soulsteal
+    spirit-strike
+    touch-of-kesh
+    unhallow
+
+See also:
+    HELP DOMAINS
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3595" Version="2.40" Area="ocean">
+  <Name>Clerics Training Room</Name>
+  <ShortDescription>This is where clerics must come to train.  Congratulations.</ShortDescription>
+  <LongDescription>All you need to do, is type "train".</LongDescription>
+  
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="6"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="33"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1811</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

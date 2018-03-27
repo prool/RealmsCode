@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3669" Version="2.40" Area="ocean">
+  <Name>Trokkawilff's Dungeon</Name>
+  <ShortDescription>You are in Trokkawilff's dungeon with a full view of his torture chamber.</ShortDescription>
+  <LongDescription>The dungeon is small and has moldy straw ankle deep on the floor.  Several
+chains with open manacles hang from the low ceiling, and iron wristlets
+and leg clamps are attached to the south wall.  Any prisoner here would
+have a full view through the open door of the torture chamber in the next
+room.  There is a table in the room, set with a very fine bone china and
+expensive looking silver.  The table cloth has long since disintegrated.
+A repulsive green slime seems to cover most of the room.</LongDescription>
+  <Trap>6</Trap>
+  
+  <Established>765137783</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>43200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">82</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">84</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3668</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

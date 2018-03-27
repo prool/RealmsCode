@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="700" Area="ocean" Version="2.40">
+  <Name>crystalline battle armor</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>20</ShotsMax>
+  <ShotsCur>20</ShotsCur>
+  <Armor>88</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">battle</Key>
+    <Key Num="1">armor</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="10"/>
+    <Bit Num="27"/>
+  </Flags>
+  <Description>The armor seems to glow with a life embedded into every crystal.</Description>
+  <UseOutput>The armor begins to resonate as your thoughts turn to battle.</UseOutput>
+  <Weight>20</Weight>
+  <Type>6</Type>
+  <SubType>plate</SubType>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2934" Version="2.40" Area="ocean">
+  <Name>Middle of the Stone Bridge</Name>
+  <ShortDescription>You are standing at the center of a stone bridge spanning the Ashton River.</ShortDescription>
+  <LongDescription>The western end of the bridge has a gate across it, but the eastern end
+is clear, and connects to a road running south along the river bank.
+The center of the bridge is wide, high and solid, providing a wonderful
+view of the Ashton Falls in the river to the south.</LongDescription>
+  
+  <Established>759020203</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>gate</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2935</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">2933</Room>
+      <Key>46</Key>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

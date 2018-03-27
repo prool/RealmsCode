@@ -1,0 +1,27 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  | Help on:  magic-missile spell  |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 2/missile
+
+This spell allows the caster to cast forth a number of small multicolored
+energy missiles, all which inerrantly hit their target. The higher the level of
+the caster, the more missiles that are available. The max missiles available is
+equal to the caster's level divided by two. MP cost is 2mp/missile cast. It is
+possible to cast any number of these missiles, up to the max amount. Only the
+inherent magic resistance of some creatures/items will prevent this spell from
+hitting. The resist-magic spell has a 50% to turn aside each missile cast.
+
+Only mages and liches may cast this spell.
+
+For example, for a level 10 caster:
+: c magic-missile high
+Your magic-missile strikes the Highport guardsman for 6 damage.
+Your magic-missile strikes the Highport guardsman for 6 damage.
+Your magic-missile strikes the Highport guardsman for 7 damage.
+Your magic-missile strikes the Highport guardsman for 6 damage.
+Your magic-missile strikes the Highport guardsman for 7 damage.
+: c magic-missile high n 2
+Your magic-missile strikes the Highport guardsman for 6 damage.
+Your magic-missile strikes the Highport guardsman for 7 damage.
+:
+

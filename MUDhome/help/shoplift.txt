@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  shoplift        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+If you find you do not wish to pay excessive amounts of gold in a shop for any
+particular item, it is possible to shoplift that item. Anyone can do this, but
+naturally some classes are better then others (thieves obviously having the best
+chance). Also, keep in mind that heavier items are much harder to get out of the
+store, thus are harder to shoplift. If you fail and are caught, most likely you
+will be attacked by one ore more enemies, and you will be banned from the shop
+for a time in order to avoid death - but it's SO MUCH FUN to try, isn't it?
+Note: Casting classes (druid, mage, lich, cleric) are not very cut out for this,
+and paladins flat out can't do it.
+

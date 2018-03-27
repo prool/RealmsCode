@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3660" Version="2.40" Area="ocean">
+  <Name>Circular Steps</Name>
+  <ShortDescription>You are at the middle of a winding set of steps leading deeper into the
+bowels of the castle.  Not all parts of the castle have been explored,
+and whenever someone makes a map of the known rooms and archives it in
+the library, it always seems to strangely disappear.  Set in the north
+wall are a set of shackles and a heavy chain hangs from the ceiling.</ShortDescription>
+  
+  <Established>765062853</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3653</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3659</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

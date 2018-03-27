@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3609" Version="2.40" Area="ocean">
+  <Name>Knight's Walk</Name>
+  <ShortDescription>You are in the Knight's Walk, a great tunnel made of massive grey stone.</ShortDescription>
+  <LongDescription>Directly north is a barracks for the unwed members of Prince Ragnar's
+troops.  On the south side of the tunnel is the castle's armory where most
+of the small arms are stored.  The tunnel rises gradually to the east,
+and goes deeper into the castle's cellars to the west.  Great torches
+set high on the wall provide the only light here.</LongDescription>
+  
+  <Established>762644929</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">714</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3608</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3610</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3638</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

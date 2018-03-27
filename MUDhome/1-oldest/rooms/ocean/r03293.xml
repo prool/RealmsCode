@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="3293" Version="2.40" Area="ocean">
+  <Name>Evan's Storage Room</Name>
+  <LongDescription>You are in the storage room for Evan's Potions, in Kista.</LongDescription>
+  
+  <Established>756250886</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3292</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

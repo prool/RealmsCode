@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="4021" Version="2.41a" Area="ocean">
+  <Name>Golgoth Mountain Path</Name>
+  <ShortDescription>You are navigating a narrow, rocky path which winds around the mountain side.</ShortDescription>
+  <LongDescription>Along one side of the trail there is a sheer drop to a thick fog which swirls
+below.  Some of the rocks along here occasionally let loose and roar down
+the mountainside, disappearing into the grey fog without a sound.</LongDescription>
+  
+  
+  
+  <Established>771788558</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4020</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4022</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

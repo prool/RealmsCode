@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="966" Version="2.40" Area="ocean">
+  <Name>The Widow Maker Aft Deck</Name>
+  <ShortDescription>You are on the port side of the aft deck, looking over the main deck.</ShortDescription>
+  <LongDescription>The aft deck is the command center for the powerful pirate ship Widow
+Maker, and you are likely to encounter more powerful pirates up here
+than you would down on the main deck.  You can see the pirate captain
+watching over the people on the main deck to the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">318</Mob>
+      <Mob Area="ocean" Num="1">318</Mob>
+      <Mob Area="ocean" Num="2">318</Mob>
+      <Mob Area="ocean" Num="3">318</Mob>
+      <Mob Area="ocean" Num="4">318</Mob>
+      <Mob Area="ocean" Num="5">318</Mob>
+      <Mob Area="ocean" Num="6">318</Mob>
+      <Mob Area="ocean" Num="7">318</Mob>
+      <Mob Area="ocean" Num="8">318</Mob>
+      <Mob Area="ocean" Num="9">318</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">954</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">967</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

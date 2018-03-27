@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2530" Version="2.40" Area="ocean">
+  <Name>Ivory Way</Name>
+  <ShortDescription>You are at the northern end of Ivory Way, near the city's granary.</ShortDescription>
+  <LongDescription>To the south you can see the intersection with Myrr Lane, and to the north
+is the entrance to the granary.  Several botanists are measuring grain
+as it comes down a chute, and a distiller's cart is being loaded nearby.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2013</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="granary">
+      <Keys/>
+      <Room Area="ocean">2005</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

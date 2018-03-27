@@ -1,0 +1,29 @@
+Help on:
+	recipe creation with *combine and *set rec
+
+Use *recipe to view recipes you can edit.
+
+To create a new recipe, use the prepare command to prepare the different
+items in your inventory. Set one of the fields: ingredients, reusables,
+or equipment, by typing
+
+	*combine ingredients new
+
+	ingredients: will be consumed in the creation of the item
+	reusables: items that will not be consumed
+	equipment: items in room, also will not be consumed
+
+	For items to work in this list, they must have atleast 1 shot
+	and must be set to full shots (no used items). Bags used as
+	ingredients must be completely empty (0 current shots).
+
+This will create a new recipe for you and give you an ID number. To edit
+one of these fields in the future, type
+
+	*combine ingredients #
+
+Type "*set rec" by itself to see a list of parameters you are able to set
+on a recipe. The syntax is:
+
+	*set rec # result #
+

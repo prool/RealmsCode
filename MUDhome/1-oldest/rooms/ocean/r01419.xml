@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1419" Version="2.40" Area="ocean">
+  <Name>Guard and Servant Hallway</Name>
+  <ShortDescription>You are in the guard and servant access hallway.</ShortDescription>
+  <LongDescription>You appear to be behind the main dining hall.  The mages meet there
+every evening and often invite their important guests.  You can see
+a number of maids entering the dining hall to the east.  The 
+delicious smell of the food is making you hungry.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">172</Mob>
+      <Mob Area="ocean" Num="1">172</Mob>
+      <Mob Area="ocean" Num="2">130</Mob>
+      <Mob Area="ocean" Num="3">130</Mob>
+      <Mob Area="ocean" Num="4">130</Mob>
+      <Mob Area="ocean" Num="5">126</Mob>
+      <Mob Area="ocean" Num="6">130</Mob>
+      <Mob Area="ocean" Num="7">130</Mob>
+      <Mob Area="ocean" Num="8">172</Mob>
+      <Mob Area="ocean" Num="9">172</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1418</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1420</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

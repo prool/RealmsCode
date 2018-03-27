@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2375" Version="2.40a" Area="ocean">
+  <Name>Ituk Igloo</Name>
+  <ShortDescription>You are in a small, cramped igloo located slightly below the glacier.</ShortDescription>
+  <LongDescription>Oddly, the igloo you see lies slightly below the plane of the glacier,
+leading into the massive chunk of ice.  There is a heavy, metal door
+located to the north with a new lock on it.  There is no key around
+that you can see, and the door looks like it's been undisturbed for
+ages.</LongDescription>
+  
+  <Established>727213797</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">2350</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2376</Room>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

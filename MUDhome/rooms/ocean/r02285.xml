@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="2285" Version="2.40" Area="ocean">
+  <Name>Generic Clerical Supplies</Name>
+  <ShortDescription>You are in a large emporium of clerical goods and products.</ShortDescription>
+  <LongDescription>No cleric could go out adventuring without his or her trusty crucifix or
+a vial of holy water.  A number of small potions and other clerical 
+supplies line the shelves of the shop.  A kindly old man waits behind
+the counter for you to place an order.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1710</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

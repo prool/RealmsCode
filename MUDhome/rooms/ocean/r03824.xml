@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3824" Version="2.40" Area="ocean">
+  <Name>Main Platform</Name>
+  <ShortDescription>You are standing on the middle platform, above the Center Ring.</ShortDescription>
+  <LongDescription>This is the platform shared by both trapeze artists and tightrope walkers.
+It is much larger than the other two platforms and a little higher.  A large
+ladder is the only way down from here.  You can make out people cheering
+in the audience and performers in the rings below.  Some of them are pointing
+in your direction.  They are probably wondering why you are up here, and why
+you don't have a costume on.  The trapeze looks like the safest way to exit
+from here.  Maybe if you were quite dextrous, you could walk across the
+highwire.</LongDescription>
+  
+  <Established>765770615</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>wire</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="trapeze">
+      <Keys/>
+      <Room Area="ocean">3823</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="wire">
+      <Keys/>
+      <Room Area="ocean">3832</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3826</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

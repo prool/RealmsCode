@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="548" Version="2.40a" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are walking along Lelion Way, north of the Order of the White Cross.</ShortDescription>
+  <LongDescription>The Knightly Order of the White Cross is an exclusive society for very
+high level Paladins.  Upon proper completion of lower level training, a
+paladin may try to enter the White Cross by proving his worthiness and
+skill through tests of courage, knowledge and strength.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">549</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">547</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

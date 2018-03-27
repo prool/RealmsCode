@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="724" Version="2.40" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are on Oceancrest Avenue, listening to the crowd in the Ivanhouse Arena.</ShortDescription>
+  <LongDescription>The loud cheers of triumph are coming from the Ivanhouse Sporting Facility
+located to the south of the road.  The large facility is geared primarily
+towards one-on-one combat.  On the north side of the road are a number of
+small shops and stores.  Further to the east, you can see the intersection
+of Oceancrest Avenue with Lankshire Parkway.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>4500</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">441</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">630</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">725</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="4007" Version="2.40" Area="ocean">
+  <Name>Cellar Alcove</Name>
+  <ShortDescription>You are in a tiny alcove with only one direction to go.</ShortDescription>
+  <LongDescription>Apparently, someone long ago sealed the hallway here.  The bricks blocking
+the hall are newer, and of a different kind than the bricks in the wall.
+Scrawled on the wall is the word, "BEWARE" and under it is an icon of 
+a wolf, with dripping fangs.  On the same wall is the cryptic, "YAB 371."</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="hall">
+      <Keys/>
+      <Room Area="ocean">4006</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">4008</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

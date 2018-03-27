@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="3492" Version="2.40" Area="ocean">
+  <Name>Behind the Wall</Name>
+  
+  <Established>760095527</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3489</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

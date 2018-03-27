@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="173" Area="ocean" Version="2.40">
+  <Name>bow of soul stealing</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>150</ShotsMax>
+  <ShotsCur>150</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>3</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">bow</Key>
+    <Key Num="1">soul</Key>
+    <Key Num="2">stealing</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="13"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>You see a great, mystical bow of questionable origin.</Description>
+  <UseOutput>You feel the evil power course through your blood.</UseOutput>
+  <Weight>13</Weight>
+  <Type>5</Type>
+  <SubType>bow</SubType>
+  <WearFlag>20</WearFlag>
+  <MagicPower>1</MagicPower>
+  <InBag/>
+</Object>

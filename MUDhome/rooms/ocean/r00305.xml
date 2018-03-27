@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="305" Version="2.40" Area="ocean">
+  <Name>The Cage</Name>
+  <ShortDescription>You have foolished entered Matriess's fighting cage. Needless to say
+the fight is to the death.</ShortDescription>
+  <LongDescription>Matriess, the insane offspring of an ogre and a hill giant, stands
+before you. She grins with anticipation for her newest victim.</LongDescription>
+  
+  <Established>756036342</Established>
+  <Flags>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>cage-door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>21600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">405</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>90000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">466</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="cage-door">
+      <Keys/>
+      <Room Area="ocean">304</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

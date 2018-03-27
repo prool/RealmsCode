@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="1496" Version="2.40" Area="ocean">
+  <Name>Women's Restroom</Name>
+  <ShortDescription>This is the Inn's restroom for women.  There's no privacy here at all.</ShortDescription>
+  <LongDescription>As a matter of fact, there's nothing here but a dark and smelly hole in the
+floor.  If you want to use it, you should also know there's no paper in 
+sight.  Maybe you can hold it a little longer, eh?</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3737</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">1497</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="629" Version="2.40a" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are walking along Lankshire Parkway, west of the House of Hides.</ShortDescription>
+  <LongDescription>The large center on the east side of the road contains a number of small
+shops that might be of interest to some people.  The shop directly to the
+east, called the House of Hides, is well known for their good leather and
+other hide armors for all races.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">628</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">630</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

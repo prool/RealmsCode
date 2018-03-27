@@ -1,0 +1,157 @@
+ ^W*2x                ^x Allow two accounts to double log.
+ ^W*ac                ^x Show your Weapon/Defense/Armor and completely heal yourself.
+ ^W*active            ^x Show monsters on the active list.
+ ^W*add               ^x Create a new room/object/monster.
+ ^W*advance           ^x Change the player's level and adjust stats appropriately.
+ ^W*alchemylist       ^x Show the Alchemy List.
+ ^W*append            ^x Add text to a room description.
+ ^W*approve           ^x Approve a proposed guild.
+ ^W*arealist          ^x List area information.
+ ^W*armageddon        ^x Kill all players.
+ ^W*attack            ^x Make a monster attack a player/monster.
+ ^W*award             ^x Award a player roleplaying exp/gold.
+ ^W*backup            ^x Backup a player or restore a player from backup.
+ ^W*balance           ^x Balance a monster to a certain level.
+ ^W*ban               ^x Ban a player.
+ ^W*bane              ^x Crash the game
+ ^W*banlist           ^x Show a list of bans.
+ ^W*beep              ^x Make the player's terminal beep.
+ ^W*bhelp             ^x Access help files.
+ ^W*bomb              ^x Kill a player and everyone in room.
+ ^W*broadcast         ^x Broadcast a message to all players.
+ ^W*bug               ^x Record a player's actions.
+ ^W*builder           ^x Make a new character a builder.
+ ^W*cache             ^x Show DNS cache.
+ ^W*catrefinfo        ^x Show CatRefInfo.
+ ^W*cfollow           ^x Make a monster follow you.
+ ^W*changestats       ^x Allow a player to pick new stats.
+ ^W*charm             ^x Show the charm list of a player.
+ ^W*clanlist          ^x Show clans in memory.
+ ^W*classlist         ^x List all classes.
+ ^W*clone             ^x Create an armor set from a single piece of armor.
+ ^W*cname             ^x Rename a monster.
+ ^W*combine           ^x Create new recipes.
+ ^W*combust           ^x Kill a player.
+ ^W*create            ^x Summon an object.
+ ^W*crush             ^x Kill a player.
+ ^W*deitylist         ^x List all deities.
+ ^W*delete            ^x Delete text from a room description.
+ ^W*demographics      ^x Start the demographics routine.
+ ^W*destroy           ^x Destroy the room.
+ ^W*disconnect        ^x Disconnect a player.
+ ^W*dmhelp            ^x Access help files.
+ ^W*dmload            ^x Reload configuration files.
+ ^W*dmsave            ^x Resave configuration files.
+ ^W*drain             ^x Set a player to 1hp and 1mp.
+ ^W*dust              ^x Permanently delete a player.
+ ^W*echo              ^x Send a message to all players in the room.
+ ^W*effects           ^x List effects in the game.
+ ^W*effindex          ^x List rooms in the effects index.
+ ^W*enemy             ^x Show the enemies of a monster.
+ ^W*faction           ^x List all factions or show a player/monster's faction.
+ ^W*fifo              ^x Delete and recreate the web interface fifos.
+ ^W*find              ^x Find the next available room/object/monster.
+ ^W*fishing           ^x View fishing lists.
+ ^W*fixup             ^x Remove an underscore from an exit.
+ ^W*flushcrtobj       ^x Flush creatures and objects from memory.
+ ^W*flushrooms        ^x Flush rooms from memory.
+ ^W*force             ^x Force a player to perform an action.
+ ^W*gamestat          ^x Show configuration options.
+ ^W*gcast             ^x Cast a spell on all players.
+ ^W*gnat              ^x Kill a player.
+ ^W*group             ^x See who is grouped with a player.
+ ^W*guildlist         ^x Show all guilds.
+ ^W*ids               ^x Shows registered ids.
+ ^W*igmoo             ^x Kill all players.
+ ^W*info              ^x Show game info (includes some memory).
+ ^W*invis             ^x Toggle DM invis (only staff can see you).
+ ^W*kill              ^x Kill a player.
+ ^W*locations         ^x Show starting locations.
+ ^W*lottery           ^x Run the lottery.
+ ^W*lt                ^x Show a player's last times.
+ ^W*ltclear           ^x Clear a player's last times.
+ ^W*max               ^x Set your stats to max.
+ ^W*md5               ^x Show md5 of input string.
+ ^W*memory            ^x Show memory usage.
+ ^W*missile           ^x Kill a player.
+ ^W*moblist           ^x List wandering monsters in the room.
+ ^W*monster           ^x Summon a monster.
+ ^W*move              ^x Move and offline player.
+ ^W*mswap             ^x Swap monster with another.
+ ^W*name              ^x Rename the room.
+ ^W*nomnom            ^x Kill a player.
+ ^W*notepad           ^x Access your staff notepad.
+ ^W*nuke              ^x Kill a player and everyone in room.
+ ^W*object            ^x Summon an object.
+ ^W*oname             ^x Rename an object
+ ^W*oswap             ^x Swap object with another.
+ ^W*outlaw            ^x Make a player an outlaw.
+ ^W*pass              ^x Change a player's password.
+ ^W*possess           ^x Possess a monster.
+ ^W*prepend           ^x Prepend text to a room description.
+ ^W*property          ^x List properties.
+ ^W*proxy             ^x Allow a player to double log.
+ ^W*purge             ^x Purge all objects and monsters (not pets) in room.
+ ^W*put               ^x Put an item into a player's inventory.
+ ^W*questlist         ^x Show quests in memory.
+ ^W*racelist          ^x List all races.
+ ^W*range             ^x Show your assigned room range.
+ ^W*rape              ^x Set a player to 1hp and 1mp.
+ ^W*readmail          ^x Read a player's mail.
+ ^W*reboot            ^x Reboot the mud.
+ ^W*recipes           ^x List recipes.
+ ^W*reject            ^x Reject a proposed guild.
+ ^W*reload            ^x Reload the room from disk.
+ ^W*remove            ^x Unequip and take an item from a player.
+ ^W*repair            ^x Fix a player's armor.
+ ^W*replace           ^x Replace text in a room description.
+ ^W*reset             ^x Reset perm timeouts.
+ ^W*restore           ^x Restore a player's experience.
+ ^W*rmhist            ^x Delete a player's history.
+ ^W*rmmail            ^x Delete a player's mail.
+ ^W*rswap             ^x Swap current room with another.
+ ^W*save              ^x Save the room, creature, or object.
+ ^W*sd                ^x Show detailed information about a creature's stats.
+ ^W*set               ^x Modify a room/object/exit/player/object/monster.
+ ^W*setskills         ^x Set a player's skills to an appropriate level.
+ ^W*shipquery         ^x See data about ships.
+ ^W*shutdown          ^x Shut down the mud (may auto-restart).
+ ^W*silence           ^x Toggle broadcast silence on a player.
+ ^W*skills            ^x Show a list of skills / a player/monsters's skills.
+ ^W*slime             ^x Kill a player.
+ ^W*sockets           ^x Show all connected sockets.
+ ^W*songs             ^x List songs in the game.
+ ^W*specials          ^x Show a monster's special attacks.
+ ^W*spelling          ^x Spell-check a room.
+ ^W*spells            ^x List spells in the game.
+ ^W*spy               ^x Spy on a player.
+ ^W*status            ^x Show info about a room/player/object/monster.
+ ^W*supernova         ^x Kill all players.
+ ^W*surname           ^x Set a surname on a player.
+ ^W*swap              ^x Swap utility.
+ ^W*take              ^x Take an item from a player.
+ ^W*teleport          ^x Teleport to rooms or players, or teleport players to each other.
+ ^W*tell              ^x Send a player a message.
+ ^W*title             ^x Set a title on a player.
+ ^W*trip              ^x Kill a player.
+ ^W*txtoncrash        ^x Toggle whether the mud sends a text message when it crashes.
+ ^W*unban             ^x Delete a ban.
+ ^W*unfixup           ^x Add an underscore to an exit.
+ ^W*unique            ^x Work with uniques.
+ ^W*users             ^x See a list of connected users.
+ ^W*wander            ^x Force a monster to wander away.
+ ^W*wat               ^x Force a watcher to broadcast.
+ ^W*weather           ^x Show weather strings.
+ ^W*word              ^x Send all players to their recall room.
+ ^W*wrap              ^x Wrap the room description to a number of characters.
+ ^W*xarrange          ^x Arrange all the exits in the room according to standards.
+ ^W*xdelete           ^x Delete all exits in the room.
+ ^W*xrename           ^x Rename an exit.
+ ^Wdmclan             ^x Use specified clan channel.
+ ^Wdmclass            ^x Use specified class channel.
+ ^Wdmfinger           ^x fup an offline player's information.
+ ^Wdmguild            ^x Use specified guild channel.
+ ^Wdmrace             ^x Use specified race channel.
+ ^Wincog              ^x Toggle incognito status (only people in the room can see you).
+ ^Wplay               ^x Play a song.
+

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="4102" Version="2.40" Area="ocean">
+  <Name>Ashton Falls Resort Main Lobby</Name>
+  <ShortDescription>You are in the main lobby of the Ashton Falls Resort.</ShortDescription>
+  
+  <Established>774990159</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4101</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4103</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4105</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4104</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

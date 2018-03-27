@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="250" Area="ocean" Version="2.40">
+  <Name>small battle axe</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>4</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">battle</Key>
+    <Key Num="1">axe</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a small battle axe carried by the royal knights.</Description>
+  <Weight>3</Weight>
+  <Type>5</Type>
+  <SubType>axe</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

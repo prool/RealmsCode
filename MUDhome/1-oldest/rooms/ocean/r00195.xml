@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="195" Version="2.40a" Area="ocean">
+  <Name>Blue Room</Name>
+  <ShortDescription>You are in the Blue Room of Madame Ruthie's House of Pleasure.</ShortDescription>
+  <LongDescription>A huge feather bed takes up most of the room, and soft light comes from a
+candle-lit hurricane lamp at the side of the bed.  The great bed is in total
+disarray, with pillows on the floor and covers in a heap.  Leather shackles
+are mounted on the headboard, and a smoky mirror is overhead on the ceiling.</LongDescription>
+  
+  <Established>761956203</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">520</Mob>
+      <Mob Area="ocean" Num="1">520</Mob>
+      <Mob Area="ocean" Num="2">520</Mob>
+      <Mob Area="ocean" Num="3">520</Mob>
+      <Mob Area="ocean" Num="4">520</Mob>
+      <Mob Area="ocean" Num="5">520</Mob>
+      <Mob Area="ocean" Num="6">520</Mob>
+      <Mob Area="ocean" Num="7">520</Mob>
+      <Mob Area="ocean" Num="8">520</Mob>
+      <Mob Area="ocean" Num="9">520</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">194</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

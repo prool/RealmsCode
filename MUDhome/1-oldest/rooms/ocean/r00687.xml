@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="687" Version="2.40a" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are walking along Darmanian Way, south of the Sleepy Traveller Inn.</ShortDescription>
+  <LongDescription>The Sleepy Traveller Inn is a large facility where travellers can come
+and stay for many nights in Oceancrest without having to pay those 
+outrageous rates charged by some of the fancier inns.  The Sleepy Traveller
+Inn offers many "deals" for people spending a week or even a month in
+Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">663</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">686</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

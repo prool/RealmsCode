@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1510" Version="2.40" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>You are in a dimly-lit hallway somewhere under the Necropolis.</ShortDescription>
+  <LongDescription>There is a door to the south.  By the looks of it, there appears to be
+a secret door into this hallway.  The door probably leads to some large
+hallway or room.  The hallway continues to the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">131</Mob>
+      <Mob Area="ocean" Num="3">131</Mob>
+      <Mob Area="ocean" Num="5">131</Mob>
+      <Mob Area="ocean" Num="7">131</Mob>
+      <Mob Area="ocean" Num="9">131</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1511</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1509</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

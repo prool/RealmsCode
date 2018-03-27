@@ -1,0 +1,54 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  spells          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Offensive Realm Spells
+----------------------------------------------------------------------
+EARTH REALM         AIR REALM         FIRE REALM         WATER REALM
+rumble              zephyr            burn               blister
+crush               dustgust          fireball           waterbolt
+shatterstone        whirlwind         burstflame         steamblast
+engulf              cyclone           immolate           bloodboil
+earth-tremor(N)     tempest(N)        flamefill          atrophy
+earthquake*(N)      hurricane*        inferno*(N)        tsunami*
+
+ELECTRICITY REALM   COLD REALM
+zap                 chill
+lightning-bolt      frostbite
+shockbolt           sleet               *: Area effect spell
+electrocution       cold-cone(N)        H: Spell is a healing spell
+thunderbolt         iceblade            N: Spell is not in game yet,
+chain-lightning     blizzard*(N)           but can still be used through
+                                           wands and potions.
+General Spells
+----------------------------------------------------------------------
+anchor                dispel-good(N)    invisibility         resurrect
+armor                 dispel-magic(N)   knock                room-vigor*(H)
+bind                  drain-shield(N)   know-aura            scare
+bless                 earth-shield      levitate             silence
+blind(N)              enchant           magic-missile        slow(N)
+blink                 enfeeblement(N)   mend-wounds(H)       slow-poison
+bloodfusion           entangle          pass-without-trace   static-field
+breathe-water         ethereal-travel   portal               stone-to-flesh
+camouflage            farsight          prayer(N)            stoneskin
+clairvoyance          fear(N)           protection           strength(N)
+comprehend-languages  feeblemind(N)     reflect-magic(N)     stun
+courage(N)            fly               rejuvenate           summon
+cure-blindness        fortitude(N)      remove-curse(N)      teleport
+cure-disease          fortune           remove-fear(N)       track
+cure-poison           free-action(N)    remove-silence       transport
+curse(N)              harm              resist-air           true-sight
+damnation(N)          haste(N)          resist-cold          undead-ward(N)
+darkness              heal(H)           resist-earth         vigor(H)
+detect-invisibility   heat-protection   resist-fire          warmth
+detect-magic          hold-person       resist-lightning(N)  weakness(N)
+disintegrate(N)       infravision       resist-magic         wind-protection
+dispel-evil           insight(N)        resist-water         word-of-recall(N)
+
+Necromantic Spells
+----------------------------------------------------------------------
+sap-life         siphon-life
+lifetap          spirit-strike (N)
+lifedraw         soul-steal (N)
+draw-spirit (N)  touch-of-kesh (N)
+

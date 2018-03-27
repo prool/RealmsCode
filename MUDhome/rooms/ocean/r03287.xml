@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="3287" Version="2.40" Area="ocean">
+  <Name>Ogden's Basement</Name>
+  
+  <Established>758267840</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>stairs</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="stairs">
+      <Keys/>
+      <Room Area="ocean">3286</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3288</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

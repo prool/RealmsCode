@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1175" Version="2.40a" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, west of Rosecrest Street.</ShortDescription>
+  <LongDescription>The intersection with Rosecrest Street lies to the east of here.  On the
+south, you can see a strangely shaped door into Kaldeas' Mansion of
+Illusion.  What is actually in the Mansion has yet to be determined as
+it is often different for each person.  It was set up more as a sick 
+trick by the crafty wizard/illusionist Mardic Kaldeas some years ago
+to discourage snooping around by curious and bothersome adventurers.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1176</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1174</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2870</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

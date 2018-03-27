@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1779" Version="2.40" Area="ocean">
+  <Name>Monument Avenue</Name>
+  <ShortDescription>You are travelling down Monument Avenue, just south of the Shrine of Moradin.</ShortDescription>
+  <LongDescription>On the north side of the road, you can see the Dwarven Shrine of Moradin,
+the creator of the Dwarven Race.  All dwarves worship Moradin as if the
+world is going to end tomorrow.  Such dedication and faith has in the 
+past given dwarves the extra moral boost they need to defeat nearly 
+impossible odds.  On the southern side of the road is the Obidian 
+Community Housing Complex, where most of the city's citizens, who want to
+live in the city, live.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1746</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1780</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

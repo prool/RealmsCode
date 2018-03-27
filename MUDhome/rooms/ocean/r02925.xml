@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="2925" Version="2.40" Area="ocean">
+  <Name>Avernus</Name>
+  <ShortDescription>You are at the westernmost point of the first plane of Hell, Avernus.</ShortDescription>
+  <LongDescription>Being so far away from the center of Avernus, most of the creatures in
+this plane will leave you alone, assuming you are planning to leave the
+plane, and not just regroup for a later attack.  Nevertheless, you have
+been granted a slight rest, but remember, the monsters are also regrouping
+while you wait around.</LongDescription>
+  
+  <Established>727903426</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2922</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2924</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2923</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1909</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Room Num="3130" Version="2.40" Area="ocean">
+  <Name>East Uland Way</Name>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="w">
+      <Keys/>
+      <Room Area="ocean">334</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

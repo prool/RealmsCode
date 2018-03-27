@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="462" Area="ocean" Version="2.40">
+  <Name>glass ball</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>3</ShotsMax>
+  <ShotsCur>3</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">ball</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>In the hands of a skilled fortune teller, glass is almost as good as crystal.</Description>
+  <Weight>3</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>11</MagicPower>
+  <InBag/>
+</Object>

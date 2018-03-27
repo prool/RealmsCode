@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="4249" Version="2.40a" Area="ocean">
+  <Name>Main Courtyard - East</Name>
+  <ShortDescription>You are at the farthest eastern section of the castle's main courtyard.</ShortDescription>
+  <LongDescription>The open courtyard is to the west, but this part is under a parapet which
+extends a considerable distance overhead.  There are many small and locked
+doors along here.  Some are used for storage, others are private apartments
+of some of the people who live in the castle.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4247</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4248</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4246</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1085" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are walking along Golden Dolphin Way south of the Golden Dolphin Inn.</ShortDescription>
+  <LongDescription>The Golden Dolphin Inn was named after the road and caters to the average
+crusader tracking their way across the wilderness.  There are stables to
+the east of here just past the Hafnia Way intersection.  There is a small
+Saloon called the Rusty Nail off of Main Street in the same block which
+provides a fairly laid-back atmosphere to drink and socialize without the
+hassle of being in the "in" crowd.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1086</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1084</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

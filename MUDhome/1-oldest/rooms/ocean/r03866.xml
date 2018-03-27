@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3866" Version="2.40" Area="ocean">
+  <Name>Jungle Quicksand</Name>
+  <ShortDescription>You have blundered into a pool of quicksand and you are gradually sinking.</ShortDescription>
+  <LongDescription>The quicksand has the appearance of solid ground, but as you slowly sink
+you realize there is probably no bottom.  Unfortunately, you are too far
+from the banks to grasp any of the branches hanging over the area.  If
+you don't do something quickly, you may slide under the surface and die.</LongDescription>
+  
+  <Established>768687170</Established>
+  <Flags>
+    <Bit Num="24"/>
+    <Bit Num="26"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3867</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<Creature Num="433" Area="ocean" Version="2.40">
+  <Name>Captain Morgan</Name>
+  <Level>15</Level>
+  <Type>1</Type>
+  <Experience>1000</Experience>
+  <Coins>
+    <Coin Num="2">500</Coin>
+  </Coins>
+  <Alignment>-50</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>230</Current>
+      <Max>230</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>230</Current>
+      <Max>230</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>235</Current>
+      <Max>235</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>50</Current>
+      <Max>50</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>He is a broad, black-bearded man with flaming red hair.</Description>
+  <Keys>
+    <Key Num="0">captian</Key>
+    <Key Num="1">morgan</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>300</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>4</Number>
+    <Sides>3</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>Argh, I will destroy the mutinous Oceancrest Navy</Talk>
+  <NumWander>1</NumWander>
+  <DefenseSkill>145</DefenseSkill>
+  <AttackPower>230</AttackPower>
+  <WeaponSkill>145</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">282</Carry>
+    <Carry Area="ocean" Num="1">282</Carry>
+    <Carry Area="ocean" Num="2">455</Carry>
+    <Carry Area="ocean" Num="3">456</Carry>
+    <Carry Area="ocean" Num="4">440</Carry>
+    <Carry Area="ocean" Num="5">80</Carry>
+    <Carry Area="ocean" Num="6">70</Carry>
+    <Carry Area="ocean" Num="7">71</Carry>
+    <Carry Area="ocean" Num="8">455</Carry>
+    <Carry Area="ocean" Num="9">371</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="28"/>
+    <Bit Num="30"/>
+    <Bit Num="34"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="16"/>
+    <Bit Num="17"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

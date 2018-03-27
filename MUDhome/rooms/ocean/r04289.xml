@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="4289" Version="2.40a" Area="ocean">
+  <Name>Guard Station</Name>
+  <ShortDescription>You are in one of the many guard station in Castle Rutger.</ShortDescription>
+  <LongDescription>This particular station is for the elite personal guards who constantly
+surround Prince Rutger.  A rack on the wall is filled with hand weapons,
+and in the center of the room is a table with a map of the castle spread
+out on it.  There is a lot of activity in here.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4287</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

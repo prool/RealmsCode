@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="1467" Version="2.40" Area="ocean">
+  <Name>Meat Freezer</Name>
+  <ShortDescription>You are in a very cold freezer used to store meats.</ShortDescription>
+  <LongDescription>It has long been known that meat must be kept cold or it would spoil.
+Since the mages don't have dinner meetings every night, some meat needs
+to be kept without it spoiling.  The mages use a number of tricks to
+accomplish this using their magical powers, specifically through the
+powerful iceblade spell.  Don't stay in here too long or you're liable
+to get frostbite.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">128</Mob>
+      <Mob Area="ocean" Num="1">128</Mob>
+      <Mob Area="ocean" Num="2">127</Mob>
+      <Mob Area="ocean" Num="3">127</Mob>
+      <Mob Area="ocean" Num="4">128</Mob>
+      <Mob Area="ocean" Num="5">128</Mob>
+      <Mob Area="ocean" Num="6">127</Mob>
+      <Mob Area="ocean" Num="7">128</Mob>
+      <Mob Area="ocean" Num="8">128</Mob>
+      <Mob Area="ocean" Num="9">127</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>kitchen</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="kitchen">
+      <Keys/>
+      <Room Area="ocean">1468</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

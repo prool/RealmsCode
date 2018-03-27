@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1201" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are traveling along Rosecrest Street, northeast of Khelleva Circle.</ShortDescription>
+  <LongDescription>Rosecrest Street breaks off from Khelleva Circle at a diagonal to avoid
+the Khelleva Estate.  It continues to the northeast and eventually turns
+north.  To the southwest is Khelleva Circle, a rather nice circular 
+path which alleviates some of the conjestion that usually occurs when
+three streets merge together.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1202</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1160</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

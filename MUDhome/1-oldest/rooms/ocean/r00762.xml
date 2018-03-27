@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="762" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are on Wakeforest Drive, between the luxurious Crimson Dragon Traveler's
+Lodge on the east and the prestigious Iilandi University on the west.</ShortDescription>
+  <LongDescription>The Crimson Dragon Traveler's Lodge is one of the most popular Inns in
+the City, mostly because of its very luxurious rooms and the atmosphere
+surrounding the Inn.  It is considerably safer than most of the other 
+Inns, located around troubled spots in the city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">761</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">763</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

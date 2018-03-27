@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="2583" Version="2.40" Area="ocean">
+  <Name>Fruit Orchid</Name>
+  <ShortDescription>This area of the Garden is noted for the quality of fruit it produces.</ShortDescription>
+  <LongDescription>Every variety of fruit tree that exists seems to be here, and each has
+been carefully tended so that it produces only the very best fruit.  A 
+pair of trees near the path are drooping with beautiful ripe pears.  The
+second level of the Garden is up a winding path to the southwest.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2582</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2588</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2584</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2591</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

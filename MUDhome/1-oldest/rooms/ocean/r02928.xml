@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="2928" Version="2.40" Area="ocean">
+  <Name>Swamp Entrance</Name>
+  <ShortDescription>The main path seems to go through a swamp to the north, and south into a
+short and narrow valley.</ShortDescription>
+  <LongDescription>The swamp water is still and dark, with both living and dead trees standing
+in it.  Moss seems to hang from almost everything, and bubbles slowly form
+in the mud and burst, emitting a foul stench.  The gas from the mud may
+even be slightly toxic.  Strange there doesn't seem to be birds in this
+part of the forest.</LongDescription>
+  
+  <Established>759013762</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2929</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2927</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="3276" Version="2.40" Area="ocean">
+  <Name>Second Floor Ledge</Name>
+  
+  <Established>756376590</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3274</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3277</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3779" Version="2.40" Area="ocean">
+  <Name>Lelion Wildlife Preserve</Name>
+  <ShortDescription>This is the northern extreme of the Lelion Beach and Park wildlife preserve.</ShortDescription>
+  <LongDescription>You are on a small piece of land which juts into the stream, forming a
+break for the fast moving water coming from the east.  The Lithium Inlet
+is between the Laynden lake to the east and the Nylandian Bay to the west,
+and is an excellent fishing waters.  A wooden pier extends to the north,
+into the quieter water of the inlet.  The path you are on continues in
+both the east and west directions.</LongDescription>
+  
+  <Established>766020968</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3780</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3778</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3129" Version="2.40" Area="ocean">
+  <Name>Wine cellar</Name>
+  <ShortDescription>You are in the darkest part of the wine cellar beneath the Grinning Sailor.</ShortDescription>
+  <LongDescription>Although the room is unlighted, you see odd luminous shapes flitting between 
+the wine casks.  Now what could that be?  From the next room, you hear the
+trap door open and then a thumping noise.  A howl of glee comes from the pit
+below.  Something just brushed up against you!</LongDescription>
+  
+  <Established>769646374</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">596</Mob>
+      <Mob Area="ocean" Num="1">596</Mob>
+      <Mob Area="ocean" Num="2">596</Mob>
+      <Mob Area="ocean" Num="3">596</Mob>
+      <Mob Area="ocean" Num="4">596</Mob>
+      <Mob Area="ocean" Num="5">596</Mob>
+      <Mob Area="ocean" Num="6">596</Mob>
+      <Mob Area="ocean" Num="7">596</Mob>
+      <Mob Area="ocean" Num="8">596</Mob>
+      <Mob Area="ocean" Num="9">596</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3127</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1306" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>The street is quite oddly quiet as you walk down Riverdell Way.</ShortDescription>
+  <LongDescription>Even though you are west of the East Oceancrest Guard Barracks, you 
+notice that the surrounding area is very quiet.  It is quite annoying,
+as the city should be quite busy with activity.  Riverdell Way continues
+to the north and south.  A dense forest can be seen to the west, but it
+doesn't look like you can get through the thick brush.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1305</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1307</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

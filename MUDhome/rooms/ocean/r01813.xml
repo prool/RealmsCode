@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1813" Version="2.40" Area="ocean">
+  <Name>The Rusty Dagger</Name>
+  <ShortDescription>You are in a large, apparently well managed Assassin's Guild in central
+Oceancrest.  The assassins are very peculiar about who they let into
+their guild, thus if you're not from one of the other guilds, it's
+unlikely that they'll tell you anything useful or true.  </ShortDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">1812</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1173</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

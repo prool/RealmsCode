@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="392" Version="2.40" Area="ocean">
+  <Name>Tranquility Way</Name>
+  <ShortDescription>You are on Tranquility Way, just east of the intersection with Riverdell Way.</ShortDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">391</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1304</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

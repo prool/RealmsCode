@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Room Num="1897" Version="2.40" Area="ocean">
+  <Name>The Rusty Nail Saloon</Name>
+  <ShortDescription>You are in the Rusty Nail Saloon, a popular watering hole for visitors.</ShortDescription>
+  <LongDescription>The Rusty Nail is just west of the Golden Dolphin Inn and is probably
+the first thing people see when they enter the city from the South
+Gate.  It is therefore almost always filled with visitors and guests
+from all over the realm.  Brawls are unlikely, but possible if some
+people drink a little too much.  The waitresses are running around
+frantically trying to serve everyone.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">5</Mob>
+      <Mob Area="ocean" Num="1">6</Mob>
+      <Mob Area="ocean" Num="2">61</Mob>
+      <Mob Area="ocean" Num="3">61</Mob>
+      <Mob Area="ocean" Num="4">64</Mob>
+      <Mob Area="ocean" Num="5">65</Mob>
+      <Mob Area="ocean" Num="6">208</Mob>
+      <Mob Area="ocean" Num="7">209</Mob>
+      <Mob Area="ocean" Num="8">201</Mob>
+      <Mob Area="ocean" Num="9">202</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">64</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">61</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">209</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1052</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

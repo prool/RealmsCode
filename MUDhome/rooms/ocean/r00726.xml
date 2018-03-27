@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="726" Version="2.40" Area="ocean">
+  <Name>Highland Avenue/Orchard Lane/Tranquility Way Intersection</Name>
+  <ShortDescription>You are at the three-way intersection of Highland Avenue, Orchard Lane
+and Tranquility Way, coming together in the northeastern corner of town.</ShortDescription>
+  <LongDescription>Highland Avenue runs south out of the intersection, forming the eastern
+boundary of the city.  Tranquility Way runs to the northwest, passing
+by the Oceancrest Military Headquarters on the north side of town, and
+Orchard Lane heads to the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">773</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">727</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">375</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

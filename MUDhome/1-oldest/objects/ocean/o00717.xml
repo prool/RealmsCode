@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="717" Area="ocean" Version="2.40">
+  <Name>shield plate</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>35</ShotsMax>
+  <ShotsCur>35</ShotsCur>
+  <Armor>30</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2000</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a heavy shield which is made of thick dinosaur bone.</Description>
+  <Weight>10</Weight>
+  <Type>6</Type>
+  <SubType>shield</SubType>
+  <WearFlag>18</WearFlag>
+  <InBag/>
+</Object>

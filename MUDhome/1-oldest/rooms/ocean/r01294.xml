@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1294" Version="2.40" Area="ocean">
+  <Name>Ashton Creek</Name>
+  <ShortDescription>You are wading in the rushing waters of Ashton creek.</ShortDescription>
+  <LongDescription>To the west is a stone cottage near the bank and in a cleared area,
+and to the east are great boulders on the shore line.  To the north
+the stream tumbles over a broad but shallow waterfall.  In the distance
+to the north you can see a rope bridge traversing the stream where it
+narrows and starts to run deep.</LongDescription>
+  
+  <Established>756201994</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1293</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1295</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

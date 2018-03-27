@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="3285" Version="2.40" Area="ocean">
+  <Name>Hallway</Name>
+  
+  <Established>756376918</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3284</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3281</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

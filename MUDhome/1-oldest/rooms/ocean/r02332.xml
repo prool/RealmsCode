@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2332" Version="2.40" Area="ocean">
+  <Name>Glacier Cavern</Name>
+  <ShortDescription>You are looking over the cliff leading into the Dennanl Abyss, far below.</ShortDescription>
+  <LongDescription>The glacier pass comes to an end at the cliffs overlooking the Abyss to
+the north and continues through the glacier to the west.  A cold breeze
+comes up from the Abyss almost on a regular basis.  Looking down into the
+Abyss, you can see nothing.  The Abyss appears to continue forever in all
+directions.  You must fly to go north.</LongDescription>
+  
+  <Established>762454952</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2331</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2333</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

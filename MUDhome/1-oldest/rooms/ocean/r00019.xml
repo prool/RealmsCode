@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="19" Version="2.40" Area="ocean">
+  <Name>Wall Road West</Name>
+  <ShortDescription>You are on Wall Road West, just north of the village's west gate.</ShortDescription>
+  <LongDescription>On the east side is a run-down little business called the Wayfarer's Rest.
+Travelers stop there on their way in and out of the city.  It's always best
+to start a journey in the morning hours.  The roads are trecherous during
+the night-time, as many of the creatures who prey on travelers do not like
+the heat of the sun.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">30</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">40</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

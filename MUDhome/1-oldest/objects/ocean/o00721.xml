@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="721" Area="ocean" Version="2.40">
+  <Name>500 warriors</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">warriors</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Description>You see a multitude of ferocious warriors in their finest fighting gear.</Description>
+  <Type>14</Type>
+  <InBag/>
+</Object>

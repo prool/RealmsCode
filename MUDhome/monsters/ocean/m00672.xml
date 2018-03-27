@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<Creature Num="672" Area="ocean" Version="2.40">
+  <Name>the Witch of Kayleigh</Name>
+  <Level>22</Level>
+  <Type>1</Type>
+  <Experience>2600</Experience>
+  <Coins>
+    <Coin Num="2">5000</Coin>
+  </Coins>
+  <Alignment>-200</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>240</Current>
+      <Max>240</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>240</Current>
+      <Max>240</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>340</Current>
+      <Max>340</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>400</Current>
+      <Max>400</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>She may be the ugliest woman you have ever seen.</Description>
+  <Keys>
+    <Key Num="0">witch</Key>
+    <Key Num="1">kayleigh</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>750</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>3</Number>
+    <Sides>2</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>your liver will go nicely in the soup</Talk>
+  <DefenseSkill>215</DefenseSkill>
+  <AttackPower>240</AttackPower>
+  <WeaponSkill>215</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">405</Carry>
+    <Carry Area="ocean" Num="1">405</Carry>
+    <Carry Area="ocean" Num="2">405</Carry>
+    <Carry Area="ocean" Num="3">405</Carry>
+    <Carry Area="ocean" Num="4">707</Carry>
+    <Carry Area="ocean" Num="5">707</Carry>
+    <Carry Area="ocean" Num="6">707</Carry>
+    <Carry Area="ocean" Num="7">707</Carry>
+    <Carry Area="ocean" Num="8">707</Carry>
+    <Carry Area="ocean" Num="9">707</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="6"/>
+    <Bit Num="33"/>
+    <Bit Num="36"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="17"/>
+    <Bit Num="22"/>
+    <Bit Num="26"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

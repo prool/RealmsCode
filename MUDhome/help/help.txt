@@ -1,0 +1,83 @@
+The Player Help File:
+..--..--....--..--....--..--....--..--....--..--....--..--
+ambush          chain-lightning  drop            goblin
+animate         charm            druid           goblins
+atrophy         chill            dustgust        goodbye
+ask             circle           dwarf           group
+assassin        clairvoyance     dwarves         gtalk
+attack          class            earth-shield    halfelf
+backstab        classwho         earthquake      halfgiant
+balance         clear            east            halfling
+bandage         cleric           eat             halforc
+bank            close            electrocution   heal
+barbarian       cold-cone        elf             health
+bard            consider         emote           help
+bash            convert          enchant         hide
+befuddle        cost                             hire
+berserk         crush            engulf          hold
+berserker       cure-blindess    enter           holyword
+bite            curepoison       enthrall        human
+bless           curse            equipment       hurricane
+blind           customs          ethereal-travel hypnotize
+blister         cyclone          examine         iceblade
+blizzard        daily            fear            identify
+blood           darkelf          fighter         ignore
+bloodboil       darkelves        finger          immolate
+bloodsac        deathknight      fire-protection info
+bloodsacrifice  deletemail       fire-shield     inventory
+breathe-water   deletestatement  fireball        invisibility
+bribe           deposit          firestorm       invoke
+broadcast       description      fix             jackpot
+bs              detect-invis     flamefill       k
+burn            detect-magic     flee            kataran
+burstflame      disarm           fly             kick
+buy             dispel-evil      focus           kill
+c               dispel-good      frenzy          know-aura
+cambion         dispel-magic     frostbite       kobold
+cambions        down             get             lag
+camouflage      drain            give            lagprotect
+caps            drain-shield     gnome           learn
+cast            drink            go              leave
+..--..--....--..--....--..--....--..--....--..--....--..--
+levitate	quit		 shaman		 tsunami
+lich		ranger		 shatterstone	 turn
+light		read		 shockbolt	 undead-ward
+lightning-bolt	readmail	 shoplift	 unlock
+list		ready		 shut		 up
+lock		recite		 silence	 use
+login		refund		 sing		 value
+look		regenerate	 sleet		 vampire
+lose		remove		 sneak		 vigor
+lottery		remove-curse	 socials	 vote
+mage		remove-disease	 songs		 warmth
+maul		remove-fear	 south		 waterbolt
+meditate	remove-silence	 spells		 wear
+mend-wounds	renounce	 staff		 welcomeabaddon
+minotaur	repair		 statement	 werewolf
+mist		rescind		 stats		 west
+monk		resist-air	 steal		 whirlwind
+newsocials	resist-cold	 steamblast	 who
+north		resist-earth	 storage	 whois
+ogre		resist-fire	 study		 wield
+open		resist-lightning stun		 withdraw
+orc		resist-magic	 suicide	 word-of-recall
+order		resist-water	 summon		 yell
+out		restore		 take		 zap
+paladin		rm		 talk		 zephyr
+parley		rogue		 teach
+party		rumble		 teleport     Newer help files:
+passwd		run		 tell		  auction
+password	sandstorm	 tempest	  os
+peek		save		 thief		  gto
+pet		say		 thunderbolt	  whisper
+pick		sc		 time		  history
+pledge		scout		 touch		  envenom
+policy		search		 track		  commune
+pray		second		 trade		  barkskin
+prepare		selection	 train		  darkmetal
+protection	sell		 transfer
+		send		 transmute
+purchase	sendmail	 transport
+put		seraph		 troll
+quaff		set		 true-sight
+..--..--....--..--....--..--....--..--....--..--....--..--

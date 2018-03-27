@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="3896" Version="2.40" Area="ocean">
+  <Name>Main Temple Chamber</Name>
+  <ShortDescription>You are in the main chamber of the Ulandian Temple.</ShortDescription>
+  <LongDescription>At one end is an altar, and in front of it is a stone table with straps
+attached to it.  Looks like a place to hold an unwilling participant in
+some kind of ceremonial rite.  There are heavy, dark stains down the sides. 
+This room is huge, but no one is here.  However, there is a soft, occasional
+hissing sound coming from behind the altar.  A heavy stone door just sealed
+behind you.  As a matter of fact, you can't even see it now.</LongDescription>
+  
+  <Established>773737749</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>altar</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="altar">
+      <Keys/>
+      <Room Area="ocean">3897</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,21 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  healing         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+^WSpells:^x
+    cure-blindness
+    cure-disease
+    cure-poison
+    heal
+    mend-wounds
+    regeneration
+    rejuvenate
+    resurrect
+    room-vigor
+    slow-poison
+    vigor
+    well-of-magic
+
+See also:
+    HELP DOMAINS
+

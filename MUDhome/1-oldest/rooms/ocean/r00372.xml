@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="372" Version="2.40" Area="ocean">
+  <Name>Jungle Cemetery</Name>
+  <ShortDescription>You are in a small cemetery in the jungle, near a freshly opened grave.</ShortDescription>
+  <LongDescription>A coffin has been pulled from the ground and hacked open, the wreckage
+strewn under the large trees.  The ground is still steaming, and a freshly
+killed chicken lies on top of the casket, its blood used to write unusual
+symbols there.  A string of chicken entrails look to be carefully placed
+in a circle around the wooden casket, and a single candle still burns atop
+it.  Thick jungle brush separates you from an area where you hear chanting.</LongDescription>
+  
+  <Established>761262860</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>18</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">491</Mob>
+      <Mob Area="ocean" Num="1">491</Mob>
+      <Mob Area="ocean" Num="2">491</Mob>
+      <Mob Area="ocean" Num="3">493</Mob>
+      <Mob Area="ocean" Num="4">493</Mob>
+      <Mob Area="ocean" Num="5">491</Mob>
+      <Mob Area="ocean" Num="6">33</Mob>
+      <Mob Area="ocean" Num="7">33</Mob>
+      <Mob Area="ocean" Num="8">37</Mob>
+      <Mob Area="ocean" Num="9">37</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>gate</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">371</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="footpath">
+      <Keys/>
+      <Room Area="ocean">1877</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1878</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

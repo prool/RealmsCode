@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<Room Num="3057" Version="2.40" Area="ocean">
+  <Name>Goblin Treasure Room</Name>
+  <ShortDescription>Around you are several chests filled with gold, silver, platinum,
+and precious gems which sparkle in your torch light.</ShortDescription>
+  <LongDescription>The room is roughly twenty by thirty meters in size, and three tapestries
+hang on the northwest wall.  The middle tapestry is the most interesting,
+as it shows a goblin priest standing over a large pile of treasure after
+a battle.  The largest of the three tapestries depicts a huge battle 
+between goblins, humans and elves.  A lone goblin stands guard here below
+the tapestries.</LongDescription>
+  <Trap>7</Trap>
+  <TrapExit Area="ocean">3058</TrapExit>
+  
+  <Established>761313391</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">502</Mob>
+      <Mob Area="ocean" Num="1">502</Mob>
+      <Mob Area="ocean" Num="2">502</Mob>
+      <Mob Area="ocean" Num="3">509</Mob>
+      <Mob Area="ocean" Num="4">509</Mob>
+      <Mob Area="ocean" Num="5">503</Mob>
+      <Mob Area="ocean" Num="6">502</Mob>
+      <Mob Area="ocean" Num="7">502</Mob>
+      <Mob Area="ocean" Num="8">502</Mob>
+      <Mob Area="ocean" Num="9">502</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>alcove</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">509</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">80</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">570</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">94</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">154</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3056</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="alcove">
+      <Keys/>
+      <Room Area="ocean">3059</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4048</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

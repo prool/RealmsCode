@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="644" Version="2.40" Area="ocean">
+  <Name>Necropolis Avenue</Name>
+  <ShortDescription>You are walking along Necropolis Avenue, between the Bushman Estates.</ShortDescription>
+  <LongDescription>Robert Bushman is one of the richest men in Oceancrest, primarily because
+of his large estate.  The Plantation on the east grows much of the basic
+commodities that the city requires to survive.  The Farms on the west side
+of the road produce nearly all of the fruits and vegetables consumed by 
+the city.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">643</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">645</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

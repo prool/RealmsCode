@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5700" Version="2.40" Area="ocean">
+  <Name>Phexton Road</Name>
+  <ShortDescription>Phexton watch tower is on the east side, and another road is close by.</ShortDescription>
+  <LongDescription>The small village of Phexton is further north, and Phexton Bridge is south.
+Long ago, before modern signaling methods, there were a series of watch
+towers built throughout the mountains whose purpose was to watch for trolls
+and other invaders and warn the cities.  They used to light giant bonfires
+on top of the towers to signal one another.  They are no longer used for
+that purpose, and stand empty these days.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5429</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5701</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

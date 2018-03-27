@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Room Num="1385" Version="2.40" Area="ocean">
+  <Name>Dungeon Hallway</Name>
+  <ShortDescription>The hallway ends at the dungeon.  A large oak door with bars on the 
+windows suggests that it's well guarded.  To the south, there's a
+door leading into the dungeon guard's quarters.  On the north wall,
+inscribed in bad script, you can make out "Torture Chamber".</ShortDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">131</Mob>
+      <Mob Area="ocean" Num="1">131</Mob>
+      <Mob Area="ocean" Num="2">131</Mob>
+      <Mob Area="ocean" Num="3">152</Mob>
+      <Mob Area="ocean" Num="4">152</Mob>
+      <Mob Area="ocean" Num="5">152</Mob>
+      <Mob Area="ocean" Num="6">152</Mob>
+      <Mob Area="ocean" Num="7">152</Mob>
+      <Mob Area="ocean" Num="8">151</Mob>
+      <Mob Area="ocean" Num="9">151</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1386</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1384</Room>
+      <Key>17</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1391</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="dungeon">
+      <Keys/>
+      <Room Area="ocean">1398</Room>
+      <Key>22</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

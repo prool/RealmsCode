@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3845" Version="2.40a" Area="ocean">
+  <Name>North Highway</Name>
+  <ShortDescription>You are traveling on the North Highway, near a line of trees.</ShortDescription>
+  <LongDescription>The highway tends to meander as it cuts across fields and meadows, choosing
+the easiest way to go.  From time to time you see carts and waving peasants
+either going or coming from Oceancrest.  Not far to the north there is a
+traveler's inn where you might spend the night.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3844</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3846</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

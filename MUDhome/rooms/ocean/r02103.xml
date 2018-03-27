@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="2103" Version="2.40" Area="ocean">
+  <Name>Women's Restroom</Name>
+  <ShortDescription>You are in the women's restroom of the Pits of Doom Arena.</ShortDescription>
+  <LongDescription>Large mirrors cover the walls, and bright lights surround them.
+Near the back of the room are several massage tables where an
+attendent masseuse waits.  Comfortable furniture forms a sitting
+area by the door, and one wall has lockers avaiable for a price.
+A steaming spa sits in the center of the room.</LongDescription>
+  
+  <Established>756008503</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">442</Mob>
+      <Mob Area="ocean" Num="1">442</Mob>
+      <Mob Area="ocean" Num="2">442</Mob>
+      <Mob Area="ocean" Num="3">442</Mob>
+      <Mob Area="ocean" Num="4">442</Mob>
+      <Mob Area="ocean" Num="5">442</Mob>
+      <Mob Area="ocean" Num="6">442</Mob>
+      <Mob Area="ocean" Num="7">442</Mob>
+      <Mob Area="ocean" Num="8">442</Mob>
+      <Mob Area="ocean" Num="9">442</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1909</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,70 @@
+Roh is purging at 11:59pm EST, October 28th.
+Roh is opening at 8:00pm EST, October 31st.
+
+	As most of you probably have already guessed, we are going
+to be purging the players in order to get everyone a fresh start.
+The reasons behind this vary, but we feel it is in the best
+interest of RoH right now. We have been up almost 1.5 years now.
+In that time, we have altered and changed alot of stuff. Only
+in the last 3-4 months have we stopped messing with things and
+"let it ride" so to say. Other than a few things (listed below),
+we feel the game is very stable and balanced right now, and we
+will be mostly working on building new areas and quests and
+adding new spells for a while.
+
+	Here is a general list of some of the things which will
+be altered:
+1) Monks will receive 5hp/level. (not 6)
+2) Wolves will receive 6hp/level. (not 7)
+3) Monks and wolves will both vig/mend like fighters.
+4) Monks will be allowed to meditate slightly more often.
+5) Damage done by monks is going to be put back to old RoH values.
+   Right now it's old Isengard values (way too high).
+6) Monks will do more damage with kick (exact same as fighters).
+7) Monks and wolves will both be effected more by radical alignment
+   by missing more often and having a worse AC. For example, if you
+   are too royal blue, your AC will get worse, and your thac0 will
+   get worse. Focus and Frenzy will fail more often also. Same if 
+   you are too crimson.
+8) Rogues will be going back to 5hp/level.
+9) Rogue thac0s will be made slightly better.
+10) Argon (rogue training) will only need +2 weapons to hit.
+11) Strength and Dex will be important to monks.
+12) Monks wont ever be able to hit +3 mobs again w/o a +3 weapon.
+13) Classes which normally don't cast will have slightly
+    higher chance to fail casting - it will be more class
+    based and less based on intelligence stat.
+14) Backstab damage for thieves and assasins will be slightly
+    increased.
+15) Ceris clerics will be in the game.
+    Powers:
+    - vig/mend bonus
+    - turn bonus(+2 levels)
+    - rejuvinate spell (level 10) (HELP REJUVINATE)
+    - ressurrect spell (level 19) (HELP RESSURRECT)
+    Specifics:
+    - Must remain neutral.
+    - Blunt and pole weapons only.
+    - Light armor only.
+16) All clerics will choose god at character creation. Your
+    god will no longer be a clan. Changing gods will not be
+    possible (yet).
+17) Berserkers are getting an extra con bonus to HP at con 7.
+18) Berserkers will not be able to cast.
+19) Berserkers will be able to kick.
+20) Cleaving weapon proficiency will be added.
+21) Stats will be x10..i.e. a stat of 10 will be 100.
+    This is so we can add + items to stats. So you could get
+    bracers that have a property that increases dex by +2. 
+    So your dex would be 182 and not 180, for example. You will
+    still choose stats at creation the same as now. The game
+    will just multiply them by 10 when your character is made.
+22) Many other behind-the-scenes changes will be made, most of
+    which wont immediately effect anybody, and will make room
+    to add new features later over time.
+
+	Note that this is the MAX that can be expected to happen.
+Some of these things may still not occur, and are being debated by
+the staff still.
+-RoH Staff
+

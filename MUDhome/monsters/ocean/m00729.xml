@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Creature Num="729" Area="ocean" Version="2.47i">
+  <Name>cowled clerk</Name>
+  <Id>-1</Id>
+  <Class>3</Class>
+  <Level>1</Level>
+  <Type>1</Type>
+  <Experience>5</Experience>
+  <Coins><Coin Num="2">2</Coin></Coins>
+  <Alignment>100</Alignment>
+  <Stats><Stat Name="Strength"><Initial>80</Initial><Modifiers></Modifiers></Stat><Stat Name="Dexterity"><Initial>80</Initial><Modifiers></Modifiers></Stat><Stat Name="Constitution"><Initial>80</Initial><Modifiers></Modifiers></Stat><Stat Name="Intelligence"><Initial>100</Initial><Modifiers></Modifiers></Stat><Stat Name="Piety"><Initial>200</Initial><Modifiers></Modifiers></Stat><Stat Name="Hp"><Initial>10</Initial><Modifiers></Modifiers></Stat><Stat Name="Mp"><Initial>0</Initial><Modifiers></Modifiers></Stat></Stats>
+  <Description>You cannot see his face, but he stretches a bony hand toward you.</Description>
+  <Keys><Key Num="0">clerk</Key></Keys>
+  <MoveTypes></MoveTypes>
+  <Armor>50</Armor>
+  <Proficiencies></Proficiencies>
+  <Dice><Number>1</Number></Dice>
+  <Attacks></Attacks>
+  <Talk>there are certain formalitys we must go through for you to rescind your pledge</Talk>
+  <TalkResponses></TalkResponses>
+  <DefenseSkill>5</DefenseSkill>
+  <AttackPower>82</AttackPower>
+  <WeaponSkill>5</WeaponSkill>
+  <Factions></Factions>
+  <Skills></Skills>
+  <Effects></Effects>
+  <SpecialAttacks></SpecialAttacks>
+  <DailyTimers></DailyTimers>
+  <SavingThrows><SavingThrow Num="0"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="1"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="2"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="3"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="4"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="5"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow></SavingThrows>
+  <Flags><Bit Num="0"></Bit><Bit Num="12"></Bit></Flags>
+  <Inventory></Inventory>
+</Creature>

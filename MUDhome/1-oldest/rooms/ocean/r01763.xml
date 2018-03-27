@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1763" Version="2.40a" Area="ocean">
+  <Name>Kafkan Way</Name>
+  <ShortDescription>You are walking along Kafkan way, enjoying a day in the city of Oceancrest.</ShortDescription>
+  <LongDescription>The city is very serene and peaceful near the Riverdell Tranquility
+Park, which is probably why the park got its name.  The University
+is also in the neighborhood, further to the east.  On the south side
+of the road is the Oceancrest Mountaineers Supply, a store where any
+number of specialized items may be purchased.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1762</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1764</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2252</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

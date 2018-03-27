@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="3154" Version="2.40" Area="ocean">
+  <Name>Sunken Pirate Ship</Name>
+  <ShortDescription>You are standing on the starboard gun deck of the Snap Dragon.</ShortDescription>
+  <LongDescription>Nearby are a line of heavy brass cannons, neatly shoved into place with
+block and tackle.  Stacked in pyramids you see the iron balls and metal
+shards used to cut through the rigging of the Snap Dragon's prey.  Until
+this ship went down, it was the most feared pirate ship in existance.
+There is a rumor that much of the booty and treasure is buried somewhere
+near this bay.  But then, only a fool believes rumors.</LongDescription>
+  
+  <Established>756271028</Established>
+  <Flags>
+    <Bit Num="20"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">380</Mob>
+      <Mob Area="ocean" Num="1">379</Mob>
+      <Mob Area="ocean" Num="2">375</Mob>
+      <Mob Area="ocean" Num="3">376</Mob>
+      <Mob Area="ocean" Num="4">380</Mob>
+      <Mob Area="ocean" Num="5">379</Mob>
+      <Mob Area="ocean" Num="6">381</Mob>
+      <Mob Area="ocean" Num="7">302</Mob>
+      <Mob Area="ocean" Num="8">379</Mob>
+      <Mob Area="ocean" Num="9">375</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3155</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3157</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3153</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3198</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

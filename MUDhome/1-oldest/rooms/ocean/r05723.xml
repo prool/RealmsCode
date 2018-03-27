@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5723" Version="2.40" Area="ocean">
+  <Name>Jerome's Red Training Room</Name>
+  <ShortDescription>You are in a bare room with red walls in Jerome's School for Fighters.</ShortDescription>
+  <LongDescription>Tarl, the eldest son of Jerome, stands in the far corner with his arms
+folded and his weapon at his side.  You must defeat him to gain the key to
+the advancement room.  Tarl is so confident you will not best him that he
+will allow you the first blow.  Why don't you wait till he blinks?</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5720</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">5725</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="628" Version="2.40a" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are traveling along a busy section of Lankshire Parkway.</ShortDescription>
+  <LongDescription>Lankshire Parkway runs between two shopping centers on both sides of the 
+road.  On the east side of the road, you can see a large complex, whose
+entrance is located off of Hillborough Way.  On the west, you can see 
+Leo's Waxworks shop, where all sorts of wax figures, candles or other
+useful wax items are made and sold.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">627</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">629</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

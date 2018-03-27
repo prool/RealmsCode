@@ -1,0 +1,93 @@
+Area: Goblin Caverns (no name yet)
+Races starting here: Goblin
+Location: Upper Bloodmound Hills
+Builder: Draegoth
+Size: 100 rooms
+Note: typing "help goblins" will assist.
+
+GENERAL
+   This area needs to be totally underground, with maybe a
+tower or something, or old ruins above ground at the entrance,
+either of which would be heavily guarded. The "evil dwarves"
+are always up to something fishy, and it could be bad.
+The interior is a conglomerate of different levels of caves
+and caverns. The more powerful the goblin, the better the
+area of the caverns he/she lives in. Even though the caves
+seem somewhat chaotic inside (meaning use a lot of diagonal
+directions and non-directional exits), they are actually quite
+organized. Each area of the cavern will be under the control of
+a single barracks, led by a goblin commander. This commander
+can be either a warrior or a shaman that scares the crap out of
+everyone in his section. All section commanders plot schemes
+in a goblin-like manner to move up more in the King's favor.
+Women and children stay in sectioned off areas (women
+USUALLY dont fight as males do, but when defending their young,
+they are worth 2-3 goblin warriors, so they should be tough).
+Goblins have wargs which help them patrol the caves, and their
+traps usually always involve ambush rather then clever
+mechanical-like devices (as kobolds would have). There will
+be a central underground water source somewhere also. There
+is also a waste cave where all the goblins go to take a dump.
+Of course, it has a problem with carrion crawlers and dung rats,
+which always plagues the goblin section commanders...
+PRIMARY GOD(S)
+   Goblins will worship whomever can kick their ass, but only
+if that figure is evil in nature. For instance, there might
+be a devine clergy built around the head Shaman or the king,
+or the local contingent of the cult of Aramon has them
+scared shitless, etc...
+GOVERNMENT
+   The biggest goblin that can beat everyone else's ass is
+always the king. This doesnt mean he's a warrior all the time,
+either. He usually has several trusted bodyguards (which means
+he has blackmail material on them, or is holding their
+family hostage so they wont try to kill him) around him at
+all times. If the king is a warrior, he will take much
+council from the head goblin shaman, as goblins are very very
+superstitous. The king needs to be difficult to kill.
+TRAINING
+   Assassin- Goblin assassins are coniving sneaky little bastards.
+They tend to be very good at the trade, as not many people take
+them as seriously as they should. Assassinating your superior
+(or framing him) is the way to advance in goblin society. Goblin
+assassins will have a small complex to level in where they can
+reach up to level 10. Only goblins can train there. No other races
+can. There is no guild, only a hang-out place where the nastiest
+goblin assassins go to hang out and train.
+   Berserker- Goblin berserkers are the centerpiece of the goblin
+armies. They tend to be extremely rabid and large for goblins,
+and they always smell of putrid old-smelling watered down wine.
+They tend to puke in battle a lot - on their opponents. Goblin
+berserkers can level up to level 10 in the goblin caverns. After
+that they have to go somewhere else, like Garakk (see below).
+   Fighter- Goblins are primarily fighters more than anything
+else. There is a rather large complex where goblins can train
+up to level 10. After that they have to go to Garakk (see below).
+   Shaman- Goblin shaman are feared throughout Derlith. They
+often command very strange superstitious powers and can place
+curses on people at a whim. The goblin shaman system is very
+rigid and heirarchial. There is no shaman school, but there is
+an area of "servitude" where potential goblin shaman agree to
+be tortured, be part of experiments, test new poison potions,
+fight conjured spirits, etc..in order to prove their worthiness
+to the shaman above them. Goblin shaman can level all the way
+to 30 in the goblin caverns...ONLY goblins are allowed.
+   Thief- Goblin thieves are very good at what they do. As goblin
+society is basically a bunch of coniving thieves, brutes, and
+bandits, this is not suprising. There is a very powerful
+thieves' guild (goblins admitted only) in the goblin caverns.
+Goblin thieves can level up to level 12 in the goblin caverns.
+After that they have to go someplace else to get higher.
+SUGGESTED NEWBIE KILLING MOB IDEAS
+  The possibilities here are endless in the outer caverns.
+cave spiders(1-2), dung rats(1), huge spiders(2-3), rock snakes(2),
+etc....use of the monster manual can help here quite a bit, so
+long as the levels of the mobs are translated into mordor right.
+SPECIAL:
+  Goblins players starting out in the goblin caverns need to
+stay in the goblin caves at least until they are level 5. So,
+instead of a restriction of 2+ level to get out of there area,
+it needs to be 5+ on all exits leading out of the area to the
+rest of Derlith.
+  All banks and post-offices are goblin-only to enter.
+

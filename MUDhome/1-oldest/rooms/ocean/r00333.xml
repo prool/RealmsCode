@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="333" Version="2.40" Area="ocean">
+  <Name>Rum Road North</Name>
+  <ShortDescription>You are on Rum Road North, the main road through the island.</ShortDescription>
+  <LongDescription>On the east side you see a large red house, and from here you can the side
+yard.  There appears to be a small building a little detached from the main
+structure, and you can see steps leading down toward the beach beyond the
+out building.  Sure seems to be a good party going on inside.  The road
+continues north with a few boarded up buildings on either side, and a
+newly painted shop with a sign that says, "Watch for Grand Opening."
+When you look closer at the sign, you realize it says this will be a magic
+repair shop, but the opening date was last month, and no one seems to be here.</LongDescription>
+  
+  <Established>762915954</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">363</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">334</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

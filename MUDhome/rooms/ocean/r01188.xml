@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1188" Version="2.40a" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking on Netherworld Lane, admiring the beautiful city.</ShortDescription>
+  <LongDescription>A new building is on the north side of the street, and as you look closer,
+you see it is a retail store which specializes in coffins.  Several of the 
+more ornate models are standing just outside the door.  Customers are
+encouraged pick one out now, while they can enjoy it.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1187</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1189</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

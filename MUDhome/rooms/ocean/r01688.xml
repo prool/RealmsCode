@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1688" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are traveling on Golden Dolphin Way, running east and west.</ShortDescription>
+  <LongDescription>The Oceancrest Stable and Walking Yards are located on the north side of
+the road and provide long-term services to visitors and guests that come
+to Oceancrest on horseback.  Horses are allowed in town, but they are
+dangerous both to the themselves and the citizens walking along the streets.
+It doesn't take that much to scare a horse.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1687</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1689</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

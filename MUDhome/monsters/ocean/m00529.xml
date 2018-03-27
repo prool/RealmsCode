@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<Creature Num="529" Area="ocean" Version="2.40">
+  <Name>incorporeal ghost</Name>
+  <Level>15</Level>
+  <Type>1</Type>
+  <Experience>850</Experience>
+  <Coins>
+    <Coin Num="2">1500</Coin>
+  </Coins>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>170</Current>
+      <Max>170</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>The faded corpse of a once living, restlessly floats towards you.</Description>
+  <Keys>
+    <Key Num="0">ghost</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>275</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>4</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>horrible death awaits...</Talk>
+  <DefenseSkill>145</DefenseSkill>
+  <AttackPower>170</AttackPower>
+  <WeaponSkill>145</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">85</Carry>
+    <Carry Area="ocean" Num="1">85</Carry>
+    <Carry Area="ocean" Num="2">142</Carry>
+    <Carry Area="ocean" Num="3">142</Carry>
+    <Carry Area="ocean" Num="4">153</Carry>
+    <Carry Area="ocean" Num="5">153</Carry>
+    <Carry Area="ocean" Num="6">575</Carry>
+    <Carry Area="ocean" Num="7">575</Carry>
+    <Carry Area="ocean" Num="8">577</Carry>
+    <Carry Area="ocean" Num="9">576</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects>
+    <Effect>
+      <Name>invisibility</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+    <Effect>
+      <Name>detect-invisible</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+    <Effect>
+      <Name>resist-magic</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+  </Effects>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="6"/>
+    <Bit Num="7"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="22"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

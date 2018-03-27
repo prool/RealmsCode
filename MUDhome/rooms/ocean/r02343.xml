@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2343" Version="2.40a" Area="ocean">
+  <Name>Mountain Trail</Name>
+  <ShortDescription>You are walking around the southern portion of a large mountain.</ShortDescription>
+  <LongDescription>The large Ituk Glacier comes into view as you round the southern end of
+the large mountain you are walking around.  The path you are on continues
+around the mountain.  A small path leads down the mountain onto the
+glacier.  The glacier is notorious for its ferocious predators in search
+of a scrap of food.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2342</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2340</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

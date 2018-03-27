@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3303" Version="2.40" Area="ocean">
+  <Name>Middle of the Garden</Name>
+  <ShortDescription>You stand at the center of this magnificent garden, before a stone statue.</ShortDescription>
+  <LongDescription>A statue framed by a white glow--the mystical white mist that fills
+the garden--stands before you.  At the base of this statue there is
+a brass plate which reads 'Solitude is best'.  The statue appears
+remarkably lifelike and somewhat sad.  There are exits to the north,
+south, east, and west.</LongDescription>
+  
+  <Established>758609463</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7500</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">445</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3297</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3306</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3304</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3302</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

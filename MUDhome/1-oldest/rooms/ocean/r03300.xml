@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3300" Version="2.40" Area="ocean">
+  <Name>A Wall in the Garden</Name>
+  <ShortDescription>You are walking along the east wall of the garden, next to a small brook.</ShortDescription>
+  <LongDescription>The brook which you are walking along does not appear to have started 
+anywhere inside the garden it just sort of comes out of nowhere and 
+travels off into the mist.  It looks as if you could climb over the
+wall here if you had the sufficient climbing equipment.</LongDescription>
+  
+  <Established>758606673</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3298</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3297</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3302</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3295</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

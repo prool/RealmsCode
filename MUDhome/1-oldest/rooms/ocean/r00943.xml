@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="943" Version="2.40a" Area="ocean">
+  <Name>West Hafnia Boulevard</Name>
+  <ShortDescription>You are in the central shopping district of the City of Hafnia.</ShortDescription>
+  <LongDescription>More stuff to buy.  The supply store has all sort of useful items for the
+mountaineer.  To the south is a potions shop.  It doesn't look as fancy
+as the magic shop in Oceancrest, but the elves are not known for their
+eccentricity.  The road continues to the east and west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">944</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">942</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">936</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">909</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="1868" Version="2.40" Area="ocean">
+  <Name>The Barbarian Training Pits</Name>
+  <ShortDescription>You have entered the Barbarian Training Pits, where the barbarians 
+test the skills and powers of their kind in mortal combat.</ShortDescription>
+  <LongDescription>The barbarian tribes do not like to promote their own kind without some
+proof of their worthiness to live up to the barbarian codes of battle,
+those being kill, maim, destroy.  If you wish to advance to the level
+of Tribesman, you should enter the blue hut.  If you are already a 
+Tribesman and wish to advance to second class, you should enter the
+green hut.  If you wish to assume the highest ranking of Tribesman, first
+class, you should enter the red hut.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="blue hut">
+      <Keys/>
+      <Room Area="ocean">1854</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="green hut">
+      <Keys/>
+      <Room Area="ocean">1856</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="red hut">
+      <Keys/>
+      <Room Area="ocean">1858</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1842</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="5317" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>Farther south on this wide road is Prince Ragnar's Castle.</ShortDescription>
+  <LongDescription>To the north there is an Enchanted Forest where many strange peoples and
+animals are said to live.  To the west the Lyanden Road will eventually lead
+to the great city of Oceancrest by the Respitial Sea.  Oceancrest was built
+on the Nylandian Bay, and serves as a major trading port for other parts of
+the world.  They say you can get anything at all in Oceancrest.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5316</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5318</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

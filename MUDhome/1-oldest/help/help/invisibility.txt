@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  invisibility spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 15
+School:  Illusion
+Domain:  Trickery
+
+This spell turns its target invisible. Normal means of sight, including
+infravision, will not be able to detect the target. However, those under the
+influence of detect-invisibility will be able to see the target. Note that any
+offensive actions performed while under this spell will cause it to wear off.
+
+Syntax:
+cast invis <target>

@@ -1,0 +1,15 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |     Help on:  prayer spell     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 30
+
+The prayer spell exalts you in the eyes of your deity, increasing your piety.
+This spell does not last long, but while it is in effect, you will have more
+mana. A damnation spell counteracts the effects of a prayer spell.
+
+A prayer spell will not work in conjunction with clerical pray.
+Only a mage, lich, druid, or cleric may cast this spell.
+
+Syntax:
+cast prayer <target>
+

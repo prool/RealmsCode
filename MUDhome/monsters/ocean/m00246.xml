@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<Creature Num="246" Area="ocean" Version="2.40">
+  <Name>half-giant gladiator</Name>
+  <Level>9</Level>
+  <Type>1</Type>
+  <Experience>325</Experience>
+  <Coins>
+    <Coin Num="2">150</Coin>
+  </Coins>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>240</Current>
+      <Max>240</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>50</Current>
+      <Max>50</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>80</Current>
+      <Max>80</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a rather large gladiator waiting to face off with you.</Description>
+  <Keys>
+    <Key Num="0">giant</Key>
+    <Key Num="1">gladiator</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>250</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>3</Number>
+    <Sides>2</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>I break you in two, you puny girly-man!</Talk>
+  <DefenseSkill>85</DefenseSkill>
+  <AttackPower>240</AttackPower>
+  <WeaponSkill>85</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">25</Carry>
+    <Carry Area="ocean" Num="1">45</Carry>
+    <Carry Area="ocean" Num="2">91</Carry>
+    <Carry Area="ocean" Num="3">227</Carry>
+    <Carry Area="ocean" Num="4">316</Carry>
+    <Carry Area="ocean" Num="5">253</Carry>
+    <Carry Area="ocean" Num="6">223</Carry>
+    <Carry Area="ocean" Num="7">158</Carry>
+    <Carry Area="ocean" Num="8">210</Carry>
+    <Carry Area="ocean" Num="9">223</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

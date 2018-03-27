@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="5552" Version="2.40" Area="ocean">
+  <Name>Glabor Rock</Name>
+  <ShortDescription>You are on top of a rocky outcropping at the east end of Glabor Gulley.</ShortDescription>
+  <LongDescription>The rocks you are standing on are extremely hot, although the weather is
+cool.  Perhaps the heat comes from beneath you.  Large boulders are covered
+with smaller ones, and you see many crevices and openings.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5550</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="369" Version="2.40" Area="ocean">
+  <Name>Jungle Road</Name>
+  <ShortDescription>You are on an east-west road running through the lush jungle on Rum Island.</ShortDescription>
+  <LongDescription>The road heads toward the sound of surf to the west, while to the east you
+can see a group of ramshackle buildings and hear a lot of loud music and
+laughter.  A crudely lettered sign nearby has an arrow pointing west, and
+tells you the island cemetery is that way.  A human skull hangs from the
+top of the sign, and it seems to still have eyes which glare at you.
+A hasty hand has added to the sign, "Stay Away!  Voodoo!!"</LongDescription>
+  
+  <Established>761256051</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">368</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">370</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

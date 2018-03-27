@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5336" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>You are traveling on a well maintained and patroled road.</ShortDescription>
+  <LongDescription>The Lyanden Road follows a definite line between the forest and the desert.
+Normally, one might expect a gradual change between a forested area and
+sun-baked desert with nothing growing on it except sand dunes, but that
+doesn't seem to be the case with the K'tral Desert and the Enchanted Forest.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5335</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5337</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

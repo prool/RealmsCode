@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5426" Version="2.40" Area="ocean">
+  <Name>Phexton Bridge</Name>
+  <ShortDescription>You are midway across the Phexton Bridge spanning Ashton Gorge.</ShortDescription>
+  <LongDescription>The Ashton River tumbles over a ledge high overhead to the east, and falls
+to the bottom of the gorge, providing you with a breathtaking view of the
+great falls.  Looking to the northeast you see the road splits and one part
+leads north around the mountain cliff, while another disappears under the
+the great wall of water.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5425</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5427</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3783" Version="2.40" Area="ocean">
+  <Name>Lithium Beach</Name>
+  <ShortDescription>You are at the entrance to the wildlife preserve of Lelion Beach and Park.</ShortDescription>
+  <LongDescription>A tall fence crosses the walkway to the west, but the gate is open and
+you are invited to explore the wildlife area further west.  You would
+expect this to be a nice quiet place, form the way it looks, but you can
+hear a lot of people shouting and the sound of a steam organ playing
+music.  The sounds seem to be coming from the east and farther south.</LongDescription>
+  
+  <Established>766022572</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3782</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3784</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

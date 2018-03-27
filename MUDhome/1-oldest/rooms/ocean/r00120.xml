@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="120" Version="2.40" Area="ocean">
+  <Name>Goldenrod Avenue/East Ulandia</Name>
+  <ShortDescription>This is the intersection of Goldenrod Avenue and East Ulandia.</ShortDescription>
+  <LongDescription>Goldenrod Avenue is to the east.  Directly west is the banks of the
+Baldywyne, a fast moving river which flows from the mysterious heights
+of Mount Caledonia.  There is a boat rental for those interested in 
+seeing the river first-hand.  A small sword shoppe, with glittering
+blades on display, is next door.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">10</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">121</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">125</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

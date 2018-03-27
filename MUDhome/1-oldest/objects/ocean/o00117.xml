@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="117" Area="ocean" Version="2.40">
+  <Name>bec de corbin</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>8</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">bec</Key>
+    <Key Num="1">corbin</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>A large pole with a metal hook designed specifically to take apart armor.</Description>
+  <UseOutput>You wield a pole that looks like a large can-opener.</UseOutput>
+  <Weight>8</Weight>
+  <Type>5</Type>
+  <SubType>polearm</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

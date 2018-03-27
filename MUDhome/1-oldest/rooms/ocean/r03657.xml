@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3657" Version="2.40" Area="ocean">
+  <Name>Trokkawilff's Tunnel</Name>
+  <ShortDescription>You are in an eerie tunnel named after a long dead master torturer.</ShortDescription>
+  <LongDescription>Legend tells of the master torturer Thokkawilff who would flay his prisoners
+to the point where they were barely alive but conscious, and then roast
+and eat strips of their flesh in front of them.  Thokkawilff preferred to
+live down here, below the great castle, so he could be close to his work.
+Because he once did a secret favor for a powerful dark mage, some say his
+shade still resides in his chambers.  The shimmering darkness is a portal
+which leads to those chambers.</LongDescription>
+  
+  <Established>765060198</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>900</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">531</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3656</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="shimmering door">
+      <Keys/>
+      <Room Area="ocean">3658</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

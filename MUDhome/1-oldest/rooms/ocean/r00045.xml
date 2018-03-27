@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="45" Version="2.40" Area="ocean">
+  <Name>Grady's Second Hand Shop</Name>
+  <ShortDescription>Our motto is, "we buy junk and sell antiques".  Show us what you have.</ShortDescription>
+  <LongDescription>The shop is crowded with everything you can imagine, some of it hanging
+from the ceiling.  There is a weapons display and a corner where you see
+used magical items.  Grady drives a good bargain, but usually not for his
+customers.  Grady is fair, however, and will give you at least what his
+competitors offer.  Ask him the value of what you are offering.</LongDescription>
+  
+  <Established>772013269</Established>
+  <Flags>
+    <Bit Num="49"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">84</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

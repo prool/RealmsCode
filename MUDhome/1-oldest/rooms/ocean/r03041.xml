@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3041" Version="2.40" Area="ocean">
+  <Name>Goblin Underground Passage</Name>
+  <ShortDescription>You are at an underground intersection somewhere in the goblin shrine.</ShortDescription>
+  <LongDescription>The passage is devoid of all light, except for the torches and lanterns
+you carry.  The walls around you are cold and dry to the touch.  Through
+the arch you see flashes of light and hear mortal shrieks of pain. </LongDescription>
+  
+  <Established>761536407</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3040</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="arch">
+      <Keys/>
+      <Room Area="ocean">3043</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2825" Version="2.40a" Area="ocean">
+  <Name>Gold Hallway</Name>
+  <ShortDescription>You are walking through a very ornate hallway covered with gold.</ShortDescription>
+  <LongDescription>The fancy hallway comes to a corner here where it turns to the north and
+to the east.  The gold which makes up the hallway's walls is not in the
+least bit tarnished and the hallway appears to be kept very clean.  The
+only odd part about the hall is the deathly silence.  There is almost no
+activity to be heard in any direction.</LongDescription>
+  
+  
+  
+  <Established>729056947</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2824</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2826</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

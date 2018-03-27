@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="613" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard</Name>
+  <ShortDescription>You are walking along Avatar Boulevard, west of the entrance to the plaza.</ShortDescription>
+  <LongDescription>The large center to the east is known as Neilian Plaza, which houses a 
+number of specialty shops, including the Neilian Boat Rentals shop,
+Fantine's Realm of Relics, Aaron's Armory, Loafy's Bakery and Leia's
+Repair Shop.  Despite the marsh to the west, the center appears to be
+doing fairly well.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">612</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">614</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

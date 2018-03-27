@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3849" Version="2.41a" Area="ocean">
+  <Name>North Highway</Name>
+  <ShortDescription>You are at a blocked part of the North Highway.</ShortDescription>
+  <LongDescription>It looks like great boulders have been rolled across the highway, but
+who could have done so much work?  The boulders are huge.  Over to the 
+east there is an entrance to some sort of park.  The Golgoth Ice Mountain
+can be seen in the distance to the northwest.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3848</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1837</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4070</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

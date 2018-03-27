@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="5058" Version="2.40" Area="ocean">
+  <Name>Black Skies</Name>
+  <ShortDescription>Yo can no longer see your direction indicator.</ShortDescription>
+  <LongDescription>the dragon turns his head and looks at you questioningly, but keeps flying.
+Since you can no longer see the ground, it's hard to get your bearings.
+It hasn't happened very often, but copper dragons have been known to crash
+when they were flying blind.  Perhaps you should turn back, if you know
+where back is.  You do, don't you?</LongDescription>
+  
+  <Established>772228754</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>forward</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">5059</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right">
+      <Keys/>
+      <Room Area="ocean">5051</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="forward">
+      <Keys/>
+      <Room Area="ocean">5032</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3314" Version="2.40" Area="ocean">
+  <Name>Necropolis Path</Name>
+  <ShortDescription>You are on a gravel path between the main gate and a foutain to the south.</ShortDescription>
+  <LongDescription>A light mist has slowly crept up and surrounded you and the path you
+are on.  Trying to lose it seems futile, as it clings to you and follows
+every step you take.  At this point it has become difficult to see any
+further than the edge of the path.  The main gate is to the north, and
+the Necropolis Fountain is south.</LongDescription>
+  
+  <Established>759795986</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3313</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3315</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

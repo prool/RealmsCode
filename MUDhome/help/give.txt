@@ -1,0 +1,15 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |          Help on:  give        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The give command allows you to give money or objects to other players or
+monsters. To give money, use a "$" before the number of gold pieces you want to
+give away.
+
+Example:
+: give hoe to Bob
+You give a hoe to Bob.
+: give $100 bob
+You give 100 gold pieces to Bob.
+:
+

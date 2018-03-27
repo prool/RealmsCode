@@ -1,0 +1,17 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  destruction       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The six elemental realms are considered sub-domains of the domain of
+destruction. The six realms are:
+
+    Air Realm            Cold Realm
+    Earth Realm          Electric Realm
+    Fire Realm           Water Realm
+
+^WSpells:^x
+    toxic-cloud
+
+See also:
+    HELP DOMAINS
+

@@ -1,0 +1,12 @@
+
+
+Help on: *questmode
+
+This command allows a DM to place the game into QuestMode. During
+QuestMode, no pkilling is possible, and other parameters may change
+as needed. It is possible to see if the game is in QuestMode by
+doing the *info command. QuestMode will disable itself if no DMs
+are logged on, or DMs are on, but idle for more than a certain time.
+
+
+

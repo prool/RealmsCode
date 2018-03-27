@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="41" Area="ocean" Version="2.40">
+  <Name>hoe</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>10</ShotsMax>
+  <ShotsCur>10</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>4</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Description>It's an old peasant's hoe, used for breaking earth.</Description>
+  <Weight>2</Weight>
+  <Type>5</Type>
+  <SubType>polearm</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

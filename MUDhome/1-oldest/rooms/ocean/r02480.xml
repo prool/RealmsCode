@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="2480" Version="2.40" Area="ocean">
+  <Name>Ranger Training Location</Name>
+  <ShortDescription>You have entered the training location for level thirteen rangers.</ShortDescription>
+  <LongDescription>As your skills improve, you will be able to track long distances in
+no time at all.  This will be important, if you haven't already figured
+that out.  You may train here to advance to the next level.</LongDescription>
+  <LowLevel>13</LowLevel>
+  <HighLevel>13</HighLevel>
+  
+  <Established>727256609</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="6"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2479</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

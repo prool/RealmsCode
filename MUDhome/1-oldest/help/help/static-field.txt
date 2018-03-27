@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  static-field spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 12
+School:  Abjuration
+Domain:  Protection
+
+Static-field is a spell which will protect you from electricity-damaging
+rooms and lightning-based attacks from monsters. An invisibile, intangible
+shield surrounding the target will absorb some of the damage inflicted upon
+them from the previous sources, but keep in mind: it does NOT protect the
+target from electricity-based spells.
+
+Syntax:
+cast static-field <target>

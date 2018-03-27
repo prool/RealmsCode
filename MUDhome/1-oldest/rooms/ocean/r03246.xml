@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3246" Version="2.40" Area="ocean">
+  <Name>Lake Kista West Shore</Name>
+  <ShortDescription>The water is muddy and dark as you wade close to the western shore.</ShortDescription>
+  <LongDescription>:Large trees, hung with heavy moss, stand in the water making an eerie
+sight as you duck through them on your journey.  The roots come out of
+the water in places, and the moss covers everything.  Water snakes and
+frogs dart away from you as you make your way.</LongDescription>
+  
+  <Established>756088869</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>13</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">425</Mob>
+      <Mob Area="ocean" Num="1">427</Mob>
+      <Mob Area="ocean" Num="2">428</Mob>
+      <Mob Area="ocean" Num="3">419</Mob>
+      <Mob Area="ocean" Num="4">423</Mob>
+      <Mob Area="ocean" Num="5">289</Mob>
+      <Mob Area="ocean" Num="6">289</Mob>
+      <Mob Area="ocean" Num="7">290</Mob>
+      <Mob Area="ocean" Num="8">290</Mob>
+      <Mob Area="ocean" Num="9">291</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3243</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3245</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3247</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

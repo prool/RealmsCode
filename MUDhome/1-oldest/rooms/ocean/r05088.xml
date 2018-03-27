@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="5088" Version="2.40" Area="ocean">
+  <Name>Dumbwaiter Shaft</Name>
+  <ShortDescription>You are at the bottom level of the kitchen's dumbwaiter shaft.</ShortDescription>
+  <LongDescription>This shaft is very small, and the only way you can go up is without any
+of the equipment you normally carry.  There is a green slime covering the
+floor, and it might not be a good idea to touch it.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5087</Room>
+      <Flags>
+        <Bit Num="7"/>
+      </Flags>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5148</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

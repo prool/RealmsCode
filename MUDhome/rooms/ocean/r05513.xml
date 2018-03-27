@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5513" Version="2.40" Area="ocean">
+  <Name>Hafnia Circle</Name>
+  <ShortDescription>You are on the east side of the City of Hafnia.</ShortDescription>
+  <LongDescription>A long and narrow public park runs along side the eastern city wall, ending
+at the library on the north side of the road.  Over on the west side you
+see there is a private school that teaches hand-to-hand combat.  Not a bad
+thing to know in these dangerous times.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5512</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">921</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

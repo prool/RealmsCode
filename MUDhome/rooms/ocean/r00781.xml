@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="781" Version="2.41a" Area="ocean">
+  <Name>Orange Jacinith Hall</Name>
+  <ShortDescription>You are in a sparkling orange hallway composed completely of jacinith
+stones.  The hallway seems to continue on forever in both directions. 
+Close examination in both directions reveals an iron gate on both sides,
+identical to the one you went through originally, but two of them?</ShortDescription>
+  <LongDescription>In an almost symetrical hallway, you see both to the east and west a 
+crystal intersection.  The intersection to the east appears to be a little
+closer than the west one, but it's hard to tell.  Careful examination 
+of the west wall reveals a large crystal that reflects light around a 
+bend to the south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">782</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">780</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

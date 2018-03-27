@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="1286" Version="2.40" Area="ocean">
+  <Name>Bibliotheke Vault</Name>
+  <ShortDescription>The Bibliotheke Vault is surrounded by granite deep inside the mountain.</ShortDescription>
+  <LongDescription>The Vault is used to store the mages most precious scrolls and artifacts.
+Although a number of items have already been looted from the vault,
+a couple may still remain hidden.  </LongDescription>
+  <LowLevel>7</LowLevel>
+  <Trap>1</Trap>
+  <TrapExit Area="ocean">1282</TrapExit>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>259200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">231</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">129</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1285</Room>
+      <Key>14</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="173" Version="2.40" Area="ocean">
+  <Name>Phexton Road</Name>
+  <ShortDescription>Phexton Road South continues to the east and west.</ShortDescription>
+  <LongDescription>The great, brown wall on the south side of the road is much higher here
+than most of the wall.  Strange that the builders would deliberately make
+this section so much different from the rest of the uniform wall.  A series
+of steps will take you to the top, if you desire to go that way.  There
+used to be a village law about citizens climbing up there, but then the
+elders decided there was no harm in it, so feel free to climb if you desire.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="5">6</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">172</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">174</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">166</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

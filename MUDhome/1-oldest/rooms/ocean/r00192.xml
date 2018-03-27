@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="192" Version="2.40" Area="ocean">
+  <Name>Main Ball Room</Name>
+  <ShortDescription>You are in the spacious ball room of a popular bawdy house.</ShortDescription>
+  <LongDescription>A loud and drunken party is taking place, and a piano is being played loudly
+in the corner of the grand room.  A wide stairway leads upstairs, and a
+veranda runs around the entire outside of the house.  Through the south
+french doors you see a view of the bay and a long dock where a pirate
+ship is moored.  Most of the men are crew members from that ship.</LongDescription>
+  
+  <Established>761947728</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>18</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">519</Mob>
+      <Mob Area="ocean" Num="1">519</Mob>
+      <Mob Area="ocean" Num="2">79</Mob>
+      <Mob Area="ocean" Num="3">522</Mob>
+      <Mob Area="ocean" Num="4">522</Mob>
+      <Mob Area="ocean" Num="5">520</Mob>
+      <Mob Area="ocean" Num="6">310</Mob>
+      <Mob Area="ocean" Num="7">308</Mob>
+      <Mob Area="ocean" Num="8">308</Mob>
+      <Mob Area="ocean" Num="9">494</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>stairs</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">364</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stairs">
+      <Keys/>
+      <Room Area="ocean">193</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

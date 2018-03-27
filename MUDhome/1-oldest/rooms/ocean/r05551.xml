@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="5551" Version="2.40" Area="ocean">
+  <Name>Glabor Gulley Southern Path</Name>
+  <ShortDescription>You are close to the eastern end of Glabor Gulley, on the southern side.</ShortDescription>
+  <LongDescription>There is a gathering place below you, and what appears to be a monstrous
+hut at the eastern end of it.  From here you can see guards coming and
+going from the place.  There is a firepit down there too, which is putting
+out a lot of heat and flickering light.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">67</Mob>
+      <Mob Area="ocean" Num="1">67</Mob>
+      <Mob Area="ocean" Num="2">67</Mob>
+      <Mob Area="ocean" Num="3">67</Mob>
+      <Mob Area="ocean" Num="4">67</Mob>
+      <Mob Area="ocean" Num="5">67</Mob>
+      <Mob Area="ocean" Num="6">67</Mob>
+      <Mob Area="ocean" Num="7">67</Mob>
+      <Mob Area="ocean" Num="8">67</Mob>
+      <Mob Area="ocean" Num="9">67</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5550</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5548</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

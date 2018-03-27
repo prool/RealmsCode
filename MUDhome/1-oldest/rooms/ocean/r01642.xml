@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Room Num="1642" Version="2.47e" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive, west of the Melbourne Arena.</ShortDescription>
+  <LongDescription>The Melbourne Arena is a small entertainment facility where common people
+can go and fight the dregs of society.  Most often, thieves and assassins
+are thrown to the masses where they are trampled, stomped, stoned and 
+otherwise mutilated to a pulp until they're dead, and then stompted on
+some more.  It is an interesting challenge for less skilled adventurers,
+but not much of a challenge for more powerful ones.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:55 2009
+</LastPlayerTime>
+  <BeenHere>1</BeenHere>
+  <Wander></Wander>
+  <Track><Direction>south</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1641</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1643</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

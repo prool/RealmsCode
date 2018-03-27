@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<Room Num="1940" Version="2.40" Area="ocean">
+  <Name>Silk Dreams Nightclub</Name>
+  <ShortDescription>You are in the sexy and steamy Silk Dreams Nightclub.</ShortDescription>
+  <LongDescription>Well, just about everyone knows that the Silk Dreams Nightclub isn't
+really a night club at all.  It's more of a brothel, except it has some
+class.  There are a couple of large bouncers standing around waiting to
+throw out anyone who makes any trouble.  The full bar towards the rear
+of the establishment provides drinks for customers.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">79</Mob>
+      <Mob Area="ocean" Num="1">79</Mob>
+      <Mob Area="ocean" Num="2">79</Mob>
+      <Mob Area="ocean" Num="3">80</Mob>
+      <Mob Area="ocean" Num="4">65</Mob>
+      <Mob Area="ocean" Num="5">61</Mob>
+      <Mob Area="ocean" Num="6">62</Mob>
+      <Mob Area="ocean" Num="7">60</Mob>
+      <Mob Area="ocean" Num="8">201</Mob>
+      <Mob Area="ocean" Num="9">209</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">79</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">79</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="bar">
+      <Keys/>
+      <Room Area="ocean">1941</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stage">
+      <Keys/>
+      <Room Area="ocean">1942</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1945</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1058</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1073</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

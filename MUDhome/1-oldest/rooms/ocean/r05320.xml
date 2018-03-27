@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5320" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>The hills to the east are home to many diverse races and odd people.</ShortDescription>
+  <LongDescription>As you travel along this wide highway, you sometimes spot a village on the
+east side of the road, up in the foothills.  Wagon trails seem to be the
+only way of getting there.  Looking southwest you see nothing but rocks 
+and hot sand, although there are people reported to live there, too.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5319</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5321</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

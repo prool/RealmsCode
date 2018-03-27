@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1698" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are on Golden Dolphin Way, south of the Farmer's Personal Residences.</ShortDescription>
+  <LongDescription>Not wanting to be like the rest of the community, the farmers decided 
+that they would build themselves separated houses, instead of those
+community housing facilities.  With the lack of space in the center of
+the city, individual houses could not be build.  If people wanted to
+live in the city, then they would have to live in the community housing
+facilities.  They could always build a house outside the city walls, though.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1699</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1697</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

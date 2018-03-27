@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5407" Version="2.40" Area="ocean">
+  <Name>Ashton River Road</Name>
+  <ShortDescription>The Ashton River flows from Hafnia Mountain through the great canyon
+that separates Tasletek Mountain from Mount Aphinix.</ShortDescription>
+  <LongDescription>The beautiful city of Hafnia, built by the elves after their wars with
+the mountain trolls and the dragons, is at the headwaters of this sparkling
+river.  If you follow this road, it will eventually take you there, but
+the way may be dangerous.  Oceancrest is southwest of here.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2936</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5408</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

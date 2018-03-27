@@ -1,0 +1,26 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  Fighter       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Prime Requisites: Strength, Dexterity
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The fighter is a master of weapons and fighting arts. He travels from place to
+place to do battle in armies as a vassal or as a mercenary. The more powerful
+fighters are masters of the lands around them. Fighters may circle their
+enemies in attacks, confusing them for many seconds before moving in to strike.
+Like barbarians, fighters are also able to bash their opponents senseless with
+force of strength. In addition, they are able to kick their enemies in combat
+as an augmentation to their fighting skills with weapons. Fighters are also
+able to disarm their opponents, depriving their enemies of their weapons in
+order to have a better advantage. At higher levels, the fighter of high
+intelligence is able to cast some spells to help him fight. There are several
+clans throughout Derlith in which a fighter may join - most often those
+opposing thieves and assassins.
+
+See HELP FIGHTERS for some roleplaying notes.
+
+Abilities: Bash, Circle, Disarm, Kick
+

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="2046" Version="2.40" Area="ocean">
+  <Name>Kista Amphitheater Grass Seating</Name>
+  <ShortDescription>You are in the grassy hill high up above the stage of the Amphitheater.</ShortDescription>
+  <LongDescription>The grass seating here was actually unintentional.  This area was not
+developed, so when the Amphitheater became such a success, the regular
+seating was no longer sufficent and people began sitting up on the grass.
+Pretty soon, the grass seating area was permanently made a part of the
+Amphitheater.  On some occasions, even all this space isn't enough.
+The stage area is north of here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2047</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

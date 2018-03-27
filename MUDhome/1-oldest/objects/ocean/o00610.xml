@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="610" Area="ocean" Version="2.40">
+  <Name>dwarven plate mail hood</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>45</ShotsMax>
+  <ShotsCur>45</ShotsCur>
+  <Armor>44</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">plate</Key>
+    <Key Num="1">mail</Key>
+    <Key Num="2">hood</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>You notice a hood made especially by and for dwarves.</Description>
+  <Weight>3</Weight>
+  <Type>6</Type>
+  <SubType>plate</SubType>
+  <WearFlag>7</WearFlag>
+  <InBag/>
+</Object>

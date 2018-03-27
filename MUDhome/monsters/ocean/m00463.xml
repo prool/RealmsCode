@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<Creature Num="463" Area="ocean" Version="2.40">
+  <Name>gold gremlin</Name>
+  <Level>5</Level>
+  <Type>1</Type>
+  <Experience>90</Experience>
+  <Coins>
+    <Coin Num="2">200</Coin>
+  </Coins>
+  <Alignment>-20</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>55</Current>
+      <Max>55</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>5</Current>
+      <Max>5</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>The gremlin flickers from place to place, quick as you can blink.</Description>
+  <Keys>
+    <Key Num="0">gremlin</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>125</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>3</Number>
+    <Sides>1</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>it tastes great!  Twenty four karat.  And the place is full of it.</Talk>
+  <NumWander>4</NumWander>
+  <DefenseSkill>45</DefenseSkill>
+  <AttackPower>120</AttackPower>
+  <WeaponSkill>45</WeaponSkill>
+  <CarriedItems/>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="0"/>
+    <Bit Num="1"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+    <Bit Num="15"/>
+    <Bit Num="17"/>
+    <Bit Num="20"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

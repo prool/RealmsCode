@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="118" Version="2.40" Area="ocean">
+  <Name>Champion's Ready Room</Name>
+  <ShortDescription>You are in the ready room for champions.  </ShortDescription>
+  <LongDescription>This is a healing room reserved for arena champions.  Anyone who comes in
+here is a fighter who has won many battles on the arena floor.  A healing
+mage stands by, ready to cast healing spells on any who needs them.  She
+is impartial in whom she treats, and will treat everyone, but if you want
+a spell cast on you, you must ask her for it.</LongDescription>
+  
+  <Established>772216833</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>arena</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">731</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="arena">
+      <Keys/>
+      <Room Area="ocean">75</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

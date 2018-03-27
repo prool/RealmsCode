@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="4036" Version="2.40" Area="ocean">
+  <Name>Northern Crystalline City</Name>
+  <ShortDescription>You are in a northern block of the crystalline city.</ShortDescription>
+  <LongDescription>To the south you can see a tall tower which sparkles like one huge diamond.
+There is no visible entry to the tower from this direction, however, and it
+looks as though any movement towards the structure would be thwarted by a
+high gate.  To the north you can hear the sound of running water.</LongDescription>
+  
+  <Established>771974173</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4035</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4037</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4043</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

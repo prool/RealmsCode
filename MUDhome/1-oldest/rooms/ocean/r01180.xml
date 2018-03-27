@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1180" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, north of the Necropolis.</ShortDescription>
+  <LongDescription>The Nevermore Funeral Services building is located to the south.  A 
+number of your comrades have ended up there, as they cater specifically
+to the heroes of Oceancrest.  On the north, there is a fresh fruit stand
+where you can buy a variety of freshly, grown fruits and vegetables 
+from the Bushman Farm.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1179</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1181</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

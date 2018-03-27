@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="3" Area="ocean" Version="2.40">
+  <Name>short sword</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>25</ShotsMax>
+  <ShotsCur>25</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>6</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">50</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">sword</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Weight>4</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

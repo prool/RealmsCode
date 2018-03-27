@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3380" Version="2.40" Area="ocean">
+  <Name>Draknal's Forge</Name>
+  <ShortDescription>You are in Draknal's forge room, an intensely hot chamber.</ShortDescription>
+  <LongDescription>Nearby in a huge hearth a blue white fire gives off an incredible amount
+of heat.  Three anvils, each a different size stand in the middle of the
+room.  Several pieces of armor are in various stages of assembly in the
+forge, and a two-handed sword lies on a nearby table.  Looking to the
+east, you see the chamber of Draknal, the Death Knight.</LongDescription>
+  
+  <Established>759882817</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="31"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>360000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">483</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3379</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3548</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

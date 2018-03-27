@@ -1,0 +1,5 @@
+Help on: *questload
+
+Loads the current questfile from disk.
+
+Syntax: *questload

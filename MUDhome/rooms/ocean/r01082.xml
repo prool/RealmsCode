@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1082" Version="2.40" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are on Golden Dolphin Way, running parallel to the City Walls.</ShortDescription>
+  <LongDescription>The large City Wall is a constant reminder of the threat that exists
+outside the protective wall surrounding Oceancrest.  The entrance to
+the city is located to the east at the Main Street Intersection.  
+You can look up the ten meter walls and see the guards walking by 
+approximately once every minute or so.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1051</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1083</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

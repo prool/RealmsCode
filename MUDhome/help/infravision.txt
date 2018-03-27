@@ -1,0 +1,16 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |  Help on:  infravision spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 5/10
+
+This spell allows the person cast upon to see in the dark for a time. Anyone may
+cast this spell upon themselves, and it will cost only 5MP. Mages, liches,
+clerics, druids, and bards are all able to cast it upon others as well. In that
+case it will cost 10MP to cast instead of 5MP.
+
+Note that while some races can naturally see in the dark, there are magically
+dark rooms for which you will need to use this spell.
+
+Syntax:
+cast infravision <player>
+

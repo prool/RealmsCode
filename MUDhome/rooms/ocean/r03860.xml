@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3860" Version="2.40" Area="ocean">
+  <Name>Jungle Trail</Name>
+  <ShortDescription>You are on a overgrown path through the jungle near the Uland village.</ShortDescription>
+  <LongDescription>Not far from here is the village on Uland Island, but this is almost a
+different world.  You are surrounded by thick jungle growth forming a
+tunnel path through the vegetation.  The path generally takes an east
+to west direction, and to the north you can see a few buildings.  In all
+the other directions, there is nothing but jungle.</LongDescription>
+  
+  <Established>768682013</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">368</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3861</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

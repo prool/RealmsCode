@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1808" Version="2.40" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are walking along Golden Dolphin Way, behind the Archery Range.</ShortDescription>
+  <LongDescription>On the north side of the road, you can see the Dentra Central Archery 
+Range, where many archers and civilians alike go to practice their bow
+and arrow skills either for the hunt or just self-defense.  As with most
+archery ranges, elves are always present, trying to prove that they're
+better than anyone else.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">5</Mob>
+      <Mob Area="ocean" Num="1">5</Mob>
+      <Mob Area="ocean" Num="2">5</Mob>
+      <Mob Area="ocean" Num="3">5</Mob>
+      <Mob Area="ocean" Num="4">5</Mob>
+      <Mob Area="ocean" Num="5">5</Mob>
+      <Mob Area="ocean" Num="6">5</Mob>
+      <Mob Area="ocean" Num="7">5</Mob>
+      <Mob Area="ocean" Num="8">5</Mob>
+      <Mob Area="ocean" Num="9">5</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1809</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1807</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

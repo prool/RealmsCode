@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="2252" Version="2.40a" Area="ocean">
+  <Name>Oceancrest Mountaineer's Supply</Name>
+  <ShortDescription>You are in the Oceancrest Mountaineer's Equipment and Supply store.</ShortDescription>
+  <LongDescription>The store provides various supplies to mountain climbers, from the simple
+to the exotic.  If you need a specialized piece of gear, you will probably
+find it here.  A new section of the store is devoted to spelunkers as a
+number of caves have been discovered within the city walls.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1763</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1703</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

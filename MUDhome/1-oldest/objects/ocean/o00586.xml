@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Object Num="586" Area="ocean" Version="2.40">
+  <Name>small metal shield</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Armor>30</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">metal</Key>
+    <Key Num="1">shield</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="10"/>
+    <Bit Num="20"/>
+    <Bit Num="33"/>
+    <Bit Num="34"/>
+    <Bit Num="35"/>
+    <Bit Num="37"/>
+    <Bit Num="38"/>
+  </Flags>
+  <Description>Small and round, much like a shield, yes thats it.</Description>
+  <Weight>6</Weight>
+  <Type>6</Type>
+  <SubType>shield</SubType>
+  <WearFlag>18</WearFlag>
+  <InBag/>
+</Object>

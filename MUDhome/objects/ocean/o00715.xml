@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="715" Area="ocean" Version="2.40">
+  <Name>dinosaur bone</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>6</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">350</Coin>
+  </Value>
+  <Keys>
+    <Key Num="1">bone</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a large dinosaur bone which can be wielded as a weapon.</Description>
+  <Weight>7</Weight>
+  <Type>5</Type>
+  <SubType>dagger</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

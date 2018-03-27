@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1000" Version="2.40a" Area="ocean">
+  <Name>Oceancrest Memorial Fountain</Name>
+  <ShortDescription>You are standing in a fountain with approximately one foot of water in it.</ShortDescription>
+  <LongDescription>The Oceancrest Memorial Fountain was built to commemorate the victory 
+over the orcs of Kandmanni nearly two centuries ago.  It stands as a
+proud memorial to those who live in Oceancrest, and is generally 
+considered to be the center of town, even though it's in the southwest
+corner of Oceancrest.  There is a circular path around the fountain.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1001</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1002</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1003</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1004</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

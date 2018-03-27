@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="161" Version="2.40" Area="ocean">
+  <Name>The Northern Dump</Name>
+  <ShortDescription>This is the disposal pits for the village of Brownhaven.</ShortDescription>
+  <LongDescription>Constant fires burn here twenty four hours a day, every day.  Not only does
+the garbage of the village get burned, but since there is such a limited
+amount of space in the cemetery, many of the poor who die also wind up here,
+thrown on some garbage pile waiting to be torched.  Rats and some larger
+animal you cannot quite identify seem to be running in all directions, 
+looking for food.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="1"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">156</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">166</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

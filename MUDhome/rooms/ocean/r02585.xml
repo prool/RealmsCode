@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2585" Version="2.40" Area="ocean">
+  <Name>Rose Garden</Name>
+  <ShortDescription>You are on a path through the rose garden in the Hanging Gardens.</ShortDescription>
+  <LongDescription>There is a gardner stationed here to prevent anyone from picking the
+beautiful blooms, as these are the roses used by the council in the
+Kista Towers when they wish to discuss something in secret.  One of 
+these roses is suspended over the meeting table, placing the members
+under the rose, or "sub rosa."  The second level is northwest.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2584</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2578</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2586</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

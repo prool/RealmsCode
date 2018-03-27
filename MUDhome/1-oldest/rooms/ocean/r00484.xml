@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="484" Version="2.40" Area="ocean">
+  <Name>Nissiau Lane</Name>
+  <ShortDescription>You are walking along Nissiau Lane, between a number of small shops.</ShortDescription>
+  <LongDescription>Nissiau Lane runs west from Evenborough Way, through a number of small
+shops and stores.  On the north side of the road is Sir Edward's Royal
+Swordsmith, craftsman of the finest swords in the kingdom.  On the south
+side of the road is the Pier Lithium Imports building, where all incoming
+ship supplies must be checked and registered.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">410</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">485</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">273</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

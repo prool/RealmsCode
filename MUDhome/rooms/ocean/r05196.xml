@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="5196" Version="2.40" Area="ocean">
+  <Name>Sky Over Vallenda Pass</Name>
+  <ShortDescription>The pass makes a slight turn below you.  70.n1.e0.s0.w24
+The pass was created eons ago by a stream that cut its way between two </ShortDescription>
+  <LongDescription>great mountains.  To the south is the Nartiz, while to the north you can
+see the Aphinix.   Farther west is the Vallenda Plains, and a badlands.
+The village of Brownhaven lies to the east.</LongDescription>
+  
+  <Established>773819295</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5195</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5197</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

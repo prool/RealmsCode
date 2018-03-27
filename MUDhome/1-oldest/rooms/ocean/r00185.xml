@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="185" Version="2.40" Area="ocean">
+  <Name>Storage Shack</Name>
+  <ShortDescription>This is a small storage shack off of the small alley.</ShortDescription>
+  <LongDescription>It is probably used by the weaponsmith to hold surplus when he's got too
+much stock.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">184</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

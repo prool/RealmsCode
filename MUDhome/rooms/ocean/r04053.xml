@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="4053" Version="2.40a" Area="ocean">
+  <Name>Granovetter's Inn</Name>
+  <ShortDescription>You are in the main downstairs public room of Hans Granovetter's Inn.</ShortDescription>
+  <LongDescription>Rough tables and chairs are around the room with most of them near the fire 
+place.  There is a large kitchen in the back, and the smell of good food
+is in the air.  Hanging on the walls are trophy size heads of animals, but
+most of them are animals you have never seen before.</LongDescription>
+  
+  <Established>789807967</Established>
+  <Flags>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">757</Mob>
+      <Mob Area="ocean" Num="1">761</Mob>
+      <Mob Area="ocean" Num="2">515</Mob>
+      <Mob Area="ocean" Num="3">761</Mob>
+      <Mob Area="ocean" Num="4">515</Mob>
+      <Mob Area="ocean" Num="5">26</Mob>
+      <Mob Area="ocean" Num="6">26</Mob>
+      <Mob Area="ocean" Num="7">757</Mob>
+      <Mob Area="ocean" Num="8">517</Mob>
+      <Mob Area="ocean" Num="9">517</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>kitchen</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4052</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="kitchen">
+      <Keys/>
+      <Room Area="ocean">4054</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

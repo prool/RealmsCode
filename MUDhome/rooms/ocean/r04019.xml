@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="4019" Version="2.40" Area="ocean">
+  <Name>Cathedral of Worldly Bliss</Name>
+  <ShortDescription>You are in a gothic cathedral with stained glass windows.</ShortDescription>
+  <LongDescription>The massive walls of the cathedrals seem to extend to the heavens,
+As you gaze at the structure, you wonder how human hands alone could
+have built something of such splendor and magnificence.  The faint
+echo of a female voice delivering sermon reverberates throughout,
+as if calling out the very essence of your soul.</LongDescription>
+  
+  <Established>771792095</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">438</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4018</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4018</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5460" Version="2.40" Area="ocean">
+  <Name>West Gate of the City of Hafnia</Name>
+  <ShortDescription>You are outside the West Gate of the elve's mountain City of Hafnia.</ShortDescription>
+  <LongDescription>To the west you see a waterfall and the Ashton River which flows eastward
+toward the great city of Oceancrest.   That city is located on the coast of
+the Respitial Sea.  This gate is closed at nightfall, and does not open
+until sunrise.  Hafnia is a bright and beautiful city built be the elves.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5459</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">5510</Room>
+      <Flags>
+        <Bit Num="17"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

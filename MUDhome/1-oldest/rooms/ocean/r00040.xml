@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Room Num="40" Version="2.40" Area="ocean">
+  <Name>West Gate</Name>
+  <ShortDescription>This is the West Gate entrance to the town of Brownhaven.</ShortDescription>
+  <LongDescription>Caledonia Road runs to the east from here, heading into the business
+and cultural center of the village.  Wall Road West parallels the western
+perimeter of the wall which surrounds the village.  A major guard station
+is close to the gate amd the militia maintains a barracks nearby.  On the
+northeast side of the corner is a small, two story inn where travelers
+often rent rooms while they rest from their journey.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">208</Mob>
+      <Mob Area="ocean" Num="1">208</Mob>
+      <Mob Area="ocean" Num="2">198</Mob>
+      <Mob Area="ocean" Num="3">198</Mob>
+      <Mob Area="ocean" Num="4">401</Mob>
+      <Mob Area="ocean" Num="5">401</Mob>
+      <Mob Area="ocean" Num="6">208</Mob>
+      <Mob Area="ocean" Num="7">208</Mob>
+      <Mob Area="ocean" Num="8">198</Mob>
+      <Mob Area="ocean" Num="9">208</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">401</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">19</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">52</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">41</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

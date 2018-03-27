@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2545" Version="2.40" Area="ocean">
+  <Name>Second Floor West Hallway</Name>
+  <ShortDescription>You are on the second floor of Kista Towers in the west hallway.</ShortDescription>
+  <LongDescription>On the west side there is an office with the door slightly ajar.  This is
+not as well lighted an area as the rest of the hallway, but a bright light 
+comes from under the office door.  Odd that you cannot hear anything, 
+though.  Maybe there is nobody in there.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2544</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2543</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

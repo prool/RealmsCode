@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5326" Version="2.40" Area="ocean">
+  <Name>Lyanden Road/Timarask Valley</Name>
+  <ShortDescription>You are on the King's Road, in the middle of Timarask Valley.</ShortDescription>
+  <LongDescription>A fierce wind drives a stinging rain from the east.  This valley is in a
+perpetual rainstorm, and travelers are warned to hurry through this area, as
+giant birds of prey, known as stormhawkes, make their home in the driving
+rain.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5325</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5327</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

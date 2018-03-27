@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5706" Version="2.40" Area="ocean">
+  <Name>East Hildor Lane</Name>
+  <ShortDescription>You are on East Hildor Lane, near the intersection with Phexton Road.</ShortDescription>
+  <LongDescription>Immediately north is the village green, and to the east is a line of homes.
+On the south you see an open-air blacksmith's shop and a forge that is 
+taller than you.  Everything you see is considerably over your head.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5704</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5717</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

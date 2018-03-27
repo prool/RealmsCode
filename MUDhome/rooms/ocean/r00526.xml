@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="526" Version="2.40" Area="ocean">
+  <Name>Marina Way/Lelion Way Intersection</Name>
+  <ShortDescription>You have come to the intersection of Lelion Way and Marina Way.</ShortDescription>
+  <LongDescription>The intersection lies just east of the Lelion Beach and Park, one of the
+only beaches open to the public in Oceancrest.  Most of the beaches are
+not accessible because of the City Walls surrounding the city.  Such is a
+small price to pay for the security the City Walls provide.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">527</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">525</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">524</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

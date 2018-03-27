@@ -1,0 +1,18 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  damnation spell     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 30
+School:  Transmutation
+Domain:  Augmentation
+
+The damnation spell condemns you in the eyes of your deity, decreasing your
+piety. This spell does not last long, but while it is in effect, you will
+have less mana. A prayer spell counteracts the effects of a damnation
+spell.
+
+A damnation spell will cancel out the effects of clerical pray.
+Only a mage, lich, druid, or cleric may cast this spell.
+
+Syntax:
+cast damnation <target>
+

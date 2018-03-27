@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3985" Version="2.40" Area="ocean">
+  <Name>Trantori's Locked Door</Name>
+  <ShortDescription>You are hovering in the air, just outside a locked door beneath the summer
+home of Trantori, the High Invoker.</ShortDescription>
+  <LongDescription>You are inside the biggest redwood tree in the Enchanted Forest.  A hollow
+shaft inside the trunk of the tree seems to serve as a bad-weather entry
+for the High Invoker.  The door seems to be locked with a silver filigree
+lock.  This might be a store room of some sort.</LongDescription>
+  
+  <Established>771321177</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>ledge</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="ledge">
+      <Keys/>
+      <Room Area="ocean">3984</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3986</Room>
+      <Key>81</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

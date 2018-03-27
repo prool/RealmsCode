@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="4051" Version="2.40" Area="ocean">
+  <Name>Phluebluts Pawn Shoppe</Name>
+  <ShortDescription>You are in a sleazy little pawn shop jammed full of junk.</ShortDescription>
+  <LongDescription>Phluebluts himself stands behind the counter, quietly rubbing his hands as 
+he waits for you to speak.  He is almost as wide as he is tall, which
+doesn't really say much, considering how short he is.  Phluebluts is a
+midget gnome, and is both lacivious and mercenary.</LongDescription>
+  
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="49"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">172</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

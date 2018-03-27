@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2108" Version="2.40" Area="ocean">
+  <Name>Mordith's Silver Apple Tree</Name>
+  <ShortDescription>You are under Mordith's silver apple tree, just outside her hut.</ShortDescription>
+  <LongDescription>Mordith, the middle daughter of Mehetable, intends to give the silver apples
+to whomever she marries.  Many have been the suitors, but her mother has
+rejected all of them, waiting for the sons of Trantori to return from the
+mountains to the east where they have sought adventure.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>yard</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="yard">
+      <Keys/>
+      <Room Area="ocean">2116</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hut">
+      <Keys/>
+      <Room Area="ocean">2118</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

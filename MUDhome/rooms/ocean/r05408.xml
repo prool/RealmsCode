@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5408" Version="2.40" Area="ocean">
+  <Name>Ashton River Road</Name>
+  <ShortDescription>The river is on the north side of the road, which is almost washed out.</ShortDescription>
+  <LongDescription>There is a gentle rise to the northeast, but in the distance you see the
+road turns through the foothills, and you can see parts of the road high
+in the mountains beyond that.  There is snow on the mountain.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5407</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5409</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

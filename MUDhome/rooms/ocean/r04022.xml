@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="4022" Version="2.41a" Area="ocean">
+  <Name>Golgoth Mountain Path</Name>
+  <ShortDescription>You are walking along the western face of Golgoth Mountain. </ShortDescription>
+  <LongDescription>The path has become difficult in both directions, slowing your efforts.
+Not far from the lonely path is a strange tangle of long, brown hairs
+hooked onto a nearby tree branch.  The tree has been rubbed smooth at
+least two meters above the ground, and strange prints are under the tree.
+All other signs of animal life have seemingly disappeared from around
+the area, and now only the incessant howling of a forlorn wind remains.</LongDescription>
+  
+  
+  
+  <Established>771874899</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4021</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4023</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

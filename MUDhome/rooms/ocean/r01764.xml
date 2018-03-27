@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<Room Num="1764" Version="2.40a" Area="ocean">
+  <Name>Melbourne Avenue/Kafkan Way</Name>
+  <ShortDescription>You are at the intersection of Kafkan Way and Melbourne Avenue.</ShortDescription>
+  <LongDescription>Melbourne Avenue runs south from Kafkan Way, through most of the large
+stores and shops in downtown southeastern Oceancrest.  Southeastern Ocean-
+crest is known to be mostly a poor section of town, so most of the shops
+cater to the low-income families and workers.  Kafkan Way runs east and
+west from here, east towards the eastern end of town and west towards
+the Necropolis.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>300</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">484</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures>
+    <CrtRef Num="484" Area="ocean" Version="2.40a">
+      <Name>little match girl</Name>
+      <Level>1</Level>
+      <Type>1</Type>
+      <Experience>1</Experience>
+      <Coins/>
+      <Alignment>200</Alignment>
+      <Stats>
+        <Stat Name="Strength">
+          <Current>100</Current>
+          <Max>100</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Dexterity">
+          <Current>100</Current>
+          <Max>100</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Constitution">
+          <Current>100</Current>
+          <Max>100</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Intelligence">
+          <Current>100</Current>
+          <Max>100</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Piety">
+          <Current>150</Current>
+          <Max>150</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Hp">
+          <Current>8</Current>
+          <Max>8</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Mp">
+          <Current>0</Current>
+          <Max>0</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+      </Stats>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="23"/>
+      </Flags>
+      <LastTimes>
+        <LastTime Num="3">
+          <Interval>0</Interval>
+          <LastTime>1206216381</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="4">
+          <Interval>0</Interval>
+          <LastTime>1206216381</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="6">
+          <Interval>0</Interval>
+          <LastTime>1206216381</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="8">
+          <Interval>60</Interval>
+          <LastTime>1206217235</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="41">
+          <Interval>0</Interval>
+          <LastTime>1206216381</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="100">
+          <Interval>50</Interval>
+          <LastTime>1206217207</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="101">
+          <Interval>30</Interval>
+          <LastTime>1206217218</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </LastTimes>
+      <Inventory/>
+    </CrtRef>
+  </Creatures>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1703</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1763</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1765</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

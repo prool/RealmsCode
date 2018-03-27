@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="465" Version="2.40" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are walking along Darmanian Way, north of the Temple of Clerical Science.</ShortDescription>
+  <LongDescription>The Temple of Clerical Science is an interesting churched formed as a 
+merging of clerical mysticism and mathematical certainty, bringing 
+together the clergy and technology.  Unfortunately, no one in the community
+really takes them seriously, so very little has come out of this church.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">415</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">466</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

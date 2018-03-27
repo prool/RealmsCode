@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1627" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are walking along Hillcrest Drive, north of the Circle-Bar Cattle Ranch.</ShortDescription>
+  <LongDescription>The large cattle ranch survives relatively well, considering the fact
+that it lies only a few yards away from the Allisk Manor.  Not being one
+for superstition, the cattle ranchers usually ignore the idle threats
+and curses the other ranchers sling at them for being so relaxed in
+their defenses.  Nonetheless, they alway have a few cloves of garlic
+on hand just in case.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1628</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1626</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1204" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are walking along Rosecrest Street, west of the Ivanhouse Arena.</ShortDescription>
+  <LongDescription>The Ivanhouse Sporting Facility is located to the east of Rosecrest 
+Street.  The large facility sports three distinct arenas, where you can
+challenge your skills versus various opponents of varying strength.
+The entrance to the facility is located off of Netherworld Lane, to
+the south, through the Challenger's Ready Room.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1176</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1205</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<Room Num="2020" Version="2.40" Area="ocean">
+  <Name>Tiamat Lane/Pearl Avenue Intersection</Name>
+  <ShortDescription>This is the intersection of Tiamat Lane and Pearl Avenue.</ShortDescription>
+  <LongDescription>You are at the northwestern corner of the Kista Towers.  Four large Towers
+rise high above the rest of the city, making the city visible for many
+kilometers in any direction.  The Towers are actually a great fortress
+surrounded by a moat which is filled with terrible monsters.  The entrance  
+to the Towers is located on Tower Lane.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">211</Mob>
+      <Mob Area="ocean" Num="1">221</Mob>
+      <Mob Area="ocean" Num="2">198</Mob>
+      <Mob Area="ocean" Num="3">214</Mob>
+      <Mob Area="ocean" Num="4">214</Mob>
+      <Mob Area="ocean" Num="5">202</Mob>
+      <Mob Area="ocean" Num="6">202</Mob>
+      <Mob Area="ocean" Num="7">204</Mob>
+      <Mob Area="ocean" Num="8">222</Mob>
+      <Mob Area="ocean" Num="9">207</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2019</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2010</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2509</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2508</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="moat">
+      <Keys/>
+      <Room Area="ocean">2054</Room>
+      <Flags>
+        <Bit Num="9"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

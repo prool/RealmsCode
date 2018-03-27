@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<Room Num="1137" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are on Overland Drive, south of the Oceancrest Crime Patrol Headquarters.</ShortDescription>
+  <LongDescription>The City Guard Crime Patrol Headquarters provides security for the entire
+city.  The Crime Patrol Division is charged with the keeping of domestic
+tranquility, although they can be called upon to defend the city should
+the need arise.  The entrance to the headquarters is located to the east.
+Ocanview Drive is located to the west.  On the south is the entrance to
+the Dragon Tooth Inn.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">267</Mob>
+      <Mob Area="ocean" Num="1">267</Mob>
+      <Mob Area="ocean" Num="2">267</Mob>
+      <Mob Area="ocean" Num="3">267</Mob>
+      <Mob Area="ocean" Num="4">267</Mob>
+      <Mob Area="ocean" Num="5">267</Mob>
+      <Mob Area="ocean" Num="6">267</Mob>
+      <Mob Area="ocean" Num="7">267</Mob>
+      <Mob Area="ocean" Num="8">267</Mob>
+      <Mob Area="ocean" Num="9">267</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>300</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">558</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">619</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1136</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1037</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3722</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1754" Version="2.40" Area="ocean">
+  <Name>Kafkan Way</Name>
+  <ShortDescription>You are walking along Kafkan Way, south of the Highland Stables.</ShortDescription>
+  <LongDescription>The Highland Stables are located on the north side of the road, the 
+entrance to which is located on the east side, off of Highland Avenue.
+On the south side of the road, you can see the large City Walls, standing
+proud to protect the city from all forms of invasion.  Oceancrest has
+remained free for centuries and plans to stay that way.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1753</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1755</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

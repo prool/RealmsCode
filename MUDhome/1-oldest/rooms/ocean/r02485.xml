@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2485" Version="2.40" Area="ocean">
+  <Name>Grassy Hill</Name>
+  <ShortDescription>You have found a tranquil, grassy hill in the middle of the park.</ShortDescription>
+  <LongDescription>The hill is delightfully quiet, and quite a relaxing break from the
+hectic bustle of the city.  The grassy hill will give you some time
+to relax while you build up your strength to fight whatever happens
+to come after you next.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727258143</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>86400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">180</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1935</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2147" Version="2.40" Area="ocean">
+  <Name>Edge of the Pond</Name>
+  <ShortDescription>You are standing at the edge of a pond in the enchanted forest.</ShortDescription>
+  <LongDescription>The pond covers a large area to the east, where you see a thick forest of
+trees on the other side.  On the north side of the pond you see a large
+cottage and waterwheel.  Smoke rises from the cottage's chimney.  Directly
+north is a jumble of rocks and boulders and a rockface.  the path continues
+to the north through the rocks, and south through a swampy looking area.</LongDescription>
+  
+  <Established>759012241</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2148</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2146</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

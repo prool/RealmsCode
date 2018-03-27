@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5504" Version="2.40" Area="ocean">
+  <Name>Hafnia Circle</Name>
+  <ShortDescription>You are traveling on the northeastern arc of the road around Hafnia.</ShortDescription>
+  <LongDescription>There is a lot of yelling and other crowd noises over to the northwest.
+Just west is an inn, and a sign outside says you can watch the fights at
+the training grounds from any of the upstairs rooms that are for rent.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5503</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">931</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,94 @@
+/* Room flags */ 
+RSHOPP          1       /* Shoppe */ 
+RDUMPR          2       /* Dump */ 
+/* RPAWNS       3       unused */
+RTRAIN          4       /* Training class bits (4-7) */ 
+-------------------------> See *dmhelp train for training flags
+*/ RREPAI       8       unused */ 
+RDARKR          9       /* Room is dark always */ 
+RDARKN          10      /* Room is dark at night */ 
+RPOSTO          11      /* Post office */ 
+RNOKIL          12      /* Safe room, no playerkilling */ 
+RNOTEL          13      /* Cannot teleport to this room */ 
+RHEALR          14      /* Heal faster in this room */ 
+RONEPL          15      /* 1-player only inside */ 
+RTWOPL          16      /* 2-players only inside */ 
+RTHREE          17      /* 3-players only inside */ 
+RNOMAG          18      /* No magic allowed in room */ 
+RPTRAK          19      /* Permanent tracks in room */ 
+REARTH          20      /* Earth realm */ 
+RWINDR          21      /* Wind realm */ 
+RFIRER          22      /* Fire realm */ 
+RWATER          23      /* Water realm */ 
+RPLWAN          24      /* Player-dependent monster wanders */ 
+RPHARM          25      /* player harming room */ 
+RPPOIS          26      /* player poison room */ 
+RPMPDR          27      /* player mp drain room */ 
+RPBEFU          28      /* player befuddle room */ 
+RNOLEA          29      /* player can not be summon out */ 
+RPLDGK          30      /* player can pledge in room */ 
+RRSCND          31      /* player can rescind in room */ 
+RNOPOT          32      /* No potion room */ 
+RPMEXT          33      /* Player magic spell extend */ 
+RNOLOG          34      /* No player login */ 
+		35      /* unused */
+RNDOOR	        36	/* Indoors */ 
+RJAILR	        37	/* Room is a Jail */
+RNOTLI	        38	/* You can not cast teleport in this room */
+RLOTTE          39      /* Can buy lottery ticket. Must set shoppe flag */
+RDESER          40      /* Desert damage flag */
+RSTRGB          41      /* Can buy storage rooms here DONT SET */
+RSTRGR          42      /* Room is a storage room  DONT SET */
+RNSCRY          43      /* Cannot clair anyone in this room */
+RNFLEE          44      /* Cannot flee from this room */
+RVINES          45      /* Player harm - vines */
+RSLIFT          46      /* Shoplift is possible */
+RFORST          47      /* Room is in forest/jungle */
+RETHER          48      /* Room is in ethereal plane */
+R_OPP_REALM	49      /* OppRealm++ */
+RREPAI          50      /* Pawn shoppe */
+RICEYW          51      /* Player harm - icey water */
+RNTRCK          52      /* Cannot track to this room */
+RDESTR          53      /* Environment destroys dropped items */
+RNSUMM          54      /* Cannot be summoned to this room */
+RNTOUT          55      /* Cannot track out of this room */
+RPRELM          56      /* Magic+ for specific realm */
+RNKOUT          57      /* Outlaws cannot be killed here */
+RIBANK          58      /* Room is a bank */
+RHSMMM		59	/* Room has magic money machine - withdraw & balance
+      			   only: used mainly for jails to jail out */
+RGAMBL	        60	/* Room is a casino, lets you gamble - Not done */
+R_GUILD_OPEN    61      /* Guild: Open Access */
+RNRECA          62      /* Word of recall does not work in this room */
+RLOGTR          63      /* Players will log into room's trap exit */
+RDMOVE          64      /* Hard to move from room */
+RELECR          65      /* Electromagnetic room */
+RCOLDR          66      /* Cold realm room */
+RDFLEE          67      /* Hard to flee from room */
+RNMIST          68      /* Mist cannot enter here */
+RDMIST          69      /* Room disperses mist */
+RBOUNT          70      /* Player can declare a bounty here */
+RBUILD          71      /* Player can build a shop here */
+RMDARK          72      /* Room cloaked in magical darkness */
+R_UNDERWATER    73      /* Room is underwater */
+R_NO_DODGE      74      /* Cannot dodge/riposte in this room */
+R_ARAMON        75	/* Aramon only */
+R_CERIS		76      /* Ceris only */
+R_ENOCH		77      /* Enoch only */
+R_GRADIUS       78      /* Gradius only */
+R_ARES          79      /* Ares only */
+R_KAMIRA        80      /* Kamira only */
+R_JAKAR         81      /* Jakar only */
+R_LINOTHAN      82      /* Linothan only */
+R_MARA          83      /* Mara only */
+R_ARACHNUS      84      /* Arachnus only */
+R_UNDERGROUND   85      /* Underground Room */
+R_CAN_GUILDHALL	86	/* Can Build Guildhall */
+R_WAS_GUILDHALL	87	/* Was Build Guildhall */	
+R_ARCHERS       88      /* Room Harm: Elven Archers */
+R_DEADLY_MOSS   89      /* Room Harm: Underdark Moss */
+R_WAS_SHOP      90      /* Used to be able to sell a shop here */
+R_CONSTRUCTION  91      /* Room is under construction */
+R_TYPO          92      /* Room contains a typo */
+
+

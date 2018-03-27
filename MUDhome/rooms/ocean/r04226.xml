@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="4226" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>This is the northeast corner of Prince Rutger's Tower Castle.</ShortDescription>
+  <LongDescription>This castle was built in the form of a great tower, and is made up of many
+circular levels.  This ground level is the largest of the several levels.
+the door you see leads to the castle library.   Farther to the southeast
+there is a side corridor leading towards the center courtyard.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4225</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4227</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4265</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

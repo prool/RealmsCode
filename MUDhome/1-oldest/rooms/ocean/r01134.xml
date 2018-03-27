@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1134" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, just north of the Millwood Office Building.</ShortDescription>
+  <LongDescription>Rosecrest Street takes a turn towards the southwest as it reaches the
+City Wall.  Beyond the high City Wall to the west lies the Respitial Sea,
+which has claimed many ships and sailor's lives throughout the years.  The 
+Wall not only protects the city from invaders, but also from the Sea God 
+when he gets angry and sends twenty meter waves crashing on the shore. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1060</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1133</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

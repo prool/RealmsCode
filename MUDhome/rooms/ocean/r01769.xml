@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1769" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, taking in the country air.</ShortDescription>
+  <LongDescription>The eastern section of town is fairly clean, with a lot of parks and other
+non-tampered recreational facilities.  The fresh air is, of course, quite
+refreshing, and a nice change from the industrialized sections of town
+where the smell of alcohol is always in the air.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1768</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1770</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

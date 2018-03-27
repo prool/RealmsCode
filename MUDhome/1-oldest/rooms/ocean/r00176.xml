@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="176" Version="2.40" Area="ocean">
+  <Name>Vickers House Library</Name>
+  <ShortDescription>You are in the dusty library of the Vickers household.</ShortDescription>
+  <LongDescription>Bookshelves extend from floor to ceiling on three walls of the room.  The
+windows on the fourth wall are so covered with dust that you cannot see out.
+A large wooden desk, covered with a sheet, and a leather couch are the only
+furniture.  It looks as though someone has been searching here.  You see
+books scattered on the floor.</LongDescription>
+  
+  <Established>785613642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>front room</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="front room">
+      <Keys/>
+      <Room Area="ocean">175</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="mirror">
+      <Keys/>
+      <Room Area="ocean">31</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

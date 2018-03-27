@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<Creature Num="148" Area="ocean" Version="2.40">
+  <Name>phantom dragon</Name>
+  <Level>15</Level>
+  <Type>1</Type>
+  <Experience>800</Experience>
+  <Coins>
+    <Coin Num="2">250</Coin>
+  </Coins>
+  <Alignment>-50</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>140</Current>
+      <Max>140</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a transparent dragon-like creature coming in your direction</Description>
+  <Keys>
+    <Key Num="0">dragon</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>275</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>5</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>Be gone intruders of the sacred burial grounds of the dragons!</Talk>
+  <DefenseSkill>145</DefenseSkill>
+  <AttackPower>200</AttackPower>
+  <WeaponSkill>145</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">194</Carry>
+    <Carry Area="ocean" Num="1">194</Carry>
+    <Carry Area="ocean" Num="2">194</Carry>
+    <Carry Area="ocean" Num="3">194</Carry>
+    <Carry Area="ocean" Num="4">194</Carry>
+    <Carry Area="ocean" Num="5">194</Carry>
+    <Carry Area="ocean" Num="6">194</Carry>
+    <Carry Area="ocean" Num="7">194</Carry>
+    <Carry Area="ocean" Num="8">194</Carry>
+    <Carry Area="ocean" Num="9">194</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks>
+    <SpecialAttack>
+      <Name>Fire Breath</Name>
+      <Verb>breathes fire on</Verb>
+      <TargetStr>^r*ATTACKER* breathes fire on you!*CR*You take ^R*DAMAGE*^r damage!^x</TargetStr>
+      <TargetFailStr></TargetFailStr>
+      <RoomFailStr></RoomFailStr>
+      <SelfStr></SelfStr>
+      <RoomStr>^r*ATTACKER* breathes fire on *LOW-TARGET*!^x</RoomStr>
+      <TargetSaveStr>^cYou almost manage to dive out of the way.^x</TargetSaveStr>
+      <SelfSaveStr></SelfSaveStr>
+      <RoomSaveStr>*TARGET* almost dives out of the way.</RoomSaveStr>
+      <Limit>0</Limit>
+      <Delay>60</Delay>
+      <Chance>20</Chance>
+      <StunLength>0</StunLength>
+      <Type>3</Type>
+      <SaveType>4</SaveType>
+      <SaveBonus>0</SaveBonus>
+      <MaxBonus>0</MaxBonus>
+      <Flags>
+        <Bit Num="1"/>
+      </Flags>
+      <Dice>
+        <Number>15</Number>
+        <Sides>4</Sides>
+        <Plus>0</Plus>
+      </Dice>
+    </SpecialAttack>
+  </SpecialAttacks>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="11"/>
+    <Bit Num="14"/>
+    <Bit Num="16"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="17"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

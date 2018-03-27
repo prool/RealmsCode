@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2557" Version="2.40" Area="ocean">
+  <Name>Garden Circle Road</Name>
+  <ShortDescription>You are on Garden Circle Road, south of the connection with Ivory Way.</ShortDescription>
+  <LongDescription>The road is quiet, tree-lined and very pleasant.  The Hanging Gardens are
+immediately west and a delectable odor of ripening fruit comes from that
+way.  Just about any kind of tree you can imagine has been planted in the
+living monument.  On the east side you see a small shrine.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2042</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2558</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

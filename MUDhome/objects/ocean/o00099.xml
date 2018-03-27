@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="99" Area="ocean" Version="2.40">
+  <Name>magical flame bow</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>220</ShotsMax>
+  <ShotsCur>220</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>8</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">30000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">flame</Key>
+    <Key Num="1">bow</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Description>The bow glows a brilliant golden color.</Description>
+  <UseOutput>The bow glows even brighter as you wield it.</UseOutput>
+  <Weight>7</Weight>
+  <Type>5</Type>
+  <SubType>bow</SubType>
+  <WearFlag>20</WearFlag>
+  <MagicPower>1</MagicPower>
+  <InBag/>
+</Object>

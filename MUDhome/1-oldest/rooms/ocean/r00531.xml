@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="531" Version="2.40" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are on Lelion Way, running north past the Fairy Dust Inn.</ShortDescription>
+  <LongDescription>The Fairy Dust Inn is a nice establishment for people coming in from the
+ocean entrance to Oceancrest.  Most of the inns in town are located near
+the major entrances to the city, as this is the most likely place to get
+business.  You can see the Lithium Inlet to the north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">532</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">530</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

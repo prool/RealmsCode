@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="144" Version="2.40" Area="ocean">
+  <Name>Taragon Road</Name>
+  <ShortDescription>You are on Taragon Road, opposite a dark pub called the Deft Hand.</ShortDescription>
+  <LongDescription>On the east side is a vine-covered wall which surrounds the village, and
+on the west side is a dim little pub known as the Deft Hand.  It's not
+a real popular place because more people go in there than come out.  The
+village militia seem to have a hands-off policy concerning the Deft Hand,
+as they never go in, except to collect a handful of gold and then leave.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">3</Mob>
+      <Mob Area="ocean" Num="3">2</Mob>
+      <Mob Area="ocean" Num="4">5</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">139</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">149</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

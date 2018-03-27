@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1862" Version="2.40" Area="ocean">
+  <Name>Gustave and Hanabal's Fine Swords</Name>
+  <ShortDescription>You are standing at the counter of Gustave's Fine Sword Shoppe.</ShortDescription>
+  <LongDescription>Gustave is a rotund little dwarf who owns this shoppe and sells swords
+by day, but visits the ladies by night.  He has been known to stagger
+down the streets at dawn, singing at the top of his voice, with several
+dwarven ladies on his massive arms.  But he does make very fine swords.
+A list is available for prospective customers.</LongDescription>
+  
+  <Established>758700576</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1794</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2281</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

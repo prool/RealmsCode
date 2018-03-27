@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<Creature Num="188" Area="ocean" Version="2.40">
+  <Name>tree sprite</Name>
+  <Level>5</Level>
+  <Type>1</Type>
+  <Experience>75</Experience>
+  <Coins>
+    <Coin Num="2">10</Coin>
+  </Coins>
+  <Alignment>70</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>170</Current>
+      <Max>170</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>80</Current>
+      <Max>80</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>55</Current>
+      <Max>55</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a beautiful tree sprite jumping through the trees of the forest.</Description>
+  <Keys>
+    <Key Num="0">sprite</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>275</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>2</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>The Enchanted Forest holds many wonders, but none you can see.</Talk>
+  <DefenseSkill>45</DefenseSkill>
+  <AttackPower>150</AttackPower>
+  <WeaponSkill>45</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">195</Carry>
+    <Carry Area="ocean" Num="1">225</Carry>
+    <Carry Area="ocean" Num="2">225</Carry>
+    <Carry Area="ocean" Num="3">191</Carry>
+    <Carry Area="ocean" Num="4">192</Carry>
+    <Carry Area="ocean" Num="5">190</Carry>
+    <Carry Area="ocean" Num="6">205</Carry>
+    <Carry Area="ocean" Num="7">225</Carry>
+    <Carry Area="ocean" Num="8">160</Carry>
+    <Carry Area="ocean" Num="9">225</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

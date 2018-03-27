@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1367" Version="2.40a" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>The vast Military Headquarters overshadows you as you walk along Hofton.</ShortDescription>
+  <LongDescription>You have reached the western edge of the great Military Headquarters on the
+north side of the road.  The building must extend nearly two city blocks
+as you can't see the eastern end of the building no matter how hard you
+look.  The Headquarters is the central controlling body for the Oceancrest
+defenses.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1366</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1368</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

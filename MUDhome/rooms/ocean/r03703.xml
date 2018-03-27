@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3703" Version="2.40" Area="ocean">
+  <Name>Crow's Nest Entry</Name>
+  <ShortDescription>You are just under the crow's nest, looking at the trapdoor entry.</ShortDescription>
+  <LongDescription>Below you is a dizzying distance to the ship's deck, and from here it
+looks so small that if you fell, you might not even hit it, but would
+probably take a dive into the surrounding waters.  There is a tangle of
+lines and sails just below your feet.  The small sway that you hardly
+noticed when you were below is greatly magnified from this height.  It
+seems to be making you sick.  Wouldn't it be terrible to erp on your
+friends below?</LongDescription>
+  
+  <Established>762911604</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>trap</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3702</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="trap">
+      <Keys/>
+      <Room Area="ocean">3704</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="807" Version="2.40" Area="ocean">
+  <Name>Crystal Alcove Entrance</Name>
+  <ShortDescription>You are in a majestic crystal alcove of immense proportions.  You cannot
+see the beginning or end of it.  It looks like a giant maze, but you 
+cannot make out which direction is which.</ShortDescription>
+  <LongDescription>As you peer into the large alcove, you notice that there is no order or
+logic to the design.  You can see an infinite number of exits to the
+alcove, but you're not sure if those exits are real or just illusions.
+The alcove begins to the north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">800</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">808</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">35</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

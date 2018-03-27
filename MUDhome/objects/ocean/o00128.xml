@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="128" Area="ocean" Version="2.40">
+  <Name>two-handed battle axe</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>214</ShotsMax>
+  <ShotsCur>214</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>12</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">25000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">battle</Key>
+    <Key Num="1">axe</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a large, powerful battle axe.   You need two hands just to lift it.</Description>
+  <Weight>12</Weight>
+  <Type>5</Type>
+  <SubType>axe</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

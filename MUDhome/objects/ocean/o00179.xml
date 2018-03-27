@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="179" Area="ocean" Version="2.40">
+  <Name>cleaver</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>8</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a butcher's cleaver.</Description>
+  <Weight>2</Weight>
+  <Type>5</Type>
+  <SubType>axe</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

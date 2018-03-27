@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="1982" Version="2.40" Area="ocean">
+  <Name>Evander's Poles and Polearms</Name>
+  <ShortDescription>You are in the Polearms Shop in Evander's World of Weapons center.</ShortDescription>
+  <LongDescription>You can see a number of large pole weapons on display here, including 
+some strange ones you might not have seen before.  Most pole weapons
+consist of a long, wooden pole, topped with a large metal blade.  
+Variaties of the blades make some weapons better than others for 
+certain types of battles.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1980</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

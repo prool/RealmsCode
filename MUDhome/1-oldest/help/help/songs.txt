@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  songs          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+There are currently seberal songs which bards can sing. You receive the song of
+healing at character creation. Talk to Aaron Silvertongue to receive information
+about the other songs. To sing a song, merely type: sing <song>
+
+The songs that are in the game are:
+   healing	destruction
+   holiness	mass-destruction
+   magic	restoration
+   flight	protection
+
+To learn a new song, you will need to quest for a scroll. When you find the
+scroll, study it and you will learn the new song.

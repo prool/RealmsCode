@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="1929" Version="2.40" Area="ocean">
+  <Name>The Blue Training Room</Name>
+  <ShortDescription>You have entered the Blue Training Room.  To advance to the Warrior level,
+you must defeat the blue warrior in one-on-one, hand-to-hand combat.</ShortDescription>
+  <LongDescription>The fighter must be strong and wise in battle.  You are to match strengths
+with this warrior in order to advance to the status of Warrior yourself.
+The Blue Warrior awaits your first move.</LongDescription>
+  <LowLevel>3</LowLevel>
+  <HighLevel>3</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training room</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">763</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">106</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">1930</Room>
+      <Key>6</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1928</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

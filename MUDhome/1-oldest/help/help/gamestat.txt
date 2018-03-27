@@ -1,0 +1,9 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  gamestat         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+This command allows a player to see the current status of the game. Server time,
+and in-world time are both shown. The uptime of the MUD is also indicated, along
+with how many players are currently online.
+
+Any special modes the MUD is in are also indicated.

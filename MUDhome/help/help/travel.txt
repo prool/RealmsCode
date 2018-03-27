@@ -1,0 +1,9 @@
+^WSpells:^x
+    bind
+    ethereal-travel
+    summon
+    word-of-recall
+
+See also:
+    HELP DOMAINS
+

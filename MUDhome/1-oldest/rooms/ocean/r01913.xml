@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="1913" Version="2.40" Area="ocean">
+  <Name>Pits of Doom - Black Level</Name>
+  <ShortDescription>So you've managed to find the hidden Black Level in the Pits of Doom.</ShortDescription>
+  <LongDescription>The question is whether or not you can survive long enough not only
+to get out of this level, but to survive the other three levels on your
+way out.  Then again, this place doesn't look all that bad.  It's
+very dark, and silent.  You wouldn't think anything could live this
+far down.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="24"/>
+  </Flags>
+  <Wander>
+    <Traffic>80</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">93</Mob>
+      <Mob Area="ocean" Num="1">56</Mob>
+      <Mob Area="ocean" Num="2">93</Mob>
+      <Mob Area="ocean" Num="3">56</Mob>
+      <Mob Area="ocean" Num="4">93</Mob>
+      <Mob Area="ocean" Num="5">56</Mob>
+      <Mob Area="ocean" Num="6">93</Mob>
+      <Mob Area="ocean" Num="7">56</Mob>
+      <Mob Area="ocean" Num="8">93</Mob>
+      <Mob Area="ocean" Num="9">56</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>secret passage</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>84000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">105</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1912</Room>
+      <Flags>
+        <Bit Num="8"/>
+      </Flags>
+    </Exit>
+    <Exit Name="secret passage">
+      <Keys/>
+      <Room Area="ocean">2900</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

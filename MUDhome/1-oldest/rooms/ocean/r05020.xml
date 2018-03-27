@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="5020" Version="2.40" Area="ocean">
+  <Name>Dark Rain Clouds</Name>
+  <ShortDescription>You are flying in clouds so dark and wet that you are lost.</ShortDescription>
+  <LongDescription>It's impossible to see the direction indicator, so you cannot tell which
+way to steer the great dragon you are riding.  It feels like the dragon is
+swooping, and at times is gaining a lot of elevation, and other times is
+losing it.  Ever wonder how high a dragon can fly?</LongDescription>
+  
+  <Established>772227916</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>right</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">5058</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right">
+      <Keys/>
+      <Room Area="ocean">5015</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="forward">
+      <Keys/>
+      <Room Area="ocean">5014</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

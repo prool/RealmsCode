@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1011" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>Main Street continues to the north and south.  Nylandian Bay is to the north.</ShortDescription>
+  <LongDescription>This is a popular shopping district for the citizens of Oceancrest.
+Small shops and cafes line the street on both sides, providing a
+variety of goods and services.  The Oceancrest Opera House is on
+the east side of the street, and immediately to the west is a wedding
+shop.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1010</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1012</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">271</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

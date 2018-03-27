@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="520" Version="2.40" Area="ocean">
+  <Name>Marina Circle</Name>
+  <ShortDescription>You are walking along the western rim of Marina Circle, east of the Bay.</ShortDescription>
+  <LongDescription>Nylandian Bridge heads out to the west, across the Nylandian Bay and onto
+Catlania Island, a rather large island in the middle of the Bay.  The 
+island houses the Oceancrest Marine Headquarters.  It is not uncommon
+for attacks against the City to come from the sea, thus the Marine 
+Headquarters is permanently stationed on the island for an early warning
+alert of invasion.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>6000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">441</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">518</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">521</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

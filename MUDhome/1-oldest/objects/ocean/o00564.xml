@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="564" Area="ocean" Version="2.40">
+  <Name>blood urn</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>15</ShotsMax>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">20000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">urn</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="6"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The golden urn is embedded with precious gems and inlaid with platinum.</Description>
+  <Weight>100</Weight>
+  <Type>10</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

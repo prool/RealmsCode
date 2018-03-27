@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="195" Area="ocean" Version="2.40">
+  <Name>eye of newt</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">750</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">newt</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+  </Flags>
+  <Description>You see a powdery substance supposedly consisting of the eyes of newts.</Description>
+  <Weight>1</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>4</MagicPower>
+  <InBag/>
+</Object>

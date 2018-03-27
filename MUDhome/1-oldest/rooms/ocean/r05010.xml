@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="5010" Version="2.40" Area="ocean">
+  <Name>Skies Over Brownhaven</Name>
+  <ShortDescription>You are flying over small farms near Brownhaven.  50.n1.e0.s0.w0</ShortDescription>
+  <LongDescription>You can see farmers working in their fields, and children playing in farm
+yards.  the fields look like there will be a bountiful crop this year.</LongDescription>
+  
+  <Established>772142013</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5015</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5006</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5012</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5011</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

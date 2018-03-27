@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<Creature Num="736" Area="ocean" Version="2.40">
+  <Name>blue-coated guard</Name>
+  <Level>5</Level>
+  <Type>1</Type>
+  <Experience>100</Experience>
+  <Coins>
+    <Coin Num="2">50</Coin>
+  </Coins>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>140</Current>
+      <Max>140</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>140</Current>
+      <Max>140</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>60</Current>
+      <Max>60</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see one of the tower guards form the Blue Regiment.</Description>
+  <Keys>
+    <Key Num="0">coated</Key>
+    <Key Num="1">guard</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>150</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>3</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>Visitors are very restricted as to where they may go.</Talk>
+  <NumWander>2</NumWander>
+  <DefenseSkill>45</DefenseSkill>
+  <AttackPower>130</AttackPower>
+  <WeaponSkill>45</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">117</Carry>
+    <Carry Area="ocean" Num="1">117</Carry>
+    <Carry Area="ocean" Num="2">117</Carry>
+    <Carry Area="ocean" Num="3">117</Carry>
+    <Carry Area="ocean" Num="4">117</Carry>
+    <Carry Area="ocean" Num="5">118</Carry>
+    <Carry Area="ocean" Num="6">118</Carry>
+    <Carry Area="ocean" Num="7">119</Carry>
+    <Carry Area="ocean" Num="8">354</Carry>
+    <Carry Area="ocean" Num="9">354</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+    <Bit Num="38"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

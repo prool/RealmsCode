@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="535" Version="2.40a" Area="ocean">
+  <Name>Lankshire Parkway/Lelion Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Lelion Way and Lankshire Parkway.</ShortDescription>
+  <LongDescription>Lankshire Parkway runs south from Lelion Way, which continues to the east
+and west.  On the north side of the intersection, you can see Lyanden 
+Lake and the island which the Lyanden Castle is built on.  The swamp-like
+river area on the north side of the road is probably the home to numerous
+animals, including a few species of alligators.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">534</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">536</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">625</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

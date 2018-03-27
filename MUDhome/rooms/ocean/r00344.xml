@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="344" Version="2.41a" Area="ocean">
+  <Name>The Red Eye Pub and Grill</Name>
+  <ShortDescription>You are in one of the loud and rowdy bars in the northern section of town.</ShortDescription>
+  <LongDescription>The Red Eye Pub is ideal for finding out information about various items
+or objects of interest.  The pub is freqented by numerous bards who know
+much more than they let on.  Many bards gain the confidence of great
+leaders, thus find out more information that they can effectively put
+into riddles and songs.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>1206217951</LastTime>
+      <Misc Area="ocean">316</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">413</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">454</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

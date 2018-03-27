@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="1265" Version="2.40" Area="ocean">
+  <Name>Crypt Passage</Name>
+  <ShortDescription>You are in a dank, dusty crypt passage.</ShortDescription>
+  <LongDescription>The crypt passage intersects another passage heading back towards the
+surface to the east.  The passage continues to descend to the south-
+east.  Both passages look very narrow.  It doesn't look like more than
+a couple of people could squeeze through them at any one time.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">164</Mob>
+      <Mob Area="ocean" Num="1">164</Mob>
+      <Mob Area="ocean" Num="2">164</Mob>
+      <Mob Area="ocean" Num="3">164</Mob>
+      <Mob Area="ocean" Num="4">164</Mob>
+      <Mob Area="ocean" Num="5">164</Mob>
+      <Mob Area="ocean" Num="6">164</Mob>
+      <Mob Area="ocean" Num="7">164</Mob>
+      <Mob Area="ocean" Num="8">164</Mob>
+      <Mob Area="ocean" Num="9">164</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1264</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1272</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1268</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">1266</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

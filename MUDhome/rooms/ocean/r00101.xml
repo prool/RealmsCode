@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="101" Version="2.40a" Area="ocean">
+  <Name>Prison</Name>
+  <ShortDescription>This is where bad, naughty players are stored.</ShortDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="17"/>
+    <Bit Num="28"/>
+    <Bit Num="31"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>freedom</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

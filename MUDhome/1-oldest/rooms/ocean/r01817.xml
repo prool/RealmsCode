@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1817" Version="2.40a" Area="ocean">
+  <Name>Hidden Mountain Path</Name>
+  <ShortDescription>You are on a hidden path leading from Monument Avenue into the Mountain.</ShortDescription>
+  <LongDescription>Although the path leads into the mountain, it appears to head downward
+instead of up.  The path leads you straight into a cave that was otherwise
+not visible from the road.  You can feel a lot of head coming from the
+cave, which is slightly lit with a faint red glow.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>road</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="road">
+      <Keys/>
+      <Room Area="ocean">1651</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="cave">
+      <Keys/>
+      <Room Area="ocean">1816</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

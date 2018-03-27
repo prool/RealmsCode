@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3939" Version="2.40" Area="ocean">
+  <Name>Training Room</Name>
+  <ShortDescription>You are in the inner sanctum of the Wizard's Eye, and eligble to train.</ShortDescription>
+  <LongDescription>Only those who have passed the requirements may enter this magic room.
+Congratulations!  You have been accepted to the next level, and are but
+a simple command away from it.  You may train now.  Before you leave, be
+sure to ask the sorceress to cast resistive spells on you.</LongDescription>
+  
+  <Established>770764066</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="6"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="15"/>
+    <Bit Num="32"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">621</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1810</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,9 @@
+Help on: *xdelete
+
+This command allows a CT or DM to delete all exits in a room.
+It is to be used in place of the editor to fix a room's messed
+up or corrupted rooms without having to blow away the entire
+room file from disk and rebuild it. Creators and builders do
+not have access to this command, due to the sheer amount of
+damage one of them could do with it if ever disgruntled.
+

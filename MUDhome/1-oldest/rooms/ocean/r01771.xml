@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1771" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, between the Iilandri Campus.</ShortDescription>
+  <LongDescription>The Iilandi University was created some decades ago by a grant from
+the Iilandi family in order to bring a higher education campus to 
+Oceancrest.  The city of Oceancrest then took up the funding for the
+school since maintaining it was virtually free.  The school grew and
+propered, and has since become a major force in the intellectual
+community.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1739</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1772</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

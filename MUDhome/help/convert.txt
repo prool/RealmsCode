@@ -1,0 +1,18 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  convert       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Convert will allow you to convert yourself from chaotic to lawful alignment on
+your own without the aid of a DM. You will be prompted to be sure you wish to do
+this. Realize that once you convert, you may never go back to being chaotic ever
+again. Type HELP ALIGNMENT for more information on alignment.
+
+Example:
+: convert
+To prevent accidental conversion you must confirm you want to convert,
+to do so type 'convert yes'
+Remember, you will NEVER be able to be chaotic again.
+: convert yes
+### Bob just converted to lawful alignment.
+:
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="330" Version="2.40" Area="ocean">
+  <Name>Bendine Aquarium Shark Tank Room</Name>
+  <ShortDescription>You are in the large room with a giant shark tank in the center of it.</ShortDescription>
+  <LongDescription>Sharks are perhaps one of the most deadly creatures of the sea.  Although
+they usually travel alone, they will often converge on a single prey when
+they smell blood.  The management suggests that you do not enter the
+large tank, but watch the sharks from the outside.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>tank</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">326</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tank">
+      <Keys/>
+      <Room Area="ocean">331</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="4209" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>You are in the widest hallway of the Tower Castle, built by Prince Rutger.</ShortDescription>
+  <LongDescription>There is a series of doors on the east side of the hall, some of which are
+open.  They look like shops and stores.  This castle has a lot of people
+living in it, and is almost a small city in its needs.  Merchants are quite
+happy to meet that need, and have provided many services.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4208</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4210</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="archway">
+      <Keys/>
+      <Room Area="ocean">4260</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

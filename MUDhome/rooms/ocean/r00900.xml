@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="900" Version="2.40" Area="ocean">
+  <Name>Secret Underground Passage</Name>
+  <ShortDescription>You are in a secret underground passage.</ShortDescription>
+  <LongDescription>You assume you're somewhere under the city of Hafnia.  The torches have
+all burned out.  You have reached a dead-end in the passage.  The passage 
+continues to the northeast.  You notice that the floor is rather slick.
+It has been covered with moss and mildew so much so that the floor just
+looks green.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">721</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="ceiling passage">
+      <Keys/>
+      <Room Area="ocean">912</Room>
+      <Key>14</Key>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+        <Bit Num="7"/>
+      </Flags>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">901</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

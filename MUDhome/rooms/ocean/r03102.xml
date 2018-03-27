@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3102" Version="2.40" Area="ocean">
+  <Name>Tristram's Temple</Name>
+  <ShortDescription>This is Tristram's Temple, on level three of the underground city.</ShortDescription>
+  <LongDescription>True children of Tristram may rest here, where the palpable glow of
+holiness will speed the healing of their wounds.  Unlike the temples on
+the higher levels, this temple is not beautiful at all, but dark and
+gloomy.  Mists obscure the high ceiling.  A magical rope rises up from
+the floor into the mists, with no end in sight.  
+o</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>rope</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="rope">
+      <Keys/>
+      <Room Area="ocean">3101</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

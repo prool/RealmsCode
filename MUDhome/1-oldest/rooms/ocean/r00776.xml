@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="776" Version="2.40" Area="ocean">
+  <Name>The Great Gates</Name>
+  <ShortDescription>You are at the southern end of the hallway inside the Dragon's Citadel.</ShortDescription>
+  <LongDescription>Two massive iron gates stand in front of you, one to the east and one
+to the west.  To the north, a large plaque is inscripted with the 
+following message: "Only the Worthy and Pure of Heart may Enter the
+Citadel of the Dragons or be Forever Destroyed."  On the east gate,
+you can see a white plaque with black writing that you can't read.
+On the west gate is a similar plaque, except it is black with white
+writing.  The gates appear to be locked.  The locks glow in a greenish
+hue and do not appear to be unlockable with an "ordinary" key.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west gate</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">320</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">775</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west gate">
+      <Keys/>
+      <Room Area="ocean">777</Room>
+      <Key>50</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

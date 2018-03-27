@@ -1,0 +1,10 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  guilds         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+For help on using the guild command: ^WHELP GUILDCOMMANDS^x
+For information on guilded combat:   ^WHELP GUILDCOMBAT^x
+For help on guild halls:             ^WHELP GUILDHALLS^x
+For help on guild rank:              ^WHELP GUILDRANK^x
+For help on guild shops:             ^WHELP GUILDSHOPS^x
+

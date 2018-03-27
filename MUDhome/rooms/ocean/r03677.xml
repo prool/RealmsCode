@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3677" Version="2.40" Area="ocean">
+  <Name>Thieve's Passage</Name>
+  <ShortDescription>You are crawling along a narrow passage that is pitch dark.</ShortDescription>
+  <LongDescription>This part of the passage is much wider than the part going east,
+but it's still only big enough for two.  There is a sound of a rusty
+door being moved coming from the north.  The sound isn't constant, but
+comes and goes.  It's difficult to stand in here, and you certainly
+wouldn't want to get in a fight in this cramped space.</LongDescription>
+  
+  <Established>765426922</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3676</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3689</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3687</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

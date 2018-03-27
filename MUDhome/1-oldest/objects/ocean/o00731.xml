@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="731" Area="ocean" Version="2.40">
+  <Name>hot crystal</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>3</ShotsMax>
+  <ShotsCur>3</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">8000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">crystal</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>You see a glowing crimson crystal with steam rising from its surface.</Description>
+  <Weight>3</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>38</MagicPower>
+  <MagicRealm>4</MagicRealm>
+  <InBag/>
+</Object>

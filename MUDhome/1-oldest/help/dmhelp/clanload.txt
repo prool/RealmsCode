@@ -1,0 +1,5 @@
+Help on: *clanload
+
+Reloads the current clan dile from disk, updating it.
+
+Syntax: *clanload

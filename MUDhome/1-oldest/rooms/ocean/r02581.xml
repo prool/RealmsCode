@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="2581" Version="2.40" Area="ocean">
+  <Name>Hedge Rows</Name>
+  <ShortDescription>You are in an area of well trimmed hedges, many cut to the shape of animals.</ShortDescription>
+  <LongDescription>It looks as though the hedges have been planted to form a maze, where
+one might wander around for a long time.  At the moment, you stand on a
+raised area where you can look over the entire hedge garden, and you can
+choose to enter if you wish, but you might be lost forever.  The second
+of the Garden is to the southeast.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2580</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2582</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2588</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2591</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hedge">
+      <Keys/>
+      <Room Area="ocean">2592</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

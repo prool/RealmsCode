@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1781" Version="2.40" Area="ocean">
+  <Name>Monument Avenue</Name>
+  <ShortDescription>You are walking along Monument Avenue, just south of the Shrine of Annam.</ShortDescription>
+  <LongDescription>The small, abandoned building on the north side of the road was recently
+renovated by some rebellious believers as the Shrine of Annam.  Annam 
+is the Great Creator of all life in the universe.  This believe was 
+primarily believed only by the giants and half-giants of the realm, but
+their word has spread to some of the other races, most notably including
+humans.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1780</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1782</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

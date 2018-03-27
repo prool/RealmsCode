@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1789" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are walking along Hillcrest Drive, south of the Obidian Housing Complex.</ShortDescription>
+  <LongDescription>Due to the lack of space within the City Walls, Oceancrest cannot support
+the building of individual home within the limits of the city.  However,
+since there is a need for people to live inside the city, large housing
+complexes like the Obidian Community Housing Complex have been built.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1749</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1790</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

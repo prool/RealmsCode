@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="5191" Version="2.40" Area="ocean">
+  <Name>Galgorie's Copse</Name>
+  <ShortDescription>You are in a small woods of alders and oaks, thick with brush.</ShortDescription>
+  <LongDescription>Near the northern edge is a still pond and a grassy knoll.  A granite and
+ebony headstone marks the single grave at the foot of a giant oak tree.  
+It is the resting place of Galgorie.  Galgorie was mortally wounded in his
+battle with the monster from the pond, but since that day the beast has
+never been seen again.  Lyanden Road is west.</LongDescription>
+  
+  <Established>774231234</Established>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">712</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5190</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5192</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="knoll">
+      <Keys/>
+      <Room Area="ocean">5189</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

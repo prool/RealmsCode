@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="273" Version="2.40" Area="ocean">
+  <Name>Pier Lithium Imports</Name>
+  <ShortDescription>You have entered a large shop previously owned by four adventurers: Rubin,
+Keyeteh, Maniac and Arjuna.  Contact a DM to purchase this establishment. </ShortDescription>
+  <LongDescription>The store overlooks the Lithium Bay, where ships, carrying a variety of
+goods from far away lands, dock daily to trade with the Oceancrest 
+merchants.  A great variety of goods and services may be purchased here.
+You must contact the Dungeonmasters if you wish to do business.</LongDescription>
+  
+  <Established>728699537</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">484</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

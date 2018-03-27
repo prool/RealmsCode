@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="2009" Version="2.40a" Area="ocean">
+  <Name>Myrr Lane/Kista Avenue Intersection</Name>
+  <ShortDescription>Kista Avenue runs north and south, while Myrr Lane heads east from here.</ShortDescription>
+  <LongDescription>On the southeast side of the intersection there is a lot that seems to be 
+covered with a giant growth of some sort of fungus.  It seems to be alive,
+as you can see it move occasionally.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">208</Mob>
+      <Mob Area="ocean" Num="1">208</Mob>
+      <Mob Area="ocean" Num="2">207</Mob>
+      <Mob Area="ocean" Num="3">206</Mob>
+      <Mob Area="ocean" Num="4">204</Mob>
+      <Mob Area="ocean" Num="5">203</Mob>
+      <Mob Area="ocean" Num="6">202</Mob>
+      <Mob Area="ocean" Num="7">214</Mob>
+      <Mob Area="ocean" Num="8">211</Mob>
+      <Mob Area="ocean" Num="9">211</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2513</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2533</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2532</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="398" Version="2.40" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are traveling along Hofton Avenue, south of the City Walls.</ShortDescription>
+  <LongDescription>The massive City Walls on the north side of the road are a constant 
+reminder of what lies outside the city.  Although there hasn't really
+been a major offensive against the city in over half a century, the
+threat of invasion is always present and the city garrison is always in
+top form, ready to take on any threat that might come its way.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">397</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">399</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="4508" Version="2.40a" Area="ocean">
+  <Name>Heraldry Hall</Name>
+  <ShortDescription>You are in a hall draped with banners, flags and pennants.</ShortDescription>
+  <LongDescription>Shields and coats-of-arms hang on every square centimeter of the walls,
+identifying famous clans and families.  Sweet smelling torchs line the
+way, providing a warm light.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4507</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4513</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

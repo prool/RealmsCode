@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1010" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>You are traveling along Main Street, which runs north to south.</ShortDescription>
+  <LongDescription>You are getting close to Nylandian Bay; you can smell the warm salt
+water and can hear the sounds of ship horns in the distance.  This
+section of town also houses the administrative offices of Oceancrest.
+Directly to the west is the Oceancrest Guard Crime Patrol Headquarters.
+The city guards on patrol look pretty mean, but they do keep the streets
+safe for the public.  To the east is the entrance to the Oceancrest 
+Arena Events and Information Center.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1009</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1011</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1902</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

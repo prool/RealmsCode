@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<Creature Num="268" Area="ocean" Version="2.40">
+  <Name>tribesman</Name>
+  <Class>2</Class>
+  <Level>6</Level>
+  <Type>1</Type>
+  <Experience>130</Experience>
+  <Coins>
+    <Coin Num="2">10</Coin>
+  </Coins>
+  <Alignment>5</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>90</Current>
+      <Max>90</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>75</Current>
+      <Max>75</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a rather large tribesman that doesn't look too pleasant.</Description>
+  <Keys/>
+  <MoveTypes/>
+  <Armor>175</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>3</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>Go Away.</Talk>
+  <DefenseSkill>55</DefenseSkill>
+  <AttackPower>436</AttackPower>
+  <WeaponSkill>55</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">326</Carry>
+    <Carry Area="ocean" Num="1">327</Carry>
+    <Carry Area="ocean" Num="2">328</Carry>
+    <Carry Area="ocean" Num="3">329</Carry>
+    <Carry Area="ocean" Num="4">330</Carry>
+    <Carry Area="ocean" Num="5">326</Carry>
+    <Carry Area="ocean" Num="6">327</Carry>
+    <Carry Area="ocean" Num="7">328</Carry>
+    <Carry Area="ocean" Num="8">329</Carry>
+    <Carry Area="ocean" Num="9">330</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="7"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

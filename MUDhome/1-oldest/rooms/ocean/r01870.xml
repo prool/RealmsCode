@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1870" Version="2.40" Area="ocean">
+  <Name>Temple of the Rising Moon Foyer</Name>
+  <ShortDescription>You are in the entryway foyer of the Temple of the Rising Moon.</ShortDescription>
+  <LongDescription>The Temple of the Rising Moon is a shrine dedicated towards the Human
+Greek Goddess Artemis, known primarily for patronizing the hunter and the
+act of hunting.  Artemitis is the sister twin of Apollo and daugther of
+Zeus and Leto.  She is almost always associated with the full moon.  
+Hunters and adventurers often come here to pray before heading out of the
+city to the unknown.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1146</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1871</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

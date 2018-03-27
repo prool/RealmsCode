@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="402" Area="ocean" Version="2.40">
+  <Name>aniline scroll</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">15</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">scroll</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a clear scroll with an odd scent of ammonia on it.</Description>
+  <Weight>1</Weight>
+  <Type>8</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>39</MagicPower>
+  <InBag/>
+</Object>

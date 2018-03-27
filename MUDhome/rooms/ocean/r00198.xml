@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="198" Version="2.40" Area="ocean">
+  <Name>Back Bedroom</Name>
+  <ShortDescription>You are in a small and cramped back bedroom in Madame Ruthie's red house.</ShortDescription>
+  <LongDescription>This is the bedroom for quick service, and the traffic in and out is pretty
+heavy.  There are several beds here, and even a pallet on the floor for
+those who can't wait.  There is a strong smell of unwashed and sweaty bodies
+in the room, but it's not really that unpleasant.  Madame Ruthie makes money
+by the high volume here, because even the poorest of customers can get
+what they came in for.  </LongDescription>
+  
+  <Established>761957663</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>18</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">480</Mob>
+      <Mob Area="ocean" Num="1">496</Mob>
+      <Mob Area="ocean" Num="2">496</Mob>
+      <Mob Area="ocean" Num="3">522</Mob>
+      <Mob Area="ocean" Num="4">522</Mob>
+      <Mob Area="ocean" Num="5">308</Mob>
+      <Mob Area="ocean" Num="6">522</Mob>
+      <Mob Area="ocean" Num="7">522</Mob>
+      <Mob Area="ocean" Num="8">522</Mob>
+      <Mob Area="ocean" Num="9">522</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">194</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="30" Area="ocean" Version="2.40">
+  <Name>scythe</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>7</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">240</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <UseOutput>Now everyone's going to think you're the Grim Reaper.</UseOutput>
+  <Weight>6</Weight>
+  <Type>5</Type>
+  <SubType>polearm</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

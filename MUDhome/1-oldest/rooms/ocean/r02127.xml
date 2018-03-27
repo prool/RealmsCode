@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="2127" Version="2.40" Area="ocean">
+  <Name>Milsene Museum Hall of Doom</Name>
+  <ShortDescription>You are at the southernmost end of the infamous Hall of Doom.</ShortDescription>
+  <LongDescription>The hallway continues here with even more exhibits.  There are rooms
+to the east, west and south with varying monsters from various exotic
+locations from around the world.  To the west, there is a sign above
+the arch that says "Dragons and Brimstone".  To the south, there 
+appears to be some sort of desert environment, though you can't really
+make much out and there are no descriptions.  To the east, there is 
+a sign saying "Terrors from the Underground".  The hallway leads back
+towards the main foyer to the north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2126</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2129</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2130</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2131</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

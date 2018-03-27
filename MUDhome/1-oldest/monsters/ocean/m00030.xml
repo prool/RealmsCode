@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<Creature Num="30" Area="ocean" Version="2.40">
+  <Name>guard</Name>
+  <Level>10</Level>
+  <Type>1</Type>
+  <Experience>340</Experience>
+  <Coins>
+    <Coin Num="2">50</Coin>
+  </Coins>
+  <Alignment>250</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>135</Current>
+      <Max>135</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>This guard looks like he's made out of rock.  You better do what he says.</Description>
+  <Keys/>
+  <MoveTypes/>
+  <Armor>225</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>3</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>hey you, get the hell outta here!</Talk>
+  <DefenseSkill>95</DefenseSkill>
+  <AttackPower>160</AttackPower>
+  <WeaponSkill>95</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">280</Carry>
+    <Carry Area="ocean" Num="1">280</Carry>
+    <Carry Area="ocean" Num="2">280</Carry>
+    <Carry Area="ocean" Num="3">280</Carry>
+    <Carry Area="ocean" Num="4">280</Carry>
+    <Carry Area="ocean" Num="5">280</Carry>
+    <Carry Area="ocean" Num="6">250</Carry>
+    <Carry Area="ocean" Num="7">250</Carry>
+    <Carry Area="ocean" Num="8">250</Carry>
+    <Carry Area="ocean" Num="9">250</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="9"/>
+    <Bit Num="10"/>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="2945" Version="2.40" Area="ocean">
+  <Name>Mud Island</Name>
+  <ShortDescription>You have reached a muddy island in the dark swamps of the enchanted forest.</ShortDescription>
+  <LongDescription>The mud at your feet is slippery and seems to move as you slog through it.
+Bubbles of gas rise in the mud and go "plop", leaving a terrible odor in
+the air.  Large slabs of mud seem to slide away from you as move, while
+other slabs of mud appear to be about to rear up and block your path.
+Water spiders and snakes are the only form of life you can see, and you
+have heard stories of the spiders getting as large as a man.</LongDescription>
+  
+  <Established>760227321</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">472</Mob>
+      <Mob Area="ocean" Num="1">472</Mob>
+      <Mob Area="ocean" Num="2">472</Mob>
+      <Mob Area="ocean" Num="3">472</Mob>
+      <Mob Area="ocean" Num="4">472</Mob>
+      <Mob Area="ocean" Num="5">472</Mob>
+      <Mob Area="ocean" Num="6">472</Mob>
+      <Mob Area="ocean" Num="7">472</Mob>
+      <Mob Area="ocean" Num="8">472</Mob>
+      <Mob Area="ocean" Num="9">472</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2149</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2946</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

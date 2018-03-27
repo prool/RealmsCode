@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="5720" Version="2.40" Area="ocean">
+  <Name>Jerome's School for Fighters</Name>
+  <ShortDescription>You are in a famous school which only accepts advanced fighters for training.</ShortDescription>
+  <LongDescription>If this is your first time here, you can train in the green room, but it
+won't be easy!  Be prepared for the fight of your life.  Fighter's who have
+already accomplished that feat may train in the blue room.  The red room is
+reserved for fighters who have gone through both the green and blue room's
+training.</LongDescription>
+  
+  <Established>796027226</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>graduate's door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5718</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="green door">
+      <Keys/>
+      <Room Area="ocean">5721</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="blue door">
+      <Keys/>
+      <Room Area="ocean">5722</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="red door">
+      <Keys/>
+      <Room Area="ocean">5723</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="graduate's door">
+      <Keys/>
+      <Room Area="ocean">5724</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

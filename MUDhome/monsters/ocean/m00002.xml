@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<Creature Num="2" Area="ocean" Version="2.41b">
+  <Name>vagrant</Name>
+  <Level>1</Level>
+  <Type>1</Type>
+  <Experience>6</Experience>
+  <Coins/>
+  <Alignment>30</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>90</Current>
+      <Max>90</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>90</Current>
+      <Max>90</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>7</Current>
+      <Max>7</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>He ain't got nothing but himself.</Description>
+  <Keys/>
+  <MoveTypes/>
+  <Armor>25</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>1</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  
+  <Talk>&lt;Hic!&gt; Ya gott summ beer? &lt;Hic!&gt;</Talk>
+  <TalkResponses/>
+  <DefenseSkill>5</DefenseSkill>
+  <AttackPower>90</AttackPower>
+  <WeaponSkill>5</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean" Num="1">4</Carry>
+    <Carry Area="ocean" Num="5">4</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>5</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>5</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>5</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>5</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>5</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>5</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes>
+    <LastTime Num="3">
+      <Interval>0</Interval>
+      <LastTime>1209618800</LastTime>
+      <Misc>0</Misc>
+    </LastTime>
+    <LastTime Num="4">
+      <Interval>0</Interval>
+      <LastTime>1209618800</LastTime>
+      <Misc>0</Misc>
+    </LastTime>
+    <LastTime Num="6">
+      <Interval>0</Interval>
+      <LastTime>1209618800</LastTime>
+      <Misc>0</Misc>
+    </LastTime>
+    <LastTime Num="8">
+      <Interval>60</Interval>
+      <LastTime>1209618800</LastTime>
+      <Misc>0</Misc>
+    </LastTime>
+    <LastTime Num="41">
+      <Interval>0</Interval>
+      <LastTime>1209618800</LastTime>
+      <Misc>0</Misc>
+    </LastTime>
+    <LastTime Num="100">
+      <Interval>60</Interval>
+      <LastTime>1209618800</LastTime>
+      <Misc>0</Misc>
+    </LastTime>
+    <LastTime Num="101">
+      <Interval>30</Interval>
+      <LastTime>1209618800</LastTime>
+      <Misc>0</Misc>
+    </LastTime>
+  </LastTimes>
+  <Inventory/>
+</Creature>

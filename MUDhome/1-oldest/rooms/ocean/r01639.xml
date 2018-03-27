@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Room Num="1639" Version="2.47e" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Road in the residental area of town.</ShortDescription>
+  <LongDescription>Oceancrest is kind of divided into a number of major sections.  You are
+in the southeastern section of town, which is primarily a residental
+sector.  There are a number of general purpose stores and small pubs 
+for the average citizens in this area.  On the east side of the road,
+you can see the Order of the White Rose building where Paladins go to
+get their basic training skills.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:52 2009
+</LastPlayerTime>
+  <BeenHere>1</BeenHere>
+  <Wander><Traffic>10</Traffic><RandomMonsters><Mob Area="ocean">12</Mob><Mob Area="ocean" Num="1">12</Mob><Mob Area="ocean" Num="2">12</Mob><Mob Area="ocean" Num="3">12</Mob><Mob Area="ocean" Num="4">12</Mob><Mob Area="ocean" Num="5">12</Mob><Mob Area="ocean" Num="6">12</Mob><Mob Area="ocean" Num="7">12</Mob><Mob Area="ocean" Num="8">12</Mob><Mob Area="ocean" Num="9">12</Mob></RandomMonsters></Wander>
+  <Track><Direction>south</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1638</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1640</Room></Target><Effects></Effects></Exit><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">2262</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

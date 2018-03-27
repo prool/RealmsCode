@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3381" Version="2.40" Area="ocean">
+  <Name>Vacant Plot</Name>
+  <ShortDescription>You stand on the west corner of the Necropolis vacant lot.</ShortDescription>
+  <LongDescription>What an unholy sight lies before you.  Cast aside is a broken headstone
+with something scribbled on it, but you cannot make out what it says.
+The ground is uneven, and a shallow grave makes it difficult to determine
+if someone was trying dig a new grave, or uncover an existing one.</LongDescription>
+  
+  <Established>759883112</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">529</Mob>
+      <Mob Area="ocean" Num="1">529</Mob>
+      <Mob Area="ocean" Num="2">530</Mob>
+      <Mob Area="ocean" Num="3">530</Mob>
+      <Mob Area="ocean" Num="4">532</Mob>
+      <Mob Area="ocean" Num="5">532</Mob>
+      <Mob Area="ocean" Num="6">533</Mob>
+      <Mob Area="ocean" Num="7">533</Mob>
+      <Mob Area="ocean" Num="8">534</Mob>
+      <Mob Area="ocean" Num="9">534</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3327</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3383</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

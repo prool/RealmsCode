@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<Room Num="2854" Version="2.40a" Area="ocean">
+  <Name>Plasnelt Lake Middle Depths</Name>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>765280165</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="21"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">368</Mob>
+      <Mob Area="ocean" Num="1">368</Mob>
+      <Mob Area="ocean" Num="2">368</Mob>
+      <Mob Area="ocean" Num="3">368</Mob>
+      <Mob Area="ocean" Num="4">369</Mob>
+      <Mob Area="ocean" Num="5">369</Mob>
+      <Mob Area="ocean" Num="6">369</Mob>
+      <Mob Area="ocean" Num="7">369</Mob>
+      <Mob Area="ocean" Num="8">369</Mob>
+      <Mob Area="ocean" Num="9">369</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1200</Interval>
+      <LastTime>1206216976</LastTime>
+      <Misc Area="ocean">368</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>1200</Interval>
+      <LastTime>1206216976</LastTime>
+      <Misc Area="ocean">368</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>1200</Interval>
+      <LastTime>1206216975</LastTime>
+      <Misc Area="ocean">369</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>1200</Interval>
+      <LastTime>1206216975</LastTime>
+      <Misc Area="ocean">370</Misc>
+    </LastTime>
+    <LastTime Num="4">
+      <Interval>1200</Interval>
+      <LastTime>1206216974</LastTime>
+      <Misc Area="ocean">371</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2856</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2855</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2853</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

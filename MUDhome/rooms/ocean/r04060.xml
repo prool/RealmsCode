@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="4060" Version="2.40" Area="ocean">
+  <Name>Skies Over Brownhaven</Name>
+  <ShortDescription>You are atop a copper dragon in the air over Brownhaven.  50.0.0.0.0</ShortDescription>
+  <LongDescription>Not far below you is the dragon pits near the western edge of the village
+of Brownhaven.  In the distance to the west, you can see the Nartiz mountain
+Range.  To the north is Mount Aphinix, home of the mountain trolls.  Looking
+east, you see the Kista Forest.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">4061</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4059</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">4062</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right">
+      <Keys/>
+      <Room Area="ocean">4063</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">52</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

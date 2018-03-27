@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<Creature Num="272" Area="ocean" Version="2.40">
+  <Name>the barbarian chief</Name>
+  <Class>2</Class>
+  <Level>15</Level>
+  <Type>1</Type>
+  <Experience>1000</Experience>
+  <Coins/>
+  <Alignment>5</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>230</Current>
+      <Max>230</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>210</Current>
+      <Max>210</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see the head of the barbarian community.</Description>
+  <Keys>
+    <Key Num="0">chief</Key>
+    <Key Num="1">barbarian</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>350</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>10</Number>
+    <Sides>5</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>Ug.</Talk>
+  <DefenseSkill>145</DefenseSkill>
+  <AttackPower>550</AttackPower>
+  <WeaponSkill>145</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">351</Carry>
+    <Carry Area="ocean" Num="1">351</Carry>
+    <Carry Area="ocean" Num="2">250</Carry>
+    <Carry Area="ocean" Num="3">348</Carry>
+    <Carry Area="ocean" Num="4">326</Carry>
+    <Carry Area="ocean" Num="5">351</Carry>
+    <Carry Area="ocean" Num="6">187</Carry>
+    <Carry Area="ocean" Num="7">213</Carry>
+    <Carry Area="ocean" Num="8">280</Carry>
+    <Carry Area="ocean" Num="9">351</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  slow-poison spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 8
+School:  Other
+Domain:  Healing
+
+This spell will cause you to be poisoned roughly half the time as normal after
+you have been poisoned by a monster or player. It stays in effect until the
+poison wears off, you are cured, or you die from the poison.
+
+Syntax;
+cast slow-poison <target>

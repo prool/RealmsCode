@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="1632" Version="2.44b" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are walking along Hillcrest Drive, north of the Richland Orchard.</ShortDescription>
+  <LongDescription>The vast Chateau Richland Orchard stretches out for a number of acres
+to the south, covered with lines of grape vines.  The Richland Orchard
+is always looking for unskilled labor to harvest some of their crops and
+scare off pests that come into the orchard looking for food.  The Winery
+is located to the north, where the grapes are pressed and fermented.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>east</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">1633</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1631</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

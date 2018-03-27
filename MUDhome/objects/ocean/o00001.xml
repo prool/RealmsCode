@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="1" Area="ocean" Version="2.40">
+  <Name>small knife</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>5</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">knife</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>It has a sharp, pointy tip.</Description>
+  <Weight>2</Weight>
+  <Type>5</Type>
+  <SubType>dagger</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

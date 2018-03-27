@@ -1,0 +1,22 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  Paladin         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Prime Requisites: Strength, Piety
+Compatible Races: Dwarf, Elf, Half-Elf, Half-Giant, Half-Orc, Human, Kataran,
+	Seraph
+
+The paladin is a holy warrior of a god, the crusader of all that is righteous
+and just. A paladin can be so strong in his faith that it gives him power
+against his enemies in combat, making his attacks do more damage then normal.
+He may also turn back evil creatures of the undead with his faith, sometimes
+just harming them but other times destroying them utterly. A paladin is always
+able to determine the evil or good nature of those around him. Also, paladins
+of extreme faith and power are able to lay hands on people to heal them almost
+to full health three times per day. The nemesis of the paladin is the Death
+Knight, a blatant creation of evil and a mockery of his faith. Paladins may
+renounce a Death Knight with the martial strength of their faith to harm them.
+A paladin normally attacks a Death Knight on sight in order to send the
+creature to Hell where it belongs.
+
+Abilities: Pray, Turn, Hands, Renounce, always can know-aura

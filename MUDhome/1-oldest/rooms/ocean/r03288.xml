@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Room Num="3288" Version="2.40" Area="ocean">
+  <Name>Henton's Cell</Name>
+  
+  <Established>756127419</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3287</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

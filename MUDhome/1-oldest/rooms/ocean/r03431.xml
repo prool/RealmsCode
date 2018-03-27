@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3431" Version="2.40" Area="ocean">
+  <Name>The Vaults</Name>
+  <ShortDescription>The west end of the hall has become visable, where it turns back to 
+the south.  Another door adorns the north side of the hall to your
+west.  Looking to the southeast, you see another hallway running
+parallel to this one.</ShortDescription>
+  
+  <Established>760058543</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3430</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3432</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3444</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

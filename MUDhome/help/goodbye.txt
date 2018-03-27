@@ -1,0 +1,10 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  quit | goodbye    |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Quit and goodbye save your character and exit you from the game.
+
+Example:
+: quit
+Goodbye!
+

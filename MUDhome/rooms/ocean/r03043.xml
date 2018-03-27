@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="3043" Version="2.40" Area="ocean">
+  <Name>Goblin Experiment Room</Name>
+  <ShortDescription>You are in a room dedicated to seeing how long you can live.</ShortDescription>
+  <LongDescription>Not to your old age of course, but to how long you can live with most of
+your blood removed, or how long you can live with your heart and stomach
+surgically exposed to the open air.  A stone slab with cuffs and belts is
+the centerpiece of the room, and sharp instruments of all sorts hang on a
+wall behind you.  Scattered on a table close by are tubes and needles, and
+someone has thoughtlessly tossed the cut-off top of a skull there, still
+matted with bloody hair.</LongDescription>
+  
+  <Established>761538738</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3041</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3044</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tunnel">
+      <Keys/>
+      <Room Area="ocean">3047</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

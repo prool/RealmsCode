@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="153" Version="2.40" Area="ocean">
+  <Name>Quaymanire's Repair Shop</Name>
+  <ShortDescription>You are in a shop and see a sign, "If it ain't magic, I can fix it."</ShortDescription>
+  <LongDescription>A huge forge gives off an immense amount of heat as you stand here.
+Racks of used armor and gleaming swords and daggers line the wall, and
+a half-giant wearing a leather apron waits behind the counter.  he looks
+a little impatient.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">158</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

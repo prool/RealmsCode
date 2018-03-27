@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="1271" Version="2.40" Area="ocean">
+  <Name>Tomb of Deneb</Name>
+  <ShortDescription>You are in the great tomb of Deneb, founding mage of Keslar.</ShortDescription>
+  <LongDescription>This tomb is huge and covered with gold and jewels.  Deneb formed a group
+of mages that met at Keslar Palace centuries ago to practice magic taught
+to him by the elves.  Deneb was the first recorded human to master the
+art of magic.  The elves never trusted humans with their magic for fear
+of what would happen if it got into the wrong hands.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>259200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">160</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1269</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

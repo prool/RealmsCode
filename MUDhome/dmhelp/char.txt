@@ -1,0 +1,5 @@
+
+Use *racelist to view races.
+Use *classlist to view classes.
+Use *deitylist to view deities.
+

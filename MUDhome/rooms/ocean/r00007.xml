@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<Room Num="7" Version="2.40a" Area="ocean">
+  <Name>Hans' and Frans' Workout Gym</Name>
+  <ShortDescription>This is where Hans and Frans come to work up a sweat.</ShortDescription>
+  <LongDescription>This room is filled with literally tons of workout equipment.  The eastern
+wall is mirrored to allow exercisors to get positive feedback during their
+workouts.  In the southwest corner you see Frans, Hans' twin brother,
+pressing with all his might on the bench press machine.  A ventilator in
+the roof gently blows fresh air around the room, lessening the stench from
+Frans' armpits.  Emanating from a powerful set of loudspeakers is the 
+raucous of rock music.  You flex in the mirror and notice how puny your
+muscles look in comparison to Hans' and Frans' iron biceps.</LongDescription>
+  <LowLevel>1</LowLevel>
+  <HighLevel>10</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>5000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">220</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects>
+    <ObjRef Num="220" Area="ocean" Version="2.40a">
+      <Name>heavy barbell</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsMax>10</ShotsMax>
+      <ShotsCur>10</ShotsCur>
+      <Dice>
+        <Number>1</Number>
+        <Sides>6</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">500</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">heavy</Key>
+        <Key Num="1">barbell</Key>
+        <Key Num="2">weight</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+  </Objects>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

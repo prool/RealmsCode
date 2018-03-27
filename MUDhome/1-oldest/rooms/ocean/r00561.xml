@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="561" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are walking along Eidenhoft Boulevard, west of the Fairy Dust Inn.</ShortDescription>
+  <LongDescription>The Fairy Dust Inn is a popular inn for people coming into the city from
+the ocean.  The other inns are well to the north and south, near their
+respective entrances to the city via land.  The Fairy Dust provides a good
+nights sleep for a good rate, though.  On the west, you can see the Shrine
+of Poseidon, and a number of sailors entering and leaving the shrine.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">560</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">552</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

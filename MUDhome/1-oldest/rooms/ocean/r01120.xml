@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1120" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>You are traveling on Marina Way, just west of the Oceancrest Arena.</ShortDescription>
+  <LongDescription>The Oceancrest Central Arena is located to the east.  You can hear loud
+shouts of encouragement from inside the thick stone walls.  Unfortunately,
+you don't know if the cheers are for the competitors or the gladiators.
+The entrance to the Arena is located to the south.  It is advised that
+you visit the Arena Events and Information Center off of Main Street and
+Overland Drive before visiting the Arena itself.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1121</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1119</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

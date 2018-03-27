@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5331" Version="2.40" Area="ocean">
+  <Name>Lynaden Road/Valdune Watch Tower</Name>
+  <ShortDescription>You are on Lyanden Road, just south of the old Valdune Watch Tower.</ShortDescription>
+  <LongDescription>A meadow on the north side of the road is fenced and you see sheep and
+goats grazing there.  There's no apparent entry to the tower from the road.
+The ancient tower was once used as a signal station, one of many along
+the way taken by invading trolls.  A fire atop the tower was the signal
+to prepare for an invasion.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5330</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5332</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

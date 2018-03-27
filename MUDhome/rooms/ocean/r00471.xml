@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="471" Version="2.40" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are walking along Darmanian Way, south of the Oceancrest Guard Barracks.</ShortDescription>
+  <LongDescription>The large building on the north houses the more than a thousand guards 
+who patrol the city and the city walls, protecting the citizens of 
+Oceancrest from every and any possible threat to their peaceful existance.
+There is a Guard Surplus and Supply shop on the south side of the street,
+selling various extra equipment usually used by the guard patrols.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">436</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">472</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="583" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive/Hillborough Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Hillborough Way and Leviathan Drive.</ShortDescription>
+  <LongDescription>Hillborough Way runs west out the intersection with Leviathan Drive,
+which runs north and south.  Hillborough runs between a number of the 
+small shopping centers in the center of Oceancrest.  Leviathan Drive
+runs all the way from the north city walls in the northern end of the
+city to the south city walls in the southern end.  It is one of the
+longest streets in Oceancrest.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">582</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">584</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">704</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

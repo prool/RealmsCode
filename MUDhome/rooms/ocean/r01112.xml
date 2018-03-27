@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="1112" Version="2.40" Area="ocean">
+  <Name>Marina Way/Regalia Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Regalia Drive and Marina Way.</ShortDescription>
+  <LongDescription>Regalia Way runs west from here towards the Oceancrest Memorial Fountain
+and eventually reaches the western City Wall.  Marina Way runs north to
+south.  The Regalia Convent is located to the east of Marina Way.  It
+is a strange religious order as the nuns and priestesses strongly 
+believe in a monotheistic philosophy, thus are often shunned by other
+religious orders.  The entrances to the Convent are located to the north
+and south of here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">1</Mob>
+      <Mob Area="ocean" Num="2">266</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="4">4</Mob>
+      <Mob Area="ocean" Num="5">8</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1113</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1114</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1111</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

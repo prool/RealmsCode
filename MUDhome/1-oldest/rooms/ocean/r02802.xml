@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="2802" Version="2.40a" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>You find yourself in a long hallway heading north and ending with a closed
+and locked door to the south.  The air is very stale, but breathable.</ShortDescription>
+  <LongDescription>The hallway is finely crafted out of the rock and ice into square edges
+which makes walking around very easy.  The long hallway continues as far
+north as you can see.  To the south is a strange door seemingly in the
+middle of nowhere.  It appears to be locked, but shouldn't be too hard
+to pick.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>728790237</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2803</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2801</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

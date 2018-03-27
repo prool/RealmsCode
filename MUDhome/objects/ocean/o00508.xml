@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="508" Area="ocean" Version="2.40">
+  <Name>small javelin</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>25</ShotsMax>
+  <ShotsCur>25</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>3</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">30</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">javelin</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>A missile weapon made for small hands to wield.</Description>
+  <Weight>3</Weight>
+  <Type>5</Type>
+  <SubType>polearm</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

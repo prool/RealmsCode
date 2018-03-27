@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="3721" Version="2.40" Area="ocean">
+  <Name>Platinum Eyes Storage Room</Name>
+  <ShortDescription>You are in the storage room for the Platinum Eyes Shoppe.</ShortDescription>
+  
+  <Established>764361416</Established>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3720</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

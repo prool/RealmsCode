@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3927" Version="2.40" Area="ocean">
+  <Name>Garnet Room</Name>
+  <ShortDescription>The rooms walls are dark red slabs of mirror-like polished garnet.</ShortDescription>
+  <LongDescription>Reflections in reflections in reflections.  There are ten thousand images
+in blood red garnet all about you.  An elderly woman is seated between two
+elven cats, and they reflect into infinity.  She teases one of the cats
+with a tiny key on a dangling silver chain.   She wears a red robe.</LongDescription>
+  <LowLevel>4</LowLevel>
+  <HighLevel>4</HighLevel>
+  
+  <Established>770798993</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training room</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">619</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3929</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">3939</Room>
+      <Key>78</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

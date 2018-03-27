@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3131" Version="2.40" Area="ocean">
+  <Name>East Uland Way</Name>
+  <ShortDescription>You are on Uland Way, a very old carriage road, just east of Rum Road.</ShortDescription>
+  <LongDescription>The way meanders through a small settlement of rickity shacks and rundown
+shops.  The Cold Drake Inn is on the south side of the way, and a bed
+and breakfast establishment is tucked behind some banana trees to the north.
+East Uland Way continues toward the island's bluff on the eastern side.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">334</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3132</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3135</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

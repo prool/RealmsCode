@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="720" Area="ocean" Version="2.40">
+  <Name>100 oriental dancers</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">oriental</Key>
+    <Key Num="1">dancers</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Description>You see beautiful young men and women in brightly colored dance costumes.</Description>
+  <Type>14</Type>
+  <InBag/>
+</Object>

@@ -1,0 +1,17 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  camouflage spell     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 15
+School:  Illusion
+Domain:  Nature
+
+This spell causes its target to blend into surroundings, making sneaking
+and hiding easier in outdoor areas, in addition to making it harder for a
+ranger to track you. Camouflage works especially well for druids in any
+kind of jungle / forest, as it gives greater bonuses for them for sneak
+and hide, and as long as the druid remains in the forest, the spell will
+ not wear off.
+
+Syntax:
+cast camouflage <target>
+

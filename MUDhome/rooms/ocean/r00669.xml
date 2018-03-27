@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="669" Version="2.40" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are on Hofton Avenue between the City Walls and the Avatar Ruins.</ShortDescription>
+  <LongDescription>Hofton Avenue runs east and west, parallel to the northern City Walls which
+protect the City of Oceancrest from all kinds of assaults and attacks.  On
+the south side of the road, you can see the mysterious Avatar Ruins, said
+to be the only remaining reminder of the clash of the avatars.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">668</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">670</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

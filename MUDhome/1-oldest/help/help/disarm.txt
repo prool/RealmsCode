@@ -1,0 +1,30 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  disarm          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Used with no arguments, the disarm command will remove any weapon(s) you
+currently have wielded.
+
+Example:
+(4 H 2 M): disarm
+You removed a hoe.
+(4 H 2 M): flee
+You flee in terror.
+
+
+Fighters of level 7 and higher are able to disarm their opponents. For the
+ability to work, the fighter must be wielding a weapon other then a missile
+weapon. Most often this ability will make the fighter's opponent fumble
+their weapon. There is a chance, however, that it makes their opponent drop
+their weapon instead. The higher the positive level difference between the
+fighter and his opponent, the more likely the weapon will be dropped and
+not fumbled. This ability can be used on players as well as mobs which
+wield weapons.
+
+Example:
+: Bob wields a hoe.
+: disarm bob
+You disarm Bob!
+You force Bob to drop the hoe!
+:
+

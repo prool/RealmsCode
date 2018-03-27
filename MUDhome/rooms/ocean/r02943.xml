@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="2943" Version="2.40" Area="ocean">
+  <Name>Elven Workshop Storeroom</Name>
+  <ShortDescription>You are in the storeroom of the elven workshop.</ShortDescription>
+  
+  <Established>759795761</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2942</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="618" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard</Name>
+  <ShortDescription>You are on Avatar Boulevard, just west of Altihmin's Academy.</ShortDescription>
+  <LongDescription>Altihmin's Academy of Advanced Fighting Techniques is a large facility
+where very high level fighters go to train.  Training is very difficult
+at high levels for fighters as they must prove themselves by fighting
+a similar fighter of a more powerful level.  Only through this test can
+any fighter advance to the higher levels.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">617</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">619</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

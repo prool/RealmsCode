@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="383" Version="2.40" Area="ocean">
+  <Name>Orchard Lane</Name>
+  <ShortDescription>You are walking along a quiet stretch of Orchard Lane.</ShortDescription>
+  <LongDescription>Orchard Lane cuts through a large forest region on both sides of the road.
+The thick brush and high concentration of trees prevents you from casually
+looking into the forest.  Most people don't think anything can survive
+in those forests, while others think they're inhabitted by mystical beings.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1307</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">384</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

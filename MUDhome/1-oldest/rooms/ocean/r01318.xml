@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1318" Version="2.40" Area="ocean">
+  <Name>Ashton Bridge</Name>
+  <ShortDescription>You are walking over the Ashton Bridge, crossing over the Ashton River.</ShortDescription>
+  <LongDescription>The Ashton River flows west across Riverdell Way.  The bridge is not too
+high above the flowing river, which has been known to overflow onto the
+bridge in heavy rainy seasons.  You can see the spectacular Ashton 
+Waterfall to the west.  The best place to view the waterfall is from
+within the Ashton Falls Resort.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1317</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1319</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

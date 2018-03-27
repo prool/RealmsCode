@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="283" Version="2.40a" Area="ocean">
+  <Name>Avatar Ruins Outer Path</Name>
+  <ShortDescription>You are walking around the northern side of the Avatar Ruins.</ShortDescription>
+  <LongDescription>Occassionally, you can see small animals flying about in the Ruins, but
+seldom do they seem to attack you.  They appear to just be watching your
+progress from a distance.  At times, they may come close enough to 
+examine you, but it's hard to make out just what they are.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="17"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">284</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">282</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

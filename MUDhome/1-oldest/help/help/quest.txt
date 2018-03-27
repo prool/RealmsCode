@@ -1,0 +1,26 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  quest command^x     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+^WSyntax:^x quest [abandon/quit <quest name>] [complete [quest name]]
+
+Run with no parameters the quest command will list all old style (mordor)
+quests you have completed, all new quests you have completed, and give you
+information on any current quests you have.
+
+
+^WQuest Abandon/Quit:^x
+If you want to abandon a quest type in ^Wquest abandon <first part of the quest name>^x
+
+NOTE: This will erase all progress you have made on the quest and you will
+need to start from scratch if you elect to start the quest again.
+
+^WQuest Complete:^x
+To complete a quest you must be at the turnin monster and have finished all
+requirements of the quest.  When all requirements have been satisifed and
+you are at the turnin monster type ^Wquest complete [optional quest name]^x
+If you do not type a quest name, the game will try to complete all quests in
+your quest book.  If given a name it will try to complete the first quest
+that matches that string of characters.
+
+^WSee also:^x quests

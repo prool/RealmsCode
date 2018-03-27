@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="149" Version="2.40" Area="ocean">
+  <Name>Taragon Road</Name>
+  <ShortDescription>You are on Taragon Road, near its southern end, between the wall and a pub.</ShortDescription>
+  <LongDescription>A few steps north is the Deft Hand, a rather dark and dismal little place.
+Immediately to the west is a tailor's shop, which advertises they can fit a
+half-giant or an elf.  A number of nice looking capes are on display in the
+window, and a couple of wizard's gowns are on display dummys.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">3</Mob>
+      <Mob Area="ocean" Num="3">2</Mob>
+      <Mob Area="ocean" Num="4">5</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">144</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">154</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="3134" Version="2.40" Area="ocean">
+  <Name>Eastern Bluffs</Name>
+  <ShortDescription>You are at the eastern edge of Uland Island, looking over the bluffs.</ShortDescription>
+  <LongDescription>The Respitial Sea stretches out before you to the east.  The coast of
+Mordor lies in that direction, and the great city of Oceancrest has a
+seaport there.  The bluffs look impossible to scale, but down below is
+a glistningly white beach.  The rutted road which leads east also turns
+and makes its way for a short distance to the north, but it soon disappears
+because of little use and fast growing jungle.</LongDescription>
+  
+  <Established>769797153</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3133</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

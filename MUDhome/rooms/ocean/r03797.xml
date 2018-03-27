@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="3797" Version="2.40" Area="ocean">
+  <Name>Prxtl Cave</Name>
+  <ShortDescription>You are at the mouth to a maze of grottos and tunnels known as Prxtl Cave.</ShortDescription>
+  <LongDescription>The mouth of the cave is huge, but the ceiling gets lower towards the
+back where a great many tunnels are located.  A flickering red light
+comes from several of the tunnels, making it easy to see, but casting
+shadows that dance on the wall around you.  They're very distracting.</LongDescription>
+  
+  <Established>765963685</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3795</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

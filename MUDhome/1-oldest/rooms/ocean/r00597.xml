@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="597" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street/Islandia Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Rosecrest Street and Islandia Drive.</ShortDescription>
+  <LongDescription>Rosecrest Street runs north and south, forming the western edge of the
+great Lyanden Lake.  In the center of the lake is a very large island on
+which the Lyanden Castle is built upon.  Islandia Drive runs west from
+the intersection, into the busy part of town.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">596</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">598</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">693</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

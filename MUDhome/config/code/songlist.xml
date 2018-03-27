@@ -1,0 +1,139 @@
+﻿<Songs>
+	<Song>
+		<Name>Battle Chant</Name>
+		<Type>effect</Type>
+		<Effect>battlechant</Effect>
+		<TargetType>group</TargetType>
+		<Priority>100</Priority>
+		<Description>Chant of Battle</Description>
+	</Song>
+	<Song>
+		<Name>Banshee Wail</Name>
+		<Type>effect</Type>
+		<Script></Script>
+		<TargetType>script</TargetType>
+		<Delay>8</Delay>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Hailey's Hasting Hymn</Name>
+		<Type>effect</Type>
+		<Effect>haileyshastinghymn</Effect>
+		<TargetType>group</TargetType>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Hymn of Revitalization</Name>
+		<Type>effect</Type>
+		<Effect>hymnofrevitalization</Effect>
+		<TargetType>group</TargetType>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Warsong</Name>
+		<Type>effect</Type>
+		<Effect>warsong</Effect>
+		<TargetType>group</TargetType>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Aaron's Lugubrious Lament</Name>
+		<Type>effect</Type>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Magical Monologue</Name>
+		<Type>effect</Type>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Charismatic Carillon</Name>
+		<Type>effect</Type>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Song of Purification</Name>
+		<Type>effect</Type>
+		<Effect>songofpurification</Effect>
+		<TargetType>group</TargetType>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Lucid Lullaby</Name>
+		<Type>effect</Type>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Aquatic Ayre</Name>
+		<Type>effect</Type>
+		<Effect>aquaticayre</Effect>
+		<TargetType>group</TargetType>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Sonorus Serenade</Name>
+		<Type>effect</Type>
+		<Effect>sonorusserenade</Effect>
+		<TargetType>self</TargetType>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Chains of Dissonance</Name>
+		<Type>effect</Type>
+		<Effect>chainsofdissonance</Effect>
+		<TargetType>target</TargetType>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Disenchanting Melody</Name>
+		<Type>effect</Type>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Song of Sight</Name>
+		<Type>effect</Type>
+		<Effect>songofsight</Effect>
+		<TargetType>group</TargetType>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Heartwarming Rhapsody</Name>
+		<Type>effect</Type>
+		<Effect>heartwarmingrapsody</Effect>
+		<TargetType>group</TargetType>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Dreadful Screech</Name>
+		<Type>effect</Type>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Song of Vitality</Name>
+		<Type>effect</Type>
+		<Effect>songofvitality</Effect>
+		<TargetType>group</TargetType>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Avian Aria</Name>
+		<Type>effect</Type>
+		<Effect>avianaria</Effect>
+		<TargetType>group</TargetType>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Chorus of Clarity</Name>
+		<Type>effect</Type>
+		<Effect>chorusofclarity</Effect>
+		<TargetType>group</TargetType>
+		<Priority>100</Priority>
+	</Song>
+	<Song>
+		<Name>Guardian Rhythms</Name>
+		<Type>effect</Type>
+		<Effect>guardianrhythms</Effect>
+		<TargetType>group</TargetType>
+		<Priority>100</Priority>
+	</Song>
+</Songs>

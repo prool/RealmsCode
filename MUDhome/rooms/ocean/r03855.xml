@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="3855" Version="2.40" Area="ocean">
+  <Name>Marina/Eidenhoft Alley</Name>
+  <ShortDescription>You are in a winding alley south of the Adrilite Museum of Natural History.</ShortDescription>
+  <LongDescription>Along the north wall of the alley is a very large building which is the
+Adrilite Museum of Natural History.  This must be the delivery entrance,
+as there are two really tall doors and a guard station.  Several shops
+and guilds line the south side of the alley.  One shop, which is closed,
+used to be an alchemy shop.  A very old and faded sign over a door says, 
+"School of-"  But the sign is broken and you cannot read the rest of it.</LongDescription>
+  
+  <Established>768083164</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">594</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3853</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3854</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="thieve's guild">
+      <Keys/>
+      <Room Area="ocean">3909</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

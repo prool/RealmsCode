@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2526" Version="2.40" Area="ocean">
+  <Name>Teal Avenue</Name>
+  <ShortDescription>You are on Teal Avenue, at the southern edge of an industrial park.</ShortDescription>
+  <LongDescription>Several factories and testing areas are located to the north.  The craftsmen
+who work there take a great deal of pride in their work, as they reputedly
+use only the latest technology to produce their wares.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2525</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2527</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

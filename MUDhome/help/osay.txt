@@ -1,0 +1,12 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  osay         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The osay command is designed for speaking out of character. It was designed to
+encourage roleplaying, and those who roleplay should use it often.
+
+Example:
+: os This is out of character.
+You say, "(ooc): This is out of character."
+:
+

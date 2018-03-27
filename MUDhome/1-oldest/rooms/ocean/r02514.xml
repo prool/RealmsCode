@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2514" Version="2.40" Area="ocean">
+  <Name>Myrr Lane</Name>
+  <ShortDescription>This is Myrr Lane which runs along the southern side of Lake Kista.</ShortDescription>
+  <LongDescription>Lake Kista is directly north of the city and Myrr Lane runs along its
+southern shore.  There are several small homes, shops and buildings between
+you and the lake's edge.  Farther to the east or west you will find Lake
+View Drive, which completely encircles the alpine lake.  On the south
+side of the lane is a wall which surrounds the Great Observatory.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2515</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2012</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

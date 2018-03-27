@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2251" Version="2.40" Area="ocean">
+  <Name>South Oceancrest Post Office #29</Name>
+  <ShortDescription>You are in one of the many postal facilities available in Oceancrest.</ShortDescription>
+  <LongDescription>The need for communications is essential for a working city to prosper.
+The Oceancrest Post Offices will send mail to anyone you like, free of
+charge.  If you have mail at the Post Office, type "readmail".  If you'd
+like to send mail to someone, type "sendmail &lt;player&gt;" and enter your
+message. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="10"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1759</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

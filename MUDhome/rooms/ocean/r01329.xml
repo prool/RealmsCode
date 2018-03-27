@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1329" Version="2.40" Area="ocean">
+  <Name>Ministry Way</Name>
+  <ShortDescription>You are traveling along Ministry Way, east of the Recycling Plant.</ShortDescription>
+  <LongDescription>It is very important to recycle in Oceancrest as all the junk lying around
+could seriously injure innocent people who accidentally trip over it.  The
+idea behind the recycling plants is to exchange used up junk for cash as
+an incentive to get people to bring in worn and useless items.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1328</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1330</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

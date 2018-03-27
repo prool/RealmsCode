@@ -1,0 +1,29 @@
+
+Dragons on ROH are intended to be really hard.
+We are hoping to make it so NOBODY can solo
+a dragon.  Large groups of players should
+be required to kill any dragon.
+To accomplish this, please set flags 23,
+44, and 45.  Also set a breath weapon flag
+and several other flags to make it tough, like
+resist spells.
+
+All dragons should cast spells, with extended realms.
+
+All dragons should be named, like this:
+Mattree the copper dragon
+
+Don't make ANY wandering dragon mobs.  If you want
+something wandering, and draconic, use the words
+dragonnette, or pseudo-dragon, or wyvern
+True Dragons should be perms.
+
+Also, dragons should be relatively rare.
+Please don't add a dragon to your area
+without DM permission, and DM won't be 
+granted unless you are building a wilderness
+area at least 200 rooms or larger.
+
+-Finn
+
+

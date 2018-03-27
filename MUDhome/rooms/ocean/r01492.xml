@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1492" Version="2.40" Area="ocean">
+  <Name>Sorceress' Chambers</Name>
+  <ShortDescription>You are in the private chamber of the Sorceress.</ShortDescription>
+  <LongDescription>Chances are, the sorceress doesn't like people rummaging through her
+chambers without her permission.  A number of palace guards are stationed
+around her chambers just in case someone should decide to try to 
+steal something from inside here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">130</Mob>
+      <Mob Area="ocean" Num="1">130</Mob>
+      <Mob Area="ocean" Num="2">130</Mob>
+      <Mob Area="ocean" Num="3">130</Mob>
+      <Mob Area="ocean" Num="4">130</Mob>
+      <Mob Area="ocean" Num="5">130</Mob>
+      <Mob Area="ocean" Num="6">170</Mob>
+      <Mob Area="ocean" Num="7">130</Mob>
+      <Mob Area="ocean" Num="8">130</Mob>
+      <Mob Area="ocean" Num="9">130</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">169</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1489</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

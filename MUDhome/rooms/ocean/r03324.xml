@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Room Num="3324" Version="2.40" Area="ocean">
+  <Name>Necropolis Storage</Name>
+  
+  <Established>759796286</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3323</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

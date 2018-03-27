@@ -1,0 +1,11 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  focus          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Focus allows a monk to focus his energy in order to better hit his/her target
+in combat.
+
+Example:
+: focus
+You begin to focus your energy.
+:

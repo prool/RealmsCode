@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="620" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard/Oceancrest Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Oceancrest Avenue and Avatar Boulevard.</ShortDescription>
+  <LongDescription>Oceancrest Avenue runs east and west through the central part of town,
+eventually connecting the Eastern Entrance to the city to the marina in
+the Nylandian Bay in the west.  Avatar Boulevard runs north and south
+through the intersection, spanning the width of the entire city.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">619</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">621</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">719</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">720</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

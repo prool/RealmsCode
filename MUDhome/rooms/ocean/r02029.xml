@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="2029" Version="2.40a" Area="ocean">
+  <Name>Tower Lane/Kista Avenue Intersection</Name>
+  <ShortDescription>This is the intersection of Tower Lane and Kista Avenue.</ShortDescription>
+  <LongDescription>Tower Lane is a major east-west throughfare in the city of Kista.  Directly
+west it dead-ends at the city's Detention and Correctional Facility, where
+society's ingrates are incarcerated.  It doesn't really have a correctional
+program, but it certainly has an excellent detention policy.  Even innocent
+visitors have been known to go in and never come out.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2536</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2565</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2537</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="prison gate">
+      <Keys/>
+      <Room Area="ocean">2015</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

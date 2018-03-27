@@ -1,0 +1,26 @@
+RoH Standard Building Conventions
+
+1) Exits always have the same order:
+   n, e, s, w, ne, nw, se, sw, up, down (other exits)
+   Even if some of these are missing, use this order.
+   *xarrange will order the exits for you.
+2) Names of rooms are always capitalized.
+3) Only NAMED perms have capital letters in their names.
+4) All doors/gates must have openable and closeable 
+   flags set (4 and 6)
+5) Average mob traffic is 20%...35% max unless you ask a DM and
+   have a reason for higher. For areas of high spawn, please
+   set a maximum amount of monsters allowed in the room 
+   at a time.
+6) Perms in an area should never be set to come back around 
+   the same time. Make every perm in a particular area have 
+   a different timeout value.
+7) Never blend the short and long description of a room.
+8) Never place profane or sexually explicit words in a room
+   description.
+9) Do not put 2 spaces after periods or commas. This is a mud,
+   not a formal paper.
+10) Do not use superfluous capitalization in descriptions.
+
+If more is ever added to this, you will all be notified.
+

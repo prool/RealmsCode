@@ -1,0 +1,21 @@
+Help on: *backup
+
+This command allows DMs to backup and restore players from disk.
+Whenever a player level 7 or above dies, is dusted, or suicides,
+they are automatically backed up as (player).bak at the following
+path: /home/realms/realms/player/backup. This command is used to
+take advantage of that while online within the game.
+
+Syntax: *backup <player> [-d|-r]
+
+Examples:
+:*backup ocelot
+Ocelot has been backed up.
+*** Ocelot backed up Ocelot to disk.
+:*backup ocelot -d
+Deleted Ocelot.bak from disk.
+*** Ocelot deleted Ocelot's backup file.
+:*backup olmo -r
+*** Ocelot restored Olmo from auto-backup.
+Restoring Olmo from last auto-backup.
+

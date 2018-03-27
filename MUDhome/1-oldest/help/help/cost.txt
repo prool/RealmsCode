@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  cost           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The cost command allows you to see how much it will cost for a given smithy
+to repair broken equipment. The cost in general is 1/2 that of the value of
+any given item as shown by any pawn shop. This can change, however,
+depending on the skill of any given smithy, or if you have opposing
+alignment to a given smithy.
+
+Syntax:
+cost <object> <smithy>
+

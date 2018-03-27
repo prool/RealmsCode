@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="1426" Version="2.40" Area="ocean">
+  <Name>Main Dining Hall</Name>
+  <ShortDescription>You are in a giant dining hall surrounded by mages and other dignitaries.</ShortDescription>
+  <LongDescription>The dining hall is majestically huge consisting of a number of large
+tables all around the room.  A number of people have already started
+to eat.  At the head, you see a number of the high mages.  Most of
+the people have ignored your intrusion of their dinner.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">167</Mob>
+      <Mob Area="ocean" Num="1">168</Mob>
+      <Mob Area="ocean" Num="2">169</Mob>
+      <Mob Area="ocean" Num="3">130</Mob>
+      <Mob Area="ocean" Num="4">170</Mob>
+      <Mob Area="ocean" Num="5">170</Mob>
+      <Mob Area="ocean" Num="6">168</Mob>
+      <Mob Area="ocean" Num="7">167</Mob>
+      <Mob Area="ocean" Num="8">168</Mob>
+      <Mob Area="ocean" Num="9">166</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1425</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1420</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

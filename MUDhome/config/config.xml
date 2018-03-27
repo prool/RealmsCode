@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Config>
+  <General>
+    <Port>3333</Port>
+    <MudName>Default Mud Name</MudName>
+    <DmPass>dmparoll666</DmPass>
+    <CustomColors>xMYMggYGCycmxgmwg##</CustomColors>
+    <LogDatabaseType></LogDatabaseType>
+    <LogDatabaseUser></LogDatabaseUser>
+    <LogDatabasePassword></LogDatabasePassword>
+    <LogDatabaseDatabase></LogDatabaseDatabase>
+    <AprilFools>No</AprilFools>
+    <AutoShutdown>No</AutoShutdown>
+    <CharCreationDisabled>No</CharCreationDisabled>
+    <CheckDouble>Yes</CheckDouble>
+    <GetHostByName>Yes</GetHostByName>
+    <LessExpLoss>Yes</LessExpLoss>
+    <LogDeath>Yes</LogDeath>
+    <PkillInCombatDisabled>Yes</PkillInCombatDisabled>
+    <RecordAll>No</RecordAll>
+    <LogSuicide>Yes</LogSuicide>
+    <SaveOnDrop>Yes</SaveOnDrop>
+  </General>
+  <Lottery>
+    <CurrentCycle>1</CurrentCycle>
+    <CurrentJackpot>500000</CurrentJackpot>
+    <Enabled>Yes</Enabled>
+    <TicketPrice>500</TicketPrice>
+    <LotteryRunTime>1522605600</LotteryRunTime>
+    <WinningNumbers><LotteryNum Num="0">4</LotteryNum><LotteryNum Num="1">6</LotteryNum><LotteryNum Num="2">8</LotteryNum><LotteryNum Num="3">14</LotteryNum><LotteryNum Num="4">18</LotteryNum><LotteryNum Num="5">20</LotteryNum></WinningNumbers>
+    <Tickets></Tickets>
+  </Lottery>
+</Config>

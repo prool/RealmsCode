@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="377" Version="2.40" Area="ocean">
+  <Name>Orchard Lane</Name>
+  <ShortDescription>The Swallow's Nest can be seen on the north side of Orchard Lane.</ShortDescription>
+  <LongDescription>You are walking casually along Orchard Lane, looking for a little excitement.
+The Swallow's Nest is a rather large bar for some rather large people,
+and might be the excitement you've been looking for.  The Swallow's Nest
+is an exclusive club for city guard officers, so it is unlikely that your
+presence there will be welcome.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">376</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">378</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

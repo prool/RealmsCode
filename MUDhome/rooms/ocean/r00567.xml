@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="567" Version="2.40" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive, east of the famous Avatar Ruins.</ShortDescription>
+  <LongDescription>The strange Avatar Ruins were formed mysteriously by avatars of the gods
+fighting raging battles with each other over superiority.  Avatars, being
+the physical representation of the gods on this world, had powers beyond
+those even dreamed of by anyone, and caused more destruction than any war
+had ever done.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">566</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">568</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

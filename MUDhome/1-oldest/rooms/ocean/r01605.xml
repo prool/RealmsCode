@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1605" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along Overland Drive, east of the Allisk Manor.</ShortDescription>
+  <LongDescription>It has been long rumored that Natasha de Allisk was indeed a vampire, 
+and that she comes out some nights when the weather is just right to
+pick up little children and take then away to drink their blood.  At
+least, this is what parents like to tell their children who stay out
+late at night, regardless of what their parents say.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1604</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1606</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

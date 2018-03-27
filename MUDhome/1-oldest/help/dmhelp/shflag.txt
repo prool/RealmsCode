@@ -1,0 +1,7 @@
+^WProperty Shop Flags^x
+ 1         View Log               Player can view property log
+ 2         Can Stock              Player is allowed to stock items. Stock +
+                                  Remove means the player can reprice items
+ 3         Can Remove             Player is allowed to remove items. Stock +
+                                  Remove means the player can reprice items
+

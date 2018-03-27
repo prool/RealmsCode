@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="922" Version="2.40" Area="ocean">
+  <Name>Hafnia Circle </Name>
+  <ShortDescription>You are on the southern part of the road which encircles the City of Hafnia.</ShortDescription>
+  <LongDescription>The elves are very proud of Hafnia, but they still tell stories of the lost
+city of Caledonia.  Long ago the elves were driven out of Caledonia by the
+mountain trolls, and then the dragons took over the city and will not allow
+them to return.  The road continues to the southeast, and intersects Hafnia
+Boulevard to the north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">941</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5514</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">916</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

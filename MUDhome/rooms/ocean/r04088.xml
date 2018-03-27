@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="4088" Version="2.40" Area="ocean">
+  <Name>Storm Clouds</Name>
+  
+  <Established>773015469</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4086</Room>
+      <Flags>
+        <Bit Num="9"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">4089</Room>
+      <Flags>
+        <Bit Num="8"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

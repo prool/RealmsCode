@@ -1,0 +1,6 @@
+Help on: *unfixup
+
+This command allows you to reverse the effects of *fixup
+on an exit in order to set the exit's flags.
+
+Syntax: *unfixup (multi-word exit)

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1292" Version="2.40" Area="ocean">
+  <Name>Gravel Slope</Name>
+  <ShortDescription>You are on a sloping gravel bank near the Ashton creek.</ShortDescription>
+  <LongDescription>near the top of the slope is a stand of ancient trees, thick with
+moss at ground level.  The gravel bank is bare of vegetation and
+extends for at least a hundred meters in either direction along the
+creek.  Close to the water you can see an exposed vein of what looks
+like gold!  In the distance you can see the path continues through
+the forest in in a northerly direction and also to the southeast.</LongDescription>
+  
+  <Established>756200137</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">570</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1291</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1293</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

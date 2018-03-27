@@ -1,0 +1,3 @@
+^WProperty House Flags^x
+ 1         Private                Private property
+

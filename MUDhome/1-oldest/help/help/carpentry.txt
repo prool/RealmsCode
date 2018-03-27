@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  carpentry        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Capentry is a skill that will allow you to create weapons primarily made of
+wood. Read through ^WHELP CRAFT^x for more information on creating items.
+Pay special attention to these points:
+
+ * Read section #2 about creating an item from a recipe as some carpentry
+   recipes will require you to use a recipe in this manner.
+
+ * Read section #4 about creating items of different sizes as this is
+   possible with some carpentry recipes.

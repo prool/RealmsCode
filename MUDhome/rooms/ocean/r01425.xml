@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="1425" Version="2.40" Area="ocean">
+  <Name>Southern Hall</Name>
+  <ShortDescription>You are in the southern hallway in the Palace of Keslar.</ShortDescription>
+  <LongDescription>The south hall continues to the east and west from here.  In front of
+you are two great oak doors leading into the main dining hall.  To the
+north, you see yet another hallway leading back towards the front
+of the palace.  </LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">166</Mob>
+      <Mob Area="ocean" Num="1">166</Mob>
+      <Mob Area="ocean" Num="2">166</Mob>
+      <Mob Area="ocean" Num="3">130</Mob>
+      <Mob Area="ocean" Num="4">130</Mob>
+      <Mob Area="ocean" Num="5">126</Mob>
+      <Mob Area="ocean" Num="6">126</Mob>
+      <Mob Area="ocean" Num="7">130</Mob>
+      <Mob Area="ocean" Num="8">166</Mob>
+      <Mob Area="ocean" Num="9">167</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1417</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1424</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1427</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1426</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

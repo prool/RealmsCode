@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="446" Version="2.40" Area="ocean">
+  <Name>Adlermann Way</Name>
+  <ShortDescription>You are traveling along Adlermann Way, west of Josie's Ropery Shop.</ShortDescription>
+  <LongDescription>Josie's Ropery provides people with high quality rope and other climbing
+goods to get around the caverns beneath the city as well as in the mountains
+to the east of the city.  Both are potentially very dangerous and one 
+should always carry rope and other mountain climbing equipment if they 
+intend to climb.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">445</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">447</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

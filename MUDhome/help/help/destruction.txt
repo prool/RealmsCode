@@ -1,0 +1,6 @@
+^WSpells:^x
+    toxic-cloud
+
+See also:
+    HELP DOMAINS
+

@@ -1,0 +1,46 @@
+The DM Help File:
+       Commands:
+..--..--....--..--....--..--....--..--....--..--....--..--
+ac           delete       move         rflags
+active       disconnect   msg          rm
+add          dmfinger     notepad      rmhist
+adminpolicy  dust         oname        rmmail
+advance      echo         oset         save
+append       eggdrop      outlaw       send
+armag        enemy        parameter    set
+attack       exitload     pass         shutdown
+award        find         perm         silence
+backup       fixup        pflags       size
+balance      flushcrtobj  possess      sockets
+bank         flushrooms   prepend      spelling
+bank         force        proxy        spy
+beep         freebroad    pset         status
+broad        gag          purge        substitute
+bug          gamestat     put          take
+cfollow      gcast        questlist    talk
+charm        group        questload    teleport
+clanlist     incog        questsave    tell
+clanload     info         range        title
+clans        invis        rape         unfixup
+clansave     kill         readmail     users
+clear        list         reboot       warn
+cname        log          reload       word
+combust      memory       remove       wrap
+create       message      repair       xarrange
+cset         monster      replace      xdelete
+                                       xrename
+..--..--....--..--....--..--....--..--....--..--....--..--
+       Topics:
+..--..--....--..--....--..--....--..--....--..--....--..--
+build_help   expold       playing      standards
+builderpol   gods         pledge       taskarchive
+bulk         guide        potions      train
+char         index        quest        trainloc
+combining    keybad       rflags       traps
+creator      languages    rohprojects  watcher_news
+customs      mflags       scrolls      wear
+directive    mtypes       sflags       xflags
+dm_helpfile  news         shoplift     yelling
+dragons      oflags       sneeded
+exp          otypes       songs
+

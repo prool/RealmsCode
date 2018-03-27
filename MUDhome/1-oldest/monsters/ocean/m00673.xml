@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<Creature Num="673" Area="ocean" Version="2.40">
+  <Name>Silventh the Warlock</Name>
+  <Level>20</Level>
+  <Type>1</Type>
+  <Experience>1800</Experience>
+  <Coins>
+    <Coin Num="2">4000</Coin>
+  </Coins>
+  <Alignment>-200</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>220</Current>
+      <Max>220</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>220</Current>
+      <Max>220</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>280</Current>
+      <Max>280</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>300</Current>
+      <Max>300</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>He looks to be about 20 years old, with a powerful muscular body.</Description>
+  <Keys>
+    <Key Num="0">silventh</Key>
+    <Key Num="1">warlock</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>590</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>3</Number>
+    <Sides>2</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>you like my new body?  An adventurer like yourself brought it to me</Talk>
+  <DefenseSkill>195</DefenseSkill>
+  <AttackPower>250</AttackPower>
+  <WeaponSkill>195</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">400</Carry>
+    <Carry Area="ocean" Num="1">400</Carry>
+    <Carry Area="ocean" Num="2">400</Carry>
+    <Carry Area="ocean" Num="3">400</Carry>
+    <Carry Area="ocean" Num="4">400</Carry>
+    <Carry Area="ocean" Num="5">375</Carry>
+    <Carry Area="ocean" Num="6">375</Carry>
+    <Carry Area="ocean" Num="7">375</Carry>
+    <Carry Area="ocean" Num="8">375</Carry>
+    <Carry Area="ocean" Num="9">375</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="6"/>
+    <Bit Num="33"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="17"/>
+    <Bit Num="22"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

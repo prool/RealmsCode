@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="775" Version="2.40" Area="ocean">
+  <Name>Citadel Hallway</Name>
+  <ShortDescription>You are in a glimmering hallway of gold and jewels.</ShortDescription>
+  <LongDescription>The Citadel's Hallway continues to the north and south.  To the north,
+you can see two great gates, but can't quite make out exactly where
+they go.  You can see some writing on the walls up ahead, but that's
+about it.  To the south, you can see two large oak doors that appear
+to lead out back into the city.  The walls are surrounded with gold
+and jewels.  Portraits of apparently great dragons line the walls on
+both sides.  You fees a cold gust of wind hit you as you continue to
+explore this strange place.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">774</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">776</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

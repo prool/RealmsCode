@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="193" Version="2.40" Area="ocean">
+  <Name>Wide Stairs</Name>
+  <ShortDescription>You are on the wide stairs of Madame Ruthie's House of Pleasure.</ShortDescription>
+  <LongDescription>Below you is the main ball room where a wild party is in full swing, and
+above you is a long hallway with at least a dozen bedrooms.  There is a
+bright red carpet covering the stairs, but it looks like blood has stained
+it a darker red in places.  Madame Ruthie hires some tough bouncers.</LongDescription>
+  
+  <Established>761955354</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">79</Mob>
+      <Mob Area="ocean" Num="1">79</Mob>
+      <Mob Area="ocean" Num="2">79</Mob>
+      <Mob Area="ocean" Num="3">79</Mob>
+      <Mob Area="ocean" Num="4">79</Mob>
+      <Mob Area="ocean" Num="5">79</Mob>
+      <Mob Area="ocean" Num="6">79</Mob>
+      <Mob Area="ocean" Num="7">79</Mob>
+      <Mob Area="ocean" Num="8">79</Mob>
+      <Mob Area="ocean" Num="9">79</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">192</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">194</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

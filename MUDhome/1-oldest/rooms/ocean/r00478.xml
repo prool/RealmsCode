@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="478" Version="2.40" Area="ocean">
+  <Name>Islandia Drive</Name>
+  <ShortDescription>You are traveling along Islandia Drive, north of the Kimbler Locksmith.</ShortDescription>
+  <LongDescription>The Kimbler Family Locksmith provides some of the best, most secure storage
+chests and safes in the land.  They are also well known for being able to
+open almost any lock in the world.  On the north side of the road is the
+North Oceancrest Hot Springs and Spa, where you can go for a short break
+in some warm, natural springs.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">477</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">427</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">316</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

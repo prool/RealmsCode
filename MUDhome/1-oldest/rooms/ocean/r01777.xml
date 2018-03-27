@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Room Num="1777" Version="2.44b" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are traveling along Netherworld Lane, south of a large housing complex.</ShortDescription>
+  <LongDescription>Housing is usually not a problem in Oceancrest as long as you don't mind
+living in one of the two large housing complexes.  There is no room for
+individual houses within the borders of Oceancrest, so many people build
+houses outside of the city.  However, most feel more secure living inside
+the City Walls and have learned to survive, in relative comfort, in these
+housing complexes.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:45 2009
+</LastPlayerTime>
+  <BeenHere>1</BeenHere>
+  <Wander></Wander>
+  <Track><Direction>west</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">1776</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1778</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

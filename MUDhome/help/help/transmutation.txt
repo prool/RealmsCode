@@ -1,0 +1,29 @@
+^WSpells:^x
+    blind
+    breathe-water
+    damnation
+    deafness
+    disintegrate
+    enfeeblement
+    enlarge
+    entangle
+    feeblemind
+    fly
+    fortitude
+    haste
+    infravision
+    insight
+    knock
+    levitate
+    pass-without-trace
+    prayer
+    reduce
+    slow
+    stone-to-flesh
+    strength
+    weakness
+    well-of-magic
+
+See also:
+    HELP SCHOOLS
+

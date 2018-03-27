@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3628" Version="2.40" Area="ocean">
+  <Name>Southern Courtyard</Name>
+  <ShortDescription>You are directly south of the great statue of King Lyanden.</ShortDescription>
+  <LongDescription>Further south is a tranquil rest area surrounded by trees and a hedge.
+This part of the courtyard is often used as an area for falcon training,
+and falconeers come here to show off and trade their birds of prey.  A
+coop of pigeons stands off to the side, with a number of unsuspecting
+birds inside.  A hedge blocks the way to the east, but looking west you
+can see the castle's garden.</LongDescription>
+  
+  <Established>762645890</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3621</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3629</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="statue">
+      <Keys/>
+      <Room Area="ocean">3627</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,8 @@
+Help on DM command:
+	RAPE
+
+Insantly reduces a player's HP and MP to 1, but does not kill them.
+
+: *rape min
+*** Dominus raped Min!
+

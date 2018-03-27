@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="536" Version="2.40a" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are walking along Lelion Way, around the back side of a large complex.</ShortDescription>
+  <LongDescription>It looks like a large shopping center, but you're on the wrong side of
+the complex to enter it.  On the south, you can see a sign which reads
+"Deni's World of Spices".  To the north, you can see (and smell) the
+Lyanden Swamp, a mushy wasteland of useless land.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">535</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">537</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

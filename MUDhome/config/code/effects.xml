@@ -1,0 +1,1573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Effects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <Effect>
+      <Display>^BAlways Cold^x</Display>
+      <Name>alwayscold</Name>
+      <OldFunction>effectNatural</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^b*ACTOR*'s temperature drops.^x</RoomAddStr>
+      <SelfAddStr>^bYour temperature drops.^x</SelfAddStr>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>warmth</BaseEffect>
+      <Display>^RAlways Warm^x</Display>
+      <Name>alwayswarm</Name>
+      <OldFunction>effectNatural</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^r*ACTOR*'s temperature raises.^x</RoomAddStr>
+      <SelfAddStr>^rYour temperature raises.^x</SelfAddStr>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>anchor</BaseEffect>
+      <ComputeScript>effectLib.computeDisable(actor, effect, applier)</ComputeScript>
+      <Display>^cDimensional-anchor^x</Display>
+      <Name>anchor</Name>
+      <OldFunction>effectDisable</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR* feels stable.^x</RoomAddStr>
+      <RoomDelStr>^c*ACTOR* is no longer magically anchored.^x</RoomDelStr>
+      <SelfAddStr>^cYou feel stable.^x</SelfAddStr>
+      <SelfDelStr>^cYou are no longer magically anchored.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <Display>^BArmor^x</Display>
+      <Name>armor</Name>
+      <OldFunction>effectShield</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^B*ACTOR* is surrounded by magical armor.^x</RoomAddStr>
+      <RoomDelStr>^B*ACTOR*'s magical armor dissipates.^x</RoomDelStr>
+      <SelfAddStr>^BYou are surrounded by magical armor.^x</SelfAddStr>
+      <SelfDelStr>^BYour magical armor dissipates.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <BaseEffect>fly</BaseEffect>
+      <BaseEffect>levitate</BaseEffect>
+      <ComputeScript>effect.setStrength(actor.getLevel()/4)</ComputeScript>
+      <Display>^cAvian Aria^x</Display>
+      <Name>avianaria</Name>
+      <OldFunction>effectGravity</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR* is lifted off *A-HISHER* feet by Avian Aria.^x</RoomAddStr>
+      <RoomDelStr>^c*ACTOR* floats down to the ground.^x</RoomDelStr>
+      <SelfAddStr>^cAvian Aria lifts you off your feet.^x</SelfAddStr>
+      <SelfDelStr>^cYou slowly float to the ground.^x</SelfDelStr>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <Display>^yBarkskin^x</Display>
+      <Name>barkskin</Name>
+      <OldFunction>effectShield</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^y*ACTOR*'s skin toughens.^x</RoomAddStr>
+      <RoomDelStr>^y*ACTOR*'s barkskin erodes away.^x</RoomDelStr>
+      <SelfAddStr>^yYour skin toughens.^x</SelfAddStr>
+      <SelfDelStr>^yYour barkskin erodes away.^x</SelfDelStr>
+      <Type>Positive</Type>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.addStatModEffect(effect)</ApplyScript>
+      <BaseEffect>strength</BaseEffect>
+      <Display>^RBerserk^x</Display>
+      <Name>berserk</Name>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^r*ACTOR* swells with rage.^x</RoomAddStr>
+      <RoomDelStr>^r*ACTOR*'s rage diminishes.^x</RoomDelStr>
+      <SelfAddStr>^rThe rage inside you swells.^x</SelfAddStr>
+      <SelfDelStr>^rYour rage diminishes.^x</SelfDelStr>
+      <Type>Positive</Type>
+      <UnApplyScript>actor.remStatModEffect(effect)</UnApplyScript>
+   </Effect>
+   <Effect>
+      <BaseEffect>bless</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeBeneficial(actor, effect, applier)</ComputeScript>
+      <Display>^YBlessed^x</Display>
+      <Name>bless</Name>
+      <OldFunction>effectBeneficial</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^WA halo appears over *LOW-ACTOR*'s head.^x</RoomAddStr>
+      <RoomDelStr>^Y*ACTOR* is no longer blessed.^x</RoomDelStr>
+      <SelfAddStr>^WYou feel holy.^x</SelfAddStr>
+      <SelfDelStr>^YYou feel less holy.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.unBlind()</ApplyScript>
+      <BaseEffect>blindness</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeDisable(actor, effect, applier)</ComputeScript>
+      <Display>^YBlinded!^x</Display>
+      <Name>blindness</Name>
+      <OldFunction>effectDisable</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^y*ACTOR* has gone blind.^x</RoomAddStr>
+      <RoomDelStr>^y*ACTOR* can see again.^x</RoomDelStr>
+      <SelfAddStr>^yYou have gone blind!^x</SelfAddStr>
+      <SelfDelStr>^yYou can see again!^x</SelfDelStr>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.addStatModEffect(effect)</ApplyScript>
+      <ComputeScript>retVal = effectLib.computeBloodSac(actor, effect, applier)</ComputeScript>
+      <Display>^RBlood Sacrifice^x</Display>
+      <Name>bloodsac</Name>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^r*ACTOR*'s body is infused with increased vitality.^x</RoomAddStr>
+      <RoomDelStr>^r*ACTOR*'s demonic power fades.^x</RoomDelStr>
+      <SelfAddStr>^rYour body is infused with increased vitality!^x</SelfAddStr>
+      <SelfDelStr>^rYour demonic power leaves you.^x</SelfDelStr>
+      <Type>Negative</Type>
+      <UnApplyScript>actor.remStatModEffect(effect)</UnApplyScript>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeVisibility(actor, effect, applier) </ComputeScript>
+      <Display>^CBlur^x</Display>
+      <Name>blur</Name>
+      <OldFunction>effectVisibility</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^C*ACTOR*'s outline begins to blur.^x</RoomAddStr>
+      <RoomDelStr>^W*ACTOR*'s outline comes into focus.^x</RoomDelStr>
+      <SelfAddStr>^CYour form suddenly blurs.^x</SelfAddStr>
+      <SelfDelStr>^CYour form comes into focus.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <BaseEffect>breathe-water</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeBeneficial(actor, effect, applier)</ComputeScript>
+      <Display>^BBreathe-Water^x</Display>
+      <Name>breathe-water</Name>
+      <OldFunction>effectBeneficial</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^b*ACTOR*'s lungs increase in size.^x</RoomAddStr>
+      <RoomDelStr>^B*ACTOR*'s lungs contract in size.^x</RoomDelStr>
+      <SelfAddStr>^bYour lungs increase in size.^x</SelfAddStr>
+      <SelfDelStr>^BYour lungs contract in size.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeVisibility(actor, effect, applier)</ComputeScript>
+      <Display>^GCamouflage^x</Display>
+      <Name>camouflage</Name>
+      <OldFunction>effectVisibility</OldFunction>
+      <Pulsed>true</Pulsed>
+      <PulseDelay>20</PulseDelay>
+      <PulseScript>if effect.getDuration() &lt;= 60 and actor.getClass() == mud.crtClasses.DRUID and actor.getRoom().isForest():
+	effect.setDuration(60)</PulseScript>
+      <RoomAddStr>^g*ACTOR* blends in with the surroundings.^x</RoomAddStr>
+      <RoomDelStr>^g*ACTOR* no longer blends in with the surroundings.^x</RoomDelStr>
+      <SelfAddStr>^gYou blend in with your surroundings.^x</SelfAddStr>
+      <SelfDelStr>^gYou no longer blend in with your surroundings.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>comprehend-languages</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeLanguages(actor, effect, applier)</ComputeScript>
+      <Display>^gComprehend-Languages^x</Display>
+      <Name>comprehend-languages</Name>
+      <OldFunction>effectLanguages</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^g*ACTOR* gains newfound understanding.^x</RoomAddStr>
+      <RoomDelStr>^g*ACTOR* looks dumbfounded.^x</RoomDelStr>
+      <SelfAddStr>^gYou feel understanding flow within you.^x</SelfAddStr>
+      <SelfDelStr>^gYour understanding leaves you.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <Name>concealed</Name>
+   </Effect>
+   <Effect>
+      <BaseEffect>confusion</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeDisable(actor, effect, applier)</ComputeScript>
+      <Display>^CConfused!^x</Display>
+      <Name>confusion</Name>
+      <OldFunction>effectDisable</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^cA confused look overcomes *LOW-ACTOR*.^x</RoomAddStr>
+      <RoomDelStr>^cThe fog over your mind lifts.^x</RoomDelStr>
+      <SelfAddStr>^cYour mind clouds.^x</SelfAddStr>
+      <SelfDelStr>^cThe fog over your mind lifts.^x</SelfDelStr>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>courage</BaseEffect>
+      <Display>^YCourage^x</Display>
+      <Name>courage</Name>
+      <OldFunction>effectGeneric</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^Y*ACTOR* suddenly looks very brave.^x</RoomAddStr>
+      <RoomDelStr>^Y*ACTOR* is no longer unnaturally brave.^x</RoomDelStr>
+      <SelfAddStr>^YYou suddenly feel very brave.^x</SelfAddStr>
+      <SelfDelStr>^YYou are no longer unnaturally brave.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>curse</BaseEffect>
+      <Display>^DCreeping-Doom^x</Display>
+      <Name>creeping-doom</Name>
+      <OldFunction>effectCurse</OldFunction>
+      <Pulsed>true</Pulsed>
+      <PulseDelay>20</PulseDelay>
+      <PulseScript>effectLib.pulseCreepingDoom(actor, effect)</PulseScript>
+      <RoomAddStr>^WThe cursed spiders leave your body.^x</RoomAddStr>
+      <SelfAddStr/>
+      <Type>Negative</Type>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.addStatModEffect(effect)</ApplyScript>
+      <ComputeScript>retVal = effectLib.computeStatLower(actor, effect, applier)</ComputeScript>
+      <Display>^rDamnation^x</Display>
+      <Name>damnation</Name>
+      <OldFunction>effectStatLower</OldFunction>
+      <OppositeEffect>prayer</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^r*ACTOR* has been damned by the gods!^x</RoomAddStr>
+      <RoomDelStr>^r*ACTOR*'s spiritual punishment has ended.^x</RoomDelStr>
+      <SelfAddStr>^rYou are damned by the gods!^x</SelfAddStr>
+      <SelfDelStr>^rYour spiritual punishment has ended.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Negative</Type>
+      <UnApplyScript>actor.remStatModEffect(effect)</UnApplyScript>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <BaseEffect>darkness</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeDarkInfra(actor, effect, applier)</ComputeScript>
+      <Display>^DDarkness^x</Display>
+      <Name>darkness</Name>
+      <OldFunction>effectDarkInfra</OldFunction>
+      <PostApplyScript>actor.getRoom().setTempNoKillDarkmetal(False)</PostApplyScript>
+      <PreApplyScript>actor.getRoom().setTempNoKillDarkmetal(True)</PreApplyScript>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^D*ACTOR* is engulfed in darkness.^x</RoomAddStr>
+      <RoomDelStr>^YThe globe of darkness around *LOW-ACTOR* fades.^x</RoomDelStr>
+      <SelfAddStr>^DYou are engulfed in darkness.</SelfAddStr>
+      <SelfDelStr>^YThe globe of darkness around you fades.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Negative</Type>
+      <UnApplyScript>actor.getRoom().killMortalObjects()</UnApplyScript>
+   </Effect>
+   <Effect>
+      <BaseEffect>deafness</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeDisable(actor, effect, applier)</ComputeScript>
+      <Display>^YDeafened!^x</Display>
+      <Name>deafness</Name>
+      <OldFunction>effectDisable</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^y*ACTOR* has gone deaf.^x</RoomAddStr>
+      <RoomDelStr>^yYou can hear again!^x</RoomDelStr>
+      <SelfAddStr>^yYou lose your hearing!^x</SelfAddStr>
+      <SelfDelStr>^yYou can hear again!^x</SelfDelStr>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>death-sickness</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeDeathSickness(actor, effect, applier)</ComputeScript>
+      <Display>^#^DDeath Sickness!^x</Display>
+      <Name>death-sickness</Name>
+      <OldFunction>effectDeathSickness</OldFunction>
+      <Pulsed>true</Pulsed>
+      <PulseDelay>20</PulseDelay>
+      <PulseScript>effectLib.pulseDeathSickness(actor, effect)</PulseScript>
+      <RoomDelStr>^W*ACTOR* looks much better.^x</RoomDelStr>
+      <SelfAddStr>^DYou have become afflicted with death sickness.^x</SelfAddStr>
+      <SelfDelStr>^WYou recover from your death sickness.^x</SelfDelStr>
+      <Type>Negative</Type>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <Display>^CDense Fog^x</Display>
+      <Name>dense-fog</Name>
+      <RoomAddStr>^WFog begins to fill the area.^x</RoomAddStr>
+      <RoomDelStr>^WThe fog clears the area.^x</RoomDelStr>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <BaseEffect>detect-invisible</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeDetect(actor, effect, applier)</ComputeScript>
+      <Display>^MDetect-Invisible^x</Display>
+      <Name>detect-invisible</Name>
+      <OldFunction>effectDetect</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^y*ACTOR*'s eyes glow yellow.^x</RoomAddStr>
+      <RoomDelStr>^W*ACTOR*'s eyes lose their yellowish glow.^x</RoomDelStr>
+      <SelfAddStr>^yThe invisible slowly reveals itself to you.^x</SelfAddStr>
+      <SelfDelStr>^WThe invisible fades from view.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>detect-magic</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeDetect(actor, effect, applier)</ComputeScript>
+      <Display>^rDetect-Magic^x</Display>
+      <Name>detect-magic</Name>
+      <OldFunction>effectDetect</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^r*ACTOR*'s eyes glow red.^x</RoomAddStr>
+      <RoomDelStr>^W*ACTOR*'s eyes lose their reddish glow.^x</RoomDelStr>
+      <SelfAddStr>^rYour eyes glow red.^x</SelfAddStr>
+      <SelfDelStr>^WYou can no longer sense the magical.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>disease</BaseEffect>
+      <Display>^rDisease^x</Display>
+      <Name>disease</Name>
+      <OldFunction>effectDisease</OldFunction>
+      <Pulsed>true</Pulsed>
+      <PulseDelay>20</PulseDelay>
+      <PulseScript>effectLib.pulseDisease(actor, effect)</PulseScript>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.addStatModEffect(effect)</ApplyScript>
+      <BaseEffect>strength</BaseEffect>
+      <Display>^RBerserk^x</Display>
+      <Name>dkpray</Name>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^r*ACTOR* glows with evil.^x</RoomAddStr>
+      <RoomDelStr>^rThe evil glow about *ACTOR* diminishes.^x</RoomDelStr>
+      <SelfAddStr>^rThe evil in your soul infuses your body with power.^x</SelfAddStr>
+      <SelfDelStr>^rYour demonic strength leaves you.^x</SelfDelStr>
+      <Type>Positive</Type>
+      <UnApplyScript>actor.remStatModEffect(effect)</UnApplyScript>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeBeneficial(actor, effect, applier)</ComputeScript>
+      <Display>^WDrain-Shield^x</Display>
+      <Name>drain-shield</Name>
+      <OldFunction>effectBeneficial</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^WAn aura of positive energy surrounds *LOW-ACTOR*.^x</RoomAddStr>
+      <RoomDelStr>^DThe aura of positive energy around *LOW-ACTOR* dissipates.^x</RoomDelStr>
+      <SelfAddStr>^WAn aura of positive energy surrounds you.^x</SelfAddStr>
+      <SelfDelStr>^DThe aura of positive energy around you dissipates.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>drunkenness</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeDisable(actor, effect, applier)</ComputeScript>
+      <Display>^o</Display>
+      <Name>drunkenness</Name>
+      <OldFunction>effectDisable</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^o*ACTOR* hiccups and staggers.^x</RoomAddStr>
+      <RoomDelStr>^C*ACTOR* no longer feels light-headed.^x</RoomDelStr>
+      <SelfAddStr>^oYou feel light-headed and your vision blurs.^x</SelfAddStr>
+      <SelfDelStr>^CYou no longer feel light-headed.^x</SelfDelStr>
+      <Type>Negative</Type>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeBeneficial(actor, effect, applier)</ComputeScript>
+      <Display>^GEarth-Shield^x</Display>
+      <Name>earth-shield</Name>
+      <OldFunction>effectBeneficial</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^G*ACTOR*'s flesh strengthens.^x</RoomAddStr>
+      <RoomDelStr>^G*ACTOR*'s skin softens.^x</RoomDelStr>
+      <SelfAddStr>^GYour flesh strengthens.^x</SelfAddStr>
+      <SelfDelStr>^GYour skin softens.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.addStatModEffect(effect)</ApplyScript>
+      <ComputeScript>retVal = effectLib.computeStatLower(actor, effect, applier)</ComputeScript>
+      <Display>^GEnfeeblement^x</Display>
+      <Name>enfeeblement</Name>
+      <OldFunction>effectStatLower</OldFunction>
+      <OppositeEffect>strength</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^G*ACTOR* looks much weaker.^x</RoomAddStr>
+      <RoomDelStr>^G*ACTOR*'s weakness fades.^x</RoomDelStr>
+      <SelfAddStr>^GYou feel weaker!^x</SelfAddStr>
+      <SelfDelStr>^GYour weakness fades.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Negative</Type>
+      <UnApplyScript>actor.remStatModEffect(effect)</UnApplyScript>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.changeSize(0, effect.getStrength(), True)</ApplyScript>
+      <BaseEffect>sizeChange</BaseEffect>
+      <Display>^CEnlarge^x</Display>
+      <Name>enlarge</Name>
+      <OldFunction>effectNatural</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^C*ACTOR* grows in size!^x</RoomAddStr>
+      <RoomDelStr>^C*ACTOR* shrinks in size.^x</RoomDelStr>
+      <SelfAddStr>^CYou grow in size!^x</SelfAddStr>
+      <SelfDelStr>^CYou shrink in size.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Neutral</Type>
+      <UnApplyScript>actor.changeSize(0, effect.getStrength(), False)</UnApplyScript>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.changeSize(0, effect.getStrength(), False)</ApplyScript>
+      <BaseEffect>sizeChange</BaseEffect>
+      <Display>^cReduce^x</Display>
+      <Name>reduce</Name>
+      <OldFunction>effectNatural</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^C*ACTOR* shrinks in size!^x</RoomAddStr>
+      <RoomDelStr>^C*ACTOR* grows in size.^x</RoomDelStr>
+      <SelfAddStr>^CYou shrink in size!^x</SelfAddStr>
+      <SelfDelStr>^CYou grow in size.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Neutral</Type>
+      <UnApplyScript>actor.changeSize(0, effect.getStrength(), True)</UnApplyScript>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <BaseEffect>farsight</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeDetect(actor, effect, applier)</ComputeScript>
+      <Display>^WFarsight^x</Display>
+      <Name>farsight</Name>
+      <OldFunction>effectDetect</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^W*ACTOR*'s vision improves.^x</RoomAddStr>
+      <RoomDelStr>^c*ACTOR*'s vision returns to normal.^x</RoomDelStr>
+      <SelfAddStr>^WYour vision improves.^x</SelfAddStr>
+      <SelfDelStr>^cYour vision returns to normal.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>fear</BaseEffect>
+      <Display>^YFear^x</Display>
+      <Name>fear</Name>
+      <OldFunction>effectGeneric</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^r*ACTOR* suddenly looks very afraid.^x</RoomAddStr>
+      <RoomDelStr>^y*ACTOR*'s courage returns.^x</RoomDelStr>
+      <SelfAddStr>^yYou suddenly feel very afraid.^x</SelfAddStr>
+      <SelfDelStr>^yYou feel your courage return.^x</SelfDelStr>
+      <Type>Negative</Type>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.addStatModEffect(effect)</ApplyScript>
+      <ComputeScript>retVal = effectLib.computeStatLower(actor, effect, applier)</ComputeScript>
+      <Display>^mFeeblemind^x</Display>
+      <Name>feeblemind</Name>
+      <OldFunction>effectStatLower</OldFunction>
+      <OppositeEffect>insight</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^m*ACTOR* blankly stares off into space.^x</RoomAddStr>
+      <RoomDelStr>^mThe fog in *LOW-ACTOR*'s mind fades.^x</RoomDelStr>
+      <SelfAddStr>^mYour minds becomes feeble.^x</SelfAddStr>
+      <SelfDelStr>^mThe fog in your mind fades.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Negative</Type>
+      <UnApplyScript>actor.remStatModEffect(effect)</UnApplyScript>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <Display>^yFire Shield^x</Display>
+      <Name>fire-shield</Name>
+      <OldFunction>effectShield</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^r*ACTOR* is protected by a fiery barrier.^x</RoomAddStr>
+      <RoomDelStr>^y*ACTOR*'s shield of fire dissipates.^x</RoomDelStr>
+      <SelfAddStr>^RYou are protected by a fiery barrier.^x</SelfAddStr>
+      <SelfDelStr>^yYour shield of fire dissipates.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <BaseEffect>fly</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeGravity(actor, effect, applier)</ComputeScript>
+      <Display>^yFly^x</Display>
+      <Name>fly</Name>
+      <OldFunction>effectGravity</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^y*ACTOR* begins to fly.^x</RoomAddStr>
+      <RoomDelStr>^y*ACTOR* floats down to the ground.^x</RoomDelStr>
+      <SelfAddStr>^yYou begin to fly.^x</SelfAddStr>
+      <SelfDelStr>^yYou slowly float to the ground.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.addStatModEffect(effect)</ApplyScript>
+      <ComputeScript>retVal = effectLib.computeStatRaise(actor, effect, applier)</ComputeScript>
+      <Display>^GFortitude^x</Display>
+      <Name>fortitude</Name>
+      <OldFunction>effectStatRaise</OldFunction>
+      <OppositeEffect>weakness</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^G*ACTOR* is vitalized by magical health.^x</RoomAddStr>
+      <RoomDelStr>^g*ACTOR*'s magical health fades.^x</RoomDelStr>
+      <SelfAddStr>^GYou are vitalized by magical health.^x</SelfAddStr>
+      <SelfDelStr>^gYour magical health fades.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+      <UnApplyScript>actor.remStatModEffect(effect)</UnApplyScript>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.addStatModEffect(effect)</ApplyScript>
+      <BaseEffect>dexterity</BaseEffect>
+      <BaseEffect>haste</BaseEffect>
+      <Display>^gFrenzy^x</Display>
+      <Name>frenzy</Name>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^g*ACTOR* attacks in a frenzy.^x</RoomAddStr>
+      <RoomDelStr>^r*ACTOR* calms down.^x</RoomDelStr>
+      <SelfAddStr>^gYou begin to attack in a frenzy.^x</SelfAddStr>
+      <SelfDelStr>^gYou feel slower.^x</SelfDelStr>
+      <Type>Positive</Type>
+      <UnApplyScript>actor.remStatModEffect(effect)</UnApplyScript>
+   </Effect>
+   <Effect>
+      <Display>^DGlobe of Silence^x</Display>
+      <Name>globe-of-silence</Name>
+      <RoomAddStr>^DSounds in the area begin to fade.^x</RoomAddStr>
+      <RoomDelStr>^WSounds in the area return.^x</RoomDelStr>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeVisibility(actor, effect, applier) </ComputeScript>
+      <Display>^MGreater-Invisiblity^x</Display>
+      <Name>greater-invisibility</Name>
+      <OldFunction>effectVisibility</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^W*ACTOR* fades from view.^x</RoomAddStr>
+      <RoomDelStr>^W*ACTOR* fades into view.^x</RoomDelStr>
+      <SelfAddStr>^WYou fade from view.^x</SelfAddStr>
+      <SelfDelStr>^WYou fade into view.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <Display>^YHallow^x</Display>
+      <Name>hallow</Name>
+      <RoomAddStr>^YA holy aura fills the room.^x</RoomAddStr>
+      <RoomDelStr>^WThe holy aura in the room fades.^x</RoomDelStr>
+      <Spell>true</Spell>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.addStatModEffect(effect)</ApplyScript>
+      <ComputeScript>retVal = effectLib.computeStatRaise(actor, effect, applier)</ComputeScript>
+      <Display>^CHaste^x</Display>
+      <Name>haste</Name>
+      <OldFunction>effectStatRaise</OldFunction>
+      <OppositeEffect>slow</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR* starts moving much faster.^x</RoomAddStr>
+      <RoomDelStr>^cThe world catches up to *LOW-ACTOR*.^x</RoomDelStr>
+      <SelfAddStr>^cThe world slows down around you.^x</SelfAddStr>
+      <SelfDelStr>^cThe world catches up to you.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+      <UnApplyScript>actor.remStatModEffect(effect)</UnApplyScript>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeBeneficial(actor, effect, applier)</ComputeScript>
+      <Display>^RHeat-Protection^x</Display>
+      <Name>heat-protection</Name>
+      <OldFunction>effectBeneficial</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^M*ACTOR*'s skin toughens.^x</RoomAddStr>
+      <RoomDelStr>^y*ACTOR*'s skin softens.^x</RoomDelStr>
+      <SelfAddStr>^MYour skin toughens.^x</SelfAddStr>
+      <SelfDelStr>^yYou are no longer protected from fire.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>hold-person</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeDisable(actor, effect, applier)</ComputeScript>
+      <Display>^YMagically Held!^x</Display>
+      <Name>hold-person</Name>
+      <OldFunction>effectDisable</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR* is unable to move.^x</RoomAddStr>
+      <RoomDelStr>^c*ACTOR* is able to move again.^x</RoomDelStr>
+      <SelfAddStr>^cYou are unable to move.^x</SelfAddStr>
+      <SelfDelStr>^cYou are able to move again.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeVisibility(actor, effect, applier)</ComputeScript>
+      <Display>^CIllusion^x</Display>
+      <Name>illusion</Name>
+      <OldFunction>effectVisibility</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^W*ACTOR* suddenly looks different.^x</RoomAddStr>
+      <RoomDelStr>^W*ACTOR* suddenly looks different.^x</RoomDelStr>
+      <SelfAddStr>^CYou are surrounded by an illusion.^x</SelfAddStr>
+      <SelfDelStr>^CYour illusion fades.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Neutral</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^yImmune-Air^x</Display>
+      <Name>immune-air</Name>
+      <OldFunction>effectResist</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^cImmune-Chopping^x</Display>
+      <Name>immune-chopping</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^bImmune-Cold^x</Display>
+      <Name>immune-cold</Name>
+      <OldFunction>effectResist</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^cImmune-Crushing^x</Display>
+      <Name>immune-crushing</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^YImmune-Earth^x</Display>
+      <Name>immune-earth</Name>
+      <OldFunction>effectResist</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^cImmune-Electric^x</Display>
+      <Name>immune-electric</Name>
+      <OldFunction>effectResist</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^cImmune-Exotic^x</Display>
+      <Name>immune-exotic</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^rImmune-Fire^x</Display>
+      <Name>immune-fire</Name>
+      <OldFunction>effectResist</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^cImmune-Piercing^x</Display>
+      <Name>immune-piercing</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^cImmune-Ranged^x</Display>
+      <Name>immune-ranged</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^cImmune-Slashing^x</Display>
+      <Name>immune-slashing</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^BImmune-Water^x</Display>
+      <Name>immune-water</Name>
+      <OldFunction>effectResist</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>infravision</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeDarkInfra(actor, effect, applier)</ComputeScript>
+      <Display>^YInfravision^x</Display>
+      <Name>infravision</Name>
+      <OldFunction>effectDarkInfra</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^Y*ACTOR*'s eyes glow yellow.^x</RoomAddStr>
+      <RoomDelStr>^Y*ACTOR*'s magic vision fades.^x</RoomDelStr>
+      <SelfAddStr>^YYour eyes glow yellow.</SelfAddStr>
+      <SelfDelStr>^DThe world darkens around you.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.addStatModEffect(effect)</ApplyScript>
+      <ComputeScript>retVal = effectLib.computeStatRaise(actor, effect, applier)</ComputeScript>
+      <Display>^mInsight^x</Display>
+      <Name>insight</Name>
+      <OldFunction>effectStatRaise</OldFunction>
+      <OppositeEffect>feeblemind</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^Y*ACTOR* is filled with magical insight.^x</RoomAddStr>
+      <RoomDelStr>^m*ACTOR*'s magical insight fades.^x</RoomDelStr>
+      <SelfAddStr>^mYou become filled with magical insight.^x</SelfAddStr>
+      <SelfDelStr>^mYour magical insight fades.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+      <UnApplyScript>actor.remStatModEffect(effect)</UnApplyScript>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeVisibility(actor, effect, applier)</ComputeScript>
+      <Display>^MInvisible^x</Display>
+      <Name>invisibility</Name>
+      <OldFunction>effectVisibility</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^W*ACTOR* fades from view.^x</RoomAddStr>
+      <RoomDelStr>^W*ACTOR* fades into view.^x</RoomDelStr>
+      <SelfAddStr>^WYou fade from view.^x</SelfAddStr>
+      <SelfDelStr>^WYou fade into view.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>know-aura</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeDetect(actor, effect, applier)</ComputeScript>
+      <Display>^cKnow-Aura^x</Display>
+      <Name>know-aura</Name>
+      <OldFunction>effectDetect</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR* becomes more perceptive.^x</RoomAddStr>
+      <RoomDelStr>^c*ACTOR*'s perception is diminished.^x</RoomDelStr>
+      <SelfAddStr>^cYou become more perceptive.^x</SelfAddStr>
+      <SelfDelStr>^cYour perception is diminished.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>levitate</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeGravity(actor, effect, applier)</ComputeScript>
+      <Display>^cLevitate^x</Display>
+      <Name>levitate</Name>
+      <OldFunction>effectGravity</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR* begins to float.^x</RoomAddStr>
+      <RoomDelStr>^c*ACTOR*'s feet hit the ground.^x</RoomDelStr>
+      <SelfAddStr>^cYou begin to float.^x</SelfAddStr>
+      <SelfDelStr>^cYour feet hit the ground.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>disease</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeLycanthropy(actor, effect, applier)</ComputeScript>
+      <Display>^oLycanthropy^x</Display>
+      <Name>lycanthropy</Name>
+      <OldFunction>effectDisease</OldFunction>
+      <Pulsed>true</Pulsed>
+      <PulseScript>effectLib.pulseLycanthropy(actor, effect)</PulseScript>
+      <Type>Neutral</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeVisibility(actor, effect, applier)</ComputeScript>
+      <Display>^GPass-without-trace^x</Display>
+      <Name>pass-without-trace</Name>
+      <OldFunction>effectVisibility</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^g*ACTOR* starts to step very softly.^x</RoomAddStr>
+      <RoomDelStr>^g*ACTOR* begins stepping heavier.^x</RoomDelStr>
+      <SelfAddStr>^gYou no longer leave any tracks.^x</SelfAddStr>
+      <SelfDelStr>^gYou start leaving tracks again.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>petrification</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeDisable(actor, effect, applier)</ComputeScript>
+      <Display>^DPetrified!^x</Display>
+      <Name>petrification</Name>
+      <OldFunction>effectDisable</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^D*ACTOR* has been turned to stone!</RoomAddStr>
+      <RoomDelStr>^Y*ACTOR*'s skin slowly turns to flesh.^x</RoomDelStr>
+      <SelfAddStr>^DYou turn to stone!^x</SelfAddStr>
+      <SelfDelStr>^YStone becomes flesh, you can move again!^x</SelfDelStr>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>poison</BaseEffect>
+      <Display>^gPoison^x</Display>
+      <Name>poison</Name>
+      <OldFunction>effectPoison</OldFunction>
+      <Pulsed>true</Pulsed>
+      <PulseDelay>20</PulseDelay>
+      <PulseScript>effectLib.pulsePoison(actor, effect)</PulseScript>
+      <SelfDelStr>^yThe poison has run its course.</SelfDelStr>
+      <Type>Negative</Type>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <BaseEffect>curse</BaseEffect>
+      <Display>^WPorphyria^x</Display>
+      <Name>porphyria</Name>
+      <OldFunction>effectCurse</OldFunction>
+      <Pulsed>true</Pulsed>
+      <PulseDelay>20</PulseDelay>
+      <PulseScript>effectLib.pulsePorphyria(actor, effect)</PulseScript>
+      <RoomAddStr>^W*ACTOR* looks pale.^x</RoomAddStr>
+      <SelfAddStr>^WYour skin turns pale.^x</SelfAddStr>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.addStatModEffect(effect)</ApplyScript>
+      <ComputeScript>retVal = effectLib.computeStatRaise(actor, effect, applier)</ComputeScript>
+      <Display>^mPrayer^x</Display>
+      <Name>prayer</Name>
+      <OldFunction>effectStatRaise</OldFunction>
+      <OppositeEffect>damnation</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^y*ACTOR* shines radiently.^x</RoomAddStr>
+      <RoomDelStr>^y*ACTOR*'s divine favor fades.^x</RoomDelStr>
+      <SelfAddStr>^yYou shine with divine favor!^x</SelfAddStr>
+      <SelfDelStr>^yYour divine favor fades.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+      <UnApplyScript>actor.remStatModEffect(effect)</UnApplyScript>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.addStatModEffect(effect)</ApplyScript>
+      <BaseEffect>prayer</BaseEffect>
+      <Display>^yPrayed^x</Display>
+      <Name>pray</Name>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^y*ACTOR* bows *A-HISHER* head in prayer.^x</RoomAddStr>
+      <RoomDelStr>^y*ACTOR* looks less pious.^x</RoomDelStr>
+      <SelfAddStr>^yYou feel extremely pious.^x</SelfAddStr>
+      <SelfDelStr>^yYou feel less pious.^x</SelfDelStr>
+      <Type>Positive</Type>
+      <UnApplyScript>actor.remStatModEffect(effect)</UnApplyScript>
+   </Effect>
+   <Effect>
+      <BaseEffect>protection</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeBeneficial(actor, effect, applier)</ComputeScript>
+      <Display>^WProtection^x</Display>
+      <Name>protection</Name>
+      <OldFunction>effectBeneficial</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^W*ACTOR* is surrounded by a faint magical aura.^x</RoomAddStr>
+      <RoomDelStr>^y*ACTOR* is no longer protected.^x</RoomDelStr>
+      <SelfAddStr>^WYou feel watched.^x</SelfAddStr>
+      <SelfDelStr>^yYour aura of protection fades.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>reflect-magic</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeBeneficial(actor, effect, applier)</ComputeScript>
+      <Display>^MReflect-Magic^x</Display>
+      <Name>reflect-magic</Name>
+      <OldFunction>effectBeneficial</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^MA shield of magical force engulfs *LOW-ACTOR*.^x</RoomAddStr>
+      <RoomDelStr>^M*ACTOR*'s shield of magic dissipates.^x</RoomDelStr>
+      <SelfAddStr>^MA shield of magical force surrounds you.^x</SelfAddStr>
+      <SelfDelStr>^MYour shield of magic dissipates.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>regeneration</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeRegen(actor, effect, applier)</ComputeScript>
+      <Display>^gRegeneration^x</Display>
+      <Name>regeneration</Name>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^g*ACTOR* begins to regenerate.^x</RoomAddStr>
+      <RoomDelStr>^g*ACTOR*'s wounds no longer magically close.^x</RoomDelStr>
+      <SelfAddStr>^gYou begin to regenerate.^x</SelfAddStr>
+      <SelfDelStr>^gYour wounds no longer magically close.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeResist(actor, effect, applier)</ComputeScript>
+      <Display>^yResist-Air^x</Display>
+      <Name>resist-air</Name>
+      <OldFunction>effectResist</OldFunction>
+      <OppositeEffect>vuln-air</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^y*ACTOR* looks resistant to air.^x</RoomAddStr>
+      <RoomDelStr>^y*ACTOR* looks less resistant to air.^x</RoomDelStr>
+      <SelfAddStr>^yYou feel resistant to air.^x</SelfAddStr>
+      <SelfDelStr>^yYou feel less resistant to air.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^mResist-Chopping^x</Display>
+      <Name>resist-chopping</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeResist(actor, effect, applier)</ComputeScript>
+      <Display>^bResist-Cold^x</Display>
+      <Name>resist-cold</Name>
+      <OldFunction>effectResist</OldFunction>
+      <OppositeEffect>vuln-cold</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR* looks resistant to cold.^x</RoomAddStr>
+      <RoomDelStr>^c*ACTOR* looks less resistant to cold.^x</RoomDelStr>
+      <SelfAddStr>^cYou feel resistant to cold.^x</SelfAddStr>
+      <SelfDelStr>^cYou feel less resistant to cold.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^mResist-Crushing^x</Display>
+      <Name>resist-crushing</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeResist(actor, effect, applier)</ComputeScript>
+      <Display>^YResist-Earth^x</Display>
+      <Name>resist-earth</Name>
+      <OldFunction>effectResist</OldFunction>
+      <OppositeEffect>vuln-earth</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^Y*ACTOR* looks resistant to earth.^x</RoomAddStr>
+      <RoomDelStr>^Y*ACTOR* looks less resistant to earth.^x</RoomDelStr>
+      <SelfAddStr>^YYou feel resistant to earth.^x</SelfAddStr>
+      <SelfDelStr>^YYou feel less resistant to earth.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeResist(actor, effect, applier)</ComputeScript>
+      <Display>^cResist-Electric^x</Display>
+      <Name>resist-electric</Name>
+      <OldFunction>effectResist</OldFunction>
+      <OppositeEffect>vuln-electric</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR* looks resistant to electric.^x</RoomAddStr>
+      <RoomDelStr>^c*ACTOR* looks less resistant to electric.^x</RoomDelStr>
+      <SelfAddStr>^cYou feel resistant to electric.^x</SelfAddStr>
+      <SelfDelStr>^cYou feel less resistant to electric.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^mResist-Exotic^x</Display>
+      <Name>resist-exotic</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeResist(actor, effect, applier)</ComputeScript>
+      <Display>^rResist-Fire^x</Display>
+      <Name>resist-fire</Name>
+      <OldFunction>effectResist</OldFunction>
+      <OppositeEffect>vuln-fire</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^r*ACTOR* looks resistant to fire.^x</RoomAddStr>
+      <RoomDelStr>^r*ACTOR* looks less resistant to fire.^x</RoomDelStr>
+      <SelfAddStr>^rYou feel resistant to fire.^x</SelfAddStr>
+      <SelfDelStr>^rYou feel less resistant to fire.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeResist(actor, effect, applier)</ComputeScript>
+      <Display>^MResist-Magic^x</Display>
+      <Name>resist-magic</Name>
+      <OldFunction>effectResist</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^m*ACTOR* is surrounded by a magical shield.^x</RoomAddStr>
+      <RoomDelStr>^M*ACTOR*'s magical shield dissipates.^x</RoomDelStr>
+      <SelfAddStr>^mYou are surrounded by a magical shield.^x</SelfAddStr>
+      <SelfDelStr>^MYour magical shield dissipates.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^mResist-Piercing^x</Display>
+      <Name>resist-piercing</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^mResist-Ranged^x</Display>
+      <Name>resist-ranged</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^mResist-Slashing^x</Display>
+      <Name>resist-slashing</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeResist(actor, effect, applier)</ComputeScript>
+      <Display>^BResist-Water^x</Display>
+      <Name>resist-water</Name>
+      <OldFunction>effectResist</OldFunction>
+      <OppositeEffect>vuln-water</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^B*ACTOR* looks resistant to water.^x</RoomAddStr>
+      <RoomDelStr>^B*ACTOR* looks less resistant to water.^x</RoomDelStr>
+      <SelfAddStr>^BYou feel resistant to water.^x</SelfAddStr>
+      <SelfDelStr>^BYou feel less resistant to water.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.unSilence()</ApplyScript>
+      <BaseEffect>silence</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeDisable(actor, effect, applier)</ComputeScript>
+      <Display>^CSilent!^x</Display>
+      <Name>silence</Name>
+      <OldFunction>effectDisable</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^C*ACTOR*'s voice fades.^x</RoomAddStr>
+      <RoomDelStr>^g*ACTOR*'s voice returns!^x</RoomDelStr>
+      <SelfAddStr>^CYour voice fades!^x</SelfAddStr>
+      <SelfDelStr>^gYour voice returns!^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.addStatModEffect(effect)</ApplyScript>
+      <ComputeScript>retVal = effectLib.computeStatLower(actor, effect, applier)</ComputeScript>
+      <Display>^gSlow^x</Display>
+      <Name>slow</Name>
+      <OldFunction>effectStatLower</OldFunction>
+      <OppositeEffect>haste</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^g*ACTOR* starts moving much slower.^x</RoomAddStr>
+      <RoomDelStr>^g*ACTOR* catches up to the world.^x</RoomDelStr>
+      <SelfAddStr>^gThe world speeds up around you.^x</SelfAddStr>
+      <SelfDelStr>^gYou catch up to the world.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Negative</Type>
+      <UnApplyScript>actor.remStatModEffect(effect)</UnApplyScript>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <BaseEffect>slow-poison</BaseEffect>
+      <Display>^gSlow-Poison^x</Display>
+      <Name>slow-poison</Name>
+      <OldFunction>effectGeneric</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeBeneficial(actor, effect, applier)</ComputeScript>
+      <Display>^cStatic-Field^x</Display>
+      <Name>static-field</Name>
+      <OldFunction>effectBeneficial</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR*'s hair stands on end.^x</RoomAddStr>
+      <RoomDelStr>^x*ACTOR*'s hair is no longer standing on end.^x</RoomDelStr>
+      <SelfAddStr>^cYour hair stands on end.^x</SelfAddStr>
+      <SelfDelStr>^cYour hair is no longer standing on end.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <Display>^GStoneskin^x</Display>
+      <Name>stoneskin</Name>
+      <OldFunction>effectShield</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^B*ACTOR*'s skin hardens.^x</RoomAddStr>
+      <RoomDelStr>^B*ACTOR*'s stoneskin dissipates.^x</RoomDelStr>
+      <SelfAddStr>^BYour skin hardens.^x</SelfAddStr>
+      <SelfDelStr>^BYour stoneskin dissipates.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.addStatModEffect(effect)</ApplyScript>
+      <ComputeScript>retVal = effectLib.computeStatRaise(actor, effect, applier)</ComputeScript>
+      <Display>^YStrength^x</Display>
+      <Name>strength</Name>
+      <OldFunction>effectStatRaise</OldFunction>
+      <OppositeEffect>enfeeblement</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^Y*ACTOR* looks stronger.^x</RoomAddStr>
+      <RoomDelStr>^y*ACTOR*'s strength fades.^x</RoomDelStr>
+      <SelfAddStr>^YYou feel stronger!^x</SelfAddStr>
+      <SelfDelStr>^yYour strength fades.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+      <UnApplyScript>actor.remStatModEffect(effect)</UnApplyScript>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <BaseEffect>tongues</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeLanguages(actor, effect, applier)</ComputeScript>
+      <Display>^gTongues^x</Display>
+      <Name>tongues</Name>
+      <OldFunction>effectLanguages</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^g*ACTOR* begins speaking in tongues.^x</RoomAddStr>
+      <RoomDelStr>^g*ACTOR* stops speaking in tongues.^x</RoomDelStr>
+      <SelfAddStr>^gYou being speaking in tongues.^x</SelfAddStr>
+      <SelfDelStr>^gYou stop speaking in tongues.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+      <UnApplyScript>actor.unApplyTongues()</UnApplyScript>
+   </Effect>
+   <Effect>
+      <Display>^GToxic Cloud^x</Display>
+      <Name>toxic-cloud</Name>
+      <RoomAddStr>^GA toxic cloud begins to fill the area.^x</RoomAddStr>
+      <RoomDelStr>^WThe toxic cloud clears the area.^x</RoomDelStr>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <BaseEffect>true-sight</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeDetect(actor, effect, applier)</ComputeScript>
+      <Display>^WTrue-Sight^x</Display>
+      <Name>true-sight</Name>
+      <OldFunction>effectDetect</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^g*ACTOR*'s eyes glow green.^x</RoomAddStr>
+      <RoomDelStr>^W*ACTOR*'s eyes lose their greenish glow.^x</RoomDelStr>
+      <SelfAddStr>^gThings become much clearer.^x</SelfAddStr>
+      <SelfDelStr>^WYour vision returns to normal.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>undead-ward</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeBeneficial(actor, effect, applier)</ComputeScript>
+      <Display>^CUndead-Ward^x</Display>
+      <Name>undead-ward</Name>
+      <OldFunction>effectBeneficial</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^W*ACTOR* is now guarded against the undead.^x</RoomAddStr>
+      <RoomDelStr>^C*ACTOR* is no longer protected against the undead.^x</RoomDelStr>
+      <SelfAddStr>^WYou feel guarded against the undead.^x</SelfAddStr>
+      <SelfDelStr>^CYour shiver and suddenly feel vulnerable to the undead.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <Display>^DUnhallow^x</Display>
+      <Name>unhallow</Name>
+      <RoomAddStr>^DAn unholy aura fills the room.^x</RoomAddStr>
+      <RoomDelStr>^WThe unholy aura in the room fades.^x</RoomDelStr>
+   </Effect>
+   <Effect>
+      <Display>^rVampirism^x</Display>
+      <Name>vampirism</Name>
+      <OldFunction>effectGeneric</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Neutral</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeResist(actor, effect, applier)</ComputeScript>
+      <Display>^yVuln-Air^x</Display>
+      <Name>vuln-air</Name>
+      <OldFunction>effectResist</OldFunction>
+      <OppositeEffect>resist-air</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR* looks vulnerable to air.^x</RoomAddStr>
+      <RoomDelStr>^c*ACTOR* looks less vulnerable to air.^x</RoomDelStr>
+      <SelfAddStr>^cYou feel vulnerable to air.^x</SelfAddStr>
+      <SelfDelStr>^cYou feel less vulnerable to air.^x</SelfDelStr>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^rVuln-Chopping^x</Display>
+      <Name>vuln-chopping</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeResist(actor, effect, applier)</ComputeScript>
+      <Display>^bVuln-Cold^x</Display>
+      <Name>vuln-cold</Name>
+      <OldFunction>effectResist</OldFunction>
+      <OppositeEffect>resist-cold</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR* looks vulnerable to cold.^x</RoomAddStr>
+      <RoomDelStr>^c*ACTOR* looks less vulnerable to cold.^x</RoomDelStr>
+      <SelfAddStr>^cYou feel vulnerable to cold.^x</SelfAddStr>
+      <SelfDelStr>^cYou feel less vulnerable to cold.^x</SelfDelStr>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^rVuln-Crushing^x</Display>
+      <Name>vuln-crushing</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeResist(actor, effect, applier)</ComputeScript>
+      <Display>^YVuln-Earth^x</Display>
+      <Name>vuln-earth</Name>
+      <OldFunction>effectResist</OldFunction>
+      <OppositeEffect>resist-earth</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR* looks vulnerable to earth.^x</RoomAddStr>
+      <RoomDelStr>^c*ACTOR* looks less vulnerable to earth.^x</RoomDelStr>
+      <SelfAddStr>^cYou feel vulnerable to earth.^x</SelfAddStr>
+      <SelfDelStr>^cYou feel less vulnerable to earth.^x</SelfDelStr>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeResist(actor, effect, applier)</ComputeScript>
+      <Display>^cVuln-Electric^x</Display>
+      <Name>vuln-electric</Name>
+      <OldFunction>effectResist</OldFunction>
+      <OppositeEffect>resist-electric</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR* looks vulnerable to electric.^x</RoomAddStr>
+      <RoomDelStr>^c*ACTOR* looks less vulnerable to electric.^x</RoomDelStr>
+      <SelfAddStr>^cYou feel vulnerable to electric.^x</SelfAddStr>
+      <SelfDelStr>^cYou feel less vulnerable to electric.^x</SelfDelStr>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^rVuln-Exotic^x</Display>
+      <Name>vuln-exotic</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeResist(actor, effect, applier)</ComputeScript>
+      <Display>^rVuln-Fire^x</Display>
+      <Name>vuln-fire</Name>
+      <OldFunction>effectResist</OldFunction>
+      <OppositeEffect>resist-fire</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR* looks vulnerable to fire.^x</RoomAddStr>
+      <RoomDelStr>^c*ACTOR* looks less vulnerable to fire.^x</RoomDelStr>
+      <SelfAddStr>^cYou feel vulnerable to fire.^x</SelfAddStr>
+      <SelfDelStr>^cYou feel less vulnerable to fire.^x</SelfDelStr>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^rVuln-Piercing^x</Display>
+      <Name>vuln-piercing</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^rVuln-Ranged^x</Display>
+      <Name>vuln-ranged</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>if actor.getPlayer(): retVal = false</ComputeScript>
+      <Display>^rVuln-Slashing^x</Display>
+      <Name>vuln-slashing</Name>
+      <OldFunction>effectWeaponRVI</OldFunction>
+      <Pulsed>false</Pulsed>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeResist(actor, effect, applier)</ComputeScript>
+      <Display>^BVuln-Water^x</Display>
+      <Name>vuln-water</Name>
+      <OldFunction>effectResist</OldFunction>
+      <OppositeEffect>resist-water</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR* looks vulnerable to water.^x</RoomAddStr>
+      <RoomDelStr>^c*ACTOR* looks less vulnerable to water.^x</RoomDelStr>
+      <SelfAddStr>^cYou feel vulnerable to water.^x</SelfAddStr>
+      <SelfDelStr>^cYou feel less vulnerable to water.^x</SelfDelStr>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <Display>^rWall of Fire^x</Display>
+      <Name>wall-of-fire</Name>
+      <Pulsed>true</Pulsed>
+      <PulseScript>effectLib.pulseWall(actor, effect)</PulseScript>
+      <RoomAddStr>^RA wall of fire ignites and blocks passage to the *LOW-ACTOR*.^x</RoomAddStr>
+      <RoomDelStr>^WThe wall of fire blocking the *LOW-ACTOR* dies down.^x</RoomDelStr>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <Display>^sWall of Force^x</Display>
+      <Name>wall-of-force</Name>
+      <Pulsed>true</Pulsed>
+      <PulseScript>effectLib.pulseWall(actor, effect)</PulseScript>
+      <RoomAddStr>^sA wall of force appears and blocks passage to the *LOW-ACTOR*.^x</RoomAddStr>
+      <RoomDelStr>^WThe wall of force blocking the *LOW-ACTOR* vanishes.^x</RoomDelStr>
+   </Effect>
+   <Effect>
+      <Display>^oWall of Thorns^x</Display>
+      <Name>wall-of-thorns</Name>
+      <Pulsed>true</Pulsed>
+      <PulseScript>effectLib.pulseWall(actor, effect)</PulseScript>
+      <RoomAddStr>^oA wall of thorns grows and blocks passage to the *LOW-ACTOR*.^x</RoomAddStr>
+      <RoomDelStr>^WThe wall of thorns blocking the *LOW-ACTOR* withers away.^x</RoomDelStr>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <BaseEffect>warmth</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeBeneficial(actor, effect, applier)</ComputeScript>
+      <Display>^RWarmth^x</Display>
+      <Name>warmth</Name>
+      <OldFunction>effectBeneficial</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^RA warm aura surrounds *LOW-ACTOR*.^x</RoomAddStr>
+      <RoomDelStr>^C*ACTOR* shivers.^x</RoomDelStr>
+      <SelfAddStr>^RA warm aura surrounds you.^x</SelfAddStr>
+      <SelfDelStr>^CA cold chill runs through your body.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <ApplyScript>actor.addStatModEffect(effect)</ApplyScript>
+      <ComputeScript>retVal = effectLib.computeStatLower(actor, effect, applier)</ComputeScript>
+      <Display>^YWeakness^x</Display>
+      <Name>weakness</Name>
+      <OldFunction>effectStatLower</OldFunction>
+      <OppositeEffect>fortitude</OppositeEffect>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^Y*ACTOR* looks unnaturally pale.^x</RoomAddStr>
+      <RoomDelStr>^Y*ACTOR*'s health returns.^x</RoomDelStr>
+      <SelfAddStr>^YA magical force saps your health.^x</SelfAddStr>
+      <SelfDelStr>^YYour health returns.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Negative</Type>
+      <UnApplyScript>actor.remStatModEffect(effect)</UnApplyScript>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <BaseEffect>well-of-magic</BaseEffect>
+      <ComputeScript>retVal = effectLib.computeRegen(actor, effect, applier)</ComputeScript>
+      <Display>^sWell-of-Magic^x</Display>
+      <Name>well-of-magic</Name>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^s*ACTOR* feels magically invigorated.^x</RoomAddStr>
+      <RoomDelStr>^s*ACTOR*'s magic vitality fades.^x</RoomDelStr>
+      <SelfAddStr>^sYou feel magically invigorated.^x</SelfAddStr>
+      <SelfDelStr>^sYour magic vitality fades.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+      <UsesStrength>true</UsesStrength>
+   </Effect>
+   <Effect>
+      <ComputeScript>retVal = effectLib.computeBeneficial(actor, effect, applier)</ComputeScript>
+      <Display>^cWind-Protection^x</Display>
+      <Name>wind-protection</Name>
+      <OldFunction>effectBeneficial</OldFunction>
+      <Pulsed>false</Pulsed>
+      <RoomAddStr>^c*ACTOR*'s skin toughens.^x</RoomAddStr>
+      <RoomDelStr>^x*ACTOR*'s skin softens.^x</RoomDelStr>
+      <SelfAddStr>^cYour skin toughens.^x</SelfAddStr>
+      <SelfDelStr>^cYou are no longer protected from the wind.^x</SelfDelStr>
+      <Spell>true</Spell>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>curse</BaseEffect>
+      <Display>^rFestering Wounds^x</Display>
+      <Name>wounded</Name>
+      <OldFunction>effectCurse</OldFunction>
+      <Pulsed>true</Pulsed>
+      <PulseDelay>20</PulseDelay>
+      <PulseScript>effectLib.pulseFestering(actor, effect)</PulseScript>
+      <RoomAddStr>Your wounds are no longer unclean.</RoomAddStr>
+      <SelfAddStr/>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <Display>^WChorus of Clarity^x</Display>
+      <Name>chorusofclarity</Name>
+      <RoomAddStr>^C*ACTOR* looks very tranquil.^x</RoomAddStr>
+      <RoomDelStr>^C*ACTOR*'s tranquility fades.^x</RoomDelStr>
+      <SelfAddStr>^CA soft breeze slips into your mind.^x</SelfAddStr>
+      <SelfDelStr>^CThe soft breeze fades.^x</SelfDelStr>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>warmth</BaseEffect>
+      <Display>^RHeartwarming Rapsody^x</Display>
+      <Name>heartwarmingrapsody</Name>
+      <RoomAddStr>^R*ACTOR* is warmed by a Heartwarming Rapsody.^x</RoomAddStr>
+      <RoomDelStr>^cThe warmth in *ACTOR*'s heart fades.^x</RoomDelStr>
+      <SelfAddStr>^RHeartwarming rapsody warms your heart.^x</SelfAddStr>
+      <SelfDelStr>^cThe warmth in your heart fades.^x</SelfDelStr>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>infravision</BaseEffect>
+      <BaseEffect>detect-invisible</BaseEffect>
+      <BaseEffect>detect-magic</BaseEffect>
+      <Display>^WSong of Sight^x</Display>
+      <Name>songofsight</Name>
+      <RoomAddStr>^WThe world is revealed to *ACTOR*.</RoomAddStr>
+      <SelfAddStr>^WThe world reveals itself to you.^x</SelfAddStr>
+      <SelfDelStr>^wThe world seems a little fuzzier.^x</SelfDelStr>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>haste</BaseEffect>
+      <Display>^GHailey's Hasting Hymn^x</Display>
+      <Name>haileyshastinghymn</Name>
+      <RoomAddStr>^g*ACTOR* is hastened by *APPLIER-POS* hymns!^x</RoomAddStr>
+      <SelfAddStr>^g*APPLIER-POS-SELF*'s hymns speed your movements.^x</SelfAddStr>
+      <SelfDelStr>^gThe hasting hymn fades.^x</SelfDelStr>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <Display>^RBattle Chant^x</Display>
+      <Name>battlechant</Name>
+      <RoomAddStr>^R*ACTOR*'s battle readiness is augmented by the Battle Chant!^x</RoomAddStr>
+      <SelfAddStr>^RThe battle chant aguments your battle readiness!^x</SelfAddStr>
+      <SelfDelStr>^RYour battle readiness fades.^x</SelfDelStr>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <Display>^gSong of Vitality^x</Display>
+      <Name>songofvitality</Name>
+      <RoomAddStr>^g*ACTOR*'s vitality improves!^x</RoomAddStr>
+      <SelfAddStr>^gYour vitality feels augmented by the Song of Vitality^x</SelfAddStr>
+      <SelfDelStr>^gThe augmented vitality fades.^x</SelfDelStr>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>breathe-water</BaseEffect>
+      <Display>^bAquatic Ayre^x</Display>
+      <Name>aquaticayre</Name>
+      <RoomAddStr>^b*ACTOR*'s lungs are filled with air from the Aquatic Ayre.^x</RoomAddStr>
+      <SelfAddStr>^bThe Aquatic Ayre fills your lungs with air.^x</SelfAddStr>
+      <SelfDelStr>^bThe Aquatic Ayre fades.^x</SelfDelStr>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>invisibility</BaseEffect>
+      <BaseEffect>detect-invisibility</BaseEffect>
+      <Display>^WSonorus Serenade^x</Display>
+      <Name>sonorusserenade</Name>
+      <RoomAddStr>^W*ACTOR* is hidden from view by *LOW-APPLIER-POS* Serenade!^x</RoomAddStr>
+      <RoomDelStr>^wThe Seranade about *ACTOR* fades.^x</RoomDelStr>
+      <SelfAddStr>^W*APPLIER-SELF-POS* Serenade hides you from view!^x</SelfAddStr>
+      <SelfDelStr>^wThe Serenade fades.^x</SelfDelStr>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <Display>^gHymn of Revitalization^x</Display>
+      <Name>hymnofrevitalization</Name>
+      <RoomAddStr>^gThe song of revitalization hastens the healing of *LOW-ACTOR*'s
+      wounds.^x</RoomAddStr>
+      <SelfAddStr>^gThe song of revitalization hastens the healing of your wounds.^x</SelfAddStr>
+      <SelfDelStr>^gThe revitalizing hymn fades.^x</SelfDelStr>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>haste</BaseEffect>
+      <Display>^RWarsong^x</Display>
+      
+      <Name>warsong</Name>
+      <RoomAddStr>^R*ACTOR* looks ready for war!^x</RoomAddStr>
+      <SelfAddStr>^RYou feel ready for war!^x</SelfAddStr>
+      <SelfDelStr>^RYour war-readiness fades.^x</SelfDelStr>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>slow-poison</BaseEffect>
+      <Display>^gSong of Purification^x</Display>
+      <Name>songofpurification</Name>
+      <RoomAddStr>^g*ACTOR* looks purified.^x</RoomAddStr>
+      <SelfAddStr>^gYou feel purified.^x</SelfAddStr>
+      <SelfDelStr>^gThe song of purification fades.^x</SelfDelStr>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <Display>^yGuardian Rhythms^x</Display>
+      <Name>guardianrhythms</Name>
+      <RoomAddStr>^y*ACTOR* is guarded by *LOW-APPLIER-POS* rhythms.^x</RoomAddStr>
+      <SelfAddStr>^yYou feel guarded by *LOW-APPLIER-SELF-POS* rhythms.^x</SelfAddStr>
+      <SelfDelStr>^yThe rhythms guarding you fade.^x</SelfDelStr>
+      <Type>Positive</Type>
+   </Effect>
+   <Effect>
+      <BaseEffect>slow</BaseEffect>
+      <Display>^bChains of Dissonance^x</Display>
+      <Name>chainsofdissonance</Name>
+      <Type>Negative</Type>
+   </Effect>
+   <Effect>
+      <Display>^YStonewall^x</Display>
+      <Name>stonewall</Name>
+      <SelfAddStr>^gYou focus on bolstering your defenses.^x</SelfAddStr>
+      <SelfDelStr>^gYour bolstered defenses diminish.^x</SelfDelStr>
+   </Effect>
+   <Effect>
+      <Display>^RBloodthirst^x</Display>
+      <Name>bloodthirst</Name>
+      <SelfAddStr>^rYour thirst for blood increases.^x</SelfAddStr>
+      <SelfDelStr>^rYour thirst for blood diminishes.^x</SelfDelStr>
+   </Effect>
+   <Effect>
+      <Display>^CUnfocused^x</Display>
+      <Name>unfocused</Name>
+      <SelfAddStr>^rYou become distracted from battle.^x</SelfAddStr>
+      <SelfDelStr>^cYour distraction from battle fades.^x</SelfDelStr>
+   </Effect>
+</Effects>

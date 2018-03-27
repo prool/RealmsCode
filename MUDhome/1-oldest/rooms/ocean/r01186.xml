@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1186" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard/Netherworld Lane Intersection</Name>
+  <ShortDescription>You are at the intersection of Avatar Boulevard and Netherworld Lane.</ShortDescription>
+  <LongDescription>Avatar Boulevard heads off to the north from here, bringing you to the
+west side of the Avatar Ruins.  The Avatar Ruins are essentially just
+a set of boulders where the ancient Avatars used to study and practice
+to keep in prime mental, physical and spiritual shape.  Netherworld
+Lane continues to run to the east and west.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1185</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1187</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">624</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

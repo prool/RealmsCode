@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="46" Version="2.40a" Area="ocean">
+  <Name>Caledonia Road</Name>
+  <ShortDescription>This is Caledonia Road, which is a major east-west street in Brownhaven. </ShortDescription>
+  <LongDescription>Directly west is the Town Square of Brownhaven.  Caledonia Road intersects
+with Main Street over to the east.  As you look north, you see the famous
+Brownhaven Central Library, world famous for its collection of books on
+magic and alchemy.  Of course, the most famous of all alchemists once
+resided here in Brownhaven, and when his house burned he gave the library
+the books he salvaged.  Khallazar has since moved to somewhere in an
+enchanted forest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="6"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">13</Mob>
+      <Mob Area="ocean" Num="1">9</Mob>
+      <Mob Area="ocean" Num="2">8</Mob>
+      <Mob Area="ocean" Num="3">6</Mob>
+      <Mob Area="ocean" Num="4">7</Mob>
+      <Mob Area="ocean" Num="5">2</Mob>
+      <Mob Area="ocean" Num="6">3</Mob>
+      <Mob Area="ocean" Num="7">4</Mob>
+      <Mob Area="ocean" Num="8">1</Mob>
+      <Mob Area="ocean" Num="9">14</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">36</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">47</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

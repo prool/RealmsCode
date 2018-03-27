@@ -1,0 +1,62 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  alignment        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+For help on the alignment command, type HELP ALIGNMENT.
+
+^WNote:^x Only Paladins, Clerics, Deathknights, and Liches must be concerned
+      with alignment.
+
+---------------------------------------------------------------------------
+Every player and monster on the mud has what is called alignment. It ranges
+from being evil to neutral to good. A players alignment in the game changes
+depending on the monsters you fight. Monsters also range from evil to
+neutral to good alignment. Being under the know-aura spell (HELP KNOW-AURA)
+allows you see what a monster's alignment is. For example, if the monster
+is of blood red, reddish or pinkish aura, that means the monster is of evil
+alignment. Neutral monsters (neither evil or good) are of a grey aura,
+while good monsters are from light blue, to bluish to royal blue. The
+deeper the aura of the monster, the more evil or good it is. Monsters of a
+blood red aura will change your alignment towards being good moreso than
+those having a pinkish aura. Some classes must remain a certain alignment,
+or their abilities wane. For example Aramon clerics are supposed to remain
+evil, therefore the player would always try to attack monsters of a good
+alignment (light blue -> royal blue). A paladin on the other hand, must
+remain good so they should kill monsters of evil alignment (pinkish ->
+blood red).
+
+Alignment changes can also be explained by using numbers where -1000 is the
+most evil you can become and 1000 is the most good. -100 to 100 represents
+being of neutral alignment:
+
+-1000                    -100 to 100                   1000
+Evil                       Neutral                     Good
+
+Colors order of alignment:
+   ^Rblood red^x --> reddish --> pinkish
+   grey
+   lightblue --> bluish --> ^Broyal blue^x
+
+As well, certain items have auras which will also be shown while under the
+know-aura spell. If the item has a red aura (like a sacrificial knife) then
+only those who are of evil alignment can wield it. If you're using ANSI
+colors and your alignment changes, your status prompt (HP/MP) will change
+accordingly. Red prompt means you are evil, white/grey is neutral, and a
+blue prompt means you're good.
+
+^WShould Be Evil:^x
+   Clerics of Aramon
+   Clerics of Arachnus
+   Deathknights
+   Liches
+
+^WShould Be Neutral:^x
+   Clerics of Ares
+   Clerics of Ceris
+   Clerics of Gradius (or light blue)
+
+^WShould Be Good:^x
+   Clerics of Enoch
+   Clerics of Linothan
+   Clerics of Kamira
+   Paladins
+

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2272" Version="2.40" Area="ocean">
+  <Name>The Blue Training Room</Name>
+  <ShortDescription>You have successfully proven yourself as a powerful veteran fighter.</ShortDescription>
+  <LongDescription>You are now ready to move on.  The Panthor Academy of Fighting Arts no
+longer satisfies your needs for higher training.  The instructors suggest
+going to the Rudolph Fighting Academy in southeastern Oceancrest to 
+continue your training.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2268</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

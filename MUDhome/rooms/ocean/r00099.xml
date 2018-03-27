@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="99" Version="2.40a" Area="ocean">
+  <Name>Caledon's Secret Inner Sanctuary</Name>
+  <ShortDescription>You have entered the mysterious realm of Caledon's inner sanctuary.</ShortDescription>
+  <LongDescription>High above the city of Oceancrest is a strange and mysterious room that
+Caledon uses for special projects and tests.  Not just anyone can get
+here.  There are scattered tomes and large books lying around with various
+maps and diagrams scattered throughout.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">999</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

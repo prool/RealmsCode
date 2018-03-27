@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1427" Version="2.40" Area="ocean">
+  <Name>Central Palace Hallway</Name>
+  <ShortDescription>You are in the main hallway leading through the palace.</ShortDescription>
+  <LongDescription>This hallway brings you directly to the front of the palace.  Following
+it south leads you to the great dining hall where a number of guests
+are assembling for dinner.  There is a large door on the east side
+of the hallway leading into what appears to be a meeting room.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">130</Mob>
+      <Mob Area="ocean" Num="1">126</Mob>
+      <Mob Area="ocean" Num="2">129</Mob>
+      <Mob Area="ocean" Num="3">126</Mob>
+      <Mob Area="ocean" Num="4">166</Mob>
+      <Mob Area="ocean" Num="5">167</Mob>
+      <Mob Area="ocean" Num="6">166</Mob>
+      <Mob Area="ocean" Num="7">126</Mob>
+      <Mob Area="ocean" Num="8">130</Mob>
+      <Mob Area="ocean" Num="9">130</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1406</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1425</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1428</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

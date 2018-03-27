@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Object Num="234" Area="ocean" Version="2.40">
+  <Name>red button</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>1</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">button</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="18"/>
+  </Flags>
+  <Description>It's a very bright red button.</Description>
+  <UseOutput>0112</UseOutput>
+  <Type>14</Type>
+  <InBag/>
+</Object>

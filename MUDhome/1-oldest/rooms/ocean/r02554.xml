@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2554" Version="2.40" Area="ocean">
+  <Name>Garden Circle Road</Name>
+  <ShortDescription>You are on Garden Circle Road, which encircles the Hanging Gardens.</ShortDescription>
+  <LongDescription>Although the Gardens were built for Queen Isaria a long time ago, It is
+Elise who enjoys them today.  Elise is the most powerful mage in Kista,
+a White Moon, a Preserver Wizard.  She is well respected in the Towers.
+She spends much of her free time in the Garden.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2553</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2555</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

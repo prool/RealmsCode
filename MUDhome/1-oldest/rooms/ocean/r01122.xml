@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1122" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>You are traveling along Marina Way, just north of Rosecrest Street.</ShortDescription>
+  <LongDescription>Marina Way continues to the north and south, traveling though the 
+central parts of Oceancrest.  There is a large building to the east with
+a large, sparkling gem positioned above the building, casting a purplish
+hue over the building and some of the nearby streets.  Rosecrest Street
+is directly to the south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1123</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1121</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

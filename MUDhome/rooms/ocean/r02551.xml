@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="2551" Version="2.40a" Area="ocean">
+  <Name>Gotland Glenn Trail</Name>
+  <ShortDescription>You are on Gotland Glenn Trail, near the road around Lake Kista.</ShortDescription>
+  <LongDescription>The pass over the mountains to the north is blocked at this time of year,
+but when you can travel that way you will find it takes you to a vast
+grasslands.  The Gotland Glenn is a mysterious place that some report is 
+inhabited by a mole-like people who have built an entire city under the
+ground.  The wind never stops blowing across the Glenn, and earth-magic 
+is said to work very well there.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3217</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="5154" Version="2.40" Area="ocean">
+  <Name>Western Concourse</Name>
+  <ShortDescription>This is the western concourse of the Castle of Kayleigh.</ShortDescription>
+  <LongDescription>A few centuries ago, when this was a thriving and happy castle, this was
+the main concourse leading to the drawbridge at the front of the castle.
+The hall is wide enough that servants of the castle used it to bring wagons 
+this way for deliveries to the kitchen.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5153</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5157</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5089</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

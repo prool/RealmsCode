@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  chill spell       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 3
+School:  Evocation
+Domain:  Destruction
+
+This lowly spell causes a chill which drains body temperature abrubtly,
+harming the target through system-shock. Generally most creatures' nerves
+are vulnerable to such sudden changes in the temperate, though creatures
+innately immune to cold will only suffer minor wounds.
+
+Syntax:
+cast chill <target>

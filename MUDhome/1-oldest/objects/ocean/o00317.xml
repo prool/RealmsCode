@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="317" Area="ocean" Version="2.40">
+  <Name>sword of flaming death</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>200</ShotsMax>
+  <ShotsCur>200</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>4</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">flaming</Key>
+    <Key Num="1">death</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a mighty sword which appears to glow radiantly in all colors.</Description>
+  <UseOutput>A surge of power like nothing else you've ever felt shoots through you.</UseOutput>
+  <Weight>5</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Clans>
+	<Clan Id="0">
+		<Name>Unknown</Name>
+	</Clan>
+	<Clan Id="1">
+		<Name>Ironforge Clan</Name>
+		<Join>2000</Join>
+		<Rescind>10000</Rescind>
+		<SkillBonus>
+			<Skill Name="bash">3.0</Skill>
+			<Skill Name="berserk">2.0</Skill>
+			<Skill Name="circle">1.0</Skill>
+			<Skill Name="kick">1.0</Skill>
+		</SkillBonus>
+		<Deity>Gradius</Deity>
+	</Clan>
+</Clans>

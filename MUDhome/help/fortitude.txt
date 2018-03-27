@@ -1,0 +1,16 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  fortitude spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 30
+
+The fortitude spell increases your constitution, making you healthier and more
+resistant to poison and disease. This spell does not last long, but while it is
+in effect, you will have more hitpoints. A fortitude spell counteracts the
+effects of a weakness spell. This spell cannot be cast on undead.
+
+A fortitude spell will not work in conjunction with the berserk ability.
+Only a mage, lich, druid, or cleric may cast this spell.
+
+Syntax:
+cast fortitude <target>
+

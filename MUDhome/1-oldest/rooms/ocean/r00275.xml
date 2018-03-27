@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="275" Version="2.41a" Area="ocean">
+  <Name>Entrance to the Avatar Ruins</Name>
+  <ShortDescription>You are at the main entrance to the magnificent Avatar Ruins.</ShortDescription>
+  <LongDescription>The Avatar Ruins were supposedly created eons ago when the avatars of
+the gods clashed, creating odd rock formations and even stranger anti-
+magic zones.  The Avatar Ruins are one such zone where no magic can be
+used against anyone else.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="17"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">605</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">276</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

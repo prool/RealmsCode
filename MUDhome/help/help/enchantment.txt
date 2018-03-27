@@ -1,0 +1,14 @@
+^WSpells:^x
+    courage
+    curse
+    enchant
+    fear
+    globe-of-silence
+    hold-person
+    scare
+    silence
+    stun
+
+See also:
+    HELP SCHOOLS
+

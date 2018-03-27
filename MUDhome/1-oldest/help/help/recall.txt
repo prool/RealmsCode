@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  recall          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+For players level seven and under, this command will recall you to your
+starting room provided that you are not in combat.
+
+For players over level seven, or if you are in combat this command will 
+search through your inventory  for a hazy potion (rather, any potion with
+the  word-of-recall spell) and make  you drink it. The potion can be 
+anywhere on your  person; it can be in a bag, you can be holding it, or you 
+can be holding a bag with the potion in it.
+

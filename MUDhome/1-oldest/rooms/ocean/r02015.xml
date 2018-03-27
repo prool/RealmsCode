@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="2015" Version="2.40a" Area="ocean">
+  <Name>Kista Detention and Correctional Facility</Name>
+  <ShortDescription>You are in a large room surrounded by iron bars with elven guards wandering
+around you.  There is a key hole on the iron gate, but you can't get to it.</ShortDescription>
+  <LongDescription>The detention and correctional facility was designed to hold criminals
+and other rogues who continue to plague our society, and keep them off
+the streets.  To date, no one has escaped from this facility.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">103</Mob>
+      <Mob Area="ocean" Num="1">103</Mob>
+      <Mob Area="ocean" Num="2">103</Mob>
+      <Mob Area="ocean" Num="3">103</Mob>
+      <Mob Area="ocean" Num="4">103</Mob>
+      <Mob Area="ocean" Num="5">103</Mob>
+      <Mob Area="ocean" Num="6">103</Mob>
+      <Mob Area="ocean" Num="7">103</Mob>
+      <Mob Area="ocean" Num="8">103</Mob>
+      <Mob Area="ocean" Num="9">103</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>gate</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">2029</Room>
+      <Key>38</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

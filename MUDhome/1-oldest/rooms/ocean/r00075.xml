@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="75" Version="2.40" Area="ocean">
+  <Name>Gladitor Champion's Arena</Name>
+  <ShortDescription>This part of the arena is made for champions.</ShortDescription>
+  <LongDescription>Only the champions from previous fights are allowed in here, and this is
+the part of the arena that is the most packed with blood-thirsty crowds.
+There is bloody sawdust on the floor, and a few pieces of bodies that 
+were not picked up when the cleaning crew was at work.  Remember, your
+opponent has already won all of his previous fights.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="5"/>
+  </Flags>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">242</Mob>
+      <Mob Area="ocean" Num="1">242</Mob>
+      <Mob Area="ocean" Num="2">247</Mob>
+      <Mob Area="ocean" Num="3">248</Mob>
+      <Mob Area="ocean" Num="4">247</Mob>
+      <Mob Area="ocean" Num="5">248</Mob>
+      <Mob Area="ocean" Num="6">246</Mob>
+      <Mob Area="ocean" Num="7">246</Mob>
+      <Mob Area="ocean" Num="8">246</Mob>
+      <Mob Area="ocean" Num="9">242</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">74</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">118</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

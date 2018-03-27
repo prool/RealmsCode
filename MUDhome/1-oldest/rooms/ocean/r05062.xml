@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="5062" Version="2.40" Area="ocean">
+  <Name>Foggy Skies</Name>
+  <ShortDescription>You are high in the sky on the back of a copper dragon.</ShortDescription>
+  <LongDescription>You can no longer see your direction indicator, and cannot tell which way
+is north.  You might have to let the great beast under you find its head.
+If you start turning, no telling where you might wind up, but of course as
+soon as you can see your direction indicator again, you will be all right.</LongDescription>
+  
+  <Established>772228828</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>forward</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">5069</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right">
+      <Keys/>
+      <Room Area="ocean">5066</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="forward">
+      <Keys/>
+      <Room Area="ocean">5049</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

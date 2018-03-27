@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="824" Version="2.40" Area="ocean">
+  <Name>Crystal Alcove</Name>
+  <ShortDescription>You are in a very dis-illusioning place where nothing is what it appears
+to be.  The crystal reflects all light making it almost impossible to
+find you way around this place.  You have to look carefully for each exit.</ShortDescription>
+  <LongDescription>It's a good thing your compass works because there's no way to figure
+out which direction you're going.  All you can make out that iis significant
+are the various exits out of the place.  There appear to be an infinite 
+number of stairways up and down, but strangely about three times more exits
+going down than up.  All the exits look like they're very far away.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">825</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">840</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

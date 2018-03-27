@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="5043" Version="2.40" Area="ocean">
+  <Name>Light Clouds Over Gotland Glenn</Name>
+  <ShortDescription>You are on the back of a copper dragon in light clouds.  50.n3.e3.s0.w0</ShortDescription>
+  <LongDescription>To the east is a sparkling river which flows to the south across the vast
+Gotland Glenn.  There are light clouds in that direction, and if you don't
+want to get lost in them, you could turn away, or perhaps fly higher.  To
+the north there is a dark mountain range.</LongDescription>
+  
+  <Established>772228520</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5062</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5042</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5062</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5035</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

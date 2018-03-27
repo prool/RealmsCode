@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1628" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are walking along Hillcrest Drive, south of the Allisk Manor.</ShortDescription>
+  <LongDescription>Natasha de Allisk is thought to be one of the last remaining vampires in
+Oceancrest, most of the others being vanquished some decades ago by some
+overly pompus paladins who didn't like the way the vampires were killing
+the children.  Natasha escaped capture by putting a curse on her Mansion
+making it nearly impossible to reach her.  She also built the Allisk 
+Labyrinth to provide an accessible escape for her vampire brothers and
+sisters.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1629</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1627</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="3254" Version="2.40" Area="ocean">
+  <Name>Yellowish-Orange Brick Road</Name>
+  <ShortDescription>You are on a path leading away from Oceancrest, it looks as if it
+goes on forever, maybe you are just imagining it.</ShortDescription>
+  <LongDescription>This road is paved with large yellowish orange bricks, but you were 
+never very good at telling colors.  The bricks look like they might 
+have some value if you could pry one out, but they look as if they 
+were set by powerful magic.</LongDescription>
+  
+  <Established>756069745</Established>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">417</Mob>
+      <Mob Area="ocean" Num="1">417</Mob>
+      <Mob Area="ocean" Num="2">417</Mob>
+      <Mob Area="ocean" Num="3">417</Mob>
+      <Mob Area="ocean" Num="4">417</Mob>
+      <Mob Area="ocean" Num="5">417</Mob>
+      <Mob Area="ocean" Num="6">417</Mob>
+      <Mob Area="ocean" Num="7">417</Mob>
+      <Mob Area="ocean" Num="8">417</Mob>
+      <Mob Area="ocean" Num="9">417</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3253</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3255</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

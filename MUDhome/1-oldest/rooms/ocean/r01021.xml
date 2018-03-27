@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="1021" Version="2.40" Area="ocean">
+  <Name>Eidenhoft/Hillcrest/Marina Intersection</Name>
+  <ShortDescription>You are at the three-way intersection of Eidenhoft Boulevard, Hillcrest
+Drive and Marina Way.</ShortDescription>
+  <LongDescription>Three major roads come together at this intersection.  Marina Way runs
+from the south end of town all the way to Nylandian Bay and into the
+harbor.  Hillcrest is a long road which travels from the west City Wall
+to the east City Wall, going through three major sections of town.  
+Eidenhoft Boulevard is a strange road which leads through most of 
+Oceancrest's famous monuments.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1020</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1022</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1114</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1115</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1150</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1618</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

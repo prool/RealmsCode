@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="559" Area="ocean" Version="2.40">
+  <Name>rusty shield</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>20</ShotsMax>
+  <ShotsCur>20</ShotsCur>
+  <Armor>30</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">400</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">shield</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+  </Flags>
+  <Description>Although bright red-orange with rust, the shield is heavy and strong.</Description>
+  <Weight>8</Weight>
+  <Type>6</Type>
+  <SubType>shield</SubType>
+  <WearFlag>18</WearFlag>
+  <InBag/>
+</Object>

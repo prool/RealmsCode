@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3987" Version="2.40" Area="ocean">
+  <Name>Trantori's Redwood</Name>
+  <ShortDescription>You near the base of a huge redwood, inside a hollow shaft.</ShortDescription>
+  <LongDescription>The interior of the redwood is spacious, and there seems to be plenty of room
+to climb either up or down, your choice.  Ladder rungs are on the inside
+of the tree, making it easy to climb.</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3981</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3988</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

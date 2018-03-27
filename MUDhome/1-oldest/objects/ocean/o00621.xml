@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="621" Area="ocean" Version="2.40">
+  <Name>thieve's dirk</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>4</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">3000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">dirk</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="39"/>
+  </Flags>
+  <Description>The thieve's dirk is a powerful weapon usable only by thieves.</Description>
+  <Weight>2</Weight>
+  <Type>5</Type>
+  <SubType>dagger</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

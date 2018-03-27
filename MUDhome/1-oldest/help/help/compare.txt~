@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  compare          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+A simple function that lets you compare two weapons or two pieces of armor
+and see which one is better.
+
+
+Example:
+: comp fireb staff
+The fireblade (+1) seems ^rworse^x than the fire staff (+3).
+: comp staff fireb
+The fire staff (+3) seems ^gbetter^x than the fireblade (+1).
+

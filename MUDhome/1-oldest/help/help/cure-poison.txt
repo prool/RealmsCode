@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  cure-poison spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 10
+School:  Not Castable
+Domain:  Healing
+
+This spell removes poison from the its target, whether delivered by magic
+of physical means. Thus, poison contracted from any source is able to be
+lifted by this spell. Only clerics and paladins may cast this spell, but
+others may cast a lesser version called slow-poison.
+
+Syntax:
+cast cure-poison <target>
+

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3661" Version="2.40" Area="ocean">
+  <Name>Tunnel Split</Name>
+  <ShortDescription>You have come to a three-way split in the tunnel.</ShortDescription>
+  <LongDescription>The main tunnel continues to the north, while two others run southwest
+and southeast.  A light breeze comes from the southeast direction, and
+the floor rises at an upward cant in that direction.  The tunnel going
+in the southwest direction is barely wide enough for you to turn sideways
+and squeeze through.  The sound of a rusty hinge slowly opening comes
+from that direction.</LongDescription>
+  
+  <Established>765142611</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3655</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3679</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3680</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

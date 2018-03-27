@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Room Num="353" Version="2.40" Area="ocean">
+  <Name>Rum Road/Long Dock Intersection</Name>
+  <ShortDescription>You are at the intersection of Rum Road and the Long Dock.</ShortDescription>
+  <LongDescription>At the southern end of Rum Road you see the island's famous dwarven
+distillery where the finest and strongest rum is made.  Both sides of the
+road have an equal number of garish pubs and saloons, and a great deal
+of noise is coming from them all.  Standing by itself at the north end
+of the road is a bright red house.  Quite a few women of all races are
+hanging out the windows and lolling on the veranda.  They don't seem to
+be wearing much in the way of clothes, and they seem to know a lot of
+the sailors and pirates walking nearby.</LongDescription>
+  
+  <Established>760475092</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">77</Mob>
+      <Mob Area="ocean" Num="1">77</Mob>
+      <Mob Area="ocean" Num="2">77</Mob>
+      <Mob Area="ocean" Num="3">77</Mob>
+      <Mob Area="ocean" Num="4">77</Mob>
+      <Mob Area="ocean" Num="5">77</Mob>
+      <Mob Area="ocean" Num="6">77</Mob>
+      <Mob Area="ocean" Num="7">77</Mob>
+      <Mob Area="ocean" Num="8">77</Mob>
+      <Mob Area="ocean" Num="9">77</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">352</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">354</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">363</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

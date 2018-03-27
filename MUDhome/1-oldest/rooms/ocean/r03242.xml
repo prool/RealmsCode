@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="3242" Version="2.40" Area="ocean">
+  <Name>Lake Kista East Shore</Name>
+  <ShortDescription>You are standing knee deep in water on the east shore of Lake Kista.</ShortDescription>
+  <LongDescription>The lake is fed from springs and and streams, but there are rumors that
+the underground springs provide the lake with healing powers.  The water
+is dark and placid, and although it might be good for you, it doesn't
+look that way.  </LongDescription>
+  
+  <Established>756037261</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">421</Mob>
+      <Mob Area="ocean" Num="1">421</Mob>
+      <Mob Area="ocean" Num="2">422</Mob>
+      <Mob Area="ocean" Num="3">422</Mob>
+      <Mob Area="ocean" Num="4">423</Mob>
+      <Mob Area="ocean" Num="5">423</Mob>
+      <Mob Area="ocean" Num="6">425</Mob>
+      <Mob Area="ocean" Num="7">425</Mob>
+      <Mob Area="ocean" Num="8">289</Mob>
+      <Mob Area="ocean" Num="9">290</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3241</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3243</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3244</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3245</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

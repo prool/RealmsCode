@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Room Num="1587" Version="2.40a" Area="ocean">
+  <Name>Trees Above Etolos</Name>
+  <ShortDescription>You are in the circle of trees high above the forest of Etolos.</ShortDescription>
+  <LongDescription>The large trees will support a number of people by themselves, but the
+druids have laid planks along the trees to allow easy access to the 
+area.  It is up here in the trees that the druids and archdruids meet
+to talk about what is best for their society.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">180</Mob>
+      <Mob Area="ocean" Num="1">181</Mob>
+      <Mob Area="ocean" Num="2">179</Mob>
+      <Mob Area="ocean" Num="3">179</Mob>
+      <Mob Area="ocean" Num="4">180</Mob>
+      <Mob Area="ocean" Num="5">181</Mob>
+      <Mob Area="ocean" Num="6">183</Mob>
+      <Mob Area="ocean" Num="7">183</Mob>
+      <Mob Area="ocean" Num="8">183</Mob>
+      <Mob Area="ocean" Num="9">183</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>tree limb</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">1583</Room>
+      <Flags>
+        <Bit Num="9"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1588</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1594</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tree limb">
+      <Keys/>
+      <Room Area="ocean">1586</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

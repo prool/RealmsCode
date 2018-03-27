@@ -1,0 +1,5 @@
+Help on: *clanlist
+
+Lists all current clans.
+
+Syntax: *clanlist

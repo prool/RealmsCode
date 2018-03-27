@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5472" Version="2.40" Area="ocean">
+  <Name>Castle Rutger Road</Name>
+  <ShortDescription>You are high on the side of a mountain, traveling on a winding road.</ShortDescription>
+  <LongDescription>Not to far above you are the gates to Castle Rutger.  From here, you can
+see the towers and spires, and the ramparts guarded by archers.  Flags and
+pennants can be seen whipping in the breeze.  There seems to be a level lot
+near the gate where you can see a lot of empty carts and wagons waiting to 
+be used by merchants and travelers who visit here.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5471</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5473</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

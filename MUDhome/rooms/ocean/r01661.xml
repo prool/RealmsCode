@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1661" Version="2.40" Area="ocean">
+  <Name>Appleton Road</Name>
+  <ShortDescription>You are walking along Appleton Road, southeast of the Allisk Circle.</ShortDescription>
+  <LongDescription>Appleton Road runs diagonally through the southern edge of town, passing
+between the Circle-Bar Cattle Ranch and the Slaughterhouse.  It continues
+southeast until it reaches the southern City Walls at Golden Dolphin Way.
+To the northwest, you can see the Allisk Circle, one of the centers of
+unnatural activity in Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1243</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1662</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

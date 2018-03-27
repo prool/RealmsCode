@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="5018" Version="2.40" Area="ocean">
+  <Name>Light Cloudy Sky</Name>
+  <ShortDescription>You are flying in light clouds.  50.n3.e1.s0.w0</ShortDescription>
+  <LongDescription>The clouds obscure your view of the ground, but its patchy and you will soon
+be out of the them.  The clouds seems to be drifting with the prevailing
+winds, which are coming from the west.</LongDescription>
+  
+  <Established>772227865</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5052</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5033</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5035</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5016</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

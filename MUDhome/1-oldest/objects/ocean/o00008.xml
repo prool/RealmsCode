@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="8" Area="ocean" Version="2.40">
+  <Name>cloth armor</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>15</ShotsMax>
+  <ShotsCur>15</ShotsCur>
+  <Armor>13</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">armor</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+  </Flags>
+  <Weight>5</Weight>
+  <Type>6</Type>
+  <SubType>cloth</SubType>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

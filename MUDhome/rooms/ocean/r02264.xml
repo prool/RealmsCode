@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="2264" Version="2.40" Area="ocean">
+  <Name>The Green Training Room</Name>
+  <ShortDescription>A majestic knight stands in front of you, waiting for your first move.</ShortDescription>
+  <LongDescription>In order to advance to the level of Gallant Warrior, First Class, you
+must first defeat the knight who stands before you.  The test of strength
+in front of an enemy who is of a higher level than you proves your 
+worthiness to advance to the next level.</LongDescription>
+  <LowLevel>2</LowLevel>
+  <HighLevel>2</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training room</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">280</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">356</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">2267</Room>
+      <Key>6</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2262</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

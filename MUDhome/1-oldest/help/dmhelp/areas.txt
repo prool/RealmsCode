@@ -1,0 +1,136 @@
+
+Area Name.......Manticore Lair
+Location........Bloodmound Hills
+Size............10 rooms
+Room numbers....1890-1899
+Mob numbers.....1890-1895 (6 max)
+Obj numbers.....1890-1899
+
+Builder: UNASSIGNED(Open)
+Posted: 01/30/02
+
+Description:
+Manticores have been sighted in the deep Bloodmound
+Hills. They feed on gnomes, orcs, gnolls, werewolves,
+anything they can find when they take to the sky.
+You will be building their lair. The area is pretty
+small, a tiny cave/cavern complex with a couple rooms
+outside it. All the rooms should not be used inside
+the caves. Inside the cave it should smell very
+disgusting, with rotting corpses all over the place.
+There should be bones with rotting flesh on them,
+and chewed-on bones. Think of an unclean animal and
+what its den would look and smell like. Manticores 
+have the body of a lion, the head of a man with a 
+beard, and huge bats' wings. They have a long tail 
+which has razor sharp spikes sticking out of it which
+they can launch at their foes. This might be coded
+into the game eventually as a monster flag.
+
+Monster specifics:
+Manticores should be from 8-10th level, *balanced
+normally. "Manticore" doesnt have to be the only
+name you use. You can also vary the names based
+on their fur color or age: grey-maned manticore, 
+manticore cub, red-bearded manticore, etc...They
+should all be aggro, save maybe the young. They
+should also have an alignment range of -50 to -20,
+and drop around 500 to 1000 gold. They should be
+very strong and dextrous, have high constitution, 
+and have low intelligence and piety.
+
+Drops:
+Manticores would drop things like manticore spikes,
+gems of various types, half-eaten bones, manticore
+hides, manticore manes, etc...
+
+------------------------------------------------------
+
+Area Name.......Giant frog spawning ground
+Location........Lower Durgas River
+Size............4 rooms
+Room numbers....4896-4899
+Mob numbers.....4896-4899
+Obj numbers.....4896-4899
+
+Builder: UNASSIGNED(Open)
+Posted: 01/31/02
+
+Description:
+This part of the lower Durgas River is known for its
+giant frogs. In nearby Tradetown, their legs are sought
+after as a very rich delicacy. They aren't that easy
+to aquire though. The area they live in is only four
+rooms really. Two rooms should be above ground, and
+two should be below. One should be an egg chamber, and
+should be the only place where young would be. Below
+water rooms need the player harm and water flags set.
+The two above water rooms will actually be IN the
+river, but wading in the shallows. The current is
+strong, so the Difficult Move room flag, along with
+the water room flag needs to be set there, as well
+as the "environment destroys dropped items" flag.
+
+Monster specifics:
+Giant frogs need to be from level 4 to level 6, *balanced
+normally or weak. They will show up in 2s. "giant frog"
+is not the name that should be used for them. More
+descriptive names should be chosen. A max number of 6 mobs 
+should ever be allowed to be in any one room in this 
+area, and the traffic needs to be no higher than 30%.
+Giant frogs are poisonous, so they need the poisons flag.
+Female frogs, in the underwater rooms, should be aggro, 
+because they defend their young. Giant frogs drop no gold. 
+They should have average strength, high dex, normal con, 
+and animal int and pie. They are neutral in alignment.
+
+Drops:
+They will drop giant frog membranes, giant frog legs, a
+frog's tongue, and maybe frog slime.
+
+------------------------------------------------------
+
+Area Name.......Owlbears!
+Location........Druidwood
+Size............20 rooms
+Room numbers....8600-8619
+Mob numbers.....8600-8619
+Obj numbers.....8600-8619
+
+Description:
+In the deep Druidwood, there is a druid enclave where
+the center of the Order for the southern lands is. In
+the forest before you get there, is a maze-like area
+of trees, with a hole leading to an owlbear den in it.
+The owlbears are charmed by the druids to guard the
+enclave. This area constitutes the maze of trees, as 
+well as the hole and the den inside.
+
+Monsters:
+Owlbears should be from levels 9 to 12, balanced buff.
+Owlbears are vicious creatures, with the body of a
+bear and the head of a huge owl. They have razor-sharp
+claws, a razor-sharp beak, and they are as strong as
+a hill giant. They are fanatically territorial, and
+usually only magic can control them. They should be
+extremely strong, be relatively dextrous, have a very
+high constitution, and have animal int and pie. Names
+should not just be "owlbear", but should reflect color
+and age. Owlbears are strictly neutral in alignment.
+They drop no gold. They should be aggro evil AND aggro
+good. Only neutrals are safe from them. ONE type of
+them needs to be random-aggro.
+
+Drops: They'd drop owlbear feathers (of various colors),
+owlbear claws, other things u can think of that make
+sense.
+
+
+
+
+
+
+
+
+
+

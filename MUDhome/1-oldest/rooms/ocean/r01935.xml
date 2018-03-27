@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room Num="1935" Version="2.44b" Area="ocean">
+  <Name>Riverdell Center for Tracking Training</Name>
+  <ShortDescription>Welcome Rangers to the Riverdell Center for Tracking and Training.</ShortDescription>
+  <LongDescription>The large complex to the east provides you with the best training 
+facilities for rangers through the fifteenth level and beyond.  Only
+Rangers may enter the park to work on their skills.  All training
+locations are well hidden, so you must use your tracking and searching
+skills to find them.  Once you have entered the park, you must find one
+of the training locations before you can leave.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>west</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1199</Room></Target><Effects></Effects></Exit><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">2400</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

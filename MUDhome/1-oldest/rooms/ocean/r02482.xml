@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2482" Version="2.40" Area="ocean">
+  <Name>Ranger Training Location</Name>
+  <ShortDescription>You are at the ranger's training location for level fourteen rangers.</ShortDescription>
+  <LongDescription>You have almost exhausted the resources of the Riverdell Tracking and
+Training Facility.  The final training location within the park will
+advance you beyond level fifteen.  That, however, is still quite a 
+distance away.</LongDescription>
+  <LowLevel>14</LowLevel>
+  <HighLevel>14</HighLevel>
+  
+  <Established>727257105</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="6"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2481</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

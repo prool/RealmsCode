@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  blur spell        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 10
+School:  Illusion
+Domain:  Trickery
+
+The blur spell blurs the outline of the target, making them more difficult
+to hit in combat. The caster of this spell does not suffer this penalty
+when attacking the target. The true-sight spell also allows the attacker
+to see through the blur effect.
+
+Syntax:
+cast blur <target>
+

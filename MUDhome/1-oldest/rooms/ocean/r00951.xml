@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<Room Num="951" Version="2.40" Area="ocean">
+  <Name>The Widow Maker Main Deck</Name>
+  <ShortDescription>You are on the main deck of the Widow Maker Pirate Ship.</ShortDescription>
+  <LongDescription>Pirates are very civil when they are in a friendly port, but when at 
+sea, they can be very dangerous.  Of course, most of the facade they put
+on while in town is really just a farce.  They only come into town when
+they require supplies or other necessities before going out onto the seas
+again to attack other ships.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>18</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">496</Mob>
+      <Mob Area="ocean" Num="1">496</Mob>
+      <Mob Area="ocean" Num="2">496</Mob>
+      <Mob Area="ocean" Num="3">496</Mob>
+      <Mob Area="ocean" Num="4">308</Mob>
+      <Mob Area="ocean" Num="5">308</Mob>
+      <Mob Area="ocean" Num="6">308</Mob>
+      <Mob Area="ocean" Num="7">308</Mob>
+      <Mob Area="ocean" Num="8">308</Mob>
+      <Mob Area="ocean" Num="9">308</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3311</Room>
+      <Flags>
+        <Bit Num="19"/>
+      </Flags>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">952</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">959</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">956</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">362</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

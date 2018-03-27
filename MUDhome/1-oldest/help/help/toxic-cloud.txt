@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  toxic-cloud spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 20
+School:  Conjuration
+Domain:  Destruction
+
+The toxic-fog spell will summon a poisonous cloud to the area. The cloud will
+harm anyone who breathes it in, excluding the caster, creatures who don't
+breathe, or creatures immune to poison.
+
+Syntax:
+cast toxic-cloud

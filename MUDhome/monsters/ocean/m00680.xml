@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<Creature Num="680" Area="ocean" Version="2.40">
+  <Name>aboleth</Name>
+  <Level>20</Level>
+  <Type>1</Type>
+  <Experience>1600</Experience>
+  <Coins>
+    <Coin Num="2">2500</Coin>
+  </Coins>
+  <Alignment>-50</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>240</Current>
+      <Max>240</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>220</Current>
+      <Max>220</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>320</Current>
+      <Max>320</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a amphibious creature with flailing, venomous tentacles.</Description>
+  <Keys/>
+  <MoveTypes/>
+  <Armor>510</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>5</Number>
+    <Sides>2</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <DefenseSkill>195</DefenseSkill>
+  <AttackPower>240</AttackPower>
+  <WeaponSkill>195</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">726</Carry>
+    <Carry Area="ocean" Num="1">726</Carry>
+    <Carry Area="ocean" Num="2">726</Carry>
+    <Carry Area="ocean" Num="3">731</Carry>
+    <Carry Area="ocean" Num="4">731</Carry>
+    <Carry Area="ocean" Num="5">731</Carry>
+    <Carry Area="ocean" Num="6">727</Carry>
+    <Carry Area="ocean" Num="7">727</Carry>
+    <Carry Area="ocean" Num="8">729</Carry>
+    <Carry Area="ocean" Num="9">729</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="18"/>
+    <Bit Num="37"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="15"/>
+    <Bit Num="17"/>
+    <Bit Num="22"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

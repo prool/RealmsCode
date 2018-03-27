@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3171" Version="2.40" Area="ocean">
+  <Name>Lost in the Respitial Sea</Name>
+  <ShortDescription>You are floating on the waves of a vast sea, hopelessly lost.</ShortDescription>
+  <LongDescription>This is the type of weather that makes the weather wizards in Oceancrest
+very happy.  It gives them a chance to watch their apprentices practice
+their magic their skills.  It also lets them do a little showing off to 
+fellow wizards.  Anyway, you might expect the weather to change drastically
+any minute now.  Maybe you ought to quit playing around and find land.</LongDescription>
+  
+  <Established>756084690</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3174</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3172</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3170</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3180</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

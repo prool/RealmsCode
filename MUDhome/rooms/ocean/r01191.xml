@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1191" Version="2.40a" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, just north of the Weapons Plaza.</ShortDescription>
+  <LongDescription>Evander's World of Weapons boasts the largest selection of the best weapons
+money can buy.  There are separate shops for polearms, armors and swords.
+Evander doesn't really cater to bows and missile weapons because the elves
+make much better products.  The entrance to the center is located to the
+south.  Evander also buys used weapons to recycle into new ones.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">6</Mob>
+      <Mob Area="ocean" Num="1">6</Mob>
+      <Mob Area="ocean" Num="2">5</Mob>
+      <Mob Area="ocean" Num="3">5</Mob>
+      <Mob Area="ocean" Num="4">5</Mob>
+      <Mob Area="ocean" Num="5">1</Mob>
+      <Mob Area="ocean" Num="6">1</Mob>
+      <Mob Area="ocean" Num="7">4</Mob>
+      <Mob Area="ocean" Num="8">7</Mob>
+      <Mob Area="ocean" Num="9">8</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1190</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1192</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1980</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

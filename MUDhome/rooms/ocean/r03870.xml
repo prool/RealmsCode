@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3870" Version="2.40" Area="ocean">
+  <Name>Aquaduct Cistern</Name>
+  <ShortDescription>You are standing at the bottom of a brick cistern and see an aquaduct tunnel.</ShortDescription>
+  <LongDescription>Water bubbles from a spring at your feet and flows into a dark tunnel to
+the east.   The tunnel appears to form a brick lined aquaduct.  The water
+is flowing in a steady stream in that direction, but not enough to fill
+the tunnel.  You could wade into the aquaduct if you choose to go that way.</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3869</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3871</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

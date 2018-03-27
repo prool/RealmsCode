@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="1245" Version="2.40" Area="ocean">
+  <Name>Allisk Circle</Name>
+  <ShortDescription>You are walking along the southern edge of the Allisk Circle.</ShortDescription>
+  <LongDescription>As you walk around the Allisk Circle, you notice that the center is unlike
+most of the other "traffic circles" you have encountered.  The center is
+almost devoid of all life.  It is covered in dead grass and wilting weeds.
+Regalia Way, not to be confused with Regalia Drive, runs southwest from
+here.  Lankshire Parkway continues to the south out of the Circle.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1246</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1243</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1244</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1660</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="circle">
+      <Keys/>
+      <Room Area="ocean">1259</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

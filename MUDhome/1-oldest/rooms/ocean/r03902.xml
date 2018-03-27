@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3902" Version="2.40" Area="ocean">
+  <Name>Wedding Chapel</Name>
+  <ShortDescription>You are in the Holy Order of Corellon Larethian Wedding Chapel.</ShortDescription>
+  <LongDescription>Although this chapel is smaller than the main audience chamber outside,
+it is no less richly appointed.  Unlike many other races, the elves have
+always been very rich, and enjoy showing their wealth in this, their shrine
+to Larethian.  A canopy stands near a small altar of white marble, the
+place of honor for the bride and groom, and lush, indoor plants create a
+wonderful aroma of blooming flowers.</LongDescription>
+  
+  <Established>768604285</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+    <Bit Num="32"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3901</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

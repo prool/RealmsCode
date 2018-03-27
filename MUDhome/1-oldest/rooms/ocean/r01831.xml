@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1831" Version="2.40" Area="ocean">
+  <Name>The Central Path</Name>
+  <ShortDescription>You are walking along the central path just west of the Ramdes River.</ShortDescription>
+  <LongDescription>The center path train joins the other trails coming from the southern
+part of the Barbarian Pits at the bridge crossing the Ramdes River
+to the southeast.  The large river divides the Pits into two sections,
+the larger one being on the west side of the river.  Not much lies on
+the eastern side of the river except an access path to a deep valley.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">261</Mob>
+      <Mob Area="ocean" Num="1">261</Mob>
+      <Mob Area="ocean" Num="2">261</Mob>
+      <Mob Area="ocean" Num="3">262</Mob>
+      <Mob Area="ocean" Num="4">262</Mob>
+      <Mob Area="ocean" Num="5">263</Mob>
+      <Mob Area="ocean" Num="6">264</Mob>
+      <Mob Area="ocean" Num="7">264</Mob>
+      <Mob Area="ocean" Num="8">261</Mob>
+      <Mob Area="ocean" Num="9">262</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1832</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1844</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1825</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

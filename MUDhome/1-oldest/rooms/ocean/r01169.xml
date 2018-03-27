@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1169" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard/Main Street Intersection</Name>
+  <ShortDescription>You are at the intersection of Eidenhoft Boulevard and Main Street.</ShortDescription>
+  <LongDescription>Main Street runs east to west and intersects Eidenhoft Boulevard which is a
+popular north south throughfare.  There are a lot of little shops along Main
+Street, and many of them have strange and unfamiliar things on display.  
+Most merchandise comes from far off lands, brought here by seamen hoping
+to earn a little gold before wasting it at the pubs.  Over on the southwest
+corner is a shop called, "Dante's Daggers and Darts."  The entrance is just
+off of Main Street.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1168</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1207</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1170</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">565</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

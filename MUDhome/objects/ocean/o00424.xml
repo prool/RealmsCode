@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="424" Area="ocean" Version="2.40">
+  <Name>white button</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>3</Sides>
+    <Plus>6</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">button</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="18"/>
+  </Flags>
+  <Description>There is a clear white button on the north wall.</Description>
+  <UseOutput>01234</UseOutput>
+  <Weight>1</Weight>
+  <Type>14</Type>
+  <InBag/>
+</Object>

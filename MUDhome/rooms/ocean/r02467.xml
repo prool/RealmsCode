@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2467" Version="2.40" Area="ocean">
+  <Name>Ranger Training Location</Name>
+  <ShortDescription>You have reached the Ranger's Training Location for Scouts.</ShortDescription>
+  <LongDescription>If you are a level three searcher, or a level four scout, you may train
+here to advance to your next level.  After training up to level five, 
+you must seek out the next training site by continuing on through the
+park.  </LongDescription>
+  <LowLevel>3</LowLevel>
+  <HighLevel>4</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="6"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2466</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

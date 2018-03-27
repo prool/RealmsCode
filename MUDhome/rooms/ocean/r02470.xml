@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="2470" Version="2.40" Area="ocean">
+  <Name>Riverdell Bush</Name>
+  <ShortDescription>You find yourself under a strange berry bush with a number of bees.</ShortDescription>
+  <LongDescription>The bees don't really bother you if you leave them alone.  Your ranger
+tracking skills are improving with each level.  If your goal is to train,
+you should enter the hole below the small shrub.  If you wish to leave the
+park, go out.  If you wish to remain in the park, you must track out of 
+here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="18"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="hole">
+      <Keys/>
+      <Room Area="ocean">2471</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1935</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2414</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

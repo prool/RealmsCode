@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="2016" Version="2.40" Area="ocean">
+  <Name>Hogoth's Beer Garden</Name>
+  <ShortDescription>You are in a small beer garden managed by a stout little dwarf named Hogoth.</ShortDescription>
+  <LongDescription>This pleasant little beer garden has both indoor and outdoor drinking areas,
+and is a favorite place for both travelers and locals in the afternoon and
+evening.  Travelers can walk across the way from the stables to the north
+and find good company here.  It's always nice to hear the latest stories of
+adventure and catch up on the gossip.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2011</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

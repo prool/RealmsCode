@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="5068" Version="2.40" Area="ocean">
+  <Name>Dark Clouds</Name>
+  <ShortDescription>You are flying over the mouth of Tasletek Gorge.  50.n5.e1.s0.w0</ShortDescription>
+  <LongDescription>The dark clouds turn to an even darker looking fog down below in the gorge.
+From time to time, through patches in the terrible mist you can see the dark
+river and sharp rocks.  The end of the gorge is to the southeast.</LongDescription>
+  
+  <Established>772702044</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5052</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5069</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

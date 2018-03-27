@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Room Num="1638" Version="2.47e" Area="ocean">
+  <Name>Leviathan Drive/Monument Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Monument Avenue and Leviathan Drive.</ShortDescription>
+  <LongDescription>This rather busy intersection forms the southeastern border of the Keslar
+Mountain, which was built artificially by the Keslarian Mages as a show
+of their powers.  On the southeastern corner of the intersection is the
+Holy Order of the White Rose, where young Paladins go to get their basic
+training and skills.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:52 2009
+</LastPlayerTime>
+  <BeenHere>1</BeenHere>
+  <Wander><Traffic>10</Traffic><RandomMonsters><Mob Area="ocean">564</Mob><Mob Area="ocean" Num="1">564</Mob><Mob Area="ocean" Num="2">564</Mob><Mob Area="ocean" Num="3">564</Mob><Mob Area="ocean" Num="4">564</Mob><Mob Area="ocean" Num="5">564</Mob><Mob Area="ocean" Num="6">564</Mob><Mob Area="ocean" Num="7">564</Mob><Mob Area="ocean" Num="8">564</Mob><Mob Area="ocean" Num="9">564</Mob></RandomMonsters></Wander>
+  <Track><Direction>south</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1639</Room></Target><Effects></Effects></Exit><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1637</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1651</Room></Target><Effects></Effects></Exit><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">1788</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

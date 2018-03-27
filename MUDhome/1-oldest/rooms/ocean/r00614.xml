@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="614" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard</Name>
+  <ShortDescription>You are walking along Avatar Boulevard, just north of Lelion Way.</ShortDescription>
+  <LongDescription>You can see the intersection with Lelion Way to the south.  On the east
+side of the road, there is a large center with a number of shops.  The
+entrance to the center is located to the north.  On the west side of the
+road is a rather smelly swamp or marsh.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">613</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">543</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

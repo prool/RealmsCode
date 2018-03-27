@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="570" Version="2.40" Area="ocean">
+  <Name>Leviathan Drive/Tranquility Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Tranquility Way and Leviathan Drive.</ShortDescription>
+  <LongDescription>Tranquility Way runs east from the intersection with Leviathan Drive, 
+heading north and south.  To the west, you can see the magnificent Avatar
+Ruins, a mysterious formation caused by the massive destructive forces
+of the Avatars many eons ago.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">569</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">571</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">395</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

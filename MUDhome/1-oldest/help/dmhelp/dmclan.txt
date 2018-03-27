@@ -1,0 +1,10 @@
+Help on:
+	DMCLAN
+
+Sends a message as if you were a member of the specified clan.
+
+Example:
+: dmclan vene Hey
+--- (Veneficus Atrum) Dominus clan sent, "Hey".
+:
+

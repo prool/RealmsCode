@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="709" Version="2.40a" Area="ocean">
+  <Name>Hillborough Way</Name>
+  <ShortDescription>You are walking along Hillborough Way, south of Danielle's Mage Emporium.</ShortDescription>
+  <LongDescription>Danielle Chanteclaire is one of the only living archmages in all of
+Oceancrest.  Not many people ever reach the status of archmage, and, in
+fact, there have only been ten archmages in all of history.  Only two
+are living today, which is quite amazing in itself.  Ironically, most
+of the archmages are still "alive" in the form of liches.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">708</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">637</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

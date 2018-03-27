@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="1459" Version="2.40" Area="ocean">
+  <Name>Stairway to Main Floor</Name>
+  <ShortDescription>You are on the stairway coming from the Lounge to the balcony.</ShortDescription>
+  <LongDescription>You can enter the balcony from here to the north.  The balcony overlooks
+most of the island and is used by a number of people to get away from
+the hassle and activity of the main floor.  The stairway leads down
+to the lounge.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">166</Mob>
+      <Mob Area="ocean" Num="1">167</Mob>
+      <Mob Area="ocean" Num="2">166</Mob>
+      <Mob Area="ocean" Num="3">167</Mob>
+      <Mob Area="ocean" Num="4">166</Mob>
+      <Mob Area="ocean" Num="5">167</Mob>
+      <Mob Area="ocean" Num="6">130</Mob>
+      <Mob Area="ocean" Num="7">130</Mob>
+      <Mob Area="ocean" Num="8">130</Mob>
+      <Mob Area="ocean" Num="9">130</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1460</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1476</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1463</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">1407</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

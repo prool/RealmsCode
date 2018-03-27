@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="2381" Version="2.40a" Area="ocean">
+  <Name>Darkened Cavern</Name>
+  <ShortDescription>You have entered the darker section of the caverns where the light from
+above the glacier can't quite penitrate.  There is a door to the west.  It's</ShortDescription>
+  <LongDescription>a massive oak door blocking your passage through the cavern.  There doesn't
+appear to be any sort of key that can open this huge door, but the lock
+looks pretty rusted, and might be easy to pick.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>727409551</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2801</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2379</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="602" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard</Name>
+  <ShortDescription>You are walking along Avatar Boulevard, east of the Embassy Court.</ShortDescription>
+  <LongDescription>There are three major races which inhabit Oceancrest, those being humans,
+elves and dwarves.  Although Oceancrest is considered a "mannish" town,
+many elves and dwarves also call Oceancrest "home".  However, occasionally,
+they will require to talk to officials of their same race, which is why
+the Embassy Court was set up.  Delegations from both the elven and dwarven
+races are represented there.  </LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">601</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">603</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

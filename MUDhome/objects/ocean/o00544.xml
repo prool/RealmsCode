@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="544" Area="ocean" Version="2.40">
+  <Name>mud ball</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">20</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">ball</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="13"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The mud ball has steam rising from it.</Description>
+  <Weight>5</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>32</MagicPower>
+  <InBag/>
+</Object>

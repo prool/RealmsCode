@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="575" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive/Yellow Marsh Road Intersection</Name>
+  <ShortDescription>You are at the intersection of Yellow Marsh Road and Leviathan Drive.</ShortDescription>
+  <LongDescription>Yellow Marsh Road is a short road which runs west from Leviathan, forming
+the southern edge of the Avatar Ruins.  Leviathan Drive continues to the
+north and south.  On the east side of the road is a strange, mysterious
+forest where trees seem to grow very tall, but no one dares to venture in.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="18"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>forest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">574</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">576</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="forest">
+      <Keys/>
+      <Room Area="ocean">1550</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">696</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

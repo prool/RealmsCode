@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="1727" Version="2.40" Area="ocean">
+  <Name>Riverdell Way/Hillcrest Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Hillcrest Drive and Riverdell Way.</ShortDescription>
+  <LongDescription>Hillcrest Drive runs to the east and west from here, extending the city's
+boundaries further to the east to encompass the great Allakaren Pyramid.
+Riverdell Way is a north-south street.  About a block to the north, there
+is a large oak tree in the center of a small traffic circle.  The Tree has
+been here longer than the city.  Small shops line the west side of the road.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">1</Mob>
+      <Mob Area="ocean" Num="3">1</Mob>
+      <Mob Area="ocean" Num="4">4</Mob>
+      <Mob Area="ocean" Num="5">4</Mob>
+      <Mob Area="ocean" Num="6">4</Mob>
+      <Mob Area="ocean" Num="7">1</Mob>
+      <Mob Area="ocean" Num="8">8</Mob>
+      <Mob Area="ocean" Num="9">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1728</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1726</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1793</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1794</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

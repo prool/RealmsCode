@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="941" Version="2.40a" Area="ocean">
+  <Name>West Hafnia Boulevard/Hafnia Circle Road</Name>
+  <ShortDescription>This is the intersection of the central boulevard of Hafnia and the circle.</ShortDescription>
+  <LongDescription>The circle continues to the north and south bringing you around to the other
+side of the city.  The circle is more or less deserted with the exception
+of some cheers and noise to the north.  The east/west boulevard will take  
+you through the center of this beautiful little mountain city. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">942</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">922</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5511</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

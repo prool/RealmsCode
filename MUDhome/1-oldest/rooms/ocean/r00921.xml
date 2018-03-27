@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="921" Version="2.40" Area="ocean">
+  <Name>South Hafnia Circle/Rue Caledonia Intersection</Name>
+  <ShortDescription>This is the southeast side of the City Hafnia.</ShortDescription>
+  <LongDescription>Rue Caledonia is the street directly north, connecting to Hafnia Boulevard.
+You seem to notice a lot of activity in this area of town.  On the west
+side of the street, farther north, you see a caravan assembly lot.  Toward 
+the south you detect an unpleasant odor, and notice a road sign directing 
+you to the city's dump.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5501</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">920</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5513</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

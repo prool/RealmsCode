@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="4057" Version="2.40" Area="ocean">
+  <Name>Back Yard of Granovetter's Inn</Name>
+  <ShortDescription>You are in the yard behind Granovetter's Inn, near several small buildings.</ShortDescription>
+  <LongDescription>This small village is called Granovetter's Corner by people who live in
+this region, and they often prefer to do business here rather than go clear
+into the big city of Oceancrest.  There is a blacksmith here who can fix
+most anything, and a no-questions-asked pawn shop.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="blacksmith">
+      <Keys/>
+      <Room Area="ocean">4058</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="inn">
+      <Keys/>
+      <Room Area="ocean">4054</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4047</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

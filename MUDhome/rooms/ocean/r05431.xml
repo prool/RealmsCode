@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="5431" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>You are on a tight turn on the road, and its hard to see very far.</ShortDescription>
+  <LongDescription>Above you is an overhanging cliff, providing you with some degree of
+protection from the cold wind and occasional snow flakes.  The wind seems
+to be particulary violent as it comes howling from the east, down from the
+mountain.  Mountain trolls are said to enjoy such weather.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">671</Mob>
+      <Mob Area="ocean" Num="1">671</Mob>
+      <Mob Area="ocean" Num="2">671</Mob>
+      <Mob Area="ocean" Num="3">671</Mob>
+      <Mob Area="ocean" Num="4">671</Mob>
+      <Mob Area="ocean" Num="5">671</Mob>
+      <Mob Area="ocean" Num="6">671</Mob>
+      <Mob Area="ocean" Num="7">671</Mob>
+      <Mob Area="ocean" Num="8">671</Mob>
+      <Mob Area="ocean" Num="9">671</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5430</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5432</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="4504" Version="2.40" Area="ocean">
+  <Name>Clerical Supply Room</Name>
+  <ShortDescription>You are in a small supply room where you may purchase limited supplies.</ShortDescription>
+  <LongDescription>As you look around, you realize this place is exactly what the name says.
+There are bibles, hymnals, prayer shawls, strings of beads, icons and
+and a variety of cassocks and albs on hangers.  A small silver keg appears
+to hold ceremonial wine, and there are a lot of small silver cups nearby.
+Looks like the acolytes have been drinking the wine.  Ask the acolyte for
+a selection.  (type:  selection acolyte)</LongDescription>
+  
+  <Established>774561422</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">728</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3615</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4503</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  sign           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Sign is a command useable only by dark elf players. Dark elves, through rigorous
+training through their young lives, are able to speak their language just as
+easily in sign language as they do speaking normally. You may sign to any other
+dark elf in the current room. Any other dark elves in the room will also
+comprehend what you signed as well. Note that being blind will prevent people
+from understanding you when you sign to them.
+
+Example:
+: sign bob Attack!
+You signed, "Attack!" to Bob.
+:

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1478" Version="2.40" Area="ocean">
+  <Name>Western Corridor</Name>
+  <ShortDescription>You are in the western corridor on the second level of the Palace.</ShortDescription>
+  <LongDescription>The western corridor runs (obviously) along the west side of the palace.
+There's relatively little going on here; the corridor's main use is
+for security.  You see a few guards wandering around making sure the
+area is secure.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">130</Mob>
+      <Mob Area="ocean" Num="1">130</Mob>
+      <Mob Area="ocean" Num="2">130</Mob>
+      <Mob Area="ocean" Num="3">130</Mob>
+      <Mob Area="ocean" Num="4">130</Mob>
+      <Mob Area="ocean" Num="5">130</Mob>
+      <Mob Area="ocean" Num="6">130</Mob>
+      <Mob Area="ocean" Num="7">130</Mob>
+      <Mob Area="ocean" Num="8">130</Mob>
+      <Mob Area="ocean" Num="9">130</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1476</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1481</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

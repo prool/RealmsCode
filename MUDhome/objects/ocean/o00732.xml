@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="732" Area="ocean" Version="2.40">
+  <Name>maze muddle</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">muddle</Key>
+    <Key Num="1"> </Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Weight>1</Weight>
+  <Type>14</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

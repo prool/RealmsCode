@@ -1,0 +1,37 @@
+Help on:
+	*clone
+
+Given a single piece of armor, *clone will create an entire suit of armor
+out of it.
+
+: i
+You have: a leaf-pattern tunic.
+: *clone
+This command will take a single piece of armor and create a set of armor out of it.
+It will save the items starting at <area.id> and will use between 9 and 10 spaces.
+Syntax: ^c*clone <object> <area.id> <partial desc>^x
+The partial description should complete the sentence, "It's a <item> _____".
+: i
+You have: a leaf-pattern tunic.
+: *clone tunic test.1
+Cloning leaf-pattern tunic.
+Syntax: ^c*clone <object> <area.id> <partial desc>^x
+The partial description should complete the sentence, "It's a <item> _____".
+: *clone tunic test.1 made from leaf patterns.
+Cloning leaf-pattern tunic.
+Saving leaf-pattern tunic to test:1... Object 1 - test updated.
+Saving leaf-pattern sleeves to test:2... Object 2 - test updated.
+Saving leaf-pattern pants to test:3... Object 3 - test updated.
+Saving leaf-pattern scarf to test:4... Object 4 - test updated.
+Saving leaf-pattern belt to test:5... Object 5 - test updated.
+Saving leaf-pattern gloves to test:6... Object 6 - test updated.
+Saving leaf-pattern hat to test:7... Object 7 - test updated.
+Saving leaf-pattern shoes to test:8... Object 8 - test updated.
+Saving leaf-pattern mask to test:9... Object 9 - test updated.
+^YDone!^x
+: i
+You have: a leaf-pattern belt, some leaf-pattern gloves, a leaf-pattern hat,
+  a leaf-pattern mask, some leaf-pattern pants, a leaf-pattern scarf, some
+  leaf-pattern shoes, some leaf-pattern sleeves, a leaf-pattern tunic.
+:
+

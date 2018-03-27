@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="871" Version="2.41b" Area="ocean">
+  <Name>Smooth Path</Name>
+  <ShortDescription>You are on a hard dirt path, worn smooth by the travel of many people.</ShortDescription>
+  <LongDescription>Tall trees shade the path and a gentle breeze skitters through the
+leaves.  The path is broad and clear, and seems to lead to a noisy
+campground to the west.  The path narrows in the eastern direction,
+and you can see a city street in the distance.</LongDescription>
+  
+  
+  <HighLevel>10</HighLevel>
+  
+  <Established>755724817</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">201</Mob>
+      <Mob Area="ocean" Num="1">201</Mob>
+      <Mob Area="ocean" Num="2">201</Mob>
+      <Mob Area="ocean" Num="3">201</Mob>
+      <Mob Area="ocean" Num="4">387</Mob>
+      <Mob Area="ocean" Num="5">387</Mob>
+      <Mob Area="ocean" Num="6">387</Mob>
+      <Mob Area="ocean" Num="7">387</Mob>
+      <Mob Area="ocean" Num="8">238</Mob>
+      <Mob Area="ocean" Num="9">238</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">870</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">872</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

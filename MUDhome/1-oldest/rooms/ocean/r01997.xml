@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="1997" Version="2.40" Area="ocean">
+  <Name>Dryfus' Elephant Leather Works</Name>
+  <ShortDescription>You are in Dryfus' Imported Leather Shop, catering to smaller races.</ShortDescription>
+  <LongDescription>Dryfus' Elephant Leather Works is one of the few dwarven-owned businesses
+in Oceancrest.  There isn't much of a demand for smaller-sized armors, but
+Dryfus carries most styles.  The Elephant Leather is twice as strong as
+regular leather armor, and usually lasts quite a bit longer as well.  The
+light leather armor is also custom made for dwarves, gnomes and halfings,
+and lasts significantly longer than standard leather armor.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1077</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

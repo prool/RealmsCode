@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  languages        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+This command allows you to see what language you are currently speaking, as well
+as the languages you currently know how to speak and understand.
+
+Example:
+: lang
+Currently speaking: common.
+Languages known: elven, common, orcish, giantkin, darkelf, goblinoid, celestial,
+  infernal, wolfen, thieves' cant.
+:

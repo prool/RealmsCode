@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1916" Version="2.40" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are walking on Oceancrest Avenue south of the Ashton Falls Resort.</ShortDescription>
+  <LongDescription>It's very expensive to live in the Ashton Falls Resort, but many of the
+higher level people in Oceancrest consider it worth it.  The gardens
+inside are said to rival any in the world, and the living spaces are
+secluded and very private.  The main entrance is further to the east,
+and a quaint little shopping center is a little way to the west.</LongDescription>
+  
+  <Established>758792878</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1917</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1915</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

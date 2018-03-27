@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="579" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive, east of the Sacred Temple of Lolth.</ShortDescription>
+  <LongDescription>Drow are fairly rare in Oceancrest, but the center to the west provides
+worship places for more exotic and less accepted religious icons.  Most
+of these dieties are not widely accepted by most of the people, but there
+are always the curious and a few lost Drow wandering around.  Lolth is
+the spider queen of the drow elves.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">578</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">580</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

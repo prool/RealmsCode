@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="520" Area="ocean" Version="2.40">
+  <Name>animal charm</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>2</ShotsMax>
+  <ShotsCur>2</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">400</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">charm</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="13"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The charm will momentarily pacify both animals and people.</Description>
+  <Weight>1</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>13</MagicPower>
+  <InBag/>
+</Object>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Object Num="662" Area="ocean" Version="2.40">
+  <Name>Lucifer's Hammer</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>5</Number>
+    <Sides>3</Sides>
+    <Plus>4</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">lucifer's</Key>
+    <Key Num="1">hammer</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="10"/>
+    <Bit Num="13"/>
+    <Bit Num="14"/>
+    <Bit Num="19"/>
+    <Bit Num="20"/>
+    <Bit Num="33"/>
+    <Bit Num="35"/>
+  </Flags>
+  <Description>Just one look...and you are afraid of what it could do.</Description>
+  <UseOutput>A dissonant chord rings in the air as you grasp it's handle, be careful.</UseOutput>
+  <Weight>15</Weight>
+  <Type>5</Type>
+  <SubType>hammer</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

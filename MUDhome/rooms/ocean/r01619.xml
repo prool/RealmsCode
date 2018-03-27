@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1619" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are walking along Hillcrest Drive, next to the Regalia Convent.</ShortDescription>
+  <LongDescription>The large Regalia Convent looms on the south side of the road, almost
+looking like a giant slab of marble with a few giant statues sticking 
+out from its sides.  The large Odgen Family Villa is located on the 
+north of the road.  The Odgen Family has been in Oceancrest for a long
+time, but is not quite as wealthy as they would like to have people
+believe.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">4</Mob>
+      <Mob Area="ocean" Num="1">4</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1620</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1618</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

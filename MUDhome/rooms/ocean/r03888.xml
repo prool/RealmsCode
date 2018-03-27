@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3888" Version="2.40" Area="ocean">
+  <Name>Circular Stairs</Name>
+  <ShortDescription>The stairs are narrow and slippery.  The moss feels slimy to the touch.</ShortDescription>
+  <LongDescription>You are in a stairwell which follows a tight spiral, going both up and down.
+The temple priests knew their way around the temple, but tried to make it
+difficult for intruders.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>panel</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3889</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3883</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="panel">
+      <Keys/>
+      <Room Area="ocean">3882</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

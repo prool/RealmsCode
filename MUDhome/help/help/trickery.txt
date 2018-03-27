@@ -1,0 +1,23 @@
+^WSpells:^x
+    annul-magic
+    blind
+    blur
+    cancel-magic
+    darkness
+    deafness
+    dispel-magic
+    fear
+    globe-of-silence
+    hold-person
+    illusory-wall
+    invisibility
+    knock
+    remove-fear
+    remove-silence
+    scare
+    silence
+    stun
+
+See also:
+    HELP DOMAINS
+

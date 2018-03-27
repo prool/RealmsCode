@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="125" Version="2.40" Area="ocean">
+  <Name>East Ulandia</Name>
+  <ShortDescription>You are traveling on East Ulandia, on the east bank of the Baldywyne River.</ShortDescription>
+  <LongDescription>Great pepper trees and weeping willows line the bank of the river, and a
+gentle, grassy slope runds down to the water's edge.  On the east side of
+the road is an open-air market with scores of vendors and milling customers.
+Gayly colored and brightly striped tents are set up as vending booths, and
+a number of very strange races can be seen.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">2</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">120</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">130</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

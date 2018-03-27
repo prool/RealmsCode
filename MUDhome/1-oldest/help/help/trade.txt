@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  trade          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+With this command you can trade items from your inventory to a monster. The
+monster may or may not give you something in return. In fact, he may not even
+take what you have unless he wants it.
+
+Syntax:
+  trade [num] <object> <monster>
+
+Example:
+: trade hoe igor
+Igor Ironspike says, "I don't want that!"
+:
+

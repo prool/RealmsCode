@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  remove        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Remove allows you to remove anything you are wearing, wielding or holding. To
+see what you are currently wearing, wielding and holding, type the "equipment"
+command. Then you may remove any item that is listed. Typing "remove all" will
+remove all equipment that you are currently wearing.
+
+Example:
+: rm hoe
+You removed a hoe.
+:
+

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="1468" Version="2.40" Area="ocean">
+  <Name>Main Kitchen</Name>
+  <ShortDescription>You are in the main kitchen used to prepare meals for the mages and guests.</ShortDescription>
+  <LongDescription>The main kitchen is not only used to prepare meals, but is also the 
+main wine storage area and meat freezer.  Cocktails, refreshments and
+food are prepared for delivery to the main dining hall or to the
+guests throughout the mansion.  The door to the west takes you back
+into the main hall.  There is a freezer to the south that holds all
+the meats so that they don't spoil.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">127</Mob>
+      <Mob Area="ocean" Num="1">128</Mob>
+      <Mob Area="ocean" Num="2">127</Mob>
+      <Mob Area="ocean" Num="3">128</Mob>
+      <Mob Area="ocean" Num="4">127</Mob>
+      <Mob Area="ocean" Num="5">128</Mob>
+      <Mob Area="ocean" Num="6">174</Mob>
+      <Mob Area="ocean" Num="7">172</Mob>
+      <Mob Area="ocean" Num="8">172</Mob>
+      <Mob Area="ocean" Num="9">172</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1465</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="freezer">
+      <Keys/>
+      <Room Area="ocean">1467</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

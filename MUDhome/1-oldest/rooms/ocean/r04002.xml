@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="4002" Version="2.40" Area="ocean">
+  <Name>Glass Slide</Name>
+  <ShortDescription>Whooops!  You are on a slippery slide speeding almost straight down!</ShortDescription>
+  <LongDescription>Hold on to your stuff, because you may need it where ever you are going.
+You are never going to get back up this way, unless perhaps you can fly.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3994</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

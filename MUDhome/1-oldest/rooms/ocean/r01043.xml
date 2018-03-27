@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1043" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive</Name>
+  <ShortDescription>You are on Oceanview Drive, just south of Regalia Drive.</ShortDescription>
+  <LongDescription>To the east is the magnificent Shrine of the Protectors.  Although there is
+no particular clerical order which oversees the shrine, it is maintained at
+public expense for all the citizens of Oceancrest.  They may come to pray or
+ask for protection from whatever god they happen to belive in.  It all comes
+out the same, right?  To the west is the Oceancrest Public Amphitheatre,
+a place where bard and minstrels entertain.  The entrance is located on
+either Regalia Drive or Nagaritha Drive.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1042</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1044</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

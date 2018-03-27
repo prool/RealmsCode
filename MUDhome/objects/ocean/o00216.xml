@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="216" Area="ocean" Version="2.40">
+  <Name>cured rawhide leather armor</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Armor>26</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">250</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">rawhide</Key>
+    <Key Num="1">leather</Key>
+    <Key Num="2">armor</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+  </Flags>
+  <Description>You see some strong leather armor usually used by the druids.</Description>
+  <Weight>9</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

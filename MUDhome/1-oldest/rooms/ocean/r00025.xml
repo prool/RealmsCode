@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="25" Version="2.40a" Area="ocean">
+  <Name>Brownhaven Main Post Office</Name>
+  <ShortDescription>You are in the main post office for the village of Brownhaven.</ShortDescription>
+  <LongDescription>It's easy to see you are in a post office, because of all the postal workers
+you see standing around doing absolutely nothing.  Fortunately the postal
+system is almost completely automated, and you do not need these people to
+send a letter.  You need to type:  sendmail &lt;person&gt; and then your message.
+If you hit the return key twice, it will end the letter.  Be sure to hit
+the return key at the end of each line.  There is no automatic line-wrap.
+...Styx...</LongDescription>
+  
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="32"/>
+  </Flags>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">3</Mob>
+      <Mob Area="ocean" Num="1">3</Mob>
+      <Mob Area="ocean" Num="2">3</Mob>
+      <Mob Area="ocean" Num="3">3</Mob>
+      <Mob Area="ocean" Num="4">3</Mob>
+      <Mob Area="ocean" Num="5">3</Mob>
+      <Mob Area="ocean" Num="6">3</Mob>
+      <Mob Area="ocean" Num="7">3</Mob>
+      <Mob Area="ocean" Num="8">3</Mob>
+      <Mob Area="ocean" Num="9">3</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

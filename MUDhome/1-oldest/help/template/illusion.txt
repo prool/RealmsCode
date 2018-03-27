@@ -1,0 +1,28 @@
+
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  illusion spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 25
+School:  Illusion
+Domain:  Not Castable
+
+The illusion spell disguises the target as another race. Note that this does
+not give the target the ability to speak or understand the language of that
+race. All players will perceive the target as the given race. Note that this
+will also affect faction - an elf illusioned as a dark-elf will not be
+attacked on sight.
+
+Syntax:
+cast illusion <target> <race>
+
+
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  illusion (school)    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Illusion spells deceive the minds of others. They cause people to see
+things that are not there, hear noises that are not there, or fail to see
+things that are there.
+
+Note that the illusion school currently has limited spells. More work
+is being done to code spells for this school.

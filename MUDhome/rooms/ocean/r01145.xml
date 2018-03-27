@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1145" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are walking along Hillcrest Drive, south of Hillsdale Memorial Park.</ShortDescription>
+  <LongDescription>Dillsdale Memorial Park is used primarily by Oceancrest officials to 
+deliver messages to the people.  The park, located east of the Oceancrest
+Ministry of Truth, is designed for official gatherings and some public 
+announcements.  It can also be reserved for weddings and other festive
+occasions if you have the right connections.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1040</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1144</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

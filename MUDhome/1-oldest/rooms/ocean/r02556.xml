@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2556" Version="2.40" Area="ocean">
+  <Name>Garden Circle Road</Name>
+  <ShortDescription>You are on the west side of Garden Circle Road.</ShortDescription>
+  <LongDescription>On the west side of the road you can hear the "thwacking" sound of an arrow
+hitting its target.  There is an archery range on the other side, but you
+are protected by a thick hedge.  The Great Hanging Gardens are on the east.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2555</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2040</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

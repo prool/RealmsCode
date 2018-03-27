@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Room Num="1" Version="2.47e" Area="misc">
+  <Name>The Origin</Name>
+  <ShortDescription>You find yourself at the Origin.</ShortDescription>
+  <LongDescription>This is the Origin of Life, a spiritual place where all living creatures
+enter the world of Oceancrest. A magnificent door carved out of a single
+piece of jade and decorated with the finest gems and metals leads to the
+world beyond. The Book of Knowledge, an ancient tome some saw was written
+by the gods themselves when they created Derlith, floats about the area.
+An obsidian obelisk placed near the jade door has some information carved
+on it regarding this world.</LongDescription>
+  <BeenHere>1</BeenHere>
+  <Flags><Bit Num="10"></Bit><Bit Num="11"></Bit><Bit Num="28"></Bit><Bit Num="31"></Bit><Bit Num="37"></Bit><Bit Num="43"></Bit><Bit Num="51"></Bit><Bit Num="53"></Bit><Bit Num="56"></Bit></Flags>
+  <Wander></Wander>
+  <Track><Direction>jade door</Direction><Size>5</Size><Num>1</Num></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs><LastTime Num="0"><Interval>300</Interval><LastTime>1207621853</LastTime><Misc Area="misc">34</Misc></LastTime><LastTime Num="1"><Interval>3600</Interval><LastTime>1175032671</LastTime><Misc Area="misc">35</Misc></LastTime></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="jade door"><Keys></Keys><Target></Target><Toll>11897</Toll><Enter>You step through the jade door and into the world of Oceancrest.</Enter><Effects></Effects><Flags><Bit Num="64"></Bit></Flags></Exit></Exits>
+</Room>

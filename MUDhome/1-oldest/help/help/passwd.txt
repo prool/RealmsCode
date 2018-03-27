@@ -1,0 +1,5 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  password         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+This command allows you to change the password for the current character.

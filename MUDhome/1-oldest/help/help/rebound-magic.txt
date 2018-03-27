@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  rebound-magic spell   | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 20
+School:  Abjuration
+Domain:  Not Castable
+
+This spell surrounds you with a magical shield of protective magic. It's effect
+is to absorb half the damage of any spell cast at you and reflect that damage
+back to the caster. So if you are icebladed for 60 damage, 30 will be reflected
+back and you will take only 30. Rebound magic will reflect two-thirds of
+offensive spells cast against you. It is also cumulative with the resist spells.
+Note that rebound-magic has a chance to reflect a stun back at whomever casts it.
+
+Syntax:
+cast rebound-magic <target>

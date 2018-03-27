@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="3317" Version="2.40" Area="ocean">
+  <Name>Necropolis Circle</Name>
+  <ShortDescription>You are on the path which leads west and around the fountain to the east.</ShortDescription>
+  <LongDescription>A white, great marble fountain looks appealing.  Maybe you can rest there
+from the chilling breeze which whistles through a small grove of dead and
+ugly looking trees to the south.  The low, white building appears to be the 
+administration building, where you will go to arrange a resting place for
+your companions if you make it out.</LongDescription>
+  
+  <Established>759796191</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3315</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3319</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3320</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="fountain">
+      <Keys/>
+      <Room Area="ocean">3318</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

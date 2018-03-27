@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1757" Version="2.40" Area="ocean">
+  <Name>Kafkan Way</Name>
+  <ShortDescription>You are walking along Kafkan Way, running parallel with the City Walls.</ShortDescription>
+  <LongDescription>Kafkan Way is one of the many roads that forms the boundry of the city of
+Oceancrest.  The border along the southeastern corner of Oceancrest is not
+a straight line, and curves with the rugged landscape.  To the west, you 
+can see the intersection with Wakeforest Drive.  Kafkan way continues to
+the east and west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1756</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1742</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

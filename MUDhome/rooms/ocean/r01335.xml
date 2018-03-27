@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1335" Version="2.40" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are walking along Lelion Way, which runs east and west through town.</ShortDescription>
+  <LongDescription>Lelion is a long road, spanning from the eastern city walls to the east,
+all the way to the Nylandian Bay, many miles to the west.  On the north
+side of the road is the Temple of Harmonic Discord, one of the most
+powerful clerical temples in Oceancrest.</LongDescription>
+  
+  <Established>727415737</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1334</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1336</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

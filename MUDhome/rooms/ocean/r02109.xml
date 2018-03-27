@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2109" Version="2.40" Area="ocean">
+  <Name>Marlea's Silver Apple Tree</Name>
+  <ShortDescription>Marlea's beautiful silver apple tree is overhead, and her hut is close by.</ShortDescription>
+  <LongDescription>Marlea is the wild one, and Mehetable has to watch her closely as she often
+allows young men to enter her hut late at night.  Mehetable has been known
+to paralyze with fear those who visit, and feed them to the neighboring trolls.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>yard</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="yard">
+      <Keys/>
+      <Room Area="ocean">2116</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hut">
+      <Keys/>
+      <Room Area="ocean">2119</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

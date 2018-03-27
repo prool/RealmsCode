@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3328" Version="2.40" Area="ocean">
+  <Name>Entrance to Eldritch's Tomb</Name>
+  <ShortDescription>You get a feeling of immensity from standing before the tomb.</ShortDescription>
+  <LongDescription>Great white pillars surround the entrance to Eldritch's Tomb.  There
+is a cosmic aura about this place, like it is etherially connected
+with another plane of existance.  It could be your imagination, but
+every now and then, you feel blessed, perhaps by Eldritch himself.</LongDescription>
+  
+  <Established>759804592</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3326</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tomb">
+      <Keys/>
+      <Room Area="ocean">3348</Room>
+      <Key>44</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2528" Version="2.40" Area="ocean">
+  <Name>Annetol Way</Name>
+  <ShortDescription>You are on Annetol Way, south of a grassy hill and the amphitheater.</ShortDescription>
+  <LongDescription>On the south side of the road you see an asbestos covered wall made of lava
+rock.  The wall feels very warm to the touch.  Looks like the road comes
+to an end a little farther east, where you see a very bright light.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2039</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2529</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<Clans>
+	<Clan Id="0">
+		<Name>Unknown</Name>
+	</Clan>
+	<Clan Id="1">
+		<Name>Obsidian Blade</Name>
+		<Join>1400</Join>
+		<Rescind>10000</Rescind>
+		<SkillBonus>
+			<Skill Name="circle">10</Skill>
+			<Skill Name="kick">10</Skill>
+		</SkillBonus>
+	</Clan>
+	<Clan Id="2">
+		<Name>Crusaders of Enoch</Name>
+		<Join>1000</Join>
+		<Rescind>10000</Rescind>
+		<Deity>Enoch</Deity>
+	</Clan>
+	<Clan Id="3">
+		<Name>Devil Knights</Name>
+		<Join>1000</Join>
+		<Rescind>10000</Rescind>
+		<Deity>Aramon</Deity>
+	</Clan>
+	<Clan Id="4">
+		<Name>Clan of Gradius</Name>
+		<Join>1000</Join>
+		<Rescind>10000</Rescind>
+		<Deity>Gradius</Deity>
+	</Clan>
+	<Clan Id="5">
+		<Name>Veneficus Atrum</Name>
+		<Join>3000</Join>
+		<Rescind>20000</Rescind>
+		<SkillBonus>
+			<Skill Name="transmute">10</Skill>
+			<Skill Name="enchant">10</Skill>
+		</SkillBonus>
+	</Clan>
+	<Clan Id="6">
+		<Name>Dragon Warriors</Name>
+		<Join>1000</Join>
+		<Rescind>10000</Rescind>
+		<Deity>Ares</Deity>
+		<SkillBonus>
+			<Skill Name="bash">10</Skill>
+			<Skill Name="berserk">10</Skill>
+		</SkillBonus>
+	</Clan>
+	<Clan Id="7">
+		<Name>Shadow Masters</Name>
+		<Join>2000</Join>
+		<Rescind>15000</Rescind>
+		<SkillBonus>
+			<Skill Name="hide">10</Skill>
+			<Skill Name="sneak">10</Skill>
+		</SkillBonus>
+	</Clan>
+	<Clan Id="8">
+		<Name>Highport Guard</Name>
+		<Join>500</Join>
+		<Rescind>5000</Rescind>
+	</Clan>
+	<Clan Id="9">
+		<Name>Wizards' Eye</Name>
+		<Join>3000</Join>
+		<Rescind>20000</Rescind>
+		<SkillBonus>
+			<Skill Name="transmute">10</Skill>
+			<Skill Name="enchant">10</Skill>
+		</SkillBonus>
+	</Clan>
+	<Clan Id="10">
+		<Name>Order of Vlad</Name>
+		<Join>1500</Join>
+		<Rescind>15000</Rescind>
+		<SkillBonus>
+			<Skill Name="bite">10</Skill>
+			<Skill Name="hypnotize">10</Skill>
+		</SkillBonus>
+	</Clan>
+	<Clan Id="15">
+		<Name>Malign Society</Name>
+		<Join>4000</Join>
+		<Rescind>20000</Rescind>
+	</Clan>
+</Clans>

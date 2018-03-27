@@ -1,0 +1,25 @@
+Help on: *faction
+
+This command allows Creators on up to view a monster or player's
+set faction. Only Caretakers and DMs can view player factions,
+and Creators are limited to viewing faction on monsters within
+their set allowed range. It also allows DMs and Caretakers to
+set all of a creature's factions to 0. Only DMs can set all of
+a given player's factions to 0 - Caretakers can only do this to
+monsters.
+
+Syntax: *faction (monster) [d]
+        *faction (player) [d]
+
+Examples:
+:*fac high
+Factions set for Highport guardsman(2010)
+Primary faction is: The Highport Guard(1)
+-----------------------------------------------
+  1|The Highport Guard                 : +3000
+  2|The Highport Merchants' Guild      : +500
+ 25|The Sigil Inquisitors              : -1500
+: *fac high d
+All of Highport guardsman's factions now set to 0.
+: *fac Bodhi d
+All of Bodhi's factions now set to 0.

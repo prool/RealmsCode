@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3790" Version="2.40" Area="ocean">
+  <Name>Sandy Road</Name>
+  <ShortDescription>You are on a sandy road which is part of the Lelion Beach and Park.</ShortDescription>
+  <LongDescription>To the southwest is a stretch of white, sandy beach which should give a
+good view of Nylandian Bay and the ships anchored there.  Wisps of fog
+creep in and curl around the landscape, partially obscuring your view,
+but what you see looks interesting.  To the north you can see a group
+of tents with flags and banners whipping in the breeze coming from the
+bay.  The Oceancrest carnival and fair is opened every spring over there.</LongDescription>
+  
+  <Established>765180995</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">525</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3791</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="4283" Version="2.40a" Area="ocean">
+  <Name>Pink Room</Name>
+  
+  
+  
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4278</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

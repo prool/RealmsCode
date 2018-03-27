@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="5002" Version="2.40" Area="ocean">
+  <Name>Copper Dragon Training Compound</Name>
+  <ShortDescription>You are near the great pits that are home to the copper dragons.</ShortDescription>
+  <LongDescription>Copper dragons are easily trained to accept a rider, and the Brownhaven
+Guards, who form the village's militia, have commissioned the administration
+here to do just that.  The skies are full of monsters and the guards
+must constantly patrol in order to keep some hapless citizen from being
+plucked from the streets and eaten.  Close aerial combat is not advisable,
+so the dragons are fitted with a long lance mounted on the saddle for the
+rider's use.  This place is heavily guarded.</LongDescription>
+  
+  <Established>772145556</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>pits</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5001</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="pits">
+      <Keys/>
+      <Room Area="ocean">5003</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

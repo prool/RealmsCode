@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3612" Version="2.40a" Area="ocean">
+  <Name>Ladies Walk</Name>
+  <ShortDescription>You are at the center of the Ladies Walk in the Castle Ragnar.</ShortDescription>
+  <LongDescription>To the east the tunnel comes to an end, but a major hallway intersects
+there, going north and south.  You see a couple of shoppes and an unmarked
+door on the north side of the tunnel.  To the west is a wide promanade
+which is open to the courtyard below.  A stairwell landing is in the
+north wall, and the stairs go both up and down from there.</LongDescription>
+  
+  
+  
+  <Established>762645086</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3611</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3613</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3727" Version="2.40" Area="ocean">
+  <Name>Ragnar Royal Suite</Name>
+  <ShortDescription>You are in a suite reserved for members of Prince Ragnar's family.</ShortDescription>
+  <LongDescription>This suite of rooms is reserved for members of his royal family and high
+level aides who have pledged their allegiance to Prince Ragnar.  The new
+owner of the Dragon Tooth Inn has made a public oath to stay neutral in
+the dispute as to who should become the new king of Lyanden Castle.  After
+the king died, both Prince Ragnar and Prince Rutger, once loving brothers,
+lay claim to the Sceptre of Power, but the Mage Council withheld it until
+its true owner could be determined.</LongDescription>
+  
+  <Established>764460638</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3726</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

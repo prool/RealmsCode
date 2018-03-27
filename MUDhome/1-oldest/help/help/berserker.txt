@@ -1,0 +1,20 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  Berserker        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Prime Requisites: Strength, Dexterity, Constitution
+Compatible Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+Berserkers are wild men - most are nomads who roam the Baladus Plains.
+Blood and steel are all they know and understand. The lust for battle burns
+within them. A berserker often goes berserk in battle (hence his namesake),
+heightening his senses and increasing his strength. Despite his usual large
+size, a berserker is often quick as a cat, and can dance circles around his
+enemies, confusing them. With his brute strength, he is often able to daze
+his enemies, bashing them senseless.
+
+See HELP BERSERKERS for some roleplaying notes.
+
+Abilities: berserk, circle, bash
+

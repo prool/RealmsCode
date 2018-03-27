@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  animate        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Clerics of Aramon are able to summon undead creatures to come and aid them in
+battle. This ability is gained upon pledging to the Cult of Aramon. The higher
+your title is, the more powerful the undead you summon will be.
+
+Syntax:
+: animate
+: A skeletal dog crawls forth from the earth to aid you.
+A skeletal dog just arrived.
+:
+

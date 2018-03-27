@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |           Help on:  good          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Note: You must be good to cast good spells.
+
+^WSpells:^x
+    dispel-evil
+    hallow
+    remove-curse
+
+See also:
+    HELP DOMAINS
+

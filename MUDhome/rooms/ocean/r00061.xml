@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="61" Version="2.40" Area="ocean">
+  <Name>Saint Thenoir's Discount Supplies for Clerics</Name>
+  <ShortDescription>You are in a store that sells icons, beads, and other mumbo jumbo supplies.</ShortDescription>
+  <LongDescription>Of course, the owner doesn't call them mumbo jumbo supplies, but what's
+the difference?  One man's bag of hair and toe nail clippings is another
+man's eternally blessed gateway to the supreme being he believes is the
+all-powerful creator. What will you buy?</LongDescription>
+  
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">116</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

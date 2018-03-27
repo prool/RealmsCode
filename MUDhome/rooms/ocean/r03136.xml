@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3136" Version="2.40" Area="ocean">
+  <Name>Pink Drake Gaming Pit</Name>
+  <ShortDescription>You are in a deep pit with steep sides, and iron cages set in the sides.</ShortDescription>
+  <LongDescription>Inside the cages are pink and cold drakes, which are found locally in the
+interior of the jungle near the old ruined temple.  The Orcs on the veranda
+above like to see them fight, and they usually bet on the outcome.  What
+are you doing down here?  The cages are about to be opened!</LongDescription>
+  
+  <Established>769800055</Established>
+  <Flags>
+    <Bit Num="16"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">598</Mob>
+      <Mob Area="ocean" Num="1">199</Mob>
+      <Mob Area="ocean" Num="2">199</Mob>
+      <Mob Area="ocean" Num="3">598</Mob>
+      <Mob Area="ocean" Num="4">598</Mob>
+      <Mob Area="ocean" Num="5">598</Mob>
+      <Mob Area="ocean" Num="6">598</Mob>
+      <Mob Area="ocean" Num="7">598</Mob>
+      <Mob Area="ocean" Num="8">199</Mob>
+      <Mob Area="ocean" Num="9">199</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3135</Room>
+      <Flags>
+        <Bit Num="8"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

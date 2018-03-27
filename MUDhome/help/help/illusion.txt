@@ -1,0 +1,11 @@
+^WSpells:^x
+    blur
+    camouflage
+    greater-invisibility
+    illusion
+    illusory-wall
+    invisibility
+
+See also:
+    HELP SCHOOLS
+

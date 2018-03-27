@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2561" Version="2.40" Area="ocean">
+  <Name>Kista Town Hall</Name>
+  <ShortDescription>You are in the large public room of the Town Hall for the City of Kista.</ShortDescription>
+  <LongDescription>There is a meeting here every week, even if the council has nothing to do.
+The council members get paid for attending meetings, and it doesn't matter
+if there is nothing on the agenda, so long as they are here.  Some evenings
+they barely have time to call the roll before they all go home again.</LongDescription>
+  
+  <Established>788329989</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2548</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="mayor's office">
+      <Keys/>
+      <Room Area="ocean">2562</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

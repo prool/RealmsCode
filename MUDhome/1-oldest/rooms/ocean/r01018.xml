@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1018" Version="2.40" Area="ocean">
+  <Name>Main Street Corner</Name>
+  <ShortDescription>You are at the corner where Main Street heads off to the east and south.</ShortDescription>
+  <LongDescription>Main Street turns to the south or east, depending on which direction you're
+facing at the time.  Directly north are the long docks of Nylandian Bay,
+although you cannot get there from this spot.  The picturesque, rocky coast
+provides fishermen with excellent sport and income, but is also a little
+dangerous.  Several people have mysteriously disappeared while strolling or
+fishing there.  The Notoriously run Grinning Sailor Pub is southeast. 
+It seems to be a hangout for sailors returning from long voyages.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1017</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1019</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

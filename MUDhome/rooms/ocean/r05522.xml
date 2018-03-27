@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5522" Version="2.40" Area="ocean">
+  <Name>Boar's Arse Stairs</Name>
+  <ShortDescription>You are on the landing midway between the upper floors and the main tap
+in the Boar's Arse Pub.</ShortDescription>
+  <LongDescription>There's a lot of drinking going on down below, and a lot of laughter, too.
+but occasionally someone gets their feeling hurt, and when that happens
+a fight breaks out.  Even the waitresses take part, and when someone gets
+killed the body is simply dragged to the alley door.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5523</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5524</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

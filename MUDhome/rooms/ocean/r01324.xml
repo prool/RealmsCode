@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="1324" Version="2.47i" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>Riverdell Way continues to the north and south intersection Netherworld
+Lane to the south.  The Iilandi University Campus is to the east.</ShortDescription>
+  <LongDescription>The Rodaisal Community Housing Complex lies to the west of the road,
+providing much of the housing in Oceancrest.  The Iilandi University
+is one of the most popular learning facilities in the city, and does not
+charge students for the privilage of learning at the campus.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>north</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1323</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1718</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

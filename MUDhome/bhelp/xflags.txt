@@ -1,0 +1,92 @@
+/* Exit flags */ 
+XSECRT          1       /* Secret */ 
+XINVIS          2       /* Invisible */ 
+XLOCKD          3       /* Locked */ 
+XCLOSD          4       /* Closed */ 
+XLOCKS          5       /* Lockable */ 
+XCLOSS          6       /* Closable */ 
+XUNPCK          7       /* Un-pickable lock */ 
+XNAKED          8       /* Naked exit */ 
+XCLIMB          9       /* Climbing gear required to go up */ 
+XREPEL          10      /* Climbing gear require to repel */ 
+XDCLIM          11      /* Very difficult climb */ 
+XFLYSP          12      /* Must fly to go that way */ 
+XFEMAL          13      /* female only exit */ 
+XMALES          14      /* male only exit */ 
+XPLDGK          15      /* player must belong to a clan (any) */ 
+                        /* 16 is unused */
+XNGHTO          17      /* only open at night */ 
+XDAYON          18      /* only open during day */ 
+XPGUAR          19      /* passive guarded exit */ 
+XNOSEE          20      /* Can not use / see exit */ 
+      		21	/* Class Exit Invert Flag */ 
+XPASSN		22 	/* Assassin */
+XPBARB		23	/* Barbarian */
+XPCLER		24 	/* Cleric */
+XPFGHT		25 	/* Fighter */
+XPMAGE		26 	/* Mage */
+XPPALA		27 	/* Paladin */
+XPRNGR		28 	/* Ranger */
+XPTHEF		29 	/* Thief */
+XPVAMP		30 	/* Vampire */
+XPMONK		31 	/* Monk */
+XPDEAT		32	/* Death Knight */
+XPDRUD		33 	/* Druid */
+XPLICH		34	/* Lich */
+XPWERE		35	/* Werewolf */
+XPBARD		36	/* Bard */ 
+XPROGU		37	/* Rogue */ 
+XNOGOO		38	/* blocks good players [BDyess] */ 
+XNONEU		39	/* blocks neutral players [BDyess] */ 
+XNOEVI		40	/* blocks evil players [BDyess] */ 
+XDMONL          41	/* dm/ct only */ 
+          		/* Flag 15 DOES NOT need to be set */
+XCLAN1          42      /* Clan 1 can use */
+XCLAN2          43      /* Clan 2 can use */
+XCLAN3          44      /* Clan 3 can use */
+XCLAN4          45      /* Clan 4 can use */
+XCLAN5          46      /* Clan 5 can use */
+XCLAN6          47      /* Clan 6 can use */
+XCLAN7          48      /* Clan 7 can use */
+XCLAN8          49      /* Clan 8 can use */
+XCLAN9          50      /* Clan 9 can use */
+XCLAN0          51      /* Clan 10 can use */
+XCLA11          52      /* Clan 11 can use */
+XCLA12          53      /* Clan 12 can use */
+XNOMON          54      /* monster will not wander here */
+XTSTRG          55      /* Exit leads to storage room. DONT SET */
+XNFLEE          56      /* Cannot flee to this exit */
+XNSCO           57      /* Cannot scout this exit */
+XCONCE          58      /* Concealed exit - very hard to find */
+XIDESC          59      /* In description only - not searchable */
+XNMIST          60      /* Mist may not enter this exit */
+XITOLL          61      /* Exit is a toll booth */
+XVTOLL          62      /* Toll varies on level of payer */
+XWLOCK          63      /* Watcher lock */
+XSHPXT          64      /* Ship Exit (DO NOT SET) */
+XBNDRM          65      /* Exit leads to bound room (DO NOT SET) */
+                66      /* Race Exit Invert Flag */
+XDWF            67      /* Dwarf */
+XELF            68      /* Elf */
+XHFE            69      /* Half-elf */
+XHLF            70      /* Halfling */
+XHUM            71      /* Human */
+XORC            72      /* Orc */
+XHFG            73      /* Half giant */
+XGNO            74      /* Gnome */
+XTRO            75      /* Troll */
+XHFO            76      /* Half orc */
+XOGR            77      /* Ogre */
+XDKE            78      /* Dark elf */
+XGOB            79      /* Goblin */
+XMIN            80      /* Minotaur */
+XSER            81      /* Seraph */
+XKOB            82      /* Kobold */
+XCMB            83      /* Cambion */
+XBRB            84      /* Barbarian */
+XKAT            85      /* Kataran */
+XTFL            86      /* Tiefling */
+X_WINTER	87	/* Not In Winter (heavy snows) */
+X_SPRING	88	/* Not In Spring (spring floods) */
+X_SUMMER	89	/* Not In Summer (summer heat) */
+X_AUTUMN	90	/* Not In Autumn */

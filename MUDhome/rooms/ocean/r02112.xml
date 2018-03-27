@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2112" Version="2.40a" Area="ocean">
+  <Name>Mehetable's Apple Orchid</Name>
+  <ShortDescription>You are at the western end of Mehetable's Apple Orchid.</ShortDescription>
+  <LongDescription>There are rows and rows of gnarled old apple trees, each loaded with
+beautuful fruit.  The earth is rich and freshly turned, and not a weed
+in sight.  Mehetable the Witch takes good care of her orchid.  Farther
+to the east you see four huts surrounding some very special apple trees.
+Lelion Way is just outside a small wooden fence on the north.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>stile</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="stile">
+      <Keys/>
+      <Room Area="ocean">1347</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2113</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2114</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

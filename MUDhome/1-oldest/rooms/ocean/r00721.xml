@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="721" Version="2.41a" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are on Oceancrest Avenue, just west of the Harvest Circle.</ShortDescription>
+  <LongDescription>The large Harvest Circle, located to the west, is formed by the inter-
+section of Oceancrest Avenue and Necropolis Avenue.  Every year, towards
+the autumn months, a celebration is held at the Harvest Circle to toast
+the year's crops and pray for a successful winter.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">641</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">722</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

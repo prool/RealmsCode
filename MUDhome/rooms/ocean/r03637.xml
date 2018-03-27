@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3637" Version="2.40" Area="ocean">
+  <Name>Main Courtyard East</Name>
+  <ShortDescription>You are on the east side of the main courtyard near the Chapel.</ShortDescription>
+  <LongDescription>A wide oak door is closed in the east wall of the castle, but a cross
+burned in the center of it identifies it as the entrance to the Chapel.
+A rain barrel stands by the door, full of fresh water.  The great court-
+yard to the west is often used to assemble the fighting forces of Prince
+Ragnar, and the monks in the chapel use the water to bless each warrior
+before he goes to battle.</LongDescription>
+  
+  <Established>762646154</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3624</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3615</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3636</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="chapel">
+      <Keys/>
+      <Room Area="ocean">4502</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

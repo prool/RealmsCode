@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1316" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, west of the Wakarimasu Park.</ShortDescription>
+  <LongDescription>The large Wakarimasu Park was constructed a few decades ago in an effort
+to beautify the eastern entrance to the city.  The project was rather 
+successful, and the park is visited often by visitors and residents of
+the city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1315</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1317</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

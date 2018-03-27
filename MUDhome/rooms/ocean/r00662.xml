@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="662" Version="2.40a" Area="ocean">
+  <Name>Center Drive</Name>
+  <ShortDescription>You are on Center Drive, between the Ziggurat and the Sleepy Traveller Inn.</ShortDescription>
+  <LongDescription>The Sleepy Traveller Inn is popular among the people who are staying in
+Oceancrest for long lengths of time.  The accomodations are not quite as
+nice as the Evenborough Inn or some of the other inns in town, but the
+prices are right for a week or month long stay in Oceancrest.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">661</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">663</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

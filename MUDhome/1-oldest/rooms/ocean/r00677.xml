@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="677" Version="2.40a" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are walking along Hofton Avenue, north of the Sleepy Traveler Inn.</ShortDescription>
+  <LongDescription>The Sleepy Traveler Inn is designed to provide a comfortable place to 
+sleep and eat.  The Inn is more or less used for longer stays in Oceancrest,
+and the accomodations are much more comfortable than the Evenborough Inn.
+However, for entertainment, you probably need to head west into the 
+commercial district.  </LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">660</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">678</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3603" Version="2.40a" Area="ocean">
+  <Name>Guard Headquarters</Name>
+  <ShortDescription>You are in the headquarters of the palace guard for Castle Ragnar.</ShortDescription>
+  <LongDescription>Several clerks move about the room, and a couple of lieutenants lounge at
+a table, casually playing cards.  The Captain of the Guard has an office
+here, and the place is neat and clean.  Against one wall is a weapons
+bank, lined with halbards, swords and other brightly glittering hand
+weapons.  Troop banners hang from the high ceiling.</LongDescription>
+  
+  
+  
+  <Established>762644592</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">712</Mob>
+      <Mob Area="ocean" Num="1">712</Mob>
+      <Mob Area="ocean" Num="2">712</Mob>
+      <Mob Area="ocean" Num="3">712</Mob>
+      <Mob Area="ocean" Num="4">712</Mob>
+      <Mob Area="ocean" Num="5">712</Mob>
+      <Mob Area="ocean" Num="6">712</Mob>
+      <Mob Area="ocean" Num="7">712</Mob>
+      <Mob Area="ocean" Num="8">712</Mob>
+      <Mob Area="ocean" Num="9">712</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>900</Interval>
+      <LastTime>1206217725</LastTime>
+      <Misc Area="ocean">713</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3601</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

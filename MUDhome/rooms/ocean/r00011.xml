@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="11" Version="2.40a" Area="ocean">
+  <Name>Goldenrod Avenue</Name>
+  <ShortDescription>Goldenrod Avenue continues east and west through the village.</ShortDescription>
+  <LongDescription>You are walking along a narrow road between the village wall and the open
+back doors of several shops.  The shop entrances are actually on another 
+alley to the south.  Looks like a lot of garbage gets thrown out along
+this alley, judging from the stink and the piles of fresh refuse.  Alley
+cats and dirty little kids fight each other for anything edible.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">10</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">12</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

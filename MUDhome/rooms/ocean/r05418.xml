@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="5418" Version="2.40" Area="ocean">
+  <Name>Fish Camp</Name>
+  <ShortDescription>You are on the banks of the Ashton River in a pleasant little fish camp.</ShortDescription>
+  <LongDescription>The river flows rapidly to the west, eventually making its way to the
+Nylandian Bay on the Respitial Sea.  A camp fire still smolders here, and
+someone has stocked a camp kitchen with everything needed to fix a meal.
+the trees provide a nice canopy overhead, giving this place a comfortable
+and relaxing feeling.</LongDescription>
+  
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+    <Bit Num="32"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5410</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5419</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

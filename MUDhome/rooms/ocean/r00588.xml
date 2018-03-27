@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="588" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are on Leviathan Drive, east of the Shrine of Corellon Larethian.</ShortDescription>
+  <LongDescription>The Elven Shrine of Corellon Larethian is used by all elves of the forests
+in the surrounding lands, and even on the other islands.  Corellon Larethian
+is the elven god of everything that is, and this magnificent shrine is
+dedicated to his greatness.  </LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">587</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">589</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

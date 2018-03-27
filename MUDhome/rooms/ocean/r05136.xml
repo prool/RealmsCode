@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5136" Version="2.40" Area="ocean">
+  <Name>Collapsed Concourse</Name>
+  <ShortDescription>You are in a low and narrow part of a collapsed hall, in Castle Kayleigh.</ShortDescription>
+  <LongDescription>A gentle rush of air comes from the broken wall, and you can see the hellish
+acid filled moat outside.  There is no apparent way across it, as the draw-
+bridge was burned during the battle.  The acid makes your eyes water and
+your throat burn.  This is not a pleasant place.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5134</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5133</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

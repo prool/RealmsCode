@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="3879" Version="2.40" Area="ocean">
+  <Name>Open Grate</Name>
+  <ShortDescription>You are near an iron grate set in a old aquaduct.  Water flow is to the east.</ShortDescription>
+  <LongDescription>The grate can be opened from this side without a key, but it looks like
+it would require a key to come back in here.  The tunnel is dark in both
+directions, but it cannot go east forever.  You must be getting close to
+the eastern side of the island by now.  The temple is directly overhead.</LongDescription>
+  
+  <Established>769038278</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="grate">
+      <Keys/>
+      <Room Area="ocean">3874</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3880</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

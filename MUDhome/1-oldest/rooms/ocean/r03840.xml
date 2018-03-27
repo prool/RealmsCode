@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3840" Version="2.40a" Area="ocean">
+  <Name>North Oceancrest Guard Station Gate</Name>
+  <ShortDescription>You are at the gate of the North Oceancrest Guard Station.</ShortDescription>
+  <LongDescription>this gate is normally closed at night, but there is a door inside the
+Guard Station for citizens willing to assume the risk of leaving at night.
+No one is allowed to enter from outside during the night hours, however.
+During the day a constant stream of visitors and farmers use this gate.</LongDescription>
+  
+  <Established>775205185</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">3841</Room>
+      <Flags>
+        <Bit Num="17"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3942</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">400</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="545" Area="ocean" Version="2.40">
+  <Name>web sling</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>3</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">4000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">sling</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="13"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The sling is made of an ultra strong spider web.</Description>
+  <Weight>2</Weight>
+  <Type>5</Type>
+  <SubType>thrown</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

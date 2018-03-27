@@ -1,0 +1,8 @@
+^WSpells:^x
+    dispel-evil
+    hallow
+    remove-curse
+
+See also:
+    HELP DOMAINS
+

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="344" Area="ocean" Version="2.40">
+  <Name>chain mail sleeves</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Armor>22</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">mail</Key>
+    <Key Num="1">sleeves</Key>
+    <Key Num="2"> </Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="10"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>You see some chain mail sleeves for smaller races.</Description>
+  <Weight>6</Weight>
+  <Type>6</Type>
+  <SubType>chain</SubType>
+  <WearFlag>2</WearFlag>
+  <InBag/>
+</Object>

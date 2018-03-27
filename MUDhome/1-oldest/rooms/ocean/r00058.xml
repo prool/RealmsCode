@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="58" Version="2.40" Area="ocean">
+  <Name>North Plasnelt Park</Name>
+  <ShortDescription>You are in a well kept park with lighted walkways and park benches.</ShortDescription>
+  <LongDescription>Plasnelt Road is south of you.  This park is generally frequented by only 
+members of the upper class of the village.  They like to come listen to
+the strolling musicians and watch the mimes who pretend to be in a box.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">88</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">59</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">77</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

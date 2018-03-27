@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3070" Version="2.40a" Area="ocean">
+  <Name>Temple Passage</Name>
+  <ShortDescription>You are in a secret passage deep inside the Uland Temple.</ShortDescription>
+  <LongDescription>There is a peep hole on the north wall of the passage.  Looking through
+it will reveal the main chamber of the temple, with the altar directly to
+the north.  On the south side of the passage there used to be an opening
+which is now blocked by a fallen stone.  Looks like it allowed light from
+outside to fall on the altar, but for what purpose?</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3069</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3071</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

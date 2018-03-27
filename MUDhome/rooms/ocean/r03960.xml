@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3960" Version="2.40" Area="ocean">
+  <Name>Gnarled Oak Valley</Name>
+  <ShortDescription>You are in a wonderfully charming valley, filled with ancient oaks.</ShortDescription>
+  <LongDescription>The path seems well worn, but also well maintained.  Wildflowers grow in
+neat borders along the way.  Looking west you see that the path splits
+and takes a southern route and also a northern one.  Both paths seem
+equally well taken care of.  Great oaks make a dense woods in that
+direction, and you see small homes cut into some of them.</LongDescription>
+  
+  <Established>770436648</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2929</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3961</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3968</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

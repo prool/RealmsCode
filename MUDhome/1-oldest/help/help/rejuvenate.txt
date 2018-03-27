@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  rejuvenate spell     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 8
+School:  Not Castable
+Domain:  Healing
+
+This spell is available only to clerics of the goddess CERIS. It is both a
+healing spell as well as an MP regeneration spell. It heals a little less than
+vigor (HELP VIGOR), but also "heals" some magic points back also.
+
+Syntax:
+cast rejuvenate <target>

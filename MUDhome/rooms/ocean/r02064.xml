@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="2064" Version="2.40" Area="ocean">
+  <Name>East Hallway</Name>
+  <ShortDescription>You are in the eastern hallway of the great Towers of Kista.</ShortDescription>
+  <LongDescription>The Towers of Kista (or Kista Towers) were built on the ruins of the
+former tyranical empire that crumbled due to the resistance by factions
+of human, elven and dwarven fighters.  The Towers were built as a general
+meeting place for the three races to get together and discuss the major
+problems of the world.  The four Towers represent strength, wisdom, valor 
+and piety.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2063</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2065</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stairway">
+      <Keys/>
+      <Room Area="ocean">2073</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

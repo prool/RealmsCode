@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="4040" Version="2.40a" Area="ocean">
+  <Name>Crystal Spiral Staircase</Name>
+  <ShortDescription>You are in a spiral staircase which is made completely of diamond.</ShortDescription>
+  <LongDescription>The diamonds form the entire second level of the crystalline tower complex.
+Polytonal "voices" resonate from the levels below, while from above there is
+a wild crackling of sporadic lightning and electrical energy.  Odd, the two
+sounds are quite pleasant to the ear.</LongDescription>
+  
+  
+  
+  <Established>772160181</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4039</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">4041</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

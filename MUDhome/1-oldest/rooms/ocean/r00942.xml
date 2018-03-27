@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="942" Version="2.40a" Area="ocean">
+  <Name>West Hafnia Boulevard</Name>
+  <ShortDescription>You are in the main shopping district of the city of Hafnia.</ShortDescription>
+  <LongDescription>You are at the end of the shopping district.  The city starts to calm
+down as you begin to reach its outskirts.  To the north, you see a
+weapons shop and to the south, a polearms retailer.  You are curious
+why such peaceful elves would be selling such deadly weapons.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">943</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">941</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">938</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">907</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

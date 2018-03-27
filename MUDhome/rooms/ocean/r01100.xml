@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1100" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are on Nagaritha Drive, which runs east and west through town.</ShortDescription>
+  <LongDescription>To the north of Nagaritha Drive, you can see the Oceancrest Public 
+Amphitheatre.  There are two stages that you can see, but they can
+combine into one when a really large event takes place.  Around dusk,
+most of the people come out from their day jobs and have dinner there
+among friends while being entertained by travelling minstrels and 
+bards.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1044</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1101</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

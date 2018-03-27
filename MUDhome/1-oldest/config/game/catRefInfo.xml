@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<CatRefInfo>
+	<Info>
+		<Area>ocean</Area>
+		<Name>Default</Name>
+		<WorldName>Oceancrest</WorldName>
+		<YearsSince>the founding of Oceancrest</YearsSince>
+		<YearOffset>1000</YearOffset>
+		<Limbo>50</Limbo>
+		<Recall>1</Recall>
+		<TeleportWeight>4000</TeleportWeight>
+		<TeleportZone>2</TeleportZone>
+		<TrackZone>2</TrackZone>
+		<Seasons>
+		    <Season id="1">
+		      <Weather>
+			<Sunset>Oceancrest is engulfed by the night.</Sunset>
+			<GlaringSun>Thunderstorms roll in from the bay.</GlaringSun>
+			<LightBreeze>A chilly wind sweeps down out of the mountains.</LightBreeze>
+			<StrongWind>Strong winds cross the bay.</StrongWind>
+			<WindGusts>Powerful gusts of wind blow through the streets of Oceancrest.</WindGusts>
+			<GaleForce>Gale force winds blow in from the bay.</GaleForce>
+			<LightClouds>Light clouds cover the snowy peaks of the mountains.</LightClouds>
+			<Thunderheads>Thunderstorms drench Oceancrest.</Thunderheads>
+			<HeavyRain>A heavy rain blankets Oceancrest.</HeavyRain>
+		      </Weather>
+		    </Season>
+		    <Season id="2">
+		      <Weather>
+			<Sunset>Oceancrest is engulfed by the night.</Sunset>
+			<HeavyFog>A heavy fog engulfs the docks of Oceancrest.</HeavyFog>
+			<GlaringSun>Waves of blistering heat blow in from the desert.</GlaringSun>
+			<LightBreeze>A mild wind sweeps down out of the mountains.</LightBreeze>
+			<StrongWind>Strong winds cross the plains.</StrongWind>
+			<GaleForce>Gale force winds blow in from the bay.</GaleForce>
+			<LightClouds>Light clouds cover the snowy peaks of the mountains.</LightClouds>
+			<Thunderheads>Thunderstorms drench Oceancrest.</Thunderheads>
+			<HeavyRain>Heavy rain blankets Oceancrest.</HeavyRain>
+		      </Weather>
+		    </Season>
+		    <Season id="3">
+		      <Weather>
+			<Sunset>Oceancrest is engulfed by the night.</Sunset>
+			<HeavyFog>A heavy fog engulfs the docks of Oceancrest.</HeavyFog>
+			<GlaringSun>Waves of blistering heat blow in from the desert.</GlaringSun>
+			<LightBreeze>A chilly wind sweeps down out of the mountains.</LightBreeze>
+			<StrongWind>Strong winds cross the plains.</StrongWind>
+			<GaleForce>Gale force winds blow in from the bay.</GaleForce>
+			<LightClouds>Light clouds cover the snowy peaks of the mountains.</LightClouds>
+			<Thunderheads>Thunderstorms drench the streets of Oceancrest.</Thunderheads>
+			<HeavyRain>Heavy rain blankets Oceancrest.</HeavyRain>
+		      </Weather>
+		    </Season>
+		    <Season id="4">
+		      <Weather>
+			<Sunset>Oceancrest is engulfed by the night.</Sunset>
+			<HeavyFog>Snow blows down from the mountains.</HeavyFog>
+			<StrongWind>Strong winds blow down from the mountains.</StrongWind>
+			<LightClouds>Light clouds cover the snowy peaks of the mountains.</LightClouds>
+			<Thunderheads>Snowstorms rage across the plains.</Thunderheads>
+			<HeavyRain>Heavy snow blankets Oceancrest.</HeavyRain>
+		      </Weather>
+		    </Season>
+		  </Seasons>
+	</Info>
+</CatRefInfo>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="5327" Version="2.40" Area="ocean">
+  <Name>Lyanden Road/South Timarask Valley</Name>
+  <ShortDescription>This is the rain swept valley where the village of Timarask once stood.</ShortDescription>
+  <LongDescription>You are on Lyanden Road in Timarask Valley, where it rains constantly.
+The rain never lets up in this valley, but occasionally it is less violent
+than other times.  A fierce wind whips down from the majestic and dark Mount
+Aphinix, driving the rain before it.  At times you cannot see your hand 
+before your face, and the rain stings your eyes.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5326</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5328</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

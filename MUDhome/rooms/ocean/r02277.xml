@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="2277" Version="2.40" Area="ocean">
+  <Name>Imeldia's Potions and Stuff Storage Shack</Name>
+  <ShortDescription>You are in the Storage Shack of Imeldia's Potions and Stuff shop.</ShortDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2276</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

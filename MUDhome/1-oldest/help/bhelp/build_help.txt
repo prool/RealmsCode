@@ -1,0 +1,24 @@
+Builder and Creator Help File:
+       Commands:
+..--..--....--..--....--..--....--..--....--..--....--..--
+add         prepend
+append      purge
+balance     reload
+builderpol  replace
+cname       rflags
+delete      save
+fixup       set
+guide       size
+mflags      status
+msg         teleport
+news        traps
+perm        unfixup
+..--..--....--..--....--..--....--..--....--..--....--..--
+
+For help on one of these commands specifically, type *bh (filename).
+Builders are unable to do some of these commands currently. 
+These certain commands will be available to creators when they 
+are implimented.
+
+Type *bh by itself if you ever wish to see this list of commands again.
+

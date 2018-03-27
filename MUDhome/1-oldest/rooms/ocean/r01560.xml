@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="1560" Version="2.40a" Area="ocean">
+  <Name>Outer Circle of Etolos</Name>
+  <ShortDescription>You are on the outer circle of the great forest of Etolos.</ShortDescription>
+  <LongDescription>To the east, you can see the outer circle being absorbed in an arm
+extending in and out of the center of the circle.  Etolos is built in
+this fantastic forest that is rumored to have mystical healing powers.
+You can see a number of druids relaxing in the open fields to the east.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">177</Mob>
+      <Mob Area="ocean" Num="1">177</Mob>
+      <Mob Area="ocean" Num="2">177</Mob>
+      <Mob Area="ocean" Num="3">177</Mob>
+      <Mob Area="ocean" Num="4">178</Mob>
+      <Mob Area="ocean" Num="5">178</Mob>
+      <Mob Area="ocean" Num="6">177</Mob>
+      <Mob Area="ocean" Num="7">177</Mob>
+      <Mob Area="ocean" Num="8">178</Mob>
+      <Mob Area="ocean" Num="9">178</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1556</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1568</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

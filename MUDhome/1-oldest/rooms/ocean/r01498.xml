@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1498" Version="2.40" Area="ocean">
+  <Name>Stairwell</Name>
+  <ShortDescription>You are in a stairwell leading to the upper level of the Palace.</ShortDescription>
+  <LongDescription>This stairway brings you up to the third level of the Palace.  It is
+strictly forbidden by any outsiders except personal guests of the 
+Wizard himself.  The sorceress' chambers are also up here along with
+a training area for the higer level mages.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">1476</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1487</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

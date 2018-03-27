@@ -1,0 +1,12 @@
+Help on: *msg or *message
+
+This command allows for communication on a staff-only channel
+within Realms. All builders, creators, caretakers, and DMs are
+able to see messages typed onto this channel.
+
+Example:
+: *msg Testing testing 1 2 3
+: => Bob sent, "Testing testing 1 2 3."
+
+
+

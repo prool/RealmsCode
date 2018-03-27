@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3648" Version="2.40" Area="ocean">
+  <Name>Dim Tunnel</Name>
+  <ShortDescription>You are in a pitch-black tunnel below Castle Ragnar.</ShortDescription>
+  <LongDescription>The tunnel is wide enough that you cannot touch both walls at the same time.
+The tunnel is hot, and water condenses on the ceiling.  The drops run down
+your back, making you shiver.  Or is it the water?</LongDescription>
+  
+  <Established>764987922</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3652</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3649</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

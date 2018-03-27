@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3831" Version="2.40" Area="ocean">
+  <Name>Concession Stand</Name>
+  <ShortDescription>You are standing at a long counter of the concession stand.</ShortDescription>
+  <LongDescription>You can smell many delicious things being cooked here at the concession
+booth.  You can buy both exotic and everyday foods, although the prices are
+a little steep.  Fried bat wings, lizard shishkebab, and grizzley bear liver
+sautee are among the regular selection.  Special orders like pork chops are
+not uncommon, but nonetheless expensive.  A special shelf lined with candy,
+for the kids, should keep your sweet spot happy.  Don't linger too long,
+you'll miss the show!</LongDescription>
+  
+  <Established>765770921</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3830</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

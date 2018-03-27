@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1626" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are on Hillcrest Drive, between the Allisk Manor and the Cattle Ranch.</ShortDescription>
+  <LongDescription>The large cattle ranch to the south provides much of the meat required
+by a city the size of Oceancrest.  The cattle are raised on the ranch to
+the south and then brought over to the Slaughterhouse across the street
+to be humanely destroyed and then packaged for consumption.  The farmers
+are always in need of a few more cattle slaughterers at the Slaughterhouse
+off of Appleton Road, but do not approve of killing their cattle on the
+ranch.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1627</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1625</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

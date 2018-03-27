@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1731" Version="2.40" Area="ocean">
+  <Name>Riverdell Way/Nagaritha Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Nagaritha Drive and Riverdell Way.</ShortDescription>
+  <LongDescription>Nagaritha Drive heads off to the west from Riverdell Way, making its
+trek through the southern parts of Oceancrest.  Riverdell Way runs north
+and south from the intersection, notably running through the eastern
+section of town from one City Wall to the other.  On the southwest corner
+of the road, you can see the Bows &amp; Arrows Unlimited Shop where you can
+purchase a number of finely crafted bows made by the finest elven fletchers.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1732</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1730</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1798</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

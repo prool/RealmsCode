@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="2932" Version="2.40" Area="ocean">
+  <Name>East Forest Road</Name>
+  <ShortDescription>You are on a rutted wagon road going east through the Enchanted Forest.</ShortDescription>
+  <LongDescription>On the north side of the road is a swampy looking area where trees stand
+in water and moss hangs from their limbs.  The road is on high ground,
+however, and appears to be climbing to the east.  The south side of the
+road is overgrown with a thicket and large trees, and appears quite dark
+and cold.</LongDescription>
+  
+  <Established>759019454</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">237</Mob>
+      <Mob Area="ocean" Num="1">237</Mob>
+      <Mob Area="ocean" Num="2">237</Mob>
+      <Mob Area="ocean" Num="3">237</Mob>
+      <Mob Area="ocean" Num="4">237</Mob>
+      <Mob Area="ocean" Num="5">237</Mob>
+      <Mob Area="ocean" Num="6">237</Mob>
+      <Mob Area="ocean" Num="7">237</Mob>
+      <Mob Area="ocean" Num="8">237</Mob>
+      <Mob Area="ocean" Num="9">237</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2930</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2933</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

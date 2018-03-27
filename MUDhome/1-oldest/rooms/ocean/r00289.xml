@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="289" Version="2.40" Area="ocean">
+  <Name>Paladin Testing Arena</Name>
+  <ShortDescription>You must defeat the White Knight to advance to the next level.  </ShortDescription>
+  <LongDescription>The White Knight stands with his sword across his chest, awaiting your
+move.  All paladins who aspire to serve the Lyanden Kingodm must be tested
+for bravery and purity of heart.  So that you may know you are worthy,
+the White Knight, who is one level above you, has volunteered to provide
+you with a trial.  When you are ready you may strike the first blow.</LongDescription>
+  <LowLevel>5</LowLevel>
+  <HighLevel>5</HighLevel>
+  
+  <Established>766521831</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">570</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">300</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">294</Room>
+      <Key>49</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

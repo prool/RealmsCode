@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5341" Version="2.40" Area="ocean">
+  <Name>Forest Road</Name>
+  <ShortDescription>You are outside the Lyanden Militia Outpost Headquarters.</ShortDescription>
+  <LongDescription>The headquarters is built in one of the old watch towers that once served
+as a signal station.  Long ago, when trolls apppeared, guards lit fires on 
+top of the towers to signal an invasion.  Now, of course there is a much
+more modern way of signaling.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5313</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5316</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="869" Version="2.40" Area="ocean">
+  <Name>Jade Green Hallway</Name>
+  <ShortDescription>You are stuck in the strange, mysterious fog that is denser than Iibin's
+Tavern Pea Soup (which you could really use right now as exploration of
+this strange place has tired you out.  You still can't make out exactly 
+where you are heading.</ShortDescription>
+  <LongDescription>After some experimentation, you manage to find the slick green walls, that
+almost feel slimy.  By following the walls, you can more or less find 
+your way through this wierd maze of sorts.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">865</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

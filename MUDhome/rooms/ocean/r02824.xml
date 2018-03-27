@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="2824" Version="2.40a" Area="ocean">
+  <Name>Gold Hallway</Name>
+  <ShortDescription>You are walking down a very ornate looking hallway composed mostly of gold.</ShortDescription>
+  <LongDescription>The strange golden hallway continues to the west and ends in a odd looking
+door to the east.  The door to the east is not locked.  Looking through
+the keyhole, you can see a larger, gold room, to which this hallway must
+be connected.  The hallway is sparkling and clean without a speck of 
+dust to see seen.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>729056681</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys>
+        <LastTime Num="0">
+          <Interval>0</Interval>
+          <LastTime>1206217065</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </Keys>
+      <Room Area="ocean">2801</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2825</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

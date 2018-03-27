@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3002" Version="2.41a" Area="ocean">
+  <Name>Barn</Name>
+  <ShortDescription>This is a small barn, filled from wall to wall with stacks of hay.</ShortDescription>
+  <LongDescription>Light filters in from between the poorly laid boards that make up the walls
+and ceiling.  Huge farm tools lie scattered about, and dust and cobwebs
+mark the fact that no one has tended this farm in a long time.  On the
+floor, partially obscured by hay, is a cellar door.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3003</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1211</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

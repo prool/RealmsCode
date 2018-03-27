@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room Num="1705" Version="2.47e" Area="ocean">
+  <Name>Melbourne Avenue</Name>
+  <ShortDescription>You are walking along Melbourne Avenue, east of the Trash Recycling Plant.</ShortDescription>
+  <LongDescription>It is very important to keep the city clean.  In order to get people to
+help out with this, the city pays its citizens one gold piece for all the
+litter they pick up and deposit in the Trash Recycling Facility.  On the
+east side of the road is the Dragon's Claw Tavern and Grill.  This bar
+is much more sophisticated than the Chug-A-Lug, as people usually head to
+the Grill to have a good meal instead of drinking like a fish.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>east</Direction></Track>
+  <Effects></Effects>
+  <PermMobs><LastTime Num="0"><Interval>8000</Interval><LastTime>0</LastTime><Misc Area="ocean">441</Misc></LastTime></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures><CrtRef Num="441" Area="ocean" Version="2.47e"><Name>heavily armored thug</Name><Id>M9398</Id><Class>2</Class><Level>10</Level><Type>1</Type><Experience>400</Experience><Coins><Coin Num="2">332</Coin></Coins><Alignment>-100</Alignment><Stats><Stat Name="Strength"><Initial>200</Initial><Modifiers></Modifiers></Stat><Stat Name="Dexterity"><Initial>200</Initial><Modifiers></Modifiers></Stat><Stat Name="Constitution"><Initial>150</Initial><Modifiers></Modifiers></Stat><Stat Name="Intelligence"><Initial>150</Initial><Modifiers></Modifiers></Stat><Stat Name="Piety"><Initial>150</Initial><Modifiers></Modifiers></Stat><Stat Name="Hp"><Initial>135</Initial><Modifiers></Modifiers></Stat><Stat Name="Mp"><Initial>0</Initial><Modifiers></Modifiers></Stat></Stats><Flags><Bit Num="0"></Bit><Bit Num="9"></Bit><Bit Num="10"></Bit><Bit Num="12"></Bit><Bit Num="26"></Bit></Flags><LastTimes><LastTime Num="3"><Interval>0</Interval><LastTime>1367102416</LastTime><Misc>0</Misc></LastTime><LastTime Num="4"><Interval>0</Interval><LastTime>1206216375</LastTime><Misc>0</Misc></LastTime><LastTime Num="6"><Interval>0</Interval><LastTime>1206216375</LastTime><Misc>0</Misc></LastTime><LastTime Num="8"><Interval>55</Interval><LastTime>1206218002</LastTime><Misc>0</Misc></LastTime><LastTime Num="41"><Interval>0</Interval><LastTime>1206216375</LastTime><Misc>0</Misc></LastTime><LastTime Num="100"><Interval>50</Interval><LastTime>1206218015</LastTime><Misc>0</Misc></LastTime><LastTime Num="101"><Interval>32</Interval><LastTime>1206218023</LastTime><Misc>0</Misc></LastTime></LastTimes><Inventory></Inventory></CrtRef></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1704</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1706</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">2257</Room></Target><Effects></Effects></Exit><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">2258</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

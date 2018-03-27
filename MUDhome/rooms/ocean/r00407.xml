@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="407" Version="2.40" Area="ocean">
+  <Name>Evenborough Way/Islandia Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Islandia Drive and Evenborough Way.</ShortDescription>
+  <LongDescription>Islandia Drive runs east towards the main entrance to Lyanden Castle and
+west towards the Bendine Aquarium.  It also passes by numerous shops and
+facilities providing services to the citizens.  Evenborough Way runs north
+towards the Northern Entrance to the city, and south towards the Lithium
+Inlet.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">406</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">408</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">473</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">695</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

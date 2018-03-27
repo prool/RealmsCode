@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1234" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are casually walking along Lankshire Parkway, west of the Necropolis.</ShortDescription>
+  <LongDescription>Just walking next to the large Necropolis sends shivers down your spine.
+The large Necropolis must cover nearly ten city blocks and is packed with
+more dead bodies than the mind can comfortably imagine.  The large metal
+bars separate the road from the Necropolis to prevent grave robbers and
+other raving lunatics from defacing the graves and tombs.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1235</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1233</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

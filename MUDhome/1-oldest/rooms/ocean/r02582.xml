@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2582" Version="2.40" Area="ocean">
+  <Name>North Wall</Name>
+  <ShortDescription>You have reached the North Wall of the Hanging Gardens.</ShortDescription>
+  <LongDescription>Tropical plants abound here, and the banana trees are ready to harvest.
+Soft ferns brush against your boots as you walk, and low hanging shade
+trees obscure your vision in all directions.  A small stream of water
+is to the south, where you see a high-arched bridge over a pool.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2581</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2583</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="bridge">
+      <Keys/>
+      <Room Area="ocean">2574</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

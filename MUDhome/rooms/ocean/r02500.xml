@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2500" Version="2.40a" Area="ocean">
+  <Name>Lyanden Park</Name>
+  <ShortDescription>You are standing in the vast park on the west shore of Lake Lyanden.</ShortDescription>
+  <LongDescription>The large park stands as a gathering place for the people of the city to
+hear the royal decrees from the Speaker of Lyanden Castle, Lord Ponternal.
+The drawbridge is located to the east, but as is usually the case, the
+drawbridge is raised.  There appears to be a small guard station to the
+east near the drawbridge.</LongDescription>
+  
+  
+  
+  <Established>727296216</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">595</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

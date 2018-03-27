@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5413" Version="2.40" Area="ocean">
+  <Name>Wild Botanical Gardens</Name>
+  <ShortDescription>You are on a trail through the botanical gardens of the Enchanted Forest.</ShortDescription>
+  <LongDescription>The trail starts to get steep as it goes eastward towards the foothills.
+On both sides of the trail are wierd looking plants which move constantly.
+You recognize some of these plants, but they have been terrribly changed
+by something.  What was once a beautiful snapdragon has become a rather
+awful looking chomp dragon.  With teeth.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5412</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5417</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

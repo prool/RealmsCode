@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  breathe-water spell   | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 12
+School:  Transmutation
+Domain:  Augmentation
+
+This spell allows its target to breath under water safely. It polymorphs
+the lungs of the target into a gill/lung combination, allowing them to
+breathe both air and water. Only slight discomfort is experienced, though,
+and the lungs revert to their normal make-up when the spell expires.
+
+Syntax:
+cast breathe-water <target>
+

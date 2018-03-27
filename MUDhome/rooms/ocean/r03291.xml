@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3291" Version="2.40" Area="ocean">
+  <Name>West Grounds</Name>
+  <ShortDescription>These are the well kept west grounds of the Ogden Villa Estate.</ShortDescription>
+  <LongDescription>The lush green grass is almost carpet-like in appearance, with every blade
+trimmed to the exact same length.  South of you is a high wall surrounding
+a garden.  A gate allows you a glimpse inside, and you see it radiates a
+soft glow, hinting there is more to the garden than just nature.</LongDescription>
+  
+  <Established>756376391</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3267</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3295</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

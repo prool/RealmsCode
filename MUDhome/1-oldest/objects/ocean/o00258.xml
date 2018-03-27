@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="258" Area="ocean" Version="2.40">
+  <Name>elven bow of accuracy</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>6</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">3000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">bow</Key>
+    <Key Num="1">accuracy</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a well-made bow of surprisingly smooth birch wood.</Description>
+  <Weight>3</Weight>
+  <Type>5</Type>
+  <SubType>bow</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

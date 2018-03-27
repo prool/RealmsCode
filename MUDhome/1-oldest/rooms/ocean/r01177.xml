@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1177" Version="2.40a" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, south of the Ivanhouse Arena.</ShortDescription>
+  <LongDescription>The Ivanhouse Sporting Facility is located to the north.  There is
+an entrance to the north labeled "Challenger's Ready Room".  Those 
+who wish to compete in the Arena may do so by entering this large room
+to the north.  On the south side of Netherworld Lane is the Khelleva
+Estate.  This massive estate covers nearly two whole city blocks and
+has been the home of the Khelleva Family for nearly twenty generations.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1178</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1176</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1975</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

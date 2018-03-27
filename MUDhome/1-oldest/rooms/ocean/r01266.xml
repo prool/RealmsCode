@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1266" Version="2.40" Area="ocean">
+  <Name>Secret Crypt Passage</Name>
+  <ShortDescription>You've stumbled into a secret passage inside the crypt.</ShortDescription>
+  <LongDescription>The crypt is filled with many secrets.  This passage must be one of them.
+It leads due west to a large room with a number of bright lights.  At
+least the room looks well illuminated as your torch is starting to burn
+out.  It looks like a good place to rest before moving on.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1265</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1267</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

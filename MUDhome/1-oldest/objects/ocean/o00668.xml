@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="668" Area="ocean" Version="2.40">
+  <Name>white bone key</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>75</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">white</Key>
+    <Key Num="1">bone</Key>
+    <Key Num="2">key</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="1"/>
+  </Flags>
+  <Description>It is a key made of bleached bone.</Description>
+  <Weight>1</Weight>
+  <Type>12</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

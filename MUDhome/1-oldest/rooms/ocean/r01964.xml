@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1964" Version="2.40" Area="ocean">
+  <Name>Entrance to DeNail's Corn Fields</Name>
+  <ShortDescription>You are at the entrance to DeNail's Prized Corn Fields.</ShortDescription>
+  <LongDescription>DeNail is always looking for young, strong people that he doesn't have
+to pay to do his work.  Therefore, he only lets unskilled labor into 
+his ranch.  The large corn fields are immense, spanning to the west
+as far as the eye can see.  The talk corn stalks prevent you from 
+seeing very far in any one direction.  There sure is a lot of corn here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1962</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1963</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1960</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1227</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

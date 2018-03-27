@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="626" Version="2.40a" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are walking between two shopping centers along Lankshire Parkway.</ShortDescription>
+  <LongDescription>On the east side of the road is the Hillborough Adamantine Works shop,
+where various artifacts of adamantine can be bought.  Adamantine is one
+of the stronger metals in the world, second only to mithril.  On the
+west side of the road is David's Used Books shop, where one might get
+lucky and find an old magic spell or an ancient scroll.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">625</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">627</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

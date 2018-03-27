@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="5139" Version="2.40" Area="ocean">
+  <Name>Southern Castle Wall</Name>
+  <ShortDescription>This is the southern hallway that runs around the castle's interior.</ShortDescription>
+  <LongDescription>Evidently the fire couldn't do much damage here, as it seems to be mostly
+stonework.  A wide, iron door with rusted hinges is set into the west wall.
+The hallway continues to the northeast and to the northwest, curving out of
+sight in both directions.  There is a great hallway to the north.</LongDescription>
+  
+  <Established>773553539</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5138</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5141</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5142</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="iron door">
+      <Keys/>
+      <Room Area="ocean">5085</Room>
+      <Key>86</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

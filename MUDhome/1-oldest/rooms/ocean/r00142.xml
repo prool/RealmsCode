@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="142" Version="2.40" Area="ocean">
+  <Name>Poor Alley</Name>
+  <ShortDescription>You are in Poor Alley, a place many people wish they would never see again.</ShortDescription>
+  <LongDescription>There;s a surprisingly large number of peoplw in this dark and cold alley.
+Many of them are going to a wine shop located down some stairs.  Next door
+is a missionary.  A group of missionary musicians stand outside, playing in
+a small band and loudly proclaiming that all sinners will go to hell and
+be eaten by Fenris.  A fat lady in an ankle-length black dress bangs a
+tambourine against her ample hip, and wildly rolls her eyes as she sings.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">3</Mob>
+      <Mob Area="ocean" Num="3">2</Mob>
+      <Mob Area="ocean" Num="4">5</Mob>
+      <Mob Area="ocean" Num="5">7</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">10</Mob>
+      <Mob Area="ocean" Num="9">10</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">137</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">147</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

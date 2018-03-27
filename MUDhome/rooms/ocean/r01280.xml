@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1280" Version="2.40" Area="ocean">
+  <Name>Passage Over the Cyclops Den</Name>
+  <ShortDescription>The passage stops abruptly at a cliff overlooking the Cyclops Den.</ShortDescription>
+  <LongDescription>It looks like the Cyclops dug too high and broke through this passage.
+The mystical, yet deadly, creature is rumored to have a number of good
+weapons and other stashes of treasure.  The only way to get down there
+is to repel down.</LongDescription>
+  <Trap>1</Trap>
+  <TrapExit Area="ocean">1282</TrapExit>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1279</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">1282</Room>
+      <Flags>
+        <Bit Num="9"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

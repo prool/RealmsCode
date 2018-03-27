@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<Creature Num="775" Area="ocean" Version="2.40">
+  <Name>catapult officer</Name>
+  <Class>4</Class>
+  <Level>8</Level>
+  <Type>1</Type>
+  <Experience>240</Experience>
+  <Coins>
+    <Coin Num="2">240</Coin>
+  </Coins>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>150</Current>
+      <Max>150</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>The officer is concerned with his heavy equipment.</Description>
+  <Keys>
+    <Key Num="0">officer</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>225</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>4</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>the accuracy of our catapults needs improvement.  Ya got any ideas?</Talk>
+  <NumWander>2</NumWander>
+  <DefenseSkill>75</DefenseSkill>
+  <AttackPower>368</AttackPower>
+  <WeaponSkill>75</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">331</Carry>
+    <Carry Area="ocean" Num="1">332</Carry>
+    <Carry Area="ocean" Num="2">333</Carry>
+    <Carry Area="ocean" Num="3">334</Carry>
+    <Carry Area="ocean" Num="4">335</Carry>
+    <Carry Area="ocean" Num="5">331</Carry>
+    <Carry Area="ocean" Num="6">332</Carry>
+    <Carry Area="ocean" Num="7">333</Carry>
+    <Carry Area="ocean" Num="8">334</Carry>
+    <Carry Area="ocean" Num="9">335</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

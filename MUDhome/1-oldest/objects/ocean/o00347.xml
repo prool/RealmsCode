@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="347" Area="ocean" Version="2.40">
+  <Name>chain mail hood</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>25</ShotsMax>
+  <ShotsCur>25</ShotsCur>
+  <Armor>44</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">750</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">mail</Key>
+    <Key Num="1">hood</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>You see a chain mail hood made for smaller races.</Description>
+  <Weight>6</Weight>
+  <Type>6</Type>
+  <SubType>chain</SubType>
+  <WearFlag>7</WearFlag>
+  <InBag/>
+</Object>

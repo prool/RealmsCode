@@ -1,0 +1,12 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  creation         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+^WSpells:^x
+    conjure
+    wall-of-fire
+    wall-of-force
+
+See also:
+    HELP DOMAINS
+

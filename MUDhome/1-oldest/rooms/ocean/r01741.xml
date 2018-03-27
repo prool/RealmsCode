@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1741" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are on Wakeforest Drive, between the Campus and the Highland Stables.</ShortDescription>
+  <LongDescription>It is important to note that riding a horse in town, especially in a busy
+section of town, is dangerous to both the pedestrians and to the horse.
+Therefore, a large stable has been placed near the eastern entrance to the
+city for the convinience of the guests.  There are also a number of small
+inns near the eastern gates where visitors may relax after a long day of
+riding.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1740</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1742</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

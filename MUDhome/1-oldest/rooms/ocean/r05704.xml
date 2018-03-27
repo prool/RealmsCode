@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5704" Version="2.40" Area="ocean">
+  <Name>Phexton Road/Hildor Lane Intersection</Name>
+  <ShortDescription>This is a dusty intersection of roads at the entrance to Phexton Village.</ShortDescription>
+  <LongDescription>You see a village of Mountain Giants, each well over six meters tall. 
+Large homes and shops are on both the east and west sides of the central
+park which is in the center of the village.  There is an inn on the east
+side of the road, and a rather noisy sounding pub on the west side.  The
+wide Phexton Road goes down the mountain to the southwest.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5703</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5705</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5706</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="243" Area="ocean" Version="2.40">
+  <Name>boots of k'tral</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Armor>13</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">250</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">ktral</Key>
+    <Key Num="1">k'tral</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+  </Flags>
+  <Description>You see some heavy leather boots used in the K'tral desert.</Description>
+  <Weight>4</Weight>
+  <Type>6</Type>
+  <WearFlag>8</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="502" Area="ocean" Version="2.40">
+  <Name>heartseeking bow</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>75</ShotsMax>
+  <ShotsCur>75</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>8</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">50000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">bow</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>This bow is forged of pure desire and hatred in the flames of hell.</Description>
+  <UseOutput>You feel en ecstasy of power run warm through your blood.</UseOutput>
+  <Weight>6</Weight>
+  <Type>5</Type>
+  <SubType>bow</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

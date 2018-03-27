@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3322" Version="2.40" Area="ocean">
+  <Name>Necropolis Path</Name>
+  <ShortDescription>You are on a path in the northeastern section of the great Necroplis.</ShortDescription>
+  <LongDescription>Not far from here, to the east, is the Tomb of Eldritch.  Eldritch was
+one of the later heros of Oceancrest and rose to a very high level before
+he was killed in a fight with the undead, not far from this very spot.  
+In the distance you see several white marble monuments and statues.</LongDescription>
+  
+  <Established>759796314</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3316</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3325</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,770 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  welcomerealms     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+Realms of Hell
+Version 2.01b
+
+DMs: Bane, Dominus
+
+****************************************************************************
+   NOTE: It is recommended that players read this file in its entirety.
+         ALSO: Please type help policy at your earliest convenience. Help
+         policy explains all the rules of our mud. Ignorance of the rules
+         will not exempt you from being required to uphold them.
+****************************************************************************
+For the purpose of this document, a DM is a dungeonmaster, and a CT is
+a caretaker.
+
+INTRODUCTION
+
+Realms of Hell is a multi-player game set in a fantasy realm in cyberspace.
+It is first and foremost a game of person-to-person interaction. In this
+interactive realm, players may talk amongst themselves, fight fantastic
+creatures and gain treasures, fight each other, or solve puzzling quests
+throughout the realm either for entertainment or in order to become more
+powerful. Players may gain experience by killing various creatures and
+completing quests. By gaining experience, your character may gain in
+levels. Levels are what indicates how powerful any particular player is.
+The range of levels is 1(weak and inexperienced) to 30(almost godlike).
+A player may be several different classes and races. A class is similar
+to a profession, such as wizard or fighter. There are several races other
+then human a player may be in Realms of Hell. They come in three size
+categories, each category determining what armor or weapons you can use
+or wield. Some races can see in the dark and others cannot. Information on
+every single race and class, as well as abilities and attribute adjustments
+can all be found in the Book of Knowledge.
+
+Although Realms of Hell can be played with a telnet client, we recommend
+that you get a MUD client, which is a program specially designed for playing
+online games like ours. The one we suggest you get is Zmud. Shareware and
+Freeware versions of it can be found at:
+http://www.zuggsoft.com/zmud/zmudinfo.htm.
+A program called Putty also works very well with the mud. It is a single
+file and acts an all-around telnet client, but is more user friendly.
+http://www.chiark.greenend.org.uk/~sgtatham/putty/
+
+Realms of Hell is administered by several people who are more often then
+not there to assist you. The administration staff consists of DMs
+(Dungeonmasters), CTs (Caretakers), and Watchers. DMs are higher then
+caretakers, but if you have a problem, a caretaker should be contacted first
+whenever possible. Also, whenever possible, it is best to contact the
+administration via mudmail instead of asking to talk to them personally.
+Mudmail will be explained later in more detail. There are also Watchers in
+the game now, which are players that have been chosen as a liaison for the
+DMs and CTs. It is best to contact a Watcher if you want to contact a DM or
+CT about a problem or issue. The players that are Watchers will have white
+text when you type "who". Additionally, typing "who watcher" will give you
+a list of watchers if any are online.
+
+CHARACTER CREATION
+
+If you have never played an online game such as Realms of Hell before,
+you naturally will be quite dumbfounded as to what's going on. The first
+thing you must do is create a new character. When you log on to the
+mudsite, you are prompted with:
+
+Enter Name:
+
+What you must do is choose a name for yourself. This name should not be
+something goofy like Iwillkillyouall, or Firefart, or anything else similar.
+Sometimes a goofy name is ok, but be warned that if anyone on the
+administration staff doesn't like it, you will most likely be asked to
+choose another name. A watcher can assist you in the renaming proccess.
+Profane names are NEVER allowed under any circumstances. If you enter a
+name and are prompted with:
+
+Enter Password:
+
+This means that someone has already chosen that name. Don't panic! All you
+have to do reconnect and try another name. Once you choose a name, the mud
+will ask for confirmation of yes or no. If you do not like the name you chose
+after all, tell the mud no, and you can choose another. If you are satisfied
+with your name, choose yes and go on. The next thing the mud will do is ask
+you to press return. It is a mystery of the universe why it does this.
+Nevertheless, you must press return in order to move on. The next thing the
+mud will ask is if you want to be male or female. Keep in mind that if you
+are male in real life and want to play a female character or vice versa,
+there is nothing wrong with that. It all depends on your personal
+preference.
+
+The next thing the mud will ask you is what race you want to be. There are a
+total of 20 races to choose from. All races and their attribute adjustments,
+size class, and whether they can see in the dark are all listed in the Book
+of Knowledge. The most important thing about races is that specific races
+can only be specific classes. Also, each race will have add or subtract to
+specific attributes. You can type HELP (racename) at the prompt to see a
+brief description. If you choose your race as human, the mud will ask which
+attribute you want to add one to, and then which one to subtract from. This
+is an advantage humans have over other races, since they are such a flexible
+race.
+
+The next thing the mud will ask you is what class you wish to be. All of
+our classes and their descriptions and different abilities are listed in
+the Book of Knowledge, or you may type HELP (classname) at the prompt to
+get a brief description of the class.
+
+After choosing a class, the mud will ask you to enter in the numbers for your
+five attributes. The attributes, in order are: Strength, Dexterity,
+Constitution, Intelligence, and Piety. Each attribute affects your character
+in different ways depending on which class you choose to be. To see what each
+attribute represents, take a moment to look at our online attributes file by
+typing HELP STATS. We recommend that you read it in it's entirety before
+choosing your attribute scores. The game will be better for you in the long
+run should you do so. Even though you may not understand some of the
+terminology used there yet, it is still best to read it. Anyway, the mud
+is now asking you to put 56 points in your different attributes spread out
+however you so choose. There is a restriction though. The stat points for
+each attribute cannot be lower than 3 our greater than 18. Let's say for
+example you wanted to put a 10 in all of your attributes but piety, which
+you would put a 16 in. To do this you would simply type:
+
+10 10 10 10 16
+
+and then press return. If you chose your race as human, the mud would then
+ask which attribute you want to add one to. This is an advantage humans have
+over other races. Note that 10 10 10 10 14 are horrible stats to put in your
+attributes. It is a simply a bad combination for any class. Those numbers
+were just used for example's sake. Hint: Generally, it is best to use either
+a combination of: 2 18s, 2 3s, and a 12, or 3 16s and 2 3s, depending on
+which class you pick and what race. Some attributes are more important then
+others for some classes. You will learn this from playing experience and
+talking to other players over time.
+
+After choosing class, the mud will then ask you what weapon proficiency you
+wish to use. In Realms of Hell, there are 6 types of weapons. These are, in
+order, sharp, thrust, blunt, pole, missile, and cleave. Sharp weapons are
+weapons like razor blades and hunting knives. A thrusting weapon could be a
+dagger, sword, or spike. Blunt weapons can be clubs, maces, or anything else
+you smack an enemy upside the head with. A pole weapon could be a halberd,
+walking staff, or huge battle axe. A missile weapon would be a bow, sling,
+crossbow, or anything else which uses a projectile. A cleave weapon would be
+something like a hook or an axe. Whichever one (two if you are a fighter)
+you pick will start with a 20% proficiency rating. Proficiency can range
+from 0 to 100%. Over time and use of different weapons, they will rise closer
+and closer to 100%. Keep in mind that just because you choose one weapon
+proficiency, you are NOT limited to that proficiency. The beginning
+proficiency you choose is simply a head start. Depending on your class,
+the higher your proficiency gets, the more likely you are to do critical
+damage with that weapon when you hit. Fighters and Barbarians get the most
+critical hits, and mages and liches barely ever get them, for example. You
+should choose the proficiency based on your class. For example, if you are
+an assassin or thief you would choose either sharp or thrust because you can
+only use sharp or thrust weapons to backstab.
+
+In the game you can be either chaotic or lawful. However, this is a key
+decision you can make when you reach level 7. All characters will start off
+as lawful in order to prevent people from taking advantage and killing you.
+Chaotic players can be killed by other chaotic players, can be stolen from
+by other chaotic players, and can likewise kill or steal from other chaotic
+players. Killing another player is called pkilling, and it is for the most
+part the sole propriety of being chaotic. Some people simply kill other
+people just because they are chaotic and for no other reason. Lawful players
+cannot be stolen from or killed by anyone, nor can they kill or steal from
+other players. The only exception to this rule is pledging, which means
+joining a clan. Fighters, thieves, assassins, clerics, death knights,
+rogues, and paladins all must join a clan in order to rise in power. This
+means you can be killed or stolen from by people of other clans then your
+own regardless of being chaotic or lawful. Paladins and Death Knights can
+ALWAYS attack one another, regardless of being chaotic or lawful. This is
+part of being one of those two classes. They are in a permanent holy war
+with one another. In general however, the game is much safer for you if
+you chose to be lawful. If you are new to the game, it is highly
+recommended that you chose to be lawful in order to get the hang of the
+game before ever making a chaotic character.
+
+The mud will now ask you to make up a password. This can be anything from 3
+to 14 characters in length. There are certain criteria you have to follow
+when making your password. First it must be from 6 to 12 characters in
+length. It must contain at least 2 letters and it must contain at least 2
+numbers or special characters. Lastly, it must contain no leading or
+trailing spaces. You can change your password later in the game by typing
+PASSWORD at the prompt. Do to not lose your password. The staff does not
+give out password information. Pick something that is easy to remember or
+easy to type.
+
+After this, you are ready to go! You should appear in the Origin of Life and
+there will be three doorways in front of you. The first thing you should do
+is type HELP POLICY. This explains all our policies. You may not understand
+some of the terminology in the file, but it still needs to be read so you
+can be familiar with what you can and cannot do. You will learn what it all
+means later.
+
+
+COMMUNICATIONS
+
+There are several ways to communicate in Realms of Hell. This is important
+for player interaction as well as survival in most cases. Following is a
+list of all communication commands and their syntax.
+
+say
+                Syntax: say (message) or ' (message)
+   Say is used to speak to others in the same room as you are. Everyone
+   currently in the room can see what you say. If you are not visible, you
+   will appear as "someone" when you talk.
+
+
+yell
+                Syntax: yell (message)
+   Yell is similar to say, but with one difference. When you yell something,
+   not only can everyone in the current room see what you are yelling, but
+   all others in adjacent rooms will hear what you yell as well. People in
+   other rooms will see what you say as "someone" since they are not in the
+   room to see who is yelling. Once again, if you are not visible, all those
+   currently in the room with you will see you as "someone".
+
+
+gtalk
+                Syntax: gtalk (message) or gt (message)
+   If you are traveling in a group, meaning you followed someone or they
+   followed you, you can gtalk. This means that whatever you say is only seen
+   by you and those people who are following you or you are following. To see
+   who all is in the group you are currently in, you can type PART or GROUP
+   to see. Once again, if you are not visible, you will appear as "someone"
+   to all people who cannot detect you.
+
+
+send or tell
+                Syntax: send (message) (person) or tell (message) (person)
+   Send and tell are used for private communications between players. No one
+   but you and the person you are sending the message to can see what you are
+   saying. This can be done anywhere in the game from one point to the other.
+   Think of it as a type of telepathy. Once again, if you are not visible,
+   you will appear as "someone" to the person you send the message to unless
+   they can detect you. On the same note, if the person you wish to send a
+   message to is invisible, you must be detecting them in order to send
+   anything to them.
+
+
+classsend
+                Syntax: cls (message) or classsend (message)
+   Classsend is used to send a message to all others of your same class who
+   are currently logged on. For example if you are a fighter, then all
+   fighters currently logged on will see your message. You can type "who" to
+   see the class of everyone currently logged on, and you can type "who
+   fighter" to see only the fighters. As with the other communication
+   commands so far, if you are not visible, you will appear as "someone" to
+   all people of your class who are not detecting you.
+
+
+clansend
+                Syntax: clan (message) or clansend (message)
+   Clansend is similar to classsend above, but the people who see your
+   message are only those who currently belong to the same clan as you.
+   For the purposes of this command, clerics pledged to certain gods will
+   use the chat channel of another clan. For example, anyone pledged to
+   the Crusaders of Enoch will also be able to speak with clerics worshiping
+   Enoch.
+
+
+broadcast
+                Syntax: broad (message) or broadcast (message)
+   Broadcast is a method you use to send a message to all people currently
+   logged onto the game. You must be level 2 before you are allowed to
+   broadcast, although sometimes you are able to at level 1. You are allowed
+   only a certain number of broadcasts per day, depending on your level, so
+   use them wisely. If you are not visible, all people who do not detect you
+   will see you as "someone" when you broadcast. Please remember that
+   broadcasting excessive foul language can be insulting to some people, and
+   thus is considered to be a player etiquette violation by us if continually
+   done. For more information on this, check the player etiquette section in
+   our policy by typing HELP POLICY.
+
+
+ignore
+                Syntax: ignore (person)
+   Ignore is used to stop people from gtalking to you or using send and tell
+   to send you messages. Sometimes people just get annoying and you may want
+   to do this. Doing this will place the person on your ignore list. To
+   remove them, you simply have to ignore them again.
+
+
+gag
+                Syntax: gag (person)
+   Gag works similar to ignore. When you gag someone, you do not see any
+   socials they do, anything they say, anything they broadcast, emote, and
+   very few things they do at all.
+
+
+emote
+                Syntax: emote (action)
+   Emote is used to make your character perform actions not covered by
+   social commands (read below). It is used to perform actions and allow
+   those in your current room to see what you do. For example, let's say
+   your character is named Fred. If you were to type: "emote eats some
+   chicken", everyone else in the room would see: "Fred eats some chicken."
+   Note that you do NOT have to enter a period after what you do. Emote
+   does that for you.
+
+
+classemote
+                Syntax: classemote (action) OR clem (action)
+   A classemote is the same as an emote, but it works in a similar way to
+   classsend above. The result is that everyone online of your class sees
+   what you emote.
+
+   Another method of communication is to use social commands. These can all
+   be found bytyping HELP SOCIALS. These commands allow you to nod your
+   head, shake your head, hug people, growl at people, slap people, kiss
+   people, etc. The list goes on forever. They also help you in
+   role-playing your character, which we highly encourage here at Realms.
+   It makes the game more fun.
+
+Note that help on any of the above commands can be accessed while you are
+playing by typing HELP (commandname).
+
+
+
+MOVEMENT
+
+Movement can be accomplished in several ways in Realms of Hell. First of
+all, you need to LOOK at the room you are in or just type "l". Listed are
+"Obvious Exits:" These are the directions you may move. The directions
+north, south, east, west, northeast, northwest, southeast, and southwest
+can all be typed in order to move. Their abbreviations of n, s, e, w, ne,
+nw, se, sw can also be used. In fact, most people use the abbreviations.
+Up, down, and out can also be typed to move in those directions. If you
+see an exit such as a "jade door" or a "cave", you must type in: GO jade,
+or GO cave. If the exit you wish to go through is closed, such as an "iron
+door", you will probably need to type OPEN door. If a door is locked when
+you try to open it, you must find the proper key and UNLOCK the door, or
+use a thief to pick the lock. Sometimes exits are hidden. In this case,
+you need to SEARCH the room. You may or may not find anything, and you
+can search every 7 seconds. Some classes (rangers and druids) can search
+better then others. Exits are sometimes invisible as well. To see them you
+must be detecting invisibility. If an exit is both invisible AND hidden,
+you must detect invisibility as well as search for it.
+
+Realms of Hell has no movement allowance like most other MUDs. Instead, we
+just make you slow down and wait three seconds if you try to move too fast.
+The only way to avoid this is to be a druid which has the endurance ability.
+This allows a druid to avoid the three second wait and run really fast from
+place to place.
+
+Sometimes you may be required to be flying to go through some exits. In this
+case, you must find the proper spell or item and cast a fly spell on yourself
+or have someone else do it.
+
+
+OBJECT MANIPULATION
+
+In order to play Realms of Hell, you must know how to manipulate objects in
+your inventory and on the ground. There are several commands which allow you
+to do this. Note that in the following explanations, wherever you see [ ],
+these are OPTIONAL parts as far as how the commands work(syntax). Things in
+( ) are parameters, or things the commands must act on. For example, in "get
+(item) [#] [container]", the (item) is an item name of something on the
+floor, and the [#] would mean an optional number. In this case it would be
+used if you saw two of the same thing on the ground. To get the second thing
+you would put 2 where # is.The [container] means an optional bag or backpack
+item name if getting the item from there and not from the floor.
+
+Inventory
+                Syntax: inventory or i
+   This command will allow you to look at all your character is carrying.
+   You may only carry a certain amount. The higher your strength is, the
+   more you are able to carry. Note that you must never have more then 100
+   items in your inventory. If you do, then they may disappear. This is ANY
+   item. 20 of the same item count as 20 items not one.
+
+
+Equipment
+                Syntax: equipment or eq
+   This command will allow you to see what all your character is wearing
+   and what weapon he/she is using/wielding. If you are ever killed by a
+   player, then all of the things you are wearing and wielding will be
+   dropped on the floor. No one but a thief can ever get to your inventory,
+   and then only if you are chaotic.
+
+
+Wear
+                Syntax: wear (item) [#]/[all]
+   Wear is the command you use to put on items that are armor. You can
+   then see if you are wearing them with the Equipment command. If you "wear
+   all" your character will put on all items of armor in your inventory in
+   alphabetical order. Note that sometimes items you can wear are cursed. If
+   this is the case, you can not take them off. Be careful. Also note that
+   mages and liches are severely limited in the types of armor they may wear,
+   and that monks and werewolves may not wear any protective armor at all.
+
+
+Remove
+                Syntax: remove (item) [#]/[all] OR rm (item) [#]/[all]
+   This command allows you to take off armor and/or weapons so they are not
+   worn and/or ready. If you "remove all", your character will remove all
+   armor and weapons he/she is wearing/wielding. Most people will "remove
+   all" quite often if they are chaotic, as if they are killed by a player
+   while wearing things, all those things are lost when they die. Note that
+   some items are cursed. If this is the case and you are wearing/wielding
+   a cursed item, it cannot be removed until yourself or someone else casts
+   a remove-curse spell on you.
+
+
+Wield
+                Syntax: wield (weapon) [#]
+   This command is used in order to wield/ready a weapon for use in combat.
+   Note that some classes such as mages and liches are extremely limited in
+   the types of weapons they may use. Also, monks and werewolves are only
+   able to use weapons specifically designed for their classes.
+
+
+Use
+                Syntax: use (item) [#] [(target [#])]
+   This is an all-purpose object use command. It will take the place of
+   wear, wield, drink, zap, etc... If you don't know what an object is or
+   does, use the use command. However, be careful, because if you use a
+   wand and don't indicate a target, you could cast a damaging spell on
+   yourself. For using weapons, it is highly recommended you use the wield
+   command, since use sometimes gets confused and can cause you problems
+   when you try to wield something that is spelled the same as your weapon
+   but isn't a weapon. This can get you killed sometimes if it delays you a
+   second or so to try to wield the right thing.
+
+
+Get/Take
+                Syntax: get (item) [all]/[#] [(Container [#])] or get all
+   This command allows you to get items from the floor or out of containers
+   in your inventory. If there is more then one item you want on the floor
+   of the same name, and you do not want the first one, you must indicate
+   you want the second one by placing a 2 after the item name. For example:
+   There are 2 swords on the ground. To get the second one you would type:
+   "get sword 2". If you wish to get something from a container such as a
+   bag, let's say a sword, you would type: "get sword bag". If you wanted
+   to get the sword from the second bag of the same type in your inventory,
+   you would type: "get sword bag 2". If you wanted to get the 2nd sword
+   of the same type within the 2nd bag of the same type, you would type:
+   "get sword 2 bag 2". If you wish to get everything out of a bag, you
+   can type: "get all bag". If you wish to get everything on the ground in
+   a room, you may type: "get all". However, we discourage you from doing
+   this if someone else is in the room around you, as it is not good player
+   etiquette to do so.
+
+
+Put
+                Syntax: put (object) [all]/[#] (container) [#]
+   This command lets you put items in container type objects such as bags
+   or leather backpacks. Bags have a limited amount that can fit in them,
+   and some bags negate the weight of the items inside them. If you wish
+   to put all of your inventory into a bag, you may type: "put all bag".
+   However, keep in mind that the mud will go through your inventory in
+   alphabetical order when it chooses what order to put the items in the
+   bag, and it will not exceed the bags maximum capacity.
+
+
+Drop
+                Syntax: drop (item) [#] OR drop all
+   This command lets your character drop items in the current room they
+   are in. Use the [#] option in order to drop different items of the
+   same name. For example, if you have 4 gems in your inventory and want
+   to drop the 3rd one, you would type: "drop gem 3". If you wish to
+   drop your entire inventory (which is usually not a good thing to do)
+   you may type:  "drop all".
+
+
+GAME MECHANICS
+
+   In order to play the game you must know how the game works. Knowing
+the meaning of some general terms will help as well. This section will
+explain the basics to you.
+
+Hit Points
+   Hit points, sometimes called HP, are what determines how much health
+your character currently has. When these reach zero or below, your
+character dies. As you get more powerful and advance in levels, you get
+more hit points depending on your class. Your hit points are shown on
+your prompt. The prompt looks like: (22 H 2M). Depending on your class
+and level, the numbers will be different. In this case, the hit points
+shown are 22. Over time your hit points regenerate at certain intervals.
+This is called "ticking" by most people. Another way to get hit points
+back is to have people cast vigor or mend-wound spells on you, or to
+cast them on yourself.
+
+Magic Points
+   Magic points (called MP too) are what you use to cast spells. Nearly
+all classes in Realms can cast spells, but some are better then others.
+For example, berserkers cannot cast spells at all, while a lich or mage
+are both excellent spell casters. Each spell you cast costs a certain
+amount of MP to cast. You can find out how much by typing "help
+(spellname)" whenever you are online. Over time your magic points
+regenerate just like hit points do. Your current MP is shown on the
+prompt to the left of the M next to your hit points. Note that if you
+are a lich, you do not cast with your MP, but with your HP instead.
+Liches do not have MP.
+
+Experience and Leveling
+   The power of your character is dependent on what level he/she is.
+Characters on Realms can get all the way to level 30. In order to gain
+levels, you must gain experience. There are several ways to do this.
+The most common is by killing monsters. Note that "monster" refers to
+any mobile creature on the mud, whether it be acity guard, a dragon, or
+a lost kitten. Each type monster is worth a different amount of
+experience. If you fight in a group, the experience is divided amongst
+the entire group when the monster dies, but not necessarily evenly.
+There are several factors involved. Another way to gain experience is
+to do quests. Quests are puzzles in the game that you complete to gain
+items or complete tasks. Each one is worth a different amount of
+experience. Each level also requires a certain amount of gold to level.
+This is half of your total experience to level. After certain number
+of levels you will be required to obtain items to prove your skill
+to level. If you die you will lose a certain percentage of your total
+exp which may cause you to delevel. However, when releveling it
+doesn’t require gold or the item again. It will automatically relevel
+you once enough experience points are obtained.
+
+
+Training
+   When you have gained enough experience to level, you must train. To
+do this you must first have enough gold. Training costs money. To
+figure out how much you need, simply type "info". You then find your
+total experience and add that to your experience needed to level. Half
+of this final number is how much gold you require to level. After you
+have the gold, you must find your training location. The absolute best
+way to do this is to ask players online. You also may find Xenis the
+Sage off of Trade Street in Highport, and type "talk xenis training".
+He will give you a hint. Some classes must fight an opponent to level,
+some may have to buy a key, and others simply walk into the room and
+train. When you are in your training room and are ready to train,
+simply type "train". Congratulations! You made a level!
+
+Good and Evil Alignment
+   There are two parts to alignment: chaotic or lawful, and good,
+neutral, and evil. Monsters are always either good, neutral, or evil
+in alignment. For them, chaotic or lawful does not matter. Some
+monsters are more evil or good then others, and neutral monsters are
+extremely rare. Monster alignment affects you by changing your own
+alignment. If you kill a good monster, you will move more towards
+evil, and if you kill an evil monster, you will move more towards
+good. Killing a neutral monster doesn't change your alignment at all.
+Some classes, such as Death Knights, Paladins, and Liches, must remain
+a certain alignment to avoid losing powers or gaining penalties. In
+general, unless you are one of these classes, it is bad to be at either
+alignment extreme. At alignment extremes, you will start fumbling your
+weapons more, and your spells may start to fail. How can you tell if
+you are good or evil? Well, to do this, you must have the know-aura
+spell cast on you. Your aura will change color depending on what
+alignment you are. If you have ANSI set (type SET ANSI to turn it on)
+your prompt will change colors based on your alignment. A paladin can
+always naturally detect auras around them. Basically, when you see
+that you are at one extreme, you can use know-aura to find monsters
+of the same alignment and kill them to get back to neutral alignment.
+Depending on your class, neutral alignment is where you want to stay
+whenever possible. Paladins must remain good, death knights must
+remain evil, and liches must remain evil.
+
+Magical Realms
+   Each of your magical realms has a percentage. Over time these
+percentages increase with the damage you do and the experience you
+gain from killing with spells. The higher the percentage is, the more
+damage your spells will do in that realm. In total there is 6 magical
+realms: earth, air, fire, water, electricity, and cold.  The first
+four basic elements are easier to obtain while electricity and cold
+is harder. Some creatures and perms might resist magic or a certain
+element, however there is a low chance of them resisting electricity
+or cold which is why it is more rare. Each elemental realm has five
+levels of spells and an area spell.
+
+
+Proficiencies
+   You have six weapon proficiencies. At character creation you pick
+one that gets 20% in it initially. If you are a fighter you pick two.
+Over time, the proficiencies go up with the damage you do and
+experience you gain. The higher the percentage is, the more likely
+(depending on your class) you are to do critical hits, and the less
+likely you will fumble a weapon in that proficiency. Note that just
+because you pick specific proficiencies at character creation, this
+doesn't mean that you can only use those proficiencies. You can use
+any of them. The ones you pick at creation simply give you a head
+start in them.
+
+Dying
+   There are three types of death: dying to a monster, dying to a
+player, and dying to a damaging room or trap. When you die to a
+monster, you drop the weapon you were wielding where you died. You
+also lose a percentage of your total experience based on your level.
+Below level 5 you lose 10%. After that, it's always 15%. Death to a
+player is handled a little differently. First off, you don't lose
+any experienced unless pledged to a clan and killed by someone else
+in a clan. You also drop all you were wearing and wielding where
+you died. There are no player corpses in this mud, so corpse
+retrievals are not necessary. As mentioned, experience loss only
+happens if both people are pledged to a clan. If someone of your
+own clan kills you, then you both lose experience. If someone from
+a different clan kills you, they gain experience and you lose 2x
+what they gained. The amount of experience they gain depends on
+your level. Note that Paladins and Death Knights always lose and
+gain experience when they kill one another. Pledging to a clan is
+not necessary for them. If you die to a damaging room or trap, you
+lose 10% of your total experience and do not lose any equipment.
+Traps can be avoided by preparing for them. HELP PREPARE.
+
+Mudmail
+   Mudmail is how players can communicate to one another and to
+caretakers and dungeonmasters. To do this you find a post office.
+Once in a post office, you may do one of three commands: readmail,
+sendmail (person), or deletemail. No more then 80 characters per
+line may be typed, and you type a period on a line by itself to
+end your message.
+
+
+Combat
+
+   Combat is probably the most important thing to be informed on
+when playing Realms. The following sections should familiarize
+you with our system.
+
+The System
+   First and foremost, the combat system of Realms is NOT automatic.
+You do not simply attack and let the mud do all the work for you.
+Several other types of muds do this, but this is not the case with
+mordor muds like ours. You must attack your enemy every 3 seconds or
+so (2 seconds if you are a frenzied werewolf) and press enter. If you
+fumble your weapon, you must wield it again.
+
+
+Fleeing
+   If you are getting hurt badly, the thing to do is to flee. When you
+flee, you run to a random exit from the room and drop your wielded
+weapon. Some people suggest removing your weapon before you flee.
+Remember this though: A lost weapon is easily replaced. A loss of up
+to 15% of your experience due to dying to a monster is not.
+
+Acquiring Spells
+   Spells must be acquired through studying scrolls. Most any spell
+can be learned by any player. To gain a spell, you must find a scroll,
+and then "study" that scroll. Sometimes these are not scrolls per say,
+but can be stone tablets or magical feathers, or something else similar.
+As mentioned, a spell may only be cast if you have the current magic
+points to cast it.
+
+Offensive Spells
+   Realms has several offensive spells. As mentioned before, some classes
+are much better at casting at others. These classes' (mages and liches
+mostly) primary method of attack is to cast spells, since they aren't
+very good at physical combat. By making use of the stun spell, enemies
+can be devastated by these classes. As in attacking normally, time must
+be spent between casting spells. The classes who cast better (mages and
+liches) do not wait as long as other classes between casts.
+
+Saving System
+   A new system of saving throw resistances have been implemented in
+the game. The saving throws are broken down into 5 categories:
+
+     Poison/Disease        Death/Traps
+     Breath/Explosions     Mental Attacks
+     Spells.
+
+Your resistance of each category can be viewed by typing "score". The
+resistances range from Normal to Immune. To raise the saving throws you
+have to build of resistance. For example, if you want spell resistance
+to go up, you have to keep be hit by spells by monsters. The advantage
+of having high resistance is that with higher resistance you will be
+unaffected or for minimal damage. For example, sometimes you will save
+a spell cast on you and only receive half the damage. This will occur
+more as your resistance to spells increases.
+
+Armor Class
+   Your armor class, or AC, is what keeps you protected in battle. The lower
+this number is, the safer you are, because monsters have more of a problem
+hitting you. You can improve your AC by getting and wearing armor, which can
+be found in many shops, and also is dropped by some monsters when they die.
+After a time, your armor will break. When this happens, you can find a
+repair shop and get it fixed. Some armor cannot be fixed, however. Note that
+some classes (Monks, Werewolves, and Liches) have natural AC and do not wear
+armor. In addition, almost no armor fits mages, as they cannot wear it due
+to their need to be free of constraints to cast their spells. In addition,
+several classes require the armor they wear to be "light". These classes
+are: thieves, assassins, rogues, druid.
+
+To find out more information about combat, just type "help" from the command
+line. Listed are several topics under the subheading of Combat. You may type
+"help (commandname)" in order to learn more about each. Also, you should be
+aware of your classes abilities. Many of them are used in combat. Each
+classes' abilities are listed in The Book of Knowledge. You can then link
+to our online help from each class description to learn what each ability
+does.
+
+HELPFUL HINTS
+
+   There are several helpful hints which will help you as you begin to
+play Realms.
+
+Choose Your Class Wisely
+   It is highly recommended that you do not play certain classes when
+starting out. These are:
+
+     Monk     Lich
+     Mage     Druid
+     Multi-class characters
+
+All of these classes are more difficult and it is best to play them
+once you have more of a grasp for the game and the system. We
+recommend playing:
+
+     Berzerker  Werewolf
+     Paladin    Fighter
+
+These classes are relatively simple to get used to. Also, keep in mind
+that some classes are required to pledge to a clan, thus allowing you to
+be killed by players from another or the same clan whether you are lawful
+or not. These classes are: fighters, assassins, thieves, clerics,
+paladins, rogues, and death knights. Keep in mind also that death knights
+can always be killed by paladins and vice versa. This can make them a bad
+choice for a starting player. Choosing the right class will definitely
+help you as a beginner.
+
+Look Before You Leap
+   Before you attack anything, you should always look at it first. This
+will give you a general indication as to whether the monster is ok for you
+to kill. Note that this is NEVER an absolute indicator. Just because it says
+something is easy to kill, does not ever mean it will always be easy for you
+to kill. Some classes are better at combat then others. Others, like monks
+and werewolves, get better at combat all around as they level, so they are
+bad fighters at low level but very dangerous at high level. If a monster
+casts, you can be sure looking at it is most likely not an effective
+indicator. Basically, looking can help you, especially at lower levels.
+However, as you advance in level, it is not as much help to you.
+
+Be Careful Where You Fight
+   At lower levels (1 and 2), we advise you to not to leave the area in
+which you start. This area has monsters in it designed specifically for
+players who are learning. Some of the monsters are tough, however, especially
+the ones that cast (although in the square these are few and far between). In
+the square, it is usually safe for you to look at something and be able to
+tell if you can kill it or not. If you are new and wish to venture outside
+this area, be sure you are careful or have a higher level friend you can
+follow. The smaller towns to the south of Highport are also mostly designed
+for lower level players.
+
+Know When to Flee
+   One of the biggest problems new players have is that they do not flee in
+time if they are in trouble. It can and will always get you killed if you
+wait until the last minute to attempt to flee. If you are getting beat up,
+run away! You can always go back and kill something after you heal.
+
+Ask Experienced Players to Help You
+   You should always make friends in high places. This is the absolute BEST
+way to learn about the game. Ask around for help. Sometimes they may be
+busy, but keep trying. Eventually they won't be. We have several players
+who are more then happy to set aside some of their time to help you.
+Failing this, you can always go to a post office and mudmail a caretaker.
+We are happy to answer the questions of new players, provided they fit
+within the bounds of our policy.
+
+Make Friends
+   Realms is a much more enjoyable game if played in groups, and in order
+to do this, you need friends to group with. Most of our players are very
+friendly and will gladly help you or group with you. This also adds to the
+interactive environment we wish to maintain here. In general making friends
+makes the game much more enjoyable to everyone online.
+
+Roleplay!!!!
+   Roleplaying is the idea of making up an alternate personality then your
+own and playing it online. This can be quite fun to do, especially when
+everyone does it. Not only is it fun to do, but it can get you free
+experience to help you level! If a staff member (DM or CT) sees you
+roleplaying a lot, they will often award you experience for doing so! It's
+simple to do, and it makes it easier for you to level.....So why not do it?
+
+   We hope this file has helped you to get a head start. As mentioned,
+we mostly always are available to you for suggestions and questions you
+may have.
+

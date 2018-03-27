@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="2275" Version="2.40" Area="ocean">
+  <Name>Roman Iron Works Storage Shack</Name>
+  <ShortDescription>You are in the Roman Iron Works Storage Shack.</ShortDescription>
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2274</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

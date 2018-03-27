@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="320" Version="2.40" Area="ocean">
+  <Name>Bendine Aquarium Kiddie Tank Surface</Name>
+  <ShortDescription>You are on the surface of the Children's Tank in the Bendine Aquarium.</ShortDescription>
+  <LongDescription>The large water pool is quite warm and relaxing.  Every so often, a dolphin
+or two will nudge you.  They sort of see you as an invader of their habitat,
+but are usually fairly friendly unless attacked.  A number of large fish
+and sea horses also swim by.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="22"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">289</Mob>
+      <Mob Area="ocean" Num="1">290</Mob>
+      <Mob Area="ocean" Num="2">291</Mob>
+      <Mob Area="ocean" Num="3">292</Mob>
+      <Mob Area="ocean" Num="4">293</Mob>
+      <Mob Area="ocean" Num="5">294</Mob>
+      <Mob Area="ocean" Num="6">289</Mob>
+      <Mob Area="ocean" Num="7">290</Mob>
+      <Mob Area="ocean" Num="8">291</Mob>
+      <Mob Area="ocean" Num="9">293</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">319</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">321</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

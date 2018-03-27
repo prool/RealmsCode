@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1159" Version="2.40" Area="ocean">
+  <Name>Khelleva Circle</Name>
+  <ShortDescription>You are walking along the northern edge of Khelleva Circle.</ShortDescription>
+  <LongDescription>Eidenhoft Boulevard continues to the north from Khelleva Circle.  The
+Circle itself continues to the southeast and southwest. On the western
+side of the road, you can see a strange building with a large gem hovering
+about it.  When the sunlight hits the gem, it radiates a vigorous purple
+hue over the building and its adjacent roads.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1158</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1160</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1165</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

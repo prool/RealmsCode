@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1086" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are walking along Golden Dolphin Way, south of the Golden Dolphin Inn.</ShortDescription>
+  <LongDescription>The Golden Dolphin Inn is directly to the north.  You can see through 
+some of the windows to see that it is a modestly priced inn with just
+moderate quality service.  Although well kept, it lacks some of the
+glitter and money that some of the other, fancier inns have, such as
+the Dragon's Tooth Inn.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1087</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1085</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

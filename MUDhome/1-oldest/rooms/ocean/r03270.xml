@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3270" Version="2.40" Area="ocean">
+  <Name>Dining Hall</Name>
+  
+  <Established>756376040</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3269</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3286</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="ladder">
+      <Keys/>
+      <Room Area="ocean">3290</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

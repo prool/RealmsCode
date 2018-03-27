@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="755" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are walking across a bridge spanning the Ashton River.</ShortDescription>
+  <LongDescription>As you cross over the ancient bridge over the Ashton River, you can see the
+impressive design of the Wakarimasu Park.  The Ashton River is relativly
+wide, but that is to be expected as the mountains snows have produced a lot
+of water lately.  The river flows west towards the ocean.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">754</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">756</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="archway">
+      <Keys/>
+      <Room Area="ocean">301</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

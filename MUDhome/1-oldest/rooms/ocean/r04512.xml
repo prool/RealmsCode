@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<Room Num="4512" Version="2.40a" Area="ocean">
+  <Name>The Throne of Prince Ragnar</Name>
+  <ShortDescription>You are standing at the right hand of Prince Ragnar's throne.</ShortDescription>
+  <LongDescription>There is a multitude of people dressed in their finest garments and armor
+surrounding the throne.  They have pledged their loyalty to this Prince.
+You may speak to Ragnar. </LongDescription>
+  
+  
+  <LowLevel>8</LowLevel>
+  
+  <Established>774574363</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="28"/>
+    <Bit Num="33"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>86400</Interval>
+      <LastTime>1206217765</LastTime>
+      <Misc Area="ocean">730</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">720</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">721</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">724</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects>
+    <ObjRef Num="720" Area="ocean" Version="2.40a">
+      <Name>100 oriental dancers</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value/>
+      <Keys>
+        <Key Num="0">oriental</Key>
+        <Key Num="1">dancers</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="724" Area="ocean" Version="2.40a">
+      <Name>300 knights in gleaming armor</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value/>
+      <Keys>
+        <Key Num="0">knights</Key>
+        <Key Num="1">gleaming</Key>
+        <Key Num="2">armor</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="721" Area="ocean" Version="2.40a">
+      <Name>500 warriors</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value/>
+      <Keys>
+        <Key Num="0">warriors</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+  </Objects>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4511</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

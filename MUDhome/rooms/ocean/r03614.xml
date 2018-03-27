@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Room Num="3614" Version="2.40" Area="ocean">
+  <Name>Main Courtyard</Name>
+  <Established>762645160</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

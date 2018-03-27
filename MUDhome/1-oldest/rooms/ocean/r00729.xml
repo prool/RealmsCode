@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="729" Version="2.40" Area="ocean">
+  <Name>Highland Avenue</Name>
+  <ShortDescription>You are walking on Highland Avenue, east of the omnimous Dragon's Citadel.</ShortDescription>
+  <LongDescription>The entrance to the massive Dragon's Citadel is located off of Neilian
+Drive, just to the south of here.  The massive structure has remained
+undisturbed for as long as anyone can remember because no one has ever
+been able to get into the Citadel past the Great Hall.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">728</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">730</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

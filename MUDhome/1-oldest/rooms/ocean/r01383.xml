@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Room Num="1383" Version="2.40" Area="ocean">
+  <Name>Inquisition Room</Name>
+  <ShortDescription>You are in a large questioning room.</ShortDescription>
+  <LongDescription>The people in the dungeon aren't as friendly as the people in town.  You
+are in a small questioning room where prisoners are asked to answer a
+number of questions.  Failure to do so may result in punishment.  By the
+looks of the weapons on the wall, you don't really want to know what
+that punishment is.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">153</Mob>
+      <Mob Area="ocean" Num="1">153</Mob>
+      <Mob Area="ocean" Num="2">153</Mob>
+      <Mob Area="ocean" Num="3">153</Mob>
+      <Mob Area="ocean" Num="4">153</Mob>
+      <Mob Area="ocean" Num="5">153</Mob>
+      <Mob Area="ocean" Num="6">153</Mob>
+      <Mob Area="ocean" Num="7">157</Mob>
+      <Mob Area="ocean" Num="8">157</Mob>
+      <Mob Area="ocean" Num="9">157</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1386</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1381</Room>
+      <Key>17</Key>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="torture chamber">
+      <Keys/>
+      <Room Area="ocean">1384</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

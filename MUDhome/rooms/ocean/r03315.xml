@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="3315" Version="2.40" Area="ocean">
+  <Name>Necropolis Circle</Name>
+  <ShortDescription>The path splits to the southeast and southwest, around the fountain.</ShortDescription>
+  <LongDescription>It wasn't this cold when you entered the gate, but a suddenly you are
+aware of a chill breeze and light mist that has settled on you.  This
+place is very quiet.  There are no birds nor crickets, and all you can
+hear is the soft sound of your boots on the gravel.  In the distance to
+the south there is also a sound of gentle splashing from the fountain
+you see there.</LongDescription>
+  
+  <Established>759785224</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>fountain</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3314</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3316</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3317</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="fountain">
+      <Keys/>
+      <Room Area="ocean">3318</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

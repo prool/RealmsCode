@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5411" Version="2.40" Area="ocean">
+  <Name>Khallazar's Compound</Name>
+  <ShortDescription>You are at the eastern edge of Khallazar's compound, near wild vegetation.</ShortDescription>
+  <LongDescription>Khallazar is not known for his gardening work, but there is a steady drip
+od acid from his tree house which seems to be feeding the tangle of plants
+growing to the southeast.  Khallazar's Hut is northwest, and a path is
+southeast of here.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2938</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5412</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

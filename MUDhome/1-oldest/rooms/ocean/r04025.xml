@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="4025" Version="2.41a" Area="ocean">
+  <Name>Mountain Stream</Name>
+  <ShortDescription>You see a narrow stream of crystal clear ice water running across the path.</ShortDescription>
+  <LongDescription>If you listen closely, it seems the stream murmurs in a language you can
+almost understand.  The path twists and turns as it traverses the mountain,
+making it difficult to see very far in either direction.  This might be a 
+good place to rest.  There is a shallow cave where the stream issues.</LongDescription>
+  
+  
+  
+  <Established>771889826</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4020</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="cave">
+      <Keys/>
+      <Room Area="ocean">4072</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

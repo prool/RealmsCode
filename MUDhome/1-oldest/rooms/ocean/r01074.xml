@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1074" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, north of a very large intersection.</ShortDescription>
+  <LongDescription>The large intersection to the south brings together three main roads in
+Oceancrest: Rosecrest Street, Eidenhoft Boulevard and Waterfront Way.
+You can see Eidenhoft Boulevard to the east as it is running northeast
+from the intersection, creating a small sliver of a park between the
+two roads.  There is quite a bit of laughter and screaming to the north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1073</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1075</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

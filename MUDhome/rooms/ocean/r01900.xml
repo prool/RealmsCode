@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Room Num="1900" Version="2.40" Area="ocean">
+  <Name>The Golden Dragon Cantina</Name>
+  <ShortDescription>You are in a very popular cantina, north of Rosecrest Street.</ShortDescription>
+  <LongDescription>The Golden Dragon Cantina caters to the more elite crowd from the 
+administrative districts to the south.  Commoners are typically
+unwelcome, unless it's dwarf tossing night, whence most dwarves and
+other strong competitors are welcome to come in for a drink before
+the games begin.  Otherwise, the bouncers are likely to throw you
+out or try to kill you (or both).  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">61</Mob>
+      <Mob Area="ocean" Num="1">62</Mob>
+      <Mob Area="ocean" Num="2">64</Mob>
+      <Mob Area="ocean" Num="3">65</Mob>
+      <Mob Area="ocean" Num="4">79</Mob>
+      <Mob Area="ocean" Num="5">79</Mob>
+      <Mob Area="ocean" Num="6">79</Mob>
+      <Mob Area="ocean" Num="7">79</Mob>
+      <Mob Area="ocean" Num="8">4</Mob>
+      <Mob Area="ocean" Num="9">14</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">64</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">61</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">61</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">79</Misc>
+    </LastTime>
+    <LastTime Num="4">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">79</Misc>
+    </LastTime>
+    <LastTime Num="5">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">79</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1133</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

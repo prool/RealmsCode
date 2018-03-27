@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1694" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are on Golden Dolphin Way, taking in the surrounding scenery.</ShortDescription>
+  <LongDescription>With the exception of the massive City Walls on the southern side of the
+street, there isn't much to actually look at in this part of the town.  
+On the north side of the street are the small houses of the farmers and
+their families.  These were built more or less because the residential
+buildings were too far away and the farmers enjoy complaining to the
+city government.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1695</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1693</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

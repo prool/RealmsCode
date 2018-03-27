@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="306" Version="2.40" Area="ocean">
+  <Name>Warm-Up Room</Name>
+  <ShortDescription>You have entered the warm-up arena, where you may pratice before 
+entering the main arena.</ShortDescription>
+  <LongDescription>Even though this is a warm up arena, a fair amount of skill and
+luck are still required to survive here.</LongDescription>
+  
+  <Established>756038183</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">248</Mob>
+      <Mob Area="ocean" Num="1">26</Mob>
+      <Mob Area="ocean" Num="2">210</Mob>
+      <Mob Area="ocean" Num="3">242</Mob>
+      <Mob Area="ocean" Num="4">247</Mob>
+      <Mob Area="ocean" Num="5">28</Mob>
+      <Mob Area="ocean" Num="6">43</Mob>
+      <Mob Area="ocean" Num="7">267</Mob>
+      <Mob Area="ocean" Num="8">103</Mob>
+      <Mob Area="ocean" Num="9">248</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">301</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

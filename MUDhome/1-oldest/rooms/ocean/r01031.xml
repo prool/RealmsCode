@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1031" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive</Name>
+  <ShortDescription>You are on Oceanview Drive, traveling north and south.</ShortDescription>
+  <LongDescription>Darby Reynold's famous shipyard is located east of Oceanview Drive.  This
+location has been the center of the ship-building industry ever since 
+ships were introduced to Oceancrest.  To the west is the South Nylandian
+Bay Guard Station, where marines and other city guards constantly patrol
+the open seas for pirates and other hooligans unworthy of freedom.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1030</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1032</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

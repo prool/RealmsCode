@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="169" Version="2.40" Area="ocean">
+  <Name>Taragon Road</Name>
+  <ShortDescription>Taragon Road continues to the north and south.</ShortDescription>
+  <LongDescription>This is a rather desolate area of the village with a great many boarded
+up houses and shops.  A sign on one of the shop doors, which looks as
+though it has been closed for a long time, says, "Beware the Red Fever."
+A sign on the shop next door says, "This place for sale.  Cheap."  The
+road you are on is not far from southeast corner of the village.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">3</Mob>
+      <Mob Area="ocean" Num="3">2</Mob>
+      <Mob Area="ocean" Num="4">5</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">164</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">174</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

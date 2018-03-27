@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="4012" Version="2.40" Area="ocean">
+  <Name>Gracella's Herbal Shoppe Storage Room</Name>
+  <ShortDescription>You are in the storage room for Gracella's Herbal Shoppe.</ShortDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4011</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

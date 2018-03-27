@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3890" Version="2.40" Area="ocean">
+  <Name>The Tomb of Achunter</Name>
+  <ShortDescription>You see a clean, lit room which is the final resting place of Achunter.</ShortDescription>
+  <LongDescription>A sense of peace overwhelms you as you enter the room.  The undead
+of the Necropolis seem unable to contaminate the tomb with their
+presence.  A soft glow emits from the center of the the room.  Upon
+closer examination, you see the actual body of Achunter himself,
+levitating from the floor.  Suprisingly, his body shows no signs
+of decay and he seems to be in a state of sleep rather than the
+cold trance of death.  In his lifetime, no creature in the whole of
+Oceancrest could slay him and in the end, only an intangible force
+known only as the "The Erasure" took his life.</LongDescription>
+  
+  <Established>770005134</Established>
+  <Flags>
+    <Bit Num="13"/>
+    <Bit Num="32"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3339</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

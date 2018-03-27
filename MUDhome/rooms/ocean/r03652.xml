@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3652" Version="2.40" Area="ocean">
+  <Name>Dim Tunnel</Name>
+  <ShortDescription>You are in a pitch-black north-south tunnel.</ShortDescription>
+  <LongDescription>there is a trickling sound of water coming from the south, and there
+seems to be a light in that direction also. There is nothing but silence
+and blackness in the northern direction.</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3653</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3648</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

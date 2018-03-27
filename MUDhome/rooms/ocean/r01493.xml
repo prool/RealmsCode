@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1493" Version="2.40" Area="ocean">
+  <Name>Wizard's Chambers</Name>
+  <ShortDescription>You are in the chambers of the Great Wizard of Keslar.</ShortDescription>
+  <LongDescription>You're really pressing your luck being in here.  Although the Wizard
+is an old man and will soon be succeeded by another, he is still quite
+powerful.  He utilizes magic almost endlessly and can cut down the
+mightiest warriors with but a mere flick of his wrists.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">130</Mob>
+      <Mob Area="ocean" Num="1">130</Mob>
+      <Mob Area="ocean" Num="2">130</Mob>
+      <Mob Area="ocean" Num="3">130</Mob>
+      <Mob Area="ocean" Num="4">130</Mob>
+      <Mob Area="ocean" Num="5">130</Mob>
+      <Mob Area="ocean" Num="6">130</Mob>
+      <Mob Area="ocean" Num="7">130</Mob>
+      <Mob Area="ocean" Num="8">130</Mob>
+      <Mob Area="ocean" Num="9">130</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">187</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1488</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

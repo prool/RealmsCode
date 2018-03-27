@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="708" Area="ocean" Version="2.40">
+  <Name>two-handed broadsword</Name>
+  <Adjustment>2</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>4</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">8000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">broadsword</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="34"/>
+    <Bit Num="37"/>
+  </Flags>
+  <Description>The gleaming sword was fire-bathed at Castle Kayleigh.</Description>
+  <UseOutput>The broadsword has one purpose:  Revenge against Silventh!</UseOutput>
+  <Weight>4</Weight>
+  <Type>5</Type>
+  <SubType>great-sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

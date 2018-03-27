@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="1879" Version="2.40" Area="ocean">
+  <Name>Bed of Hot Coals</Name>
+  <ShortDescription>You are standing in the middle of a bed of glowing coals.</ShortDescription>
+  <LongDescription>The heat sears and swirls around you but strangely you are unharmed by it.
+It's difficult to see through the wavering heat flow, but a shirtless
+black man is apparently standing in the midst of the flames, totally
+untouched by the blistering heat.  He seems to have a protective aura
+around him that is also enveloping you.</LongDescription>
+  
+  <Established>761467622</Established>
+  <Flags>
+    <Bit Num="21"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">518</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1878</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

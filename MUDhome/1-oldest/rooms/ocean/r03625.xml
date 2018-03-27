@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3625" Version="2.40" Area="ocean">
+  <Name>Courtyard</Name>
+  <ShortDescription>You are on the main assembly floor near the review stand of Prince Ragnar.</ShortDescription>
+  <LongDescription>The review stand is covered with bunting and flags, and has a great many
+box seats for the important people who sit here.  In the center is a dais
+a little higher than the rest of the stand with a massive throne on it.
+Nearby is an open-air drummer's kiosk.  The area is large enough for all
+of the castle's troops to assemble here, and room for visitors to stand
+to the sides.</LongDescription>
+  
+  <Established>762645799</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3624</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3618</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3636</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3626</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

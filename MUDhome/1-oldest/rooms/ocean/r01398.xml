@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1398" Version="2.40" Area="ocean">
+  <Name>Dungeon</Name>
+  <ShortDescription>You are in the guard's section of the palace dungeon.</ShortDescription>
+  <LongDescription>There are a couple of large community cells where prisoners are kept,
+usually on a permanent basis.  Most, conviniently, don't stay very
+long.  The dungeon cell doors are made of heavy oak making it impossible
+to see what's inside without actually going in.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">152</Mob>
+      <Mob Area="ocean" Num="1">152</Mob>
+      <Mob Area="ocean" Num="2">152</Mob>
+      <Mob Area="ocean" Num="3">152</Mob>
+      <Mob Area="ocean" Num="4">153</Mob>
+      <Mob Area="ocean" Num="5">153</Mob>
+      <Mob Area="ocean" Num="6">153</Mob>
+      <Mob Area="ocean" Num="7">153</Mob>
+      <Mob Area="ocean" Num="8">157</Mob>
+      <Mob Area="ocean" Num="9">157</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1385</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

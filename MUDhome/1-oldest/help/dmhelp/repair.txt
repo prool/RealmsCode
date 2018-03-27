@@ -1,0 +1,18 @@
+Help on DM command:
+	REPAIR
+
+Repair will fix the target's armor and weapons, setting their
+shots back to the maximum for the item. Note that this only
+fixes items the target is wearing / wielding, not all items in
+their inventory. ALL items held / worn will be repaired.
+
+: *repair min
+Min's cloth pants repaired to full shots (10/10).
+Min's wooden shield repaired to full shots (10/10).
+Min's hoe repaired to full shots (4/4).
+Min's empyrean wand repaired to full shots (2/2).
+### Dominus repaired all of Min's armor.
+
+: *repair min
+Min is wearing nothing that needs to be repaired.
+

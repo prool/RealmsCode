@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="5133" Version="2.40" Area="ocean">
+  <Name>North Castle Concourse</Name>
+  <ShortDescription>You are in the northeast concourse of an acid reeking ancient castle.</ShortDescription>
+  <LongDescription>An expansive archway leads to the ruined remains of the castle's library.
+Evidently, the fire didn't do as much damage in there, but most of the
+destruction came from the collapsed ceiling.  The smell of acid from the
+moat outside is strong in here.  There must be an opening somewhere.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5131</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5136</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="library">
+      <Keys/>
+      <Room Area="ocean">5137</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

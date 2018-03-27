@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="3800" Version="2.40" Area="ocean">
+  <Name>Seaside Carnival Entrance</Name>
+  <ShortDescription>You are standing below snapping banners and flags, looking at the midway
+of the Seaside Carnival and Fair.  A road to the beach is south of here.</ShortDescription>
+  <LongDescription>Excited humanoids of all races gaily pass by on their way to enjoy the
+sights and sounds that the fair has to offer.  Pickpockets and cutpurses
+abound, as people's pockets overflow with gold.  Hold on to your wallet!
+The midway lies to the west, while the main attraction is farther north.</LongDescription>
+  <LowLevel>2</LowLevel>
+  
+  <Established>765170811</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">6</Mob>
+      <Mob Area="ocean" Num="1">5</Mob>
+      <Mob Area="ocean" Num="2">1</Mob>
+      <Mob Area="ocean" Num="3">77</Mob>
+      <Mob Area="ocean" Num="4">202</Mob>
+      <Mob Area="ocean" Num="5">203</Mob>
+      <Mob Area="ocean" Num="6">206</Mob>
+      <Mob Area="ocean" Num="7">208</Mob>
+      <Mob Area="ocean" Num="8">237</Mob>
+      <Mob Area="ocean" Num="9">267</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3801</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">525</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3830</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

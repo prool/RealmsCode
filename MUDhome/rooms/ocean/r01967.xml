@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="1967" Version="2.40" Area="ocean">
+  <Name>Millwood Mayor's Office Hallway</Name>
+  <ShortDescription>The hallway turns to the north and dead ends.  There are two doors on
+the east and west walls of the hallway.  Heading south returns to the foyer.</ShortDescription>
+  <LongDescription>The long hallway seems to drag on, but you know you haven't really gone
+all that far.  After all, the building wasn't that big.  You finally
+come to two large doors, one on the east wall and one of the west wall.
+The plaque above the east door says "Mayor's Office" and the one on
+the west door has "Keep Out" scribbled across it in dried blood.  There
+is no plaque on this door, but you can see by the dust outline that 
+it was there originally.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1966</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1968</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

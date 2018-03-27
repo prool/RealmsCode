@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3875" Version="2.40" Area="ocean">
+  <Name>Ulandian Temple Entry</Name>
+  <ShortDescription>You are standing near the ruined entry to the great Ulandian temple.</ShortDescription>
+  <LongDescription>The temple is completely overgrown with jungle vines and plants, and all
+you can see is where the entry used to be before massive stones fell from
+above and sealed it.  Looks like an earthquake caused the top of the temple
+to tumble down on the rest of it.  Maybe that's why its abandoned now.
+Not too far to the east you can see the waters of the Respitial Sea out
+over a sea cliff.  The jungle seems to come to an end there.  At one time
+this temple probably had a fantastic view of the ocean, since it is built
+on a high cliff overlooking the beach below.</LongDescription>
+  
+  <Established>768791533</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3865</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

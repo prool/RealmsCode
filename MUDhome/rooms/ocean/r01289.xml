@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1289" Version="2.40" Area="ocean">
+  <Name>Cleared Path</Name>
+  <ShortDescription>You are on a cleared path in the Enchanted Forest.</ShortDescription>
+  <LongDescription>The path appears to lead to a pleasant rest area toward the west, and
+to a dark area of the woods in the east.  A small stream gurgles its
+way along beside the path, making a pleasant sound in an otherwise
+silent woods.  Wildflowers grow along the way.</LongDescription>
+  
+  <Established>756168990</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">192</Mob>
+      <Mob Area="ocean" Num="1">192</Mob>
+      <Mob Area="ocean" Num="2">184</Mob>
+      <Mob Area="ocean" Num="3">184</Mob>
+      <Mob Area="ocean" Num="4">188</Mob>
+      <Mob Area="ocean" Num="5">188</Mob>
+      <Mob Area="ocean" Num="6">192</Mob>
+      <Mob Area="ocean" Num="7">184</Mob>
+      <Mob Area="ocean" Num="8">116</Mob>
+      <Mob Area="ocean" Num="9">116</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1288</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1290</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

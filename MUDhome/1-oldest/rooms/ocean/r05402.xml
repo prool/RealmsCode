@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="5402" Version="2.40" Area="ocean">
+  <Name>Forest Road/Redwood Tree</Name>
+  <ShortDescription>The woods are getting thicker along here.  A redwood blocks the main road.</ShortDescription>
+  <LongDescription>This redwood towers over the other trees nearby and looks like it is much
+older than the rest of the forest.  The road splits and circles around it.
+Looks like there is a path going from east to west.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5401</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5403</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5404</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

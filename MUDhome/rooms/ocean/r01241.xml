@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="1241" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are on Lankshire Parkway, west of the supposedly haunted Allisk Manor.</ShortDescription>
+  <LongDescription>Lankshire Parkway runs south into the Allisk Circle.  On the east is the
+famous (or infamous) Manor of Natasha de Allisk, rumored to be the last
+"real" vampire in Oceancrest.  Although many parties have tried to destroy
+her, she always seems to come back, much stronger than before.  On the 
+west is the Iilandi Family Estate.  The Iilandi Family is probably the
+only family to earn their status as one of the wealthiest families of 
+Oceancrest, owning and operating both the Richland Grape Orchards and the
+Klondike Wheat Fields.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1242</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1240</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

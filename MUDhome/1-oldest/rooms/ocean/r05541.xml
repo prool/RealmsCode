@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5541" Version="2.40" Area="ocean">
+  <Name>Glabor Gulley</Name>
+  <ShortDescription>You are at the western end of Glabor Gulley, near an avalanche's slide path. </ShortDescription>
+  <LongDescription>To the east the gulley climbs out of sight into the towering mountains, and
+the west it drops out of sight over the crest of the remains of a recent
+avalanche.  There seems to be hundreds of small caves dug in the slopes of
+the gulley, and it looks like a community area in the center of them.</LongDescription>
+  
+  <Established>795145179</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>avalanche</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="avalanche">
+      <Keys/>
+      <Room Area="ocean">5540</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northern path">
+      <Keys/>
+      <Room Area="ocean">5542</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southern path">
+      <Keys/>
+      <Room Area="ocean">5543</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

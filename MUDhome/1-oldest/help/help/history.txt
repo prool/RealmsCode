@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  history         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The history commands allow you to write a character history that others may
+read, read another's history, or delete your history. The commands are:
+  history <player>, edithist, and deletehist
+
+: history bob
+: Bob hasn't written a character history.
+: deletehist
+History deleted.
+:

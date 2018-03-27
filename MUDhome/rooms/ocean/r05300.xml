@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="5300" Version="2.40" Area="ocean">
+  <Name>East City Gate</Name>
+  <ShortDescription>You are inside the east gate for the City of Oceancrest.</ShortDescription>
+  <LongDescription>The gates close at night and and open at sunrise.  Many have been the
+cries heard outside during the blackness of night, but the guards here
+will never open the gates for fear that the mountain trolls will be out
+there.  If you decide to make the journey outside, be aware that you cannot
+come back at night.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>gate</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">738</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">5301</Room>
+      <Flags>
+        <Bit Num="17"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

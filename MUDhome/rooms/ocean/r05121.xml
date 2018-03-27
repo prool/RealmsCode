@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="5121" Version="2.40" Area="ocean">
+  <Name>Castle Kayleigh Turret Deck</Name>
+  <ShortDescription>You are on top of the turreted prison tower of Castle Kayleigh.</ShortDescription>
+  <LongDescription>Long ago, the witch of Kayleigh, along with her brother, a warlock of
+considerable power in his own right, was imprisoned here.  It has been at
+least two hundred years since anyone has seen them, so the prison must be
+holding them.  A copper dragon with a black and silver saddle waits here.</LongDescription>
+  
+  <Established>773379187</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">109</Mob>
+      <Mob Area="ocean" Num="1">110</Mob>
+      <Mob Area="ocean" Num="2">110</Mob>
+      <Mob Area="ocean" Num="3">109</Mob>
+      <Mob Area="ocean" Num="4">110</Mob>
+      <Mob Area="ocean" Num="5">109</Mob>
+      <Mob Area="ocean" Num="6">110</Mob>
+      <Mob Area="ocean" Num="7">109</Mob>
+      <Mob Area="ocean" Num="8">110</Mob>
+      <Mob Area="ocean" Num="9">110</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>doorway</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="mount">
+      <Keys/>
+      <Room Area="ocean">5122</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="doorway">
+      <Keys/>
+      <Room Area="ocean">5123</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

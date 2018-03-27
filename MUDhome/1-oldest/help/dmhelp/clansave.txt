@@ -1,0 +1,5 @@
+Help on: *clansave
+
+Saves the current clanlist to disk.
+
+Syntax: *clansave

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<Room Num="1476" Version="2.40" Area="ocean">
+  <Name>Western Corridor</Name>
+  <ShortDescription>You are in the western corridor on the second floor of the palace.</ShortDescription>
+  <LongDescription>The western corridor connects the front of the second floor to the
+rear of the palace.  It is used mostly by the servants and guards
+who patrol the area.  To the east is a small hallway that connects
+this corridor to the main hallway.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">130</Mob>
+      <Mob Area="ocean" Num="1">130</Mob>
+      <Mob Area="ocean" Num="2">130</Mob>
+      <Mob Area="ocean" Num="3">130</Mob>
+      <Mob Area="ocean" Num="4">174</Mob>
+      <Mob Area="ocean" Num="5">174</Mob>
+      <Mob Area="ocean" Num="6">173</Mob>
+      <Mob Area="ocean" Num="7">173</Mob>
+      <Mob Area="ocean" Num="8">172</Mob>
+      <Mob Area="ocean" Num="9">172</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1459</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1464</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1478</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1498</Room>
+      <Key>23</Key>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

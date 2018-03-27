@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="1708" Version="2.40" Area="ocean">
+  <Name>Melbourne Avenue</Name>
+  <ShortDescription>You are walking along Melbourne Avenue, east of Imeldia's Potions Shop.</ShortDescription>
+  <LongDescription>Imeldia provides a number of strange and unusual potions to the consumers.
+Unfortunately, not all of them are useful and some may actually be dangerous
+to drink.  Not being a very good alchemist, Imeldia does not know, nor 
+really cares what she sells.  On the east side of the road is the Chug-A-
+Lug Pub, a downright rowdy local tavern where just about anything can 
+happen.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">2</Mob>
+      <Mob Area="ocean" Num="3">2</Mob>
+      <Mob Area="ocean" Num="4">2</Mob>
+      <Mob Area="ocean" Num="5">5</Mob>
+      <Mob Area="ocean" Num="6">8</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">8</Mob>
+      <Mob Area="ocean" Num="9">8</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1709</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1707</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2276</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2278</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

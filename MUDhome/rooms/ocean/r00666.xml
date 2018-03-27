@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="666" Version="2.40a" Area="ocean">
+  <Name>Delegation Way</Name>
+  <ShortDescription>You are walking along Delegation Way, east of the Hofton Ziggurat.</ShortDescription>
+  <LongDescription>The Hofton Ziggurat is one of the largest structures in the city of 
+Oceancrest, and acts as the foreign affairs office for the city.  The
+Lyanden Castle, just to the south in the center of Lyanden Lake, is
+used primarily by heads-of-state, whereas the Ziggurat is used by all
+the foreign ministers for general policy making.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">665</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">667</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

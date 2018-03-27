@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="1999" Version="2.40" Area="ocean">
+  <Name>North Oceancrest Post Office #19</Name>
+  <ShortDescription>You are in one of the many postal facilities in Oceancrest.</ShortDescription>
+  <LongDescription>In order to better serve the people of Oceancrest, the postal system
+was enacted to provide superior communications between various people
+in the city.  Because of the vast size the city had grown to, it became
+quite a task to walk from one end of the city to the other, just to 
+visit for a few hours.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="10"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">686</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

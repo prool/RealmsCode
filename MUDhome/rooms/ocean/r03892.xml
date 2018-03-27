@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="3892" Version="2.40" Area="ocean">
+  <Name>Storage Room for Finesse</Name>
+  <ShortDescription>This is the storage area for Finesse the thief.</ShortDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3891</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="558" Version="2.40" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are walking along Oceancrest Avenue, south of the Open Air Fish Market.</ShortDescription>
+  <LongDescription>The Leviathan Fishery provides a number of freshly caught fish and other
+seafood in their open air market to the public on a daily basis.  The
+demand for fish is not real strong as there is only one major fish seller
+in town.  However, a fresh fish now and then is an excellent change from
+beef and venison, especially during the colder months when meat is scarce.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">557</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">559</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

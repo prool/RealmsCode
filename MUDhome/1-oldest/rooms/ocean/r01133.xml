@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1133" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, heading in an east to west direction.</ShortDescription>
+  <LongDescription>To the north of Rosecrest Street is a rowdy-looking bar and grill called the
+Golden Dragon Cantina.  It looks like a popular hangout for the people who
+work for a living.  You see many of the people who hold administrative jobs
+within the city entering and leaving the bar.  Rosecrest Street continues to
+the east towards Oceanview Drive and west towards the City Wall.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>6</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">65</Mob>
+      <Mob Area="ocean" Num="1">65</Mob>
+      <Mob Area="ocean" Num="2">65</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1134</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1033</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1900</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

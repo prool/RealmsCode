@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Room Num="1633" Version="2.47e" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are walking along Hillcrest Drive, south of the Richland Winery.</ShortDescription>
+  <LongDescription>The Chateau Richland Winery is located to the north and the Chateau 
+Richland Grape Orchard is located to the south.  This convinience lowers
+the cost of transportation and other nasty overheads to provide their
+customers with the finest wines at the lowest cost.  The Richland 
+Winery produces one of the best Bordeaux wines in the land.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:54 2009
+</LastPlayerTime>
+  <BeenHere>1</BeenHere>
+  <Wander></Wander>
+  <Track><Direction>east</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">1634</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1632</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

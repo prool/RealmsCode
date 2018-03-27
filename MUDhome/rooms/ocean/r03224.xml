@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<Room Num="3224" Version="2.40a" Area="ocean">
+  <Name>Outside Kista</Name>
+  <ShortDescription>There is a massive city gate here, designed to keep out the riffraff.</ShortDescription>
+  <LongDescription>The city of Kista lies on the other side of the gate to the south, but
+the gate appears to be locked.  Unless you can find someone with a key,
+you might have to try some other way to get into the city.  You can't
+see anyone on the other side of the gate, but there is a guard house
+nearby, and that might be snoring you hear coming from it.</LongDescription>
+  
+  <Established>756067814</Established>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">412</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures>
+    <CrtRef Num="412" Area="ocean" Version="2.40a">
+      <Name>dumb looking guard</Name>
+      <Level>3</Level>
+      <Type>1</Type>
+      <Experience>35</Experience>
+      <Coins>
+        <Coin Num="2">10</Coin>
+      </Coins>
+      <Alignment>5</Alignment>
+      <Stats>
+        <Stat Name="Strength">
+          <Current>130</Current>
+          <Max>130</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Dexterity">
+          <Current>50</Current>
+          <Max>50</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Constitution">
+          <Current>100</Current>
+          <Max>100</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Intelligence">
+          <Current>70</Current>
+          <Max>70</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Piety">
+          <Current>100</Current>
+          <Max>100</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Hp">
+          <Current>30</Current>
+          <Max>30</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Mp">
+          <Current>0</Current>
+          <Max>0</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+      </Stats>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="10"/>
+        <Bit Num="12"/>
+      </Flags>
+      <LastTimes>
+        <LastTime Num="3">
+          <Interval>0</Interval>
+          <LastTime>1206131998</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="4">
+          <Interval>0</Interval>
+          <LastTime>1206131998</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="6">
+          <Interval>0</Interval>
+          <LastTime>1206131998</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="8">
+          <Interval>60</Interval>
+          <LastTime>1206138220</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="41">
+          <Interval>0</Interval>
+          <LastTime>1206131998</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="100">
+          <Interval>55</Interval>
+          <LastTime>1206138219</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="101">
+          <Interval>30</Interval>
+          <LastTime>1206138229</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </LastTimes>
+      <Inventory/>
+    </CrtRef>
+  </Creatures>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3225</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">2001</Room>
+      <Key>41</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

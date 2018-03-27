@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="4264" Version="2.40" Area="ocean">
+  <Name>Thixel and Thortle's Pawn Shop</Name>
+  <ShortDescription>You are in a cluttered little shop managed by Thixel and Thortle.</ShortDescription>
+  <LongDescription>Everywhere you look are piles of goods and strange items which have been
+left here to be redeemed later.  Thixel and Thortle, twin sons of Thoto,
+don't really care about cleaning this place up, but they know exactly where
+everything is.  They will give you about half of what something is actually
+worth.  Are you sure you want to do business with them?</LongDescription>
+  
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="49"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4217</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

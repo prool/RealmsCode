@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="524" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>You are walking along Marina Way, admiring the magnificent Nylandian Bay.</ShortDescription>
+  <LongDescription>Marina Way runs along the coastline of the Nylandian Bay, so you can see
+all the various ships and cargo entering and leaving the bay.  The crystal
+clear waters seem unpolluted from the massive industrial buildup which
+has made Oceancrest the town that it is.  On the east is the Lelion Public
+Works station, responsible for the upkeep of the Lelion Beach and Park.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">526</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">523</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

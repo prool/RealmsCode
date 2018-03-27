@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2506" Version="2.40" Area="ocean">
+  <Name>Pearl Avenue</Name>
+  <ShortDescription>You are on Pearl Avenue which runs north and south.</ShortDescription>
+  <LongDescription>The Great Library covers the entire western side of the block while the
+Towers of Kista are on the east side.  The library has a massive door which
+never seems to close, while the Towers are surrounded by a forbidding moat.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>library</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2030</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2508</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="library">
+      <Keys/>
+      <Room Area="ocean">2100</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

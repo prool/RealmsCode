@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5534" Version="2.40" Area="ocean">
+  <Name>Nyyron Trail</Name>
+  <ShortDescription>You are on the Nyyron trail, just north of the Hafnia Mountain Road.</ShortDescription>
+  <LongDescription>A small creek tumbles alongside the trail, making a very pleasant sound.
+The dirt path is wide enough for a wagon, but there are no wagon ruts in
+the path.  However, you do see plenty of three-toed footprints which look
+exactly like troll prints.  Only bigger.  The trail disappears around a
+massive boulder to the northeast.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5440</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5535</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

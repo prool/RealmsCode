@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3778" Version="2.40" Area="ocean">
+  <Name>Cypress Woods</Name>
+  <ShortDescription>You are in a dense woods of cypress trees in the wildlife preserve.</ShortDescription>
+  <LongDescription>The walkway skirts along the bank of the Lithium Inlet on the north side
+and the woods on the south.  There are several paths going south, deeper
+into the woods, but the walkway is much wider and more comfortable.  Above
+the tree tops to the south you see a cliff face, so the woods cannot be
+too deep in that direction.  Across the water you can see several of the
+nicer stores in Oceancrest.</LongDescription>
+  
+  <Established>766020561</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3777</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3779</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

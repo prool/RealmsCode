@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1860" Version="2.40" Area="ocean">
+  <Name>Penelope's Toy Store</Name>
+  <ShortDescription>You are in a large shop full of antique toys on dusty shelves.</ShortDescription>
+  <LongDescription>Penelope doesn't really like to sell toys, but prefers to buy them.
+She makes her living selling musical instruments in the next room of
+the store, but likes to display her collection of toys in here.  Most
+of the toys were hand made by master craftsmen and there are signs
+asking you to please not handle the merchandise.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>17</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">455</Mob>
+      <Mob Area="ocean" Num="1">456</Mob>
+      <Mob Area="ocean" Num="2">455</Mob>
+      <Mob Area="ocean" Num="3">456</Mob>
+      <Mob Area="ocean" Num="4">455</Mob>
+      <Mob Area="ocean" Num="5">456</Mob>
+      <Mob Area="ocean" Num="6">455</Mob>
+      <Mob Area="ocean" Num="7">455</Mob>
+      <Mob Area="ocean" Num="8">455</Mob>
+      <Mob Area="ocean" Num="9">456</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1794</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2279</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="199" Version="2.40" Area="ocean">
+  <Name>Storage Closet</Name>
+  <ShortDescription>This is a storage room where customers keep their valuables while visiting.</ShortDescription>
+  <LongDescription>Madame Ruthie has a rule that the only way you can leave this room is
+totally naked, prepared for a little action.  Her motto is keep 'em moving.
+There are a number of valuable pieces of armor and weapons in here, but
+it would probably make someone mad if you took what isn't yours.  When he
+remembers to do it, a drunken old dwarf will retrieve your clothes and armor
+for you, and return them to you when you leave, if you have paid your bill.</LongDescription>
+  <LowLevel>6</LowLevel>
+  
+  <Established>762029263</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="17"/>
+    <Bit Num="28"/>
+    <Bit Num="31"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">194</Room>
+      <Flags>
+        <Bit Num="7"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

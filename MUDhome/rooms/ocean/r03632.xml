@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="3632" Version="2.40" Area="ocean">
+  <Name>Main Courtyard East</Name>
+  <ShortDescription>You are at the eastern entrance to a broad alley used as a jousting run.</ShortDescription>
+  <LongDescription>The wide alley runs to the east between the main building of Castle Ragnar
+and the great storage rooms on the south.  Several squires are walking
+giant war horses while a number of knights stand in groups, getting ready
+to make a run down the jousting path.  On the west side is a thick hedge,
+and further south there is a small arms practice area.  Directly north is
+the preparation area and the eastern entrance to the main building.</LongDescription>
+  
+  <Established>762646061</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">228</Mob>
+      <Mob Area="ocean" Num="1">228</Mob>
+      <Mob Area="ocean" Num="2">228</Mob>
+      <Mob Area="ocean" Num="3">228</Mob>
+      <Mob Area="ocean" Num="4">228</Mob>
+      <Mob Area="ocean" Num="5">214</Mob>
+      <Mob Area="ocean" Num="6">214</Mob>
+      <Mob Area="ocean" Num="7">213</Mob>
+      <Mob Area="ocean" Num="8">213</Mob>
+      <Mob Area="ocean" Num="9">212</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">716</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3633</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3631</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

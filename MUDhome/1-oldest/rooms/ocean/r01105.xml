@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="1105" Version="2.40" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are on Waterfront Way, between two small shopping centers.</ShortDescription>
+  <LongDescription>The large building on the south houses three small shops.  The door on
+the south reads "Eye of the Dragon Fine Gems" in glittering platinum.
+There are two more doors to the west along Waterfront Way.  On the north
+side of the road is another building.  A large golden sign with a mean
+looking red dragon appears to say "DRAGONWARES".  The massive metal door
+to the north is an entrance into this strange shop.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">4</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">1</Mob>
+      <Mob Area="ocean" Num="4">8</Mob>
+      <Mob Area="ocean" Num="5">10</Mob>
+      <Mob Area="ocean" Num="6">2</Mob>
+      <Mob Area="ocean" Num="7">6</Mob>
+      <Mob Area="ocean" Num="8">3</Mob>
+      <Mob Area="ocean" Num="9">8</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1048</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1104</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2302</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

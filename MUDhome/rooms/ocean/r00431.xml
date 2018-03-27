@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="431" Version="2.40" Area="ocean">
+  <Name>Bendine Way</Name>
+  <ShortDescription>You are walking along Bendine Way, west of Steve's Tackle Shop.</ShortDescription>
+  <LongDescription>Steve's Fishing and Tackle Shop provides an assortment of fishing gear 
+needed to land a large bass or even a shark.  He also provides boat and
+gear rentals for those who dare to go out on the open seas.  The Rhinestone
+Marina is located to the west, where a number of small boats are moored.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">430</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">432</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

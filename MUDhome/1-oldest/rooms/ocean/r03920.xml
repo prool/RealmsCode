@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3920" Version="2.40" Area="ocean">
+  <Name>Neophyte Training</Name>
+  <ShortDescription>All mages start here, but only a chosen few ever make it to the inner circle.</ShortDescription>
+  <LongDescription>At this point in your career, the training center accepts all who apply, but 
+as you seek higher levels of learning you will find the red robed mages here
+to be harsh task masters.  Only the elite amongst you will eventually reach
+your goals.  For those of you seeking to advance to the second level, you
+must enter the green door.  If you wish to train for the third level, go
+in the blue door.</LongDescription>
+  
+  <Established>770759521</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>green door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1810</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="green door">
+      <Keys/>
+      <Room Area="ocean">3921</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="blue door">
+      <Keys/>
+      <Room Area="ocean">3923</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

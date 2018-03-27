@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="300" Area="ocean" Version="2.40">
+  <Name>durin writing</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">writing</Key>
+    <Key Num="1">letters</Key>
+    <Key Num="2">text</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="17"/>
+    <Bit Num="18"/>
+  </Flags>
+  <Type>14</Type>
+  <InBag/>
+</Object>

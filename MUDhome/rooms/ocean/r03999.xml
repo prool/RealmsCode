@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3999" Version="2.40" Area="ocean">
+  <Name>Glass Bubble</Name>
+  <ShortDescription>You are inside a great glass bubble, deep under the Enchanted Forest.</ShortDescription>
+  <LongDescription>Somewhere above ground there is a hidden entry to this place, but why?
+The small ledge continues around the interior of the ball.</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3998</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4000</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

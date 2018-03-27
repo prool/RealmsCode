@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="473" Area="ocean" Version="2.40">
+  <Name>glittering blade</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>75</ShotsMax>
+  <ShotsCur>75</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>6</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">4000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">blade</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>It shimmers softly.</Description>
+  <Weight>3</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

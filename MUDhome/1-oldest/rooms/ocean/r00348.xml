@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="348" Version="2.40a" Area="ocean">
+  <Name>Danielle's Mystical Mage Emporium</Name>
+  <ShortDescription>You are in Danielle's Mystic Mage Emporium between rows and rows of potions.</ShortDescription>
+  <LongDescription>Danielle's Mystic Mage Emporium stocks all kinds of potions, oils and other
+mysterious waters of life.  You can buy just about anything you might desire
+here, but it will cost you a lot.  Potions are not that easy to make, and
+Danielle needs to make enough money to pay the rent on this place.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="18"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>back door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">636</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="back door">
+      <Keys/>
+      <Room Area="ocean">350</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

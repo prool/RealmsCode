@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="39" Version="2.40" Area="ocean">
+  <Name>Vickers Estate Front Door</Name>
+  <ShortDescription>The Vickers Estate is the oldest house in the village of Brownhaven.</ShortDescription>
+  <LongDescription>The Vickers family established their home here soon after the village was
+founded.  No one lives here now, but someday the residence may be reclaimed
+by the sons of old man Vickers.  The story is that they were taken from
+Brownhaven after their father was murdered.</LongDescription>
+  
+  <Established>785533639</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">38</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="front door">
+      <Keys/>
+      <Room Area="ocean">175</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

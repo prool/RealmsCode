@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="698" Version="2.40" Area="ocean">
+  <Name>Yellow Marsh Road</Name>
+  <ShortDescription>You are walking along Yellow Marsh Road, just south of the Avatar Ruins.</ShortDescription>
+  <LongDescription>The odd Avatar Ruins are said to hold mysterious secrets about the lives
+of the ancient gods, and even said to prove that they exist.  Apperently,
+there was a great clash between the gods of the universe, and they used
+this planet to fight out their differences.  Most people no longer believe
+this theory, but still marvel at the mysterious Avatar Ruins.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">697</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

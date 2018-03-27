@@ -1,0 +1,15 @@
+Help on DM command:
+	POSSESS
+
+Allows the DM to possess a monster and act as that monster. When
+possessed, a monsters flag FollowDM(47) is set. Anyone who attacks
+and is killed by the possessed monster does not lose experience.
+Any social commands by the DM appear as if by the monster.
+
+: *pos wino
+You possess a wino.
+(9 H 0 M): broad Hahaha!
+### A wino broadcasted, "Hahaha!"
+(9 H 0 M): *pos wino
+You release a wino's body.
+

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="137" Area="ocean" Version="2.40">
+  <Name>shimmering silver scroll</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">891</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">silver</Key>
+    <Key Num="1">scroll</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>The scroll seems to fade in and out of existence as it shimmers.</Description>
+  <Weight>1</Weight>
+  <Type>8</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>17</MagicPower>
+  <InBag/>
+</Object>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1975" Version="2.40" Area="ocean">
+  <Name>Ivanhouse Sporting Arena - Challenger's Ready Room</Name>
+  <ShortDescription>You are in the Challenger's Ready Room, preparing for battle.</ShortDescription>
+  <LongDescription>All players must enter the Challenger's Ready Room before they can enter
+the main combat arenas.  The large sporting facility supports a number of
+lower-level arenas where small groups of low level gladiators can challenge
+single monsters.  There are three main arenas:  The first is a low-level
+arena where less-experienced players may challenge a large gladiator.
+The other two are one-on-one arenas where you may challenge single 
+gladiators in hand-to-hand, mortal combat.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1177</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1976</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

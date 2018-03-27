@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3726" Version="2.40" Area="ocean">
+  <Name>Upstairs Hallway</Name>
+  <ShortDescription>You are in the second floor hallway of the Dragon Tooth Inn.</ShortDescription>
+  <LongDescription>The hallway is richly carpeted and dimly lighted.  Light comes from under
+the doors of several of the rooms, but all of the doors are closed.  The
+sound of your feet is lost in the thick pile of the new carpeting.  To 
+the east is the top of the stairway, while further to the west the hallway
+seems to intersect another hallway.</LongDescription>
+  
+  <Established>764458572</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3725</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3728</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3727</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3729</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

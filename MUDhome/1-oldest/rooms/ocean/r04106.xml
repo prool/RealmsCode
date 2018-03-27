@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="4106" Version="2.40" Area="ocean">
+  <Name>Marble Hallway</Name>
+  <ShortDescription>You are in one of the numerous Ashton Falls Resort hallways.</ShortDescription>
+  
+  <Established>775179939</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4104</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right door">
+      <Keys/>
+      <Room Area="ocean">4107</Room>
+      <Key>87</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

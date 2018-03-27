@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="2069" Version="2.40" Area="ocean">
+  <Name>West Hallway</Name>
+  <ShortDescription>You are in the western hallway of the great Kista Towers.</ShortDescription>
+  <LongDescription>There is a stairway here that appears to lead up into the western tower.
+As you look up, you notice that the climb up will be long and hard.  No
+telling what's up there.  The west hallway itself continues to the north
+and south.  The floor is covered with a red carpet that is slightly worn
+due to excessive use.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">220</Mob>
+      <Mob Area="ocean" Num="1">220</Mob>
+      <Mob Area="ocean" Num="2">220</Mob>
+      <Mob Area="ocean" Num="3">220</Mob>
+      <Mob Area="ocean" Num="4">221</Mob>
+      <Mob Area="ocean" Num="5">222</Mob>
+      <Mob Area="ocean" Num="6">222</Mob>
+      <Mob Area="ocean" Num="7">221</Mob>
+      <Mob Area="ocean" Num="8">220</Mob>
+      <Mob Area="ocean" Num="9">221</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2068</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2070</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stairway">
+      <Keys/>
+      <Room Area="ocean">2092</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

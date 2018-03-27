@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3689" Version="2.40" Area="ocean">
+  <Name>Circular Well/Thieve's Passage</Name>
+  <ShortDescription>You are hugging the wall as you travel around the interior of the well.</ShortDescription>
+  <LongDescription>There is an occasional noise in the air, and something brushes your body
+from time to time.  Probably bats, but they are most likely very hungry
+bats.  Do you like this place?  Why do you spend so much time here?</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3690</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3688</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

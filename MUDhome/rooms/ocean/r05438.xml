@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5438" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>You are hiking near a narrow creek, flowing alongside the road.</ShortDescription>
+  <LongDescription>the road is snow covered, and the creek is almost completely iced over.
+the mountains rising higher and higer in the east are hidden in dark
+clouds, promising more snow.  A stiff breeze comes from the east, making
+you shiver.  Across the creek, in a wooded clearing, you see a hut.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5437</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5439</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

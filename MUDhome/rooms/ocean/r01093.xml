@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1093" Version="2.40" Area="ocean">
+  <Name>Hafnia Way</Name>
+  <ShortDescription>You are walking along Hafnia Way, just south of Nagaritha Drive.</ShortDescription>
+  <LongDescription>Hafnia Way is a short road between Nagaritha Drive and Golden Dolphin Way.
+On the west side of this short street is the Marina Plaza shopping center.
+The entrance to this center is located to the south.  The plaza boasts
+shops selling various leather goods, a repair shop, a training arena and
+other fine imports.  On the east is the the DeNail Corn Field.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1094</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1092</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1950</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

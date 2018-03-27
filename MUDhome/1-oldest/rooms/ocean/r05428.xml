@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5428" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>You are on Hafnia Mountain Road just north of the Phexton Bridge.</ShortDescription>
+  <LongDescription>The road climbs through some very steep mountain passes to the northeast,
+but drops swiftly if you are going south.  There is snow here all year 
+round.  Several smaller trails seem to converge on the road at this point.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5427</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5429</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

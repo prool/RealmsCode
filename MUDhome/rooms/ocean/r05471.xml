@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5471" Version="2.40" Area="ocean">
+  <Name>Castle Rutger Road</Name>
+  <ShortDescription>There is a vast valley below you, and a winding road above and below.</ShortDescription>
+  <LongDescription>One turn on this road looks pretty much like another, but at the turn
+below you see where a game trail crosses the road, and heads north.  The
+trail looks recently used, and you have heard there are magical stag deer
+that roam here.  The horns of the stag are said to give life to the almost
+dead, and help the ill recovery with fantastic speed.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5470</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5472</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

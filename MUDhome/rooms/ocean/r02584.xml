@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="2584" Version="2.40" Area="ocean">
+  <Name>Weeping Willows</Name>
+  <ShortDescription>You are on the bank of a small stream flowing through a copse of Willows. </ShortDescription>
+  <LongDescription>this is the eastern side of the Hanging Gardens, between the rose garden
+and the fruit orchid.  Many say there is magic associated with the trees
+you find here, and some even say the willows truly weep for the sins of
+men.  Occasionally you see sprites flit from tree to tree.  Mostly they
+ignore you, but some stop and stare from a distance.  The second level
+is located up the path to the west.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2583</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2585</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2589</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2349" Version="2.40a" Area="ocean">
+  <Name>Cave in the Nellan Mountain Range</Name>
+  <ShortDescription>You are in a very desolate cave apparently in the middle of nowhere.</ShortDescription>
+  <LongDescription>It's cold.  Very cold here.  The cave shelters you somewhat from the
+snowy weather outside, but the air is still very frigid.  There is a small
+circle on the floor that appears to glow with a bright golden yellow
+hue.  The rest of the cave is quite desolate.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2340</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gold circle">
+      <Keys/>
+      <Room Area="ocean">350</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5457" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>A deep valley is on the north side of the road. </ShortDescription>
+  <LongDescription>On the south side there is a pleasant mountain pasture, where you see a
+shepherd and his flock of sheep.  Looks like a small stone building is in
+the pasture, perhaps to provide shelter from the frequent mountain storms.
+The road drops swiftly to the southwest.  Hafnia Mountain towers over you.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5456</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5458</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

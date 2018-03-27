@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5127" Version="2.40" Area="ocean">
+  <Name>South Hallway</Name>
+  <ShortDescription>You are in the once-grand southern hallway of Castle Kayleigh.</ShortDescription>
+  <LongDescription>This was actually the feasting hall where the duke's men joined him around
+his table.  Many were the parties that lasted till dawn in this room after
+a successful hunt in the forest of Kista.  It was in this very hall that
+the Witch murdered the duke and his family.  Now it is ashes.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5138</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5125</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

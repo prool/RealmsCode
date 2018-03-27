@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="294" Version="2.40" Area="ocean">
+  <Name>Paladin Training Room</Name>
+  <ShortDescription>Congratulations!  You may advance to the status of a level five paladin. </ShortDescription>
+  <LongDescription>Only the bravest and purist of paladins may serve in the kingdom, and
+many have failed to reach this exalted level.  You are to be congratulated
+on your fine accomplishment.  Kneel, and accept your transformation and
+added responsibilities and duties.  You are a credit to knighthood.</LongDescription>
+  
+  <Established>766527631</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">300</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

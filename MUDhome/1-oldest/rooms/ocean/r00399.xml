@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="399" Version="2.40" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are walking along Hofton Avenue, just east of Leviathan Drive.</ShortDescription>
+  <LongDescription>You can see Leviathan Drive in the distance to the west.  On the north
+side of the road is the massive City Walls, surrounding and protecting 
+the city.  To the south, you can see a large forest region, but cannot
+seem to find any way to get into it, or see or what it could possibly hide.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">398</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">566</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

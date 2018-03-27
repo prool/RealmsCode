@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1423" Version="2.40" Area="ocean">
+  <Name>Guard and Servant Hallway</Name>
+  <ShortDescription>You are in the primary access hall for the guards and servants.</ShortDescription>
+  <LongDescription>You are at the entrance to the servant and guard hallway.  It is 
+restricted to authorized servants and guards, but there doesn't seem
+to be anyone around to stop you.  Since the hall is in plain sight,
+you don't see any harm in a little exploration.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">130</Mob>
+      <Mob Area="ocean" Num="1">130</Mob>
+      <Mob Area="ocean" Num="2">126</Mob>
+      <Mob Area="ocean" Num="3">130</Mob>
+      <Mob Area="ocean" Num="4">130</Mob>
+      <Mob Area="ocean" Num="5">126</Mob>
+      <Mob Area="ocean" Num="6">130</Mob>
+      <Mob Area="ocean" Num="7">130</Mob>
+      <Mob Area="ocean" Num="8">126</Mob>
+      <Mob Area="ocean" Num="9">130</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1424</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1422</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

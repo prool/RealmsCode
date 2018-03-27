@@ -1,0 +1,62 @@
+BUILDER COMMANDS
+
+ ^W*ac                ^x Show your Weapon/Defense/Armor and completely heal yourself.
+ ^W*add               ^x Create a new room/object/monster.
+ ^W*append            ^x Add text to a room description.
+ ^W*attack            ^x Make a monster attack a player/monster.
+ ^W*balance           ^x Balance a monster to a certain level.
+ ^W*bhelp             ^x Access help files.
+ ^W*catrefinfo        ^x Show CatRefInfo.
+ ^W*classlist         ^x List all classes.
+ ^W*clone             ^x Create an armor set from a single piece of armor.
+ ^W*cname             ^x Rename a monster.
+ ^W*combine           ^x Create new recipes.
+ ^W*create            ^x Summon an object.
+ ^W*deitylist         ^x List all deities.
+ ^W*delete            ^x Delete text from a room description.
+ ^W*destroy           ^x Destroy the room.
+ ^W*echo              ^x Send a message to all players in the room.
+ ^W*effects           ^x List effects in the game.
+ ^W*faction           ^x List all factions or show a player/monster's faction.
+ ^W*fifo              ^x Delete and recreate the web interface fifos.
+ ^W*find              ^x Find the next available room/object/monster.
+ ^W*fishing           ^x View fishing lists.
+ ^W*fixup             ^x Remove an underscore from an exit.
+ ^W*flushcrtobj       ^x Flush creatures and objects from memory.
+ ^W*invis             ^x Toggle DM invis (only staff can see you).
+ ^W*max               ^x Set your stats to max.
+ ^W*moblist           ^x List wandering monsters in the room.
+ ^W*monster           ^x Summon a monster.
+ ^W*mswap             ^x Swap monster with another.
+ ^W*name              ^x Rename the room.
+ ^W*notepad           ^x Access your staff notepad.
+ ^W*object            ^x Summon an object.
+ ^W*oname             ^x Rename an object
+ ^W*oswap             ^x Swap object with another.
+ ^W*prepend           ^x Prepend text to a room description.
+ ^W*purge             ^x Purge all objects and monsters (not pets) in room.
+ ^W*racelist          ^x List all races.
+ ^W*range             ^x Show your assigned room range.
+ ^W*recipes           ^x List recipes.
+ ^W*reload            ^x Reload the room from disk.
+ ^W*replace           ^x Replace text in a room description.
+ ^W*reset             ^x Reset perm timeouts.
+ ^W*rswap             ^x Swap current room with another.
+ ^W*save              ^x Save the room, creature, or object.
+ ^W*set               ^x Modify a room/object/exit/player/object/monster.
+ ^W*songs             ^x List songs in the game.
+ ^W*specials          ^x Show a monster's special attacks.
+ ^W*spelling          ^x Spell-check a room.
+ ^W*spells            ^x List spells in the game.
+ ^W*status            ^x Show info about a room/player/object/monster.
+ ^W*swap              ^x Swap utility.
+ ^W*teleport          ^x Teleport to rooms or players, or teleport players to each other.
+ ^W*unfixup           ^x Add an underscore to an exit.
+ ^W*wander            ^x Force a monster to wander away.
+ ^W*weather           ^x Show weather strings.
+ ^W*wrap              ^x Wrap the room description to a number of characters.
+ ^W*xarrange          ^x Arrange all the exits in the room according to standards.
+ ^W*xdelete           ^x Delete all exits in the room.
+ ^W*xrename           ^x Rename an exit.
+ ^Wincog              ^x Toggle incognito status (only people in the room can see you).
+

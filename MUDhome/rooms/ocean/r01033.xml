@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1033" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive/Rosecrest Street Intersection</Name>
+  <ShortDescription>You are at the intersection of Rosecrest Street and Oceanview Drive.</ShortDescription>
+  <LongDescription>The wide and scenic Oceanview Drive continues to the north and south of this
+intersection, while Rosecrest Street will take you through the business area
+of the city.  Rosecrest Street changes direction a few times, and along here
+it takes an east-west route.  It eventually runs north and south again, and
+in fact it runs past the west side of Lyanden Castle at the northern end.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1032</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1034</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1132</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1133</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="2262" Version="2.41b" Area="ocean">
+  <Name>The Holy Order of the White Rose</Name>
+  <ShortDescription>You have entered the garrison of young paladins aspiring to be knights.</ShortDescription>
+  <LongDescription>The path of the Paladin is difficult and trying.  In order to advance
+in the ranks of the holy knights, you must show skill in defeating a
+knight of a level higher than you.  The Gallant Warrior should enter the
+blue door, if you are ready to be tested.  A Gallant Warrior, Second 
+Class should enter the green door when you are ready to advance to the
+next level.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="blue door">
+      <Keys/>
+      <Room Area="ocean">2263</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="green door">
+      <Keys/>
+      <Room Area="ocean">2264</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1639</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="615" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard</Name>
+  <ShortDescription>You are walking along Avatar Boulevard, just east of Danielle's Magic Shop.</ShortDescription>
+  <LongDescription>The Mystic Mage Emporium, located on the west side of the road, provides
+a number of vital potions and spells that could be useful to any mage
+who finds themselves in a tight spot.  Always better to be prepared than
+dead.  The entrance to the shop is on the west side of the shop, off of
+Necropolis Avenue.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">543</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">616</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

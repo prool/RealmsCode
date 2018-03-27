@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="3019" Version="2.40" Area="ocean">
+  <Name>Goblin Lair</Name>
+  <ShortDescription>You are in a small quiet passage in the goblin's lair.</ShortDescription>
+  <LongDescription>Ahead of you, the passage turns around a corner and disappears. You
+see a strange glow and hear a soft chanting in a forgein tongue
+coming from around the corner.  To the east you can still hear
+the echoes of the screams coming from the pit you pasted.</LongDescription>
+  
+  <Established>761219117</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">323</Mob>
+      <Mob Area="ocean" Num="1">323</Mob>
+      <Mob Area="ocean" Num="2">322</Mob>
+      <Mob Area="ocean" Num="3">322</Mob>
+      <Mob Area="ocean" Num="4">325</Mob>
+      <Mob Area="ocean" Num="5">322</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3017</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3020</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

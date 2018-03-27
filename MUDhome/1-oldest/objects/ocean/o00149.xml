@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Object Num="149" Area="ocean" Version="2.40">
+  <Name>chromatic dragon scale mail</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>25</ShotsMax>
+  <ShotsCur>25</ShotsCur>
+  <Armor>176</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">500000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">dragon</Key>
+    <Key Num="1">scale</Key>
+    <Key Num="2">mail</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="10"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Description>You see some magnificent armor made from the scales of a chromatic dragon.</Description>
+  <UseOutput>The armor shimmers as you wear it.  The powers of good course through you.</UseOutput>
+  <Weight>45</Weight>
+  <Type>6</Type>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

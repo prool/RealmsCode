@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Room Num="3176" Version="2.40" Area="ocean">
+  <Name>Coral Reef</Name>
+  
+  <Established>756111604</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

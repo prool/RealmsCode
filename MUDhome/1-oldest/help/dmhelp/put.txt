@@ -1,0 +1,16 @@
+Help on: *put
+
+This command allows DMs to remotely add items to a player's
+inventory or to the containers in a player's inventory.
+The items must be in the inventory of the DM.
+
+examples:
+:*put blacke goatboy
+:You add the blackened-steel eviscerator(+2)to Goatboy's inventory.
+:*put hazy mastemage bag
+:You add the hazy potion to Mastemage's buttercup bag.
+:*put ada genie bag 3
+:You add some adamantine corbite armor to Genie's senna bag.
+:*put leaf 4 fawn indigo 5
+:You add the yew leaf to Fawn's indigo bag.
+

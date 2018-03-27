@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="5050" Version="2.40" Area="ocean">
+  <Name>Nartiz Tor</Name>
+  <ShortDescription>You are near the southern section of Brownhaven.  50.n0.e0.s1.w0</ShortDescription>
+  <LongDescription>A rocky tor, part of the Nartiz Mountain Range, juts north toward the
+village of Brownhaven.  You will have to climb higher to stay above the
+hot, sharp rocks you see below.  Not much vegetation down there, and you
+see very little animal life.  To the east however, you can see the great
+Kista Forest, which is south of the beautiful city of Kista.</LongDescription>
+  
+  <Established>772228630</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5006</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5083</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5057</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5082</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="1107" Version="2.40" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are traveling along Waterfront Way, through the market area.</ShortDescription>
+  <LongDescription>On the north, you can make out an alchemy shop which appears to
+be venting some blue smoke from its roof.  Another entrance is on  
+Main Street, which is just east of here.  On the south, you can see
+portions of Leonardo's Foundry, where nearly any metal can be melded
+into swords, armors, shields and anything else you can possibly think
+of.  The entrance to the Foundry is also on Main Street.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">2</Mob>
+      <Mob Area="ocean" Num="3">6</Mob>
+      <Mob Area="ocean" Num="4">1</Mob>
+      <Mob Area="ocean" Num="5">10</Mob>
+      <Mob Area="ocean" Num="6">8</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1028</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1106</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2304</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

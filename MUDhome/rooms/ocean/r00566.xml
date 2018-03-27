@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="566" Version="2.40" Area="ocean">
+  <Name>Leviathan Drive/Hofton Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Hofton Avenue and Leviathan Drive.</ShortDescription>
+  <LongDescription>Leviathan Drive heads off to the south out of the intersection with Hofton
+Avenue, which runs east and west.  Running parallel to Hofton Avenue is
+the north City Wall, protecting the city from invasions, attacks and 
+assaults from various factions from the wastelands outside the city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">567</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">399</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">668</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

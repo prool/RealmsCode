@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="727" Area="ocean" Version="2.40">
+  <Name>spiked shield</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>40</ShotsMax>
+  <ShotsCur>40</ShotsCur>
+  <Armor>48</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">15000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">shield</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>You see a circular shield with a single spike protruding from the center.</Description>
+  <Weight>6</Weight>
+  <Type>6</Type>
+  <SubType>shield</SubType>
+  <WearFlag>18</WearFlag>
+  <InBag/>
+</Object>

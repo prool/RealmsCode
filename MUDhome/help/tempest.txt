@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  tempest spell     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 25
+
+This is the most powerful spell in the air realm. It creates a storm to descend
+on the target of this spell, blasting them with the full strength of the most
+fearsome storm. The physical damage to the target's body is immense, often high
+enough to prove fatal.
+
+Syntax:
+cast tempest <target>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2291" Version="2.40" Area="ocean">
+  <Name>Melbourne Entertainment Arena - Challenger's Ready Room</Name>
+  <ShortDescription>You are in the entrance to the Melbourne Entertainment Arena, about to do
+battle with crooks, criminals and other outcasts of society.</ShortDescription>
+  <LongDescription>The large Ready Room does not seem to provide you with much of anything
+to fight with.  They suggest visiting D'Tan's Armory across the street
+and maybe a couple of weapons shops around town before entering the arena.
+The arena is a dangerous place, and should be entered with caution. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1801</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2292</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3221" Version="2.40" Area="ocean">
+  <Name>Dangerous Destinations Main Lobby</Name>
+  <ShortDescription>Dangerous Destinations claims no responsibility for foolishness.</ShortDescription>
+  <LongDescription>Call it foolhardy, but some adventurers find the need to explore
+beyond the reaches of thier travel, so they come to Dangerous
+Destinations where, for a small fee, they can find adventure
+almost for sure.</LongDescription>
+  
+  <Established>755944732</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1102</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3223</Room>
+      <Key>40</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

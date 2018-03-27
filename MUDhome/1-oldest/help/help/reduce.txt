@@ -1,0 +1,42 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |  Help on:  enlarge/reduce spell   | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 15
+School:  Transmutation
+Domain:  Augmentation
+
+The enlarge and reduce spells can magically change the size of the target. Each
+spell has a strength - how much it has changed the size of the target. For
+example, if a strength 3 enlarge spell is placed on a cat, which is normally
+"tiny", it will be enlarged size "large". The maximum strength at which you can
+cast either of these spells is based on your level.
+
+The following syntax will cast an enlarge or reduce spell at maximum power.
+
+^ySyntax:^x
+cast <enlarge|reduce> <target>
+
+You may also manually specify the strength of the size spell. To do so, you
+must determine the current size and the desired size of your target.
+
+^ySyntax:^x
+cast <enlarge|reduce> <target> to <size>
+
+^yExample:^x
+: c enlarge to huge
+You cast an enlarge spell on yourself.
+The room's magical properties increase the power of your spell.
+^CYou grow in size!^x
+:
+
+Enlarge and reduce spells counteract each other. For example, a strength 3
+enlarge spell followed by a strength 2 reduce spell will leave the target
+magically enlarged by one size category.
+
+^WLevel   Max Strength^x
+ 1-9       1
+ 10-19     2
+ 20+       3
+
+Only mages and liches may cast this spell.
+Type HELP SIZE for more information on size.

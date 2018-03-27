@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="743" Version="2.40" Area="ocean">
+  <Name>Tranquility Circle</Name>
+  <ShortDescription>You are in a small garden circle at the intersection of Tranquility Way,
+Wakeforest Drive and Hofton Avenue, near the north border of the city.</ShortDescription>
+  <LongDescription>Tranquility Circle marks the intersection of three major roads running
+through Oceancrest.  Hofton Avenue runs northwest out of the circle,
+forming the northern border of the city.  Tranquility Way runs east and
+west through the circle and Wakeforest Drive runs south past the Dragon's
+Citadel and eventually meets the Oceancrest Circle.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">744</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">771</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">387</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1365</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

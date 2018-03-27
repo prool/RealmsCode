@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="18" Version="2.40" Area="ocean">
+  <Name>North Village Gate</Name>
+  <ShortDescription>You are inside the north village gate of Brownhaven.</ShortDescription>
+  <LongDescription>This gate is closed at sundown to avoid being overrun by mountain trolls
+and other unwelcome creatures.  Promptly at sunrise the gates are opened to
+traffic.  Most of the stuff you see in the shops in Brownhaven is brought in
+by travelers or the monthly caravan.  South is the intersection of Goldenrod
+Avenue and Main Street.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">17</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">5900</Room>
+      <Flags>
+        <Bit Num="17"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

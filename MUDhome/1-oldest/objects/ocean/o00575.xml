@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Object Num="575" Area="ocean" Version="2.40">
+  <Name>chill blade dagger</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>65</ShotsMax>
+  <ShotsCur>65</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>6</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">blade	</Key>
+    <Key Num="1">dagger</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="32"/>
+    <Bit Num="35"/>
+    <Bit Num="38"/>
+    <Bit Num="39"/>
+  </Flags>
+  <Description>The blade of this dagger is cold to the touch.</Description>
+  <UseOutput>A wisp of cold air leaves the blade as you wield it</UseOutput>
+  <Weight>5</Weight>
+  <Type>5</Type>
+  <SubType>dagger</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

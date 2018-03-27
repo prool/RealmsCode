@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="4090" Version="2.40" Area="ocean">
+  <Name>Ramdes River</Name>
+  <ShortDescription>You are in the cold waters of the Ramdes River, being swept southward.</ShortDescription>
+  <LongDescription>The water is deep and swift, making it difficult to swim in any direction
+but with the current.  It looks like the center, being deepest, is the
+least dangerous.  There are rocks jutting out of the water along the shore. </LongDescription>
+  <Trap>1</Trap>
+  <TrapExit Area="ocean">4080</TrapExit>
+  
+  <Established>773822307</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>rocky cove</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="rocky cove">
+      <Keys/>
+      <Room Area="ocean">4080</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="9"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+    <Exit Name="center">
+      <Keys/>
+      <Room Area="ocean">3945</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

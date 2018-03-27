@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="270" Area="ocean" Version="2.40">
+  <Name>sacrificial dagger</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>75</ShotsMax>
+  <ShotsCur>75</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>5</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">12500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">dagger</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="13"/>
+  </Flags>
+  <Description>You see an ornamental dagger used to sacrifice various people to the gods.</Description>
+  <UseOutput>The souls of all who have died under the blade come to your aid.</UseOutput>
+  <Weight>2</Weight>
+  <Type>5</Type>
+  <SubType>dagger</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

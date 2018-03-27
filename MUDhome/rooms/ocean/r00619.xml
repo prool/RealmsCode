@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="619" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard</Name>
+  <ShortDescription>You are on the east side of the Shrine of Life and Death.</ShortDescription>
+  <LongDescription>The symbolic Shrine of Life and Death is the single most important shrine
+in Oceancrest for all clerics despite their individual diety of worship.
+All religion is based on the cycle of life and death, and the balance 
+between the two.  Understanding this fundamental cycle is the first step
+towards understanding one's own religion.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">618</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">620</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

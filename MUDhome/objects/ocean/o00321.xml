@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="321" Area="ocean" Version="2.40">
+  <Name>adamantine scale mail armor</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>60</ShotsMax>
+  <ShotsCur>60</ShotsCur>
+  <Armor>70</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">scale</Key>
+    <Key Num="1">mail</Key>
+    <Key Num="2">armor</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="10"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Description>You see some fine scale mail armor made of the finest adamantine.</Description>
+  <Weight>10</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

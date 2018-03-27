@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="2011" Version="2.40a" Area="ocean">
+  <Name>Myrr Lane/West Lake View Road</Name>
+  <ShortDescription>You are at the intersection of Myrr Lane and West Lake View Road.</ShortDescription>
+  <LongDescription>Lake View Road actually joins Myrr Lane again a few kilometers east of
+here.  Going north will bring you close to the cold shores of the beautiful
+Lake Kista.  To the south, you see Hogoth's Beer Garden, a large public
+structure where weary travelers can rest before continuing on their way.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">198</Mob>
+      <Mob Area="ocean" Num="1">201</Mob>
+      <Mob Area="ocean" Num="2">202</Mob>
+      <Mob Area="ocean" Num="3">203</Mob>
+      <Mob Area="ocean" Num="4">204</Mob>
+      <Mob Area="ocean" Num="5">207</Mob>
+      <Mob Area="ocean" Num="6">210</Mob>
+      <Mob Area="ocean" Num="7">208</Mob>
+      <Mob Area="ocean" Num="8">211</Mob>
+      <Mob Area="ocean" Num="9">206</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2512</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2003</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2012</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2016</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

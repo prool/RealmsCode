@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3818" Version="2.40" Area="ocean">
+  <Name>Ringmaster's Tent</Name>
+  <ShortDescription>You are standing in the foremost part of the Ringmaster's tent.</ShortDescription>
+  <LongDescription>Looking around, you see very well kept living quarters.  The Ringmaster's
+wife keeps this tent very clean and still has time for her mystical
+endeavors.  Some say she is more powerful than the Ringmaster himself
+because of her abilities in the magical realms.  Her part of the tent is
+filled with artifacts from far places.  The Ringmaster does not seem to
+have many possessions as he is out performing most of the time.  His wife
+decorates the tent nicely, though not expensively.</LongDescription>
+  
+  <Established>765770403</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3817</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

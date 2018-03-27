@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  iceblade spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 25
+School:  Evocation
+Domain:  Destruction
+
+This spell causes several blades of ice to form, flying in a whirlwind around
+the target, savagely cutting and freezing them. The target is often impaled and
+killed on the spot unless excessive stamina or other means of protection keep
+it alive. Few will repeatedly survive castings of this spell.
+
+Syntax:
+cast iceblade <target>

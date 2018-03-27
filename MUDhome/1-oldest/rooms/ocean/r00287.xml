@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="287" Version="2.40a" Area="ocean">
+  <Name>Paladin Test Arena</Name>
+  <ShortDescription>You have been chosen to advance to a level four paladin.  Be prepared to
+defeat the knight in green, who is already at level four.  You should pray.</ShortDescription>
+  <LongDescription>The knight before you will test your abilities, and will not let you pass
+to the training room if you are found lacking in skill.  Only the bravest
+and purest of paladins may serve the kingdom, and if you search your soul
+and find you are not ready, you should come back at a later time.</LongDescription>
+  <LowLevel>3</LowLevel>
+  <HighLevel>3</HighLevel>
+  
+  <Established>766521713</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">568</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">300</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">291</Room>
+      <Key>47</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="1834" Version="2.40" Area="ocean">
+  <Name>The Center Path</Name>
+  <ShortDescription>You are walking along one of the central paths through the Barbarian Pits.</ShortDescription>
+  <LongDescription>The Barbarian Pits were more or less carved out of the surrounding country
+to suit the needs of the half-giants who live here.  To the north, you can
+see the small Trading Post where some of the richer barbarians can trade or
+buy better armors to wear instead of the loincloths most are sporting.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">261</Mob>
+      <Mob Area="ocean" Num="1">261</Mob>
+      <Mob Area="ocean" Num="2">262</Mob>
+      <Mob Area="ocean" Num="3">262</Mob>
+      <Mob Area="ocean" Num="4">261</Mob>
+      <Mob Area="ocean" Num="5">261</Mob>
+      <Mob Area="ocean" Num="6">263</Mob>
+      <Mob Area="ocean" Num="7">263</Mob>
+      <Mob Area="ocean" Num="8">264</Mob>
+      <Mob Area="ocean" Num="9">264</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1836</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1833</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1820</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

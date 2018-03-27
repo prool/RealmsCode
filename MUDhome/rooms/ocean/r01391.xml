@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1391" Version="2.40" Area="ocean">
+  <Name>Dungeon Guard Quarters</Name>
+  <ShortDescription>You are in the sleeping chambers of the dungeon guards.</ShortDescription>
+  <LongDescription>There doesn't seem to be any order in the lower ranks.  In fact, there's
+no discipline visible.  The room is a mess and the guards probably like 
+it that way.  This place probably get's pretty busy so it's probably not
+a good idea to stand out in the open.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">152</Mob>
+      <Mob Area="ocean" Num="1">152</Mob>
+      <Mob Area="ocean" Num="2">152</Mob>
+      <Mob Area="ocean" Num="3">152</Mob>
+      <Mob Area="ocean" Num="4">152</Mob>
+      <Mob Area="ocean" Num="5">152</Mob>
+      <Mob Area="ocean" Num="6">152</Mob>
+      <Mob Area="ocean" Num="7">152</Mob>
+      <Mob Area="ocean" Num="8">152</Mob>
+      <Mob Area="ocean" Num="9">152</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1385</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

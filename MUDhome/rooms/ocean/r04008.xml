@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="4008" Version="2.40" Area="ocean">
+  <Name>Mausoleum Stairs</Name>
+  <LongDescription>You are on the stairs leading between the mausoleum and the cellar.
+The walls are are very old brick, and are covered with ancient graffiti.
+Looks like you can go up or down, but standing here is not fun.      </LongDescription>
+  
+  <Established>771803144</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1996</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4007</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

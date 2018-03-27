@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1615" Version="2.40a" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along Overland Drive, through the Farmer's Residences.</ShortDescription>
+  <LongDescription>Understanding the need for the farmers of the lands to have a private
+residence just like everyone else in town, a small community has been
+set up on both sides of Overland Drive for them.  The community is rather
+small, but is close to the farming areas and relatively inexpensive to
+maintain.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1614</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1616</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

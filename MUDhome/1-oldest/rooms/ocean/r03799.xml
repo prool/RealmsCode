@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3799" Version="2.40" Area="ocean">
+  <Name>Cliff Tor</Name>
+  <ShortDescription>You are on a high and rocky point at the west end of Lelion Beach and Park.</ShortDescription>
+  <LongDescription>You are on top of a peninsula which extends into the Nylandian Bay to the
+west.  There is a lighthouse on the high point in that direction.  The
+city of Oceancrest hires weather wizards to maintain the climate, but just
+to be safe, they also maintain a brilliant, magical light out there to
+warn ships and help them locate themselves when the fog rolls in.</LongDescription>
+  
+  <Established>766010264</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3798</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="path">
+      <Keys/>
+      <Room Area="ocean">3770</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3765</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

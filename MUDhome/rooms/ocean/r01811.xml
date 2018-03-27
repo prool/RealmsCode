@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<Room Num="1811" Version="2.40" Area="ocean">
+  <Name>The Shrine of the Protectors</Name>
+  <ShortDescription>You are in the ancient Shrine of the Protectors, where most knights and
+other warriors go to pray for good luck and speed in battle.</ShortDescription>
+  <LongDescription>This shrine is a monument to the heroism and bravery of the ancient
+Protectors.  It is watched over carefully by one of the last remaining
+members of the order, the High Templar of Oceancrest, who has been 
+appointed to be in charge of granting new levels to aspiring young
+clerics.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">629</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1146</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door one">
+      <Keys/>
+      <Room Area="ocean">3591</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door two">
+      <Keys/>
+      <Room Area="ocean">3592</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door three">
+      <Keys/>
+      <Room Area="ocean">3593</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door four">
+      <Keys/>
+      <Room Area="ocean">3594</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door five">
+      <Keys/>
+      <Room Area="ocean">3590</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

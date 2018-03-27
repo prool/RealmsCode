@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="563" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are on Eidenhoft Boulevard, east of the Leviathan Fishery Open Market.</ShortDescription>
+  <LongDescription>The large, open market on the west side of the road provides a number of
+fresh fish and other ocean delicacies to the general public, caught daily
+off the shores.  The large fish market is a popular place to get fresh
+fish and seafood for a change of pace from beef and venison.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">562</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">557</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

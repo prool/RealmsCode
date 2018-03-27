@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="4210" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>You are on the western side of the great circular hallway of Castle Rutger.</ShortDescription>
+  <LongDescription>The hallway makes a turn here, and heads southeast.  This section of the  
+castle is mostly inhabited by the lowest level of troops and servants.
+They don't really have the nice manners of the lords and ladies who reside
+on the north side of the castle.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">17</Mob>
+      <Mob Area="ocean" Num="1">17</Mob>
+      <Mob Area="ocean" Num="2">17</Mob>
+      <Mob Area="ocean" Num="3">17</Mob>
+      <Mob Area="ocean" Num="4">17</Mob>
+      <Mob Area="ocean" Num="5">17</Mob>
+      <Mob Area="ocean" Num="6">17</Mob>
+      <Mob Area="ocean" Num="7">17</Mob>
+      <Mob Area="ocean" Num="8">17</Mob>
+      <Mob Area="ocean" Num="9">17</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4209</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4211</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

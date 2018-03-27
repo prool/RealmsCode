@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3933" Version="2.40" Area="ocean">
+  <Name>Platinum and Ruby Room</Name>
+  <ShortDescription>You are inside a platinum pyramid, lined with red rubys.</ShortDescription>
+  <LongDescription>There are but three highly polished walls in this room, representing the
+alignment of forces in the Land of Mordor.  One wall represents goodness,
+another represents evil, and the third is neutral in alignment.  It ties the
+the other two wall together.  The training room door goes through that wall.
+A statue of a griffon stands in the middle of the room, it's ruby eyes</LongDescription>
+  <LowLevel>8</LowLevel>
+  <HighLevel>8</HighLevel>
+  
+  <Established>770926417</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training room</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">623</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3930</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">3939</Room>
+      <Key>80</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

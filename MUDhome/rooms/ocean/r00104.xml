@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="104" Version="2.40" Area="ocean">
+  <Name>Nanette's Spa and Massage</Name>
+  <ShortDescription>This is a great place to be if you are injured and need to rest.</ShortDescription>
+  <LongDescription>Nanette has the best healing hands to be found, and the spa is the most
+relaxing you can find.  At one time, Nanette studied to be a mage, but 
+after a few spells went awry, she decided it wasn't the profession for
+her.  Her best friend is still a toad, and she continues to try to change
+him back.    Now if she could only decide which toad is him.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">103</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

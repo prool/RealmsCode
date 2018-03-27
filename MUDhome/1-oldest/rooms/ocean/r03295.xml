@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3295" Version="2.40" Area="ocean">
+  <Name>Outside the Magical Garden</Name>
+  <ShortDescription>You stand outside a high walled garden, before a golden gate.</ShortDescription>
+  <LongDescription>The garden draws you to it, you feel it beckoning you.  Its walls stand
+about four meters high, covered with dense ivy all over, except at the gate
+which is made of golden bars shaped into the the gate with the outline of
+a rose in the center.  Not even the smallest humanoid could pry his way
+through the bars, but there's no need, the gate looks open.</LongDescription>
+  
+  <Established>758415954</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>gate</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">3296</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3291</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

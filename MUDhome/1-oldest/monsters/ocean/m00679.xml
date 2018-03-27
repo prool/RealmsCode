@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<Creature Num="679" Area="ocean" Version="2.40">
+  <Name>the Hydrapede</Name>
+  <Level>21</Level>
+  <Type>1</Type>
+  <Experience>2000</Experience>
+  <Coins/>
+  <Alignment>-100</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>240</Current>
+      <Max>240</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>240</Current>
+      <Max>240</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>240</Current>
+      <Max>240</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>240</Current>
+      <Max>240</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>300</Current>
+      <Max>300</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>She is a thick-skinned water monster, with twelve arms.</Description>
+  <Keys>
+    <Key Num="0">hydrapede</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>670</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>4</Number>
+    <Sides>2</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <DefenseSkill>205</DefenseSkill>
+  <AttackPower>250</AttackPower>
+  <WeaponSkill>205</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">383</Carry>
+    <Carry Area="ocean" Num="1">383</Carry>
+    <Carry Area="ocean" Num="2">383</Carry>
+    <Carry Area="ocean" Num="3">387</Carry>
+    <Carry Area="ocean" Num="4">387</Carry>
+    <Carry Area="ocean" Num="5">387</Carry>
+    <Carry Area="ocean" Num="6">383</Carry>
+    <Carry Area="ocean" Num="7">383</Carry>
+    <Carry Area="ocean" Num="8">387</Carry>
+    <Carry Area="ocean" Num="9">387</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks>
+    <SpecialAttack>
+      <Name>Gas Breath</Name>
+      <Verb>breathed gas on</Verb>
+      <TargetStr>^G*ATTACKER* breathes poisonous gas on you!*CR*You take ^g*DAMAGE*^G damage!^x</TargetStr>
+      <TargetFailStr></TargetFailStr>
+      <RoomFailStr></RoomFailStr>
+      <SelfStr></SelfStr>
+      <RoomStr>^G*ATTACKER*'s poisonous breath fills the room!^x</RoomStr>
+      <TargetSaveStr>^cYou manage to hold your breath, coughing erratically.^x</TargetSaveStr>
+      <SelfSaveStr></SelfSaveStr>
+      <RoomSaveStr></RoomSaveStr>
+      <Limit>0</Limit>
+      <Delay>60</Delay>
+      <Chance>20</Chance>
+      <StunLength>0</StunLength>
+      <Type>10</Type>
+      <SaveType>2</SaveType>
+      <SaveBonus>0</SaveBonus>
+      <MaxBonus>0</MaxBonus>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="25"/>
+      </Flags>
+      <Dice>
+        <Number>21</Number>
+        <Sides>2</Sides>
+        <Plus>1</Plus>
+      </Dice>
+    </SpecialAttack>
+  </SpecialAttacks>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="30"/>
+    <Bit Num="34"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="1"/>
+    <Bit Num="5"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="15"/>
+    <Bit Num="17"/>
+    <Bit Num="22"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="4201" Version="2.40a" Area="ocean">
+  <Name>Castle Rutger Information Office</Name>
+  <ShortDescription>You are in the Information Office near the main gate of Castle Rutger.</ShortDescription>
+  <LongDescription>There are maps on the walls, and several clerks scurry about with slips
+of paper.  A few are putting colored pins in the largest map.  A sign on
+the wall says that Prince Rutger is recruiting warriors and adventurers in
+his battle with his brother, Prince Ragnar.</LongDescription>
+  
+  <Established>791662391</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">430</Mob>
+      <Mob Area="ocean" Num="1">430</Mob>
+      <Mob Area="ocean" Num="2">430</Mob>
+      <Mob Area="ocean" Num="3">430</Mob>
+      <Mob Area="ocean" Num="4">430</Mob>
+      <Mob Area="ocean" Num="5">430</Mob>
+      <Mob Area="ocean" Num="6">430</Mob>
+      <Mob Area="ocean" Num="7">430</Mob>
+      <Mob Area="ocean" Num="8">430</Mob>
+      <Mob Area="ocean" Num="9">430</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">430</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4200</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

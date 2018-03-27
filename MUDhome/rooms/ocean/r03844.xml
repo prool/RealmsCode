@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3844" Version="2.40a" Area="ocean">
+  <Name>North Highway</Name>
+  <ShortDescription>You are on the King's North Highway, not far from Oceancrest.</ShortDescription>
+  <LongDescription>This close to the city there are plenty of farms and small villages that
+supply the city with a great many products.  Of course, Oceancrest is almost
+totally self-sufficient, but in time of peace they don't mind letting
+outsiders bring their wares to the markets.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3842</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3845</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

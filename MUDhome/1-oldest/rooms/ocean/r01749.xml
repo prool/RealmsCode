@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1749" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive/Hillcrest Drive Intersection </Name>
+  <ShortDescription>You are at the corner of Hillcrest Drive and Wakeforest Drive.</ShortDescription>
+  <LongDescription>Both Wakeforest Drive and Hillcrest Drive end here. (or begin, depending on 
+your perspective.)   Wakeforest Drive heads north through the eastern area 
+of town, which is mostly administrative, and Hillcrest Drive runs west
+through the more rural farming lands in south central Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1748</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1789</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

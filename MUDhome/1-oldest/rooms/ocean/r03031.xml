@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="3031" Version="2.40" Area="ocean">
+  <Name>Underground Passage</Name>
+  <ShortDescription>You are in a long underground passage, near the goblin underground shrine.</ShortDescription>
+  <LongDescription>The passage is devoid of light, and twists and turns every few meters.
+The goblins built the tunnels down here for their use, but recognized
+that in case of an invasion from above, twists and turns would make it
+difficult for invaders to move quickly.  A trickle of sewage runs down
+the center of the floor, making the floor a little slippery with slime.</LongDescription>
+  
+  <Established>761481670</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="hole">
+      <Keys/>
+      <Room Area="ocean">3032</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3033</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3030</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

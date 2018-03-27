@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="20" Version="2.40a" Area="ocean">
+  <Name>Wall Road West/Black Market Alley</Name>
+  <ShortDescription>Wall Road West continues to the north and south.</ShortDescription>
+  <LongDescription>On the west side of the road there is a burned building.  A sign says,
+"Keep Out - Order of Brownhaven Militia."  No ordinary fire swept through
+here.  You can see all the indications of a magical flame.  At one time
+this was the home of Khallazar and Gharalara before they separated.  She
+was a powerful cleric, dedicated to her deity, and he was a young alchemist.
+What he saw in her, no one could tell.   She was considerably older than he.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">10</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">30</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

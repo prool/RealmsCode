@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="4202" Version="2.40a" Area="ocean">
+  <Name>Guard Station</Name>
+  <ShortDescription>This is the guard station for the main gates of Castle Rutger.</ShortDescription>
+  <LongDescription>You see a simple desk where you may state your business.  Behind the desk
+there are two doors, which apparently lead to a barracks room and an office
+for the Lieutenant of the Guard.  Several off duty guards are lounging 
+near the main entry door.  They wear gleaming black and silver uniforms.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4200</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="barracks">
+      <Keys/>
+      <Room Area="ocean">4204</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4205</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

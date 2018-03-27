@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3732" Version="2.40" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>You are in a dimly lighted hallway upstairs in the Dragon Tooth Inn.</ShortDescription>
+  <LongDescription>The room on the east side of the hallway used to be the private quarters
+of the previous owner of this inn.  When it was discovered that he was a
+leader in the anti-royalist terrorists, he was hanged in Dillsdale Memorial
+Park in a public ceremony and his property was confiscated by the crown.
+The Dragon Tooth Inn has been closed for a number of years now, and the
+present owner has not yet done anything with this part of the building.</LongDescription>
+  
+  <Established>764463473</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3729</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3733</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

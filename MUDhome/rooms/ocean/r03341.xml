@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3341" Version="2.40" Area="ocean">
+  <Name>Necroplis Path</Name>
+  <ShortDescription>You are at a bend in the Necropolis path.  The Walk of Heroes is south. </ShortDescription>
+  <LongDescription>From the west there is a grove of trees, strange for a Necropolis, but
+indeed, the ground coverage prevents you from seeing what lies beyond
+the barrier of trees.  The path here leads west around the Necropolis
+and south to the Walk of Heroes.  From the north a cold breeze sends a 
+chill down your spine.  it comes from the mausoleum.</LongDescription>
+  
+  <Established>759804257</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3340</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3342</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3408</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

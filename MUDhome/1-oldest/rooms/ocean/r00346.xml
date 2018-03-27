@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="346" Version="2.40" Area="ocean">
+  <Name>The Temple of Ahto Meditation Chamber</Name>
+  <ShortDescription>You are in a very secret meditation chamber where the priests of Ahto come
+to talk with Ahto himself, to gain advice and knowledge about the ocean.</ShortDescription>
+  <LongDescription>The Meditation Chamber is strictly off limits to all outsiders except the
+priests and priestesses of Ahto, who will attack you if you stay in here
+too long.  In addition, the powerful presence of the god Ahto himself will
+sometimes be present.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="8"/>
+    <Bit Num="9"/>
+    <Bit Num="28"/>
+    <Bit Num="31"/>
+    <Bit Num="49"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

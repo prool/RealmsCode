@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="466" Version="2.40" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are on Darmanian Way, between the Temple of Clerical Science on the
+south side of the road and Issac's Bard Cant on the north side of the road.</ShortDescription>
+  <LongDescription>Issac's Bard Cant is a small place were bards can come to exchange 
+various songs and incantations between others of their kind.  Unfortunately,
+there is not a lot of bard activity in Oceancrest, and most of them stick
+around this area of town in order to get some inspiration from the various
+travelers who wander in and out around this area.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">465</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">467</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

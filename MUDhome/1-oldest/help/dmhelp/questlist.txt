@@ -1,0 +1,5 @@
+Help on: *questlist
+
+Lists all current quests in the questfile.
+
+Syntax: *questlist

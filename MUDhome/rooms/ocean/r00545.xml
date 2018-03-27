@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="545" Version="2.40a" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are traveling along Lelion Way, north of the Caretaking Facility.</ShortDescription>
+  <LongDescription>A small bakery is located on the north side of the road, providing bread
+and other pasteries to the community.  On the south side of the road is
+the Oceancrest Caretaking Facility for the Mortally Wounded, which also
+takes care of people who may have had some mishaps in the local arenas or
+playing in sewers.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">546</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">544</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

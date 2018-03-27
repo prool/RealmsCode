@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="481" Version="2.40" Area="ocean">
+  <Name>Islandia Drive</Name>
+  <ShortDescription>You are on Islandia Drive, between the Cathedral of Worldly Bliss on the
+north side of the road and the Adlermann Center on the south side.</ShortDescription>
+  <LongDescription>The Cathedral of Worldly Bliss holds much of the moral fiber in the city
+together, providing a number of moral rules to live one's life by.  Since
+the people of Oceancrest obviously can't think for themselves, the 
+Cathedral must do it for them.  On the south side of the road is the
+Adlermann Center of Marine Research and Oceanography, a large site where
+numerous studies of the oceans and bays are always taking place.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">480</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">440</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

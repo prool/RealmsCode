@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="732" Version="2.40" Area="ocean">
+  <Name>Highland Avenue</Name>
+  <ShortDescription>You are walking along a long road running parallel to the City Walls.</ShortDescription>
+  <LongDescription>Highland Avenue continues to the north and south, running parallel to 
+the massive City Walls which lie on the east side of the road.  The
+City Walls act as a protective device from any and all sieges from
+the untamed lands beyond the city's boundaries.</LongDescription>
+  
+  <Established>727327327</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">731</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">733</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

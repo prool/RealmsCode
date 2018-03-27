@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2926" Version="2.40" Area="ocean">
+  <Name>Dis</Name>
+  <ShortDescription>You are near the northeastern citadel of the second plane of Hell, Dis.</ShortDescription>
+  <LongDescription>Dis is almost like a city in itself, dominated by four large citadels at
+each cardinal point of the compass.  At the center of everything is Dispater
+himself, afterwhich this realm was named.  The powerful devil will do 
+anything to prevent you from reaching him, including sending out some very
+dangerous and deadly minions to destroy you.</LongDescription>
+  
+  <Established>728114791</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">2913</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

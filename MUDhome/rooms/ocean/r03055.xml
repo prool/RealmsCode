@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3055" Version="2.40" Area="ocean">
+  <Name>Underground City</Name>
+  <ShortDescription>You have reached a dead end in the goblin underground shrine.</ShortDescription>
+  <LongDescription>The way is quite dark, and the light you have brought with you illuminates
+only a small circle around you.  As your hand reaches out to the walls,
+you marvel at how smooth and dry the surface is.  Not far from your hand
+is a heavy oak door which opens to the north.  The door is bound with
+heavy metal.</LongDescription>
+  
+  <Established>761313279</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3054</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3060</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

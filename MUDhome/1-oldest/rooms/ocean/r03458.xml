@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3458" Version="2.40" Area="ocean">
+  <Name>Onydonn Caverns</Name>
+  
+  <Established>760061564</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3457</Room>
+      <Flags>
+        <Bit Num="8"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3459</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

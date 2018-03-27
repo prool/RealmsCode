@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="906" Version="2.40" Area="ocean">
+  <Name>Cemetery</Name>
+  <ShortDescription>You are in a very small, deserted cemetery.</ShortDescription>
+  <LongDescription>What looked like a vacant lot from the road turned out to be a small
+cemetery.  It has been kept up quite well over the years, but still
+looks like it's deserted.  You see no visitors at all.  You wonder
+if any of the ghosts of these people will show up to haunt those
+who killed them so many years ago.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">32</Mob>
+      <Mob Area="ocean" Num="1">33</Mob>
+      <Mob Area="ocean" Num="2">37</Mob>
+      <Mob Area="ocean" Num="3">23</Mob>
+      <Mob Area="ocean" Num="4">22</Mob>
+      <Mob Area="ocean" Num="5">24</Mob>
+      <Mob Area="ocean" Num="6">34</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">82</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">947</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">905</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5505</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

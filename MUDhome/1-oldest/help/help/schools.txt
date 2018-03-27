@@ -1,0 +1,26 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  schools of magic     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+There are currently nine schools of magic in the world:
+
+    Abjuration           Conjuration
+    Divination           Enchantment
+    Evocation            Illusion
+    Necromancy           Translocation
+    Transmutation
+
+Schools of magic are used by arcane spellcasters. Mages, liches, bards,
+and vampires are arcane spellcasters.As the foundation of the new magic
+system is in, but the full magic system has not yet been coded, your skill
+level in each of these schools does not affect your spell-casting ability.
+It will in the future, though, so train your skills as you normally would.
+To see your skill level in all magic skills, type ^Yskills magic^x.
+
+There are six temporary magic skills - they represent the six elemental
+realms. They are:
+
+    Air Realm            Cold Realm
+    Earth Realm          Electric Realm
+    Fire Realm           Water Realm
+

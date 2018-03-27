@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3032" Version="2.40" Area="ocean">
+  <Name>Goblin Dump</Name>
+  <ShortDescription>You are in a rat infested goblin garbage dump.</ShortDescription>
+  <LongDescription>Piles of garbage fill the floor. A fat scrupulless goblin
+eagerly watchs for any valuable item you might throw away.</LongDescription>
+  
+  <Established>761481795</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="1"/>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">322</Mob>
+      <Mob Area="ocean" Num="1">322</Mob>
+      <Mob Area="ocean" Num="2">323</Mob>
+      <Mob Area="ocean" Num="3">502</Mob>
+      <Mob Area="ocean" Num="4">502</Mob>
+      <Mob Area="ocean" Num="5">504</Mob>
+      <Mob Area="ocean" Num="6">505</Mob>
+      <Mob Area="ocean" Num="7">506</Mob>
+      <Mob Area="ocean" Num="8">502</Mob>
+      <Mob Area="ocean" Num="9">502</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3031</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

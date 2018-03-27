@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1130" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on a small stretch of Rosecrest Street between Marina and Main.</ShortDescription>
+  <LongDescription>Rosecrest is probably the longest street in Oceancrest and one of the few
+streets that changes directions.  It starts in the south at the Southwest
+Oceancrest Observational Station and runs north beside the west City Wall,
+turns east and west along the south side of Nylandian Bay, then continues
+north and south again to eventually go past the Lyanden Castle before ending
+at the northern City Wall.  Right now, you are between Marina Way and Main 
+Street.  Most building entrances are on Main Street.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1121</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1013</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

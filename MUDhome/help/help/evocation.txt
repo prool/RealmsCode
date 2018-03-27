@@ -1,0 +1,7 @@
+^WSpells:^x
+    darkness
+    magic-missile
+
+See also:
+    HELP SCHOOLS
+

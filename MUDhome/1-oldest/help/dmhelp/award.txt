@@ -1,0 +1,21 @@
+Help on: *award [-g]
+
+     This command allows DMs and some CTs to award experience
+to players for good roleplaying. For a CT to do it, they must
+have a flag set on them by a DM to turn the ability on. Xp may
+only be awarded to a player for roleplaying every hour and fifteen
+minutes. The amount awarded is 1% of the person's total xp, with
+100xp being the minimum amount awarded. Somewhere between levels
+6 and 7, the award starts going up for people. All awards by
+anyone are logged. If you wish to award someone gold as well, you
+may use the -g switch, which will place an amount of gold equal
+to half the amount of xp awarded into the person's bank account.
+A minimum of 250 gold will be awarded when using this option.
+
+: *award gumba
+: 1000 xp awarded to Gumba for roleplaying.
+: *award bodhi
+: 1000 xp awarded to Bodhi for roleplaying.
+: 500 gold awarded to Bodhi for roleplaying.
+
+

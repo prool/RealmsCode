@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="711" Version="2.40a" Area="ocean">
+  <Name>Hillborough Way</Name>
+  <ShortDescription>You are walking between two large complexes along Hillborough Way.</ShortDescription>
+  <LongDescription>Hillborough Way continues to the east and west, running between two large
+shopping complexes.  To the north, you can see the Lankshire Hall of
+Wonders and to the south is Nathan's Light Armory.  Both shops may be
+entered from their respective plaza entrances (located to the west of 
+here on Hillborough Way).</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">710</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">712</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="248" Version="2.40" Area="ocean">
+  <Name>Sewer Passage</Name>
+  <ShortDescription>This northwest/southeast sewer chamber smells curiously of rotten meat.</ShortDescription>
+  <LongDescription>The stench that fills this passage is overpowering.  Either something has
+died here, or else you're directly beneath one of the town's public 
+bathrooms.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">40</Mob>
+      <Mob Area="ocean" Num="1">40</Mob>
+      <Mob Area="ocean" Num="2">40</Mob>
+      <Mob Area="ocean" Num="3">17</Mob>
+      <Mob Area="ocean" Num="4">17</Mob>
+      <Mob Area="ocean" Num="5">33</Mob>
+      <Mob Area="ocean" Num="6">44</Mob>
+      <Mob Area="ocean" Num="7">44</Mob>
+      <Mob Area="ocean" Num="8">44</Mob>
+      <Mob Area="ocean" Num="9">42</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">249</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">240</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,9 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  hands        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Upon reaching a high enough level, Paladins are infused by the power of Enoch in
+such a way that they may lay their hands upon someone to heal them. The amount
+healed is based upon the paladin's level. This will not work on undead at all,
+and it has daily limitations, a time limitation, and also alignment restrictions.
+

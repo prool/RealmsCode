@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="466" Area="ocean" Version="2.40">
+  <Name>barbarian warhammer</Name>
+  <Adjustment>2</Adjustment>
+  <ShotsMax>130</ShotsMax>
+  <ShotsCur>130</ShotsCur>
+  <Dice>
+    <Number>5</Number>
+    <Sides>3</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">8000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">barbarian</Key>
+    <Key Num="1">warhammer</Key>
+    <Key Num="2">hammer</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a large and very heavy barbarian's warhammer.</Description>
+  <UseOutput>Now you're ready to bash some skulls.</UseOutput>
+  <Weight>12</Weight>
+  <Type>5</Type>
+  <SubType>hammer</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

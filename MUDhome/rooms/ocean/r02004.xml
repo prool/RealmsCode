@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="2004" Version="2.40a" Area="ocean">
+  <Name>Dignitary Stables</Name>
+  <ShortDescription>You are in the more exclusive stables of the visiting dignitaries.</ShortDescription>
+  <LongDescription>The various dignitaries who visit Kista prefer not to have their
+horses associated with the other riff-raff that come wandering into
+the town.  The facility here is more exclusive and the guards do not
+like commoners such as yourself poking their noses around here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">228</Mob>
+      <Mob Area="ocean" Num="1">228</Mob>
+      <Mob Area="ocean" Num="2">228</Mob>
+      <Mob Area="ocean" Num="3">229</Mob>
+      <Mob Area="ocean" Num="4">229</Mob>
+      <Mob Area="ocean" Num="5">228</Mob>
+      <Mob Area="ocean" Num="6">230</Mob>
+      <Mob Area="ocean" Num="7">230</Mob>
+      <Mob Area="ocean" Num="8">228</Mob>
+      <Mob Area="ocean" Num="9">229</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2003</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

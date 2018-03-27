@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="5474" Version="2.41a" Area="ocean">
+  <Name>Gates of Castle Rutger</Name>
+  <ShortDescription>You are outside the massive gates of Prince Rutger's Castle.</ShortDescription>
+  <LongDescription>There is a level lot with carts and wagons pulled up and waiting for their
+owners.  A small door, for use after dark, is beside the huge gate.  Farther
+north is an animal keep and stable.  On the west side of the wagon lot is a
+strange device:  Looks like a tubular slide to take you to the bottom of the
+mountain face so you won't have to travel down the road.</LongDescription>
+  
+  
+  
+  <Established>791663157</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>metal door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5473</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="slide">
+      <Keys/>
+      <Room Area="ocean">5475</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">4200</Room>
+      <Flags>
+        <Bit Num="17"/>
+      </Flags>
+    </Exit>
+    <Exit Name="metal door">
+      <Keys/>
+      <Room Area="ocean">4365</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

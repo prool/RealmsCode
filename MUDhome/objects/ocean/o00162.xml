@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="162" Area="ocean" Version="2.40">
+  <Name>branding iron</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>43</ShotsMax>
+  <ShotsCur>43</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>6</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">iron</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+  </Flags>
+  <Description>The iron brand is shaped like a letter S.</Description>
+  <Weight>3</Weight>
+  <Type>5</Type>
+  <SubType>club</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

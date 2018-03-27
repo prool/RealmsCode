@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2531" Version="2.40a" Area="ocean">
+  <Name>Myrr Lane</Name>
+  <ShortDescription>You are traveling on Myrr Lane, west of Magenta Avenue.</ShortDescription>
+  <LongDescription>There is an empty lot on the north side of the lane, but close to the edge
+of the street is a watchman's shack.  This empty lot is not the normal,
+overgrown-with-weeds lot you may be used to.  This is an EMPTY LOT.  
+There's nothing there but a black hole.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2532</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2010</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

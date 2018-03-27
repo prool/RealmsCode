@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="482" Version="2.40" Area="ocean">
+  <Name>Islandia Drive</Name>
+  <ShortDescription>You are walking along Islandia Drive, between the War Veteran's Historical
+Library on the north and the Bendine Aquarium and Marina on the south.</ShortDescription>
+  <LongDescription>The War Veteran's Historical Library is really of little importance to
+the common person, but a few historians and a couple of proud fighters might
+occasionlly stop by to do some research.  On the south side of the road
+is the Bendine Aquarium and Marina, where all sorts of strange and exotic
+creatures can be found.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">440</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">483</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

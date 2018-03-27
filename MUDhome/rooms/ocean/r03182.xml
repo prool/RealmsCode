@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3182" Version="2.40" Area="ocean">
+  <Name>Below High Sea Cliffs</Name>
+  <ShortDescription>You are in a strong current pulling you towards the sea cliffs.</ShortDescription>
+  <LongDescription>The water is decidely warmer than the water in the open sea, and actually
+feels quite invigorating.  Although the current is strong, you easily can
+swim against it.  The cliffs are even higher here, and seem impossible to
+climb.  The waves crash against great rocks at the base of the cliffs.</LongDescription>
+  
+  <Established>756113274</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">385</Mob>
+      <Mob Area="ocean" Num="1">385</Mob>
+      <Mob Area="ocean" Num="2">304</Mob>
+      <Mob Area="ocean" Num="3">293</Mob>
+      <Mob Area="ocean" Num="4">385</Mob>
+      <Mob Area="ocean" Num="5">304</Mob>
+      <Mob Area="ocean" Num="6">304</Mob>
+      <Mob Area="ocean" Num="7">304</Mob>
+      <Mob Area="ocean" Num="8">293</Mob>
+      <Mob Area="ocean" Num="9">293</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3181</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3183</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3184</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

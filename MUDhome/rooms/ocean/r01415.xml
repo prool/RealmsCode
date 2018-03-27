@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="1415" Version="2.40" Area="ocean">
+  <Name>Keslar's Den</Name>
+  <ShortDescription>You are in a den containing a desk and a single bookshelf.</ShortDescription>
+  <LongDescription>The Keslar den is used as a small meeting place where people can meet in
+privacy to conduct business.  There's a large desk in the exact center of
+the room and a table with a flask of brandy.  The books on the bookshelf
+appear to be just old ledgers showing the financial stability of the 
+family.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>bookself</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1413</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="bookself">
+      <Keys/>
+      <Room Area="ocean">1399</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

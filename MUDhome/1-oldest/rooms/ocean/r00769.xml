@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="769" Version="2.40" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are walking along Oceancrest Avenue, south of Wakarimasu Park.</ShortDescription>
+  <LongDescription>The Kobiyo Observatory, located to the north on the grounds of the 
+Wakarimasu Park, is one of the few scientific stations dedicated towards
+astronomy and astrophysics.  Very few people have time to deal with
+such trivialities in everyday life, but it is somewhat interesting to
+visit every so often.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">768</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">770</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

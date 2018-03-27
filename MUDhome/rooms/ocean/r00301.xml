@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="301" Version="2.40" Area="ocean">
+  <Name>Ogre's Play Pen</Name>
+  <ShortDescription>You have entered Ogre's fighting area for barbarians and fighters.</ShortDescription>
+  <LongDescription>Ogre's Play Pen appears to be a rather old but well kept building
+of stone and brick.  Many years have passed since the days of the
+legendary adventures of the two Brownhaven heros, Ogre the barbarian and
+his comrade in arms, the wise cleric Lorinin.  Now the tales of
+Ogre are mostly unknown. In his retirement, Ogre used his fortune
+to build a place for barbarians and fighters to play and practice.
+To the north, you see a sign for "Bashing Unlimited" and to the south
+another sign saying "Arena". </LongDescription>
+  
+  <Established>756024369</Established>
+  <Flags>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="shop">
+      <Keys/>
+      <Room Area="ocean">302</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="arena">
+      <Keys/>
+      <Room Area="ocean">304</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">755</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="warm-up">
+      <Keys/>
+      <Room Area="ocean">306</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

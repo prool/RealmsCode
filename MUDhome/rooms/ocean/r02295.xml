@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2295" Version="2.40" Area="ocean">
+  <Name>The Invisible Hand Training Room</Name>
+  <ShortDescription>You are in the Invisible Hand's premire training center for thieves.</ShortDescription>
+  <LongDescription>Congratulations on making it to the training room!  You may train here
+and advance to the next level.  However, when you are ready to go to level
+seven, you will have to find another training place.  Perhaps you should
+ask the little match girl if she knows where higher level thieves are
+supposed to train.</LongDescription>
+  <LowLevel>3</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1887</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

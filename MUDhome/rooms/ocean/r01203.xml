@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1203" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are walking along Rosecrest Street, next to the Khelleva Estate.</ShortDescription>
+  <LongDescription>The massive estate is extended for more than two city blocks to the south.
+There is a majestic mansion on the south side of the estate.  From this 
+vantage point, you can see the estate lies next to Khelleva Drive.  Not
+surprisingly, Khelleva Drive was built by the family to provide easy 
+access to the mansion; however, it was never expected to be a large road.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1176</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1202</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Room Num="3233" Version="2.40a" Area="ocean">
+  <Name>Tangled Thicket</Name>
+  <ShortDescription>You are wandering through a thicket, getting very lost.</ShortDescription>
+  <LongDescription>You can't tell which way you came from, nor which way you are going
+because every step you take is lost behind you.  It sure would be 
+nice to have a ranger in here.</LongDescription>
+  
+  <Established>756016984</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="15"/>
+    <Bit Num="18"/>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">402</Mob>
+      <Mob Area="ocean" Num="1">402</Mob>
+      <Mob Area="ocean" Num="2">402</Mob>
+      <Mob Area="ocean" Num="3">402</Mob>
+      <Mob Area="ocean" Num="4">402</Mob>
+      <Mob Area="ocean" Num="5">402</Mob>
+      <Mob Area="ocean" Num="6">404</Mob>
+      <Mob Area="ocean" Num="7">404</Mob>
+      <Mob Area="ocean" Num="8">402</Mob>
+      <Mob Area="ocean" Num="9">404</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3232</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3234</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3234</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

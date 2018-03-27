@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="2490" Version="2.40" Area="ocean">
+  <Name>Desolate Corridor</Name>
+  <ShortDescription>You are at the corner of the desolate cavern filled with dust and cobwebs.</ShortDescription>
+  <LongDescription>The dimly lit cavern doesn't appear to have supported any life of any kind
+for the past century or so.  The dust is so heavy, it's likely to cover up
+anything that might be lying around on the floor.  The hallway runs to
+the north and east.</LongDescription>
+  
+  <Established>728421311</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">428</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2491</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2489</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="5089" Version="2.40" Area="ocean">
+  <Name>Mage's Quarters</Name>
+  <ShortDescription>You are in the hallway outside the resident mage's quarters.</ShortDescription>
+  <LongDescription>When the Witch murdered the duke and his family, the mages who lived here
+tried to help, but the witch and her brother were just too powerful.
+Although they could not kill the mages, they were able to change their
+shapes and imprison them here in altered form.  If you stay here in the
+castle long enough, you will occasionally hear whispers and crying.  Be
+not afraid of them, but you cannot help them.  They are truly lost.</LongDescription>
+  
+  <Established>773560776</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5129</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="silver arch">
+      <Keys/>
+      <Room Area="ocean">5090</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gold arch">
+      <Keys/>
+      <Room Area="ocean">5091</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="mithrill arch">
+      <Keys/>
+      <Room Area="ocean">5092</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5154</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

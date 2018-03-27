@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="5319" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>Green foothills rise to the east, eventually ending at the great mountains.</ShortDescription>
+  <LongDescription>To the southwest is the hot and searing K'tral Desert, a forbidding buffer
+to the even worse badlands many kilometers to the south.  There is an old
+caravan trail through the K'tral, and occasionally the desert has swallowed
+a few caravans without a trace.  The caravan trail runs south of Prince
+Ragnar's splendid castle.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5318</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5320</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

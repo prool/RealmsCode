@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3649" Version="2.40" Area="ocean">
+  <Name>Dim Tunnel</Name>
+  <ShortDescription>You are in a dimly lighted tunnel near the castle's armory.</ShortDescription>
+  <LongDescription>There is nothing but blackness to the south.  You have come far enough
+north, that you must be close to the armory of Prince Ragnar.  This tunnel
+is wide enough to pull a cart through it.  Small animals and large insects
+infest this place, and seem to be at war with one another.  Looking through
+the crawlway, you see the armory.</LongDescription>
+  
+  <Established>764987887</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>crawlway</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3650</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3648</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="crawlway">
+      <Keys/>
+      <Room Area="ocean">3639</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

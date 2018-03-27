@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="3994" Version="2.40" Area="ocean">
+  <Name>Glass Bubble</Name>
+  <ShortDescription>You are in a magical glass bubble, deep under the Enchanted Forest.</ShortDescription>
+  <LongDescription>The bubble doesn't seem to have any distinguishing marks, but is a
+great round bubble of glass under the earth.   You are on a small ridge
+which runs around the inside perimeter of the bubble. It seems to spiral
+around the interior.  A very strong rush of air is going somewhere.</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3993</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3995</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4001</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4003</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

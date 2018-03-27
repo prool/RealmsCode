@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3029" Version="2.40a" Area="ocean">
+  <Name>Private Altar</Name>
+  <ShortDescription>This is the smaller but private altar to Maglubyet.</ShortDescription>
+  <LongDescription>Though not as large and ornate as the altar on the other side of the
+curtain, this one also has straps and an urn for collecting blood.  The
+urn here looks to made of gold studded with gems, and sparkles in the
+dancing candle light.  Pillows and furs line a niche in the wall, evidently
+a love nest for someone, and also high enough to see what happens at the 
+altar.  A great piece of smoky, amber glass covers one wall.</LongDescription>
+  
+  <Established>761563834</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">503</Mob>
+      <Mob Area="ocean" Num="1">503</Mob>
+      <Mob Area="ocean" Num="2">503</Mob>
+      <Mob Area="ocean" Num="3">504</Mob>
+      <Mob Area="ocean" Num="4">503</Mob>
+      <Mob Area="ocean" Num="5">510</Mob>
+      <Mob Area="ocean" Num="6">511</Mob>
+      <Mob Area="ocean" Num="7">509</Mob>
+      <Mob Area="ocean" Num="8">509</Mob>
+      <Mob Area="ocean" Num="9">506</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>curtain</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">564</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="curtain">
+      <Keys/>
+      <Room Area="ocean">3028</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

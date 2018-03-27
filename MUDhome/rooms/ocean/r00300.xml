@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="300" Version="2.40" Area="ocean">
+  <Name>The Shrine of Truth and Fairness</Name>
+  <ShortDescription>You have entered the Paladin's Shrine of Truth and Fairness.</ShortDescription>
+  <LongDescription>The path of the Paladin is a noble and honorable one.  Truth and fairness
+are the words the Paladin lives by.  In order to advance yourself to the
+rank of Protector, you must first show your worthiness by defeating an
+equally equiped Paladin of the rank you aspire to be.  Gallant Warriors
+should enter the green door to be promoted to Protector.  Protector 
+Warriors should enter the red door to be promoted to Protector, Second
+Class.  Finally, Protector, Second Class Paladins should enter the 
+white door to be promoted to the level of Protector, First Class.  Good
+luck, mighty warriors.  Advanced levels should find the Holy Order of the
+Red Rose on the east side of town.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">476</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="green door">
+      <Keys/>
+      <Room Area="ocean">287</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="red door">
+      <Keys/>
+      <Room Area="ocean">288</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="white door">
+      <Keys/>
+      <Room Area="ocean">289</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

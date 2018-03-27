@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="730" Version="2.40" Area="ocean">
+  <Name>Highland Avenue/Neilian Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Highland Avenue and Neilian Drive.</ShortDescription>
+  <LongDescription>Highland Avenue forms much of the eastern edge of the city.  The large
+road runs north and south through the intersection with Neiliand Drive,
+which runs west out of the intersection.  On the northwest corner of
+the road, you can see the omnimous Dragon's Citadel.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1350</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">729</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">731</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

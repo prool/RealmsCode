@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="944" Version="2.40a" Area="ocean">
+  <Name>West Hafnia Boulevard</Name>
+  <ShortDescription>You have walking along the main shopping district in Hafnia.</ShortDescription>
+  <LongDescription>The elves of Hafnia are known for their trading.  To the north, you
+see an armory.  To the south is a tavern for weary travelers to get
+a cold beer.  For the first time, you look into the sky and notice
+how clear it is.  Amazing how such a small community could thrive as
+it does.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">945</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">943</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">934</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tavern">
+      <Keys/>
+      <Room Area="ocean">911</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

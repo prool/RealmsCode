@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="5800" Version="2.40" Area="ocean">
+  <Name>Path to Saint Anne's Retreat</Name>
+  <ShortDescription>You are on the path between Saint Anne's and the Hafnia Mountain Road.</ShortDescription>
+  <LongDescription>A huge stone manor looms before you, almost a castle in size.  There are
+twin towers at either end, and you see lights and activity in the windows of
+the west tower.  The east tower is cold and dark in appearance.  Nearby is a
+bell tower and a sign says ring for admittance.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5434</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

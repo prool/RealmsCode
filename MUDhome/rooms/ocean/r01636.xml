@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<Room Num="1636" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive, east of Keslar Mountain.</ShortDescription>
+  <LongDescription>The strangely created mountain on top which Keslar Palace stands has long
+been covered in mystery.  The high and mighty wizards under the great
+archmage Keslar established the Palace some centuries ago by combining
+their powers to build themselves an impenitrable mountain fortress.  On
+the east side of the road is a large weapons and armor center, but geared
+towards the less wealthy people.  The entrance to the center is located off
+of Monument Avenue or Kafkan Way.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">441</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures>
+    <CrtRef Num="441" Area="ocean" Version="2.40a">
+      <Name>heavily armored thug</Name>
+      <Class>2</Class>
+      <Level>10</Level>
+      <Type>1</Type>
+      <Experience>400</Experience>
+      <Coins>
+        <Coin Num="2">799</Coin>
+      </Coins>
+      <Alignment>-100</Alignment>
+      <Stats>
+        <Stat Name="Strength">
+          <Current>200</Current>
+          <Max>200</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Dexterity">
+          <Current>200</Current>
+          <Max>200</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Constitution">
+          <Current>150</Current>
+          <Max>150</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Intelligence">
+          <Current>150</Current>
+          <Max>150</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Piety">
+          <Current>150</Current>
+          <Max>150</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Hp">
+          <Current>135</Current>
+          <Max>135</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Mp">
+          <Current>0</Current>
+          <Max>0</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+      </Stats>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="9"/>
+        <Bit Num="10"/>
+        <Bit Num="12"/>
+        <Bit Num="26"/>
+      </Flags>
+      <LastTimes>
+        <LastTime Num="3">
+          <Interval>0</Interval>
+          <LastTime>1206217195</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="4">
+          <Interval>0</Interval>
+          <LastTime>1206217195</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="6">
+          <Interval>0</Interval>
+          <LastTime>1206217195</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="8">
+          <Interval>55</Interval>
+          <LastTime>1206218038</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="41">
+          <Interval>0</Interval>
+          <LastTime>1206217195</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="100">
+          <Interval>50</Interval>
+          <LastTime>1206218070</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="101">
+          <Interval>32</Interval>
+          <LastTime>1206218051</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </LastTimes>
+      <Inventory/>
+    </CrtRef>
+  </Creatures>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1635</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1637</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="back door">
+      <Keys/>
+      <Room Area="ocean">1939</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="4206" Version="2.40a" Area="ocean">
+  <Name>Main Courtyard Entry</Name>
+  <ShortDescription>This is the entry to the Castle Rutger's main courtyard.</ShortDescription>
+  <LongDescription>directly west is the castle's gates through a great stone archway.  The main
+courtyard opens up to the east.  Over to the north you can see a tier of 
+seats and a group of noblemen and ladies in colorful silks.  Evidently the
+seats are for spectators of the troop assembly which takes place twice a 
+day.  Several knights in black armor and silver helmets are already here.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4239</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4240</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4238</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4203</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

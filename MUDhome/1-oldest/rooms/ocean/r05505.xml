@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="5505" Version="2.40" Area="ocean">
+  <Name>Hafnia Circle</Name>
+  <ShortDescription>You are on the eastern side of the circle drive around Hafnia.</ShortDescription>
+  <LongDescription>People whisper that there is a thieve's guild in one of the alleys near here.
+It might be true, since the city patrol has picked up a number of inept
+pickpockets in this area who appeared to be practicing.  They say the guild
+runs a school for pickpockets, and a more advanced school for burglers.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">948</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5506</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">906</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="670" Version="2.40" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are walking along Hofton Avenue, north of the Avatar Ruins.</ShortDescription>
+  <LongDescription>The City Walls on the north side of the road protect the city from the
+future, that being future attacks upon the city.  The Avatar Ruins, on the
+south side of the road, remind the city of the past and the various 
+destructions which occurs when compromises cannot be reached.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">669</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">671</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

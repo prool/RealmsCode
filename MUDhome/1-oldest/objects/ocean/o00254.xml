@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="254" Area="ocean" Version="2.40">
+  <Name>knight's shield</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>35</ShotsMax>
+  <ShotsCur>35</ShotsCur>
+  <Armor>26</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">shield</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+  </Flags>
+  <Description>You see an ornately designed shield of a knight from the Order of the Crown.</Description>
+  <Weight>5</Weight>
+  <Type>6</Type>
+  <SubType>shield</SubType>
+  <WearFlag>18</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,3 @@
+^WProperty Storage Flags^x
+ 1         View Log               Player can view property log
+

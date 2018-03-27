@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3901" Version="2.40a" Area="ocean">
+  <Name>Audience Chamber</Name>
+  <ShortDescription>You are in the main audience chamber of the elven shrine.</ShortDescription>
+  <LongDescription>To the east you see a great golden statue of Larethian surrounded by an
+immense ebony and silver altar.  Below the statue is a reflecting pool
+of an amber liquid, and beside the exquisitely carved statue there are
+banks of sweet smelling candles.  Looking north you see the wedding
+chapel.  An elegantly thick carpet covers the floor, and velvet drapes 
+hang on the walls, producing a very quiet ambience.</LongDescription>
+  
+  <Established>768591963</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3900</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3902</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3903</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

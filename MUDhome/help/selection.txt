@@ -1,0 +1,19 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  selection      |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This command allows you to see what a given monster has for sale. It will only
+work with certain monsters. After you have a selection from the monster, you may
+use the PURCHASE or BUY command to buy one of the items.
+
+You may also use the list command to see what a monster is selling.
+
+Example:
+: select i
+Korben the Instructor is currently selling:
+1) wooden key                75gp
+2) steel key                 150gp
+3) bronze key                300gp
+
+:
+

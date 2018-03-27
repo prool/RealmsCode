@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="762" Area="ocean" Version="2.40">
+  <Name>carrot juice elixer</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">3000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">juice</Key>
+    <Key Num="1">elixer</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+  </Flags>
+  <Description>You see an orange potion made from home-grown carrots and herbs.</Description>
+  <Weight>1</Weight>
+  <Type>7</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>50</MagicPower>
+  <InBag/>
+</Object>

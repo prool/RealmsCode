@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="4258" Version="2.40" Area="ocean">
+  <Name>Servant's Stairwell</Name>
+  <ShortDescription>You are at the top floor of the Tower Castle, in the servant's stairwell.</ShortDescription>
+  <LongDescription>Prince Rutger and his family maintain quarters on this floor, and this is
+the servant's entry to the residence.  There is a ladder which continues to
+the roof where the battlements are located.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4257</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="ladder">
+      <Keys/>
+      <Room Area="ocean">4259</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="2260" Version="2.44b" Area="ocean">
+  <Name>Catherine's Weapons Shop</Name>
+  <ShortDescription>You are in the storefront of Catherine's Weapons Shop.</ShortDescription>
+  <LongDescription>A variety of simple, easy to use weapons may be purchased here.  Most of
+the weapons Catherine sells are for self-defense, but most could render
+an opponent permanently disabled for life if used properly.  A list of
+the various weapons for sale is available for you to look at.</LongDescription>
+  <Flags><Bit Num="0"></Bit></Flags>
+  <Wander></Wander>
+  <Track><Direction>west</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1637</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

@@ -1,0 +1,10 @@
+Help on:
+	DMCLASS
+
+Sends a message as if you were a member of the specified class.
+
+Example:
+: dmcls lich Test
+--- (Lich) Dominus class sent, "Test".
+:
+

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="2843" Version="2.40a" Area="ocean">
+  <Name>Silvery Corridor</Name>
+  <ShortDescription>You are walking along a gold and silver corridor west of the lake.</ShortDescription>
+  <LongDescription>The majestic cavern is quite odd to see in such a strange place, especially
+with the lake full of sahuagin and trolls nearby.  Nevertheless, the hall
+exists, but doesn't travel very far.  To the west, you can see a massive
+door covered with even more gemstones and jewels.  There is a strange,
+diamond and emerald lock on the door.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>729220688</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>emerald door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2842</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="emerald door">
+      <Keys/>
+      <Room Area="ocean">2844</Room>
+      <Key>36</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

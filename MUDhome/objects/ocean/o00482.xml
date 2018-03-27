@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="482" Area="ocean" Version="2.40">
+  <Name>salamander hide</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Armor>61</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">6000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">hide</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="15"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Description>This armor is made from the slimy skin of a frost salamander.</Description>
+  <Weight>6</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

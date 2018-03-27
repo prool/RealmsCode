@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5430" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <LongDescription>There is an old watch tower on the north side of the road farther west.
+The road you are on continues to climb towards the east where there is a 
+lot of snow to be seen.  the road also drops swiftly to the west.  At times
+there are hairpin turns and it's impossible to see very far along the road
+when that occurs.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5429</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5431</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

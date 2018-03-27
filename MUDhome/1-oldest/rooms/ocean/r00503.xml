@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="503" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are walking along Rosecrest Street, north of the Cetacean Bridge.</ShortDescription>
+  <LongDescription>Rosecrest continues to the north and south from here, eventually running
+past the main entrance to Lyanden Castle about three blocks to the north.
+On to the south, you can see the Cetacean Bridge which crosses over the
+Lithium Inlet, leading out to the Nylandian Bay.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">502</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">504</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

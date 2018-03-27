@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="470" Version="2.40" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are walking along Darmanian Way, north of the Cathedral of Worldly Bliss.</ShortDescription>
+  <LongDescription>The Cathedral of Worldly Bliss is perhaps one of the most powerful factors
+in religious control in Oceancrest.  Much of the common law is dictated
+by the church, and the Cathedral forms much of that opinion.  The final
+authority comes from Lyanden Castle.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">469</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">436</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

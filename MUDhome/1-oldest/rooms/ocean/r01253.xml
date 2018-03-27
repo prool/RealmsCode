@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="1253" Version="2.40" Area="ocean">
+  <Name>Khelleva Drive</Name>
+  <ShortDescription>You are walking along Khelleva Drive, running past the Khelleva Mansion.</ShortDescription>
+  <LongDescription>The Khelleva Family, the virtual financial founders of the city of 
+Oceancrest, claimed this land for themselves many decades ago before
+the city was even planned out.  This road runs straight past their
+Mansion and the Khelleva Stables.  It runs northwest, eventually 
+hitting the Khelleva Circle.  To the southeast is the intersection of
+Lankshire Parkway and Overland Drive.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">1</Mob>
+      <Mob Area="ocean" Num="3">1</Mob>
+      <Mob Area="ocean" Num="4">1</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1239</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1252</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

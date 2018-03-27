@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5703" Version="2.40" Area="ocean">
+  <Name>Phexton Road</Name>
+  <ShortDescription>You are on the southern outskirts of a mountain village called Phexton.</ShortDescription>
+  <LongDescription>You can see a few large houses along the road on either side, and in the
+distance you see the village proper.  The houses you see appear to be made
+of native boulders with heavily thatched roofs, and are almost three stories
+tall.  These are the homes of of the Mountain Giants.  </LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5702</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5704</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

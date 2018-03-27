@@ -1,0 +1,15 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |     Help on:  group | party    |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This command allows you to see who or what all is following you and you are
+following. It also allows you to see the current hit points and magic points of
+everyone/everything in your group. If a group member is hurt, their hit points
+appear in red. If you have the know aura spell cast upon you, or if you're a
+paladin, you will see the aura of each member of your group as blue for good,
+normal for neutral, and red for evil. You will not see these colors if you
+have SET NOCOLOR.
+
+If you do not want your hit points and magic points displayed to your group,
+type SET NOSTATS.
+

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="298" Version="2.40" Area="ocean">
+  <Name>Distillery Office</Name>
+  <ShortDescription>You are in the foreman's office for the distillery.</ShortDescription>
+  <LongDescription>The smell of rum is almost strong enough to give you a buzz by itself.
+The office is small, with a great oaken desk and a broken down couch.
+A glass window looks out onto the floor of the distillery, where you see
+great vats and a number of workers going about the business of making
+rum.  A sign on the door says, "If you're not dwarven, don't bother to
+apply for work."</LongDescription>
+  
+  <Established>762045366</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">497</Mob>
+      <Mob Area="ocean" Num="1">497</Mob>
+      <Mob Area="ocean" Num="2">497</Mob>
+      <Mob Area="ocean" Num="3">497</Mob>
+      <Mob Area="ocean" Num="4">582</Mob>
+      <Mob Area="ocean" Num="5">515</Mob>
+      <Mob Area="ocean" Num="6">515</Mob>
+      <Mob Area="ocean" Num="7">515</Mob>
+      <Mob Area="ocean" Num="8">497</Mob>
+      <Mob Area="ocean" Num="9">497</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">498</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">356</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1282" Version="2.40" Area="ocean">
+  <Name>Cyclops Cavern</Name>
+  <ShortDescription>You have fallen into the den of the dreaded Cyclops.</ShortDescription>
+  <LongDescription>The cyclops is a deadly giant with only one eye.  He feeds on human
+flesh.  He has burrowed under the crypt and broke through some of
+the paths to lure unsuspecting victims.  The room you are in is huge
+and there's priceless treasures all around.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>259200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">161</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1280</Room>
+      <Flags>
+        <Bit Num="8"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1281</Room>
+      <Flags>
+        <Bit Num="8"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

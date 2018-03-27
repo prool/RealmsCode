@@ -1,0 +1,27 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  Death Knight       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Prime Requisites: Strength, Piety
+Compatible Races: Cambion, Dark-Elf, Goblin, Half-Elf, Half-Giant,
+     Half-Orc, Human, Kataran, Kobold, Minotaur, Ogre, Orc, Tiefling, Troll
+
+A fearsome warrior augmented by powerful necromantic magics, a death knight
+derives most of his demonic power directly from his evil god. The mission
+of the death knight is the systematic and ordered pain and suffering of all
+in his path. A death knight can be so evil as to drain the life from his
+enemy when he attacks him. If he performs a blood sacrifice prior to
+battle, he may infuse his dark soulless body with the drained life energies
+of his victims. A death knight may pray to infuse  his body with evil, in
+order to do more damage in attacks and also raising him strength for a
+time. This evil is so destructive, in fact, that very powerful death
+knights are able to touch their enemies and channel it into them, doing
+extreme damage. Death knights also show their excellent combat abilities by
+their ability to kick their victims once they reach enough experience to do
+so. The nemesis of the death knight is the paladin, the warrior of light.
+The Death Knight is so strong in his evil faith that he may renounce a
+Paladin to do harm. Paladins are attacked on sight, as no quarter can be
+given to the just and merciful.
+
+Abilities: Pray, Bloodsacrifice, Harm, Kick, Renounce
+

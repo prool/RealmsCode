@@ -1,0 +1,8 @@
+Help on DM command:
+	READMAIL
+
+Allows the DM to read another's mudmail.
+
+: *read min
+Min currently has no mudmail.
+

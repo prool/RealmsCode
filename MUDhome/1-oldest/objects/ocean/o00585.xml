@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="585" Area="ocean" Version="2.40">
+  <Name>rendering vat</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>20</ShotsMax>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">vat</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="6"/>
+    <Bit Num="17"/>
+    <Bit Num="25"/>
+  </Flags>
+  <Description>You see a huge container of lye.  Please don't put anything in it.</Description>
+  <Weight>800</Weight>
+  <Type>10</Type>
+  <InBag/>
+</Object>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="86" Version="2.40" Area="ocean">
+  <Name>Plasnelt Road</Name>
+  <ShortDescription>You're walking along Plasnelt Road. </ShortDescription>
+  <LongDescription>The road continues east and west.  Not far to the east you can see the
+intersection with Main Street.  On the north side of the road there is
+a very large building, which seems to be some sort of arena.  A sign
+says the entrance is on Main Street.  Sure is a lot of noise in there.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">87</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">85</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="641" Version="2.41a" Area="ocean">
+  <Name>Harvest Circle</Name>
+  <ShortDescription>You are traveling along the western rim of the fantastic Harvest Circle.</ShortDescription>
+  <LongDescription>The Harvest Circle is the home to the annual Harvest Day Festival, to 
+which all the townspeople are invited.  The festival, which lasts for many
+days, celebrates the past year's harvest and a toast to the future.  The
+large farms to the south benefit the most from the publicity.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">642</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">639</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">721</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

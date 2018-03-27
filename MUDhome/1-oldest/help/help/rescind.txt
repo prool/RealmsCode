@@ -1,0 +1,7 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  rescind         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Rescind allows you to leave an organization that you have previously
+joined with the pledge command. The penalties are severe, so think long
+and hard about your decision.

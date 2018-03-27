@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Room Num="2951" Version="2.40" Area="ocean">
+  <Name>Hollow Log</Name>
+  <ShortDescription>You are inside a hollow log, perhaps twenty meters in length.</ShortDescription>
+  <LongDescription>The west end of the log is the small end, and the entrance is overgrown
+with heavy brush.  The eastern end is open, and a large garden can be
+seen in that direction.  Small animals have made thier homes in here, and
+your passage sends them scurrying toward the dark end of the log.</LongDescription>
+  
+  <Established>760437896</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

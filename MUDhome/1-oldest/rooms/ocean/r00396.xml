@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="396" Version="2.40" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are on Hofton Avenue, which runs parallel to the City Walls.</ShortDescription>
+  <LongDescription>The northern City Walls are quite impressive, standing more than ten
+meters high at some places, and higher at others.  The wall was designed
+to keep out invading hordes of barbarians and other aggressive foes. 
+After the walls were built, no attack on Oceancrest has been successful.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">248</Mob>
+      <Mob Area="ocean" Num="1">26</Mob>
+      <Mob Area="ocean" Num="2">210</Mob>
+      <Mob Area="ocean" Num="3">242</Mob>
+      <Mob Area="ocean" Num="4">247</Mob>
+      <Mob Area="ocean" Num="5">28</Mob>
+      <Mob Area="ocean" Num="6">43</Mob>
+      <Mob Area="ocean" Num="7">267</Mob>
+      <Mob Area="ocean" Num="8">153</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1300</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">397</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

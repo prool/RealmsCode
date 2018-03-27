@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5702" Version="2.40" Area="ocean">
+  <Name>Phexton Road</Name>
+  <ShortDescription>You are on a dirt road near the Mountian Giant's Phexton village. </ShortDescription>
+  <LongDescription>the giants who live in the village are peaceful, and welcome travelers
+who can bring them news of the outside world.  They aren't especially 
+bright, but they do have a thriving little community and send many of
+their young people to Oceancrest to learn the ways of other races.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5701</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5703</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

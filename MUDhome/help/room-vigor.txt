@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |   Help on:  room-vigor spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 8
+
+Room-vigor is a variation of the vigor spell, but can only be cast by clerics.
+It effectively casts a vigor spell on every person in the room, healing them
+slightly. The MP cost of the spell is the same regardless of the number of
+people in the room, so it is more effective when cast on large groups of people.
+
+Syntax:
+cast room-vigor
+

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="3812" Version="2.40" Area="ocean">
+  <Name>Puppet Show</Name>
+  <ShortDescription>You have entered the carnival's puppet show.</ShortDescription>
+  <LongDescription>The puppet show is a gathering place for young ones of all races.  You can
+see puppeteers entertaining enthralled kids, while their parents update
+one another on the goings on in Oceancrest.  A little to the west, you can
+hear the sounds of snake charmer's flutes.  The midway entrance is north
+of here.</LongDescription>
+  
+  <Established>765770108</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">575</Mob>
+      <Mob Area="ocean" Num="1">576</Mob>
+      <Mob Area="ocean" Num="2">577</Mob>
+      <Mob Area="ocean" Num="3">578</Mob>
+      <Mob Area="ocean" Num="4">579</Mob>
+      <Mob Area="ocean" Num="5">580</Mob>
+      <Mob Area="ocean" Num="6">576</Mob>
+      <Mob Area="ocean" Num="7">575</Mob>
+      <Mob Area="ocean" Num="8">578</Mob>
+      <Mob Area="ocean" Num="9">579</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">574</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3811</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3801</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

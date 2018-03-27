@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  zap spell        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 3
+School:  Evocation
+Domain:  Destruction
+
+This is the lowest spell in the electricity that zaps your enemies into
+unconciousness. The shock to the brain and the nervous system is often
+unexpected, so meeting targets resistant to lightning is not common.
+
+Syntax:
+cast zap <target>
+

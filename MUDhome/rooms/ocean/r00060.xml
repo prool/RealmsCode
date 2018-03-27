@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="60" Version="2.40" Area="ocean">
+  <Name>Wall Road West</Name>
+  <ShortDescription>Wall Road West continues to the north and south.</ShortDescription>
+  <LongDescription>High overhead, there is a copper dragon and rider circling in preparation 
+for landing at the pits, which is northeast of here.  The high wall on the
+west side blocks any view in that direction, but you know there are low
+rolling hills that way, which eventually rise to the Nartiz Mountain Range.
+On the east side of the road there is a low fence enclosing the Animal
+Training Compound.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">52</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">70</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,100 @@
+^WRoom Flags^x
+ 1         Shoppe                 You can also use the trapexit to set the
+                                  storage room, otherwise it defaults to this
+                                  room + 1
+ 2         Dump                   Dropped items recycled for 5gp
+ 3         Training               
+ 4         Training               
+ 5         Training               
+ 6         Training               
+ 7         Training               
+ 8         ^yUnused^x
+ 9         DarkAlways             Always naturally dark
+ 10        DarkNight              Naturally dark at night
+ 11        PostOffice             Players can send/read mail here
+ 12        NoPkill                Safe room, no playerkilling
+ 13        NoPortTo               Cannot teleport to this room
+ 14        HealFast               Heal faster in this room
+ 15        OnePly                 1-player only inside
+ 16        TwoPly                 2-players only inside
+ 17        ThreePly               3-players only inside
+ 18        NoMagic                No magic will work here
+ 19        PermTracks             Permanent tracks
+ 20        Earth                  Earth realm
+ 21        Air                    Air realm
+ 22        Fire                   Fire realm
+ 23        Water                  Water realm
+ 24        GrpWander              Player-dependent monster wanders
+ 25        PHarm                  harmful room
+ 26        PlyToxic               poisonous gas
+ 27        PlyMPDrain             mana draining
+ 28        PlyStun                stunning
+ 29        NoSummonOut            can not be summon out
+ 30        CanPledge              can pledge to clans here
+ 31        CanRescind             can rescind from clans here
+ 32        NoPotion               potions will not work
+ 33        Magic+                 magical bonus room
+ 34        NoLog                  Player will relog in room 1
+ 35        -Recycle-              
+ 36        Indoors                players won't hear weather messages,
+                                  darkmetal is safe
+ 37        Jail                   
+ 38        NoCastPort             teleport cannot be cast here
+ 39        Lottery                Can buy lottery ticket; must set Shoppe flag
+ 40        DesertHarm             Heat damage during the day, cold damage at night
+ 41        BuyStrg                can purchase storage rooms here
+ 42        StrgRm                 is a storage room
+ 43        NoClair                cannot be claired in this room
+ 44        NoFlee                 cannot flee from this room
+ 45        RH:Vines               vines try to strangle you (druids immune)
+ 46        CanShoplift            you can attempt to shoplift
+ 47        Forest                 room is forest
+ 48        Ethereal               room is ethereal
+ 49        OppRealm+              
+ 50        Pawn                   can sell items
+ 51        RH:IcyWater            icy water damage
+ 52        NoTrackTo              other players cannot track to this room
+ 53        DropDestroy            environment destroys dropped items
+ 54        NoSummonTo             cannot summon anyone to this room
+ 55        NoTrackOut             cannot track out of this room
+ 56        Realm+                 
+ 57        OutlawSafe             outlaws may not be killed, are damaged by lightning
+ 58        Bank                   can perform bank transactions
+ 59        ATM                    magic money machine - withdraw and balance
+                                  only: used mainly for jails to jail out
+ 60        Casino                 (not coded yet)
+ 61        Guild:OpenAccess       
+ 62        NoRecall               Word of recall does not work
+ 63        LogToTrapExt           Player will relog into room specified by
+                                  trap exit
+ 64        HardMove               Hard to move from room
+ 65        Electricity            Electricity realm
+ 66        Cold                   Cold realm
+ 67        HardFlee               Hard to flee from this room
+ 68        NoMist                 Mists cannot enter
+ 69        DisperseMist           Mists will be forced to unmist
+ 70        Bounty                 can declare a bounty here
+ 71        CanBuildShop           can build a shop here
+ 72        MagicDark              magically dark
+ 73        Underwater             
+ 74        NoDodge                cannot dodge here
+ 75        Aramon                 
+ 76        Ceris                  
+ 77        Enoch                  
+ 78        Gradius                
+ 79        Ares                   
+ 80        Kamira                 
+ 81        Jakar                  
+ 82        Linothan               
+ 83        Mara                   
+ 84        Arachnus               
+ 85        Underground            players won't hear weather messages,
+                                  darkmetal is safe
+ 86        CanBuildGldHall        can build a guildhall here
+ 87        WasBuildGldHall        a guildhall has been built here
+ 88        RH:Archers             Elven archers
+ 89        RH:Moss                Deadly underdark moss
+ 90        WasBuildShop           a shop has been built here
+ 91        Construction           room is under construction
+ 92        Typo                   a typo was found here
+

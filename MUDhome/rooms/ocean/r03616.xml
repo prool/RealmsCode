@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3616" Version="2.40" Area="ocean">
+  <Name>Main Courtyard Northwest</Name>
+  <ShortDescription>You are in the northwest corner of the main courtyard.</ShortDescription>
+  <LongDescription>The interior wall of the castle is covered with a rambling grape vine which
+was growing here when the castle was built centuries ago.  Some of the vines
+are as thick as a man's arm, providing a good handhold for anyone adventure-
+some enough to want to climb them.  A small booth has been set up here, and
+a bright canopy flies above it.  The vendor seems to be selling charms 
+against evil spirits and ghosts.  A small sign says he will also buy your 
+charms and amulets.</LongDescription>
+  
+  <Established>762645253</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3607</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3617</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

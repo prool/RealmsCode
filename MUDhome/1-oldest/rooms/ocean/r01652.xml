@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1652" Version="2.40a" Area="ocean">
+  <Name>Monument Avenue</Name>
+  <ShortDescription>You are on Monument Avenue, north of the Chateau Richland Winery.</ShortDescription>
+  <LongDescription>The Chateau Richland Winery is divided into three major sections, the
+front entrance, the winery itself and the fermenting buildings.  All are
+within the same city block, with the Grape Orchard on the other side of
+the road.  The full-bodied wines the Chateau Richland Winery makes 
+usually sell for much more than most people can make in a week.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1651</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1653</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

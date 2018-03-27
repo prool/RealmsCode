@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="3882" Version="2.41a" Area="ocean">
+  <Name>Stone Quay</Name>
+  <ShortDescription>You are on a small, stone landing looking over an ancient aquaduct.</ShortDescription>
+  <LongDescription>A stone arch rises overhead, and several tunnels exit from the landing.
+close below is a cold stream of water that enters via the old aquaduct.
+Water condenses on the ceiling and drips down your back, making you shiver.
+To the east you see some stairs leading up and down into the temple, but
+great tumbled stones block any access to them.</LongDescription>
+  
+  <Established>769069354</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>aquaduct</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="aquaduct">
+      <Keys/>
+      <Room Area="ocean">3881</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stairs">
+      <Keys/>
+      <Room Area="ocean">3883</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="tunnel">
+      <Keys/>
+      <Room Area="ocean">3886</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tunnel">
+      <Keys/>
+      <Room Area="ocean">3884</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tunnel">
+      <Keys/>
+      <Room Area="ocean">3885</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

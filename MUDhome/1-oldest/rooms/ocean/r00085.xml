@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="85" Version="2.40" Area="ocean">
+  <Name>Plasnelt Road</Name>
+  <ShortDescription>Plasnelt Road continues to the east and west.</ShortDescription>
+  <LongDescription>There are a number of small shops along here on the south side of the
+road.  On the north side is an impressive building where a lot of noise
+can be heard.  There are posters plastered all over the building's wall,
+and it looks like you could challenge a gladitor, if you wanted to.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">86</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">84</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3305" Version="2.40" Area="ocean">
+  <Name>Against the Wall</Name>
+  
+  <Established>759103540</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3304</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3308</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3306</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

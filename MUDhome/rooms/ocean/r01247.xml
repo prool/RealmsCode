@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1247" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are walking along Lankshire Parkway, east of Maria's Market.</ShortDescription>
+  <LongDescription>There is a small, open-air market to the west where you can purchase
+a number of small commodities, such as wheat, grain, corn, some 
+fruits and vegetables, and some meat products.  The large market is
+run by Maria, who also buys grains and other supplies that might
+be used elsewhere.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1246</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1248</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

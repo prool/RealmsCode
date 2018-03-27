@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="2552" Version="2.40" Area="ocean">
+  <Name>Great Observatory Entry</Name>
+  <ShortDescription>You stand inside the entrance of the greatest Observatory ever built.</ShortDescription>
+  <LongDescription>Great columns of white marble line the hallway you see to the north.
+On either side of this entry there are small offices and public information
+rooms.  There is also a shop where you may purchase charts and other items
+related to the work of this wonderful place.  The exit is south.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2022</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

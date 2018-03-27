@@ -1,0 +1,15 @@
+^WSpells:^x
+    clairvoyance
+    comprehend-languages
+    detect-hidden
+    detect-invisibility
+    detect-magic
+    farsight
+    fortune
+    know-aura
+    tongues
+    true-sight
+
+See also:
+    HELP SCHOOLS
+

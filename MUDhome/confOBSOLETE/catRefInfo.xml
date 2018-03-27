@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<CatRefInfo default="ocean">
+	<Info>
+		<Area>ocean</Area>
+		<Limbo>50</Limbo>
+		<Recall>1</Recall>
+		<TeleportWeight>4000</TeleportWeight>
+		<TeleportZone>2</TeleportZone>
+		<TrackZone>2</TrackZone>
+	</Info>
+	<Info id="1">
+		<Area>area</Area>
+		<Parent>ocean</Parent>
+		<TeleportWeight>15000</TeleportWeight>
+	</Info>
+	<Info id="2">
+		<Area>area</Area>
+		<Parent>ocean</Parent>
+		<TeleportWeight>1000</TeleportWeight>
+	</Info>
+</CatRefInfo>

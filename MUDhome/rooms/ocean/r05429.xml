@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5429" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road/Phexton Road</Name>
+  <ShortDescription>This is a Y intersection between Hafnia Mountain Road and Phexton Road.</ShortDescription>
+  <LongDescription>Phexton Road continues to the north while Hafnia Mountain Road heads east
+and southwest.  In the distance to to the southwest you can see Phexton
+Bridge.  The elven city of Hafnia is still a long way to the east.  Phexton
+is a small mountain community north of here.  An old watch tower stands 
+silent guard nearby.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5428</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5430</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5700</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

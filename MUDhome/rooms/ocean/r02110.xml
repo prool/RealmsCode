@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2110" Version="2.40" Area="ocean">
+  <Name>Mehetable's Golden Apple Tree</Name>
+  <ShortDescription>You are standing beneath a golden apple tree, in front of Mehetable's hut.</ShortDescription>
+  <LongDescription>The tree rustles in the cool breeze, and you see a single, golden apple
+sway on its branch near the center of the limbs.  The tree is in robust
+health, and looks like it could produce golden apples for a good many years.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>yard</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="yard">
+      <Keys/>
+      <Room Area="ocean">2116</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hut">
+      <Keys/>
+      <Room Area="ocean">2106</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

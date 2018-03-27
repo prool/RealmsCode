@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="1898" Version="2.40" Area="ocean">
+  <Name>Coffin</Name>
+  <ShortDescription>It's very dark in here.  You are in a large coffin somewhere.</ShortDescription>
+  <LongDescription>Being so dark, it's unlikely you will actually see anything even if
+you happen to have a torch.  By the way, what are you doing in a coffin?
+Most people are dead if they find themselves in here.  To get out,
+try opening the casket.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>casket</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="casket">
+      <Keys/>
+      <Room Area="ocean">1899</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

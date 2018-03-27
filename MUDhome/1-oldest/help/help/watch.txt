@@ -1,0 +1,20 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  watch          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The watch command allows you to watch over players in your group who take
+damage. You have a "watch list". The watch command allows you to add people to
+this list. You will see damage reports for those on your list. You must disable
+group damage broadcasts ("set nogroup") in order to use this feature. Adding
+someone to your watch list when they are already added will remove them, much
+in the same manner as the IGNORE, GAG, and REFUSE commands. Typing watch by
+itself will list everyone you are watching. Logging off/on will clear your watch
+list.
+
+Example:
+: watch bob
+Bob is now added to your watch list.
+: watch
+You are watching: Bob.
+:
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="950" Version="2.41a" Area="ocean">
+  <Name>Plankway to the Widow Maker</Name>
+  <ShortDescription>You are on the boarding plankway leading to the Widow Maker's main deck.</ShortDescription>
+  <LongDescription>The dangerous pirates and their trusty sidekicks don't much care for
+land lovers aboard their ship, and will probably make you walk the plank
+for coming aboard their ship.  However, pirates are pretty stupid and
+can probably be bribed to leave you alone.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">951</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">351</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

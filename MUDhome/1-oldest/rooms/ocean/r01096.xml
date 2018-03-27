@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1096" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive/Marina Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Marina Way and Nagaritha Drive.</ShortDescription>
+  <LongDescription>Marina Way starts off to the north from here and heads towards the 
+center of town.  Nagaritha Drive runs east to west, bringing you 
+across the entire town from City Wall to City Wall.  There is a large
+shopping plaza to the south, but the entrance to the center appears
+to be on a different street.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">267</Mob>
+      <Mob Area="ocean" Num="1">267</Mob>
+      <Mob Area="ocean" Num="2">267</Mob>
+      <Mob Area="ocean" Num="3">267</Mob>
+      <Mob Area="ocean" Num="4">267</Mob>
+      <Mob Area="ocean" Num="5">267</Mob>
+      <Mob Area="ocean" Num="6">267</Mob>
+      <Mob Area="ocean" Num="7">267</Mob>
+      <Mob Area="ocean" Num="8">267</Mob>
+      <Mob Area="ocean" Num="9">267</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1111</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1095</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1097</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

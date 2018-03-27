@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="760" Version="2.40" Area="ocean">
+  <Name>Oceancrest Circle</Name>
+  <ShortDescription>You are walking along the southern rim of the Oceancrest Circle.</ShortDescription>
+  <LongDescription>The Oceancrest Circle welcomes people to the city of Oceancrest.  The
+entrance to this magnificent city is located to the east of the circle,
+about a block away.  Wakeforest Drive continues to the south, running
+through the poorer parts of town.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">759</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">758</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">761</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

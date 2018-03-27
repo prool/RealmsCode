@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="1986" Version="2.40" Area="ocean">
+  <Name>Evander's Swords</Name>
+  <ShortDescription>You are in the swordsmith's shope in Evander's World of Weapons center.</ShortDescription>
+  <LongDescription>This large shop stocks all kinds of swords and weapons of all kind.  The
+selection seems pretty good, but the weapons are not of that great of
+quality.  However, if you just need a simple long sword because the one
+you have broke, this is the place to go.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1980</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

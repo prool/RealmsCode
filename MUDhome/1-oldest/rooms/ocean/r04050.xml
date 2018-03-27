@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="4050" Version="2.40" Area="ocean">
+  <Name>Charikawa's House of healing</Name>
+  <ShortDescription>You are in a healing place where you see a table with leather straps on it.</ShortDescription>
+  <LongDescription>On the wall behind the table are a number of surgeon's tools, and a few
+carpenter's tools.  On the wall is a certificate stating that Charikawa
+graduated from the School of Astrology at Iilandi University in the city
+of Oceancrest.  Charikawa thinks of himself as a surgeon.</LongDescription>
+  
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">171</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

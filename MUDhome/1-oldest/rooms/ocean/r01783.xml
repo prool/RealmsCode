@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="1783" Version="2.47e" Area="ocean">
+  <Name>Allakaren Circle</Name>
+  <ShortDescription>You are on the eastern ridge of the Allakaren Circle in Oceancrest.</ShortDescription>
+  <LongDescription>The mysterious Tree of Life lives in the center of Allakaren Circle, and
+has existed at this point for as long as anyone can remember.  It was
+thought that the Pharaoh Allakaren once planted the tree and fed it the
+blood of his wives when they died.  Whether or not this is true remains
+to be seen as no blood has been spilled on the tree for centuries.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>southwest</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="northwest"><Keys></Keys><Target><Room Area="ocean">1724</Room></Target><Effects></Effects></Exit><Exit Name="southwest"><Keys></Keys><Target><Room Area="ocean">1725</Room></Target><Effects></Effects></Exit><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">1782</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

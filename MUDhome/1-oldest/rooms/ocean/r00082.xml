@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="82" Version="2.40" Area="ocean">
+  <Name>Plasnelt Road</Name>
+  <ShortDescription>Plasnelt Road continues to the east and west.</ShortDescription>
+  <LongDescription>A very ornate gate set in a tall, stone wall partially hides a mansion
+on the north side of Plasnelt Road.  Just inside the gate there is a
+pair of guards, each wearing a crimson coat and a high, fur hat.  They
+stand stiffly, as if made of wood.  A flag snaps in the breeze just
+above the guard station at the gate.  A general store is on the south
+side of the road.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">81</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">83</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">182</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

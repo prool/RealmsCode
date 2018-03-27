@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="523" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>You are walking along Marina Way, running along the coastline of the beach.</ShortDescription>
+  <LongDescription>Although there is not much of a beach, you can look over the short cliffs
+into the crystal blue waters of the Nylandian Bay.  Marina Way swings 
+around the rocks and mineral buildups around the west and south sides of
+the road, eventually leading to Lelion Way or Marina Circle.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">524</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">522</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

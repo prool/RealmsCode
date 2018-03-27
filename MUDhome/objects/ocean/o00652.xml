@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="652" Area="ocean" Version="2.40">
+  <Name>mugger's mask</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Armor>17</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">300</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">mask</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="19"/>
+    <Bit Num="20"/>
+    <Bit Num="27"/>
+  </Flags>
+  <Description>The mugger who once owned this mask was a half-giant, so its very big.</Description>
+  <UseOutput>So now we look for a dark alley to hide in?</UseOutput>
+  <Weight>3</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>19</WearFlag>
+  <InBag/>
+</Object>

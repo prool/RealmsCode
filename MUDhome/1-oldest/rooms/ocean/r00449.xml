@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="449" Version="2.40" Area="ocean">
+  <Name>Adlermann Way</Name>
+  <ShortDescription>You are on Adlerman Way, just west of the Bendine Aquarium and Marina.</ShortDescription>
+  <LongDescription>The large Bendine Aquarium and Marina houses some of the most unique
+species of animals in the world.  However, many of them are also very
+dangerous and perhaps deadly.  On the west side of the road is the west
+City Wall, which runs parallel to Adlermann Way.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">448</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">450</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

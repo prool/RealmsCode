@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<Room Num="3038" Version="2.40" Area="ocean">
+  <Name>Drow Elves Quarters</Name>
+  <ShortDescription>You are in a room of velvet darkness.  But you are not alone.</ShortDescription>
+  <LongDescription>Along the wall are several beds and small footlockers, while over in the
+corner is a small shrine which you recognize as being dedicated to the
+drow goddess Loth.  You ponder the meaning of drow elves in a goblin shrine.
+Ah.  Now you remember the rumors of an alliance between dark elves and the
+goblins.  It looks like there is more truth to that rumor than people want
+to believe.  You need to get this information to the authorities in Ocean-
+crest.  That is, if you can get out of here alive.</LongDescription>
+  
+  <Established>761532822</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">52</Mob>
+      <Mob Area="ocean" Num="1">52</Mob>
+      <Mob Area="ocean" Num="2">52</Mob>
+      <Mob Area="ocean" Num="3">52</Mob>
+      <Mob Area="ocean" Num="4">52</Mob>
+      <Mob Area="ocean" Num="5">52</Mob>
+      <Mob Area="ocean" Num="6">52</Mob>
+      <Mob Area="ocean" Num="7">52</Mob>
+      <Mob Area="ocean" Num="8">52</Mob>
+      <Mob Area="ocean" Num="9">52</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">52</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">52</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">52</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3035</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

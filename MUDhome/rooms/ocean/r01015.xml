@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1015" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>You are on Main Street, which travels north and south from here.</ShortDescription>
+  <LongDescription>The larger portion of Darby Reynold's Shipyard is located to the west
+of Main Street here.  This large drydock is where most of the ships are
+constructed.  On the east is an advertising shop owned by Margaret 
+O'Conner.  The sign above the shop is decorated in ornate silks with
+the wording "Magnificent Banners".  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1014</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1016</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

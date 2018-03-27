@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2513" Version="2.40a" Area="ocean">
+  <Name>Kista Avenue</Name>
+  <ShortDescription>You are at the northern checkpoint for the city of Kista, on Kista Avenue.</ShortDescription>
+  <LongDescription>Travelers must present their papers whenever they enter or leave the grand
+city of Kista.  Their is a tax for all but true scholars, since this city
+was built as a repository for knowledge.  Scholars are welcome to stay and
+study, but others must pay a toll if they are simply visiting or stopping
+for the night.  The gate is immediately north of here.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2001</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2009</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="1725" Version="2.47i" Area="ocean">
+  <Name>Allakaren Circle</Name>
+  <ShortDescription>You are on the southern rim of the mysterious Allakaren Circle.</ShortDescription>
+  <LongDescription>The Allakaren Circle houses the Tree of Life, or so the mystics like to
+call the large tree which has grown at the center of this circle for 
+ages beyond that which can be remembered.  The Tree is guarded by a light
+wire fence running around the Circle.  It was believed to be the tree of
+the Pharaoh Allakaren, after which the Circle is named.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>south</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="northeast"><Keys></Keys><Target><Room Area="ocean">1783</Room></Target><Effects></Effects></Exit><Exit Name="northwest"><Keys></Keys><Target><Room Area="ocean">1785</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1726</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

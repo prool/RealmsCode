@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1198" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive/Kafkan Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Kafkan Way and Leviathan Drive.</ShortDescription>
+  <LongDescription>On the southwest corner of this intersection, you can see the large 
+castle known as Keslar's Palace standing high on the ridge above.  The
+entrance to the palace consists of a narrow, winding road up the hill
+on Kafkan Way.  Leviathan Drive continues to the north and south, 
+intersecting Kafkan Way, running east to west.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1197</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1199</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1635</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1766</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

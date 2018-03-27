@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="912" Version="2.40" Area="ocean">
+  <Name>Strumpet's Bedchambers</Name>
+  <ShortDescription>You are in a back room behind One Eyed Jack's.</ShortDescription>
+  <LongDescription>People wander in every now and then.  I think you can figure out what
+happens in here.  The room is kept fairly tidy considering the amount
+of traffic in and out of this room.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">77</Mob>
+      <Mob Area="ocean" Num="1">77</Mob>
+      <Mob Area="ocean" Num="2">77</Mob>
+      <Mob Area="ocean" Num="3">77</Mob>
+      <Mob Area="ocean" Num="4">77</Mob>
+      <Mob Area="ocean" Num="5">77</Mob>
+      <Mob Area="ocean" Num="6">77</Mob>
+      <Mob Area="ocean" Num="7">77</Mob>
+      <Mob Area="ocean" Num="8">77</Mob>
+      <Mob Area="ocean" Num="9">77</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">913</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="trapdoor">
+      <Keys/>
+      <Room Area="ocean">900</Room>
+      <Key>14</Key>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+        <Bit Num="7"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

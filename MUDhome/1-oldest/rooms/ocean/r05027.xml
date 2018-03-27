@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="5027" Version="2.40" Area="ocean">
+  <Name>Above the Rain Clouds</Name>
+  <ShortDescription>You are flying above dark rain clouds.  200.n1.e0.s0.w4</ShortDescription>
+  <LongDescription>A small hole in the clouds allows you to see the ground below, but it's
+scudding fast, and it may disappear soon.  The dark clouds are starting 
+to look even darker to the west.</LongDescription>
+  
+  <Established>772228222</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5029</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5024</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5028</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

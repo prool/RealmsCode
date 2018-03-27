@@ -169,7 +169,11 @@ namespace xml {
 
     int saveFile(const char * filename, xmlDocPtr cur) {
         //xmlSaveFile(filename, cur);
+#if 1 // 1 - prool mode, 0 - original mode
+	return(xmlSaveFormatFileEnc( filename, cur, "UTF-8", 1 )); 
+#else
         return(xmlSaveFormatFile(filename, cur, 1));
+#endif
     }
 
 } // End xml namespace

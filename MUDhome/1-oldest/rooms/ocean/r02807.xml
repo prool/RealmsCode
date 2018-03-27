@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="2807" Version="2.40a" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>The dark, desolate hallway continues to the north and south.</ShortDescription>
+  <LongDescription>It's strange not to hear any noises at all, deep within the caves and
+caverns below the glacier.  You would expect some squeaks or other shifting
+sounds, but nothing can be heard.  The air is oddly stale, but does not
+smell of decay or death.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>728791961</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2808</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2806</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

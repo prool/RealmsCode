@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1353" Version="2.40" Area="ocean">
+  <Name>Neilian Drive</Name>
+  <ShortDescription>You are walking along Neilian Drive, south of the great Dragon's Citadel.</ShortDescription>
+  <LongDescription>The two things in Oceancrest which really hold some mystery to the 
+citizens and visitors of the city are the Allakaren Pyramid and the
+Dragon's Citadel.  The City was essentially formed around these two
+landmarks which have probably existed longer than anyone can remember.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1352</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">750</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

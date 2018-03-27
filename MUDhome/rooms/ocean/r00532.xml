@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="532" Version="2.40a" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are walking along Lelion Way, north of the Fairy Dust Inn.</ShortDescription>
+  <LongDescription>Many of the town's visitors and guests come from the ocean, primarilly
+because traveling by ship is the safest means of travel.  The ocean is
+relatively calm and pirates have not been spotted all that often because
+the ships always follow the coastline.  Barbarian raiders have been known
+to attack caravans and travelers moving across the open plains.  The
+Fairy Dust Inn, to the south, provides comfortable lodgings for guests,
+close to the Nylandian Bay and the Catlania Docks.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">506</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">531</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">347</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2515" Version="2.40" Area="ocean">
+  <Name>Myrr Lane</Name>
+  <ShortDescription>You are on Myrr Lane, a major east-west street on the north side of Kista.</ShortDescription>
+  <LongDescription>Several factories and stores are along the north side of the street.
+The closest one seems to be associated with the Institute of Investigations
+into Ball Lightning.  the roof seems to have an array of lightning rods
+mounted very close together.  The Great Observatory is on the south side.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2516</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2514</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

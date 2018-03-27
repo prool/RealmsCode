@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="797" Version="2.40a" Area="ocean">
+  <Name>Dead End</Name>
+  <ShortDescription>You are at a dead end somewhere inside the Dragon's Lair.</ShortDescription>
+  <LongDescription>Dead ends are the last place you would want to be in this dangerous
+lair.  You have seen a number of guards patrolling the area and 
+there's no place to hide in here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">147</Mob>
+      <Mob Area="ocean" Num="1">147</Mob>
+      <Mob Area="ocean" Num="2">147</Mob>
+      <Mob Area="ocean" Num="3">147</Mob>
+      <Mob Area="ocean" Num="4">147</Mob>
+      <Mob Area="ocean" Num="5">147</Mob>
+      <Mob Area="ocean" Num="6">147</Mob>
+      <Mob Area="ocean" Num="7">147</Mob>
+      <Mob Area="ocean" Num="8">147</Mob>
+      <Mob Area="ocean" Num="9">147</Mob>
+    </RandomMonsters>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3658" Version="2.40" Area="ocean">
+  <Name>Trokkawilff's Private Chambers</Name>
+  <ShortDescription>You are in the never forgotten private chambers of Thokkawilff.</ShortDescription>
+  <LongDescription>Although the master torturer died over a century ago, his name is still
+a word that brings terror to prisoners of Ragnar.  This chamber is rather
+stale and dusty, and all of the furniture has been removed, but some how
+it doesn't seem empty.  You have the strangest feeling of someone watching
+you, and there is an evilness here which makes your skin crawl.</LongDescription>
+  
+  <Established>765061604</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">718</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">82</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3659</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3657</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

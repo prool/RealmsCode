@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="1969" Version="2.40" Area="ocean">
+  <Name>The Room of Souls</Name>
+  <ShortDescription>You have entered a quasi-dimensional gap between reality and non-reality.</ShortDescription>
+  <LongDescription>Kaldeas built this room to house the undead creatures he consulted.   
+Not only does this seem like some purgatory for undead creatures,
+it also appears to be some sort of dimensional door into another world.
+Unfortunately, you can't really see enough to make any sense out of any
+of this.  However, the large number of undead creatures in the room
+makes you believe that perhaps you will be joining their ranks soon.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">20</Mob>
+      <Mob Area="ocean" Num="1">23</Mob>
+      <Mob Area="ocean" Num="2">24</Mob>
+      <Mob Area="ocean" Num="3">31</Mob>
+      <Mob Area="ocean" Num="4">32</Mob>
+      <Mob Area="ocean" Num="5">33</Mob>
+      <Mob Area="ocean" Num="6">34</Mob>
+      <Mob Area="ocean" Num="7">35</Mob>
+      <Mob Area="ocean" Num="8">37</Mob>
+      <Mob Area="ocean" Num="9">18</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2872</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

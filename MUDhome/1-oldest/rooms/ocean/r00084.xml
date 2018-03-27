@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="84" Version="2.40" Area="ocean">
+  <Name>Plasnelt Road</Name>
+  <ShortDescription>Plasnelt Road continues to the east and west.</ShortDescription>
+  <LongDescription>Off in the distance to the northeast you can see a large building of some
+sort.  You can barely hear yells and screams from inside -- sounds like
+an arena.  On the south side is a small shop with three brass balls hanging
+over the door.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">85</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">83</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">45</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="2084" Version="2.40" Area="ocean">
+  <Name>Mannish Dignitary's Quarters</Name>
+  <ShortDescription>You are in the quarters of Travis, the mannish dignitary from Brownhaven.</ShortDescription>
+  <LongDescription>Each of the dignitaries have their quarters here so that they can remain
+in Kista for any duration of time.  Guests of the dignitaries must stay
+at the suites in the Inn.  The human quarters are quite lavishly furnished
+with curtains, a desk and bed.  It's also quite a mess.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>trapdoor</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">735</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2081</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="trapdoor">
+      <Keys/>
+      <Room Area="ocean">2091</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2549" Version="2.40" Area="ocean">
+  <Name>Charybdis Way</Name>
+  <ShortDescription>You are on Charybdis Way between Tower Lane and Tiamat Lane.</ShortDescription>
+  <LongDescription>On the west side of the street you see a quiet moat around the Towers
+of Kista.  Occasionally bubbles rise from the depths, and sometimes you
+see the tail of some giant beast splash the surface.  Other than that,
+the moat is rather quiet.  On the east side is a line of small shops.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2021</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2032</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

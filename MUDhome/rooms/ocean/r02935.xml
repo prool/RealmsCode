@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2935" Version="2.40" Area="ocean">
+  <Name>East Side of the Stone Bridge</Name>
+  <ShortDescription>You are on the eastern side of a stone bridge spanning the Ashton River.</ShortDescription>
+  <LongDescription>Cattails and pussywillows grow in the water below the bridge's footing,
+and a small boat is tied to an iron ring set in the stone.  The bridge
+crosses to the west, and the road on this side continues to the north
+alongside the river's bank.  Frogs and small birds can be seen all along
+water's edge.  The east side of the road is thick with trees.</LongDescription>
+  
+  <Established>759020698</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2934</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2936</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Object Num="226" Area="ocean" Version="2.40">
+  <Name>pot of gold</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">gold</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a glittering pot of gold!</Description>
+  <Weight>15</Weight>
+  <Type>11</Type>
+  <InBag/>
+</Object>

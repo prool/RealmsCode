@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  waterbolt spell     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 7
+School:  Evocation
+Domain:  Destruction
+
+This spell is an important spell in the water realm. Bolts of water strike the
+target with enough force to inflict damage. Often, in the struggle, the target
+can swallow massive amounts of water and be hurt by the water in their lungs.
+
+Syntax:
+cast waterbolt <target>

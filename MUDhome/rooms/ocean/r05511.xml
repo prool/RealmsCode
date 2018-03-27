@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5511" Version="2.40" Area="ocean">
+  <Name>West Hafnia Circle Road</Name>
+  <ShortDescription>You are on the great circular road around the City of Hafnia.</ShortDescription>
+  <LongDescription>This is the western side of the city, near the west city gates.  Small shops
+and interesting little homes line the street on either side, and a number
+of temples are grouped on the eastern side.  There is a lot of cheering 
+and other noises coming from the north.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">940</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">941</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="711" Area="ocean" Version="2.40">
+  <Name>water-soaked scroll</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">scroll</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The heavy parchment scroll has been soaking in water for a long time.</Description>
+  <Weight>1</Weight>
+  <Type>8</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>45</MagicPower>
+  <MagicRealm>5</MagicRealm>
+  <InBag/>
+</Object>

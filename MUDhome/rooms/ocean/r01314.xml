@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Room Num="1314" Version="2.47i" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, east of a dense, thick forest.</ShortDescription>
+  <LongDescription>The forest on the west side of the road is protected by the thick trees
+and shrubs growing around its perimiter, preventing anyone from actually
+entering the forest, save for a couple of rangers who happen to be 
+searching for tracks.  Riverdell continues to the north and south.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>south</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1313</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1315</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

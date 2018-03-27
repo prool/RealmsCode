@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="391" Version="2.40" Area="ocean">
+  <Name>Tranquility Way</Name>
+  <ShortDescription>The East Oceancrest City Guard Barracks are north of you.</ShortDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">390</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">392</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

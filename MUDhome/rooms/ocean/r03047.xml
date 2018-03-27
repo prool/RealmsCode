@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3047" Version="2.40" Area="ocean">
+  <Name>Goblin Prison</Name>
+  <ShortDescription>You are in the long term prison area for the goblin underground shrine.</ShortDescription>
+  <LongDescription>Mostly, the inmates here are goblins who cannot conform to the mores of
+goblin society.  Non-goblins, especially humans and elves, never see this
+place, as they are usually taken directly to the holding cell for immediate
+disposal of their cases.  There is a lot of yowling and agonized grunting
+taking place around you in the various cells here, but you don't see anyone
+you know.  There is a strong smell of unwashed bodies and goblin waste.</LongDescription>
+  
+  <Established>761608877</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>tunnel</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="tunnel">
+      <Keys/>
+      <Room Area="ocean">3043</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3048</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

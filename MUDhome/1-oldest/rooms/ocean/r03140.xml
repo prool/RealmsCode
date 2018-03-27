@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3140" Version="2.40" Area="ocean">
+  <Name>Research Office</Name>
+  <ShortDescription>You are in the office of the Research Librarian.</ShortDescription>
+  <LongDescription>If you wish to study here, you must have the permission of the librarian.
+the staff here is very proud of the facilities, as it is widely believed
+that the Great Library may even surpass the legendary library that was 
+burned hundreds of years ago and far to the south of the city.</LongDescription>
+  
+  <Established>799308916</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>300</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">165</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2101</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

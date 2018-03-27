@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1631" Version="2.40" Area="ocean">
+  <Name>Amberton Lane/Hillcrest Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Amberton Lane and Hillcrest Drive.</ShortDescription>
+  <LongDescription>Amberton Lane heads to the north from this intersection, interrupted a
+brief distance to the north by the Keslar Mountain, which seems to have
+absorbed the road.  It does connect with Monument Avenue before it ends,
+though.  The large Chateau Richland Wine Orchard to the south smells
+deliciously of ripening grapes as the sweet smell of fermenting wine 
+comes from the northeast.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1632</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1630</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1655</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

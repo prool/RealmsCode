@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="717" Version="2.40a" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are walking along Oceancrest Avenue, south of a Paladin's Order.</ShortDescription>
+  <LongDescription>The Holy Order of the Black Cross is located on the north side of the 
+road, opposite the Holy Order of Corellon Larethian on the south side of
+the street.  Luckily, there is not much hostility between humans and elves
+so they can practice their own religions and beliefs without annoying
+the other race.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">716</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">655</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

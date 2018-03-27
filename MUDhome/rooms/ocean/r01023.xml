@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="1023" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>You are on Main Street, one of the major roads running though Oceancrest.</ShortDescription>
+  <LongDescription>Main Street tends to be a very busy avenue where just about anything 
+may be bought or sold.  Towards the south, you can make out the primary
+shopping district of southwestern Oceancrest.  To the east, there is a
+large building labled "Sleeping Deer Real Estate".  To the west of Main,
+there is a small stable.  There appears to be someone training horses
+over there.  A small building is located to the south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>7</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">1</Mob>
+      <Mob Area="ocean" Num="2">2</Mob>
+      <Mob Area="ocean" Num="3">6</Mob>
+      <Mob Area="ocean" Num="4">6</Mob>
+      <Mob Area="ocean" Num="5">6</Mob>
+      <Mob Area="ocean" Num="6">8</Mob>
+      <Mob Area="ocean" Num="7">10</Mob>
+      <Mob Area="ocean" Num="8">7</Mob>
+      <Mob Area="ocean" Num="9">266</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1003</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1024</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3707</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1770" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, just north of Thenardier's Inn.</ShortDescription>
+  <LongDescription>Thenardier's Inn is well known for its lack of hospitality and general
+vulgarity of the host.  Nonetheless, it is a relatively popular place
+because it is very cheap and affordable.  Many travellers, coming through
+the eastern city gate, often stop here to get the city's gossip.  Students
+also visit the Inn since they really can't afford to eat anywhere else,
+and the awful brew they serve here is relatively cheap.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1769</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1739</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1819</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

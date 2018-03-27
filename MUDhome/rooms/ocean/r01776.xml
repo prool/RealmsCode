@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1776" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, south of the Rodaisl Housing Center.</ShortDescription>
+  <LongDescription>The Rodaisl Community Housing Complex is one of two community housing 
+complexes in Oceancrest.  The Rodaisl Complex is much larger than the 
+Obidian Complex, located off of Wakeforest Drive, and has room for nearly
+fifteen thousand people, or roughly four thousand apartments that can
+house up to four people each.  On the south side of the road, you can see
+the Riverdell Tranquility Park, where people usually go to relax after a
+long day of work.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1775</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1777</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

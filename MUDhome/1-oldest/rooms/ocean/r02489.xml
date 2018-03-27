@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="2489" Version="2.40" Area="ocean">
+  <Name>Desolate Corridor</Name>
+  <ShortDescription>You are traveling along a seldom used and probably forgotten corridor.</ShortDescription>
+  <LongDescription>Oddly, there is not a lot of activity along this corridor, but you do
+see quite a bit of decaying bones scattered about along the floor.  The
+dust is so thick along the floor that you might actaully find something
+hidden, obscured by the dust.</LongDescription>
+  
+  <Established>728451398</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2488</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2490</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

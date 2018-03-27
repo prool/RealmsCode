@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="350" Area="ocean" Version="2.40">
+  <Name>lion skin cape</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>35</ShotsMax>
+  <ShotsCur>35</ShotsCur>
+  <Armor>13</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">800</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">skin</Key>
+    <Key Num="1">cape</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="19"/>
+    <Bit Num="20"/>
+    <Bit Num="33"/>
+  </Flags>
+  <Description>The lion skin cape can only be worn by half-giant barbarians.</Description>
+  <UseOutput>The cape is heavy, but protective.</UseOutput>
+  <Weight>5</Weight>
+  <Type>6</Type>
+  <SubType>cloth</SubType>
+  <WearFlag>4</WearFlag>
+  <InBag/>
+</Object>

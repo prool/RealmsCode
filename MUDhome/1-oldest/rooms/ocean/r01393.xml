@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1393" Version="2.40" Area="ocean">
+  <Name>Secret Passage</Name>
+  <ShortDescription>You are in a narrow hallway leading to the Cremetorium.</ShortDescription>
+  <LongDescription>Although not really a 'secret' hallway, most people visiting the
+Mausoleum never give it a second glance.  The east hallway leads to the
+Crematorium.  The ashes are then returned to either the Mausoleum
+or placed in the Crypt.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1396</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1397</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

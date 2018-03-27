@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<Room Num="3681" Version="2.40" Area="ocean">
+  <Name>Petty Thieve's Prison Cell</Name>
+  <ShortDescription>You are in a cramped and cold cell reserved for petty criminals.</ShortDescription>
+  <LongDescription>Most of the crimes committed in the castle involve some sort of petty
+theft, so Prince Ragnar decreed that anyone guilty of such a crime would
+have to spend a year in these cells.  Of course, since only relatives and
+friends provide food to the prisoners, and the guards never bring any,
+many of the petty criminals die in here.</LongDescription>
+  
+  <Established>765150003</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>loose stone</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">10</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">10</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">10</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">10</Misc>
+    </LastTime>
+    <LastTime Num="4">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">10</Misc>
+    </LastTime>
+    <LastTime Num="5">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">10</Misc>
+    </LastTime>
+    <LastTime Num="6">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">10</Misc>
+    </LastTime>
+    <LastTime Num="7">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">10</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="loose stone">
+      <Keys/>
+      <Room Area="ocean">3674</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">3673</Room>
+      <Key>21</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

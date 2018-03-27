@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="374" Version="2.40" Area="ocean">
+  <Name>Bird Cliff</Name>
+  <ShortDescription>You stand high on a bird cliff looking down on a snow white beach.</ShortDescription>
+  <LongDescription>The island jungle is at your back as you look out over the beach and the
+Respitial Sea to the east.  There is the remains of a rutted road here,
+leading through the trees and into the wet and dark jungle.  It looks like
+you might be able to climb down to the beach, but probably won't be able
+to climb back up here again.  At least, not at this point along the cliff.</LongDescription>
+  
+  <Established>761266931</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3178</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">373</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3864</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

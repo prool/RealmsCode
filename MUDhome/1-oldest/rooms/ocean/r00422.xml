@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="422" Version="2.40" Area="ocean">
+  <Name>Bendine Way</Name>
+  <ShortDescription>You are walking along Bendine Way, west of Xedora's Magic Shop.</ShortDescription>
+  <LongDescription>Xedora's Magic Shop provides a number of unique and different potions which
+may or may not be useful for any adventure you might be going out on.  On
+the west side of the road is the Oceancrest Municipal Library, holding a
+plethora of knowledge to be utilized by the city's citizens.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">421</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">423</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

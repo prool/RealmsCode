@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1437" Version="2.40" Area="ocean">
+  <Name>Prison Cell</Name>
+  <ShortDescription>You are in a prison cell in the basement of the palace.</ShortDescription>
+  <LongDescription>You are in a small cell isolated from the rest of the prisoners.  It's
+hardly solitary as the prison itself is very small.  Like most prisons,
+this one is pretty dreary.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">158</Mob>
+      <Mob Area="ocean" Num="1">158</Mob>
+      <Mob Area="ocean" Num="2">158</Mob>
+      <Mob Area="ocean" Num="3">157</Mob>
+      <Mob Area="ocean" Num="4">157</Mob>
+      <Mob Area="ocean" Num="5">157</Mob>
+      <Mob Area="ocean" Num="6">157</Mob>
+      <Mob Area="ocean" Num="7">158</Mob>
+      <Mob Area="ocean" Num="8">158</Mob>
+      <Mob Area="ocean" Num="9">158</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>cell door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="cell door">
+      <Keys/>
+      <Room Area="ocean">1434</Room>
+      <Key>21</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

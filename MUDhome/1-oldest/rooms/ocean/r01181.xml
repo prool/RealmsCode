@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="1181" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, south of the Bushman Farms.</ShortDescription>
+  <LongDescription>The large farmland to the north provides much of the fruits and vege-
+tables to the people of Oceancrest.  Being located next to the Necropolis,
+there's not much else one can do.  Reginald Bushman makes a good living
+harvesting the fruits and vegetables in his orchards, and can often use
+some unskilled labor to rid the garden of unwanted pests.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">1</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1182</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1180</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

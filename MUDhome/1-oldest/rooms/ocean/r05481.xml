@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="5481" Version="2.40" Area="ocean">
+  <Name>Toby's Iron Works</Name>
+  <ShortDescription>You are in Toby the hobbit's iron working shop.</ShortDescription>
+  <LongDescription>Although Toby has retired, he still likes to earn the occasional gold piece
+by repairing armor and weapons.  Mostly he spends his time making a few
+custom made weapons for some of the nobility at Prince Rutger's castle.
+His half-wit brother has a shop and home next door where he sells a few
+of the things he makes.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5480</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

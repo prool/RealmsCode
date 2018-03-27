@@ -1,0 +1,10 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  unmist          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+This command allows a vampire to unmist themselves.
+
+Example:
+: unmist
+You return to your natural form.
+:

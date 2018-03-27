@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1752" Version="2.40" Area="ocean">
+  <Name>Highland Avenue</Name>
+  <ShortDescription>You are walking along Highland Avenue, east of the Highland Stables.</ShortDescription>
+  <LongDescription>The Highland Stables provide comfortable accomodations for the horses
+of visitors and guests to Oceancrest.  Safety among the citizens of
+Oceancrest is a high priority, so guests are strongly suggested to leave
+their steeds in the stables during their visit to Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1751</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1753</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

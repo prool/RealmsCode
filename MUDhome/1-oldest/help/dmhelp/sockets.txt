@@ -1,0 +1,11 @@
+Help on DM command:
+	SOCKETS
+
+Will return a listing of all the IP addresses currently
+connected to the mud.
+
+: *sockets
+: Connected Sockets:
+-a bunch of addresses-
+16 total connections.
+

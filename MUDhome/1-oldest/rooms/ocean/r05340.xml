@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5340" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>You are atop a hill and can see the road to the east and west.</ShortDescription>
+  <LongDescription>There's not much to see toward the south, as it seems to be an endless
+expanse of sand and desert.  Over to the north there is a very old forest.
+Far to the northeast you can see two of the biggest mountains you have
+ever seen.  The tops are hidden in clouds.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5339</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5323</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

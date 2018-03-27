@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="100" Area="ocean" Version="2.40">
+  <Name>fire ring</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>600</ShotsMax>
+  <ShotsCur>600</ShotsCur>
+  <Armor>4</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">ring</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The ring glows a deep red color.</Description>
+  <UseOutput>Your finger burns slightly as you wear it.</UseOutput>
+  <Weight>1</Weight>
+  <Type>13</Type>
+  <WearFlag>9</WearFlag>
+  <InBag/>
+</Object>

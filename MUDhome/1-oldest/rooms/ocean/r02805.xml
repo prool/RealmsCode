@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="2805" Version="2.40a" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>You are at the intersection of two hallways, deep under the glacier.</ShortDescription>
+  <LongDescription>The main hallway continues to the north and south, while an equally wide
+hallway breaks off to the east.  Both hallways are very quiet.  Nor can
+you hear the movement of rats or other vermin through the desolate
+caverns.  As you head to the north or east, it also starts getting dark.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>728790903</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2806</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2804</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2814</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

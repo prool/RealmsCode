@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="854" Version="2.40" Area="ocean">
+  <Name>Dark Stairwell</Name>
+  <ShortDescription>You have stumbled into a dark, dank stairwell that leads downward into
+some well-lit hallways.  Looking up, you can see the strange reflections
+of the Crystal Alcove.</ShortDescription>
+  <LongDescription>The stairwell is rather unremarkable and made of old, creaking boards
+that will probably break as soon as you step on them.  Miraculously, 
+they don't but it's best not to stay on them for very long.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">853</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">855</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

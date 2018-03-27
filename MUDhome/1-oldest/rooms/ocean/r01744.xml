@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1744" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are walking down Wakeforest Drive, east of the Shrine of Moradin.</ShortDescription>
+  <LongDescription>Moradin is the Creator of the Dwarven Race, and the dwarves worship him
+regularly as if the end of the world were going to come tomorrow.  The
+fanatic worship of a god has inspired many wars and many victories for
+the dwarves, but now they live in relative peace with the humans and other
+races of the world (although they still don't really like the elves too
+much.)  On the east is the Oceancrest Orphanage.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1743</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1745</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3760</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

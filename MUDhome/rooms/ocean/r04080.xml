@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="4080" Version="2.40" Area="ocean">
+  <Name>Rocky Cove on the Ramdes River</Name>
+  <ShortDescription>You are on the banks of a river in a marshy, prehistoric swampland.</ShortDescription>
+  <LongDescription>Before you lies a vast valley, filled with plant and animal life which are
+from another time.  A thick fog clouds the landscape, making it difficult
+to see beyond a few meters.  the humidity and temperature are uncomfortable,
+and biting insects swarm around you constantly.</LongDescription>
+  
+  <Established>772829681</Established>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>river</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4081</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4082</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4084</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="river">
+      <Keys/>
+      <Room Area="ocean">3945</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

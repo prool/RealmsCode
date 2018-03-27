@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1902" Version="2.40" Area="ocean">
+  <Name>Arena Events and Information Center</Name>
+  <ShortDescription>You are in a large office where the description of the daily Arena 
+events are posted and a small map of the large arena is available.</ShortDescription>
+  <LongDescription>The Oceancrest Central Arena is not a place for the weak-natured, weak-
+stomached or weak-of-heart.  It is divided into three major Arenas:
+the Central Arena, where players engage in hand-to-hand combat with
+various gladiators and other fighters for victory and glory.  The map
+shows the various degrees of difficulty in the arena.  The Pits of Doom
+are holding pens for large dragons.  These should not be tampered with
+without extreme care.  Dragons enjoy gladiators for lunch or at least a
+light snack before dinner.  The Game Arena is the largest of them all
+which combines skill and strategy to defeat the Wizard of Kaldais.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">303</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1010</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

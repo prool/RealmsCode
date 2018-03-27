@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  immolate spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 16
+School:  Evocation
+Domain:  Destruction
+
+This is the second most powerful spell in the fire realm. It causes to target to
+suddenly combust into a dead ball of flame and will often result in the violent
+death of the target.  Major burns are nearly always noted in the victims of this
+spell.
+
+Syntax:
+cast immolate <target>

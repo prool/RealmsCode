@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |   Help on:  shockbolt spell    |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 10
+
+This spell is similar to lightning-bolt, except that it is a thrown ball of
+blue-white energy that shocks the nervous system of the target, doing great
+damage. In effect it is an upgrade to the previous spell that will hurt the
+target more.
+
+Syntax:
+cast shockbolt <target>
+

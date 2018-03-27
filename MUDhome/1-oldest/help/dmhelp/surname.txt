@@ -1,0 +1,11 @@
+Help on: *surname
+
+	This command allows DMs or CTs to add, delete, or lockout
+surnames on a player.
+Syntax: *surname (player) (surname)
+        *surname (player) [-d|-l]
+
+The -d switch will delete a current surname.
+The -l switch will lock a player from ever making another surname.
+
+

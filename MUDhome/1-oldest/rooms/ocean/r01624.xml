@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1624" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are walking along Hillcrest Drive, north of a large Gazebo.</ShortDescription>
+  <LongDescription>Oddly enough, there's a large, white gazebo located more or less in the
+middle of no where on the south of Hillcrest Drive.  It doesn't seem
+to have a purpose there, but stands between Hillcrest and Regalia Way,
+which runs southwest out of Allisk Circle.  Allisk Circle is located 
+to the east of here, intersecting with Lankshire, Appleton, Regalia and
+Hillcrest Roads.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1244</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1623</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

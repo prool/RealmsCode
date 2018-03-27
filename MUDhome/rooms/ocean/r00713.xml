@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="713" Version="2.40a" Area="ocean">
+  <Name>Hillborough Way</Name>
+  <ShortDescription>You are traveling along Hillborough Way, between two large centers.</ShortDescription>
+  <LongDescription>You are in the center of town where a number of small businesses have 
+come together to try to sell you stuff.  There are two large shopping
+centers on the north and south sides of the road.  On the north, you
+can see the Hillborough Adamantine Works shop, and on the south, you
+can see the Might and Magic Mystery Shop.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">712</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">627</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

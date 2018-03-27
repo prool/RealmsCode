@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room Num="452" Version="2.47i" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are traveling along Hofton Avenue, between north of the Evenborough Inn.</ShortDescription>
+  <LongDescription>Travelers coming in from the north side of the town often stop at the
+Evenborough Inn before heading into town, assuring them of a good place to
+stay the night.  It is a very long walk to the southern side of town, where
+the rest of the Inns are located, although there are a couple near the
+marina.  The Evenborough Inn is also ideal for visitors to Lyanden Castle,
+which lies to the east of the Inn.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>west</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">451</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">453</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

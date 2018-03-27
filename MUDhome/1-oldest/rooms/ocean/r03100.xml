@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3100" Version="2.40" Area="ocean">
+  <Name>Tristram's Temple</Name>
+  <ShortDescription>This is Tristram's temple, on level one of the underground city.</ShortDescription>
+  <LongDescription>True children of Tristram may rest here, where the palpable glow of
+holiness will speed the healing of their wounds.  The beauty of this place,
+from the marble pillars to the intricate statue of Tristram, will also
+gladden their hearts.  To the south, steps lead back into the underground
+city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3199</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

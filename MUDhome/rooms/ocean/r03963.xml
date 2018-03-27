@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3963" Version="2.40" Area="ocean">
+  <Name>Llanandar Creek</Name>
+  <ShortDescription>You are on the southern edge of a small village, near the bank of a creek.</ShortDescription>
+  <LongDescription>Elven fishmen are setting nets across the creek, and elven children are
+playing in the water.  Tall grass runs down to the water's edge from here.
+A path seems to meander towards the oldest oak tree in the meadow.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3962</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3964</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="path">
+      <Keys/>
+      <Room Area="ocean">3969</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

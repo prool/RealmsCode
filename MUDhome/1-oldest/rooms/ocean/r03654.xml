@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3654" Version="2.40" Area="ocean">
+  <Name>Shadow Room</Name>
+  <ShortDescription>You are in a room filled with constantly moving shadows.</ShortDescription>
+  <LongDescription>The mages who have pledged their allegiance to Prince Ragnar maintain a
+weapons research room directly south of here, but be warned, if you go
+in there, you will not be able to bring anything back out the one-way
+portal you see at the south wall.  A cool breeze swirls through the
+room as you stand here, and the shifting shadows occasionly show you
+a skeleton hanging from chains on the wall.  The main armory is north.</LongDescription>
+  
+  <Established>764991244</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>low archway</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3639</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="portal">
+      <Keys/>
+      <Room Area="ocean">3643</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="low archway">
+      <Keys/>
+      <Room Area="ocean">3650</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

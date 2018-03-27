@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1855" Version="2.40" Area="ocean">
+  <Name>The Blue Training Hut</Name>
+  <ShortDescription>You have successfully defeated the tribesman testing your abilities.</ShortDescription>
+  <LongDescription>You are now worthy of the title Tribesman.  It is important for barbarians
+to use their size and strength in battle.  You should return to this site
+when you are ready to advance to Tribesman Second Class.</LongDescription>
+  <LowLevel>3</LowLevel>
+  <HighLevel>3</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1868</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

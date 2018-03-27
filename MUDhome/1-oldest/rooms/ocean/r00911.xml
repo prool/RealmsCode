@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="911" Version="2.40" Area="ocean">
+  <Name>Terrel's Tavern</Name>
+  <ShortDescription>You are in a rather large tavern owned by a very old and fat elf.</ShortDescription>
+  <LongDescription>There are numerous people all around you.  Most of them are just drinking
+and having a good time.  As you walk in, everyone glances at you and then
+goes back to their own business.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">15</Mob>
+      <Mob Area="ocean" Num="1">80</Mob>
+      <Mob Area="ocean" Num="2">70</Mob>
+      <Mob Area="ocean" Num="3">65</Mob>
+      <Mob Area="ocean" Num="4">65</Mob>
+      <Mob Area="ocean" Num="5">64</Mob>
+      <Mob Area="ocean" Num="6">61</Mob>
+      <Mob Area="ocean" Num="7">60</Mob>
+      <Mob Area="ocean" Num="8">51</Mob>
+      <Mob Area="ocean" Num="9">60</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">81</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">944</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

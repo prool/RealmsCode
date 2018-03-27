@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="293" Version="2.40" Area="ocean">
+  <Name>Paladin Training Room</Name>
+  <ShortDescription>Congratulations, you have successfully defeated the Red Knight!</ShortDescription>
+  <LongDescription>And now, if you are spiritually ready to accept the added duties of an
+advanced paladin, kneel and receive your transformation.  An intense,
+white light shines down on you, as you are now one of the chosen.  From
+this day forward, you will know peace and serenity, so long as you fight
+against evil.</LongDescription>
+  
+  <Established>766527802</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">300</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

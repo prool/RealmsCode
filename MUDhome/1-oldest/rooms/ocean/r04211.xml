@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="4211" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>You are at the southwest corner, on the ground floor, of Castle Rutger.</ShortDescription>
+  <LongDescription>Looks like several doors along here all go into the same place, a barracks
+for the troops in the service of the castle.  In time of emergency, the 
+several doors provide a fast exit for the knights inside.  There is a repair
+shop for weapons and armor through the iron gate.</LongDescription>
+  
+  <Established>791604963</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4210</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4212</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="iron gate">
+      <Keys/>
+      <Room Area="ocean">4262</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

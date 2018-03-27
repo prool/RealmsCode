@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="1979" Version="2.40" Area="ocean">
+  <Name>Ivanhouse Sporting Arena - Mul Pit</Name>
+  <ShortDescription>You are in the Mul Pit.  Muls are cross-breeds of dwarves and humans.</ShortDescription>
+  <LongDescription>Taking the height of the human and strength of the dwarven parents, the
+mul has come to be one of the most feared gladiators.  Being outcasts
+from almost all society, they tend to find themselves in arenas anyway,
+fighting for their right to survive and gain glory.  The Mul Pit may be
+a dangerous arena because only one fighter may be in here at once, but
+the muls have no such restrictions. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">248</Mob>
+      <Mob Area="ocean" Num="1">248</Mob>
+      <Mob Area="ocean" Num="2">248</Mob>
+      <Mob Area="ocean" Num="3">248</Mob>
+      <Mob Area="ocean" Num="4">248</Mob>
+      <Mob Area="ocean" Num="5">248</Mob>
+      <Mob Area="ocean" Num="6">248</Mob>
+      <Mob Area="ocean" Num="7">248</Mob>
+      <Mob Area="ocean" Num="8">248</Mob>
+      <Mob Area="ocean" Num="9">248</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">248</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1976</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

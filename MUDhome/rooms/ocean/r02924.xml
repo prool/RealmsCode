@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="2924" Version="2.40" Area="ocean">
+  <Name>Avernus</Name>
+  <ShortDescription>You are traveling along the outer fringe of the first plane of Hell.</ShortDescription>
+  <LongDescription>The strange and mystical creatures which inhabit this level of Hell are 
+not too friendly when it comes to astral travelers.  The deadly abishai
+like to gang up on unsuspecting victims.  As you approach the inner 
+sanctum of Avernus, be warned that dragons often fly by to stop attempts
+to reach the center of Avernus.</LongDescription>
+  
+  <Established>727903291</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">357</Mob>
+      <Mob Area="ocean" Num="1">357</Mob>
+      <Mob Area="ocean" Num="2">357</Mob>
+      <Mob Area="ocean" Num="3">358</Mob>
+      <Mob Area="ocean" Num="4">358</Mob>
+      <Mob Area="ocean" Num="5">359</Mob>
+      <Mob Area="ocean" Num="6">359</Mob>
+      <Mob Area="ocean" Num="7">360</Mob>
+      <Mob Area="ocean" Num="8">357</Mob>
+      <Mob Area="ocean" Num="9">361</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2923</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2920</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2925</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2921</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

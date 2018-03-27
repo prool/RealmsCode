@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="258" Version="2.40" Area="ocean">
+  <Name>Sewer T-Intersection</Name>
+  <ShortDescription>This T-Intersection in the sewer passages leads east, west and south.</ShortDescription>
+  <LongDescription>At the end of the passage to the west you can see a stone door of some
+sort, but cannot make out any other details.  The passage continues on
+endlessly to the east and south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">40</Mob>
+      <Mob Area="ocean" Num="1">42</Mob>
+      <Mob Area="ocean" Num="2">42</Mob>
+      <Mob Area="ocean" Num="3">42</Mob>
+      <Mob Area="ocean" Num="4">42</Mob>
+      <Mob Area="ocean" Num="5">42</Mob>
+      <Mob Area="ocean" Num="6">42</Mob>
+      <Mob Area="ocean" Num="7">42</Mob>
+      <Mob Area="ocean" Num="8">42</Mob>
+      <Mob Area="ocean" Num="9">42</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">257</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">261</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">259</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

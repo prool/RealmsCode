@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="3469" Version="2.40" Area="ocean">
+  <Name>Zelinx's Treasure Hold</Name>
+  
+  <Established>760066880</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3392</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

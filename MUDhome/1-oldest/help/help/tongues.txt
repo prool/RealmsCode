@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  tongues spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 25
+School:  Divination
+Domain:  Knowledge
+
+The tongues spell will allow the target to speak any language fluently.
+Note however that this spell does not grant the target the ability to
+understand other languages.
+
+Syntax:
+cast tongues <target>

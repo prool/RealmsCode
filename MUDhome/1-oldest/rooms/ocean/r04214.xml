@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="4214" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>You are on the southern side of the circular hallway ringing the castle.</ShortDescription>
+  <LongDescription>The lighting is dim along here, and the hallway is wide and high.  You can
+hear the rustle and squeak of bats high overhead.  The closed doors along
+here lead to the servant's quarters and a dirty little pub frequented by 
+the lower classes who live in the castle.  To the east is a barracks entry.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4213</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4215</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3618" Version="2.40" Area="ocean">
+  <Name>Main Courtyard West</Name>
+  <ShortDescription>You are on the west side of the main courtyard in Prince Ragnar's castle.</ShortDescription>
+  <LongDescription>The broad stone floor is scrubbed clean by a cleaning crew, but there seems
+to be a heavy stain of blood next to a hallway which disappears into the
+depths of the castle.  Standing near the entry to the hall is a pushcart
+and a wizened old woman.  She sells potions and oils, and mutters under
+her breath as she gazes around the huge courtyard.</LongDescription>
+  
+  <Established>762645453</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3625</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3617</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3619</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

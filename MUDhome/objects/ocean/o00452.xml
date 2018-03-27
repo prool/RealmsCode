@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="452" Area="ocean" Version="2.40">
+  <Name>opalescent stone</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>500</Number>
+    <Sides>1</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">stone</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="24"/>
+  </Flags>
+  <Description>It glows with an inner light, displaying the runes, IHN JUX.</Description>
+  <Weight>1</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>48</MagicPower>
+  <InBag/>
+</Object>

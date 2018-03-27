@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="4245" Version="2.40" Area="ocean">
+  <Name>Main Courtyard - South</Name>
+  <ShortDescription>You are at the south side of the main courtyard.</ShortDescription>
+  <LongDescription>A lot of heavy battle equipment is in storage here.  There is a ramp leading
+up to the castle's battlements over to the northeast.  The equipment waits
+at the foot of the ramp, ready for use at the sound of the alarm trumpets.
+A fire is kept burning at all times, and cauldrons of oil are bubbling,
+constantly in readiness.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4244</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4248</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4240</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

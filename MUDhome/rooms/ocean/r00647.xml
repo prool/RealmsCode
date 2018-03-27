@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="647" Version="2.47i" Area="ocean">
+  <Name>Amberton Lane</Name>
+  <ShortDescription>You are walking along Amberton Lane, just west of the Temple of Ilsensine.</ShortDescription>
+  <LongDescription>Ilsensine is the mental and spiritual diety of the illithids.  The
+illithids are a race of ultra-powerful mental and magical masters who
+have been known to wipe out parties without ever actually touching 
+their opponents.  Ilsensine is one of the most feared and most powerful
+dieties a non-illithid can encounter.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>south</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">646</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">648</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

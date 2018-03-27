@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="608" Version="2.47i" Area="ocean">
+  <Name>Avatar Boulevard</Name>
+  <ShortDescription>You are walking along Avatar Boulevard, west of the Avatar Ruins.</ShortDescription>
+  <LongDescription>You are approaching the southern edge of the Ruins.  The magnificent
+structures of the Avatar Ruins are said to hold magnificent treasures
+and dangerous perils.  No one entering the Ruins have ever returned with
+anything, but there's always the hope that one will find something of
+great value.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>south</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">607</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">609</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

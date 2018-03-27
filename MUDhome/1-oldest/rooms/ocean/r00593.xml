@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="593" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street/Darmanian Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Darmanian Way and Rosecrest Street.</ShortDescription>
+  <LongDescription>Darmanian Way runs along the northern border of Lyanden Lake, while
+Rosecrest Street forms the western border.  In the center of the lake
+is a large island upon which the Lyanden Castle is built.  The entrance
+to the castle is located off of Rosecrest Street to the south.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">592</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">594</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">686</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">685</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

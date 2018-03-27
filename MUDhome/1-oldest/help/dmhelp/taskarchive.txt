@@ -1,0 +1,169 @@
+
+<Verithrax on Tue Jan 23 18:07:41 2001>
+Tasklog archived.
+-Ver
+
+<Veth on Wed Jan 24 23:19:59 2001>
+updated all spells, updated 'help' and 'help help' and cleaned
+up all the help files
+
+<Dominus on Sat Aug 11 18:19:07 2001>
+damn old task file
+copied over all rooms from V2 for gnomebarrow except for those in
+the gnomish section (halfling and plains are all copied)
+
+<Dominus on Fri Aug 31 19:13:54 2001>
+Opened Gnomebarrow today, still need to finish adding monsters
+and objects to some areas.  Began work on the gnomish airship
+
+<Ulfang on Tue Nov 20 03:32:36 2001>
+ I'm Back! I'll be working on shit all this week.
+-Ulfang
+
+<Ulfang on Tue Nov 20 13:47:49 2001>
+Went through most of my rooms today recovering some old
+descriptions and reflagging lots.
+-Ulfang
+
+<Ulfang on Tue Nov 20 14:39:20 2001>
+I also fixed Luther the Vampire priest...
+he had no description. Just a little fix.
+-Ulf
+
+<Draegoth on Tue Nov 20 19:50:58 2001>
+Started bringing descriptions over from v2, got about half of village done
+will finish it sometime tomorrow
+
+<Ocelot on Wed Nov 21 17:34:11 2001>
+Rooms 11900-11944 are now fully descripted. Baladus Stockade.
+Working on mobs/obj now. Cackle!
+-Oce
+
+<Draegoth on Wed Nov 21 22:56:22 2001>
+Rough copy of hybsil village is completed
+check it out and mudmail me what you think needs to be changed
+
+<Ulfang on Thu Nov 22 17:31:14 2001>
+Descripted quite a few more rooms today.
+Will work on finishing my area up tonight or tomorrow--desc wise.
+Happy Thanksgiving Everyone!
+-Ulfang
+
+<Ulfang on Sat Nov 24 21:17:50 2001>
+I redescripted, reflagged, renamed, re-exited, etc.. 
+all rooms 8301-8399, and 5850-5860. I still
+need to finish 5861-5899 to finish my area, until
+I can start to add shit. Anyway. Been Busy.
+Later
+
+<Ulfang on Wed Nov 28 01:07:20 2001>
+Fixed a thing with Hethe who drops Elicia's ring
+to it being the correct ring to trade to elicia
+for sapphire earrings. For some reason it was changed
+to a different ring than the one she traded for.
+-ULfang
+
+<Ulfang on Thu Nov 29 14:03:39 2001>
+Had a spurt of inspiration to add a bit more of
+a newbie friendly atmosphere in the University Suds Bar
+I added a drunken college student and drunken blonde mob
+to show up...good for lower levels. I'll broadcast that
+it's open when I make a good barkeep for the place 
+and maybe add a waitress to the random slot.
+Anyway, good for newbies. Alrdy opened, just not announced yet.
+-Ulfang
+
+<Ulfang on Fri Nov 30 12:53:49 2001>
+fixed gnome gate in firedrakes to being locked
+and closed now. It hasn't been for some time.
+Also, the entrance to village of outcasts
+via normal route-through swamp trolls-
+is not 'open', it says, exits "off map"
+if anyone knows why...let me know
+you also cannot reach village of outcasts
+via plane-shift either. Atleast I can't.
+-Ulfang
+
+<Ulfang on Sun Dec  2 20:18:25 2001>
+Added some more items to the mobs in University Suds.
+It's pretty cool, alot like your avg. local
+college bar. I'll be adding a barkeep later perhaps.
+Up to Oce. I'll also be finishing up my descriptions
+for my last 40 rooms later also.
+Ciao
+-Ulfang
+
+<Ulfang on Wed Dec  5 01:03:06 2001>
+Descripted all of the Hampton Goblin
+Cave rooms. I am going to re-do mobs
+and objects later.
+-Ulfang
+
+<Ulfang on Wed Dec  5 03:59:45 2001>
+Made some new mobs for the
+goblin lair in Hampton.
+Environmental Health final tomorrow. Woopee!
+G'Night
+-Ulfang
+
+<Ulfang on Thu Dec  6 00:27:19 2001>
+made hampton goblin cave mobs tonight
+that's bout all
+-Ulf
+
+<Ocelot on Thu Dec  6 11:06:24 2001>
+Garbagetruck, Jolly, Branch, and Forx have all been bugged
+for surveillance.
+-Oce
+
+<Ocelot on Fri Dec  7 12:56:12 2001>
+mflag 185 will now make mobs with that flag set kill
+a master and not a pet. This will cut down considerably
+on people soloing everything on the map with pets.
+Mobs with intelligence 15+ also automatically act in
+this manner.
+-Oce
+
+[Izzhar on Tue Feb 12 22:22:57 2002]
+Finished descripting crabmen area..
+I will finish monsters, make objects
+place everything in
+edit, then I'm ready to open
+but I'm going to do all of that tomorrow...
+Hopefully this will be fully ready to open tomorrow night.
+- Izzhar
+
+[Izzhar on Thu Feb 14 02:09:57 2002]
+Finished objects, finished monsters....
+Since no one is around, i'll wait to place them
+in until someone has just taken a glance at them
+tomorrow I will edit area, make finishing touches..
+set some more room flags
+Area will be ready for opening tomorrow
+- Izzhar
+
+[Izzhar on Thu Feb 14 02:24:07 2002]
+Okay.. Did some more before I went to bed.
+Finished items.. finished editing.
+Just need someone to look over items, balance them
+out a little... and need some input on a couple
+questions. then I'm ready to open
+- Izzhar
+l
+
+[Izzhar on Thu Feb 14 13:57:45 2002]
+I was going to do something today, but
+I can't stand using telnet to build so this is
+very difficult...
+
+When I get home I'm going to fix some things
+and then Im going to place mobs
+in the cave. Then this will be
+ready to be opened.
+
+- Izzhar
+
+[Izzhar on Fri Feb 15 03:25:04 2002]
+Opened area... fixed a few details..
+Anyways.. That's all
+- Izzhar

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="5415" Version="2.40" Area="ocean">
+  <Name>Foothills Trail/Garden Path Intersection</Name>
+  <ShortDescription>You are on the Foothills Trail east of the community of Nyyron.</ShortDescription>
+  <LongDescription>The Enchanted Forest is on the west side of the trail, and steep foothills
+are on the east.  There are some strange looking plants and vines on the
+west side which seem to creep and move even as you watch.  Looks like there
+is a small path cutting over to the west, through that wild vegetation.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5414</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5416</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5417</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

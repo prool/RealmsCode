@@ -21,3 +21,13 @@ following libraries (names will vary with distribution) libxml2-dev,
 zlib-dev, libaspell-dev, libpspell-dev, libboost-dev, libboost-python3-dev, python3-dev
 
 You'll also need the latest config & area files, which are available at: http://www.mudbytes.net/file-2882
+
+---
+
+This MUD is UTFized (russificated) and some modified by Prool, <proolix@gmail.com>, http://mud.kharkov.org
+
+See README2.txt
+
+Serge Pustovoitoff aka Prool, spring 2018, Kharkiv-city, Ukraine
+
+---

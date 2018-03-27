@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5467" Version="2.40" Area="ocean">
+  <Name>Castle Rutger Road</Name>
+  <ShortDescription>This is the bottom of a series of swithcback turns leading up to the castle.</ShortDescription>
+  <LongDescription>The road is wide and covered with gravel to prevent it becoming a mire
+during the winter months.  Troops must be able to be deployed in a hurry,
+and it wouldn't look good for them to get stuck on their own road.  The road
+gets very steep to the northeast.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5466</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5468</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

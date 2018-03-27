@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Object Num="613" Area="ocean" Version="2.40">
+  <Name>banded armor</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>60</ShotsMax>
+  <ShotsCur>60</ShotsCur>
+  <Armor>101</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">armor</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="10"/>
+    <Bit Num="14"/>
+    <Bit Num="19"/>
+    <Bit Num="32"/>
+    <Bit Num="39"/>
+  </Flags>
+  <Description>You've seen banded mail before, but this seems somehow better.</Description>
+  <UseOutput>You feel well protected indeed.</UseOutput>
+  <Weight>18</Weight>
+  <Type>6</Type>
+  <SubType>chain</SubType>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

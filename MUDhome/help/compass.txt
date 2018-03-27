@@ -1,0 +1,12 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  compass        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Compass objects help you navigate the overland. Each compass is attuned to
+a specific location. When you are traveling on the overland, the compass will
+tell you the general direction and distance to where it is attuned. You may
+buy compasses from general stores / pawn shops all around Derlith.
+
+If you hold or wear the compass, it will print to the screen whenever you
+walk or type "look".
+

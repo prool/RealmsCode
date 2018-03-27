@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1297" Version="2.40" Area="ocean">
+  <Name>Mighty Tree Stump</Name>
+  <ShortDescription>The path splits and seems to circle a great stump of a tree.</ShortDescription>
+  <LongDescription>The stump is perhaps two to three meters high, and is easily ten meters
+in diameter.  The path seems to circle it, and one side of the tree
+appears to be no better than the other in terms of getting around it.
+Further to the west is the stream, and to the east is thick underbrush.</LongDescription>
+  
+  <Established>756204432</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1296</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1298</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2132</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2947</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3785" Version="2.40" Area="ocean">
+  <Name>Lelion Beach Stairs</Name>
+  <ShortDescription>You are on stairs which connect Lelion Way to the beach area below it.</ShortDescription>
+  <LongDescription>These are wide stone stairs, leading from Lelion Way above, to the Lelion
+Beach and Park below.  You are half down or up, depending on which way
+you are going, and the stairs form a landing here, and an observation
+deck.  Looking north you see the Lithium Inlet, and across it you see
+the northwest section of the city.  Going down will take you to the path
+which leads west towards the Nylandian Bay.</LongDescription>
+  
+  <Established>766023958</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3786</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3784</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

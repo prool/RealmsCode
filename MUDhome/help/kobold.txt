@@ -1,0 +1,23 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  Kobold        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Adjustments: +2 Dexterity, +1 Intelligence, -1 Constitution, -2 Strength
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf,
+	Fighter/Thief
+
+Kobolds are small dog-faced creatures which live in hills and low mountain
+regions underground. They are usually quite clever in large numbers, and they
+are often the bane of many halfling or gnome settlements in hilly areas all
+across Derlith. Kobolds are tribal in nature, and each community population
+often numbers in the thousands. They breed like rabbits. Dwarves cannot stand
+them, and they often have "Kobold tossing" events at parties or clan get
+togethers. Kobolds can live in any but the most terrible filth, so they are
+quite robust for their size. In addition, they are also pretty nimble, making
+excellent thieves. Due to their small size, however, they suffer from lack of
+strength much like halflings.
+
+See in dark (infravision): Yes
+Size class: Small
+

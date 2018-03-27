@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="5053" Version="2.40" Area="ocean">
+  <Name>Open Sky</Name>
+  <ShortDescription>You are flying near the southern face of Mount Aphinix.  50.n4.e0.s0.w1</ShortDescription>
+  <LongDescription>You cannot fly any further to the north because of the sheer rock wall in
+that direction.  The upper reaches of the rock face is covered in dark
+clouds, making it impossible to see how high it goes.  It looks like there
+might be a mine entrance directly below you.</LongDescription>
+  
+  <Established>772228680</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5017</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5019</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5055</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

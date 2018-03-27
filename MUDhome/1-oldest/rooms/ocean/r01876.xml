@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="1876" Version="2.40" Area="ocean">
+  <Name>New Member's Office</Name>
+  <ShortDescription>An old woman stands up from her desk and asks how she might help you.</ShortDescription>
+  <LongDescription>All new members must come to this office before the goddess Artemis will
+accept them.  The old lady tells you that the main chapel is located to
+the northwest down the main hall.  In the chapel, the pulpit is towards
+the north and the prayer chamber is to the south.  The door in the 
+hallway to the north leads to the priestess' chambers, where she would
+be willing to train you in the ways of Artemis.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1871</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

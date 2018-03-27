@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |           Help on:  sit           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Players may sit down at any time. While sitting, a player will gain one more hit
+point and magic point than they normally would per tick. The downside of sitting
+is that you are more vulnerable to attack. Therefore, if you are hit while
+caught sitting down, you will take 1.5x the damage you normally would take (i.e.
+15 and not 10). If ever attacked while sitting, you will stand immediately
+and automatically after you are attacked. Not all attack forms provide this
+extra damage to a sitting player.
+
+You may not follow anyone or have anyone following you when you sit down.
+You may type "stand" to stand up at any time.

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room Num="1225" Version="2.47e" Area="ocean">
+  <Name>Leviathan Drive/Nagaritha Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Leviathan Drive and Nagaritha Drive.</ShortDescription>
+  <LongDescription>Leviathan Drive, running north and south, intersects Nagaritha Drive,
+running east and west, at this point.  The large Melbourne Entertainment
+Arena is located on the northeast corner of the intersection and may
+be entered along Nagaritha Drive to the east.  On the southeast corner
+is the glorious Shrine of Victory, where many warriors go to offer a
+sacrifice before a battle.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>west</Direction><Size>5</Size><Num>1</Num></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1643</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1644</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1224</Room></Target><Effects></Effects></Exit><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">1801</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

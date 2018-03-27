@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<Creature Num="716" Area="ocean" Version="2.40">
+  <Name>knight of the chrysanthemum</Name>
+  <Class>6</Class>
+  <Level>14</Level>
+  <Type>1</Type>
+  <Experience>850</Experience>
+  <Coins>
+    <Coin Num="2">200</Coin>
+  </Coins>
+  <Alignment>200</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>230</Current>
+      <Max>230</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>195</Current>
+      <Max>195</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>he is a holy knight who believes in Ragnar's cause.</Description>
+  <Keys>
+    <Key Num="0">chrysanthemum</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>390</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>5</Number>
+    <Sides>3</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>my prince, Ragnar the brave, will win with God's help.</Talk>
+  <DefenseSkill>135</DefenseSkill>
+  <AttackPower>456</AttackPower>
+  <WeaponSkill>135</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">91</Carry>
+    <Carry Area="ocean" Num="1">91</Carry>
+    <Carry Area="ocean" Num="2">290</Carry>
+    <Carry Area="ocean" Num="3">295</Carry>
+    <Carry Area="ocean" Num="4">296</Carry>
+    <Carry Area="ocean" Num="5">297</Carry>
+    <Carry Area="ocean" Num="6">613</Carry>
+    <Carry Area="ocean" Num="7">91</Carry>
+    <Carry Area="ocean" Num="8">282</Carry>
+    <Carry Area="ocean" Num="9">290</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="16"/>
+    <Bit Num="18"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="4"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+    <Bit Num="17"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="208" Version="2.40" Area="ocean">
+  <Name>Secret Alcove</Name>
+  <ShortDescription>This is a secret alcove of some sort, probably a hiding place for children.</ShortDescription>
+  <LongDescription>The passage, from which you entered the alcove, leads south back into the
+living room, and a hatch in the floor probably leads down into a basement
+of some sort.  The only problem is that it is padlocked.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">73</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">201</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hatch">
+      <Keys/>
+      <Room Area="ocean">218</Room>
+      <Key>2</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

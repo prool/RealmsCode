@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="5076" Version="2.40" Area="ocean">
+  <Name>Skies Over Kista Forest</Name>
+  <ShortDescription>You are in the saddle of a great copper dragon.  70.n0.e23.s7.w0</ShortDescription>
+  <LongDescription>The beautiful Kista Forest spreads out below you, stretching for as far
+as you can see.  In the skies to the east, you occasionally catch a glimpse
+of a copper flash in the clouds.  There are other riders in the air, but
+wild copper dragons also inhabit this area.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5046</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5072</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5073</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5070</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

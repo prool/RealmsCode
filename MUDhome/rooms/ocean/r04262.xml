@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="4262" Version="2.40" Area="ocean">
+  <Name>Tubold's Blacksmith Shop</Name>
+  <ShortDescription>This is a brick lined repair shop owned by Tubold the half-giant.</ShortDescription>
+  <LongDescription>Smoke from the fires which burn eternally in here have blackened the walls
+and the ceiling.  Around a short wall you can hear the clang of a heavy
+hammer, and can feel the heat of the forge.</LongDescription>
+  
+  <Flags>
+    <Bit Num="1"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4211</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="5325" Version="2.40" Area="ocean">
+  <Name>Lyanden Road/Timarask Valley</Name>
+  <ShortDescription>You are on Lyanden Road, near the northern end of Timarask Valley.</ShortDescription>
+  <LongDescription>Timarask Valley is generally shown on maps as a place to avoid.  Rain is
+a constant force in this small valley, blown down from Mount Aphinix over
+to the east.  There is almost a funnel effect, with the rain and wind all
+converging on this short valley.  You might ask why the road builders came
+this way, but you would learn that other ways are worse.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5324</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5326</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

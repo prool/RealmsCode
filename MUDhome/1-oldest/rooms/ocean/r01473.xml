@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="1473" Version="2.40" Area="ocean">
+  <Name>Balcony Edge</Name>
+  <ShortDescription>You are at the end of the balcony overlooking the gaming lounge.</ShortDescription>
+  <LongDescription>The edge of the balcony is reserved for the sorceress to view her
+pupils best work.  Every so often, she herself will go down to 
+practice here magic on some unsuspecting victim.  There are also
+a number of palace guards here protecting her from intruders such
+as yourself.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">130</Mob>
+      <Mob Area="ocean" Num="1">130</Mob>
+      <Mob Area="ocean" Num="2">126</Mob>
+      <Mob Area="ocean" Num="3">126</Mob>
+      <Mob Area="ocean" Num="4">130</Mob>
+      <Mob Area="ocean" Num="5">130</Mob>
+      <Mob Area="ocean" Num="6">126</Mob>
+      <Mob Area="ocean" Num="7">126</Mob>
+      <Mob Area="ocean" Num="8">130</Mob>
+      <Mob Area="ocean" Num="9">130</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>84600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">169</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>84600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">129</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>84600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">126</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1472</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

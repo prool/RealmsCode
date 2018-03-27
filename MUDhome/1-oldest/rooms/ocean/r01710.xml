@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1710" Version="2.40" Area="ocean">
+  <Name>Melbourne Avenue</Name>
+  <ShortDescription>You are walking along Melbourne Avenue, east of the Melbourne Arena.</ShortDescription>
+  <LongDescription>You can hear cheers and general screaming coming from the west in the 
+Melbourne Entertainment Arena.  The entrance to the arena is located on the
+south of the facility off of Nagaritha Drive.  On the east side of the
+road, you can see the Generic Clerical Supplies shop, providing clerics
+with a number of useful items like crucifixes, holy water and other 
+essentials of clerical life.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1711</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1709</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2285</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

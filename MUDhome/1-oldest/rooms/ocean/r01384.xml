@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="1384" Version="2.40" Area="ocean">
+  <Name>Torture Chamber</Name>
+  <ShortDescription>Stubborn prisoners are brought here to be tortured until they die.</ShortDescription>
+  <LongDescription>The torture chamber is used quite extensively.  The room is covered in
+blood and miscellaneous organs.  Ironically, it doesn't really smell
+of dead, rotting flesh, which leads you to believe things are cleaned
+up here regularly.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">131</Mob>
+      <Mob Area="ocean" Num="1">131</Mob>
+      <Mob Area="ocean" Num="2">131</Mob>
+      <Mob Area="ocean" Num="3">153</Mob>
+      <Mob Area="ocean" Num="4">153</Mob>
+      <Mob Area="ocean" Num="5">153</Mob>
+      <Mob Area="ocean" Num="6">153</Mob>
+      <Mob Area="ocean" Num="7">153</Mob>
+      <Mob Area="ocean" Num="8">153</Mob>
+      <Mob Area="ocean" Num="9">153</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>inquisition room</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1385</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1380</Room>
+      <Key>17</Key>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="inquisition room">
+      <Keys/>
+      <Room Area="ocean">1383</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

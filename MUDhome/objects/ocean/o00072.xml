@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="72" Area="ocean" Version="2.40">
+  <Name>jade idol</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">850</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">idol</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>Cut from jade, this idol is the image of a person with folded hands.</Description>
+  <Weight>2</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>6</MagicPower>
+  <InBag/>
+</Object>

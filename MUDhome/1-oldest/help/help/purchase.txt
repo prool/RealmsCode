@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  purchase         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+This command allows you to buy items from monsters, providing they have
+something to sell.  To find out what a monster may have for sale, use the
+SELECTION command.
+
+Example:
+: purch wood kor
+You pay Korben the Instructor 75 gold pieces.
+Korben the Instructor says, "Thank you very much.  Here is your wooden key."
+:

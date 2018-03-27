@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5510" Version="2.40" Area="ocean">
+  <Name>Western City Gates</Name>
+  <ShortDescription>You are inside the city of Hafnia, near the western city gates.</ShortDescription>
+  <LongDescription>The gates are left open during the day, but at sunset they are swiftly
+closed for the night.  A number of elven guards are always here, and
+tourists like to gather at noon for the changing of the guard platoons.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>gate</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">940</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">5460</Room>
+      <Flags>
+        <Bit Num="17"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

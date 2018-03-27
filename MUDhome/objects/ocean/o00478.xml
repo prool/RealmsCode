@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="478" Area="ocean" Version="2.40">
+  <Name>small pouch</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>3</ShotsMax>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">pouch</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="9"/>
+    <Bit Num="20"/>
+  </Flags>
+  <UseOutput>You grasp the pouch securely.</UseOutput>
+  <Weight>2</Weight>
+  <Type>10</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

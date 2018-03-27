@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1239" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway/Overland Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Lankshire Parkway and Overland Drive.</ShortDescription>
+  <LongDescription>Lankshire Parkway continues to the north and south, intersected by 
+Overland Drive, running east and west.  Overland Drive runs through much
+of the wealthy residental estates in town.  To the east is the notorious
+Mansion of Natasha de Allisk.  To the west, you can get to both the 
+Iilandi Family Estate and the Khelleva Stables.  On the northeast, you
+can see the corner of the Necropolis.  Lankshire Parkway forms the 
+western end of the Necropolis.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1240</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1253</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1238</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1254</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1600</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

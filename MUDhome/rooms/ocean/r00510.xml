@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="510" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are walking along Rosecrest Street, east of the Great Fellowship Hall.</ShortDescription>
+  <LongDescription>The Fellowship Hall is a meeting building for the Fellowship, a philosophical
+group of thinkers whose alternative philosophies have brought on mass
+ostracation by both the general public and many of the religious orders
+in Oceancrest.  Strange sacrificial rituals are said to have taken place
+within the halls of the building.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">509</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">511</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

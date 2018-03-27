@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="553" Version="2.40" Area="ocean">
+  <Name>Hillborough Way</Name>
+  <ShortDescription>You are on Hillborough Way, between the Shrine of Poseidon and the Pub.</ShortDescription>
+  <LongDescription>The Groggy Thimble Pub is located on the south side of the road, and
+caters to all kinds of people, from sailors to peasants to adventurers.
+The Pub is a good place to hang out and meet people.  On the north side
+of the road is the Shrine of Poseidon, one of the many gods of the oceans
+that many sailors pray to before disembarking on a long voyage.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">552</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">554</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

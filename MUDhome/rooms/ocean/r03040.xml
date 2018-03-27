@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Room Num="3040" Version="2.40" Area="ocean">
+  <Name>Goblin Underground Intersection</Name>
+  <ShortDescription>You are at a wide underground intersection somewhere in the goblin shrine.</ShortDescription>
+  <LongDescription>The intersection is devoid of all light, except for the torches and 
+lanterns you carry.  You hear clanking of metal and garbled shouts
+coming from the hall to the east. To the northeast you blood chilling and
+inhuman shrieks of pain and the smell of brimstone. The room immediately 
+to the west appears to be empty.</LongDescription>
+  
+  <Established>761533709</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>6</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">502</Mob>
+      <Mob Area="ocean" Num="1">502</Mob>
+      <Mob Area="ocean" Num="2">509</Mob>
+      <Mob Area="ocean" Num="3">509</Mob>
+      <Mob Area="ocean" Num="4">503</Mob>
+      <Mob Area="ocean" Num="5">504</Mob>
+      <Mob Area="ocean" Num="6">503</Mob>
+      <Mob Area="ocean" Num="7">504</Mob>
+      <Mob Area="ocean" Num="8">505</Mob>
+      <Mob Area="ocean" Num="9">506</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3030</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3041</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3042</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hall">
+      <Keys/>
+      <Room Area="ocean">3039</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

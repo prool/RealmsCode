@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1751" Version="2.40" Area="ocean">
+  <Name>Highland Avenue</Name>
+  <ShortDescription>You are walking along Highland Avenue, parallel to the East City Walls.</ShortDescription>
+  <LongDescription>The massive City Walls run parallel to Highland Avenue for almost the 
+entire span of the road.  On the west side of the road is the Highland
+Stables, where visitors and guests may leave their steeds in order to
+walk around town without having to worry about the safety of their 
+horses and the people on the streets.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1750</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1752</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="3220" Version="2.40" Area="ocean">
+  <Name>Elise's Chamber</Name>
+  <ShortDescription>You have entered the chambers of Elise, the most powerful mage in Kista. </ShortDescription>
+  <LongDescription>She is young, but mastered her art at a very early age, and now has many
+years experience.  Seeing what she has collected in this room, you realize
+it must take a great deal of intelligence and courage to want to become a
+master of the magick arts.  There are strange things here, some with arcane
+runes and symbols on them.  A glowing blue stone set in the wall seems to
+pulse with the runes IHN and JUX.  It would be better not to use that.</LongDescription>
+  <Trap>1</Trap>
+  <TrapExit Area="ocean">2060</TrapExit>
+  
+  <Established>755944119</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="16"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">459</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">452</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2098</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1179" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway/Netherworld Lane Intersection</Name>
+  <ShortDescription>You are at the intersection of Lankshire Parkway and Netherworld Lane.</ShortDescription>
+  <LongDescription>The intersection of Lankshire Parkway and Netherworld Lane marks the
+northwestern corner of the great Necropolis.  The entrance to the 
+Necropolis is located to the east on Netherworld Lane.  There is a 
+small memorial facility on the southeastern corner called "Nevermore
+Funeral Services".  The facility has entrances on both Lankshire 
+Parkway and Netherworld Lane.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1180</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1178</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">634</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1233</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

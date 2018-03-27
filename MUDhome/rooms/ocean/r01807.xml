@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1807" Version="2.40" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are on Golden Dolphin Way, behind the archery targets of Dentra Range.</ShortDescription>
+  <LongDescription>The Dentra Central Archery Range has two separate facilities, one for 
+beginners and another for advanced marksmen (markspeople?).  The eastern
+range is reserved for the advanced archer, so although you are behind the
+archery targets, it is very unlikely that you will actually get hit by
+a stray arrow unless you are the target.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">5</Mob>
+      <Mob Area="ocean" Num="1">5</Mob>
+      <Mob Area="ocean" Num="2">5</Mob>
+      <Mob Area="ocean" Num="3">5</Mob>
+      <Mob Area="ocean" Num="4">5</Mob>
+      <Mob Area="ocean" Num="5">5</Mob>
+      <Mob Area="ocean" Num="6">5</Mob>
+      <Mob Area="ocean" Num="7">5</Mob>
+      <Mob Area="ocean" Num="8">5</Mob>
+      <Mob Area="ocean" Num="9">5</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1808</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1806</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

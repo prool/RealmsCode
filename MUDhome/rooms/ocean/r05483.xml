@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="5483" Version="2.40" Area="ocean">
+  <Name>Trabin's Fine Armor and Weapons</Name>
+  <ShortDescription>This is a cramped little shop that sells custom made armor and weapons.</ShortDescription>
+  <LongDescription>Most of the stuff in here was made by Trabin's brother, Toby, who likes
+to try to make the unique piece of armor or the exceptional weapon.  Most
+of the stuff Toby makes is for the nobility at Prince Rutger's castle, but
+he also makes things that Trabin can sell.</LongDescription>
+  
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5480</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

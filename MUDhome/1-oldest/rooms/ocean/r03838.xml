@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3838" Version="2.40" Area="ocean">
+  <Name>Side Show Tent</Name>
+  <ShortDescription>You are in a large tent with a number of side show attractions.</ShortDescription>
+  <LongDescription>A crowd is gathered around the bearded lady, and an even bigger group
+is around JoJo the dog faced boy.  A little distance away you can see a
+a muscular weight lifter performing incredible feats of strength.
+Everywhere you look there is a crowd of people, all with their mouths
+hanging open, and their wallets totally unprotected.</LongDescription>
+  
+  <Established>770073722</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">601</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>900</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">602</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>750</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">603</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3803</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

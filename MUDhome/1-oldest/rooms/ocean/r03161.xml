@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Room Num="3161" Version="2.40" Area="ocean">
+  <Name>Waters Near the Mooring Dock</Name>
+  <ShortDescription>You are in the shark infested waters just below the mooring dock.</ShortDescription>
+  <LongDescription>As you thrash in the water, you see various forms of sea life swimming
+around you.  You also see the half-eaten remains of previous victims in
+the water.  Several hungry sharks have begun to take notice of your 
+presense here.  Nearby you see a rope hanging from the side of the ship.
+Looks like you have two choices; back to the ship full of pirates, or
+swim toward the open sea.  What are you going to do?</LongDescription>
+  
+  <Established>755854618</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">374</Mob>
+      <Mob Area="ocean" Num="1">385</Mob>
+      <Mob Area="ocean" Num="2">299</Mob>
+      <Mob Area="ocean" Num="3">294</Mob>
+      <Mob Area="ocean" Num="4">295</Mob>
+      <Mob Area="ocean" Num="5">300</Mob>
+      <Mob Area="ocean" Num="6">301</Mob>
+      <Mob Area="ocean" Num="7">302</Mob>
+      <Mob Area="ocean" Num="8">303</Mob>
+      <Mob Area="ocean" Num="9">304</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>rope</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="rope">
+      <Keys/>
+      <Room Area="ocean">3160</Room>
+      <Flags>
+        <Bit Num="19"/>
+      </Flags>
+    </Exit>
+    <Exit Name="sea">
+      <Keys/>
+      <Room Area="ocean">3162</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="dock">
+      <Keys/>
+      <Room Area="ocean">3311</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  holyword         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Clerics of Enoch upon reaching a high enough level are able to pronounce a
+holyword on their evil opponents. This is able to either do extensive damage to
+their opponent or destroy them utterly.
+
+Example:
+: holy mug
+Your holy word utterly destroys the mugger.
+You killed the mugger.
+You gained 30 experience for the death of the mugger.
+:

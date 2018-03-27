@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="999" Version="2.40a" Area="ocean">
+  <Name>Secret Compartment Under the Fountain</Name>
+  <ShortDescription>This is Caledon's secret cave under the Oceancrest Memorial Fountain.</ShortDescription>
+  <LongDescription>This is a nice, quiet area where Caledon comes to work on Oceancrest
+and other areas of Mordor.  On the walls are very detailed drawings of
+the vast city of Oceancrest.  The only exit out of here is a small 
+ladder leading back up into the Fountain.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1000</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="way up">
+      <Keys/>
+      <Room Area="ocean">99</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

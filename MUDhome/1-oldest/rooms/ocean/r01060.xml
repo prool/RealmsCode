@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1060" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, running parallel to the City Walls.</ShortDescription>
+  <LongDescription>Rosecrest Street takes a turn either towards the southwest or the northeast,
+depending on your orientation.  Going south it travels parallel to the City
+Wall, which protects the city from the coastline of the Respitial Sea.  To
+the southeast is an impressive building that was built in memory of one of 
+early peacekeepers in the city.  The building is dedicated to Sir Millwood
+of Uxtiva, and is now the residence of the present Mayor.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1134</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1061</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

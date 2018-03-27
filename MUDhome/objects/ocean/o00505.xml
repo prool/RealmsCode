@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="505" Area="ocean" Version="2.40">
+  <Name>fish scale boots</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>8</ShotsMax>
+  <ShotsCur>8</ShotsCur>
+  <Armor>4</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">30</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">scale</Key>
+    <Key Num="1">boots</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>A little slimy, but comfortable.</Description>
+  <Weight>3</Weight>
+  <Type>6</Type>
+  <WearFlag>8</WearFlag>
+  <InBag/>
+</Object>

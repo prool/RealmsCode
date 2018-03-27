@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1550" Version="2.41a" Area="ocean">
+  <Name>Entrance to Etolos</Name>
+  <ShortDescription>You are at the entrance to the sacred druid dwelling known as Etolos.</ShortDescription>
+  <LongDescription>Etolos has been the historical gathering grounds for the great druids
+of the world.  The druids are mystical people who have mastered the art
+of divine thought and healing.  They pride themselves on their unwavering
+belief in nature and it's awesome power.  It is rumored that even the 
+grounds of Etolos hold mystical powers.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1551</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">575</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2289" Version="2.40" Area="ocean">
+  <Name>D'Tan's Leather Armory</Name>
+  <ShortDescription>You are in a small shop, filled with the smell of fine leather goods.</ShortDescription>
+  <LongDescription>D'Tan's Armory fits all races and all sizes, but is limited to cloth and
+leather armors.  Mages have trouble with the heavy metal armors because
+they tend to interfere with their magical powers and thieves prefer 
+leather because it makes them move much more quietly.  D'Tan realizes
+these need and happily provides for them.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1800</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1714</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

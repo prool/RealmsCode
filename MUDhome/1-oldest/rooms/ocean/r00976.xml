@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="976" Version="2.40" Area="ocean">
+  <Name>Captain's Personal Quarters</Name>
+  <ShortDescription>You have entered the forbidden lair of the Captain's own personal quarters.</ShortDescription>
+  <LongDescription>Not even the other pirates are allowed into the Captain's Personal Quarters
+on penalty of death.  It'd probably be a good idea to leave while you
+can before the captain comes back.  The fancy quarters look nothing like
+the rest of the ship, decorated with gold, jewels and fancy paintings.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">314</Mob>
+      <Mob Area="ocean" Num="1">318</Mob>
+      <Mob Area="ocean" Num="2">314</Mob>
+      <Mob Area="ocean" Num="3">318</Mob>
+      <Mob Area="ocean" Num="4">314</Mob>
+      <Mob Area="ocean" Num="5">318</Mob>
+      <Mob Area="ocean" Num="6">314</Mob>
+      <Mob Area="ocean" Num="7">318</Mob>
+      <Mob Area="ocean" Num="8">314</Mob>
+      <Mob Area="ocean" Num="9">318</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">328</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">393</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">970</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

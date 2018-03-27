@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="2294" Version="2.41a" Area="ocean">
+  <Name>The Center Circle</Name>
+  <ShortDescription>You have entered the Center Circle of the Melbourne Entertainment Arena.</ShortDescription>
+  <LongDescription>The heart of all the activity is inside the Center Ring where hardened
+criminals and other dregs of society are thrown to be executed by the
+various warriors and knights who enter the arena to practice.  Moving
+targets are the best way to practice, and targets that fight back are
+even more challenging.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">10</Mob>
+      <Mob Area="ocean" Num="1">25</Mob>
+      <Mob Area="ocean" Num="2">11</Mob>
+      <Mob Area="ocean" Num="3">15</Mob>
+      <Mob Area="ocean" Num="4">210</Mob>
+      <Mob Area="ocean" Num="5">211</Mob>
+      <Mob Area="ocean" Num="6">215</Mob>
+      <Mob Area="ocean" Num="7">227</Mob>
+      <Mob Area="ocean" Num="8">184</Mob>
+      <Mob Area="ocean" Num="9">78</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2292</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

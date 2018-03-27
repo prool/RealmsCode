@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="550" Version="2.40a" Area="ocean">
+  <Name>Hillborough Way</Name>
+  <ShortDescription>You are on Hillborough Way, between the Fellowship Hall and the Inn.</ShortDescription>
+  <LongDescription>The Fairy Dust Inn is located on the north side of the road and the large
+Fellowship Hall is located on the southern side of the road.  To the east,
+you can see the intersection with Rosecrest Street.  Hillborough runs 
+east and west through the center of town, between a number of small shops
+and facilities.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">509</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">551</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

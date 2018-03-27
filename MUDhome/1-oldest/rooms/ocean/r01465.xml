@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="1465" Version="2.40" Area="ocean">
+  <Name>Main Hallway</Name>
+  <ShortDescription>You are in the main hallway on the second floor of the palace.</ShortDescription>
+  <LongDescription>Something sure smells good up here.  It's probably coming from the 
+kitchen to the east.  To the west, there is a door that is marked
+"Guest".  Many of the visiting dignitaries are given temporary 
+quarters for the duration of their stay here.  Being so close to
+the kitchen, they can have their choice of what they want to eat
+at any time of the day.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">166</Mob>
+      <Mob Area="ocean" Num="1">166</Mob>
+      <Mob Area="ocean" Num="2">167</Mob>
+      <Mob Area="ocean" Num="3">166</Mob>
+      <Mob Area="ocean" Num="4">174</Mob>
+      <Mob Area="ocean" Num="5">174</Mob>
+      <Mob Area="ocean" Num="6">174</Mob>
+      <Mob Area="ocean" Num="7">172</Mob>
+      <Mob Area="ocean" Num="8">174</Mob>
+      <Mob Area="ocean" Num="9">128</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1464</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1466</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="kitchen">
+      <Keys/>
+      <Room Area="ocean">1468</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1477</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

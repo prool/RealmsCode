@@ -1,0 +1,20 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  bash           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+This command allows fighters and berserkers to bash an opponent, knocking
+it to the floor for several seconds.  Bash does half the normal damage of
+a regular attack, but it also causes the opponent to be delayed for
+several seconds while he tries to get up off the floor.  This in effect
+gives the player the initiative. Note that large players may bash without
+a weapon.
+
+Syntax:
+: bash wino
+You are too small to bash without a weapon.
+: wield hoe
+You wield a hoe.
+: bash wino
+Your bash failed.
+:
+

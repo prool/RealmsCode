@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="4270" Version="2.40a" Area="ocean">
+  <Name>Royal Stairway</Name>
+  <ShortDescription>You are on the stairway reserved for Prince Rutger and his family.</ShortDescription>
+  <LongDescription>Rutger seldom invites guests to use this stairway, preferring instead to
+use the Stairway of the Nobles on the north side of the balcony when he is
+with someone.  Looking west you can see the golden door leading to the
+pledge room.  The Grand Assembly Hall is south of you.  </LongDescription>
+  
+  
+  
+  <Established>792808241</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4268</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="golden door">
+      <Keys/>
+      <Room Area="ocean">4272</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">4285</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

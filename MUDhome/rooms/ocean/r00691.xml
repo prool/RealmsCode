@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="691" Version="2.40a" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are on the south side of the Dwarven Embassy, along Darmanian Way.</ShortDescription>
+  <LongDescription>The Embassy Court, located on the north side of the road, provides a voice
+for the minority races in the huge city of Oceancrest.  Without this
+sort of representation, the dwarves and elves might not get as much 
+attention as they would like.  The Embassy is also a means to get in
+touch with or find out information about other elven or dwarven cities.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">692</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">667</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

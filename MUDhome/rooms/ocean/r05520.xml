@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="5520" Version="2.40" Area="ocean">
+  <Name>Boar's Arse Dining Room</Name>
+  <ShortDescription>You are in a circular room used as a dining area in the Boar's Arse Pub.</ShortDescription>
+  <LongDescription>As you look about you, you realize that some foods are common to all races,
+but on the other hand, there are some things that only an orc or gnome
+would eat.  A large trestle table stands in the center of the room, loaded
+with strange meats and foods.  looks like a buffet, so help yourself.</LongDescription>
+  
+  <Established>783897167</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>tap room</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="tap room">
+      <Keys/>
+      <Room Area="ocean">5519</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

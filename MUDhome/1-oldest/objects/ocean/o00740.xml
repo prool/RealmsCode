@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="740" Area="ocean" Version="2.40">
+  <Name>coffin</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys/>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="6"/>
+    <Bit Num="17"/>
+    <Bit Num="25"/>
+  </Flags>
+  <Description>It's a large box, made of polished wood and ivory.  It seems to be silk lined.</Description>
+  <Weight>500</Weight>
+  <Type>14</Type>
+  <InBag/>
+</Object>

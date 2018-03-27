@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="2090" Version="2.40" Area="ocean">
+  <Name>Adamantine Dragon's Cave</Name>
+  <ShortDescription>You are in the giant cavern which the Adamantine Dragon calls home.</ShortDescription>
+  <LongDescription>The Adamantine Dragon is perhaps the greatest dragon in the land, but because
+she is still so young, her powers of magic are not yet fully developed.  But
+even at this point, Elise is considered a master of magic and wizardry.  The
+Adamantine Dragon may someday be more powerful than the Platinum Dragon.
+Although this cave is huge, the Adamantine Dragon will grow larger with age
+and will one day fill it completely.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>86400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">232</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>86400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">748</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2088</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

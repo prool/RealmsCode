@@ -1,0 +1,192 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  guildcommands      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The guild command lets you do anything and everything involving player
+run guild functions. A keyword follows the command which determines
+what you intend to do. All are described below:
+
+Syntax: GUILD ABDICATE
+              ACCEPT | JOIN
+              BALANCE
+              DEMOTE
+              DEPOSIT
+              DISBAND
+              FOUND
+              FORUM
+              INVITE
+              LIST
+              MEMBERS
+              PROMOTE
+              REJECT
+              REMOVE
+              SUPPORT
+              STATEMENT
+              TRANSFER
+              WITHDRAW
+-----------------------------------------------------------------------
+Guild command keyword descriptions
+-----------------------------------------------------------------------
+FOUND:     This allows someone who is level 10+ to attempt to start a new
+           player run guild. When you do this, you must then find 2 other
+           players of level 7+ to SUPPORT(see below) your guild. As soon as
+           it is supported, it is put into the queue for staff approval or
+           rejection. The only reason the staff will reject a guild is
+           usually because we do not find the name acceptable. When this
+           occurs, you will receive a mudmail stating your new guild has
+           been rejected and why.
+
+           Syntax:
+           guild found <guild name>
+
+           EXAMPLE
+           : guild found Dark Legion
+
+           Note: The name of the guild you wish to found needs to be just
+                 like you want it to look in the game. In other words,
+                 for the above example, you wouldnt type "dark legion"
+                 because that is not correct upper case and it will most
+                 likely be rejected.
+
+FORUM:     This command allows the guildmaster of the guild to specify
+           which forum account is responsible for the guild's board on the
+           forum. If a guild and a corresponding guild board do not exist,
+           they will be created. If the guild and guild board already
+           exist, then it will update the guildmaster on the website to
+           the specified account.
+
+           Syntax:
+           guild forum <forum account>
+
+           EXAMPLE
+           : guild forum Dominus
+
+SUPPORT:   This allows you, if you are level 7+, to support any new guilds
+           which are needing support. You may see which guilds are needing
+           support by using the LIST keyword (see below). Once two other
+           level 7+ people have supported a guild, it goes into the queue
+           for staff approval, as mentioned above.
+
+           Syntax:
+           guild support <guild name>
+
+           EXAMPLE
+           : guild support Dark Legion
+
+           Note: Name is not case sensitive.
+
+LIST:      This will list for you all known guilds and all guilds which
+           are requesting support.
+
+INVITE:    This allows the guild founder or any officer to invite another
+           player to join a guild. Players invited must be at least level
+           7+, they cannot be a member of another guild already, and can
+           not be considering joining another guild at the time.
+
+           Syntax:
+           guild invite <player> [banker|officer]
+
+           EXAMPLE
+           : guild invite bob
+           You invite Bob to join your guild as a normal member.
+           : guild invite fred banker
+           You invite Fred to join your guild as a banker.
+           : guild invite alex officer
+           You invite Fred to join your guild as an officer.
+
+REMOVE:    This allows you to remove yourself from a guild you are in. It
+           also allows officers in a guild to remove others in a guild
+           that are lower rank than they are. If you are a guild's founder,
+           you must first ABDICATE your leadership(see below) before you
+           can remove yourself from the guild.
+
+           Syntax:
+           guild remove
+           guild remove <player>
+
+           EXAMPLE
+           : guild remove
+           You remove yourself from your guild (Dark Legion).
+           : guild remove Bob
+           You remove Bob from your guild.
+
+ABDICATE:  This allows the guildmaster to transfer leadership of the guild
+           to another guild member before leaving the guild. The guildmaster
+           will be demoted to the rank of banker.
+
+           Syntax:
+           guild abdicate <player>
+
+           EXAMPLE
+           : guild abdicate Fred
+           You promote Fred to guild leader.
+	     [Dark Legion] Fred has been promoted to guild leader by Joe.
+
+JOIN:
+ACCEPT:    This will allow a player to join a guild when invited. A player
+           must be level 7+ to join a guild.
+
+           Syntax:
+           guild join
+
+           EXAMPLE
+           : guild join
+           You have joined Dark Legion.
+
+REJECT:    This allows a player to reject an invitation to a join a guild.
+
+           Syntax:
+           guild reject
+
+           EXAMPLE
+           : guild reject
+           You reject the offer to join Dark Legion.
+
+PROMOTE:   This allows a guild leader/founder to promote guild members to
+           a higher rank.
+
+           Syntax:
+           guild promote <player> [banker|officer]
+           guild promote <player>  Note: default just promotes to officer.
+
+           EXAMPLE (bob is of the rank officer)
+           : guild promote bob
+           You promote Bob to banker
+           Bob has been promoted to the rank of banker by Bane.
+
+
+DEMOTE:    This allows a guild leader/founder to demote guild members to
+           a lower rank.
+
+           Syntax:
+           guild demote <player>
+
+           EXAMPLE:
+           : guild demote Bob
+           You demote Bob to officer
+           Bob has been demoted to officer rank by Bane.
+           : guild demote Bob
+           You demote Bob to member
+           Bob has been demoted to member rank by Bane.
+
+
+
+DISBAND:   If you are the leader, this will delete your guild.
+
+
+
+DEPOSIT:
+WITHDRAW:
+STATEMENT:
+TRANSFER:
+BALANCE:   These commands are all used for the guild's bank account. Only
+           a guild's banker and leader/founder are able to withdraw or
+           transfer money from the guild account. In all other ways, these
+           commands function the same as all of the normal banking commands.
+           HELP BANKS. You must be within a bank room to use these functions.
+
+MEMBERS:   Gives you a listing of the members of the guild specified.
+
+
+For further information about guilds, please type ^yHELP GUILDS^x.
+

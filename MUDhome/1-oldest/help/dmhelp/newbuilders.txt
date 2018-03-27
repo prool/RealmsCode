@@ -1,0 +1,115 @@
+RoH Builder and Creator Basics
+
+	Welcome to the RoH Team! This file should help 
+you become acclimated to how we do things here on RoH. 
+It is broken up into a Builder section and a Creator 
+section, and various sub-headings.
+
+GENERAL INFO
+	Depending on how well you did when we evaluated
+you, you may either be a builder now or a creator. Each
+different class is defined below, so we wont get into the
+differences yet. The one thing you need to know right now,
+is that you both abide by the same policy (*bh builderpol), 
+you both use the same online help command (*bh), as well 
+as the same channel communication command (*ms). No one 
+can see when you log on/off - you cannot even see one 
+another log on/off. In addition, you can never become 
+visible to players or communicate with them. It is 
+impossible to do so. Both classes also have room 
+assignment restrictions, which limit where you can build 
+and where you can go. There are some differences between 
+the two classes regarding this - they will be covered below.
+
+BUILDER AND CREATOR POLICY
+	It is very important you become extremely
+familiar with what you are and are not allowed to do.
+Type *bh builderpol RIGHT NOW if you have not already.
+You are responsible for knowing what is in this file
+if you are to remain a builder or creator.
+
+GETTING STARTED
+	You should now be assigned to either a specific
+CT or a specific DM. This is the person who will you
+will report to, and who will finalize and approve your
+area before it is opened to the general mud population.
+Their word is law as far as this goes, so you must be
+sure you communicate all you want to do with your area
+with them at all times, and mudmail them without any
+hesitation if you have any questions you need answered.
+Do not mudmail them about anything other than building
+related matters. They will not discuss your players
+with you, or anything that happened to them.
+	The first thing you need to do, if you do not
+have any building experience or very little experience,
+is to type *bh by itself. This will show you the list
+of builder and creator help files you may access with
+the *bh command. *bh builders will also help. Please 
+look over any of the commands you are not familiar with 
+and learn them. If you have questions, you may use the 
+*ms to communicate both with other builders and creators,
+as well as any CTs and DMs online who can assist you.
+	You must also familiarize yourself with our
+standardized building conventions by reading our
+building conventions file (*bh standards). You will
+be expected to adhere to these conventions or your
+area will not be opened. Please look at this file now.
+Alot of time can be wasted if you have to redo things
+because these conventions were not maintained.
+
+BUILDERS
+	The function of a builder is quite simple. It is
+to describe new rooms and areas. You may only do this
+inside your assigned room area. You may also use *t
+to teleport around within your assigned room range.
+The CT or DM you are assigned to will know what your
+room range is should you ever forget it. Your mission
+is easy: discuss the area you wish to build (or in
+some cases you are told what to build) with the CT/DM
+you are assigned to, map out that room and skeleton it
+by connecting all the exits to all the rooms, and then
+finally describe each room, proofreading for typos and
+grammatical errors. Your first task will always be a
+small area of around 20 rooms or less. 
+
+Promotion: Depending on how you do with your first 
+couple areas will determine what you do in the future, 
+as well as promotion to creator or beyond.
+
+CREATORS
+	A creator has all the responsibilities of a 
+builder, but he/she also is able to do a couple more
+things. For one, they are able to create monsters.
+This is somewhat restricted, as you are not able to
+set some monsters' characteristics yet. You have a
+command you can use for this called "balance". Please
+*bh balance now and read the file. Your movement is
+also less restricted than that of a builder. In order
+that one creator may help another builder or creator
+verbally by observing work, you are not only allowed 
+to *t within your assigned room range, you may also 
+*t to any other builder or creator which is on when 
+you are. Keep in mind you are only able to modify 
+rooms and creatures within your assigned room range - 
+you cannot even *stat a room or monster if it is not 
+within your range. 
+	Creators cannot create items. CTs and DMs only 
+are able to do this. Upon completion of all the room 
+descriptions and monsters to go into your area, you 
+may confer with a CT/DM to get them to build the items 
+you wish to have in the area as well as what drops them 
+and where they are.
+
+Promotion: Your next step beyond creator is caretaker.
+Keep in mind that moving up to caretaker will require
+not only outstanding dedication on your part, but you
+will also have to sacrifice playing your characters, 
+all of which will have to be suicided. This would have
+to be done for security reasons. If you are willing
+to work hard for us, and are willing to give up
+playing, you will most likely eventually be made a
+caretaker.
+
+If you have any questions about this file, please 
+ask the CT/DM you are assigned to via mudmail to help
+you.

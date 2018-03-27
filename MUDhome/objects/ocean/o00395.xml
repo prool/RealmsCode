@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="395" Area="ocean" Version="2.40">
+  <Name>blue glowing wand</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>2</ShotsMax>
+  <ShotsCur>2</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">3000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">blue</Key>
+    <Key Num="1">glowing</Key>
+    <Key Num="2">wand</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Description>This wand is cold to the touch, and glows bright blue.</Description>
+  <Weight>6</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>15</MagicPower>
+  <InBag/>
+</Object>

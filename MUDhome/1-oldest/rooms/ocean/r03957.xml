@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3957" Version="2.40" Area="ocean">
+  <Name>Elven Sales Room</Name>
+  <ShortDescription>You are in the sales room for the finest jewelry made by the elves.</ShortDescription>
+  <LongDescription>A slight, elven maiden stands nearby, ready to show you anything you
+might desire in the way of magical jewelry.  If you wish to see anything,
+you must ask the maiden about her selection.  Then, if you decide to buy,
+you must tell the maid purchase &lt;item&gt; elven maid.  She's pretty, but
+blond, so you have to be very explicit.</LongDescription>
+  
+  <Established>770363517</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+    <Bit Num="17"/>
+    <Bit Num="27"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">608</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2942</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3956</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

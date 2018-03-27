@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="2938" Version="2.40" Area="ocean">
+  <Name>Khallazar's Compound</Name>
+  <ShortDescription>You are standing beneath a canopy of ropes criss-crossed between the
+trees, and supporting an odd looking hut two meters over your head.</ShortDescription>
+  <LongDescription>Most of the vegetation around you looks in good health, but toward the
+back side of the house there is a steady trickle of acid, creating a
+small stream flowing to the south.  The vegetation in that direction
+has grown wildly and turned wierd colors, and writhes with a life of
+its own.  A rope ladder hangs from the overhead canopy.</LongDescription>
+  
+  <Established>759021437</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2936</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="ladder">
+      <Keys/>
+      <Room Area="ocean">2939</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5411</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

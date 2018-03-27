@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="1578" Version="2.40" Area="ocean">
+  <Name>The Shrine of Truth</Name>
+  <ShortDescription>You have entered the Etolian Druid's Shrine of Truth.</ShortDescription>
+  <LongDescription>The druids believe strongly in six basic virtues, and have built up a
+shrine in dedication of each.  The Shrine of Truth is dedicated
+(quite obviously) to truth.  Withouth truth, there would be no honesty
+and no honor.  The druids hold truth as one of their most important
+virtues.</LongDescription>
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

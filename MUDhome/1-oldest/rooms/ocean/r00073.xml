@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="73" Version="2.40" Area="ocean">
+  <Name>Brownhaven Way</Name>
+  <ShortDescription>You are on one of the nicest throughfares in the entire village.</ShortDescription>
+  <LongDescription>Fruit trees and shady elms line the way, and several old homes are set
+back away from the roadway.  The homes look like old money.  A little
+further to the north is where the professional people of Brownhaven
+have their business establishments.  Perhaps this is the section of 
+town where they live.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">2</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">63</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">83</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

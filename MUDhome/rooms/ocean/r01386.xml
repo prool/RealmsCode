@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<Room Num="1386" Version="2.40" Area="ocean">
+  <Name>Dungeon Hallway</Name>
+  <ShortDescription>You are in the main dungeon hallway.</ShortDescription>
+  <LongDescription>By the smell of things, you think something just died.  In fact, it's
+just the kitchen cooking up some grub for the prisoners.  Forcing them
+to eat that food is probably enough torture for one person.  The door
+to the north is inscribed "Inquisition Room/Authorized Use Only".  The
+door looks like it's bolted shut.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">131</Mob>
+      <Mob Area="ocean" Num="1">131</Mob>
+      <Mob Area="ocean" Num="2">131</Mob>
+      <Mob Area="ocean" Num="3">131</Mob>
+      <Mob Area="ocean" Num="4">151</Mob>
+      <Mob Area="ocean" Num="5">151</Mob>
+      <Mob Area="ocean" Num="6">151</Mob>
+      <Mob Area="ocean" Num="7">151</Mob>
+      <Mob Area="ocean" Num="8">152</Mob>
+      <Mob Area="ocean" Num="9">152</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1387</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1385</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1383</Room>
+      <Key>17</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="kitchen">
+      <Keys/>
+      <Room Area="ocean">1390</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

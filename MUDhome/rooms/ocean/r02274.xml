@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2274" Version="2.40" Area="ocean">
+  <Name>Roman Iron Works</Name>
+  <ShortDescription>You are in Roman's Iron Works Shop, where you can buy some fine goods.</ShortDescription>
+  <LongDescription>The Roman Iron Works shop is dedicated to cast-iron weapons and shields
+that last for a while, but may not do as much dammage or protect as well.
+As usual, the price you pay for inexpensive goods has benifits, but also
+has drawbacks.  The Roman Iron Works employees are more than happy to
+provide you with anything you might want.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1707</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1020" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard - Walk of Heroes</Name>
+  <ShortDescription>You are on Eidenhoft Boulevard, which runs northeast to southwest.</ShortDescription>
+  <LongDescription>You are at the famed Walk of Heroes, where Oceancrest's braves fighters,
+mages and priests are commemorated in large bronze statues.  The statues
+line Eidenhoft Boulevard on both sides of the road.  To the southwest 
+is the Oceancrest Memorial Fountain, commemorating those who gave their
+lives in battle.  To the northeast, you can see Hillcrest Drive. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1001</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1021</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

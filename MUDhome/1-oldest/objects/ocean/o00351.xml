@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="351" Area="ocean" Version="2.40">
+  <Name>chieftain's halberd</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>4</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">halberd</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="19"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>You see a large, decorated halberd used by large barbarian leaders.</Description>
+  <Weight>10</Weight>
+  <Type>5</Type>
+  <SubType>polearm</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

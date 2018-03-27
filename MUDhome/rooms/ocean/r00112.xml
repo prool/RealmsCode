@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="112" Version="2.40" Area="ocean">
+  <Name>Nathan Drive</Name>
+  <ShortDescription>Nathan Drive continues to the east and west.</ShortDescription>
+  <LongDescription>You are walking near the southern village wall, near several nice little
+shops.  North of you is the only herb kitchen in the village.  Herbs can
+be very costly, depending on what they can do for you.  The road continues
+to the east and west from here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">111</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">113</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

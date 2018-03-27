@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1055" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are travelling on Eidenhoft Boulevard, just south of the Shrine.</ShortDescription>
+  <LongDescription>The Shrine of Protectors, located north of Eidenhoft Boulevard, is more
+of a monument to the gods.  Fighters leaving for battle often leave a
+small sacrifice on the alters to appease the gods and to give them some
+added strength.  The Shrine is not guided by a group of clerics or 
+priests, but is upkept by those who pray and leave sacrifices there.
+The intersection of Oceancrest Drive and Nagaritha Drive is southwest
+of here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1054</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1044</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="4052" Version="2.40a" Area="ocean">
+  <Name>Granovetter's Corner</Name>
+  <ShortDescription>You are in the tree-lined yard in front of Hans Granovetter's Inn.</ShortDescription>
+  <LongDescription>the large old inn was hand-built by Granovetter the dwarf and his wife more
+than a century ago.  They carried river stones from the Ramdes River which
+is a little way further east of here.  The newer buildings were built by
+their sons and daughters as the family grew, and now there is a thriving
+little village starting to spread out near this bend in the North Highway.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">26</Mob>
+      <Mob Area="ocean" Num="1">26</Mob>
+      <Mob Area="ocean" Num="2">26</Mob>
+      <Mob Area="ocean" Num="3">26</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3847</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3846</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="inn">
+      <Keys/>
+      <Room Area="ocean">4053</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="path">
+      <Keys/>
+      <Room Area="ocean">4056</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

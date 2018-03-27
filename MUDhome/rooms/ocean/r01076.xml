@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1076" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, east of the West City Wall.</ShortDescription>
+  <LongDescription>To the north, you can see the intersection of Eidenhoft and Waterfront
+Way to Rosecrest Street.  Although it is not a "major" intersection, it
+does seem to be adequately busy for this time of day.  On the west is,
+of course, the large City Wall.  On the east, you see large building
+which appears to house a number of small shops.  The one on the east 
+side of Rosecrest appears to be a supply shop.  The storefronts are
+facing Waterfront Way and are inaccessable from here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1075</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1077</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="1333" Version="2.40" Area="ocean">
+  <Name>Ministry Way/Lelion Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Lelion Way and Ministry Way.</ShortDescription>
+  <LongDescription>Ministry Way runs north from the intersection with Lelion Way, which runs
+east and west.  Ministry Way runs past the North Oceancrest Ministries
+of Tranquility, Discipline and Rumor Control.  Lelion Way runs east and
+west across the north side of the Wakarimasu Park.</LongDescription>
+  
+  <Established>729225284</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1332</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1339</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1340</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

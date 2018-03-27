@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="485" Area="ocean" Version="2.40">
+  <Name>jewelled scepter</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>2</ShotsMax>
+  <ShotsCur>2</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">scepter</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>It is a finely ornamented scepter with a head laden with jewels.</Description>
+  <Weight>3</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>18</MagicPower>
+  <InBag/>
+</Object>

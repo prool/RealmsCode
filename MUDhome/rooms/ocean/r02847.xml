@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2847" Version="2.40a" Area="ocean">
+  <Name>Crimson Hallway</Name>
+  <ShortDescription>You are walking through the strange and mysterious crimson hallway.</ShortDescription>
+  <LongDescription>The hallway again turns to the north and west, winding through the
+strange corridors under the glacier.  The hallways are very desolate, but
+you can hear some activity in the distance to the northeast and southwest.
+The crimson hallways glitter with magnificent radiance.</LongDescription>
+  
+  
+  
+  <Established>729228766</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2846</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2848</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Room Num="601" Version="2.47i" Area="ocean">
+  <Name>Avatar Boulevard/Hofton Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Avatar Boulevard and Hofton Avenue.</ShortDescription>
+  <LongDescription>Avatar Boulevard runs south out of the intersection with Hofton Avenue,
+which continues to the east and west.  On the north, you can see the
+magnificent City Walls, which protect the citizens of Oceancrest from any
+and all attacks or sieges which might be launched against the city.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>west</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">602</Room></Target><Effects></Effects></Exit><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">671</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">672</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

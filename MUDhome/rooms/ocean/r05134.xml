@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="5134" Version="2.40" Area="ocean">
+  <Name>East Wall</Name>
+  <ShortDescription>This is the eastern interior wall of the Tower of Kayleigh.</ShortDescription>
+  <LongDescription>The hallway branches to the north and south from here, or you can go east
+toward the castle's main courtyard, where most of the castle activity took
+place during a happier time.  The Witch of Kayleigh murdered the duke who
+once owned this castle, and drove his followers into the forest.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5126</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5136</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5135</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

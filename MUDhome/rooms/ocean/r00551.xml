@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="551" Version="2.40" Area="ocean">
+  <Name>Hillborough Way</Name>
+  <ShortDescription>You are walking along Hillborough Way, south of the Fairy Dust Inn.</ShortDescription>
+  <LongDescription>On the south side of the road is the Great Fellowship Hall.  An order
+known only as the Fellowship meets here regularly to pass along thier
+philosophy of law and order through religious supremacy.  Of the many
+religious orders in Oceancrest, the Fellowship is usually the most
+unbelievable, yet the most alluring.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">550</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">552</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

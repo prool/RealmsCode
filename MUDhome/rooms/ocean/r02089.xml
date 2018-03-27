@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="2089" Version="2.40" Area="ocean">
+  <Name>Forest Trail</Name>
+  <ShortDescription>You are traveling around a forest trail, trapped by some force shield.</ShortDescription>
+  <LongDescription>As you continue around the circle, you notice a strange, reddish haze
+all around you.  It appears to be some sort of dense red fog, although
+you are unsure where exactly it leads.  The path you are on continues
+to the south and southwest.  When you look at the trees, they almost 
+appear to be making faces at you.  This forest is very strange.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>red haze</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2087</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2088</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="red haze">
+      <Keys/>
+      <Room Area="ocean">2541</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

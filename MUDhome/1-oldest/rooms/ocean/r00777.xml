@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="777" Version="2.40" Area="ocean">
+  <Name>Orange Jacinith Hall</Name>
+  <ShortDescription>You are in a spectacular hall of glimmering orange jaciniths lining the
+walls, continuing to the west.  To the east is the giant iron gate.</ShortDescription>
+  <LongDescription>An apparition appears before you in the form of a beautiful maiden in
+glimmering white.  She wears a robe and amulet with a mysterious symbol
+shaped like a large, upside-down Y.  She says to you: "Your quest begins
+here.  Before you can enter the East Gate, you must find a key that 
+is more magnificantly yellow than gold.  The Crystal Alcove is filled 
+with illusions.  Trust your senses and you cannot fail.  Do not enter
+the Alcove until you have found an object which light cannot penetrate."  
+She disappears into a puff of smoke before you can ask any more questions,
+such as, what is this quest she talks about.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>iron gate</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">778</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="iron gate">
+      <Keys/>
+      <Room Area="ocean">776</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

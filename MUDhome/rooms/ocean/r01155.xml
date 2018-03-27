@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1155" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are walking along Eidenhoft Boulevard, unaware of the events around you.</ShortDescription>
+  <LongDescription>The large Oceancrest Central Arena is located to the west of here.  The
+giant complex is designed to challenge the bravest of warriors in bloody,
+hand-to-hand combat.  It is rumored that there are even some dragons in
+here that may be called upon to do battle in the name of entertainment.
+To the east, you can see the Khelleva Stables, the entrance to which
+is located off of Khelleva Drive.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1156</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1154</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1901</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

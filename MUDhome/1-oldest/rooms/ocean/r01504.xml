@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="1504" Version="2.40" Area="ocean">
+  <Name>Path to the Lake</Name>
+  <ShortDescription>This is a temporary path to Eeste Lake</ShortDescription>
+  <LongDescription>Only experienced players should proceed.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1502</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1197</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

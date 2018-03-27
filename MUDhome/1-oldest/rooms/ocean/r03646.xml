@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3646" Version="2.40" Area="ocean">
+  <Name>Dark Tunnel</Name>
+  <ShortDescription>You are in a deep and dark tunnel beneath the Castle Ragnar.</ShortDescription>
+  <LongDescription>The walls are smooth and dry, with not a cobweb to be found.  Beneath your
+feet is some of the rarest rose marble in the land of Mordor.  Only your
+own movements can be heard in this silent tunnel.  The still air has a dry,
+stale quality to it, and you lick your lips to keep them from cracking.
+The tunnel continues to the north and south.</LongDescription>
+  
+  <Established>764987954</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3645</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3655</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

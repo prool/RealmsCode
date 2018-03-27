@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="5147" Version="2.40" Area="ocean">
+  <Name>Alcove Entry</Name>
+  <ShortDescription>You are at the bottom of a slimy stairway, looking into a large room.</ShortDescription>
+  <LongDescription>The stairway goes up in a tight, twisting pattern, disappearing quickly.
+The room you can see has a flickering light coming from it, but you cannot
+see what is creating it.  There is a stinking smell coming from the floor,
+and a green slime covers the walls.</LongDescription>
+  <Trap>6</Trap>
+  
+  <Established>773392311</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="alcove">
+      <Keys/>
+      <Room Area="ocean">5148</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5146</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

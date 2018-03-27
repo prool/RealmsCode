@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="322" Area="ocean" Version="2.40">
+  <Name>adamantine scale mail sleeves</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>60</ShotsMax>
+  <ShotsCur>60</ShotsCur>
+  <Armor>22</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">750</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">scale</Key>
+    <Key Num="1">mail</Key>
+    <Key Num="2">sleeves</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="10"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Description>You see some shiny scale mail sleeves made of strong adamantine.</Description>
+  <Weight>8</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>2</WearFlag>
+  <InBag/>
+</Object>

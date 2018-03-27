@@ -1,0 +1,9 @@
+DEXTERITY:
+
+Dexterity is an important stat for some classes but not for others. First
+off, higher dexterity lets you hide better. It also determines your chances
+of fleeing successfully. If you are a berserker or fighter, it helps you
+circle better the higher it is. For thieves, it assists you in your ability
+to steal. Last but not least, a higher dexterity makes it so monsters and 
+players have a harder time hitting you.
+

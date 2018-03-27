@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="1363" Version="2.47i" Area="ocean">
+  <Name>Neilian Drive</Name>
+  <ShortDescription>Neilian Drive cuts through two dense forest regions on both sides.</ShortDescription>
+  <LongDescription>Two dense forests are separated by Neilian Drive as it cuts through the
+thick brush.  It is unsure whether or not there was a natural break between
+the two forests or whether the forest was carved out to make way for this
+bypass.  No one ever seems to enter or exit from the forests, so it would
+seem that no one would care.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>west</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">1362</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1364</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

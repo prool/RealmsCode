@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2256" Version="2.40" Area="ocean">
+  <Name>Back Alley</Name>
+  <ShortDescription>You are in the back alley of a large shopping complex.</ShortDescription>
+  <LongDescription>The alley is very dark and really smells bad.  As you walk along, you 
+stumble over drunks and knock down their make-shift houses of discarded
+tree bark.  You're not sure anything could survive down here, but then
+again,you're not sure you'd want to meet anything that could.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2254</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2255</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

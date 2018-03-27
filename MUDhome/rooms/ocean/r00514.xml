@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="514" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are traveling along Oceancrest Street, east of the Recycling Center.</ShortDescription>
+  <LongDescription>The Oceancrest Recycling Plant and Reclaimation Center processes every 
+piece of garbage that everyone has ever thrown out onto the street in order
+to make more useful products.  The citizens are encouraged to bring trash
+to the recycling centers throughout town and offer five gold pieces for each
+piece of trash recycled.  On the east side of the road, you can see the
+Ivanhouse Sporting Facility, the entrance to which is located to the south
+off of Netherworld Lane.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">513</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1205</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

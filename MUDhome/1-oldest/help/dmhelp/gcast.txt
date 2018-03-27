@@ -1,0 +1,17 @@
+Help on:
+	*GCAST [-r|s] <spell>
+
+This function will globally cast a spell.  This function is limited to
+non-offensive spells.  Using the -r option will result in the spell only
+being cast in the room you are in. The -s option will silently cast
+the spell.
+
+example:
+: *gcast protection
+You cast protection on everyone.
+Dominus (+) casts protection on everyone.
+
+: *gcast -s vig
+You silently cast vigor on everyone.
+Dominus (+) silently casts vigor on everyone.
+

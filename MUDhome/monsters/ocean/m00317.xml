@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Creature Num="317" Area="ocean" Version="2.47i">
+  <Name>Raspillion</Name>
+  <Id>-1</Id>
+  <Class>4</Class>
+  <Level>10</Level>
+  <Type>1</Type>
+  <Experience>400</Experience>
+  <Coins><Coin Num="2">250</Coin></Coins>
+  <Alignment>25</Alignment>
+  <Stats><Stat Name="Strength"><Initial>100</Initial><Modifiers></Modifiers></Stat><Stat Name="Dexterity"><Initial>200</Initial><Modifiers></Modifiers></Stat><Stat Name="Constitution"><Initial>200</Initial><Modifiers></Modifiers></Stat><Stat Name="Intelligence"><Initial>200</Initial><Modifiers></Modifiers></Stat><Stat Name="Piety"><Initial>150</Initial><Modifiers></Modifiers></Stat><Stat Name="Hp"><Initial>120</Initial><Modifiers></Modifiers></Stat><Stat Name="Mp"><Initial>200</Initial><Modifiers></Modifiers></Stat></Stats>
+  <Description>You see Raspillion, a young elven mage working in the back of the shop.</Description>
+  <Keys><Key Num="0">raspillion</Key></Keys>
+  <MoveTypes></MoveTypes>
+  <Armor>150</Armor>
+  <Proficiencies></Proficiencies>
+  <Dice><Number>2</Number></Dice>
+  <Attacks></Attacks>
+  <Talk>Good day to you.  How may I be of assistance?</Talk>
+  <TalkResponses></TalkResponses>
+  <DefenseSkill>95</DefenseSkill>
+  <AttackPower>260</AttackPower>
+  <WeaponSkill>95</WeaponSkill>
+  <Factions></Factions>
+  <Skills></Skills>
+  <Effects><Effect><Name>resist-magic</Name><Duration>-1</Duration><Strength>1</Strength><Extra>0</Extra><PulseModifier>0</PulseModifier></Effect></Effects>
+  <SpecialAttacks></SpecialAttacks>
+  <DailyTimers></DailyTimers>
+  <SavingThrows><SavingThrow Num="0"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="1"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="2"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="3"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="4"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow><SavingThrow Num="5"><Chance>0</Chance><Gained>0</Gained><Misc>0</Misc></SavingThrow></SavingThrows>
+  <Spells><Bit Num="6"></Bit><Bit Num="25"></Bit><Bit Num="29"></Bit><Bit Num="30"></Bit><Bit Num="31"></Bit><Bit Num="32"></Bit><Bit Num="33"></Bit><Bit Num="34"></Bit></Spells>
+  <Flags><Bit Num="5"></Bit><Bit Num="12"></Bit><Bit Num="17"></Bit></Flags>
+  <Inventory></Inventory>
+</Creature>

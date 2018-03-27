@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="395" Version="2.40" Area="ocean">
+  <Name>Tranquility Way</Name>
+  <ShortDescription>You are on Tranquility Way, east of the intersection with Leviathan Drive.</ShortDescription>
+  <LongDescription>There is a wonderful old forest on both sides of the road, but the trees
+on the south side of the road seem younger than those on the north.  Shadows
+in the forest seem to move, but only out of the corner of your eye.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">394</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">570</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

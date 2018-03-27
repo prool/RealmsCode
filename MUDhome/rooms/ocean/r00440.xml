@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="440" Version="2.40" Area="ocean">
+  <Name>Delaney Drive/Islandia Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Delaney Drive and Islandia Drive.</ShortDescription>
+  <LongDescription>Delaney Drive runs north from Islandia Road, which runs to the east and
+west.  On the south side of the road is the Adlermann Center of Marine
+Research and Oceanography.  The fancy academy is located off the coast
+of the Rhinestone Marina.  On the northeast corner of the road is the
+Cathedral of Worldly Bliss, and the War Veteran's Historical Library is
+located on the opposite corner.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">481</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">482</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">439</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

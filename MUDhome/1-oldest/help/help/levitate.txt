@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  levitate spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 10
+School:  Transmutation
+Domain:  Augmentation
+
+This spell helps its target avoid traps and climb well. Constantly staying a few
+inches off the ground helps the target to avoid nasty pitfalls that could
+otherwise prove deadly. Also, some un-climbable areas may suddenly become more
+accessable as climbing is made easier by this spell.
+
+Syntax:
+cast levitate <target>

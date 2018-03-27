@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="426" Area="ocean" Version="2.40">
+  <Name>giant hammer</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>85</ShotsMax>
+  <ShotsCur>85</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>4</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">7500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">hammer</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>The large hammer is used by the frost giants in the mountains.</Description>
+  <Weight>10</Weight>
+  <Type>5</Type>
+  <SubType>hammer</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

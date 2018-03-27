@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="4277" Version="2.40a" Area="ocean">
+  <Name>Stairway of the Nobles</Name>
+  <ShortDescription>You are on the top level of the Stairway of the Nobles.</ShortDescription>
+  <LongDescription>The hallway you see leads to the family chambers and apartments of Prince
+Rutger, master of this Tower Castle.  There are several doors and open rooms
+on the south side of the hallway, and it looks like another short stairway
+leads to the roof.  A secretary's desk blocks your entry to the hallway.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4276</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4290</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

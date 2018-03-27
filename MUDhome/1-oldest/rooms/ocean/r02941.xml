@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="2941" Version="2.40" Area="ocean">
+  <Name>Elven Workshop Front Door</Name>
+  <ShortDescription>You are standing outside the front door of the Elven Workshop.</ShortDescription>
+  <LongDescription>The colors all about you are sharp and vivid, a perfect place for this
+snow white cottage with the red trim.  A good smelling smoke puffs from
+the chimney around the corner to the north, while to the south you see
+a great waterwheel connected to the house.  It turns slowly as the  
+water from a stream cascades down its paddles.  A small sign on the door
+bids you to enter, if you are interested in purchasing elven crafted
+jewelry.  As a sort of after thought, the sign adds, "Please do not
+use magic inside."</LongDescription>
+  
+  <Established>759022493</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">220</Mob>
+      <Mob Area="ocean" Num="1">220</Mob>
+      <Mob Area="ocean" Num="2">220</Mob>
+      <Mob Area="ocean" Num="3">220</Mob>
+      <Mob Area="ocean" Num="4">237</Mob>
+      <Mob Area="ocean" Num="5">278</Mob>
+      <Mob Area="ocean" Num="6">278</Mob>
+      <Mob Area="ocean" Num="7">278</Mob>
+      <Mob Area="ocean" Num="8">351</Mob>
+      <Mob Area="ocean" Num="9">352</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2144</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="red door">
+      <Keys/>
+      <Room Area="ocean">2942</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

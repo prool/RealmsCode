@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="3008" Version="2.40" Area="ocean">
+  <Name>Tunneled Hallway</Name>
+  <ShortDescription>You are in a cavernous tunnel forming a long hallway, next to a wooden door.</ShortDescription>
+  <LongDescription>A soft luminous glow comes from the rock surface, giving little light.
+To the east the hallway fades off into pitch darkness, and a putrid smell
+floats on a slight breeze coming from that direction.  There's an old
+adage about "follow your nose," but was it meant for a situation like this?</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3007</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3009</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

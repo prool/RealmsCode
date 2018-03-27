@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<Creature Num="264" Area="ocean" Version="2.40">
+  <Name>grunt</Name>
+  <Class>2</Class>
+  <Level>3</Level>
+  <Type>1</Type>
+  <Experience>30</Experience>
+  <Coins/>
+  <Alignment>10</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>190</Current>
+      <Max>190</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>50</Current>
+      <Max>50</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>30</Current>
+      <Max>30</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a very large barbarian trying to steal your shield.</Description>
+  <Keys/>
+  <MoveTypes/>
+  <Armor>100</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>3</Number>
+    <Sides>1</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>What are you doing in here?</Talk>
+  <NumWander>2</NumWander>
+  <DefenseSkill>25</DefenseSkill>
+  <AttackPower>398</AttackPower>
+  <WeaponSkill>25</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">27</Carry>
+    <Carry Area="ocean" Num="1">28</Carry>
+    <Carry Area="ocean" Num="2">29</Carry>
+    <Carry Area="ocean" Num="3">348</Carry>
+    <Carry Area="ocean" Num="4">335</Carry>
+    <Carry Area="ocean" Num="5">336</Carry>
+    <Carry Area="ocean" Num="6">334</Carry>
+    <Carry Area="ocean" Num="7">18</Carry>
+    <Carry Area="ocean" Num="8">17</Carry>
+    <Carry Area="ocean" Num="9">15</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

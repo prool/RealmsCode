@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3923" Version="2.40" Area="ocean">
+  <Name>Sapphire Room</Name>
+  <LongDescription>The walls are covered with sapphires, which cast an eerie blue light.
+There is a single chair in the room, which hovers slightly off the floor.
+Seated there is a wizard wearing a red robe with a blue collar.  He has a
+tiny, glittering key to the training room in his hand.  He does not speak,
+but points to the glittering key with his other hand.</LongDescription>
+  <LowLevel>2</LowLevel>
+  <HighLevel>2</HighLevel>
+  
+  <Established>770761240</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training room</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">615</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3920</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">3939</Room>
+      <Key>78</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

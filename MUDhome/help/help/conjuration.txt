@@ -1,0 +1,11 @@
+^WSpells:^x
+    conjure
+    dense-fog
+    toxic-cloud
+    wall-of-fire
+    wall-of-force
+    wall-of-thorns
+
+See also:
+    HELP SCHOOLS
+

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1126" Version="2.40" Area="ocean">
+  <Name>Marina Way/Main Street Intersection</Name>
+  <ShortDescription>You are at the intersection of Main Street and Marina Way.</ShortDescription>
+  <LongDescription>Main Street runs west towards the Nylandian Bay and east towards the center
+of the city.  Similarly, Marina Way also heads north towards the center of
+town, but close to the Nylandian Port.  Going south will bring you near to
+the Oceancrest Central Arena, where brave combatants battle to the death for
+the amusement of spectators who can't get enough of the sight of blood.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1019</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1125</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1171</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1701</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

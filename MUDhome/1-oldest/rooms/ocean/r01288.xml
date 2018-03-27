@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="1288" Version="2.40" Area="ocean">
+  <Name>Dark Path</Name>
+  <ShortDescription>You are on a dark path running north/south through the Enchanted Forest.</ShortDescription>
+  <LongDescription>The trees have an ominous look to them, and seem almost alive.  At
+times they seem to actually clutch at you as you walk in the center
+of the path.  The path gets even darker to the north, and seems to
+get narrower as well.</LongDescription>
+  
+  <Established>756168792</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">189</Mob>
+      <Mob Area="ocean" Num="1">116</Mob>
+      <Mob Area="ocean" Num="2">189</Mob>
+      <Mob Area="ocean" Num="3">118</Mob>
+      <Mob Area="ocean" Num="4">189</Mob>
+      <Mob Area="ocean" Num="5">51</Mob>
+      <Mob Area="ocean" Num="6">52</Mob>
+      <Mob Area="ocean" Num="7">189</Mob>
+      <Mob Area="ocean" Num="8">60</Mob>
+      <Mob Area="ocean" Num="9">189</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1287</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1291</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1289</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

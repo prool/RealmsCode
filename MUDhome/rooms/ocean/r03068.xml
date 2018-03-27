@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3068" Version="2.40" Area="ocean">
+  <Name>Temple Passage</Name>
+  <ShortDescription>You are crawling through a secret passage in the Ulandian Temple.</ShortDescription>
+  <LongDescription>the broken stones which were once part of the walls and floor make it
+difficult to traverse the passageway, and in places you must crawl where
+you would rather walk.  From time-to-time, you hear the sound of falling
+stones or timbers somewhere in the distance.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3067</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3069</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

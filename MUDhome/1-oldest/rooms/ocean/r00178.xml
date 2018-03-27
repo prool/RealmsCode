@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="178" Version="2.40" Area="ocean">
+  <Name>Vickers House Dining Room</Name>
+  <LongDescription>This is the elegant dining room of the Vickers House.
+A very long table with at least a dozen chairs around it takes up most of
+the center of the room.  At one time the Vickers family was the leader in
+Brownhaven's social and community gatherings.  At least until the present
+mayor killed old man Vickers in a card game.  The two young Vickers boys
+were taken to their uncle's in a tiny village of Phexton in the mountains.
+No one knows what happened to Lady Vickers.  Perhaps suicide?</LongDescription>
+  
+  <Established>785614368</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>front room</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="front room">
+      <Keys/>
+      <Room Area="ocean">175</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="butler's pantry">
+      <Keys/>
+      <Room Area="ocean">179</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1187" Version="2.40a" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, north of the Necropolis.</ShortDescription>
+  <LongDescription>Netherworld Lante continues to the east and west from here.  The
+magnificent Necropolis to the south holds the remains of many great
+and noble warriors, priests, mages and, of course, the remains of
+King Lyanden.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1186</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1188</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

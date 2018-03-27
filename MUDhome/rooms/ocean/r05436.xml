@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5436" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>West of the road is an ancient graveyard, part of Saint Anne's Retreat.</ShortDescription>
+  <LongDescription>Further west you can see the twin towers of the stone church and the
+bell tower near the front.  The rear of the building appears to have a
+small garden behind it.  Funny thing about graveyards, no matter how well
+kept they are, they always seem to be haunted.  This one is not well kept.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5435</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5437</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

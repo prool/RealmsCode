@@ -1,0 +1,11 @@
+Help on DM command:
+	RMHIST
+
+Deletes a player's history.
+
+: *rmhist min
+: Min has no history to delete.
+: ### Min is editing her character history.
+: *rmhist min
+Min's history deleted.
+

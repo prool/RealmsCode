@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="3760" Version="2.40" Area="ocean">
+  <Name>Oceancrest Orphanage</Name>
+  <ShortDescription>You are in the front room of the Oceancrest Orphanage.</ShortDescription>
+  <LongDescription>This orphanage is supported by the dwarven populace of Oceancrest as a
+haven for children of all races.  The dwarves, as part of their reverence
+for Moradin, administer and support this home for kids.  Unfortunately,
+the kids are so destructive, the place is in constant need of repair, and
+many of the rooms are overcrowded.  But oddly, even though there is a lot
+of spare room in the cellar, the kids refuse to go down there.</LongDescription>
+  
+  <Established>765663707</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">563</Mob>
+      <Mob Area="ocean" Num="1">564</Mob>
+      <Mob Area="ocean" Num="2">565</Mob>
+      <Mob Area="ocean" Num="3">566</Mob>
+      <Mob Area="ocean" Num="4">567</Mob>
+      <Mob Area="ocean" Num="5">563</Mob>
+      <Mob Area="ocean" Num="6">564</Mob>
+      <Mob Area="ocean" Num="7">563</Mob>
+      <Mob Area="ocean" Num="8">564</Mob>
+      <Mob Area="ocean" Num="9">565</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1744</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3761</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="4020" Version="2.41a" Area="ocean">
+  <Name>Base of Golgoth Mountain</Name>
+  <ShortDescription>You are at the base of a huge ice mountain, known as Golgoth Mountain.</ShortDescription>
+  <LongDescription>Various types of snow flowers and vegetation cling to the lower regions
+of the mountain.  However, the higher elevations are obscured by dark and
+foreboding clouds, making it impossible to distinguish the peak.</LongDescription>
+  
+  
+  
+  <Established>771786236</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">434</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">4021</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4071</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4025</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

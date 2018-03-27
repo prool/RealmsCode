@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  birthday         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+This command will show you who is having a birthday today. It works similar
+to the "who" command in that, if you cannot see the person due to
+invisibily or such, you will not be able to tell if they are having a
+birthday.
+
+: birthday
+It is the 21st of Moitra, the 5th month of the year.
+Today is Bob's birthday! He is 18 years old.
+
+:
+

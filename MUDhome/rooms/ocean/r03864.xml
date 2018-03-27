@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3864" Version="2.40" Area="ocean">
+  <Name>Jungle Trail</Name>
+  <ShortDescription>You are on a heavily overgrown trail leading through the Uland jungle.</ShortDescription>
+  <LongDescription>The path twists constantly and changes direction every few meters, but
+is generally taking a north-south direction.  The path looks old, and will
+probably be fully overgrown by next year.  Evidently no one travels this
+way any longer.  The jungle is actually a rather noisy place, and birds
+overhead make a terrible racket.  In the distance you hear growls and
+roars, and an agonizing scream.</LongDescription>
+  
+  <Established>768680419</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3863</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3865</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">374</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

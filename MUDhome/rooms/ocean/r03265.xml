@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="3265" Version="2.40" Area="ocean">
+  <Name>Ogden Villa Guard Post</Name>
+  <ShortDescription>You are standing before a large gate leading into the Odgen Villa Estate.</ShortDescription>
+  <LongDescription>Several security guards patrol the Villa grounds with great mastiff dogs.  
+A security station is close by, and a posted sign says intruders will be
+dealt with severly.  If you have not been invited, it's probably not a good
+idea to stay.  There's really not many places to hide on the grounds.</LongDescription>
+  
+  <Established>756159685</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">373</Mob>
+      <Mob Area="ocean" Num="1">373</Mob>
+      <Mob Area="ocean" Num="2">373</Mob>
+      <Mob Area="ocean" Num="3">373</Mob>
+      <Mob Area="ocean" Num="4">373</Mob>
+      <Mob Area="ocean" Num="5">373</Mob>
+      <Mob Area="ocean" Num="6">373</Mob>
+      <Mob Area="ocean" Num="7">373</Mob>
+      <Mob Area="ocean" Num="8">373</Mob>
+      <Mob Area="ocean" Num="9">373</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">501</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1258</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">3266</Room>
+      <Key>42</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

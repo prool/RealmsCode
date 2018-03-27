@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="405" Version="2.40" Area="ocean">
+  <Name>Evenborough Way</Name>
+  <ShortDescription>You are walking along Evenborough Way, west of the Darmanian Center.</ShortDescription>
+  <LongDescription>The Darmanian Center, on the east side of the road, is a monument dedicated
+to the first civilizations that existed in what is now Oceancrest.  Or so
+the Darmanian Society wishes to believe.  The entrance to the center is
+located to the east.  On the west side of the road is Caldea's Fine Silk
+shop, where various imported items can be purchased.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">404</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">406</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

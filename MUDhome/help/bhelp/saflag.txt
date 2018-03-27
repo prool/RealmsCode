@@ -1,0 +1,42 @@
+^WSpecial Attack Flags^x
+ 1         Single Target          
+ 2         AE: Enemey             
+ 3         AE: All                
+ 4         AE: Player             
+ 5         AE: Monster            
+ 6         Require Hide           
+ 7         No Dodge               
+ 8         No Parry               
+ 9         No Block               
+ 10        Undead Targets Only    
+ 11        No Undead Targets      
+ 12        No Undead Ward         
+ 13        No Drain Shield        
+ 14        Undead Ward Reduces Dmg   
+ 15        Intelligence Reduces Dmg   
+ 16        Berserk Reduces Dmg    
+ 17        Drain Shield Reduces Dmg   
+ 18        Save NoDmg             
+ 19        Half Hp Dmg            
+ 20        Can Dinsintegrate      
+ 21        RM No Dmg              
+ 22        Earth Shield Reduce    
+ 23        Acid                   
+ 24        Dissolves              
+ 25        Poisons                
+ 26        Diseases               
+ 27        Blinds                 
+ 28        Can Knock Unconscious   
+ 29        Zap Mana               
+ 30        Randomize Stun         
+ 31        Check Die Rob          
+ 32        Drain Damge            
+ 33        Day Only               
+ 34        Night Only             
+ 35        Check Phys Dmg         
+ 36        Check Neg Energy Dmg   
+ 37        No Attack on Low HP    
+ 38        Holy War Only          
+ 39        No Unconscious         
+ 40        Target Needs Mana      
+

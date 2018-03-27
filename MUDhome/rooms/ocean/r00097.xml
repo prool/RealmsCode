@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="97" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>Main Street continues to the north and south.</ShortDescription>
+  <LongDescription>The shrine of the White Rose, a holy chapel for paladins, is on the east
+side of Main Street.  Across the street on the west side is the militia
+guard station for this area of the village.  Farther to the north, on the
+east side, is a stable.  You can see South Plasnelt Park much farther to
+the east, behind the stable area.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="5">6</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">107</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">87</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">96</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">56</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

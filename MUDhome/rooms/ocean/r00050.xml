@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room Num="50" Version="2.47i" Area="ocean">
+  <Name>Limbo</Name>
+  <ShortDescription>This is limbo, a place you go when you die.</ShortDescription>
+  <LongDescription>Lost souls wander about aimlessly, hopelessly seeking to gain an
+insight into the meaning of their past lives.  Adventurous souls
+who do not wish to return to Celduin to start their lives again
+should go through the blue door.
+&amp;#Ð;&amp;#º;&amp;#Ð;&amp;#¸;&amp;#Ñ;&amp;#€;&amp;#Ð;&amp;#¸;&amp;#Ð;&amp;#»;&amp;#Ð;&amp;#»;&amp;#Ð;&amp;#¸;&amp;#Ñ;&amp;#†;</LongDescription>
+  <Flags><Bit Num="1"></Bit><Bit Num="11"></Bit><Bit Num="12"></Bit><Bit Num="31"></Bit></Flags>
+  <Wander></Wander>
+  <Track><Direction>green door</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="green door"><Keys></Keys><Target><Room Area="ocean">1</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

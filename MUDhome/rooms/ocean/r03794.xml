@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3794" Version="2.40" Area="ocean">
+  <Name>South Beach</Name>
+  <ShortDescription>You are between high sand dunes on the south side of Lelion Beach and Park.</ShortDescription>
+  <LongDescription>You are north of the bay, and looking further north you see the beginning
+of a high cliff that gets higher as it reaches into the waters to the west.
+There are a number of both large and small caves on the cliff side, and
+it looks like they might be interconnected inside.  A little bit to the
+north is a path leading to the top of the cliffs.  The waters of the bay
+lie to the south.</LongDescription>
+  
+  <Established>765957291</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3793</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="path">
+      <Keys/>
+      <Room Area="ocean">3795</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3787</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

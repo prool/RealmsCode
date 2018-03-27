@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="5016" Version="2.40" Area="ocean">
+  <Name>Open Sky</Name>
+  <ShortDescription>You are in open sky, north of Brownhaven.  65.n3.e0.s0.w0</ShortDescription>
+  <LongDescription>From time to time there have been reports of a floating city, which may or 
+may not be true.  As you scan the skies, you note there is seldom a long,
+clear patch of open air, but instead there are lots of clouds everywhere.
+If there is such a thing as a floating city, it could easily stay hidden.</LongDescription>
+  
+  <Established>772227827</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5019</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5015</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5018</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5017</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

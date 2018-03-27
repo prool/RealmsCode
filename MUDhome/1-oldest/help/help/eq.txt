@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  equipment        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Equipment shows you a list of the objects that you are currently wearing,
+wielding and holding.
+
+Example:
+: eq
+On body:   some cured leather armor
+On hands:  some hard leather gloves
+On head:   a black leather skullcap
+On waist:  an iron-studded leather belt
+On face:   a hard leather mask
+:

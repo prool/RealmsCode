@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1373" Version="2.40" Area="ocean">
+  <Name>Desolate Hallway</Name>
+  <ShortDescription>You are in a damp, musty hallway that seems to be deserted.</ShortDescription>
+  <LongDescription>The one thing that catches your eye is the large number of crushed
+skeletons on the floor.  In fact, a number of them have been crushed
+into dust.  It's quite bizzare, but at the same time quite curious.</LongDescription>
+  <Trap>3</Trap>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">131</Mob>
+      <Mob Area="ocean" Num="1">131</Mob>
+      <Mob Area="ocean" Num="2">131</Mob>
+      <Mob Area="ocean" Num="3">131</Mob>
+      <Mob Area="ocean" Num="4">131</Mob>
+      <Mob Area="ocean" Num="5">131</Mob>
+      <Mob Area="ocean" Num="6">131</Mob>
+      <Mob Area="ocean" Num="7">131</Mob>
+      <Mob Area="ocean" Num="8">131</Mob>
+      <Mob Area="ocean" Num="9">131</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1372</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1387</Room>
+      <Key>12</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

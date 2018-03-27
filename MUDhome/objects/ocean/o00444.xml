@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="444" Area="ocean" Version="2.40">
+  <Name>sahuagin heavy crossbow</Name>
+  <Adjustment>2</Adjustment>
+  <ShotsMax>95</ShotsMax>
+  <ShotsCur>95</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>8</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">25000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">heavy</Key>
+    <Key Num="1">crossbow</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>The large crossbow is deadly underwater, but even worse on the surface.</Description>
+  <Weight>6</Weight>
+  <Type>5</Type>
+  <SubType>crossbow</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

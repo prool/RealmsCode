@@ -1,0 +1,25 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |  Help on:  sms (text messaging)   | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+This mud allows you to interact with it using text messaging. As this is a new
+feature, functionality is still being coded. If you have any suggestions,
+please post about them on the forum!
+
+To use this service, text message ^C41411^x with the following text:
+
+Available:
+  ^Crealms who^x: see who is online
+  ^Crealms finger <player>^x: see when player last logged in and if
+                they have any mail, identical to the finger command
+  ^Crealms send <player> <message>^x: send a player a message
+
+This service is offered through^W ^Whttp://www.textmarks.com/^x. The service
+itself is free to use, but your phone company can charge you for using text
+messages (depends on your plan). Because it is free, they will tack on ads
+to the end of the text message.
+
+Example:
+Send a text message to ^C41411^x containing ^Crealms who^x.
+You will receive a text message from ^C41411^x:
+   ^COnline: Min, Bob^x

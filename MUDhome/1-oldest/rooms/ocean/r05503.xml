@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5503" Version="2.40" Area="ocean">
+  <Name>Hafnia Circle</Name>
+  <ShortDescription>This is the northern circumference of the Elven city of Hafnia.</ShortDescription>
+  <LongDescription>A majestic white temple stands on the north side of the circle.  The
+entrance appears to be a little bit to the west.  Beside the temple is a
+smaller building with a sign outside that says, "Fraternal Order in the
+Mystical Self-Appreciation of Tall Elves."  The door is open.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5502</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5504</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

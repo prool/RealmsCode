@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="3746" Version="2.40" Area="ocean">
+  <Name>White Knight's Arena</Name>
+  <ShortDescription>You are in an arena draped with snow-white banners.  A White Knight awaits.</ShortDescription>
+  <LongDescription>You have done well to reach your present level, but now you must once again
+challenge the White Knight to show you are truly worthy of advancement.
+The knight who awaits your move is at the level to which you aspire, and
+he will do his best to defeat you, although he wishs you well.  You may
+strike the first blow when you are ready.  The White Knight knows that
+if God accepts you, you will defeat him.  He is ready.</LongDescription>
+  <LowLevel>8</LowLevel>
+  <HighLevel>8</HighLevel>
+  
+  <Established>766779837</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">573</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3747</Room>
+      <Key>6</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">290</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

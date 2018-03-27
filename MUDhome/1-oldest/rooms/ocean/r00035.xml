@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="35" Version="2.40a" Area="ocean">
+  <Name>Mayor's Office</Name>
+  <ShortDescription>You are in the office of Brownhaven's esteemed mayor.</ShortDescription>
+  <LongDescription>Like most political figures, the mayor is off on a junket most of the time.
+He does, however, have influential friends at Lyanden court, so he is able
+to do a lot of good for the town.  Maybe that's why he has been re-elected
+so many times.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="11"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1138" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are on Overland Drive, just west of Oceanview Drive.</ShortDescription>
+  <LongDescription>Overland Drive is a scenic road which runs from the West Wall towards
+the Necropolis to the east.  The Oceancrest Detention and Rehabilitation
+Center is located to the north and Dillsdale Memorial Park is located
+to the south.  The Detention Center is more of a maze, as are most
+administrative institutions.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1037</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1139</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

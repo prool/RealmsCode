@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<Creature Num="730" Area="ocean" Version="2.40">
+  <Name>Prince Ragnar</Name>
+  <Class>6</Class>
+  <Level>25</Level>
+  <Type>1</Type>
+  <Experience>20000</Experience>
+  <Coins>
+    <Coin Num="2">9999</Coin>
+  </Coins>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>999</Current>
+      <Max>999</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>999</Current>
+      <Max>999</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>He is resplendent in a black velvet suit piped in silver.</Description>
+  <Keys>
+    <Key Num="0">prince</Key>
+    <Key Num="1">ragnar</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>910</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>20</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>Speak with me a little before you take your oath.</Talk>
+  <DefenseSkill>245</DefenseSkill>
+  <AttackPower>600</AttackPower>
+  <WeaponSkill>245</WeaponSkill>
+  <CarriedItems/>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="16"/>
+    <Bit Num="38"/>
+    <Bit Num="39"/>
+    <Bit Num="40"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+    <Bit Num="17"/>
+    <Bit Num="22"/>
+    <Bit Num="23"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="4009" Version="2.40" Area="ocean">
+  <Name>Training Room Observation Deck</Name>
+  <ShortDescription>You are on an observation deck a few meters above the training room floor.</ShortDescription>
+  <LongDescription>A few of the very important visitors to the Wizard's Eye are occasionally
+allowed to stand here to watch the training that takes place on the floor
+below.  However, no mage under level twelve may fly from this point to the
+training room.  Down below you see a very high level red-robed sorceress
+who is congratulating young mages who have left their mentor's rooms to
+receive the final instructions.</LongDescription>
+  <LowLevel>12</LowLevel>
+  
+  <Established>771803154</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3939</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3926</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="3428" Version="2.40" Area="ocean">
+  <Name>The Vaults</Name>
+  <ShortDescription>You are at a bend in the hallway which leads west and south.</ShortDescription>
+  <LongDescription>The hallway shows little signs of use, but has been kept very clean.
+Looking down the hall to the west, you see several doors which open
+out to the hallway, also two passages branch off to the south towards
+the center of the vaults.  You begin to notice a distinct smell, you
+aren't sure what it is, but should you proceed further in, you might
+not want to know.</LongDescription>
+  
+  <Established>760058523</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3427</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3429</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2505" Version="2.40" Area="ocean">
+  <Name>Charybdis Way</Name>
+  <ShortDescription>You are on Charybdis Way, which runs north and south.  </ShortDescription>
+  <LongDescription>The intersection with Alturis Road is directly south.  From here, you can
+see the famous Hanging Gardens which are built along Alturis Road.  There
+is an entrance to the great medical research hospital run by the Holy Order
+of the White Rose.  The entrance is on the west side of the street.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2504</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2038</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2563</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

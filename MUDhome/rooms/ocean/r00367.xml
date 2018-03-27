@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="367" Version="2.40" Area="ocean">
+  <Name>Pink Lady Saloon</Name>
+  <ShortDescription>The Pink Lady Saloon is very popular with the island's local population.</ShortDescription>
+  <LongDescription>The place is quiet and flies buzz in circles around the room and the free
+lunch at the end of the counter.  Now you know why this place is called
+the Pink Lady - The woman behind the bar must weigh at least four hundred
+pounds and has a glowing pink complexion.  She wears a flimsy see-through
+blouse, which you would rather not see through.  A sign on the walls says,
+"We don't want any trouble in here.  Take it outside to the alley."</LongDescription>
+  
+  <Established>761254366</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">80</Mob>
+      <Mob Area="ocean" Num="1">79</Mob>
+      <Mob Area="ocean" Num="2">79</Mob>
+      <Mob Area="ocean" Num="3">80</Mob>
+      <Mob Area="ocean" Num="4">79</Mob>
+      <Mob Area="ocean" Num="5">80</Mob>
+      <Mob Area="ocean" Num="6">80</Mob>
+      <Mob Area="ocean" Num="7">79</Mob>
+      <Mob Area="ocean" Num="8">79</Mob>
+      <Mob Area="ocean" Num="9">79</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">527</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">354</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="back door">
+      <Keys/>
+      <Room Area="ocean">368</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="3326" Version="2.40" Area="ocean">
+  <Name>Necropolis Path</Name>
+  <ShortDescription>You have reached a fork in the road, outside the Great Fighter's Hall.</ShortDescription>
+  <LongDescription>You are outside the magnificent fighter's hall where a grand stairway
+leads up to the entrance, which is elevated high above the ground. 
+Atop the entrance there are two golden statues stoically guarding 
+the entrance to the hall.  Inside are buried many of the greatest
+warriors Oceancrest has ever known. The Tomb of Eldritch is northeast.</LongDescription>
+  
+  <Established>759804539</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <Traffic>4</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">138</Mob>
+      <Mob Area="ocean" Num="1">138</Mob>
+      <Mob Area="ocean" Num="2">138</Mob>
+      <Mob Area="ocean" Num="3">138</Mob>
+      <Mob Area="ocean" Num="4">138</Mob>
+      <Mob Area="ocean" Num="5">138</Mob>
+      <Mob Area="ocean" Num="6">138</Mob>
+      <Mob Area="ocean" Num="7">138</Mob>
+      <Mob Area="ocean" Num="8">138</Mob>
+      <Mob Area="ocean" Num="9">138</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3325</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3328</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3329</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hall">
+      <Keys/>
+      <Room Area="ocean">3377</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

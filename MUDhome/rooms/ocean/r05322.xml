@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5322" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>This is the grand road built by King Lyanden before his death.</ShortDescription>
+  <LongDescription>There is a militia that patrols this road making it safe during the day,
+but they retire during the night leaving it unprotected.  Highwaymen and
+trolls are the most common problems at night, so the militia recommends
+that only experienced groups travel after sun down.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5321</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5330</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

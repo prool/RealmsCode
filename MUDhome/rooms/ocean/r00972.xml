@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="972" Version="2.40" Area="ocean">
+  <Name>The Widow Maker Galley</Name>
+  <ShortDescription>You are in the galley of the pirate ship Widow Maker.</ShortDescription>
+  <LongDescription>The aroma from the boiling pots of various foods and soups is quite
+appealing.  The galley is fairly busy as the cook and his assistance scurry
+to get dinner ready on time, or the captain will be quite upset.  The
+last cook was literally thrown off the ship for not having dinner ready
+on time.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">971</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

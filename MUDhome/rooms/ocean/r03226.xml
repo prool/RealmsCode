@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3226" Version="2.40a" Area="ocean">
+  <Name>Mulberry Road</Name>
+  <ShortDescription>You are traveling on Mulberry Road, which connects Kista and Oceancrest.</ShortDescription>
+  <LongDescription>The serenity of this beautiful roadway fills your mind with tranquility
+and peaceful thoughts as you walk along here.  In the distance to the 
+south is the city of Kista, while Oceancrest lies to the north.  On a
+moonlit night the view of the Lithium Inlet to the east is truly an
+awe inspiring sight.</LongDescription>
+  
+  <Established>756089481</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3225</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3227</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

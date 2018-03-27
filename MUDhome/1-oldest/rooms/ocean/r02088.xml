@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="2088" Version="2.40" Area="ocean">
+  <Name>Forest Trail</Name>
+  <ShortDescription>You are on a forest trail, trapped by some mysterious force shield.</ShortDescription>
+  <LongDescription>You continue to walk around the circle, well aware that you are going
+around in circles.  However, each time you go around, you start to 
+notice more and more.  There is a small cave to the south that is 
+barely visible through the brush and trees.  The question is whether
+or not the force shield will let you through to it.  A reddish haze is 
+curling around you, even now.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2087</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2089</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="cave">
+      <Keys/>
+      <Room Area="ocean">2090</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

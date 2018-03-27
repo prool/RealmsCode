@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="2307" Version="2.40a" Area="ocean">
+  <Name>South Hillborough Plaza</Name>
+  <ShortDescription>You are in a large shopping plaza to the south of Hillborough Way.</ShortDescription>
+  <LongDescription>The southern section of the Hillborough Plaza boasts a number of fine
+specialty shops for you to look through.  To the northwest is the mysterious
+Might and Magic Mystery Shop.  To the west is the House of Hides.  To the
+south is Merdock's Hidden Weapons Shop of Wares.  To the east is Platinum
+Eyes, and to the northeast is Nathan's Light Armory.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">712</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2314</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3720</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2324</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

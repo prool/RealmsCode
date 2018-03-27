@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3343" Version="2.40" Area="ocean">
+  <Name>Necropolis Path</Name>
+  <ShortDescription>You are on the Necropolis path, passing a large grove of trees to the
+southwest and the mausoleum to the east.   Its power can be felt by 
+archmages even from outside the Necropolis.   The entire building has
+a red aura to it, so it might be best to stay away.</ShortDescription>
+  
+  <Established>759804202</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3342</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3344</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

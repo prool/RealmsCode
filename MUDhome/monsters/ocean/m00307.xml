@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<Creature Num="307" Area="ocean" Version="2.40">
+  <Name>selkie</Name>
+  <Level>7</Level>
+  <Type>1</Type>
+  <Experience>160</Experience>
+  <Coins>
+    <Coin Num="2">25</Coin>
+  </Coins>
+  <Alignment>25</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>220</Current>
+      <Max>220</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>85</Current>
+      <Max>85</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a human-like creature of the ocean that can shift-change.</Description>
+  <Keys/>
+  <MoveTypes/>
+  <Armor>150</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>3</Number>
+    <Sides>1</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>I cannot stay out of the water long...I've just come to visit.</Talk>
+  <NumWander>2</NumWander>
+  <DefenseSkill>65</DefenseSkill>
+  <AttackPower>180</AttackPower>
+  <WeaponSkill>65</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">3</Carry>
+    <Carry Area="ocean" Num="1">3</Carry>
+    <Carry Area="ocean" Num="2">20</Carry>
+    <Carry Area="ocean" Num="3">186</Carry>
+    <Carry Area="ocean" Num="4">211</Carry>
+    <Carry Area="ocean" Num="5">229</Carry>
+    <Carry Area="ocean" Num="6">246</Carry>
+    <Carry Area="ocean" Num="7">246</Carry>
+    <Carry Area="ocean" Num="8">370</Carry>
+    <Carry Area="ocean" Num="9">199</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

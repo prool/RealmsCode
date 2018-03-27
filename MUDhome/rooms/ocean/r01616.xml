@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1616" Version="2.40a" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking casually down Overland Drive, admiring the scenery.</ShortDescription>
+  <LongDescription>Although there is not much to see around here, the rural atmosphere of
+the region is pleasant if not relaxing.  To the south, you can see the
+extend of the city's boundaries.  The large City Wall looms to the 
+south of Golden Dolphin Way.  Oceancrest is surrounded by a large City
+Wall to protect the citizens from both internal and external threats.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1615</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1617</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

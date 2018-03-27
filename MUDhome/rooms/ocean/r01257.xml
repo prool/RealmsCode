@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1257" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along Overland Drive, south of the Khelleva Stables.</ShortDescription>
+  <LongDescription>The Khelleva Stables run east for nearly two regular-sized city blocks.
+You've never seen so many horses in your life.  On the south side of the
+road is the Odgen Family Villa, a small, but very powerful family who
+actually runs most of the town.  They say money corrupts, but if you're
+the one with the money, you won't hear any complaints.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1256</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1258</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

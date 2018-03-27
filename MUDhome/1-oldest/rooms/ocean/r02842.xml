@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2842" Version="2.40a" Area="ocean">
+  <Name>Plasnelt Lake Shore</Name>
+  <ShortDescription>You are on the western shore of the large, underground lake.</ShortDescription>
+  <LongDescription>You can see a small hallway forming to the west.  The walls are of 
+magnificent gold and silver, sparkling with scattered gemstones and
+jewels.  To the east, you can see the large underground, salt-water
+lake that seems to have formed under the glacier.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>729215966</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="lake">
+      <Keys/>
+      <Room Area="ocean">2837</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2843</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="622" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard</Name>
+  <ShortDescription>You are on Avatar Boulevard, between the Bushman Ranch and the Plantation.</ShortDescription>
+  <LongDescription>The vast plantation of the Bushman Estate is located to the west of the
+road.  On the east, you can see the Bushman Ranch and House, where the
+Bushman Family runs their agricultural operation.  Additionally, they
+raise and nurture horses and other domesticated animals on their ranch
+to be used and sold as needed.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">621</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">623</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

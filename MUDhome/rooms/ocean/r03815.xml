@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3815" Version="2.40" Area="ocean">
+  <Name>The Animal Wagon</Name>
+  <ShortDescription>This is the wagon where most of of the predatory animals are kept. </ShortDescription>
+  <LongDescription>The wagon is full of cages which are occasionaly left open and may cause
+danger to people who are not guided by a trainer.  You see different kinds
+of tigers, lion, bears and elephants around.  Most of them are not pleased 
+with their living conditions and may try to lash out at you.  The view and
+the air here are not too pleasent, and even the trainers, themselves, try
+not to come here, as long as possible.  You can hardly make your way
+through the dung and bones which cover the floor.</LongDescription>
+  
+  <Established>765770251</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3813</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

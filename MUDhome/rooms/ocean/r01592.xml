@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1592" Version="2.40a" Area="ocean">
+  <Name>Trees Above Etolos</Name>
+  <ShortDescription>You are walking along some planks set up around the trees of Etolos.</ShortDescription>
+  <LongDescription>High up above the inner circle of the Etolian culture, you find yourself
+in a predicament.  The further inward you get, the more druidian guards
+come out.  Yet curiosity has been cursed upon you.  The planks in the
+trees have been set up by the druids to allow easy travelling between the
+tall tress in the forest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">181</Mob>
+      <Mob Area="ocean" Num="1">180</Mob>
+      <Mob Area="ocean" Num="2">180</Mob>
+      <Mob Area="ocean" Num="3">180</Mob>
+      <Mob Area="ocean" Num="4">179</Mob>
+      <Mob Area="ocean" Num="5">179</Mob>
+      <Mob Area="ocean" Num="6">183</Mob>
+      <Mob Area="ocean" Num="7">183</Mob>
+      <Mob Area="ocean" Num="8">183</Mob>
+      <Mob Area="ocean" Num="9">183</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1593</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1591</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

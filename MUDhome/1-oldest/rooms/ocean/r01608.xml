@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1608" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along Overland Drive, west of the Richland Grape Orchard.</ShortDescription>
+  <LongDescription>The Chateau Richland Grape Orchard is well known for their finely 
+fermented wines and juices, bottled yearly just days after the grapes
+are harvested.  The Chateau is always looking for cheap, inexperienced
+labor to do work clearing the fields of vermin and other disease-ridden
+pests that might destroy the grapes.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1609</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1607</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

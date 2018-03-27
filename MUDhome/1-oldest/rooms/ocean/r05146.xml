@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="5146" Version="2.40" Area="ocean">
+  <Name>Stone Stairway</Name>
+  <ShortDescription>You are on a stone landing, in a very small stinking stairway.</ShortDescription>
+  <LongDescription>The stone is cold to the touch, and there isn't much light.  A flickering
+bluish light from below is the only light to see by.  An awful odor comes
+from below as well.  Make up your mind which way to go, but you only have
+two choices.  A scrawl on the wall says, "PREPARE...!"  Be careful of the
+slime you see moving slowly up the stairs.</LongDescription>
+  
+  <Established>773392010</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5147</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5145</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

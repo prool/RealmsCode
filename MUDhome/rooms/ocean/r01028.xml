@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="1028" Version="2.40" Area="ocean">
+  <Name>Main Street/Waterfront Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Waterfront Way and Main Street.</ShortDescription>
+  <LongDescription>Main Street is one of the larger streets in Oceancrest, which will 
+eventually bring you into the center of town.  To the south, you can
+make out the City Walls and the Southern Entrance to the city, about
+a block away.  Waterfront Way travels east to west.  East on Waterfront
+brings you towards the farmlands and graineries of town.  West on
+Waterfront leads into more shopping centers and towards the eastern
+city wall.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>6</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">6</Mob>
+      <Mob Area="ocean" Num="2">6</Mob>
+      <Mob Area="ocean" Num="3">8</Mob>
+      <Mob Area="ocean" Num="4">2</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1027</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1029</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1108</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1107</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

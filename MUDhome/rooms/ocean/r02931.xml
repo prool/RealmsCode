@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="2931" Version="2.40" Area="ocean">
+  <Name>Small Road</Name>
+  <ShortDescription>You are on a small dirt road leading through the woods.</ShortDescription>
+  <LongDescription>Birds sing in the trees and the sky overhead is clear.  A horse and wagon
+has passed this way recently, as there are wheel ruts and steaming manure
+in the road.  Beside the road, there are fruit trees laden with ripe fruit
+and vines covered with plump berries.  A small stream gurgles nearby. </LongDescription>
+  
+  <Established>759015248</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">117</Mob>
+      <Mob Area="ocean" Num="1">116</Mob>
+      <Mob Area="ocean" Num="2">116</Mob>
+      <Mob Area="ocean" Num="3">123</Mob>
+      <Mob Area="ocean" Num="4">185</Mob>
+      <Mob Area="ocean" Num="5">185</Mob>
+      <Mob Area="ocean" Num="6">188</Mob>
+      <Mob Area="ocean" Num="7">189</Mob>
+      <Mob Area="ocean" Num="8">189</Mob>
+      <Mob Area="ocean" Num="9">190</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1291</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2930</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1045" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive</Name>
+  <ShortDescription>You are on Oceanview Drive, just south of a very large and busy intersection.</ShortDescription>
+  <LongDescription>To the north is the intersection of Oceanview Drive, Nagaritha Drive and
+Eidenhoft Boulevard.  The intersection is extremely busy but most people
+don't stop to talk there.  To the east is a fairly new shopping complex.
+By contrast, the sign above the shop on this side of the road is pretty
+old and faded.  It reads, "Bysantal's General Goods and Services."</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">4</Mob>
+      <Mob Area="ocean" Num="2">6</Mob>
+      <Mob Area="ocean" Num="3">1</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1044</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1046</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1888</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

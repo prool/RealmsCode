@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="137" Version="2.40" Area="ocean">
+  <Name>Caledonia Road/Poor Alley</Name>
+  <ShortDescription>Caledonia Road intersects with Poor Alley to the south.</ShortDescription>
+  <LongDescription>You are in a very shabby part of the village, and everywhere you look, you
+see tiny, makeshift houses.  They appear to have be constructed of anything
+that was at hand.  The house on the corner was apparently made from old
+packing boxes, each labeled, "Uland Rum."  A rather wide alley extends to
+the south.  People who live here refer to it as Poor Alley.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+      <Mob Area="ocean" Num="9">10</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">136</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">138</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">142</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5447" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>You are on Hafnia Mountain Road, west of a traveler's rest stop.</ShortDescription>
+  <LongDescription>the rest area is quite a bit higher than where you are presently, but the
+road is wide and clear along here, making it an easy climb.  The road looks 
+cold and bitter to the west, and gusts of wind sweep in that direction.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5446</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5448</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

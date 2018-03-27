@@ -1,0 +1,21 @@
+^WSpells:^x
+    bless
+    drain-shield
+    earth-shield
+    free-action
+    heat-protection
+    protection
+    resist-air
+    resist-cold
+    resist-earth
+    resist-electric
+    resist-fire
+    resist-water
+    static-field
+    undead-ward
+    warmth
+    wind-protection
+
+See also:
+    HELP DOMAINS
+

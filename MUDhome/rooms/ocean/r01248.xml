@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1248" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are walking along Lankshire Parkway, north of Nagaritha Drive.</ShortDescription>
+  <LongDescription>Lankshire Parkway intersects Nagaritha Drive to the south.  On the east
+side of the road, you can see the large Slaughterhouse facility and the
+various preservation and packaging routines.  The large center provides
+much of the beef the city needs to survive.  Luckily, Oceancrest is very
+self-sufficent, and relies little on outside sources for day-to-day needs.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1247</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1213</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

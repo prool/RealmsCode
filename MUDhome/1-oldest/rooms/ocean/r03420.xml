@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="3420" Version="2.40" Area="ocean">
+  <Name>Overgrown Path</Name>
+  <LowLevel>20</LowLevel>
+  
+  <Established>760054714</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>path</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="path">
+      <Keys/>
+      <Room Area="ocean">3342</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3421</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

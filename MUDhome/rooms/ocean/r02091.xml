@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<Room Num="2091" Version="2.40" Area="ocean">
+  <Name>Alligator's Pit</Name>
+  <ShortDescription>You are in a pit directly below the throne room of the Kista Towers.</ShortDescription>
+  <LongDescription>The Alligator's Pit was designed to remove pesky intruders from entering
+the throne room and asking to be heard.  This was a problem at first,
+but people soon realized that the lords in the towers had better things
+to do than listen to the commoner's drivel about how poorly crops are
+doing this year, etc.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">218</Mob>
+      <Mob Area="ocean" Num="1">219</Mob>
+      <Mob Area="ocean" Num="2">218</Mob>
+      <Mob Area="ocean" Num="3">219</Mob>
+      <Mob Area="ocean" Num="4">218</Mob>
+      <Mob Area="ocean" Num="5">218</Mob>
+      <Mob Area="ocean" Num="6">219</Mob>
+      <Mob Area="ocean" Num="7">218</Mob>
+      <Mob Area="ocean" Num="8">219</Mob>
+      <Mob Area="ocean" Num="9">219</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>passage</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">219</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">447</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">447</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">2058</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="trap door">
+      <Keys/>
+      <Room Area="ocean">2061</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="8"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

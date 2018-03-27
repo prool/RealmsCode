@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1606" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are on Overland Drive, west of the southern edge of the Necropolis.</ShortDescription>
+  <LongDescription>You can make out the Allisk Manor to the west of here.  The entrance 
+appears to be at the two large gates a little ways to the northwest.
+On the northeast side of the road, you can see the southern borders
+of the Necropolis.  The Necropolis is protected by a wall of iron
+bars preventing people from entering the facility without going 
+through the proper channels.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1605</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1607</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

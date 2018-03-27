@@ -1,0 +1,29 @@
+New Stuff
+
+OK.....here's a list of new stuff i have added and how to use it.
+
+1) I added a HardCircle flag(119).
+2) Monsters have the ability to yell for help now. *dmh yelling
+3) I made rangers vig like monks and werewolves.
+4) Focus & frenzy are both 3:30 minutes and do extra damage, monks
+   doing more.
+5) Paladins do extra damage when they pray now...no strength increase,
+   though.
+6) For aggro mobs that DON'T attack any specific SINGLE clan, set the
+   monster's clan to the number of that clan.
+7) Aggro mobs set to class WEREWOLF do not aggro WEREWOLF players.
+8) Aggro mobs set to class VAMPIRE do not aggro VAMPIRE players.
+9) AGGRO UNDEAD mobs will not be aggro to VAMPIRES, LICHES, and CLERICS
+   OF ARAMON.
+10) Restrictions have been placed on who can group with whom.
+
+Newer newstuff:
+
+11) obj 25 (unused room list) added.
+12) 'refund' command added - help refund
+13) 'bandage' command added - help bandage - *dmh otypes
+14) bulk now exists - *dmh bulk
+15) players can't get all if another player is in the room.
+16) *dmh keybad for doubled-keys
+
+Verithrax

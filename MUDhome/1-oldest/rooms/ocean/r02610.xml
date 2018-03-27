@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="2610" Version="2.40" Area="ocean">
+  <Name>Kuroth Tower Roof</Name>
+  <ShortDescription>You are on the roof of the Kuroth Tower in the Hanging Garden.</ShortDescription>
+  <LongDescription>Large birds of prey have been here and left a partially eaten body of
+an elf on the stone work.  The smell is terrible.  There's no telling
+whom it might have been because the face is missing.  Kuroth the demon
+considers the vultures as pets and encourages them to roost here.</LongDescription>
+  
+  <Established>789069776</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="20"/>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">195</Mob>
+      <Mob Area="ocean" Num="1">195</Mob>
+      <Mob Area="ocean" Num="2">195</Mob>
+      <Mob Area="ocean" Num="3">195</Mob>
+      <Mob Area="ocean" Num="4">195</Mob>
+      <Mob Area="ocean" Num="5">195</Mob>
+      <Mob Area="ocean" Num="6">195</Mob>
+      <Mob Area="ocean" Num="7">195</Mob>
+      <Mob Area="ocean" Num="8">195</Mob>
+      <Mob Area="ocean" Num="9">195</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">195</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">197</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">2593</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

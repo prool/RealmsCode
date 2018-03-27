@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="1911" Version="2.40" Area="ocean">
+  <Name>Pits of Doom - Orange Level</Name>
+  <ShortDescription>You have foolishly entered the Pits of Doom Orange Level.</ShortDescription>
+  <LongDescription>As you work your way down to the Pits of Doom, you can feel the heat
+rising and your adrenaline kicking in.  This level is exclusively
+dominated by metallic dragons.  You can hear them moving around and
+see flashes of fire from their nostrils in the dim light.  It's a hard
+climb going up or down.  Don't you wish you had some climbing equipment?
+On the other hand, it might not be advisable to go any further down.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">57</Mob>
+      <Mob Area="ocean" Num="1">57</Mob>
+      <Mob Area="ocean" Num="2">94</Mob>
+      <Mob Area="ocean" Num="3">94</Mob>
+      <Mob Area="ocean" Num="4">239</Mob>
+      <Mob Area="ocean" Num="5">240</Mob>
+      <Mob Area="ocean" Num="6">59</Mob>
+      <Mob Area="ocean" Num="7">92</Mob>
+      <Mob Area="ocean" Num="8">56</Mob>
+      <Mob Area="ocean" Num="9">56</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1910</Room>
+      <Flags>
+        <Bit Num="8"/>
+      </Flags>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">1912</Room>
+      <Flags>
+        <Bit Num="9"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

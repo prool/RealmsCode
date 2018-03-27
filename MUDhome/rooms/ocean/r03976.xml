@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3976" Version="2.40" Area="ocean">
+  <Name>Straw Hut Training Room</Name>
+  <ShortDescription>This is the level seven training room for barbarians.  Congratulations!</ShortDescription>
+  <LongDescription>The Chief regrets that he could not be here personally to watch you advance,
+but he sends his warmest regards.  You will henceforth have a new title as
+well as an increase in your abilities.</LongDescription>
+  
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1845</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

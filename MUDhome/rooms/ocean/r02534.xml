@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2534" Version="2.40" Area="ocean">
+  <Name>Kista Avenue</Name>
+  <ShortDescription>You are traveling north-south on Kista Avenue.</ShortDescription>
+  <LongDescription>On the east side of the avenue you see Jaspar's Printing and Publishing
+Company.  Jaspar found a way to print scrolls that destroy themselves once
+they are studied or used.  It seems to make for a steady business, as people
+continually want to carry spares.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2533</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2019</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

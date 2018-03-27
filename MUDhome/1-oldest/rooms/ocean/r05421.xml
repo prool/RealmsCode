@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5421" Version="2.40" Area="ocean">
+  <Name>Ashton River Road</Name>
+  <ShortDescription>The road climbs steeply to the east, and slopes gently to the west.</ShortDescription>
+  <LongDescription>Down below you can see where the river enters a forest as it continues
+on its way to the city of Oceancrest and the Nylandian Bay.  From this
+vantage high on the road you can also see the tops of the forest trees.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5420</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5422</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

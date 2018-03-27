@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<Room Num="4107" Version="2.40" Area="ocean">
+  <Name>Arioch &amp; Arcana's Suite</Name>
+  <ShortDescription>You see a luxurious Ashton Falls suite room before you.</ShortDescription>
+  <LongDescription>This spacious suite is furnished with modern designer pieces.  
+A few priceless oil paintings casually spaced along the walls 
+produce an effect which shows affluent, yet stylish tastes.  To
+one side of the room, a full-featured entertainment center equiped
+with the latest in stereo / wide-screen television technology has been
+set up for convenience, while to the other side, a crystal table for
+two stands ready for those romantic candle-light dinners.</LongDescription>
+  
+  <Established>775180239</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>pits</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="closet">
+      <Keys/>
+      <Room Area="ocean">4108</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4106</Room>
+      <Key>87</Key>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="pits">
+      <Keys/>
+      <Room Area="ocean">1909</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="pool">
+      <Keys/>
+      <Room Area="ocean">1290</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="bedroom">
+      <Keys/>
+      <Room Area="ocean">4109</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

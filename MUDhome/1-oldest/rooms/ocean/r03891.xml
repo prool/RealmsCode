@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3891" Version="2.40" Area="ocean">
+  <Name>Finesse's Second Hand Shop</Name>
+  <ShortDescription>You have entered the shop of a retired old drunk, Finesse the thief.</ShortDescription>
+  <LongDescription>Although retired from the adventuring business, Finesse still likes to stay
+in touch with his old friends.  Many of them drop in here to laugh and share
+a drink, and tell lies about their exploits.  Occasionally, Shadowhawk and
+Sisyphus are here, and Finesse's cousin Fin even stops by sometimes.</LongDescription>
+  
+  <Established>770009118</Established>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="49"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">21</Mob>
+      <Mob Area="ocean" Num="1">21</Mob>
+      <Mob Area="ocean" Num="2">21</Mob>
+      <Mob Area="ocean" Num="3">21</Mob>
+      <Mob Area="ocean" Num="4">21</Mob>
+      <Mob Area="ocean" Num="5">21</Mob>
+      <Mob Area="ocean" Num="6">21</Mob>
+      <Mob Area="ocean" Num="7">21</Mob>
+      <Mob Area="ocean" Num="8">21</Mob>
+      <Mob Area="ocean" Num="9">21</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">336</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

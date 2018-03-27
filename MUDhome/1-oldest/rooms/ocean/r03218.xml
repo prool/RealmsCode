@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3218" Version="2.40" Area="ocean">
+  <Name>Outside the East Gate</Name>
+  <ShortDescription></ShortDescription>
+  <LongDescription>The gate to the west leads into Brownhaven, one of the oldest cities
+anyone can remember.  It has been around since before the founding of
+Oceancrest.  To the east is a Quick Car terminal to Kista.</LongDescription>
+  
+  <Established>755860769</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">139</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">897</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

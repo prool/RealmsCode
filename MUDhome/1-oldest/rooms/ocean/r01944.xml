@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<Room Num="1944" Version="2.40" Area="ocean">
+  <Name>Silk Dreams Dressing Room</Name>
+  <ShortDescription>You are in the Silk Dreams Dressing Room, behind the main stage.</ShortDescription>
+  <LongDescription>Somehow you have managed to find your way backstage and now find yourself
+in the dressing rooms of the stage dancers.  Not that you're really 
+complaining, but the dancers sure are and the bouncers are likely to
+come in at any moment now to throw you out or at least hurt you very
+badly.  You can get out to the backstage area to the north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">243</Mob>
+      <Mob Area="ocean" Num="1">79</Mob>
+      <Mob Area="ocean" Num="2">79</Mob>
+      <Mob Area="ocean" Num="3">79</Mob>
+      <Mob Area="ocean" Num="4">79</Mob>
+      <Mob Area="ocean" Num="5">79</Mob>
+      <Mob Area="ocean" Num="6">79</Mob>
+      <Mob Area="ocean" Num="7">79</Mob>
+      <Mob Area="ocean" Num="8">79</Mob>
+      <Mob Area="ocean" Num="9">79</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">243</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">243</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">243</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">243</Misc>
+    </LastTime>
+    <LastTime Num="4">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">243</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1943</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

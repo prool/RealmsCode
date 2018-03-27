@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="556" Version="2.40" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are walking along Oceancrest Avenue, south of the Fellowship Hall.</ShortDescription>
+  <LongDescription>Among other things, the Fellowship tries to convert people to their cult,
+as do many of the religious centers in Oceancrest.  The Fellowship members
+are a little more pursuasive, though, and tend to really annoy people.  It
+may not be a good idea to read any of the material handed out by the 
+Fellowship, as it's likely to be very confusing.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">555</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">557</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

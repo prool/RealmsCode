@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2120" Version="2.40" Area="ocean">
+  <Name>Museum Gift Shoppe</Name>
+  <ShortDescription>You are in a small gift shop at the entrance to the Milsene Museum.</ShortDescription>
+  <LongDescription>The Museum Gift Shop carries all sorts of trinkets and supplies that
+are replicas of those you might have seen in the Museum.  Since much of
+the Museum is based on magic, a number of magical potions may also be
+obtained here as well.  The door to the west leads out onto Tower Lane. 
+The exit to the east leads into the Museum itself.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="11"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2033</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2122</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

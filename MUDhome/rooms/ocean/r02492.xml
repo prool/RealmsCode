@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="2492" Version="2.40a" Area="ocean">
+  <Name>Frost Giant Cavern</Name>
+  <ShortDescription>The large cavern appears to get smaller as you travel towards the south.</ShortDescription>
+  <LongDescription>You are at a small intersection in the caverns.  A smaller cavern runs
+to the east, while the main cavern continues to the north and south.  As
+you head further south, you notice that the corridor gets smaller as
+the ceiling starts to lower.  </LongDescription>
+  
+  
+  
+  <Established>728420692</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="21"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">355</Mob>
+      <Mob Area="ocean" Num="1">355</Mob>
+      <Mob Area="ocean" Num="2">355</Mob>
+      <Mob Area="ocean" Num="3">356</Mob>
+      <Mob Area="ocean" Num="4">356</Mob>
+      <Mob Area="ocean" Num="5">363</Mob>
+      <Mob Area="ocean" Num="6">355</Mob>
+      <Mob Area="ocean" Num="7">356</Mob>
+      <Mob Area="ocean" Num="8">363</Mob>
+      <Mob Area="ocean" Num="9">363</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2391</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2491</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2493</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

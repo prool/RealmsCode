@@ -1,0 +1,1415 @@
+<?xml version="1.0"?>
+
+<Races>
+	<Race id="0" name="Unknown">
+		<Adjective>Unknown</Adjective>
+		<Abbr>U</Abbr>
+		<NotPlayable>1</NotPlayable>
+	</Race>
+	<Race id="1" name="Dwarf">
+		<Adjective>Dwarven</Adjective>
+		<Abbr>Dwf</Abbr>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>70</StartAge>
+			<Infravision>1</Infravision>
+			<Stats>
+				<Stat id="Str">10</Stat>
+				<Stat id="Dex">-10</Stat>
+				<Stat id="Con">20</Stat>
+				<Stat id="Int">-10</Stat>
+				<Stat id="Pty">-10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Paladin" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Thief" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Gradius" />
+			</ClericDeities>
+			<PaladinDeities>
+				<Deity id="Gradius" />
+			</PaladinDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">10</SavingThrow>
+				<SavingThrow id="Dea">3</SavingThrow>
+				<SavingThrow id="Bre">5</SavingThrow>
+				<SavingThrow id="Men">1</SavingThrow>
+				<SavingThrow id="Spl">6</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="2" name="Elf">
+		<Adjective>Elven</Adjective>
+		<Abbr>Elf</Abbr>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>200</StartAge>
+			<Infravision>1</Infravision>
+			<PorphyriaResistance>3</PorphyriaResistance>
+			<Stats>
+				<Stat id="Str">-10</Stat>
+				<Stat id="Dex">10</Stat>
+				<Stat id="Con">-10</Stat>
+				<Stat id="Int">20</Stat>
+				<Stat id="Pty">-10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Paladin" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Mage" />
+				<Class id="Fighter/Thief" />
+				<Class id="Mage/Thief" />
+				<Class id="Thief/Mage" />
+			</Classes>
+			<PaladinDeities>
+				<Deity id="Linothan" />
+			</PaladinDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">2</SavingThrow>
+				<SavingThrow id="Dea">3</SavingThrow>
+				<SavingThrow id="Bre">2</SavingThrow>
+				<SavingThrow id="Men">7</SavingThrow>
+				<SavingThrow id="Spl">5</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="3" name="Half-Elf">
+		<Adjective>Half-Elven</Adjective>
+		<Abbr>Hfe</Abbr>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>50</StartAge>
+			<PorphyriaResistance>1</PorphyriaResistance>
+			<Stats>
+				<Stat id="Str">-10</Stat>
+				<Stat id="Dex">10</Stat>
+				<Stat id="Con">-10</Stat>
+				<Stat id="Int">10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Paladin" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Mage" />
+				<Class id="Fighter/Thief" />
+				<Class id="Mage/Thief" />
+				<Class id="Thief/Mage" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Aramon" />
+				<Deity id="Ares" />
+				<Deity id="Ceris" />
+				<Deity id="Enoch" />
+				<Deity id="Kamira" />
+			</ClericDeities>
+			<PaladinDeities>
+				<Deity id="Enoch" />
+			</PaladinDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">4</SavingThrow>
+				<SavingThrow id="Dea">3</SavingThrow>
+				<SavingThrow id="Bre">1</SavingThrow>
+				<SavingThrow id="Men">2</SavingThrow>
+				<SavingThrow id="Spl">3</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="4" name="Halfling">
+		<Adjective>Halfling</Adjective>
+		<Abbr>Hfl</Abbr>
+
+		<Data>
+			<Size>small</Size>
+			<StartAge>30</StartAge>
+			<PorphyriaResistance>1</PorphyriaResistance>
+			<Stats>
+				<Stat id="Str">-20</Stat>
+				<Stat id="Dex">20</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Thief" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Kamira" />
+			</ClericDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">7</SavingThrow>
+				<SavingThrow id="Dea">3</SavingThrow>
+				<SavingThrow id="Bre">1</SavingThrow>
+				<SavingThrow id="Men">5</SavingThrow>
+				<SavingThrow id="Spl">3</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="5" name="Human">
+		<Adjective>Human</Adjective>
+		<Abbr>Hum</Abbr>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>18</StartAge>
+			<BonusStat>1</BonusStat>
+			<PorphyriaResistance>-1</PorphyriaResistance>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Paladin" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Aramon" />
+				<Deity id="Ares" />
+				<Deity id="Ceris" />
+				<Deity id="Enoch" />
+				<Deity id="Kamira" />
+			</ClericDeities>
+			<PaladinDeities>
+				<Deity id="Enoch" />
+			</PaladinDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">3</SavingThrow>
+				<SavingThrow id="Dea">3</SavingThrow>
+				<SavingThrow id="Bre">3</SavingThrow>
+				<SavingThrow id="Men">3</SavingThrow>
+				<SavingThrow id="Spl">3</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="6" name="Orc">
+		<Adjective>Orcish</Adjective>
+		<Abbr>Orc</Abbr>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>17</StartAge>
+			<Infravision>1</Infravision>
+			<Stats>
+				<Stat id="Str">10</Stat>
+				<Stat id="Con">10</Stat>
+				<Stat id="Int">-20</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Thief" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Aramon" />
+				<Deity id="Ares" />
+			</ClericDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">9</SavingThrow>
+				<SavingThrow id="Dea">4</SavingThrow>
+				<SavingThrow id="Bre">4</SavingThrow>
+				<SavingThrow id="Men">2</SavingThrow>
+				<SavingThrow id="Spl">2</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="7" name="Half-Giant">
+		<Adjective>Half-Giant</Adjective>
+		<Abbr>Hfg</Abbr>
+
+		<Data>
+			<Size>large</Size>
+			<StartAge>22</StartAge>
+			<Stats>
+				<Stat id="Str">20</Stat>
+				<Stat id="Int">-10</Stat>
+				<Stat id="Pty">-10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Paladin" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Aramon" />
+				<Deity id="Ares" />
+				<Deity id="Enoch" />
+			</ClericDeities>
+			<PaladinDeities>
+				<Deity id="Enoch" />
+			</PaladinDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">4</SavingThrow>
+				<SavingThrow id="Dea">6</SavingThrow>
+				<SavingThrow id="Bre">6</SavingThrow>
+				<SavingThrow id="Men">1</SavingThrow>
+				<SavingThrow id="Spl">1</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="8" name="Gnome">
+		<Adjective>Gnomish</Adjective>
+		<Abbr>Gno</Abbr>
+
+		<Data>
+			<Size>small</Size>
+			<StartAge>50</StartAge>
+			<Stats>
+				<Stat id="Str">-20</Stat>
+				<Stat id="Dex">-10</Stat>
+				<Stat id="Con">10</Stat>
+				<Stat id="Int">10</Stat>
+				<Stat id="Pty">10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Mage" />
+				<Class id="Mage/Thief" />
+				<Class id="Thief/Mage" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Kamira" />
+			</ClericDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">6</SavingThrow>
+				<SavingThrow id="Dea">2</SavingThrow>
+				<SavingThrow id="Bre">3</SavingThrow>
+				<SavingThrow id="Men">6</SavingThrow>
+				<SavingThrow id="Spl">5</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="9" name="Troll">
+		<Adjective>Trollkin</Adjective>
+		<Abbr>Tro</Abbr>
+
+		<Data>
+			<Size>large</Size>
+			<StartAge>18</StartAge>
+			<Infravision>1</Infravision>
+			<Stats>
+				<Stat id="Str">10</Stat>
+				<Stat id="Dex">-10</Stat>
+				<Stat id="Con">30</Stat>
+				<Stat id="Int">-10</Stat>
+				<Stat id="Pty">-20</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Aramon" />
+				<Deity id="Ares" />
+			</ClericDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">5</SavingThrow>
+				<SavingThrow id="Dea">5</SavingThrow>
+				<SavingThrow id="Bre">3</SavingThrow>
+				<SavingThrow id="Men">1</SavingThrow>
+				<SavingThrow id="Spl">1</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="10" name="Half-Orc">
+		<Adjective>Half-Orcish</Adjective>
+		<Abbr>Hfo</Abbr>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>16</StartAge>
+			<Stats>
+				<Stat id="Str">10</Stat>
+				<Stat id="Con">10</Stat>
+				<Stat id="Int">-10</Stat>
+				<Stat id="Pty">-10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Paladin" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Thief" />
+				<Class id="Cleric/Assassin" />
+			</Classes>
+			<MultiClericDeities>
+				<Deity id="Aramon" />
+			</MultiClericDeities>
+			<ClericDeities>
+				<Deity id="Aramon" />
+				<Deity id="Ares" />
+				<Deity id="Enoch" />
+			</ClericDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<PaladinDeities>
+				<Deity id="Enoch" />
+			</PaladinDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">5</SavingThrow>
+				<SavingThrow id="Dea">3</SavingThrow>
+				<SavingThrow id="Bre">4</SavingThrow>
+				<SavingThrow id="Men">3</SavingThrow>
+				<SavingThrow id="Spl">3</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="11" name="Ogre">
+		<Adjective>Ogre</Adjective>
+		<Abbr>Ogr</Abbr>
+
+		<Data>
+			<Size>large</Size>
+			<StartAge>25</StartAge>
+			<Stats>
+				<Stat id="Str">10</Stat>
+				<Stat id="Dex">-10</Stat>
+				<Stat id="Con">20</Stat>
+				<Stat id="Int">-20</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Aramon" />
+				<Deity id="Ares" />
+			</ClericDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">4</SavingThrow>
+				<SavingThrow id="Dea">9</SavingThrow>
+				<SavingThrow id="Bre">8</SavingThrow>
+				<SavingThrow id="Men">2</SavingThrow>
+				<SavingThrow id="Spl">3</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="12" name="Dark-Elf">
+		<Adjective>Dark-Elven</Adjective>
+		<Abbr>Dke</Abbr>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>150</StartAge>
+			<Infravision>1</Infravision>
+			<PorphyriaResistance>-1</PorphyriaResistance>
+			<Stats>
+				<Stat id="Str">-10</Stat>
+				<Stat id="Dex">20</Stat>
+				<Stat id="Con">-10</Stat>
+				<Stat id="Int">10</Stat>
+				<Stat id="Pty">-10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Mage" />
+				<Class id="Fighter/Thief" />
+				<Class id="Mage/Assassin" />
+				<Class id="Mage/Thief" />
+				<Class id="Thief/Mage" />
+			</Classes>
+			<DeathknightDeities>
+				<Deity id="Arachnus" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">4</SavingThrow>
+				<SavingThrow id="Dea">2</SavingThrow>
+				<SavingThrow id="Bre">2</SavingThrow>
+				<SavingThrow id="Men">7</SavingThrow>
+				<SavingThrow id="Spl">8</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="13" name="Goblin">
+		<Adjective>Goblin</Adjective>
+		<Abbr>Gob</Abbr>
+
+		<Data>
+			<Size>small</Size>
+			<StartAge>13</StartAge>
+			<Infravision>1</Infravision>
+			<Stats>
+				<Stat id="Str">10</Stat>
+				<Stat id="Con">20</Stat>
+				<Stat id="Int">-30</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Thief" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Aramon" />
+				<Deity id="Ares" />
+			</ClericDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">9</SavingThrow>
+				<SavingThrow id="Dea">3</SavingThrow>
+				<SavingThrow id="Bre">3</SavingThrow>
+				<SavingThrow id="Men">1</SavingThrow>
+				<SavingThrow id="Spl">2</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="14" name="Minotaur">
+		<Adjective>Minotaur</Adjective>
+		<Abbr>Min</Abbr>
+
+		<Data>
+			<Size>large</Size>
+			<StartAge>30</StartAge>
+			<Stats>
+				<Stat id="Str">20</Stat>
+				<Stat id="Dex">-10</Stat>
+				<Stat id="Int">-10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Aramon" />
+				<Deity id="Ares" />
+			</ClericDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">5</SavingThrow>
+				<SavingThrow id="Dea">5</SavingThrow>
+				<SavingThrow id="Bre">5</SavingThrow>
+				<SavingThrow id="Men">3</SavingThrow>
+				<SavingThrow id="Spl">3</SavingThrow>
+			</SavingThrows>
+			<Skills>
+				<Skill>
+					<Name>track</Name>
+					<Gained>1</Gained>
+				</Skill>
+			</Skills>
+		</Data>
+	</Race>
+	<Race id="15" name="Seraph">
+		<Adjective>Seraphic</Adjective>
+		<Abbr>Ser</Abbr>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>18</StartAge>
+			<PorphyriaResistance>100</PorphyriaResistance>
+			<Stats>
+				<Stat id="Str">-20</Stat>
+				<Stat id="Dex">-10</Stat>
+				<Stat id="Int">10</Stat>
+				<Stat id="Pty">20</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Paladin" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Mage" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Enoch" />
+			</ClericDeities>
+			<PaladinDeities>
+				<Deity id="Enoch" />
+			</PaladinDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">5</SavingThrow>
+				<SavingThrow id="Dea">4</SavingThrow>
+				<SavingThrow id="Bre">4</SavingThrow>
+				<SavingThrow id="Men">7</SavingThrow>
+				<SavingThrow id="Spl">7</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="16" name="Kobold">
+		<Adjective>Kobold</Adjective>
+		<Abbr>Kob</Abbr>
+
+		<Data>
+			<Size>small</Size>
+			<StartAge>14</StartAge>
+			<Infravision>1</Infravision>
+			<Stats>
+				<Stat id="Str">-20</Stat>
+				<Stat id="Dex">20</Stat>
+				<Stat id="Con">-10</Stat>
+				<Stat id="Int">10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Thief" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Aramon" />
+				<Deity id="Ares" />
+			</ClericDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">8</SavingThrow>
+				<SavingThrow id="Dea">8</SavingThrow>
+				<SavingThrow id="Bre">5</SavingThrow>
+				<SavingThrow id="Men">4</SavingThrow>
+				<SavingThrow id="Spl">3</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="17" name="Cambion">
+		<Adjective>Cambion</Adjective>
+		<Abbr>Cam</Abbr>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>18</StartAge>
+			<Infravision>1</Infravision>
+			<Stats>
+				<Stat id="Str">10</Stat>
+				<Stat id="Int">10</Stat>
+				<Stat id="Pty">-20</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Mage" />
+				<Class id="Cleric/Assassin" />
+				<Class id="Mage/Thief" />
+				<Class id="Thief/Mage" />
+				<Class id="Mage/Assassin" />
+			</Classes>
+			<MultiClericDeities>
+				<Deity id="Aramon" />
+			</MultiClericDeities>
+			<ClericDeities>
+				<Deity id="Aramon" />
+				<Deity id="Ares" />
+			</ClericDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">2</SavingThrow>
+				<SavingThrow id="Dea">2</SavingThrow>
+				<SavingThrow id="Bre">3</SavingThrow>
+				<SavingThrow id="Men">10</SavingThrow>
+				<SavingThrow id="Spl">4</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="18" name="Barbarian">
+		<Adjective>Barbarian</Adjective>
+		<Abbr>Bar</Abbr>
+
+		<Data>
+			<Size>large</Size>
+			<StartAge>17</StartAge>
+			<Stats>
+				<Stat id="Str">10</Stat>
+				<Stat id="Dex">10</Stat>
+				<Stat id="Int">-20</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Ares" />
+			</ClericDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">5</SavingThrow>
+				<SavingThrow id="Dea">5</SavingThrow>
+				<SavingThrow id="Bre">5</SavingThrow>
+				<SavingThrow id="Men">3</SavingThrow>
+				<SavingThrow id="Spl">3</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="19" name="Kataran">
+		<Adjective>Kataran</Adjective>
+		<Abbr>Kat</Abbr>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>32</StartAge>
+			<Infravision>1</Infravision>
+			<Stats>
+				<Stat id="Dex">20</Stat>
+				<Stat id="Con">10</Stat>
+				<Stat id="Int">-20</Stat>
+				<Stat id="Pty">-10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Paladin" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Thief" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Aramon" />
+				<Deity id="Ares" />
+				<Deity id="Enoch" />
+			</ClericDeities>
+			<PaladinDeities>
+				<Deity id="Enoch" />
+			</PaladinDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">2</SavingThrow>
+				<SavingThrow id="Dea">2</SavingThrow>
+				<SavingThrow id="Bre">3</SavingThrow>
+				<SavingThrow id="Men">10</SavingThrow>
+				<SavingThrow id="Spl">4</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="20" name="Tiefling">
+		<Adjective>Tiefling</Adjective>
+		<Abbr>Tfl</Abbr>
+
+		<Data>
+			<Size>small</Size>
+			<StartAge>18</StartAge>
+			<Infravision>1</Infravision>
+			<Stats>
+				<Stat id="Dex">10</Stat>
+				<Stat id="Con">-20</Stat>
+				<Stat id="Int">20</Stat>
+				<Stat id="Pty">-10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Mage" />
+				<Class id="Fighter/Thief" />
+				<Class id="Mage/Thief" />
+				<Class id="Thief/Mage" />
+				<Class id="Mage/Assassin" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Aramon" />
+			</ClericDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">8</SavingThrow>
+				<SavingThrow id="Dea">2</SavingThrow>
+				<SavingThrow id="Bre">1</SavingThrow>
+				<SavingThrow id="Men">8</SavingThrow>
+				<SavingThrow id="Spl">5</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="21" name="Lizardman">
+		<Adjective>Lizardman</Adjective>
+		<Abbr>Liz</Abbr>
+		<NotPlayable>1</NotPlayable>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>18</StartAge>
+			<Infravision>1</Infravision>
+		</Data>
+	</Race>
+	<Race id="22" name="Centaur">
+		<Adjective>Centaur</Adjective>
+		<Abbr>Cen</Abbr>
+		<NotPlayable>1</NotPlayable>
+
+		<Data>
+			<Size>large</Size>
+			<StartAge>18</StartAge>
+		</Data>
+	</Race>
+	<Race id="23" name="Half-Frost Giant">
+		<Adjective>Half-Frost Giant</Adjective>
+		<Abbr>Hfr</Abbr>
+		<NotPlayable>1</NotPlayable>
+		<ParentRace>7</ParentRace>
+
+		<Data>
+			<Size>large</Size>
+			<StartAge>22</StartAge>
+			<Stats>
+				<Stat id="Str">20</Stat>
+				<Stat id="Int">-10</Stat>
+				<Stat id="Pty">-10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Paladin" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Aramon" />
+				<Deity id="Ares" />
+				<Deity id="Enoch" />
+			</ClericDeities>
+			<PaladinDeities>
+				<Deity id="Enoch" />
+			</PaladinDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">4</SavingThrow>
+				<SavingThrow id="Dea">6</SavingThrow>
+				<SavingThrow id="Bre">6</SavingThrow>
+				<SavingThrow id="Men">1</SavingThrow>
+				<SavingThrow id="Spl">1</SavingThrow>
+			</SavingThrows>
+			<Effects>
+				<Effect>alwayscold</Effect>
+			</Effects>
+		</Data>
+	</Race>
+	<Race id="24" name="Half-Fire Giant">
+		<Adjective>Half-Fire Giant</Adjective>
+		<Abbr>Hfi</Abbr>
+		<NotPlayable>1</NotPlayable>
+		<ParentRace>7</ParentRace>
+
+		<Data>
+			<Size>large</Size>
+			<StartAge>22</StartAge>
+			<Stats>
+				<Stat id="Str">20</Stat>
+				<Stat id="Int">-10</Stat>
+				<Stat id="Pty">-10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Paladin" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Aramon" />
+				<Deity id="Ares" />
+				<Deity id="Enoch" />
+			</ClericDeities>
+			<PaladinDeities>
+				<Deity id="Enoch" />
+			</PaladinDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">4</SavingThrow>
+				<SavingThrow id="Dea">6</SavingThrow>
+				<SavingThrow id="Bre">6</SavingThrow>
+				<SavingThrow id="Men">1</SavingThrow>
+				<SavingThrow id="Spl">1</SavingThrow>
+			</SavingThrows>
+			<Effects>
+				<Effect>alwayswarm</Effect>
+			</Effects>
+		</Data>
+	</Race>
+	<Race id="25" name="Grey Elf">
+		<Adjective>Grey Elven</Adjective>
+		<Abbr>Gef</Abbr>
+		<NotPlayable>1</NotPlayable>
+		<ParentRace>2</ParentRace>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>200</StartAge>
+			<Infravision>1</Infravision>
+			<PorphyriaResistance>3</PorphyriaResistance>
+			<Stats>
+				<Stat id="Str">-10</Stat>
+				<Stat id="Dex">10</Stat>
+				<Stat id="Con">-10</Stat>
+				<Stat id="Int">20</Stat>
+				<Stat id="Pty">-10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Paladin" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Mage" />
+				<Class id="Fighter/Thief" />
+				<Class id="Mage/Thief" />
+				<Class id="Thief/Mage" />
+			</Classes>
+			<PaladinDeities>
+				<Deity id="Linothan" />
+			</PaladinDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">2</SavingThrow>
+				<SavingThrow id="Dea">3</SavingThrow>
+				<SavingThrow id="Bre">2</SavingThrow>
+				<SavingThrow id="Men">7</SavingThrow>
+				<SavingThrow id="Spl">5</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="26" name="Wild Elf">
+		<Adjective>Wild Elven</Adjective>
+		<Abbr>Wef</Abbr>
+		<NotPlayable>1</NotPlayable>
+		<ParentRace>2</ParentRace>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>200</StartAge>
+			<Infravision>1</Infravision>
+			<PorphyriaResistance>3</PorphyriaResistance>
+			<Stats>
+				<Stat id="Str">-10</Stat>
+				<Stat id="Dex">10</Stat>
+				<Stat id="Con">-10</Stat>
+				<Stat id="Int">20</Stat>
+				<Stat id="Pty">-10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Paladin" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Mage" />
+				<Class id="Fighter/Thief" />
+				<Class id="Mage/Thief" />
+				<Class id="Thief/Mage" />
+			</Classes>
+			<PaladinDeities>
+				<Deity id="Linothan" />
+			</PaladinDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">2</SavingThrow>
+				<SavingThrow id="Dea">3</SavingThrow>
+				<SavingThrow id="Bre">2</SavingThrow>
+				<SavingThrow id="Men">7</SavingThrow>
+				<SavingThrow id="Spl">5</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="27" name="Aquatic Elf">
+		<Adjective>Aquatic Elven</Adjective>
+		<Abbr>Wef</Abbr>
+		<NotPlayable>1</NotPlayable>
+		<ParentRace>2</ParentRace>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>200</StartAge>
+			<Infravision>1</Infravision>
+			<PorphyriaResistance>3</PorphyriaResistance>
+			<Stats>
+				<Stat id="Str">-10</Stat>
+				<Stat id="Dex">10</Stat>
+				<Stat id="Con">-10</Stat>
+				<Stat id="Int">20</Stat>
+				<Stat id="Pty">-10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Paladin" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Mage" />
+				<Class id="Fighter/Thief" />
+				<Class id="Mage/Thief" />
+				<Class id="Thief/Mage" />
+			</Classes>
+			<PaladinDeities>
+				<Deity id="Linothan" />
+			</PaladinDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">2</SavingThrow>
+				<SavingThrow id="Dea">3</SavingThrow>
+				<SavingThrow id="Bre">2</SavingThrow>
+				<SavingThrow id="Men">7</SavingThrow>
+				<SavingThrow id="Spl">5</SavingThrow>
+			</SavingThrows>
+			<Effects>
+				<Effect>breathe-water</Effect>
+			</Effects>
+		</Data>
+	</Race>
+	<Race id="28" name="Duergar">
+		<Adjective>Duergar</Adjective>
+		<Abbr>Due</Abbr>
+		<NotPlayable>1</NotPlayable>
+		<ParentRace>1</ParentRace>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>70</StartAge>
+			<Infravision>1</Infravision>
+			<Stats>
+				<Stat id="Str">10</Stat>
+				<Stat id="Dex">-10</Stat>
+				<Stat id="Con">20</Stat>
+				<Stat id="Int">-10</Stat>
+				<Stat id="Pty">-10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Deathknight" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Thief" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Aramon" />
+				<Deity id="Ares" />
+			</ClericDeities>
+			<DeathknightDeities>
+				<Deity id="Aramon" />
+			</DeathknightDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">10</SavingThrow>
+				<SavingThrow id="Dea">3</SavingThrow>
+				<SavingThrow id="Bre">5</SavingThrow>
+				<SavingThrow id="Men">1</SavingThrow>
+				<SavingThrow id="Spl">6</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="29" name="Hill Dwarf">
+		<Adjective>Hill Dwarven</Adjective>
+		<Abbr>Hdw</Abbr>
+		<NotPlayable>1</NotPlayable>
+		<ParentRace>1</ParentRace>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>70</StartAge>
+			<Infravision>1</Infravision>
+			<Stats>
+				<Stat id="Str">10</Stat>
+				<Stat id="Dex">-10</Stat>
+				<Stat id="Con">20</Stat>
+				<Stat id="Int">-10</Stat>
+				<Stat id="Pty">-10</Stat>
+			</Stats>
+			<Classes>
+				<Class id="Assassin" />
+				<Class id="Bard" />
+				<Class id="Berserker" />
+				<Class id="Cleric" />
+				<Class id="Druid" />
+				<Class id="Fighter" />
+				<Class id="Mage" />
+				<Class id="Monk" />
+				<Class id="Paladin" />
+				<Class id="Ranger" />
+				<Class id="Rogue" />
+				<Class id="Thief" />
+				<Class id="Pureblood" />
+				<Class id="Fighter/Thief" />
+			</Classes>
+			<ClericDeities>
+				<Deity id="Gradius" />
+			</ClericDeities>
+			<PaladinDeities>
+				<Deity id="Gradius" />
+			</PaladinDeities>
+			<SavingThrows>
+				<SavingThrow id="Poi">10</SavingThrow>
+				<SavingThrow id="Dea">3</SavingThrow>
+				<SavingThrow id="Bre">5</SavingThrow>
+				<SavingThrow id="Men">1</SavingThrow>
+				<SavingThrow id="Spl">6</SavingThrow>
+			</SavingThrows>
+		</Data>
+	</Race>
+	<Race id="30" name="Gnoll">
+		<Adjective>Gnollish</Adjective>
+		<Abbr>Gnl</Abbr>
+		<NotPlayable>1</NotPlayable>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>18</StartAge>
+			<Infravision>1</Infravision>
+		</Data>
+	</Race>
+	<Race id="31" name="Bugbear">
+		<Adjective>Bugbear</Adjective>
+		<Abbr>Bug</Abbr>
+		<NotPlayable>1</NotPlayable>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>18</StartAge>
+			<Infravision>1</Infravision>
+		</Data>
+	</Race>
+	<Race id="32" name="Hobgoblin">
+		<Adjective>Hobgoblin</Adjective>
+		<Abbr>Hob</Abbr>
+		<NotPlayable>1</NotPlayable>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>18</StartAge>
+			<Infravision>1</Infravision>
+		</Data>
+	</Race>
+	<Race id="33" name="Wemic">
+		<Adjective>Wemic</Adjective>
+		<Abbr>Wem</Abbr>
+		<NotPlayable>1</NotPlayable>
+
+		<Data>
+			<Size>large</Size>
+			<StartAge>18</StartAge>
+			<Infravision>1</Infravision>
+		</Data>
+	</Race>
+	<Race id="34" name="Hybsil">
+		<Adjective>Hybsil</Adjective>
+		<Abbr>Hyb</Abbr>
+		<NotPlayable>1</NotPlayable>
+
+		<Data>
+			<Size>small</Size>
+			<StartAge>18</StartAge>
+			<Infravision>1</Infravision>
+		</Data>
+	</Race>
+	<Race id="35" name="Rakshasa">
+		<Adjective>Rakshasa</Adjective>
+		<Abbr>Rak</Abbr>
+		<NotPlayable>1</NotPlayable>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>200</StartAge>
+			<Infravision>1</Infravision>
+		</Data>
+	</Race>
+	<Race id="36" name="Brownie">
+		<Adjective>Brownie</Adjective>
+		<Abbr>Brn</Abbr>
+		<NotPlayable>1</NotPlayable>
+
+		<Data>
+			<Size>diminutive</Size>
+			<StartAge>20</StartAge>
+			<Infravision>1</Infravision>
+		</Data>
+	</Race>
+	<Race id="37" name="Firbolg">
+		<Adjective>Firbolg</Adjective>
+		<Abbr>Fir</Abbr>
+		<NotPlayable>1</NotPlayable>
+
+		<Data>
+			<Size>large</Size>
+			<StartAge>20</StartAge>
+			<Infravision>1</Infravision>
+		</Data>
+	</Race>
+	<Race id="38" name="Satyr">
+		<Adjective>Satyr</Adjective>
+		<Abbr>Str</Abbr>
+		<NotPlayable>1</NotPlayable>
+
+		<Data>
+			<Size>medium</Size>
+			<StartAge>16</StartAge>
+			<Infravision>1</Infravision>
+		</Data>
+	</Race>
+</Races>

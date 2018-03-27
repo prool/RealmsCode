@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="3432" Version="2.40" Area="ocean">
+  <Name>The Vaults</Name>
+  <ShortDescription>The hallway continues east and comes to an end a little to the west.</ShortDescription>
+  <LongDescription>The door to your north resembles the purple door to the east but is 
+instead just a plain metallic grey color.  To your west the hallway
+turns to the south, and to the east leads back towards the entrance
+to the vaults.</LongDescription>
+  
+  <Established>760058551</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3431</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3433</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="grey door">
+      <Keys/>
+      <Room Area="ocean">3552</Room>
+      <Key>74</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

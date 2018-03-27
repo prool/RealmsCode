@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  drain        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Drain is a ability given to liches that allows them to "drain" hit points from
+the opponent and add it to their own.
+
+Example:
+: drain win
+You drained the wino for 10 damage.
+You killed the wino.
+You gained 6 experience for the death of the wino.
+:
+

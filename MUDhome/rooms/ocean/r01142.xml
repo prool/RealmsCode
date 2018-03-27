@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1142" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are on Hillcrest Drive, south of the Dragon Tooth Inn.</ShortDescription>
+  <LongDescription>The entrance to the Dragon Tooth Inn is to the north of here.  The
+small path leads up past a small fountain into the reception area.  
+There is a very nice bar and other more expensive items to be found in
+such a lavish establishment.  It is always crawling with city guard 
+patrols as well as their own security force.  Oceanview Drive is to
+the west of here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1141</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1040</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

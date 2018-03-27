@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="500" Version="2.40" Area="ocean">
+  <Name>Evenborough Way</Name>
+  <ShortDescription>You are walking along Evenborough Way, north of the Delgado Family Winery.</ShortDescription>
+  <LongDescription>Althoguh Chateau Richland owns most of the grape fields in Oceancrest, 
+the Delgado family grows a small orchard of grapes that they use to make
+their wines.  Being in such limited supply makes them very popular and
+highly demanded.  Although the Chateau Richland wines are a bit more
+popular, the Delgado wines have a small, but powerful following.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">501</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">499</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

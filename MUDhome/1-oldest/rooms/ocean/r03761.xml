@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3761" Version="2.40" Area="ocean">
+  <Name>Orphanage Stairs</Name>
+  <ShortDescription>You are on the stairs between the cellar and main floor of the Orphanage.</ShortDescription>
+  <LongDescription>Directly above you is the main room to the orphanage, and further down,
+below the stair landing, is the cellar of the old building.  The steps
+squeak as you move, probably alerting anyone who might be listening.
+There is a strong odor wafting up the stairwell from the damp cellar below.</LongDescription>
+  
+  <Established>765664028</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3760</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3762</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

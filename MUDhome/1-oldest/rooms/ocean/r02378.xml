@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="2378" Version="2.40a" Area="ocean">
+  <Name>Underground Cavern</Name>
+  <ShortDescription>You are walking through the dark, underground caverns beneath the glacier.</ShortDescription>
+  <LongDescription>To the south, you can see the other side of the cliff which overlooks
+the Dennanl Abyss.  The rope bridge which would normally allow you
+to cross the abyss in relative safety appears to be cut, and hangs
+limply on the other side of the cavern.  The cliff you are on appears
+to be lower than the cliff on the other side, suggesting the caverns
+head deeper into the ground.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>727327020</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2377</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2379</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

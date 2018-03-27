@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5401" Version="2.40" Area="ocean">
+  <Name>Forest Road</Name>
+  <ShortDescription>This is a beautiful and pleasant country lane, known as Forest Road.</ShortDescription>
+  <LongDescription>The road has gotten a little wider, and with the trees further off there
+seems to be more light from overhead.  Wildflowers grow along the wayside,
+and birds can be heard in the distance.  Occasionally, there's a sound
+you cannot identify.  oh, well.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5400</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5402</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

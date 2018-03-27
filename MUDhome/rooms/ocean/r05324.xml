@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5324" Version="2.40" Area="ocean">
+  <Name>Lyanden Road/North Timarask Valley</Name>
+  <ShortDescription>You are at the northern end of Timarask Valley, which runs to the southeast.</ShortDescription>
+  <LongDescription>Heavy rain and gusts of wind soak you and bend you near double.  It's very
+hard to see very far in either direction.   To the west the rain appears to
+be a mere shower, while deeper in the valley you see it is almost a storm.
+Experienced travelers tell of stormhawkes which live in the rainstorms.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5323</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5325</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

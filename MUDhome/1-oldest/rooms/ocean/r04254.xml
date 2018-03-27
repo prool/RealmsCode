@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="4254" Version="2.40" Area="ocean">
+  <Name>Servant's Stairwell</Name>
+  <ShortDescription>You are inside the west wall of Castle Rutger, on the servant's stairwell.</ShortDescription>
+  <LongDescription>You are on the ground floor, but since the stairs appear to spiral both
+up and down there must be rooms or dungeons in the lower regions too.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4212</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4255</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">4256</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

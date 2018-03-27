@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="598" Area="ocean" Version="2.40">
+  <Name>ball and chain</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>200</ShotsMax>
+  <ShotsCur>200</ShotsCur>
+  <Armor>-4</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">ball</Key>
+    <Key Num="1">chain</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="22"/>
+  </Flags>
+  <Description>You see a heavy black iron ball chained to a pair of leg clamps.</Description>
+  <UseOutput>I hope you have a key.</UseOutput>
+  <Weight>50</Weight>
+  <Type>6</Type>
+  <SubType>chain</SubType>
+  <WearFlag>3</WearFlag>
+  <InBag/>
+</Object>

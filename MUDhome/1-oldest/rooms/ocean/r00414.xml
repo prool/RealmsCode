@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="414" Version="2.40" Area="ocean">
+  <Name>Lorian Parkway</Name>
+  <ShortDescription>You are walking along Lorian Parkway, east of Ivan's Leather Armory.</ShortDescription>
+  <LongDescription>Leather is perhaps one of the most versitile materials in the world, being
+used for everything from armor to shoes to weapons.  Ivan carries just 
+about anything you could want.  On the west side of the road is the 
+Evenborough Inn, a popular overnight stop for weary travellers.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">413</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">415</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

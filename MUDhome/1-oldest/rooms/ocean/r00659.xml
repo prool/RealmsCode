@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="659" Version="2.40a" Area="ocean">
+  <Name>Amberton Lane</Name>
+  <ShortDescription>You are walking along Amberton Lane, west of the elven shrine.</ShortDescription>
+  <LongDescription>The Elven Shrine of Corellon Larethian lies on the east side of the road
+as a religious reminder to all elves.  The elven race is the most pre-
+dominant race on the land, but they tend to keep to themselves.  Oceancrest
+is primarily a human settlement, but once outside of Oceancrest, elves
+vastly outnumber humans.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">658</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1189</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

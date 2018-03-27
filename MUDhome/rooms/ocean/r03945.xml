@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="3945" Version="2.40" Area="ocean">
+  <Name>Ramdes River</Name>
+  <ShortDescription>You are being carried downstream by the powerful current of the Ramdes River.</ShortDescription>
+  <LongDescription>You are traveling fast in the water, and rocks flash by as the current drags 
+you southward, toward the Oceancrest City Wall.  Looks like the river goes
+under the wall a little farther that way.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>shore</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="shore">
+      <Keys/>
+      <Room Area="ocean">3944</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

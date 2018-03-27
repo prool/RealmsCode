@@ -1,0 +1,1859 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Socials>
+  <Social>
+    <Name>relax</Name>
+    <SelfNoTarget>You breath deeply.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* takes a deep breath and sighs comfortably.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>smoke</Name>
+    <SelfNoTarget>You take a puff.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* puffs on a pipe.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>puke</Name>
+    <SelfNoTarget>You blow chunks.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* vomits on the ground.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>burp</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You belch loudly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* belches rudely.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>ponder</Name>
+    <SelfNoTarget>You ponder the situation.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* ponders the situation.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>think</Name>
+    <SelfNoTarget>You think carefully.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* thinks carefully.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>ack</Name>
+    <SelfNoTarget>You ack.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* acks.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>nervous</Name>
+    <SelfNoTarget>You titter nervously.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* titters nervously.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>jump</Name>
+    <Priority>50</Priority>
+    <SelfNoTarget>You jump for joy.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* jumps for joy.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>skip</Name>
+    <SelfNoTarget>You skip like a girl.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* skips like a girl.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>cry</Name>
+    <SelfNoTarget>You burst into tears.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* bursts into tears.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>bleed</Name>
+    <SelfNoTarget>You bleed profusely.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* bleeds profusely.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>sniff</Name>
+    <SelfNoTarget>You sniff the air.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* sniffs the air.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>whimper</Name>
+    <SelfNoTarget>You whimper like a beat dog.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* whimpers like a beat dog.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>cringe</Name>
+    <SelfNoTarget>You cringe fearfully.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* cringes fearfully.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>gasp</Name>
+    <SelfNoTarget>Your jaw drops.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* gasps in amazement.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>grunt</Name>
+    <SelfNoTarget>You grunt.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* grunts agonizingly.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>blush</Name>
+    <SelfNoTarget>You blush.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* turns beet-red.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>stomp</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You stomp around.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* stomps around ostentatiously.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>usagi</Name>
+    <SelfNoTarget>You hop like a bunny!</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* hops like a bunny!</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>fume</Name>
+    <SelfNoTarget>You fume.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* fumes. You can almost see the steam.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>pout</Name>
+    <SelfNoTarget>You pout.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* pouts like a child.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>rage</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You rage like a madman.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* rages likes a madman.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>confused</Name>
+    <SelfNoTarget>You look bewildered.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* looks bewildered.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>hiccup</Name>
+    <SelfNoTarget>You hiccup.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* hiccups noisily.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>faint</Name>
+    <SelfNoTarget>You faint.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* faints.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>strut</Name>
+    <SelfNoTarget>You strut around vainly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* struts around vainly.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>maniac</Name>
+    <SelfNoTarget>You laugh maniacally.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* laughs maniacally.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>sulk</Name>
+    <SelfNoTarget>You sulk.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* sulks in dejection.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>wince</Name>
+    <SelfNoTarget>You wince painfully.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* winces painfully.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>satisfied</Name>
+    <SelfNoTarget>You smile with satisfaction.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* smiles with satisfaction.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>raise</Name>
+    <SelfNoTarget>You raise an eyebrow questioningly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* raises an eyebrow questioningly.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>jk</Name>
+    <SelfNoTarget>You tell everyone you're just kidding.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* is only kidding.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>twitch</Name>
+    <SelfNoTarget>You twitch insanely.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* twitches insanely.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>bubble</Name>
+    <SelfNoTarget>You bubble happily.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* bubbles happily.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>moan</Name>
+    <SelfNoTarget>You moan with pleasure.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* moans with pleasure.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>attention</Name>
+    <SelfNoTarget>You stand at attention.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* snaps to attention.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>babble</Name>
+    <SelfNoTarget>You babble incoherently.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* babbles incoherently.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>beer</Name>
+    <SelfNoTarget>You slam a beer.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* slams a beer.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>collapse</Name>
+    <SelfNoTarget>You collapse from exhaustion.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* collapses from exhaustion.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>curl</Name>
+    <SelfNoTarget>You curl up in a ball.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* curls up in a ball to sleep.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>curse</Name>
+    <SelfNoTarget>You curse indignantly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* curses like a sailor.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>daydream</Name>
+    <SelfNoTarget>You daydream.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* daydreams.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>fidget</Name>
+    <SelfNoTarget>You fidget uncontrollably.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* fidgets uncontrollably.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>foam</Name>
+    <SelfNoTarget>You foam at the mouth.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* foams at the mouth.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>freak</Name>
+    <SelfNoTarget>You freak out.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* freaks out in a bad way.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>grimace</Name>
+    <SelfNoTarget>You grimace.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* grimaces in pain.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>gag</Name>
+    <SelfNoTarget>You gag uncontrollably.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* gags disgustedly.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>gibber</Name>
+    <SelfNoTarget>You gibber insanely.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* gibbers insanely.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>lag</Name>
+    <SelfNoTarget>You inform everyone you are lagging horrendously.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* is lagging horrendously.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>monkey</Name>
+    <SelfNoTarget>You dance the monkey boy.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* does the monkey boyee yeeeaaaa....</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>jiggy</Name>
+    <SelfNoTarget>You get jiggy with it.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* gets jiggy with it.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>mope</Name>
+    <SelfNoTarget>You mope sadly in a corner.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* mopes sadly in a corner.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>moo</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You moo.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* moos like a cow.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>pace</Name>
+    <SelfNoTarget>You pace.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* paces back and forth impatiently.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>panic</Name>
+    <SelfNoTarget>You start to panic.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* begins to panic.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>pant</Name>
+    <SelfNoTarget>You pant like a dog.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* pants like a dog.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>quack</Name>
+    <SelfNoTarget>You quack like a duck.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* quacks like a duck.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>rant</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You rant and rave.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* rants and raves.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>roar</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You roar like a lion.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* roars like a lion.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>rofl</Name>
+    <SelfNoTarget>You roll on the ground laughing.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* rolls on the ground in a fit of laughter.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>scream</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You scream in terror.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* screams in terror.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>shiver</Name>
+    <SelfNoTarget>You shiver from a chill.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* shivers from a chill.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>spin</Name>
+    <SelfNoTarget>You spin around happily.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* spins around happily.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>squeal</Name>
+    <SelfNoTarget>You squeal like a stuck pig.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* squeals like a stuck pig.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>squirm</Name>
+    <SelfNoTarget>You squirm and giggle.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* squirms and giggles.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>strip</Name>
+    <SelfNoTarget>You strip off all your clothes.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* strips! Woohoo!</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>stumble</Name>
+    <SelfNoTarget>You stumble around aimlessly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* stumbles around aimlessly.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>sweat</Name>
+    <SelfNoTarget>You sweat uncontrollably.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* sweats uncontrollably.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>tantrum</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You run around the room and break stuff.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* runs around the room and breaks stuff.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>triumph</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You cheer in triumph.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* cheers in triumph.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>wail</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You wail like a banshee.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* wails like a banshee.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>wiggle</Name>
+    <SelfNoTarget>You wiggle insanely.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* wiggles insanely.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>writhe</Name>
+    <SelfNoTarget>You writhe in pain.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* falls to the ground and writhes in pain.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>yodel</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You yodel loudly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* yodels loudly.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>cluck</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You cluck like a chicken.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* clucks like a chicken.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>stagger</Name>
+    <SelfNoTarget>You stagger around.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* staggers around.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>crow</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You crow like a rooster.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* crows like a rooster.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>bored</Name>
+    <SelfNoTarget>You die of boredom.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* dies of boredom.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>munch</Name>
+    <SelfNoTarget>You munch on some food.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* munches on some food.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>count</Name>
+    <SelfNoTarget>You count slowly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* begins to count: 1...2...3...4...</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>glaze</Name>
+    <SelfNoTarget>Your eyes glaze over.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR*'s eyes begin to glaze over.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>fft</Name>
+    <SelfNoTarget>You spit like a cat.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* spits like a cat: fft! fft!</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>lol</Name>
+    <SelfNoTarget>You laugh out loud.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* laughs out loud.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>wait</Name>
+    <SelfNoTarget>You wait patiently.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* waits patiently.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>bear</Name>
+    <SelfNoTarget>You roar like a grizzly bear.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* roars like a grizzly bear.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>cigar</Name>
+    <SelfNoTarget>You smoke a cigar.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* smokes a cigar.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>doodle</Name>
+    <SelfNoTarget>You doodle pictures in the dirt.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* doodles pictures in the dirt.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>sniffle</Name>
+    <SelfNoTarget>You sniffle sadly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* sniffles sadly.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>sob</Name>
+    <SelfNoTarget>You sob like a child.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* sobs like a child.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>shuffle</Name>
+    <SelfNoTarget>You shuffle from side to side.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* shuffles nervously from one foot to the other.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>wild</Name>
+    <SelfNoTarget>You growl like a trapped wild animal.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* growls like a trapped wild animal.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>clean</Name>
+    <SelfNoTarget>You clean up the room.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* cleans up the room.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>froth</Name>
+    <SelfNoTarget>You froth at the mouth.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* froths at the mouth.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>bathe</Name>
+    <SelfNoTarget>You take a bath.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* takes a bath.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>innocent</Name>
+  <Priority>90</Priority>
+    <SelfNoTarget>You whistle innocently.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* whistles innocently.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>boggle</Name>
+    <SelfNoTarget>You boggle at the concept.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* visibly boggles at the concept.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>cackle</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You cackle gleefully.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* cackles out loud with glee.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>chuckle</Name>
+    <SelfNoTarget>You chuckle.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* chuckles.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>sigh</Name>
+    <SelfNoTarget>You sigh sadly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* lets out a long, sad sigh.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>shrug</Name>
+    <SelfNoTarget>You shrug your shoulders.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* shrugs helplessly.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>yawn</Name>
+    <SelfNoTarget>You yawn loudly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* yawns out loud.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>snort</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You snort like a hedgehog.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* snorts like a hedgehog.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>shudder</Name>
+    <SelfNoTarget>You shudder in horror.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* shudders in horror.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>snap</Name>
+    <SelfNoTarget>You snap your fingers.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* snaps *A-HISHER* fingers.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>flex</Name>
+    <SelfNoTarget>You flex your muscles.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* flexes *A-HISHER* muscles.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>scratch</Name>
+    <Priority>90</Priority>
+    <SelfNoTarget>You scratch your head cluelessly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* scratches *A-HISHER* head cluelessly.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>roll</Name>
+    <SelfNoTarget>You roll your eyes in exasperation.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* rolls *A-HISHER* eyes in exasperation.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>halo</Name>
+    <SelfNoTarget>You point at the halo about your head.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* points at the halo about *A-HISHER* head.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>die</Name>
+    <SelfNoTarget>You play dead dramatically.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* grabs *A-HISHER* chest and falls over.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>ahem</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You clear your throat loudly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* clears *A-HISHER* throat loudly.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>comb</Name>
+    <SelfNoTarget>You comb your hair.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* combs *A-HISHER* hair.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>crazy</Name>
+    <SelfNoTarget>You feel crazy.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* gets a crazy look in *A-HISHER* eyes.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>freeze</Name>
+    <SelfNoTarget>You freeze.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* freezes in *A-HISHER* tracks.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>grind</Name>
+    <SelfNoTarget>You grind your teeth.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* grinds *A-HISHER* teeth.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>mosh</Name>
+    <SelfNoTarget>You mosh around wildly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* moshes in *A-HISHER* own mosh pit.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>sad</Name>
+    <SelfNoTarget>You feel sad.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* gets a sad look in *A-HISHER* eyes.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>stretch</Name>
+    <SelfNoTarget>You stretch your body.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* stretches *A-HISHER* arms and legs.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>surrender</Name>
+    <SelfNoTarget>You surrender.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* throws up *A-HISHER* hands in surrender.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>worry</Name>
+    <SelfNoTarget>You look worried.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* gets a worried look on *A-HISHER* face.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>fall</Name>
+    <SelfNoTarget>You fall on your face.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* falls on *A-HISHER* face.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>nose</Name>
+    <SelfNoTarget>You blow your nose.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* blows *A-HISHER* nose. What a mess!</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>wall</Name>
+    <SelfNoTarget>You stand your ground.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* stands *A-HISHER* ground like an impenetrable wall.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>phew</Name>
+    <SelfNoTarget>You wipe your brow in relief.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* wipes *A-HISHER* brow in relief.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>crack</Name>
+    <SelfNoTarget>You crack your knuckles.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* cracks *A-HISHER* knuckles.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>twiddle</Name>
+    <SelfNoTarget>You twiddle your thumbs.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* twiddles *A-HISHER* thumbs.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>frustrate</Name>
+    <SelfNoTarget>You pull your hair out.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* pulls *A-HISHER* hair out in frustration.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>livejournal</Name>
+    <SelfNoTarget>You sell your soul to capitalism.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* sells *A-HISHER* soul to capitalism.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>tap</Name>
+    <SelfNoTarget>You tap your foot impatiently.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* taps *A-HISHER* foot impatiently.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>grr</Name>
+    <SelfOnTarget>You stare menacingly at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* threatens you with a look of death.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* stares at *VICTIM* with a look of hatred.</RoomOnTarget>
+    <SelfNoTarget>You start looking angry.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* looks angrily around.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>growl</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfOnTarget>You growl at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* threatens you with a growl.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* growls at *VICTIM* threateningly.</RoomOnTarget>
+    <SelfNoTarget>You growl.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* growls threateningly.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>dirt</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfOnTarget>You kick dirt on *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* kicks dirt on you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* kicks dirt on *VICTIM*.</RoomOnTarget>
+    <SelfNoTarget>You kick the dirt.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* kicks the dirt.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>cough</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfOnTarget>You cough on *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* coughs on you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* coughs on *VICTIM*.</RoomOnTarget>
+    <SelfNoTarget>You cough politely.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* coughs politely.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>bird</Name>
+    <SelfOnTarget>You flip off *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* flips you the bird.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* flips off *VICTIM*.</RoomOnTarget>
+    <SelfNoTarget>You gesture indignantly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* gestures indignantly.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>moon</Name>
+    <SelfOnTarget>You moon *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* moons you. It's a full moon tonight!</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* moons *VICTIM*. It's a full moon tonight!</RoomOnTarget>
+    <SelfNoTarget>You moon the world.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* drops *A-HISHER* pants and moons the world.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>purr</Name>
+    <SelfOnTarget>You purr at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* purrs provocatively at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* purrs provocatively at *VICTIM*.</RoomOnTarget>
+    <SelfNoTarget>You purr provocatively.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* purrs provocatively.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>compose</Name>
+    <SelfNoTarget>You compose yourself.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* visibly composes *A-HIMHER*self.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>doh</Name>
+    <SelfNoTarget>You slap yourself on the head.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* says, \"DOH!\"</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>spaz</Name>
+    <SelfNoTarget>You spaz out.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* spazzes out, running around and tripping all over *A-HIMHER*self.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>cornholio</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You shake uncontrollably and put your shirt over your head.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* shakes and yells, \"I am CORNHOLIO!!!</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>ok</Name>
+    <SelfNoTarget>You say, \"ok.\"</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* says, \"ok.\"</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>woot</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You jump and woot loudly.",</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* jumps and yells, \"Can I get a WOOT! WOOT!\".</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>bounce</Name>
+    <SelfNoTarget>You bounce around wildly!</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* is so excited, *A-HESHE* can hardly keep still!</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>grab</Name>
+    <SelfOnTarget>You pull on *VICTIM*.</SelfOnTarget>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <VictimOnTarget>*ACTOR* pulls on you eagerly.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* pulls on *VICTIM* eagerly.</RoomOnTarget>
+    <SelfNoTarget>Grab whom?</SelfNoTarget>
+  </Social>
+  <Social>
+    <Name>shove</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfOnTarget>You push *VICTIM* away.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* pushes you away.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* shoves *VICTIM* away.</RoomOnTarget>
+    <SelfNoTarget>Shove whom?</SelfNoTarget>
+  </Social>
+  <Social>
+    <Name>high5</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfOnTarget>You slap *VICTIM* a triumphant highfive.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* slaps you a triumphant highfive.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* slaps *VICTIM* a triumphant highfive.</RoomOnTarget>
+    <SelfNoTarget>Highfive whom?</SelfNoTarget>
+  </Social>
+  <Social>
+    <Name>taunt</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfOnTarget>You taunt and jeer at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* taunts and jeers at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* taunts and jeers at *VICTIM*.</RoomOnTarget>
+    <SelfNoTarget>Taunt whom?</SelfNoTarget>
+  </Social>
+  <Social>
+    <Name>eye</Name>
+    <SelfOnTarget>You eye *VICTIM* suspiciously.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* eyes you suspiciously.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* eyes *VICTIM* suspiciously.</RoomOnTarget>
+    <SelfNoTarget>Eye whom suspiciously?</SelfNoTarget>
+  </Social>
+  <Social>
+    <Name>worship</Name>
+    <SelfOnTarget>You worship *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* bows down in worship of you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* bows down and worships *VICTIM*.</RoomOnTarget>
+    <SelfNoTarget>Worship whom?</SelfNoTarget>
+  </Social>
+  <Social>
+    <Name>meiko</Name>
+    <WakeTarget>True</WakeTarget>
+    <SelfOnTarget>You meiko *VICTIM* lasciviously.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* meikos you lasciviously.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* meikos *VICTIM* lasciviously.</RoomOnTarget>
+    <SelfNoTarget>You meiko lustfully.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* meikos lustfully.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>hail</Name>
+    <SelfNoTarget>You hail everyone.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* says, \"Hail!\".</RoomNoTarget>
+    <SelfOnTarget>"You hail *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* hails you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* says, \"Hail, *VICTIM*.\"</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>punch</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfOnTarget>You punch *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* punches you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* punches *VICTIM*.</RoomOnTarget>
+    <SelfNoTarget>Punch whom?</SelfNoTarget>
+  </Social>
+  <Social>
+    <Name>nibble</Name>
+    <WakeTarget>True</WakeTarget>
+    <SelfOnTarget>You nibble *VICTIM*'s ear.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* nibbles your ear.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* nibbles *VICTIM*'s ear.</RoomOnTarget>
+    <SelfNoTarget>Nibble whom?</SelfNoTarget>
+  </Social>
+  <Social>
+    <Name>lick</Name>
+    <SelfNoTarget>You lick your wounds.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* licks *A-HISHER* wounds.</RoomNoTarget>
+    <SelfOnTarget>You lick *VICTIM* all over.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* licks you all over.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* licks *VICTIM* all over.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>choke</Name>
+    <SelfOnTarget>You choke *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* chokes you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* chokes *VICTIM*.</RoomOnTarget>
+    <SelfNoTarget>You choke.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* chokes.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>psycho</Name>
+    <SelfNoTarget>You grin like a psychopath.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* grins like a psychopath.</RoomNoTarget>
+    <SelfOnTarget>You grin psychotically at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* grins at you psychotically.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* grins psychotically at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>zip</Name>
+    <SelfNoTarget>You zip your lips.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* zips *A-HISHER* lips.</RoomNoTarget>
+    <SelfOnTarget>You zip *VICTIM*'s lips.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* zips your lips.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* zips *VICTIM*'s lips.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>behind</Name>
+    <SelfNoTarget>You look for something to hide behind.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* looks for something to hide behind.</RoomNoTarget>
+    <SelfOnTarget>You hide behind *VICTIM* for protection.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* runs behind you and hides.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* hides behind *VICTIM* for protection.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>meow</Name>
+    <SelfNoTarget>You meow like a cat.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* meows like a cat.</RoomNoTarget>
+    <SelfOnTarget>You meow seductively at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* meows at you seductively.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* meows seductively at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>bhand</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Backhand whom?</SelfNoTarget>
+    <SelfOnTarget>You backhand *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* backhands you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* backhands *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>beg</Name>
+    <SelfNoTarget>You beg pathetically.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* begs pathetically.</RoomNoTarget>
+    <SelfOnTarget>You beg to *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* begs pathetically to you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* begs pathetically to *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>blow</Name>
+    <SelfNoTarget>Blow a kiss to whom?</SelfNoTarget>
+    <SelfOnTarget>You blow *VICTIM* a kiss.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* blows you a kiss.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* blows *VICTIM* a kiss.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>caress</Name>
+    <WakeTarget>True</WakeTarget>
+    <SelfNoTarget>You caress yourself.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* caresses *A-HIMHER*self all over.</RoomNoTarget>
+    <SelfOnTarget>You caress *VICTIM*'s body softly.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* caresses your body softly.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* caresses *VICTIM*'s body softly.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>cower</Name>
+    <SelfNoTarget>You cower indignantly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* cowers indignantly.</RoomNoTarget>
+    <SelfOnTarget>You cower indignantly before *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* cowers idignantly before you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* cowers indignantly before *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>cuddle</Name>
+    <SelfNoTarget>cuddle with whom?</SelfNoTarget>
+    <SelfOnTarget>You cuddle with *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* cuddles up with you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* cuddles with *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>disgust</Name>
+    <SelfNoTarget>You look disgusted.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* looks disgusted.</RoomNoTarget>
+    <SelfOnTarget>You look disgustedly at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* gives you a disgusted look.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* looks disgustedly at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>embrace</Name>
+    <SelfOnTarget>You embrace *VICTIM* lovingly.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* embraces you lovingly.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* embraces *VICTIM* lovingly.</RoomOnTarget>
+    <SelfNoTarget>Embrace whom?</SelfNoTarget>
+  </Social>
+  <Social>
+    <Name>fondle</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>You fondle yourself.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* fondles *A-HIMHER*self.</RoomNoTarget>
+    <SelfOnTarget>You fondle *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* fondles you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* fondles *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>grope</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>You grope yourself.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* gropes *A-HIMHER*self.</RoomNoTarget>
+    <SelfOnTarget>You grope *VICTIM* all over.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* gropes you all over.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* gropes *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>grovel</Name>
+    <SelfNoTarget>Grovel before whom?</SelfNoTarget>
+    <SelfOnTarget>You grovel obsequiously before *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* grovels obsequiously before you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* grovels obsequiously before *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>listen</Name>
+    <SelfNoTarget>You listen carefully.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* listens carefully.</RoomNoTarget>
+    <SelfOnTarget>You listen to *VICTIM* carefully.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* listens carefully to you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* listens to *VICTIM* carefully.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>peck</Name>
+    <SelfNoTarget>You peck the ground like a chicken.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* pecks the ground like a chicken.</RoomNoTarget>
+    <SelfOnTarget>You peck *VICTIM* on the cheek.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* pecks you on the cheek.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* pecks *VICTIM* on the cheek.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>loom</Name>
+    <SelfNoTarget>Loom over whom?</SelfNoTarget>
+    <SelfOnTarget>You loom menacingly over *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* looms menacingly over you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* looms menacingly over *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>pants</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Yank down whose pants?</SelfNoTarget>
+    <SelfOnTarget>You depants *VICTIM*!</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* yanks down your pants! How embarrasing!</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* yanked down *VICTIM*'s pants! DOH!</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>lust</Name>
+    <SelfNoTarget>Lust after whom?</SelfNoTarget>
+    <SelfOnTarget>You eye *VICTIM* lustfully.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* eyes you lustfully.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* eyes *VICTIM* lustfully.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>massage</Name>
+    <WakeTarget/>
+    <SelfNoTarget>You massage yourself.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* massages *A-HIMHER*self.</RoomNoTarget>
+    <SelfOnTarget>You give *VICTIM* a sensual massage.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* massages you sensually.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* massages *VICTIM* sensually.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>warn</Name>
+    <SelfNoTarget>Warn whom?</SelfNoTarget>
+    <SelfOnTarget>You give *VICTIM* a glance of warning.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* gives you a glance of warning.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* gives *VICTIM* a glance of warning.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>laugh</Name>
+    <SelfNoTarget>You fall down laughing.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* falls down laughing.</RoomNoTarget>
+    <SelfOnTarget>You laugh at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* laughs at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* laughs at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>snicker</Name>
+    <SelfNoTarget>You snicker.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* snickers.</RoomNoTarget>
+    <SelfOnTarget>You snicker at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* snickers at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* snickers at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>clap</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You clap your hands.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* claps *A-HISHER* hands.</RoomNoTarget>
+    <SelfOnTarget>You clap for *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* claps for you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* claps for *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>nod</Name>
+    <SelfNoTarget>You nod.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* nods.</RoomNoTarget>
+    <SelfOnTarget>You nod to *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* nods to you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* nods to *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>wicked</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You laugh wickedly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* laughs wickedly.</RoomNoTarget>
+    <SelfOnTarget>You laugh wickedly at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* laughs at you wickedly.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* laughs wickedly at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>squeeze</Name>
+    <SelfOnTarget>You squeeze *VICTIM* tightly.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* squeezes you tightly.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* squeezes *VICTIM* tightly.</RoomOnTarget>
+    <SelfNoTarget>You squeeze yourself tightly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* squeezes *A-HIMHER*self tightly.</RoomNoTarget>
+  </Social>
+  <Social>
+    <Name>squint</Name>
+    <SelfNoTarget>You squint.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* squints.</RoomNoTarget>
+    <SelfOnTarget>You squint dubiously at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* squints dubiously at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* squints dubiously at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>haha</Name>
+    <SelfNoTarget>You burst out laughing.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* bursts out laughing.</RoomNoTarget>
+    <SelfOnTarget>You burst out laughing at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* bursts out laughing at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* bursts out laughing at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>hysterical</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You laugh hysterically.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* laughs hysterically.</RoomNoTarget>
+    <SelfOnTarget>You laugh hysterically at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* laughs hysterically at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* laughs hysterically at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>swat</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>You swat at flies in the air.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* swats at flies in the air.</RoomNoTarget>
+    <SelfOnTarget>You swat *VICTIM* like a bug.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* swats you like a bug.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* swats *VICTIM* like a bug.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>stare</Name>
+    <SelfNoTarget>You stare emptily into space.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* stares emptily into space.</RoomNoTarget>
+    <SelfOnTarget>You stare incredulously at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* stares at you incredulously.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* stares incredulously at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>thumb</Name>
+    <SelfNoTarget>You give a thumbs up.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* gives a thumbs up.</RoomNoTarget>
+    <SelfOnTarget>You give *VICTIM* a thumbs up.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* gives you a thumbs up.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* gives *VICTIM* a thumbs up.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>thwack</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Thawk whom?</SelfNoTarget>
+    <SelfOnTarget>You thwack *VICTIM* on the back.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* thwacks you on the back.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* thwacks *VICTIM* on the back.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>tip</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Tip whom?</SelfNoTarget>
+    <SelfOnTarget>You tip *VICTIM* like a cow.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* tips you like a cow.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* tips *VICTIM* like a cow.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>tease</Name>
+    <SelfNoTarget>Tease whom?</SelfNoTarget>
+    <SelfOnTarget>You tease *VICTIM* mischievously.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* teases you mischievously.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* teases *VICTIM* mischievously.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>tug</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Tug on whom?</SelfNoTarget>
+    <SelfOnTarget>You tug *VICTIM*'s shirt relentlessly.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* tugs your shirt relentlessly.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* tugs *VICTIM*'s shirt relentlessly.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>scowl</Name>
+    <SelfNoTarget>You scowl.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* scowls.</RoomNoTarget>
+    <SelfOnTarget>You scowl hatefully at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* scowls hatefully at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* scowls hatefully at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>seduce</Name>
+    <SelfNoTarget>Seduce whom?</SelfNoTarget>
+    <SelfOnTarget>You moan seductively at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* seductively moans to you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* moans seductively at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>slobber</Name>
+    <SelfNoTarget>You slobber all over the place.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* slobbers all over the place.</RoomNoTarget>
+    <SelfOnTarget>You slobber all over *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* slobbers all over you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* slobbers all over *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>smack</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Smack whom?</SelfNoTarget>
+    <SelfOnTarget>You smack *VICTIM* upside the head.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* smacks you upside the head.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* smacks *VICTIM* upside the head.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>smell</Name>
+    <SelfNoTarget>You smell the air.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* smells the air.</RoomNoTarget>
+    <SelfOnTarget>You smell *VICTIM* inquisitively.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* smells you inquisitively.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* smells *VICTIM* inquisitively.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>snarl</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You snarl odiously.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* snarls odiously.</RoomNoTarget>
+    <SelfOnTarget>You snarl odiously at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* snarls odiously at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* snarls odiously at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>sneer</Name>
+    <SelfNoTarget>You sneer contemptuously.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* sneers contemptuously.</RoomNoTarget>
+    <SelfOnTarget>You sneer contemptuously at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* sneers at you contemptuously.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* sneers contemptuously at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>snuggle</Name>
+    <SelfNoTarget>Snuggle with whom?</SelfNoTarget>
+    <SelfOnTarget>You snuggle with *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* snuggles with you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* snuggles with *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>spank</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Spank whom?</SelfNoTarget>
+    <SelfOnTarget>You spank *VICTIM* on the behind.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* spanks you on the behind.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* spanks *VICTIM* on the behind.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>noogie</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Give whom a noogie?</SelfNoTarget>
+    <SelfOnTarget>You give *VICTIM* a death noogie!</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* gives you a death noogie!</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* gives *VICTIM* a death noogie!</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>nudge</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Nudge whom?</SelfNoTarget>
+    <SelfOnTarget>You nudge *VICTIM* annoyingly.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* nudges you annoyingly.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* nudges *VICTIM* annoyingly.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>pinch</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>You pinch yourself. Ow!</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* pinched *A-HIMHER*self. It looks like it hurt.</RoomNoTarget>
+    <SelfOnTarget>You pinch *VICTIM* teasingly.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* pinches you teasingly.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* pinches *VICTIM* teasingly.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>pummel</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Pummel whom?</SelfNoTarget>
+    <SelfOnTarget>You pummel *VICTIM* thouroughly.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* pummels you thouroughly.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* thouroughly pummels *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>rag</Name>
+    <SelfNoTarget>You wipe your mouth with a rag.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* wipes *A-HISHER* mouth with a rag.</RoomNoTarget>
+    <SelfOnTarget>You offer *VICTIM* a drool and slobber rag.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* gives you a drool and slobber rag.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* gives *VICTIM* a drool and slobber rag.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>trip</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>You trip all over yourself.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* trips all over *A-HIMHER*self.</RoomNoTarget>
+    <SelfOnTarget>You trip *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* trips you off your feet.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* trips *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>pester</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Pester whom?</SelfNoTarget>
+    <SelfOnTarget>You pester *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* pesters you persistently.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* pesters *VICTIM* persistently.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>rub</Name>
+    <SelfNoTarget>You rub yourself.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* rubs *A-HIMHER*self.</RoomNoTarget>
+    <SelfOnTarget>You rub *VICTIM* all over.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* rubs you all over.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* rubs *VICTIM* all over.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>boo</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You boo and hiss in disgust.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* boos and hisses in disgust.</RoomNoTarget>
+    <SelfOnTarget>You boo and hiss at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* boos and hisses at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* boos and hisses at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>oink</Name>
+    <SelfNoTarget>You oink like a pig.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* oinks like a pig.</RoomNoTarget>
+    <SelfOnTarget>You oink at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* oinks at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* oinks at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>shush</Name>
+    <SelfNoTarget>Shush whom?</SelfNoTarget>
+    <SelfOnTarget>You shush *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* tells you to shhh!</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* shushes *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>ruffle</Name>
+    <SelfNoTarget>You ruffle your hair.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* ruffles *A-HISHER* hair.</RoomNoTarget>
+    <SelfOnTarget>You ruffle *VICTIM*'s hair.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* ruffles your hair.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* ruffles *VICTIM*'s hair.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>pose</Name>
+    <SelfNoTarget>You strike a triumphant pose.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* strikes a triumphant pose.</RoomNoTarget>
+    <SelfOnTarget>You strike a pose for *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* strikes a triumpant pose for you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* strikes a triumphant pose before *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>blink</Name>
+    <SelfNoTarget>You blink.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* blinks.</RoomNoTarget>
+    <SelfOnTarget>You blink at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* blinks at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* blinks at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>salute</Name>
+    <SelfNoTarget>Salute whom?</SelfNoTarget>
+    <SelfOnTarget>You give *VICTIM* a salute.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* salutes you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* gives *VICTIM* a salute.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>smile</Name>
+    <SelfNoTarget>You smile happily.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* smiles happily.</RoomNoTarget>
+    <SelfOnTarget>You smile happily to *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* smiles happily to you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* smiles happily at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>grin</Name>
+    <SelfNoTarget>You grin evilly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* grins evilly.</RoomNoTarget>
+    <SelfOnTarget>You grin evilly at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* grins at you evilly.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* grins at *VICTIM* evilly.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>whip</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Whip whom?</SelfNoTarget>
+    <SelfOnTarget>You whip *VICTIM* savagely.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* whips you savagely.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* whips *VICTIM* into submission.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>frown</Name>
+    <SelfNoTarget>You frown.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* frowns.</RoomNoTarget>
+    <SelfOnTarget>You frown at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* frowns at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* frowns at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>giggle</Name>
+    <SelfNoTarget>You giggle inanely.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* giggles inanely.</RoomNoTarget>
+    <SelfOnTarget>You giggle at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* giggles at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* giggles at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>whistle</Name>
+    <SelfNoTarget>You whistle a tune.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* whistles a tune.</RoomNoTarget>
+    <SelfOnTarget>You whistle at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* whistles at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* whistles at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>smirk</Name>
+    <SelfNoTarget>You smirk wryly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* smirks wryly.</RoomNoTarget>
+    <SelfOnTarget>You smirk wryly at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* smirks at you wryly.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* smirks wryly at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>drool</Name>
+    <SelfNoTarget>You drool.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* drools all over *A-HIMHER*self.</RoomNoTarget>
+    <SelfOnTarget>You drool on *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* drools all over you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* drools all over *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>grumble</Name>
+    <SelfNoTarget>You grumble darkly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* grumbles darkly.</RoomNoTarget>
+    <SelfOnTarget>You grumble darkly at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* grumbles darkly at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* grumbles darkly at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>mutter</Name>
+    <SelfNoTarget>You mutter.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* mutters obscenities under *A-HISHER* breath.</RoomNoTarget>
+    <SelfOnTarget>You mutter obscenities about *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* mutters obscenities about you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* mutters obscenities about *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>congrats</Name>
+    <SelfNoTarget>You congratulate yourself.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* congratulates *A-HIMHER*self.</RoomNoTarget>
+    <SelfOnTarget>You congratulate *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* congratulates you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* congratulates *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>imitate</Name>
+    <SelfNoTarget>Imitate whom?</SelfNoTarget>
+    <SelfOnTarget>You imitate *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* imitates you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* imitates *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>bark</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You bark and growl.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* barks and growls.</RoomNoTarget>
+    <SelfOnTarget>You bark and growl at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* barks and growls at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* barks and growls at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>paranoid</Name>
+    <SelfNoTarget>Be paranoid about whom?</SelfNoTarget>
+    <SelfOnTarget>You look warily at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* gives you a paranoid look.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* looks at *VICTIM* with paranoia.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>damn</Name>
+    <SelfNoTarget>You damn the gods.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* damns the gods.</RoomNoTarget>
+    <SelfOnTarget>You damn *VICTIM* to the Abyss.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* damns you to the Abyss.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* damns *VICTIM* to the Abyss.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>fist</Name>
+    <SelfNoTarget>You shake your fist at the gods.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* shakes *A-HISHER* fist at the gods.</RoomNoTarget>
+    <SelfOnTarget>You shake your fist at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* shakes a fist at you in rage.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* shakes a fist at *VICTIM* in rage.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>defenestrate</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>You dive out of the nearest window.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* dives out the nearest window.</RoomNoTarget>
+    <SelfOnTarget>You toss *VICTIM* out the nearest window.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* tosses you out the nearest window.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* tosses *VICTIM* out the nearest window.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>vomjom</Name>
+    <SelfNoTarget>Challenge whom to a game of starcraft?</SelfNoTarget>
+    <SelfOnTarget>You challenge *VICTIM* to a game of Starcraft.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* challenges you to a game of Starcraft, insisting that you will lose in a horrible way.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* says *VICTIM* sucks at Starcraft.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>whine</Name>
+    <SelfNoTarget>You whine annoyingly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* whines annoyingly.</RoomNoTarget>
+    <SelfOnTarget>You whine to *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* whines annoyingly to you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* whines annoyingly to *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>groan</Name>
+    <SelfNoTarget>You groan miserably.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* groans miserably.</RoomNoTarget>
+    <SelfOnTarget>You groan miserably at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* groans at you miserably.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* groans miserably at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>beam</Name>
+    <SelfNoTarget>You beam happily.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* beams happily.</RoomNoTarget>
+    <SelfOnTarget>You beam at *VICTIM* happily.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* beams happily at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* beams happily at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>warm</Name>
+    <SelfNoTarget>You smile warmly.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* smiles warmly.</RoomNoTarget>
+    <SelfOnTarget>You give *VICTIM* a warm smile.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* gives you a warm smile.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* gives *VICTIM* a warm smile.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>fun</Name>
+    <SelfNoTarget>Make fun of whom?</SelfNoTarget>
+    <SelfOnTarget>You make fun of *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* makes fun of you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* makes fun of *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>french</Name>
+    <WakeTarget/>
+    <SelfNoTarget>french kiss whom?</SelfNoTarget>
+    <SelfOnTarget>You french kiss with *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* french kisses you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* frenches with *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>pan</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Smack whom over the head with a frying pan?</SelfNoTarget>
+    <SelfOnTarget>You smack *VICTIM* over the head with a frying pan.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* smacks you over the head with a frying pan.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* smacks *VICTIM* over the head with a frying pan.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>squeeze</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Squeeze whom?</SelfNoTarget>
+    <SelfOnTarget>You squeeze *VICTIM* tightly.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* squeezes you close.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* squeezes *VICTIM* close.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>smooch</Name>
+    <SelfNoTarget>Smooch whom?</SelfNoTarget>
+    <SelfOnTarget>You smooch with *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* smooches with you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* smooches with *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>evil</Name>
+    <SelfNoTarget>Look evilly at whom?</SelfNoTarget>
+    <SelfOnTarget>You look evilly at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* gives you an evil look.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* gives *VICTIM* an evil look.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>wedgy</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Give whom a wedgy?</SelfNoTarget>
+    <SelfOnTarget>You give *VICTIM* a wedgy!</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* gives you a wedgy!</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* gives *VICTIM* a wedgy...OWE!</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>bitchslap</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Bitchslap whom?</SelfNoTarget>
+    <SelfOnTarget>You bitchslap *VICTIM* like a two cent hooker.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* bitchslaps you like a two cent hooker.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* bitchslaps *VICTIM* like a two cent hooker.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>beckon</Name>
+    <SelfNoTarget>Becom whom to follow you?</SelfNoTarget>
+    <SelfOnTarget>You beckon *VICTIM* to follow you.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* beckons you to follow.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* beckons *VICTIM* to follow.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>bonk</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Bonk whom?</SelfNoTarget>
+    <SelfOnTarget>You bonk *VICTIM* on the head. This means war!</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* bonks you on the head. This means war!</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* bonks *VICTIM* on the head. This means war!</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>thank</Name>
+    <SelfNoTarget>Thank whom?</SelfNoTarget>
+    <SelfOnTarget>You thank *VICTIM* profusely.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* thanks you profusely.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* thanks *VICTIM* profusely.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>shake</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>You shake your head.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* shakes *A-HISHER* head.</RoomNoTarget>
+    <SelfOnTarget>You shake *VICTIM*'s hand.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* shakes your hand.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* shakes *VICTIM*'s hand.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>anvil</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Drop an anvil on whom?</SelfNoTarget>
+    <SelfOnTarget>You drop an anvil on *VICTIM*'s head.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* drops an anvil on your head!</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* drops an anvil on *VICTIM*'s head.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>knee</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Knee whom?</SelfNoTarget>
+    <SelfOnTarget>You knee *VICTIM* in the crotch.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* painfully knees you in the crotch.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* painfully knees *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>pounce</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Pounce on whom?</SelfNoTarget>
+    <SelfOnTarget>You pounce on *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* pounces on you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* pounces on *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>tickle</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Tickle whom?</SelfNoTarget>
+    <SelfOnTarget>You tickle *VICTIM* mercilessly.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* tickles you mercilessly.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* tickles *VICTIM* mercilessly.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>kic</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Kick whom?</SelfNoTarget>
+    <SelfOnTarget>You kick *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* kicks you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* kicks *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>tackle</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>Tackle whom?</SelfNoTarget>
+    <SelfOnTarget>You tackle *VICTIM* to the ground.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* tackles you to the ground.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* tackles *VICTIM* to the ground.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>cheer</Name>
+    <WakeRoom>True</WakeRoom>
+    <SelfNoTarget>You cheer.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* yells like a cheerleader.</RoomNoTarget>
+    <SelfOnTarget>You cheer for *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* cheers for you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* cheers for *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>hump</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Hump whom?</SelfNoTarget>
+    <SelfOnTarget>You hump *VICTIM*'s leg.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* humps your leg.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* humps *VICTIM*'s leg.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>poke</Name>
+    <WakeTarget>True</WakeTarget>
+    <SelfNoTarget>You poke everyone.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* pokes you.</RoomNoTarget>
+    <SelfOnTarget>You poke *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* pokes you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* pokes *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>ogle</Name>
+    <SelfNoTarget>Ogle whom?</SelfNoTarget>
+    <SelfOnTarget>You ogle *VICTIM* with carnal intent.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* ogles you salaciously.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* ogles *VICTIM* salaciously.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>hbeer</Name>
+    <SelfNoTarget>Drink a beer in whose honor?</SelfNoTarget>
+    <SelfOnTarget>You drink a beer in *VICTIM*'s honor.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* drinks a beer in your honor.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* drinks a beer in *VICTIM*'s honor.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>slap</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Slap whom?</SelfNoTarget>
+    <SelfOnTarget>You slap *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* slaps you across the face.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* slaps *VICTIM* across the face.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>glare</Name>
+    <SelfNoTarget>Glare at whom?</SelfNoTarget>
+    <SelfOnTarget>You glare menacingly at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* glares menacingly at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* glares menacingly at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>pet</Name>
+    <SelfNoTarget>Pet whom?</SelfNoTarget>
+    <SelfOnTarget>You pet *VICTIM* on the back of the head.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* pets you on the back of the head.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* pets *VICTIM* on the back of the head.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>bow</Name>
+    <SelfNoTarget>You make a full-sweeping bow.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* makes a full-sweeping bow.</RoomNoTarget>
+    <SelfOnTarget>You bow before *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* bows before you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* bows before *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>curtsy</Name>
+    <SelfNoTarget>You curtsy rather daintely.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* curtsies.</RoomNoTarget>
+    <SelfOnTarget>You curtsy before *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* curtsies before you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* curtsies before *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>fart</Name>
+    <SelfNoTarget>You fart.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* breaks wind.</RoomNoTarget>
+    <SelfOnTarget>You fart on *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* farts on you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* farts on *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>goose</Name>
+    <SelfNoTarget>Goose whom?</SelfNoTarget>
+    <SelfOnTarget>You goose *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* gooses you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* gooses *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>copulate</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Copulate with whom?</SelfNoTarget>
+    <SelfOnTarget>You copulate with *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* copulates with you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* copulates with *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>dance</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>You dance about the room.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* dances about the room.</RoomNoTarget>
+    <SelfOnTarget>You dance with *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* dances with you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* dances with *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>cstr</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Castrate whom?</SelfNoTarget>
+    <SelfOnTarget>You castrate *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* castrates you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* castrates *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>hug</Name>
+    <WakeTarget>True</WakeTarget>
+    <SelfNoTarget>Hug whom?</SelfNoTarget>
+    <SelfOnTarget>You hug *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* hugs you close.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* hugs *VICTIM* close.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>comfort</Name>
+    <WakeTarget>True</WakeTarget>
+    <SelfNoTarget>Comfort whom?</SelfNoTarget>
+    <SelfOnTarget>You comfort *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* comforts you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* comforts *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>suck</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Suck whom?</SelfNoTarget>
+    <SelfOnTarget>You suck *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* sucks you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* sucks *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>kiss</Name>
+    <SelfNoTarget>Kiss whom?</SelfNoTarget>
+    <SelfOnTarget>You kiss *VICTIM* gently.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* kisses you gently.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* kisses *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>hammer</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>Hammer whom?</SelfNoTarget>
+    <SelfOnTarget>You hammer *VICTIM* on the head.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* hammers you on the head. Ouch, that hurt!</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* hammers *VICTIM* on the head.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>spit</Name>
+    <RudeWakeTarget>True</RudeWakeTarget>
+    <SelfNoTarget>You spit.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* spits.</RoomNoTarget>
+    <SelfOnTarget>You spit on *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* spits on you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* spits on *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>expose</Name>
+    <SelfNoTarget>You expose yourself.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* exposes *A-HIMHER*self.</RoomNoTarget>
+    <SelfOnTarget>You expose yourself in front of *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* gets naked in front of you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* gets naked in front of *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>wink</Name>
+    <SelfNoTarget>You wink.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* winks.</RoomNoTarget>
+    <SelfOnTarget>You wink at *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* winks at you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* winks at *VICTIM*.</RoomOnTarget>
+  </Social>
+  <Social>
+    <Name>wave</Name>
+    <SelfNoTarget>You wave happily.</SelfNoTarget>
+    <RoomNoTarget>*ACTOR* waves happily.</RoomNoTarget>
+    <SelfOnTarget>You wave to *VICTIM*.</SelfOnTarget>
+    <VictimOnTarget>*ACTOR* waves to you.</VictimOnTarget>
+    <RoomOnTarget>*ACTOR* waves to *VICTIM*.</RoomOnTarget>
+  </Social>
+</Socials>

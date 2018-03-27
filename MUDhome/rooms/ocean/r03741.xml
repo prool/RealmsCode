@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="3741" Version="2.40" Area="ocean">
+  <Name>World of Magical Wonders Storage</Name>
+  <ShortDescription>You are in the storage room for Tormal's World of Magical Wonders.</ShortDescription>
+  <LongDescription>If you are not Tormal, then you are trespassing and your fate is already
+sealed. The room is dimly lit, and is bare except for three storage
+chests sitting at the back of the room.</LongDescription>
+  
+  <Established>766609961</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3740</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

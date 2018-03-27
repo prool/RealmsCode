@@ -1,0 +1,28 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |     Help on:  armor spell      |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 1/level
+
+Armor is a spell castable only by mages and multiclass mages. When cast, it
+forms a magical shield around the caster which makes them more difficult to
+hit. It does not absorb damage, but instead tends to deflect blows and force
+misses more often. As such, it makes default AC start at 6 and not 10. When
+cast, it can protect from a number of points of damage  equal to the caster's
+max hit points. Once those "virtual" points are used up, the armor spell
+dissipates. It also  dissipates over time, longer if the caster is more
+intelligent. If the spell is recast, the virtual points are set back to max.
+
+For example:
+Mageman the level 10 mage has 50hp and 50mp. In order to cast armor, it costs
+him 10mp because he's level 10. The armor spell will protect up to 50 damage
+before being dispelled, because Mageman has 50 max hit points. Note that the
+spell doesn't ABSORB damage. It just provides lower AC until it dissipates
+from taking damage, or over time.
+
+Note that the spell protects from half as much damage if the caster is
+multi-classed. So if Mageman was a Fighter/Mage, the spell would only protect
+until it took 25 points, not 50.
+
+This spell cannot be cast on anyone but the caster. Note also that the amount
+of virtual damage the spell can still take is NOT displayed anywhere.
+

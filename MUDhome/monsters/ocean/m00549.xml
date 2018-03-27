@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<Creature Num="549" Area="ocean" Version="2.40">
+  <Name>the dracolich</Name>
+  <Level>24</Level>
+  <Type>1</Type>
+  <Experience>4000</Experience>
+  <Coins>
+    <Coin Num="2">60000</Coin>
+  </Coins>
+  <Alignment>-500</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>400</Current>
+      <Max>400</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>500</Current>
+      <Max>500</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>A pile of bones, but oh so much more...</Description>
+  <Keys>
+    <Key Num="0">dracolich</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>830</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>9</Number>
+    <Sides>11</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>your foolishness amuses me</Talk>
+  <DefenseSkill>235</DefenseSkill>
+  <AttackPower>250</AttackPower>
+  <WeaponSkill>235</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">610</Carry>
+    <Carry Area="ocean" Num="1">610</Carry>
+    <Carry Area="ocean" Num="2">611</Carry>
+    <Carry Area="ocean" Num="3">611</Carry>
+    <Carry Area="ocean" Num="4">612</Carry>
+    <Carry Area="ocean" Num="5">612</Carry>
+    <Carry Area="ocean" Num="6">613</Carry>
+    <Carry Area="ocean" Num="7">613</Carry>
+    <Carry Area="ocean" Num="8">614</Carry>
+    <Carry Area="ocean" Num="9">614</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects>
+    <Effect>
+      <Name>detect-invisible</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+    <Effect>
+      <Name>resist-magic</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+  </Effects>
+  <SpecialAttacks>
+    <SpecialAttack>
+      <Name>Gas Breath</Name>
+      <Verb>breathed gas on</Verb>
+      <TargetStr>^G*ATTACKER* breathes poisonous gas on you!*CR*You take ^g*DAMAGE*^G damage!^x</TargetStr>
+      <TargetFailStr></TargetFailStr>
+      <RoomFailStr></RoomFailStr>
+      <SelfStr></SelfStr>
+      <RoomStr>^G*ATTACKER*'s poisonous breath fills the room!^x</RoomStr>
+      <TargetSaveStr>^cYou manage to hold your breath, coughing erratically.^x</TargetSaveStr>
+      <SelfSaveStr></SelfSaveStr>
+      <RoomSaveStr></RoomSaveStr>
+      <Limit>0</Limit>
+      <Delay>60</Delay>
+      <Chance>20</Chance>
+      <StunLength>0</StunLength>
+      <Type>10</Type>
+      <SaveType>2</SaveType>
+      <SaveBonus>0</SaveBonus>
+      <MaxBonus>0</MaxBonus>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="25"/>
+      </Flags>
+      <Dice>
+        <Number>24</Number>
+        <Sides>2</Sides>
+        <Plus>1</Plus>
+      </Dice>
+    </SpecialAttack>
+    <SpecialAttack>
+      <Name>Energy Drain</Name>
+      <Verb>drains</Verb>
+      <TargetStr>^M*ATTACKER* drains your life energy!*CR*You lose ^m*DAMAGE*^M experience!^x</TargetStr>
+      <TargetFailStr></TargetFailStr>
+      <RoomFailStr></RoomFailStr>
+      <SelfStr></SelfStr>
+      <RoomStr>^M*ATTACKER* drains *LOW-TARGET*'s life energy!^x</RoomStr>
+      <TargetSaveStr>^c*ATTACKER* only partially drains your life energy.^x</TargetSaveStr>
+      <SelfSaveStr></SelfSaveStr>
+      <RoomSaveStr></RoomSaveStr>
+      <Limit>0</Limit>
+      <Delay>60</Delay>
+      <Chance>10</Chance>
+      <StunLength>0</StunLength>
+      <Type>12</Type>
+      <SaveType>3</SaveType>
+      <SaveBonus>0</SaveBonus>
+      <MaxBonus>0</MaxBonus>
+      <Flags>
+        <Bit Num="1"/>
+        <Bit Num="12"/>
+        <Bit Num="13"/>
+      </Flags>
+      <Dice>
+        <Number>24</Number>
+        <Sides>10</Sides>
+        <Plus>240</Plus>
+      </Dice>
+    </SpecialAttack>
+  </SpecialAttacks>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="35"/>
+    <Bit Num="39"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="6"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+    <Bit Num="17"/>
+    <Bit Num="20"/>
+    <Bit Num="34"/>
+    <Bit Num="35"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

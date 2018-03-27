@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="3247" Version="2.40" Area="ocean">
+  <Name>Lake Kista West Shore</Name>
+  <ShortDescription>This is the shallow waters of the western side of Lake Kista.</ShortDescription>
+  <LongDescription>Just to the west is a gravel beach, and a gravel bar runs into the water
+here, providing a place for small fry to hide from the bigger fish who
+like to feed on them.  Water lilies and other water plants are almost
+choking the shallow waters, and they certainly make it hard to wade in
+the lake's healing waters.</LongDescription>
+  
+  <Established>756088898</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">428</Mob>
+      <Mob Area="ocean" Num="1">428</Mob>
+      <Mob Area="ocean" Num="2">428</Mob>
+      <Mob Area="ocean" Num="3">437</Mob>
+      <Mob Area="ocean" Num="4">437</Mob>
+      <Mob Area="ocean" Num="5">437</Mob>
+      <Mob Area="ocean" Num="6">425</Mob>
+      <Mob Area="ocean" Num="7">425</Mob>
+      <Mob Area="ocean" Num="8">425</Mob>
+      <Mob Area="ocean" Num="9">423</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3246</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3245</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3248</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3249</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

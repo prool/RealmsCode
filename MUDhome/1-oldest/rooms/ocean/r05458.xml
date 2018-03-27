@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5458" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>You are on a steep climbing road, high in the Hafnia Mountains.</ShortDescription>
+  <LongDescription>On one side of you is a sheer drop, while the other side is a steep cliff.
+It would be impossible to leave the road at this point, unless you could
+fly.  There are clouds hanging over the valley which you could almost touch
+if you would just lean out over the edge of the road.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5457</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5459</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

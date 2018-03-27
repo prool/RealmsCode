@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="505" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are traveling along Rosecrest Street, just south of the Cetacean Bridge.</ShortDescription>
+  <LongDescription>The Cetacean Bridge, located to the north along Rosecrest Street, connects
+the north and south portions of town together.  The Lithium Inlet and
+the Nylandian Bay create a natural barrier between the two sections of
+town.  As you look to the north, you can usually see a number of playful
+dolphins swimming in the warm Lithium Inlet.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">504</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">506</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

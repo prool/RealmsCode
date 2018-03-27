@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="365" Version="2.40" Area="ocean">
+  <Name>Seaman's Welfare Office</Name>
+  <ShortDescription>You are in a small welfare office run by a church group.</ShortDescription>
+  <LongDescription>This is a welfare office run by a group of missionaries from a store-front
+church in Oceancrest.  The place used to be a front for a bunch of sly
+pawn dealers who bought things with no questions asked.  But no more.  Now
+the bible thumpers run it, having chased out the previous owner.  They say
+they plan to clean up the entire island, but everyone just laughs at that.</LongDescription>
+  
+  <Established>760505575</Established>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">600</Mob>
+      <Mob Area="ocean" Num="1">600</Mob>
+      <Mob Area="ocean" Num="2">600</Mob>
+      <Mob Area="ocean" Num="3">480</Mob>
+      <Mob Area="ocean" Num="4">481</Mob>
+      <Mob Area="ocean" Num="5">480</Mob>
+      <Mob Area="ocean" Num="6">480</Mob>
+      <Mob Area="ocean" Num="7">480</Mob>
+      <Mob Area="ocean" Num="8">481</Mob>
+      <Mob Area="ocean" Num="9">481</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">359</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

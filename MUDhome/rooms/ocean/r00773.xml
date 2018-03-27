@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="773" Version="2.40" Area="ocean">
+  <Name>Tranquility Way</Name>
+  <ShortDescription>You are walking along Tranquility Way, near Highland Avenue.</ShortDescription>
+  <LongDescription>You can see the intersection with Highland Avenue and Orchard Lane coming
+up to the southeast.  This rather large intersection is more or less the
+northeastern corner of town, as Highland Avenue forms the eastern boundary
+and the Military Headquarters to the north forms much of the northern 
+boundary.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">772</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">726</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

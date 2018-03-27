@@ -1,0 +1,253 @@
+
+Realms Admin Policy
+---------------------------------
+Listed here are general guidelines for what CTs/DMs are and are
+not allowed to do. In the past, some other muds have had many
+problems with their admins cheating for and/or hindering players.
+This can not be the case at Realms of Hell. We are here to
+provide a good mud environment where everything is fair and
+everyone on here can have a good time. That being said...
+
+1. Do not use admin privileges to help a player in ways which exceed the
+bounds of normal play for them.
+	In other words, do not make it so they get extra xp, do not give
+them items or spells, do not tell whem where items are that can help them,
+do not set ANY of their stats, etc... Basically, let them advance on their
+own and MAINTAIN A DISCREET DISTANCE. Note that this includes cheating
+for yourself if you have a character. That is a big no no.
+
+2. Do not kill or cause to be killed a player at any time whatsoever.
+	Realms will be a very interactive environment where admins *pos
+monsters sometimes and roleplay with players. Sometimes accidents may
+happen that get a player killed. However, NEVER under any circumstances
+is an admin to maliciously kill or cause to be killed any player. This
+is punishable by immediate dismissal. Under extreme circumstances, a DM
+may breech this rule, but only very very rarely.
+
+3. Do not discuss the quests.
+	Quests are an important part of the game. If admins do not allow
+players to figure them out on their own, then what is the point of having
+quests? Do not discuss quests with players. 
+
+4. Do not EVER crash the game purposely.
+	Crashing the game on purpose is grounds for immediate dismissal.
+
+5. Always give players at least a 1 minute warning before sutting down.
+	This is more for the players' benefit then anything else.
+
+6. ALWAYS respond to mudmail from players.
+	Part of the problem with other muds, is that their admins ignore
+their players. We will not be like that here. No matter how retarded
+you may think a player's mail is, please respond to it still.
+
+7. Do not tell players directly where to find things.
+	If a player asks you: where do i get good armor? or where is a 
+good weapon, or any other similar question of that nature, do not respond
+directly. Give them a hint instead.
+
+8. Please remain invisible unless you are talking one on one with a player.
+	Discreet distance must be maintained from the players. In order to
+simplify this, please remain invisible whenever possible. Some of the 
+players are too dependent on DM/CT help, and they are constantly asking 
+questions which we should not answer of them or do for them. For instance,
+we shouldn't port a player home when he is lost (unless he got ported 
+there somehow and the area is unfinished), we shouldn't tell players where
+to get stuff (or give it to them), we shouldn't tell them information 
+about another player (XP, stats, etc..), etc.... If we do not maintain 
+discreet distance from players, then they all will become dependent on 
+us, at which point we will not be able to accomplish anything here without 
+difficulty. It also will ultimately increase the gap between players and 
+admins when they get mad at us when we say we can't help them for whatever 
+reason persuant to the policy. You do not have to respond if people flash 
+themselves either. In fact it is discouraged that you do, simply because 
+people begin to expect it. If a player asks you to identify yourself, it 
+is your choice as to whether or not you wish to do so. Basically, just 
+keep player/admin interaction to a minimum whenever possible unless a 
+player has a legitimate question. Mudmail is always available to them. 
+Several players do not use it to talk to us. This needs to start changing.
+
+
+9. Under no circumstances whatsoever share your password or anyone elses
+with anyone not on the staff.
+	This can cause bad things to happen. Not only to you, but also to the
+mud. Please do not do this.
+
+10. Do not distribute/discuss pertinent information about Realms to players 
+or anyone else.
+	Giving out information like mob/obj stats and code will ruin our
+mud. Let the players and coders of other muds figure out information for 
+themselves. If it is found that you have done this, you are very likely to 
+be dismissed.
+
+11. If a player is rude to you, try not be rude back.
+	Players sometimes get quite rude and annoying. Most often they
+are little kids trying to get a reaction out of you to get attention.
+If this is the case, don't play along. Unless they are breaking the
+quidelines of player ettiquette continuously or outright doing something
+illegal (such as profanity on broadcast), do not react or do anything
+in response to their attitude. Reacting in a negative way forces the
+idea among players that we are "power mongers" and "ego maniacs". This
+widens the gap between players and admins, which is something we want
+to try to avoid. Note that it is a player etiquette violation if a player
+is continually rude to us, and options such as setting their outlaw flag
+or casting a silence spell on them can be used.
+
+12. Do not jail a player unless they are doing/did something illegal.
+	For continual breeches in player ettiquette, jailing should be
+a last resort. Only for the illegal things listed on the policy should
+a player be immediately jailed. The length of time, for the most part,
+can be freely determined by the jailer of the player. For ettiquette 
+breeches, players can be *silenced, a silence spell can be cast on them,
+or their outlaw flag can be set. Never under any circumstances jail a 
+player for only personal reasons. It is YOUR responsibility to release 
+people you jail at the time you set. If you cannot do this, it is your 
+responsibility to tell someone else to do it for you. Do not release 
+someone unless you are the one who jailed them or if that person told 
+you to do so.
+
+13. Do not ever put anything of an obscene nature onto this mud EVER.
+	This means do not put obscene or sexually explicit terms into
+item, monster, or room descriptions, or talk strings of monsters.
+PERIOD. This can not be tolerated. We are not going to provide that
+kind of environment, especially since most of our players are young.
+
+STAFF OWNED PLAYERS
+	Due to problems in the past, NO ONE who is a CT/DM is allowed
+to have a player on this mud anymore. Builders are sill allowed to
+have their players, as most of our builders will come from the
+player base, and we cannot ask them to suicide just so they can make
+room descriptions. If a CT is caught with a player, the DMs will 
+decide what to do with them, whether it be dismissal or simply
+deletion of the character. If a DM does this, then the DMs will
+handle it amongst themselves.
+
+GAME BALANCE
+	Game balance is paramount to the success of Realms. If some 
+monsters or items are too powerful or too weak, it can disrupt the 
+game in the long run. The same goes for some of the classes, which
+are still technically experimental since we didn't have a long
+playtesting period before opening. Keep an eye on balance between
+the classes. Other then that, here are some general guidelines:
+
+1. Please make all powerful non-pointless mobs and most all perms block 
+players from fleeing. 
+   Unless a monster is very weak or pointless (like a lost kitten or
+a wino or beggar), please set mflag 9 (Monster blocks). Players
+should have to flee from powerful monsters. If the block flag isn't
+set, then then mflag 10 (monster follows), or mflag 11 (monster
+flees) should be set...but in THAT order. Set the follow before the
+flee flag for powerful monsters. Nearly ALL perms should block.
+Otherwise, mages and liches would only die to perms in lag and they
+would advance too easily. In addition, druids, when under endurance,
+are able to "walk" monsters which don't block, meaning that they can
+run in a room, hit the mob, and run out without being hit. This is
+done by sending multiple commands to the mud with a mud client such
+as Zmud. Basically, if it is 100xp or more, it should usually block.
+
+2. When designing a specific weapon for a player, please use the custom
+archtypes (numbers 100-114). 
+	Custom weapons and equipment can be given to players for quests, 
+but they must always be approved by a DM. These archtypes must be used in
+order to ensure game balance. This way we always know the strength of
+custom weapons, and always know what a particular player is capable of.
+
+3. Please use the Isengard list as a guideline when setting shots and
+armor protection for armor and weapons.
+	Isengard has been around for a long time. Granted that they have 
+less stuff then we do it seems, their armor and weapons are pretty well
+balanced. If you do not have a copy of this list, get in touch with
+Rapture and he will give it to you. If you ever have a question as to
+whether something is balanced or not, check with Rapture. Do not
+distribute this list in any way to anyone besides the staff here. As
+a general rule, keep shots for armor at 50 or less, and weapons at 65
+or less. If the weapon is particularly powerful, give it less shots.
+Weapons which are very powerful and have a lot of shots (galvorn blade)
+should be extremely rare. If you want to make armor or weapons with more
+then 50 or 65 shots, check with Rapture about it.
+
+4. If you have areas where monsters come in droves which are 80xp or
+more, make sure there is enough alignment variance.
+	This means make sure that a player is forced to move around and
+cannot sit all day in one spot gaining xp. Make alignments in these
+areas change the player to where he must leave or get too good/evil.
+The distance a player changes on the alignment scale is 1/5th the 
+amount you set. So if a monster has al 20, the player changes 4 in
+the negative direction. For areas where monsters of over 80xp come
+in large numbers and at good traffic, make sure the distance a player
+CHANGES is at least 7. Also, set some of the monsters up there to
+where some of them are good/evil aggro. If we do not do this, then
+people will sit at these areas all day long and will be level 20 
+before we know it.
+
+5. DM permission is required for some flags to be set.
+	The confer oflags which confer spell powers, or the oflags
+which alter players' stats must always be approved by a DM before
+being put on an item. These flags are extremely powerful, and we
+need to keep a check on their use.
+
+More will be put here as needed.
+
+
+DM JOBS/RESPONSIBILITIES and ORGANIZATION
+	Listed here are the general jobs each DM is in charge of.
+This is done in order that wires will not be crossed. It will also
+make it easier to know which DM to talk to about something. In addition
+it is written here how decisions are made/disputed by the staff.
+
+Bane: Head of coding/debugging. In charge of permanent quests in 
+      the game. In charge of staff checks and balances. In charge
+      of everything having to do with mages.
+
+Ocelot: In charge of game balance. Final word on policy enforcement.
+         Final say regarding the mud world. In charge of hiring CTs
+         and builders. In charge of backing up the mud.
+
+Finn: Head of the building process and all builders. In charge of 
+      interactive trivia. ROH staff Listserve moderator. Chief player 
+      liason. In charge of keeping help files up to date.
+
+1. Anything that isn't liked by one DM that another DM does can
+be put to a DM vote. Majority wins out. If there are an even number
+of DMs, then a general vote of all the CTs will break the tie. If that
+is a tie, then Bane's vote counts twice. If the person is Bane and
+there are an even number of DMs, or one abstains and makes it so only
+an even number of DMs are involved, then the CTs votes count 2x.
+
+2. A DM vote must be taken to fire someone. If this someone is a DM, 
+then that DM does not vote, and CTs vote in his place. Again, in the 
+case of a tie, Bane's vote counts two times. If the subject of the
+problem is Bane, then the CTs votes count twice instead. Although it
+isnt like Bane can be fired, this is just here for completion.
+
+3. Only one DM can hire new builders or CTs (Rapture). 
+
+4. Any DM can dust any player, but they may be asked why and to account 
+for it to the other DMs. A majority vote against it can get that player 
+restored. 
+
+5. Promotion of any CT to DM must be agreed upon unanimously by all 
+   current DMs.
+
+6. Only one DM can hire coders (Bane).
+
+PLAYER/ADMIN INTERACTION in QUESTS
+	On some occasions, DMs or CTs may wish to *pos a monster to 
+roleplay with players, have a trivia contest to give players gold, 
+mess with their minds, or a host of other interaction related things. 
+This is all ok in moderation. If we do it too much then players will 
+quickly become sick of it due to us interrupting their play of the game.
+The same goes in the opposite direction, meaning if we do it too much,
+they will come to expect it and they will not play the game right. 
+With this in mind, if you are interacting with a player in this manner 
+and it is clear that they are annoyed with it or expecting it too much, 
+please stop. We are here for what they want so they can have a good time.
+We also must maintain game balance, or the game will be ruined for some. 
+We can't jeopardize enjoyment or balance in any way. With no players there 
+is no mud.
+	As far as trivia or any other kind of contests go, please clear your 
+idea with a DM before you do one, so they can know what it is you are 
+doing and can make sure someone else doesn't want to do it at the same time.
+We also want to be able to approve the idea.
+
+If you have any questions about or additions to this policy, mudmail or 
+ask/tell a DM.

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3024" Version="2.40" Area="ocean">
+  <Name>Goblin Underground Passage</Name>
+  <ShortDescription>You are in a dimly lit tunnel in the southern part of the shrine.</ShortDescription>
+  <LongDescription>Smoky torches flicker and sputter along the tunnel's walls, providing the
+only source of light in a dreary tunnel.  It's difficult to breath such
+stale air, and the torches indicate there really isn't much oxygen down
+here anyway.  There are numerous cracks and small crevices in the tunnel
+wall, some large enough that they seem to provide homes for rats and other
+vermin.  There is a rather large crack in the eastern wall.</LongDescription>
+  
+  <Established>761304618</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">502</Mob>
+      <Mob Area="ocean" Num="1">505</Mob>
+      <Mob Area="ocean" Num="2">506</Mob>
+      <Mob Area="ocean" Num="3">322</Mob>
+      <Mob Area="ocean" Num="4">505</Mob>
+      <Mob Area="ocean" Num="5">502</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3023</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3025</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">3026</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

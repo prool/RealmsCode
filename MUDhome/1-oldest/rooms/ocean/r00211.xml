@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Room Num="211" Version="2.40" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>This is the second-floor east/west hallway.</ShortDescription>
+  <LongDescription>A dusty, old oaken door is set in the wall to the north, and the hallway 
+heads east toward a large, twisting stairwell and west toward a corner
+in the hall.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">16</Mob>
+      <Mob Area="ocean" Num="1">16</Mob>
+      <Mob Area="ocean" Num="2">16</Mob>
+      <Mob Area="ocean" Num="3">17</Mob>
+      <Mob Area="ocean" Num="4">17</Mob>
+      <Mob Area="ocean" Num="5">18</Mob>
+      <Mob Area="ocean" Num="6">19</Mob>
+      <Mob Area="ocean" Num="7">20</Mob>
+      <Mob Area="ocean" Num="8">21</Mob>
+      <Mob Area="ocean" Num="9">21</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">210</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">213</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">212</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

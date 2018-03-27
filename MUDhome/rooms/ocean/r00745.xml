@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="745" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are traveling along Wakeforest Drive, west of the Tranquility Patrol.</ShortDescription>
+  <LongDescription>The Tranquility Patrol Station is located on the east side of the road
+and provides assistance in keeping the peace in Oceancrest.  These domestic
+guards patrol the streets of Oceancrest, cleaning up crime where ever they
+can.  Unfortunately, the Tranquility Patrol is rather small and cannot
+handle much of the action which can take place in a city as large as
+Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">744</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">746</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

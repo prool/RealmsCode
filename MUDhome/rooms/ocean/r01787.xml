@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="1787" Version="2.41b" Area="ocean">
+  <Name>Monument Avenue</Name>
+  <ShortDescription>You are walking along Monument Avenue, south of the Recycling Center.</ShortDescription>
+  <LongDescription>On the north side of the road is the Oceancrest Trash Recycling Plant.  One
+of the biggest problems in Oceancrest, as with all major cities, is the 
+problem of trash.  As an incentive to keep the town clean, the city pays
+one gold piece for each bit of junk anyone leaves in the Recycling center.
+On the south side of the road is the Iron Works shop where small but sturdy
+weapons may be purchased.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="2">267</Mob>
+      <Mob Area="ocean" Num="3">267</Mob>
+      <Mob Area="ocean" Num="4">267</Mob>
+      <Mob Area="ocean" Num="5">267</Mob>
+      <Mob Area="ocean" Num="6">267</Mob>
+      <Mob Area="ocean" Num="7">267</Mob>
+      <Mob Area="ocean" Num="8">267</Mob>
+      <Mob Area="ocean" Num="9">267</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1706</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1788</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="alley">
+      <Keys/>
+      <Room Area="ocean">2255</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

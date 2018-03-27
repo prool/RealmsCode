@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2521" Version="2.40" Area="ocean">
+  <Name>Ivory Way</Name>
+  <ShortDescription>You are on Ivory Way, walking in a north-south direction.</ShortDescription>
+  <LongDescription>A very low building sits on a grassy lot to the west.  A sign out front
+proclaims it to be the "Center for Research on Anti-Gravity and Levitation."
+From here you can see several humans inside the building, all of whom appear
+to be wearing white coats and carrying clipboards.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2039</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2034</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

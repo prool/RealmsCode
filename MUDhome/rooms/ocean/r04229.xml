@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="4229" Version="2.40a" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>You are in the Level One Hallway, near the castle armory.</ShortDescription>
+  <LongDescription>The armory is a little farther to the east where you see the sentry guard.
+The more expensive and better weapons are stored in the armory, so several
+guards keep an eye on them.  Many people visit the castle who are not
+actually part of the castle's company, and a few seem to be accomplished
+theives.  Equipment has been found missing more than once.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4228</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4230</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

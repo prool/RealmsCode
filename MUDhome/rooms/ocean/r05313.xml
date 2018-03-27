@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="5313" Version="2.40" Area="ocean">
+  <Name>Lyanden Road/Forest Road Intersection</Name>
+  <ShortDescription>This is the intersection of Lyanden Road and Forest Road.  Lyanden Road
+runs east and west, while Forest Road continues to the north and south.</ShortDescription>
+  <LongDescription>Lyanden Road is wide and well maintained, but it looks like Forest Road
+could use a little work.  The trees seem to hang excessively low as you look
+to the north.  You can't see very far to the west, but a road sign says
+that Oceancrest is in that direction.  It also says Brownhaven is east. </LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5312</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5314</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5400</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5341</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="4213" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>This is the most southwest corner of the great Tower Castle of Rutger.</ShortDescription>
+  <LongDescription>From here, the circular hallway stretches into a dimly lit distance to the
+east.  Several torches have burned out along here, and someone is going to
+be punished for not replacing them.  The open door on the north side goes to
+the Griffon's Heart Pub, a drinking place for the castle's troops.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4212</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4214</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4252</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

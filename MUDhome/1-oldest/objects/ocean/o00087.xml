@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="87" Area="ocean" Version="2.40">
+  <Name>bronze gauntlets</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Armor>8</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">800</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">gauntlets</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+  </Flags>
+  <Description>The glimmering gauntlets look like they could break the face of an orc.</Description>
+  <UseOutput>You flex your fingers after you put the gauntlets on.</UseOutput>
+  <Weight>5</Weight>
+  <Type>6</Type>
+  <SubType>chain</SubType>
+  <WearFlag>6</WearFlag>
+  <InBag/>
+</Object>

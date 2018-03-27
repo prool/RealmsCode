@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3050" Version="2.40" Area="ocean">
+  <Name>Goblin Underground Passage</Name>
+  <ShortDescription>You are in a passageway lead to the western section of the goblin shrine.</ShortDescription>
+  <LongDescription>Unlike most of the other passageways and tunnels down here, there are a
+few smoky torches occasionly along the way.  certainly not enough to see
+by, but perhaps enough to serve as landmarks.  This section of tunnels is
+different in another way, too.  The walls are smooth, and feel warm to the
+touch.</LongDescription>
+  
+  <Established>761306684</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3025</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3051</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

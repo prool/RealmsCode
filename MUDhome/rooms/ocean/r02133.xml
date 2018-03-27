@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="2133" Version="2.40" Area="ocean">
+  <Name>Giant Tree Stump</Name>
+  <ShortDescription>You are on the north side of a giant tree stump in the Enchanted Forest.</ShortDescription>
+  <LongDescription>The tree that once stood here must have been a world-wonder, if the
+girth of the stump is any indication.  Looking up, you see the top of
+the tree trunk is considerably over your head, but there may be a way
+to climb up there.  The path splits and goes around the tree in two
+different directions, and also leads away to the north.  A short
+distance that way there is a heavy rope bridge cabled across a shallow
+gorge.  The Ashton creek follows the gorge.</LongDescription>
+  
+  <Established>756209120</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2132</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1298</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2134</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

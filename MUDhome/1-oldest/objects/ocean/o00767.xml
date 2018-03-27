@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="767" Area="ocean" Version="2.40">
+  <Name>acid pod</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>6</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">pod</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The pod seems to be an acid filled bio-sac, which can inflict great damage.</Description>
+  <UseOutput>You splatter the acid!!</UseOutput>
+  <Weight>2</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>29</MagicPower>
+  <InBag/>
+</Object>

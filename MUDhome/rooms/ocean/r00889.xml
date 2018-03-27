@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="889" Version="2.40" Area="ocean">
+  <Name>Foreman's Shack</Name>
+  <ShortDescription>You are inside the orchard foreman's shack, which he calls an office.</ShortDescription>
+  <LongDescription>The walls of the dirty room are covered with pictures of naked gnomes,
+and a tall, wooden vat, half-filled with wine, stands in the corner.
+A poster advertises a new line of short-handled hoes for field work.
+The foreman is brutish half-gnome with a terrible disposition and a
+quick temper.  If the field workers were not so heavily in debt to the
+company store, they would have left long ago because of him.  He is at
+his worst when drunk, and none have ever seen him sober.</LongDescription>
+  
+  <Established>755891959</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">397</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">884</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

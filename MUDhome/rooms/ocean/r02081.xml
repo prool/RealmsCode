@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="2081" Version="2.41a" Area="ocean">
+  <Name>Second Floor Hallway</Name>
+  <ShortDescription>You are at the west end of the main second floor hallway in the Kista Towers.</ShortDescription>
+  <LongDescription>The long hallway proceeds east from here and ends at a wall some eighty
+meters down.  On the west wall, there are life-size portraits of Lord
+Aaileman and Lady Drianna.  The floor is covered with a fine red carpet
+made completely of rare minusk fur.  There is an orange door to the north 
+next to the northern hallway, and a sky-blue painted door to the south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2080</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2544</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="orange door">
+      <Keys/>
+      <Room Area="ocean">2083</Room>
+      <Key>15</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="blue door">
+      <Keys/>
+      <Room Area="ocean">2084</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

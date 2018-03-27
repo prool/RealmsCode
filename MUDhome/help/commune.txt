@@ -1,0 +1,10 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  commune       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This ability allows a druid of sufficient level to commune with nature in order
+to detect any living creatures in the rooms around him/her. It does not detect
+elemental pets or undead creatures. It will detect hidden creatures and players.
+It will not see rooms beyond hidden or concealed exits, nor will it see beyond
+closed doors.
+

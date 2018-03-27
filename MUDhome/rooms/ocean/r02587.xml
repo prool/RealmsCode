@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2587" Version="2.40" Area="ocean">
+  <Name>Field of Foxglove</Name>
+  <ShortDescription>You are in a field of wild foxglove, which is in full bloom.</ShortDescription>
+  <LongDescription>For a reason unknown to most people, the faerie folk are very fond of the
+foxglove blossom.  This field must certainly be attractive to them, for 
+the riotous color, if nothing else.  This is the second level of the
+Hanging Gardens.  The first level is to the west, and a beautiful tower 
+forms the third level to the east.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2580</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2586</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2588</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

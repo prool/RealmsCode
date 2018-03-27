@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |  Help on:  earth-tremor spell  |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 25
+
+This is the most powerful spell in the earth realm. It causes a brief, violent
+earthquake to commence beneath the feet of the target. In fact, the tremor can
+be so violent that merely one is often enough to kill the intended target. Those
+who live, though, suffer severe repercussions.
+
+Syntax:
+cast earth-tremor <target>
+

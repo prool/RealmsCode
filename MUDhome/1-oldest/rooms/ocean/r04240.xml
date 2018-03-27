@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="4240" Version="2.40a" Area="ocean">
+  <Name>Main Courtyard - Southwest Corner</Name>
+  <ShortDescription>You are at the southwest corner of the great open courtyard of Castle Rutger.</ShortDescription>
+  <LongDescription>There is a ramp here that leads up to the battlements on the west side of
+of the Tower Castle over the front gates.  The castle, built on the steep
+side of a mountain, needs to be defended from only the west side.  The ramp
+is wide and looks like a lot of troops could be moved quickly over it.</LongDescription>
+  
+  <Flags>
+    <Bit Num="10"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4238</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4206</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4245</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4244</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

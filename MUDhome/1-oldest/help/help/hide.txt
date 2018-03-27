@@ -1,0 +1,19 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  hide           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The hide command allows you to hide yourself or objects that are in the room.
+If you type hide by itself, you will attempt to hide in the shadows to prevent
+other players or monsters from seeing you in the room. You can also attempt to
+hide any object that is sitting on the room's floor, and if you are successful
+the object will not be visible to anyone who does not search for it. Rangers,
+thieves and assassins hide best.
+
+Example:
+: hide hoe
+You attempt to hide it.
+You tuck a hoe into a corner.
+: hide
+You attempt to hide in the shadows.
+You slip into the shadows unnoticed.
+:

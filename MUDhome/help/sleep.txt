@@ -1,0 +1,20 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  sleep          |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+When injured, players may go to sleep to heal faster then normal. While
+sleeping, you will gain three more hit points and magic points than normal.
+A character is very vulnerable while they are sleeping; they are 50% easier to
+hit and will take twice the amount of damage from an attack. Players are also
+unconscious during this time, meaning they are generally unaware of their
+surroundings.
+
+Combat and loud noises will prevent a character from sleeping, and several
+socials will wake a sleeping character. Note that you are allowed to hide
+before your sleep, providing you some secrecy until shifting shadows expose
+you. When you are completely healed, you will awaken automatically.
+
+Vampires may only sleep during the day, and then only where there is no
+sunlight. At night, their thirst for blood keeps them awake. Liches, being
+undead creatures, are unable to sleep.
+

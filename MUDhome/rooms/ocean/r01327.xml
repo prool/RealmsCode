@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1327" Version="2.40" Area="ocean">
+  <Name>Ministry Way</Name>
+  <ShortDescription>You are walking along Ministry Way, west of the Oceancrest Ministries.</ShortDescription>
+  <LongDescription>The North Oceancrest Ministries are located to the east, and include the
+Ministry to Tranquility, the Hall of Discipline and the Ministry of Rumor
+Control.  To the west, you can see a small shop called Iilian's Potions,
+where various potions and other strange stuff may be purchased.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1326</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1328</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

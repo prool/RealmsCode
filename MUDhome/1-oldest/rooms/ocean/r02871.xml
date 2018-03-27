@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2871" Version="2.40" Area="ocean">
+  <Name>Kaldeas' Mansion Foyer</Name>
+  <ShortDescription>You are in the front entry and foyer of the Kaldeas Mansion.</ShortDescription>
+  <LongDescription>The room is opulent and rich, but dusty, as though it had not been used for
+a very long time.  Mirrors hang at odd angles, and there are a number of
+doors along the hallway.  Mardic Kaldeas was known as a master of illusion,
+and everything you see behind those doors may not be exactly as they appear.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2870</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hallway">
+      <Keys/>
+      <Room Area="ocean">2872</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

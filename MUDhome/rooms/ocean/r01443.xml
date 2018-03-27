@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1443" Version="2.40" Area="ocean">
+  <Name>Basement Hallway</Name>
+  <ShortDescription>You are in the corner of the basement in the Palace of Keslar.</ShortDescription>
+  <LongDescription>The basement corridor has turned to the north and west from here, the
+southern most portion of the basement.  This area is pretty desolate
+with an occasional guard wandering by just making sure things are 
+ok.  You see a number of servants and maids to the north.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">173</Mob>
+      <Mob Area="ocean" Num="1">174</Mob>
+      <Mob Area="ocean" Num="2">173</Mob>
+      <Mob Area="ocean" Num="3">174</Mob>
+      <Mob Area="ocean" Num="4">172</Mob>
+      <Mob Area="ocean" Num="5">172</Mob>
+      <Mob Area="ocean" Num="6">172</Mob>
+      <Mob Area="ocean" Num="7">172</Mob>
+      <Mob Area="ocean" Num="8">130</Mob>
+      <Mob Area="ocean" Num="9">130</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1444</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1442</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

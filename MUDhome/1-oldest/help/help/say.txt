@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |           Help on:  say           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Say allows you to speak to other players that are in the same room as you are.
+Short-hand notations for the say command include the apostrophe and the
+quotation mark.
+
+Example:
+: ' Hi
+You speak, "Hi".
+: say how's it going
+You say, "how's it going".
+:

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3180" Version="2.40" Area="ocean">
+  <Name>Lost in a Vast Sea</Name>
+  <ShortDescription>You are swimming strongly in the Respitial Sea near a boat and a raft.</ShortDescription>
+  <LongDescription>A decrepit old boat swings at anchor nearby and you can see a friendly
+wave from a person standing near the rail.  Not far from the boat is a
+large raft, also anchored.  The raft appears to be quite comfortable
+and has a canvas sunshade over most of its deck.  There doesn't seem
+to be anyone aboard the raft.</LongDescription>
+  
+  <Established>756112282</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3171</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3179</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="boat">
+      <Keys/>
+      <Room Area="ocean">270</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="raft">
+      <Keys/>
+      <Room Area="ocean">269</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

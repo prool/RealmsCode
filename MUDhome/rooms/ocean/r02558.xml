@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2558" Version="2.40" Area="ocean">
+  <Name>Garden Circle Road</Name>
+  <ShortDescription>You are on the east side of Garden Circle Road.</ShortDescription>
+  <LongDescription>The sound of small animals and birds can be heard from the trees and ferns
+in the famous Gardens.  There is a story that there is a mirror pool located
+in the Garden, but that only the pure of heart can ever see it.  At one time
+the citizens of the old realm suggested that evil-doers be brought there to 
+administer justice, but unfortunately the judges could never find the pool.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2557</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2559</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

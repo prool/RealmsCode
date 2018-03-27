@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2553" Version="2.40" Area="ocean">
+  <Name>Garden Circle Road</Name>
+  <ShortDescription>You are on Garden Circle Road, just south of Alturis Road.</ShortDescription>
+  <LongDescription>There is a large, thick hedge on either side which prevents people from
+entering the Garden at this point.  The entry probably is to the south.
+On the west side there is an archery range.  The hedge no doubt protects
+a lot of people from being accidently sent back to the Tree of Life.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2037</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2554</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Room Num="945" Version="2.40" Area="ocean">
+  <Name>West Hafnia Boulevard</Name>
+  <ShortDescription>You are on a wide boulevard which runs from the west gate to the east gate.</ShortDescription>
+  <LongDescription>The beautiful mountain city of Hafnia is small, but you must remember it was
+rebuilt after the war with the dragons and trolls.  Long ago, Hafnia was
+much larger but most of it was crushed during the wars.  Some say there
+are still portions of the old city deep underground, and that it may be
+possible to recover some of the valuables that still be down there.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">944</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">946</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">933</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">915</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="shop">
+      <Keys/>
+      <Room Area="ocean">5515</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="pub">
+      <Keys/>
+      <Room Area="ocean">5519</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

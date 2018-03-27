@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="217" Area="ocean" Version="2.40">
+  <Name>firey orange jacinith key</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>50</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">orange</Key>
+    <Key Num="1">jacinth</Key>
+    <Key Num="2">key</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>You see a magnificent orange gem reflecting the rays of the sun.</Description>
+  <UseOutput>click.  The green glow turns purple, and the room is flooded with light!</UseOutput>
+  <Weight>5</Weight>
+  <Type>12</Type>
+  <InBag/>
+</Object>

@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  nature         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+^WSpells:^x
+    camouflage
+    dense-fog
+    entangle
+    pass-without-trace
+    track
+    wall-of-thorns
+
+See also:
+    HELP DOMAINS
+

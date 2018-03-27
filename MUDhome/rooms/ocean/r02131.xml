@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="2131" Version="2.40" Area="ocean">
+  <Name>Milsene Museum's Caverns of Doom Exhibit</Name>
+  <ShortDescription>You are in the mysterious Caverns of Doom exhibit based on some under-
+ground caverns and passages underneath the mountains and the lakes.</ShortDescription>
+  <LongDescription>The caves are remarkablly well reproduced here, although on a much
+smaller scale than in real life.  There are a number of small things
+moving on the dusty, damp floor, mostly consisting of venemous rats
+and other vermin.  Every so often, you see some orcs or worms wandering
+around in the depths of the caves.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">43</Mob>
+      <Mob Area="ocean" Num="1">46</Mob>
+      <Mob Area="ocean" Num="2">47</Mob>
+      <Mob Area="ocean" Num="3">41</Mob>
+      <Mob Area="ocean" Num="4">40</Mob>
+      <Mob Area="ocean" Num="5">136</Mob>
+      <Mob Area="ocean" Num="6">137</Mob>
+      <Mob Area="ocean" Num="7">141</Mob>
+      <Mob Area="ocean" Num="8">164</Mob>
+      <Mob Area="ocean" Num="9">218</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2127</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

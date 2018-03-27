@@ -1,0 +1,20 @@
+Help on: *bank
+
+This command allows DMs and CTs to remotely view a player's
+bank balances. It also allows DMs to remotely set each type
+of coins to a specific amount, to a maximum of 1000000. DMs
+can also remotely set a player's coins all to 0. This command
+is useable whether the player is online or offline.
+
+Syntax: *bank (player) [-d]
+        *bank (player) [a|c|g|p|s] (amount)
+
+Examples:
+:*bank Ulfang
+Ulfang's bank coin balances: 56gp 10sp 103cp.
+:*bank Ulfang -d
+Ulfang's bank coin balances all set to 0.
+:*bank Ulfang p 10
+Ulfang's platinum bank balance set.
+:*bank Ulfang c 203
+Ulfang's copper bank balance set.

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5129" Version="2.40" Area="ocean">
+  <Name>North Hall</Name>
+  <ShortDescription>You are in a wide hallway that was once a grand display room for the castle.</ShortDescription>
+  <LongDescription>Before the Witch of Kayleigh and her brother drove out the legitimate owners
+of the castle, this hallway was where the Duke's banners were proudly hung.
+There are three dark and musty rooms on the west side of the hall.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5130</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5125</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5089</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

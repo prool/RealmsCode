@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="787" Version="2.40" Area="ocean">
+  <Name>Guardian of the Dragon's Citadel</Name>
+  <ShortDescription>You have entered a large, odd-shaped room that is slanted on the south-
+west corner.  A giant alter sits directly in the center of the room.</ShortDescription>
+  <LongDescription>As you approach the alter, a large plume of smoke and fire rises to 
+greet you.  In the flame, you can make out a human-like face that speaks
+to you: "Go into the darkness and you will find light.  The Crystal Alcove
+is an illusion to prevent the unworthy from finding the treasures of
+the Alcove.  Only the most skilled will pass."  With that being said,
+the flame retreats back into the alter.</LongDescription>
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">784</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">788</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2846" Version="2.40a" Area="ocean">
+  <Name>Crimson Hallway</Name>
+  <ShortDescription>You are traveling through the desolate crimson hallway under the glacier.</ShortDescription>
+  <LongDescription>There is not a lot of activity around this corner of the crimson hallway
+but the halls are kept very clean.  The glimmering ice shines with a
+radiance unlike anything you've ever seen.  The hallway continues to
+the south and east.</LongDescription>
+  
+  
+  
+  <Established>729228680</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2845</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2847</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

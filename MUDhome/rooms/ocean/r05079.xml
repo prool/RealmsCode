@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="5079" Version="2.40" Area="ocean">
+  <Name>Over Western Lake Kista</Name>
+  <ShortDescription>You are above the western shore of Lake Kista.  25.n0.e26.s8.w0</ShortDescription>
+  <LongDescription>The copper dragon you are riding signals she would like a drink, and
+would like to descend.  You are at the eastern limit of how far the dragon
+will fly, and she normally rests here before returning to Brownhaven.</LongDescription>
+  
+  <Established>773481448</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5077</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5082</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,11 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |          Help on:  gto         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The GTO command is designed for speaking out of character. It was designed to
+encourage roleplaying, and those who roleplay should use it often.
+
+Example:
+: gto wazzup
+### Bob group mentioned, "(ooc): wazzup".
+

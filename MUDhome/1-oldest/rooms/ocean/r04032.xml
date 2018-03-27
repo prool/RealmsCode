@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="4032" Version="2.41a" Area="ocean">
+  <Name>Southern Crystalline City</Name>
+  <ShortDescription>You are in the crystal cavern, with a crystal city spread out before you.</ShortDescription>
+  <LongDescription>Although most of the buildings in the city share a similar size and shape,
+one structure really stands out in terms of sheer, breath-taking beauty.
+A hugh tower, composed completely of diamonds, rises from the center of the
+city.  The builders of the tower managed to secure the foundation at ground
+level and also to connect the top to the cavern ceiling, hundreds of meters
+above.  The light glinting from the building makes it hard to look at it.</LongDescription>
+  
+  
+  
+  <Established>771973040</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4031</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4033</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tower">
+      <Keys/>
+      <Room Area="ocean">4038</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

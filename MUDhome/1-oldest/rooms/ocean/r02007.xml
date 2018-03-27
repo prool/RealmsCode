@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="2007" Version="2.40" Area="ocean">
+  <Name>Lake View Road</Name>
+  <ShortDescription>You are on the eastern side of Lake View Road, just north of Myrr Lane.</ShortDescription>
+  <LongDescription>Lake View Road proceeds around the city's granary and dairy storage
+areas bringing you towards Lake Kista.  The shimmering blue water of
+the lake is breathtaking, even though the lake itself isn't much 
+bigger than the city.  To the west you can see the dairy cows and 
+production area.  There is a small field of grass where the cows are
+sleeping under thick and bountiful fruit trees.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2006</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2014</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3211</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

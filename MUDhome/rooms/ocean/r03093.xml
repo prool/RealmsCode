@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3093" Version="2.40" Area="ocean">
+  <Name>Uland Temple Air Chamber</Name>
+  <ShortDescription>You are in a small air chamber used for ventilation purposes.</ShortDescription>
+  <LongDescription>A section of the wall has fallen in, and you cannot go but one way.       
+There is a grate overhead, but debris has fallen on most of it, and only a 
+little light comes through.  It doesn't look possible to go that way.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>vent</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="vent">
+      <Keys/>
+      <Room Area="ocean">3094</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

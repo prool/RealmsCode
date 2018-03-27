@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1683" Version="2.41a" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You ware walking along Waterfront Way, south of the Corn Fields.</ShortDescription>
+  <LongDescription>The large corn fields cover most of the northern landscape that you see
+before you.  The Fields provide corn for all the agricultural and civilian
+needs year round.  The excess corn is stored in silos to the east, south
+of the Klondike Wheat Fields.  The Oceancrest Stables are located to the
+south where you can leave your steeds and walk around town freely.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1682</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1684</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

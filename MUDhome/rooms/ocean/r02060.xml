@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<Room Num="2060" Version="2.40" Area="ocean">
+  <Name>Drawbridge Entrance to the Kista Towers</Name>
+  <ShortDescription>You are in the guard booth on the south side of the moat around the Towers.</ShortDescription>
+  <LongDescription>This small wooden room controls the opening and closing of the drawbridge
+which spans the tower's moat.  The moat below is a very dangerous place
+as it tends to be crawling with very hungry crocodiles and other monsters 
+that have not been categorized yet.  There are four buttons on the west wall
+of the guard station which control the drawbridge.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">728</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">262</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">263</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">264</Misc>
+    </LastTime>
+    <LastTime Num="4">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">265</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2031</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="drawbridge">
+      <Keys/>
+      <Room Area="ocean">2061</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="moat">
+      <Keys/>
+      <Room Area="ocean">2059</Room>
+      <Flags>
+        <Bit Num="9"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+    <Exit Name="moat">
+      <Keys/>
+      <Room Area="ocean">2058</Room>
+      <Flags>
+        <Bit Num="9"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

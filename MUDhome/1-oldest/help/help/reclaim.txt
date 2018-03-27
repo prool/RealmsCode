@@ -1,0 +1,17 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  reclaim         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+This command allows you to reclaim an item that you recently either sold in a
+pawn shop or dropped in a pawn shop. You will be required to return the money
+that the shopkeeper paid for the item. You will only be able to do this as
+long as you do not leave the room and do not log off. This only works for the
+last item that you pawned. ^WNote:^x unique items cannot be reclaimed.
+
+Example:
+: sell wh
+The shopkeep gives you 125 gold for the white colored sword.
+Your haggling skills gained you an extra 47 gold coins.
+: reclaim
+You give the shopkeeper 172 gold and reclaim the white colored sword.
+:

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="595" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, directly in front of the drawbridge used to
+enter the magnificent Lyanden Castle, on the mirror lake to the east.</ShortDescription>
+  <LongDescription>The Lyanden Castle is the political center of the City of Oceancrest.  
+All foreign affairs are conducted from the castle.  There are many
+diplomats from the various cultures around Oceancrest wandering about
+the street, waiting to meet with the High Lord Chamberlain.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">594</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">596</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2500</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Room Num="603" Version="2.47i" Area="ocean">
+  <Name>Avatar Boulevard</Name>
+  <ShortDescription>You are traveling along Avatar Boulevard, taking in the various sites.</ShortDescription>
+  <LongDescription>On the east side of the road, you can see the magnificent Avatar Ruins,
+created by the waring Avatars of ancient history as they tried to destroy
+each other.  On the west side of the road is the Embassy Court, where
+the elven and dwarven delegations are located.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>south</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">602</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">604</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

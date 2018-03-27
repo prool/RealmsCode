@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="336" Area="ocean" Version="2.40">
+  <Name>elephant leather boots</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>40</ShotsMax>
+  <ShotsCur>40</ShotsCur>
+  <Armor>17</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">350</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">leather</Key>
+    <Key Num="1">boots</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>You see some small boots made of heavy elephant leather.</Description>
+  <Weight>3</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>8</WearFlag>
+  <InBag/>
+</Object>

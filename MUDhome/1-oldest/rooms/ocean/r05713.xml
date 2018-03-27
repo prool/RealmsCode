@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="5713" Version="2.40" Area="ocean">
+  <Name>Boran's Gate</Name>
+  <ShortDescription>This is the north end of Boran Street, near the village wall. </ShortDescription>
+  <LongDescription>There is a gate across the street which leads farther to the north, and a
+very big hut nearby.  You can hear the sound of snoring coming from inside 
+the hut.  A stone building is across from the hut on the east side of the 
+street, and a sign above the door says, "Community Warehouse."</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5711</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">5714</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="hut">
+      <Keys/>
+      <Room Area="ocean">5715</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="warehouse">
+      <Keys/>
+      <Room Area="ocean">5716</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

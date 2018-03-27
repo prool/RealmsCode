@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1079" Version="2.40" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are on Golden Dolphin Way, running parallel to the south City Wall.</ShortDescription>
+  <LongDescription>Golden Dolphin Way runs parallel to the Southern City Wall for almost
+the entire span of the city.  On the north side of the road, you can
+see some buildings in a shopping complex.  Directly to the north, there
+is an elephant leather shop.  The entrance to the shop is located on
+Rosecrest Street to the west.  There are two more shops to the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1078</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1080</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

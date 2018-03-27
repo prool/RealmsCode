@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5156" Version="2.40" Area="ocean">
+  <Name>Western Hall</Name>
+  <ShortDescription>This is an area that was once the private quarters of the duke's family.</ShortDescription>
+  <LongDescription>Now, it is an ashen graveyard for the skeletons of swine. The Witch who
+who murdered the duke drove swine into the castle, and kept them in this
+great hall.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5128</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5155</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

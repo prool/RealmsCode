@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1816" Version="2.40" Area="ocean">
+  <Name>The Salamander's Cave</Name>
+  <ShortDescription>You have entered a large cave that is currently inhabitted by a salamander.</ShortDescription>
+  <LongDescription>The salamander is a giant, demon-like creature from the depths of the
+elemental plane of fire.  The cave in intensely warm and feels almost
+like you're standing in a fire.  The rest of the cave is otherwise
+empty and has nothing of real value.  Besides, almost any object in 
+here for more than a short period of time would probably melt or burn.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">277</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1817</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

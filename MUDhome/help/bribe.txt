@@ -1,0 +1,17 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  bribe        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Bribe allows you to offer monsters money in the hope that they will leave the
+room, not bothering you anymore. This is useful if you want a monster to stop
+guarding a treasure you'd like to take or if you're really getting womped in
+the middle of combat. The higher the level, the more money the monster will
+want.
+
+Example:
+: bribe doc $50
+The doctor takes your money, but stays.
+: bribe doc $500
+The doctor takes your money and leaves.
+:
+

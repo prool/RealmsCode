@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1211" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are walking along Nagaritha Drive, north of a large corn field.</ShortDescription>
+  <LongDescription>The corn fields to the south supply the city of Oceancrest with all the
+corn it needs for both human and animal survival.  The fields cover quite
+a few acres, and are protected by a tall fence.  On the north there is
+a barn and a new silo being constructed to supplement the current one,
+which has already reached capacity.  Oceancrest likes to keep extra food
+in storage in case of a prolonged attack from outside the city walls.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1212</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1210</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="barn">
+      <Keys/>
+      <Room Area="ocean">3002</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

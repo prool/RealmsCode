@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1127" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are travelling along Netherworld Lane between Main and Marina Way.</ShortDescription>
+  <LongDescription>This small city block boasts two somewhat large buildings on both the
+north and south sides.  The entrances to these buildings are located 
+off of Main Street.  Marina Way serves mostly as a back-road for the
+delivery of supplies and other accessories to these booming businesses.
+Marina Way is to the east and Main Street is to the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1016</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1124</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

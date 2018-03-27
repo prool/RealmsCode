@@ -1,0 +1,7 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  translocation      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Translocation spells deal with moving the caster, the target, or objects
+great distances. Translocation spells can also move the the subject to
+other planes of existence.

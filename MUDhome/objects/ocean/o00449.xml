@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="449" Area="ocean" Version="2.40">
+  <Name>dwarven sabre</Name>
+  <Adjustment>2</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>3</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">7500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">sabre</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+  </Flags>
+  <Description>The blade is heavy enough to cut through bone.</Description>
+  <Weight>6</Weight>
+  <Type>5</Type>
+  <SubType>rapier</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

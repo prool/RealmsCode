@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1124" Version="2.40" Area="ocean">
+  <Name>Marina Way/Netherworld Lane Intersection</Name>
+  <ShortDescription>You are at the intersection of Marina Way and Netherworld Lane.</ShortDescription>
+  <LongDescription>Marina Way continues to the north and south, intersecting Netherworld Lane,
+which runs east and west.  Marina Way heads south towards the Oceancrest
+Central Arena.  It is advised that if you are going to the arena you should
+first stop at the Arena Events and Information Center found on Main Street,
+north of Overland Drive.  You may obtain a map there.  Netherworld Lane runs
+east towards the Necropolis, where Oceancrest's brave and elite are buried.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1125</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1123</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1127</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1172</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

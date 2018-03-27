@@ -1,0 +1,18 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  disintegrate spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 50
+School:  Transmutation
+Domain:  Not Castable
+
+This spell is a fearsome spell that can utterly destroy a target. If the
+target fails their saving throw, they will be killed instantly. Even on
+failure, the target will lose half their hit points and be stunned. Note
+that killing a monster via this spell will not give you any experience and
+will destroy any items they were carrying.
+
+Beware of shoplifting in Igmoo's store, for he knows this spell!
+
+Syntax:
+cast disintegrate <target>
+

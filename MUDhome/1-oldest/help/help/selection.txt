@@ -1,0 +1,49 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  list / selection     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The list command produces a list of things that you are allowed to buy along
+with their prices. You may then use the BUY or PURCHASE commands to aquire
+the item. If a target is specified, it will show you what they are selling.
+A red ^r(x)^x denotes a weapon or a piece of armor that you are currently
+unable to use.
+
+Example:
+: list
+You may buy:
+   Some climbing boots                Cost: 50
+   A climbing rope                    Cost: 300
+   A small sack                       Cost: 50
+   A torch                            Cost: 15
+   A wick lantern                     Cost: 100
+   A small dagger                     Cost: 100 ^r(x)^x
+
+: select i
+Korben the Instructor is currently selling:
+1) wooden key                75gp
+2) steel key                 150gp
+3) bronze key                300gp
+
+
+You may also filter the results of what is displayed to give you a more
+narrow selection. To do so, simply add a hyphen followed by what you would
+like to filter on at the end of the command.
+
+: list -sword
+You may buy: ^Y(filtering on "sword")^x
+   A white colored sword                                  Cost: 225 gold coins
+
+
+You may use this exhaustive list of filters:
+   weapon        armor           potion          scroll
+   wand          container       key             lightsource
+   song          poison          bandage
+
+   cloth         leather         chain           plate
+
+   sword         great-sword     polearm         whip
+   axe           great-axe       rapier          spear
+   dagger        staff           mace            great-mace
+   club          hammer          great-hammer    bow
+   crossbow
+

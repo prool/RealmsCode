@@ -1,0 +1,10 @@
+Help on DM command:
+	BUG
+
+Bug logs everything a player does.
+
+: *bug min
+Min is now bugged for surveillance.
+: *bug min
+Min is no longer bugged for surveillance.
+

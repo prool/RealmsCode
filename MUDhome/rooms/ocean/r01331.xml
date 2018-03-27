@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1331" Version="2.40" Area="ocean">
+  <Name>Ministry Way</Name>
+  <ShortDescription>You are walking along Ministry Way, east of the Snake Eyes Gambling Hall.</ShortDescription>
+  <LongDescription>The Snake Eyes Gambling Facility is one of the rowdiest bars in Oceancrest,
+short of the Fiesty Kitten.  On the east side of the road is the Gnomen
+Temple of Garl Glittergold.  The gnomen diety is one of the most powerful
+gods in gnomen mythology.</LongDescription>
+  
+  <Established>729224467</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1330</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1332</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3706" Version="2.40" Area="ocean">
+  <Name>Northwest Oceancrest Postoffice</Name>
+  <ShortDescription>You are in one of the largest post offices in the Oceancrest mail system.</ShortDescription>
+  <LongDescription>Mail clerks scurry around you pushing great carts of mail in all directions.
+Of course, if you really want your mail to go through quickly, you will not
+depend on hand delivered mail.  The faster method is to simply use the
+command:  sendmail &lt;person&gt;.</LongDescription>
+  
+  <Established>763513460</Established>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">727</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

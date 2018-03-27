@@ -1,0 +1,147 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  clerics         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Clerics on Realms are all of different deities. You must choose which deity
+you want at character creation. All clerics endeavor to increase the
+influence of their deity in the world of Derlith. All clerics are able to
+pray to their deity in order to get increased piety.
+
+Clerics of Aramon
+(HELP ARAMON)
+
+Aramon is the god of deceit, the void, death, strife, and ambiguity. His
+sole purpose is to bring about the total destruction of Derlith by plunging
+ it into a realm of infinite darkness. As such, his priests seek to kill,
+mame, destroy, and scheme to this end. Aramon's clerics are highly tied to
+necromantic arts, so they deal with the undead often. As such, they are
+able to call forth undead to aid them. They are also able to enthrall these
+undead creatures, thereby charming them to not cause the cleric any harm.
+Aggressive undead will not usually attack a cleric of Aramon without
+provocation. Aramon clerics must remain evil at all times, less they risk
+the wrath  of Aramon. Clerics of Aramon hate clerics of Enoch, and they
+will go way out of their way to destroy them by any means.
+
+Abilities: pray, teach, enthrall, animate
+Restrictions: Must wear light armor. Must remain evil.
+              Healing spells on others are penalized.
+Races: Cambion, Goblin, Half-Elf, Half-Giant, Half-Orc, Human, Kataran,
+       Kobold, Minotaur, Ogre, Orc, Tiefling, Troll
+
+
+Clerics of Ares
+
+Ares is the god of war, destruction, bloodlust, and violence. Conquest is
+his chief goal, and anywhere he can increase it, he gains more influence.
+As such, priests of Ares tend to be of a less civilized mindset. Ares
+priests are not very adept at healing as clerics usually are. A priest of
+Ares is much like a berserker-priest, in that he is able to go berserk in
+combat in order to do more damage. Also like a berserker, an Ares priest
+is able to bash his opponents to oblivion, although not as well. Ares
+priests are always in the vanguard of any barbarian conquests, and they
+often seek to lead in battle all over Derlith. Clerics of Ares despise
+clerics of Ceris, often openly attacking them or driving them away.
+
+Abilities: pray, teach, bash, berserk
+Restrictions: Must remain neutral. Healing spells are
+              always cast at half level.
+Races:  Barbarian, Cambion, Goblin, Half-Elf, Half-Giant, Half-Orc, Human,
+	Kataran, Kobold, Minotaur, Ogre, Orc, Troll
+
+
+Clerics of Ceris
+(HELP CERIS)
+
+Ceris is Derlith's goddess of healing, fertility, and compassion. She seeks
+to prevent death, violence, and war however possible. Her clerics are often
+renown as the best  healers and disease curers in the entire world. It is
+even said that some of the more powerful Ceris clerics are able to raise
+back people from the dead! As Ceris clerics are pacifists, they abhor
+combat. As such, they are not very good with weapons, and are only able to
+use blunt and pole class weapons. Clerics of Ceris openly despise any kind
+of violence or evil. As such, they stand in the way of followers of Ares
+and Aramon whenever possible. Ceris' followers try to stay clear of priests
+of Enoch, as those priests recently have been on a crusade to subjugate
+followers of Ceris using "righteous violence".
+
+Abilities: pray, teach, turn, healing spell bonus
+Restrictions: Light armor only. Pole and blunt weapons only. Must not
+              go to extreme good or evil alignment.
+Races: Human, Half-Elf
+Special: rejuvenate spell (HELP REJUVENATE)
+         resurrect spell (HELP RESURRECT)
+
+
+Clerics of Enoch
+(HELP ENOCH)
+
+Enoch is Derlith's god of martial righteousness, truth, justice, and
+paladins. He seeks to spread his influence however possible by helping the
+weak and oppressed, by showing them his light and the singular truth of his
+ways. Clerics of Enoch seek to convert all people to follow the beliefs of
+Enoch, and they will openly fight if necessary to do this. They hunt out
+evil wherever they find it, even if it's not really there in some cases.
+Followers of Aramon are to be given no mercy, as Enoch has a long standing
+feud with Aramon. Others who aid him receive no mercy either. Enoch clerics
+of higher power are able to use a holyword to smite their evil enemies.
+They are also very good with weapons and armor, due to their martial
+nature. Undead fear clerics of Enoch, and often run in fear from their
+increased turning abilities. A cleric of Enoch must remain good, or their
+power is liable to wane, and the Inquisitors' Order might come looking for
+them for questioning.
+
+Abilities: holyword, pray, teach, turn, turn bonus
+Restrictions: Must remain as good as possible, or
+              abilities wane.
+Races: Half-Elf, Half-Giant, Half-Orc, Human, Kataran, Seraph
+
+Clerics of Gradius
+(HELP GRADIUS)
+
+Derlith's dwarves all follow the god Gradius, their god of mining,
+metallurgy, earth, and creation. Gradius is a jovial god, known as the best
+drinker and carouser in the heavens. On Derlith, he seeks to increase his
+influence primarily through dwarven expansion and building, but also
+through conquests against evil humanoids such as orcs, goblins, ogres,
+trolls, and giants. Dwarven clerics of Gradius are second in warfare only
+to clerics of Ares, and they often are seen at the head of dwarven armies
+leading in perilous charges, screaming their god's name. Upon reaching
+certain power, a cleric of Gradius is able to smother opponents with the
+power of earth. He is also able to conjure creatures of earth to aid and
+assist him in combat. Healing is not a strong suit of a Gradius cleric, as
+they are more focused on the areas of warfare and elemental earth magic.
+Clerics of Gradius will seek to spread their god's influence in any way
+they can, most often by killing as many orcs, goblins, ogres, giants, and
+trolls as possible.
+
+Abilities: pray, teach, smother, conjure(earth only)
+Restrictions: Must remain neutral to light blue, or powers will wane,
+              sometimes not functioning. Healing magic is penalized.
+Bonus: see "help vile" for more information.
+Races: Dwarf only
+
+
+Clerics of Kamira
+
+Kamira is Derlith's goddess of merriment, adventure, thieves, gambling, and
+excitement. She is all about having a good time at all costs. Her
+priesthood is completely chaotic, being one huge long party whenever any
+clerics are awake and not unconscious. She is also the goddess of luck,
+and many wish the luck of Kamira on their allies before battle or some
+other risky endeavor. Clerics of Kamira are said to be unnaturally lucky.
+So much so, that nobody will gamble with them, and in some places it's
+even illegal! They also have a tendency to "borrow" things and give them
+to the poor, or otherwise to play practical jokes on people, so they are
+fully versed in the ability to steal. Clerics of Kamira are good of heart,
+and must remain so, or their power with the goddess will wane. They are
+some of the best explorers in the land, able to search almost as well as
+some rangers, and to hide as well as a thief. At a certain point, they even
+learn to pick locks. The enemy of a cleric of Kamira is anybody not out to
+have a good time.
+
+Abilities: pray, teach, pick, peek, steal, naturally lucky,
+           search and hide well
+Restrictions: Must remain good, or powers will wane,
+              Must wear light armor, no missile weapons.
+Races: Gnome, Half-Elf, Halfling, Human
+

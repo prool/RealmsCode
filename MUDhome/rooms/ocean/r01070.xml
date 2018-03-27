@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1070" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, west of the Oceancrest Public Amphitheatre.</ShortDescription>
+  <LongDescription>The Oceancrest Amphitheatre is more like a large gathering party that
+occurs daily around dusk.  The minstrels and bards entertain the people
+while they talk and eat dinner after a long day's work.  Occasionally,
+the administration will sponser concerts or other orchestral plays and
+musicals to increase their waning revenues.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1069</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1071</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="1614" Version="2.40" Area="ocean">
+  <Name>Overland Drive/Waterfront Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Waterfront Way and Overland Drive.</ShortDescription>
+  <LongDescription>Overland Drive, running north and south, intersects Waterfront Way, running
+east and west from here.  Overland Drive heads north towards the Necropolis
+and eventually runs between the Necropolis and the eerie Manor of Natasha
+de Allisk.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1675</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1674</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1613</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1615</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

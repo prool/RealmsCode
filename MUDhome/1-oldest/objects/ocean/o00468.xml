@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="468" Area="ocean" Version="2.40">
+  <Name>crooked dagger</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>75</ShotsMax>
+  <ShotsCur>75</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>3</Sides>
+    <Plus>4</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">25000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">dagger</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Description>This dagger is bent strangely.</Description>
+  <Weight>10</Weight>
+  <Type>5</Type>
+  <SubType>dagger</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

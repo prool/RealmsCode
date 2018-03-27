@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="270" Version="2.41a" Area="ocean">
+  <Name>Salvage Boat</Name>
+  <ShortDescription>You are on a salvage boat and the captain seems eager to buy from you.</ShortDescription>
+  <LongDescription>The boat is larger than you thought, and appears a little worse for wear,
+but it looks quite seaworthy and apparently it can hold large amounts of
+treasure.  A couple of nasty looking brutes are guarding the hatch which
+leads below.  The captain is followed by a diminitive elf, who has a set
+of books under his arm.  He is the clerk, and apparently does all the
+buying for the captain.</LongDescription>
+  
+  <Established>756088363</Established>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="49"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>sea</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="sea">
+      <Keys/>
+      <Room Area="ocean">3180</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

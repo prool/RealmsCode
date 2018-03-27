@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="257" Version="2.40" Area="ocean">
+  <Name>Sewer Passage</Name>
+  <ShortDescription>This smelly passage leads north and south through the Oceancrest sewers.</ShortDescription>
+  <LongDescription>You're surprised to notice just how complex the Oceancrest sewer system
+actually is.  It seems to run underneath all the major buildings of the
+city, and would seem to be a weak spot in the city's defensive system.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">44</Mob>
+      <Mob Area="ocean" Num="1">44</Mob>
+      <Mob Area="ocean" Num="2">43</Mob>
+      <Mob Area="ocean" Num="3">43</Mob>
+      <Mob Area="ocean" Num="4">43</Mob>
+      <Mob Area="ocean" Num="5">43</Mob>
+      <Mob Area="ocean" Num="6">45</Mob>
+      <Mob Area="ocean" Num="7">46</Mob>
+      <Mob Area="ocean" Num="8">17</Mob>
+      <Mob Area="ocean" Num="9">17</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">258</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">254</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

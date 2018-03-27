@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="733" Version="2.40" Area="ocean">
+  <Name>Highland Avenue/Lelion Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Highland Avenue and Lelion Way.</ShortDescription>
+  <LongDescription>Lelion Way runs west out of the intersection with Highland Avenue, which
+continues to the north and south.  On the southwestern corner of the 
+intersection you can see the Wakarimasu Park, a beautiful section of
+land that is the first thing people see when they enter the city.  On
+the northwestern corner is the Temple of Harmonic Discord.</LongDescription>
+  
+  <Established>727327413</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">732</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">734</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1334</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

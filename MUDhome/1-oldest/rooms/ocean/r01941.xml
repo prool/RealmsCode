@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="1941" Version="2.40" Area="ocean">
+  <Name>Silk Dreams Bar</Name>
+  <ShortDescription>You are at the bar of the Silk Dreams Nightclub, probably getting drunk.</ShortDescription>
+  <LongDescription>The bar is a less active location than the main seating area to the east.
+Most people will just leave you alone to drink away your problems.  The
+bouncers will also probably leave you alone in here, but an occassional
+criminal may come by to pick your pocket.  The bar is well-stocked with
+all the finest human, elven and dwarven brews, including a very strong
+dwarven lager which will straighten any man's beard.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">65</Mob>
+      <Mob Area="ocean" Num="1">64</Mob>
+      <Mob Area="ocean" Num="2">77</Mob>
+      <Mob Area="ocean" Num="3">80</Mob>
+      <Mob Area="ocean" Num="4">10</Mob>
+      <Mob Area="ocean" Num="5">61</Mob>
+      <Mob Area="ocean" Num="6">209</Mob>
+      <Mob Area="ocean" Num="7">211</Mob>
+      <Mob Area="ocean" Num="8">203</Mob>
+      <Mob Area="ocean" Num="9">205</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">209</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">64</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1940</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

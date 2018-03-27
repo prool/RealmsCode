@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="255" Version="2.40" Area="ocean">
+  <Name>Sewer Passage</Name>
+  <ShortDescription>This sewer passage comes to an abrupt end at the eastern wall.</ShortDescription>
+  <LongDescription>A small pipe in the northern wall is not so small that you can't scurry
+your way through it.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">46</Mob>
+      <Mob Area="ocean" Num="1">45</Mob>
+      <Mob Area="ocean" Num="2">44</Mob>
+      <Mob Area="ocean" Num="3">44</Mob>
+      <Mob Area="ocean" Num="4">44</Mob>
+      <Mob Area="ocean" Num="5">43</Mob>
+      <Mob Area="ocean" Num="6">43</Mob>
+      <Mob Area="ocean" Num="7">42</Mob>
+      <Mob Area="ocean" Num="8">42</Mob>
+      <Mob Area="ocean" Num="9">48</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">254</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="pipe">
+      <Keys/>
+      <Room Area="ocean">256</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3179" Version="2.40" Area="ocean">
+  <Name>Lost at Sea</Name>
+  <ShortDescription>You are floating on the waves of a vast sea.</ShortDescription>
+  <LongDescription>As you bob up and down in the water, you occasionly see what look to be
+great cliffs in the distance to the north.  The distance is so great that
+you can't really be sure, but isn't it worth the effort to swim in that
+direction?</LongDescription>
+  
+  <Established>756111724</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3181</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3170</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

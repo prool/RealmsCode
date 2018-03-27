@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="3200" Version="2.40" Area="ocean">
+  <Name>Charon's Skiff of Dread.</Name>
+  <ShortDescription>You are on a skiff crossing the River Styx, Charon stands here.</ShortDescription>
+  <LongDescription></LongDescription>
+  
+  <Established>755685458</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="10"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="22"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>overboard</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">446</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="overboard">
+      <Keys/>
+      <Room Area="ocean">1909</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="river bank">
+      <Keys/>
+      <Room Area="ocean">50</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="void">
+      <Keys/>
+      <Room Area="ocean">3201</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="1"/>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

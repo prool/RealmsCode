@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2257" Version="2.40a" Area="ocean">
+  <Name>South Oceancrest Trash Recycling Plant</Name>
+  <ShortDescription>You are in the recycling center for the southeastern section of Oceancrest.</ShortDescription>
+  <LongDescription>In order to keep the city clean, the city has managed to finance a recycling
+option to the citizens of the city.  For each item you bring in to be 
+recycled, you will get five gold pieces.  Hopefully this incentive will keep
+the streets clean and save the city even more tax dollars to clean up the
+streets themselves.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="1"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1705</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="276" Version="2.40a" Area="ocean">
+  <Name>Avatar Ruins Central Path</Name>
+  <ShortDescription>You are on the main path running through the mysterious Avatar Ruins.</ShortDescription>
+  <LongDescription>The land looks like it's been turned upside down many times until just
+rocks and dirt are left.  The strange place seems to lack just about
+any sort of natural beauty, as if the gods just turned their back on the
+area.  Oddly enough, no magic works in this area as well.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="17"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">277</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">275</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

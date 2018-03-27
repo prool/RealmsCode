@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5463" Version="2.40" Area="ocean">
+  <Name>Rutger Castle Road</Name>
+  <ShortDescription>You are on the north side of a road guard station.</ShortDescription>
+  <LongDescription>A small kiosk stands on the east side, and a barracks building is a few
+meters away.  There is a red and white striped bar lowered across the road.
+It would be easy to walk around the barrier, but would it be wise?</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5462</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5464</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

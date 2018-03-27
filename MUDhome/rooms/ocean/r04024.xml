@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="4024" Version="2.41a" Area="ocean">
+  <Name>Cave of the Deadly Sasquatch</Name>
+  <ShortDescription>You look uneasily around the dark, dank cave.</ShortDescription>
+  <LongDescription>Due to the humidity and absence of sunlight, strange forms of slimy moss
+are seen growing on rocky protrusions throughout the cave.  The very dim
+source of light limits your vision, blinding you to the vast, shadowy
+expanses of the huge cave.  However, you have the strangest suspicion
+that something is lurking nearby in the darkness.</LongDescription>
+  
+  
+  
+  <Established>771885609</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">657</Mob>
+      <Mob Area="ocean" Num="1">657</Mob>
+      <Mob Area="ocean" Num="2">657</Mob>
+      <Mob Area="ocean" Num="3">657</Mob>
+      <Mob Area="ocean" Num="4">657</Mob>
+      <Mob Area="ocean" Num="5">657</Mob>
+      <Mob Area="ocean" Num="6">657</Mob>
+      <Mob Area="ocean" Num="7">657</Mob>
+      <Mob Area="ocean" Num="8">657</Mob>
+      <Mob Area="ocean" Num="9">657</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4023</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

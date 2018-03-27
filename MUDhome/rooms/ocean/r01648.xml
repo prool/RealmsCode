@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1648" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive, just west of the Dentra Archery Range.</ShortDescription>
+  <LongDescription>The Dentra Central Archery Range is one of the finest ranges in Oceancrest,
+not to mention the world.  The Range is divided into two sections for 
+optimal usage.  As many of the archer enjoy wagering on shots, the eastern
+section of the Range is used primarily by the marksman archers.  The
+western section of the Range may be used by walk-ons and other, less able
+archers that just want some practice.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1647</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1649</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

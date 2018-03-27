@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="5060" Version="2.40" Area="ocean">
+  <Name>Turbulent Air</Name>
+  <ShortDescription>You are in very turbulent air, riding a bucking dragon.  50.n0.e0.s1.w3</ShortDescription>
+  <LongDescription>To the west is the Vallenda Pass, which provides a caravan trail for  
+commerce between the seaport at Oceancrest and the inland towns and cities.
+On the south side of the pass is the Nartiz Mountain Range, while to the
+north is the mountain home of a clan of trolls.</LongDescription>
+  
+  <Established>772228800</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5030</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5079</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5054</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5061</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

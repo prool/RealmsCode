@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1165" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>Eidenhoft Boulevard runs north and south from here.</ShortDescription>
+  <LongDescription>To the south is the Khelleva Circle, which is a circular traffic path with
+a large oak tree in its center.  The Circle was designed to alleviate the
+traffic in this part of the city, and was bui8lt by the Khelleva Family as
+a memorial to themselves.  West of you is an odd looking building with a
+huge gem perched on top of it.  No one has ever figured out exactly what
+it is that holds the gem up there, though.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1166</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1159</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

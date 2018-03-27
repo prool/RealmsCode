@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="680" Version="2.40a" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are on Hofton Avenue, walking on the north side of the Stables.</ShortDescription>
+  <LongDescription>The Evenborough Stables are provided for guests to leave their steeds
+while visiting the city.  Horses can be dangerous to pedestrians walking
+along the streets.  Furthermore, the people on the streets can frighten
+the horses, causing them to hurt themselves.  For this reason, the city
+asks that visitors leave their horses in the provided stables.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">679</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">681</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

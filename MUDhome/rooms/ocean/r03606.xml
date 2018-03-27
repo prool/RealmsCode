@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3606" Version="2.40a" Area="ocean">
+  <Name>East Tunnel Entrance</Name>
+  <ShortDescription>You are at the bottom of a wide stairs leading up to the Ladies Walk.</ShortDescription>
+  <LongDescription>The stairs rise only a few meters and then lead to a broad tunnel going
+east.  The tunnel is open on one side to the castle's courtyard, but
+several meters above it, providing the women of the castle a nice view
+of the activities taking place there.  Several shoppes are located along
+the tunnel promanade.</LongDescription>
+  
+  
+  
+  <Established>762644790</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3604</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stairs">
+      <Keys/>
+      <Room Area="ocean">3611</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

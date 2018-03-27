@@ -1,0 +1,15 @@
+····.....·····..../                                      \....·····.....·····.
+.  .  ·  ·  .  .  | Help on:  greater-invisibility spell |  .  .  ·  ·  .
+....·····.....····\                                      /····.....·····.....·
+MP cost: 30
+School:  Illusion
+Domain:  Not Castable
+
+This spell turns its target invisible. Normal means of sight, including
+infravision, will not be able to detect the target. However, those under the
+influence of detect-invisibility will be able to see the target. The target
+will remain invisible even if they perform offensive actions.
+
+Syntax:
+cast greater-invis <target>
+

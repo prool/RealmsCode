@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="5092" Version="2.40" Area="ocean">
+  <Name>Tinneya's Quarters</Name>
+  <ShortDescription>You are in the private quarters of Tenneya, the weather sorceress.</ShortDescription>
+  <LongDescription>Long ago she tried to help the Duke of Kayleigh to fight off the powerful
+witch who invaded this castle, but she was forever turned into a mouse,
+doomed to run throughout the ruins.   It was she who placed the tempest
+over the castle, in an attempt to put out the flames.  Galgorith hunts her.</LongDescription>
+  
+  <Established>773561387</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">21</Mob>
+      <Mob Area="ocean" Num="1">21</Mob>
+      <Mob Area="ocean" Num="2">21</Mob>
+      <Mob Area="ocean" Num="3">21</Mob>
+      <Mob Area="ocean" Num="4">21</Mob>
+      <Mob Area="ocean" Num="5">21</Mob>
+      <Mob Area="ocean" Num="6">21</Mob>
+      <Mob Area="ocean" Num="7">21</Mob>
+      <Mob Area="ocean" Num="8">21</Mob>
+      <Mob Area="ocean" Num="9">21</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5089</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

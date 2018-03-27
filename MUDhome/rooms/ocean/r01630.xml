@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1630" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are walking along Hillcrest Drive, just north of the Grape Orchard.</ShortDescription>
+  <LongDescription>The Richland Grape Orchard, owned by the Iilandi Family, grows the finest
+and tastiest grapes in all the lands.  The grapes are harvested and 
+fermented into the finest wines, distributed throughout Oceancrest and
+often exported in exchange for other needed goods.  The Richland Bordeaux
+wines often command quite a price.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1631</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1607</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

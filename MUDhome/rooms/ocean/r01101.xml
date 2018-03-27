@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1101" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are on Nagaritha Drive, south of the entrance to the Amphitheatre.</ShortDescription>
+  <LongDescription>The Amphitheatre entrance lies to the north of Nagaritha Drive.  It is
+composed primarily of grass, with a little bit of boxed seating towards
+the front of the theater near the stage.  As dusk approaches, more and 
+more people begin to arrive.  There is a large building on the south side
+of the road which has a sign that reads "Dangerous Destinations: Guide
+to the Universe".  The entrance to this building appears to be to the 
+west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1100</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1102</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

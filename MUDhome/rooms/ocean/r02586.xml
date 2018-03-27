@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="2586" Version="2.40" Area="ocean">
+  <Name>Orchid Wetlands</Name>
+  <ShortDescription>You are in a wetlands, surrounded by orchids of all colors.</ShortDescription>
+  <LongDescription>This is the second level of the Gardens, but you can get back to the
+first level by taking either of the southern exits.  A sign warns you    
+not to pick the flowers, as they have great magical properties and are
+used by Elise for her potions.  To the north is a tower, which forms the
+the third level of the Gardens.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2587</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2585</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2587</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2589</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3005" Version="2.40" Area="ocean">
+  <Name>Northwest Corner of Cellar</Name>
+  <ShortDescription>You are standing amidst the sawdust which coats the northwest corner.</ShortDescription>
+  <LongDescription>It looks like someone has fashioned a bed in the sawdust, well hidden
+behind a couple of crates.  Perhaps some unfortunate soul actually lives
+here in the cellar.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>300</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">321</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">392</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3003</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3006</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3004</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1009" Version="2.40" Area="ocean">
+  <Name>Main Street/Overland Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Overland Drive and Main Street.</ShortDescription>
+  <LongDescription>Main Street is one of the larger roads running through the southwestern part
+of Oceancrest.  It continues north as far as the Nylandian Bay.  Overland
+Drive runs east to west, and is a smaller access road to the large estates
+to the east.  The estates are in the more exclusive, richer sections of town
+where snobbery is bred in, and commoners are not welcome, except as help.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1008</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1010</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1135</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1136</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

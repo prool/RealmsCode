@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="450" Area="ocean" Version="2.40">
+  <Name>cat-o-nine tails</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>75</ShotsMax>
+  <ShotsCur>75</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>3</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">6000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">nine</Key>
+    <Key Num="1">tails</Key>
+    <Key Num="2">    </Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+  </Flags>
+  <Description>The cat is a multi-thronged whip with imbedded razor tips.</Description>
+  <UseOutput>meeoww</UseOutput>
+  <Weight>3</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

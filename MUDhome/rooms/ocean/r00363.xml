@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="363" Version="2.40" Area="ocean">
+  <Name>Rum Road North</Name>
+  <ShortDescription>You are standing in a dusty road in front of Madame Ruthie's old red house.</ShortDescription>
+  <LongDescription>Although old, it looks to be very large, with at least twenty bedrooms.
+Several of the upstairs windows are open, and laughing women lean out
+them, looking you over.  There is a veranda on all sides of the house
+and the front door is open.  A party seems to be in full swing inside,
+and one of the women inside smiles and waves for you to come in.</LongDescription>
+  
+  <Established>760503033</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">353</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="veranda">
+      <Keys/>
+      <Room Area="ocean">364</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">333</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

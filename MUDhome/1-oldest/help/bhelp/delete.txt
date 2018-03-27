@@ -1,0 +1,28 @@
+Help on:
+	*DELETE [-ASLPE] <string>
+
+This command allows you to get delete text in a room description.
+
+Flags:
+----------------------
+  A	Deletes everything in the room description. This flag must be used by
+	itself, ie: "*del -A".
+
+  S	Specifies that the short description should be targeted. If used alone,
+	this will delete the entire short description.
+
+  L	Specifies that the long description should be targeted. If used alone,
+	this will delete the entire long description.
+
+  P	This will delete the phrase from the room description. If you specify
+	short or long description, it will only search that description.
+
+  E	This will delete everything after the phrase. If "P" is specified, the
+	phrase itself will also be deleted. If this command is searching both
+	the long and short descriptions, it will delete everything after the
+	matched phrase. If it is searching a specific description (long or
+	short), it will stay within the specified description.
+
+
+To see examples of *delete in action, read the delete_examples help file.
+

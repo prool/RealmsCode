@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="766" Version="2.40" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are on Oceancrest Avenue, just east of the Oceancrest Circle.</ShortDescription>
+  <LongDescription>The Oceancrest Circle welcomes all visitors to Oceancrest and all the
+splendor the city has to offer.  On the north side of the road is the
+magnificent and beautiful Wakarimasu Park.  On the south side of the road
+is the Crimson Dragon Traveler's Lodge.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">765</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">758</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

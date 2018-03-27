@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flags>
+	<Rooms>
+		<Flag id="1" Name="Shoppe">You can also use the trapexit to set the storage room, otherwise it defaults to this room + 1</Flag>
+		<Flag Name="Dump" id="2">Dropped items recycled for 5gp</Flag>
+		<Flag Name="Training" id="3" />
+		<Flag Name="Training" id="4" />
+		<Flag Name="Training" id="5" />
+		<Flag Name="Training" id="6" />
+		<Flag Name="Training" id="7" />
+		<Flag Name="Unused" id="8" />
+		<Flag Name="DarkAlways" id="9">Always naturally dark</Flag>
+		<Flag Name="DarkNight" id="10">Naturally dark at night</Flag>
+		<Flag Name="PostOffice" id="11">Players can send/read mail here</Flag>
+		<Flag Name="NoPkill" id="12">Safe room, no playerkilling</Flag>
+		<Flag Name="NoPortTo" id="13">Cannot teleport to this room</Flag>
+		<Flag Name="HealFast" id="14">Heal faster in this room</Flag>
+		<Flag Name="OnePly" id="15">1-player only inside</Flag>
+		<Flag Name="TwoPly" id="16">2-players only inside</Flag>
+		<Flag Name="ThreePly" id="17">3-players only inside</Flag>
+		<Flag Name="NoMagic" id="18">No magic will work here</Flag>
+		<Flag Name="PermTracks" id="19">Permanent tracks</Flag>
+		<Flag Name="Earth" id="20">Earth realm</Flag>
+		<Flag Name="Air" id="21">Air realm</Flag>
+		<Flag Name="Fire" id="22">Fire realm</Flag>
+		<Flag Name="Water" id="23">Water realm</Flag>
+		<Flag Name="GrpWander" id="24">Player-dependent monster wanders</Flag>
+		<Flag Name="PHarm" id="25">harmful room</Flag>
+		<Flag Name="PlyToxic" id="26">poisonous gas</Flag>
+		<Flag Name="PlyMPDrain" id="27">mana draining</Flag>
+		<Flag Name="PlyStun" id="28">stunning</Flag>
+		<Flag Name="NoSummonOut" id="29">can not be summon out</Flag>
+		<Flag Name="CanPledge" id="30">can pledge to clans here</Flag>
+		<Flag Name="CanRescind" id="31">can rescind from clans here</Flag>
+		<Flag Name="NoPotion" id="32">potions will not work</Flag>
+		<Flag Name="Magic+" id="33">magical bonus room</Flag>
+		<Flag Name="NoLog" id="34">Player will relog in room 1</Flag>
+		<Flag Name="-Recycle-" id="35" />
+		<Flag Name="Indoors" id="36">players won't hear weather messages, darkmetal is safe</Flag>
+		<Flag Name="Jail" id="37" />
+		<Flag Name="NoCastPort" id="38">teleport cannot be cast here</Flag>
+		<Flag Name="Lottery" id="39">Can buy lottery ticket; must set Shoppe flag</Flag>
+		<Flag Name="DesertHarm" id="40">Heat damage during the day, cold damage at night</Flag>
+		<Flag Name="BuyStrg" id="41">can purchase storage rooms here</Flag>
+		<Flag Name="StrgRm" id="42">is a storage room</Flag>
+		<Flag Name="NoClair" id="43">cannot be claired in this room</Flag>
+		<Flag Name="NoFlee" id="44">cannot flee from this room</Flag>
+		<Flag Name="RH:Vines" id="45">vines try to strangle you (druids immune)</Flag>
+		<Flag Name="CanShoplift" id="46">you can attempt to shoplift</Flag>
+		<Flag Name="Forest" id="47">room is forest</Flag>
+		<Flag Name="Ethereal" id="48">room is ethereal</Flag>
+		<Flag Name="OppRealm+" id="49" />
+		<Flag Name="Pawn" id="50">can sell items</Flag>
+		<Flag Name="RH:IcyWater" id="51">icy water damage</Flag>
+		<Flag Name="NoTrackTo" id="52">other players cannot track to this room</Flag>
+		<Flag Name="DropDestroy" id="53">environment destroys dropped items</Flag>
+		<Flag Name="NoSummonTo" id="54">cannot summon anyone to this room</Flag>
+		<Flag Name="NoTrackOut" id="55">cannot track out of this room</Flag>
+		<Flag Name="Realm+" id="56" />
+		<Flag Name="OutlawSafe" id="57">outlaws may not be killed, are damaged by lightning</Flag>
+		<Flag Name="Bank" id="58">can perform bank transactions</Flag>
+		<Flag Name="ATM" id="59">magic money machine - withdraw and balance only: used mainly for jails to jail out</Flag>
+		<Flag Name="Casino" id="60">(not coded yet)</Flag>
+		<Flag Name="Guild:OpenAccess" id="61" />
+		<Flag Name="NoRecall" id="62">Word of recall does not work</Flag>
+		<Flag Name="LogToTrapExt" id="63">Player will relog into room specified by trap exit</Flag>
+		<Flag Name="HardMove" id="64">Hard to move from room</Flag>
+		<Flag Name="Electricity" id="65">Electricity realm</Flag>
+		<Flag Name="Cold" id="66">Cold realm</Flag>
+		<Flag Name="HardFlee" id="67">Hard to flee from this room</Flag>
+		<Flag Name="NoMist" id="68">Mists cannot enter</Flag>
+		<Flag Name="DisperseMist" id="69">Mists will be forced to unmist</Flag>
+		<Flag Name="Bounty" id="70">can declare a bounty here</Flag>
+		<Flag Name="CanBuildShop" id="71">can build a shop here</Flag>
+		<Flag Name="MagicDark" id="72">magically dark</Flag>
+		<Flag Name="Underwater" id="73" />
+		<Flag Name="NoDodge" id="74">cannot dodge here</Flag>
+		<Flag Name="Aramon" id="75" />
+		<Flag Name="Ceris" id="76" />
+		<Flag Name="Enoch" id="77" />
+		<Flag Name="Gradius" id="78" />
+		<Flag Name="Ares" id="79" />
+		<Flag Name="Kamira" id="80" />
+		<Flag Name="Jakar" id="81" />
+		<Flag Name="Linothan" id="82" />
+		<Flag Name="Mara" id="83" />
+		<Flag Name="Arachnus" id="84" />
+		<Flag Name="Underground" id="85">players won't hear weather messages, darkmetal is safe</Flag>
+		<Flag Name="CanBuildGldHall" id="86">can build a guildhall here</Flag>
+		<Flag Name="WasBuildGldHall" id="87">a guildhall has been built here</Flag>
+		<Flag Name="RH:Archers" id="88">Elven archers</Flag>
+		<Flag Name="RH:Moss" id="89">Deadly underdark moss</Flag>
+		<Flag Name="WasBuildShop" id="90">a shop has been built here</Flag>
+		<Flag Name="Construction" id="91">room is under construction</Flag>
+		<Flag Name="Typo" id="92">a typo was found here</Flag>
+	</Rooms>
+	<Exits>
+		<Flag Name="Hidden" id="1" />
+		<Flag Name="Invisible" id="2" />
+		<Flag Name="Locked" id="3">set Locked and Lockable together</Flag>
+		<Flag Name="Closed" id="4">set Closed and Closable together</Flag>
+		<Flag Name="Lockable" id="5">set Locked and Lockable together</Flag>
+		<Flag Name="Closable" id="6">set Closed and Closable together</Flag>
+		<Flag Name="NoPick" id="7" />
+		<Flag Name="NakedExit" id="8">must have no inventory to go through this exit</Flag>
+		<Flag Name="ClimbUp" id="9">climbing gear required</Flag>
+		<Flag Name="ClimbDown" id="10">climbing gear required</Flag>
+		<Flag Name="HardClimb" id="11" />
+		<Flag Name="FlyExit" id="12">must be flying to see/go to this exit</Flag>
+		<Flag Name="FemaleOnly" id="13" />
+		<Flag Name="MaleOnly" id="14" />
+		<Flag Name="Pledge" id="15" />
+		<Flag Name="Portal" id="16" />
+		<Flag Name="NightOnly" id="17" />
+		<Flag Name="DayOnly" id="18" />
+		<Flag Name="PassiveGuard" id="19">any monsters flagged as Passive Guard will block this exit</Flag>
+		<Flag Name="NoSee" id="20" />
+		<Flag Name="ClsSelInvert" id="21">invert the class-selective flags</Flag>
+		<Flag Name="Ass" id="22" />
+		<Flag Name="Bers" id="23" />
+		<Flag Name="Cle" id="24" />
+		<Flag Name="Ftr" id="25" />
+		<Flag Name="Mag" id="26" />
+		<Flag Name="Pal" id="27" />
+		<Flag Name="Rng" id="28" />
+		<Flag Name="Thi" id="29" />
+		<Flag Name="Vam" id="30" />
+		<Flag Name="Mon" id="31" />
+		<Flag Name="Dea" id="32" />
+		<Flag Name="Dru" id="33" />
+		<Flag Name="Lic" id="34" />
+		<Flag Name="Wer" id="35" />
+		<Flag Name="Brd" id="36" />
+		<Flag Name="Rog" id="37" />
+		<Flag Name="NoGood" id="38" />
+		<Flag Name="NoNeut" id="39" />
+		<Flag Name="NoEvil" id="40" />
+		<Flag Name="ImmortOnly" id="41" />
+		<Flag Name="Clan1" id="42" />
+		<Flag Name="Clan2" id="43" />
+		<Flag Name="Clan3" id="44" />
+		<Flag Name="Clan4" id="45" />
+		<Flag Name="Clan5" id="46" />
+		<Flag Name="Clan6" id="47" />
+		<Flag Name="Clan7" id="48" />
+		<Flag Name="Clan8" id="49" />
+		<Flag Name="Clan9" id="50" />
+		<Flag Name="Clan10" id="51" />
+		<Flag Name="Clan11" id="52" />
+		<Flag Name="Clan12" id="53" />
+		<Flag Name="NoWander" id="54">monsters will not wander here</Flag>
+		<Flag Name="ToStrg" id="55">leads to player's storage room</Flag>
+		<Flag Name="NoFleeTo" id="56">cannot flee to this exit</Flag>
+		<Flag Name="NoScout" id="57">cannot scout this exit</Flag>
+		<Flag Name="Concealed" id="58">very difficult to find; do not set Hidden</Flag>
+		<Flag Name="DescOnly" id="59">cannot be searched, can only be guessed from room description</Flag>
+		<Flag Name="NoMist" id="60">musts cannot go through this exit</Flag>
+		<Flag Name="Tollbooth" id="61">players must pay a toll to go through, needs to be a Tollkeeper in room</Flag>
+		<Flag Name="TollLvlVary" id="62">toll cost will vary by level</Flag>
+		<Flag Name="WatcherLock" id="63" />
+		<Flag Name="MovingExit" id="64">exit has been created by ship code</Flag>
+		<Flag Name="ExitToBoundRoom" id="65">exit leads to player's bound room</Flag>
+		<Flag Name="RaceSelInvert" id="66">invert the race-selective flags</Flag>
+		<Flag Name="Dwf" id="67" />
+		<Flag Name="Elf" id="68" />
+		<Flag Name="Hfe" id="69" />
+		<Flag Name="Hlf" id="70" />
+		<Flag Name="Hum" id="71" />
+		<Flag Name="Orc" id="72" />
+		<Flag Name="Hfg" id="73" />
+		<Flag Name="Gno" id="74" />
+		<Flag Name="Tro" id="75" />
+		<Flag Name="Hfo" id="76" />
+		<Flag Name="Ogr" id="77" />
+		<Flag Name="Dke" id="78" />
+		<Flag Name="Gob" id="79" />
+		<Flag Name="Min" id="80" />
+		<Flag Name="Ser" id="81" />
+		<Flag Name="Kob" id="82" />
+		<Flag Name="Cmb" id="83" />
+		<Flag Name="Brb" id="84" />
+		<Flag Name="Kat" id="85" />
+		<Flag Name="Tfl" id="86" />
+		<Flag Name="NotInWinter" id="87">heavy winter snows block passage</Flag>
+		<Flag Name="NotInSpring" id="88">spring floods block passage</Flag>
+		<Flag Name="NotInSummer" id="89">summer heat blocks passage</Flag>
+		<Flag Name="NotInAutumn" id="90">simply can't go this way</Flag>
+	</Exits>
+	<Players>
+		<Flag Name="Unused" id="1" />
+		<Flag Name="Hidden" id="2" />
+		<Flag Name="Unused" id="3" />
+		<Flag Name="NoSeeBroad" id="4" />
+		<Flag Name="NoLong" id="5" />
+		<Flag Name="NoShort" id="6" />
+		<Flag Name="IgnoreGossip" id="7" />
+		<Flag Name="IgnoreClan" id="8" />
+		<Flag Name="Portal" id="9" />
+		<Flag Name="NoAutoAttack" id="10" />
+		<Flag Name="DMInvis" id="11" />
+		<Flag Name="Sleeping" id="12" />
+		<Flag Name="Male" id="13" />
+		<Flag Name="Sexless" id="14" />
+		<Flag Name="Wimpy" id="15" />
+		<Flag Name="Eaves" id="16" />
+		<Flag Name="Poisoned" id="17" />
+		<Flag Name="Unused" id="18" />
+		<Flag Name="Prompt" id="19" />
+		<Flag Name="Frenzy" id="20" />
+		<Flag Name="MXPEnabled" id="21" />
+		<Flag Name="MXPActive" id="22" />
+		<Flag Name="Praying" id="23" />
+		<Flag Name="AreaInvertColor" id="24" />
+		<Flag Name="Prepared" id="25" />
+		<Flag Name="Unused" id="26" />
+		<Flag Name="AnsiOn" id="27" />
+		<Flag Name="Spying" id="28" />
+		<Flag Name="Chaotic" id="29" />
+		<Flag Name="ReadingFile" id="30" />
+		<Flag Name="Unused" id="31" />
+		<Flag Name="Unused" id="32" />
+		<Flag Name="Unused" id="33" />
+		<Flag Name="Unused" id="34" />
+		<Flag Name="NoSummon" id="35" />
+		<Flag Name="IgnoreAll" id="36" />
+		<Flag Name="Unused" id="37" />
+		<Flag Name="Unused" id="38" />
+		<Flag Name="Unused" id="39" />
+		<Flag Name="Pledged" id="40" />
+		<Flag Name="mIRC" id="41" />
+		<Flag Name="Diseased" id="42" />
+		<Flag Name="PermBlind" id="43" />
+		<Flag Name="Feared" id="44" />
+		<Flag Name="Silenced" id="45" />
+		<Flag Name="Charmed" id="46" />
+		<Flag Name="NoLogin" id="47" />
+		<Flag Name="ViewZones" id="48" />
+		<Flag Name="Secure" id="49" />
+		<Flag Name="NoPort" id="50" />
+		<Flag Name="DMAlias" id="51" />
+		<Flag Name="BloodSac" id="52" />
+		<Flag Name="NLPrompt" id="53" />
+		<Flag Name="Berserk" id="54" />
+		<Flag Name="DmLogWatch" id="55" />
+		<Flag Name="Misted" id="56" />
+		<Flag Name="Endurance" id="57" />
+		<Flag Name="ClassIgnore" id="58" />
+		<Flag Name="NoGroup" id="59" />
+		<Flag Name="+1ToHit" id="60" />
+		<Flag Name="Unused" id="61" />
+		<Flag Name="R-Stun" id="62" />
+		<Flag Name="Unused" id="63" />
+		<Flag Name="Unused" id="64" />
+		<Flag Name="Unused" id="65" />
+		<Flag Name="Unused" id="66" />
+		<Flag Name="Unused" id="67" />
+		<Flag Name="Unused" id="68" />
+		<Flag Name="Unused" id="69" />
+		<Flag Name="Unused" id="70" />
+		<Flag Name="Unused" id="71" />
+		<Flag Name="Unused" id="72" />
+		<Flag Name="Outlaw" id="73" />
+		<Flag Name="Trained" id="74" />
+		<Flag Name="NoCompute" id="75" />
+		<Flag Name="MistedSneak" id="76" />
+		<Flag Name="Focused" id="77" />
+		<Flag Name="Stunned" id="78" />
+		<Flag Name="Unused" id="79" />
+		<Flag Name="NoAutoWear" id="80" />
+		<Flag Name="TempBlind" id="81" />
+		<Flag Name="Unused" id="82" />
+		<Flag Name="Unused" id="83" />
+		<Flag Name="NoFollow" id="84" />
+		<Flag Name="Shoplifted" id="85" />
+		<Flag Name="LagProt" id="86" />
+		<Flag Name="LagProtOn" id="87" />
+		<Flag Name="LPActive" id="88" />
+		<Flag Name="DMSilence" id="89" />
+		<Flag Name="DMBlind" id="90" />
+		<Flag Name="NoMsg" id="91" />
+		<Flag Name="CanAward" id="92" />
+		<Flag Name="NoCashTrain" id="93" />
+		<Flag Name="AutoSplit" id="94" />
+		<Flag Name="Unused" id="95" />
+		<Flag Name="Ptester" id="96" />
+		<Flag Name="NoShowStats" id="97" />
+		<Flag Name="NoCastSummon" id="98" />
+		<Flag Name="NoGetAll" id="99" />
+		<Flag Name="CanOutlaw" id="100" />
+		<Flag Name="OutlawAggr" id="101" />
+		<Flag Name="ExpLossOutl" id="102" />
+		<Flag Name="LinkDead" id="103" />
+		<Flag Name="Unconscious" id="104" />
+		<Flag Name="Incognito" id="105" />
+		<Flag Name="BrainDead" id="106" />
+		<Flag Name="Unused" id="107" />
+		<Flag Name="CanList" id="108" />
+		<Flag Name="Unused" id="109" />
+		<Flag Name="Unused" id="110" />
+		<Flag Name="Can*broad" id="111" />
+		<Flag Name="XPinPrompt" id="112" />
+		<Flag Name="HasMail" id="113" />
+		<Flag Name="NoSeeMail" id="114" />
+		<Flag Name="PlyPoison" id="115" />
+		<Flag Name="SlowPoison" id="116" />
+		<Flag Name="NoRecall" id="117" />
+		<Flag Name="NoAlColor" id="118" />
+		<Flag Name="NoPkill%" id="119" />
+		<Flag Name="NoAuction" id="120" />
+		<Flag Name="KillsLogged" id="121" />
+		<Flag Name="SuperEaves" id="122" />
+		<Flag Name="CanFlashSelf" id="123" />
+		<Flag Name="SavesSet" id="124" />
+		<Flag Name="BarkSkin" id="125" />
+		<Flag Name="RaceIgnore" id="126" />
+		<Flag Name="Afk" id="127" />
+		<Flag Name="Converted" id="128" />
+		<Flag Name="GlobalGag" id="129" />
+		<Flag Name="NoProfit" id="130" />
+		<Flag Name="Unused" id="131" />
+		<Flag Name="Unused" id="132" />
+		<Flag Name="IgnTell" id="133" />
+		<Flag Name="L:Alien" id="134" />
+		<Flag Name="L:Dwarven" id="135" />
+		<Flag Name="L:Elven" id="136" />
+		<Flag Name="L:Halfling" id="137" />
+		<Flag Name="L:Common" id="138" />
+		<Flag Name="L:Orcish" id="139" />
+		<Flag Name="L:Giantkin" id="140" />
+		<Flag Name="L:Gnomish" id="141" />
+		<Flag Name="L:Troll" id="142" />
+		<Flag Name="L:Ogrish" id="143" />
+		<Flag Name="L:DarkElven" id="144" />
+		<Flag Name="L:Goblinoid" id="145" />
+		<Flag Name="L:Minotaur" id="146" />
+		<Flag Name="L:Celestial" id="147" />
+		<Flag Name="L:Kobold" id="148" />
+		<Flag Name="L:Infernal" id="149" />
+		<Flag Name="L:Schnai" id="150" />
+		<Flag Name="L:Kataran" id="151" />
+		<Flag Name="Unused" id="152" />
+		<Flag Name="Unused" id="153" />
+		<Flag Name="Unused" id="154" />
+		<Flag Name="LangColor" id="155" />
+		<Flag Name="LangSet" id="156" />
+		<Flag Name="Unused" id="157" />
+		<Flag Name="Proxy" id="158" />
+		<Flag Name="Unused" id="159" />
+		<Flag Name="No Group Experience (Abused)" id="160" />
+		<Flag Name="Watcher" id="161" />
+		<Flag Name="CanMudmailCT" id="162" />
+		<Flag Name="NoDuelBroad" id="163" />
+		<Flag Name="Bugged" id="164" />
+		<Flag Name="LostDuel" id="165" />
+		<Flag Name="Mistbane" id="166" />
+		<Flag Name="XPsplit" id="167" />
+		<Flag Name="NoPkill" id="168" />
+		<Flag Name="PermDeath" id="169" />
+		<Flag Name="DeepPockets" id="170" />
+		<Flag Name="Unused" id="171" />
+		<Flag Name="NoNewbie" id="172" />
+		<Flag Name="Unused" id="173" />
+		<Flag Name="Unused" id="174" />
+		<Flag Name="HpAdjust" id="175" />
+		<Flag Name="Sitting" id="176" />
+		<Flag Name="No*wts" id="177" />
+		<Flag Name="CreatingGuild" id="178" />
+		<Flag Name="ArmorSpell" id="179" />
+		<Flag Name="Stoneskin" id="180" />
+		<Flag Name="Free-action" id="181" />
+		<Flag Name="No*flushcrtobj" id="182" />
+		<Flag Name="NoMobNumbers" id="183" />
+		<Flag Name="Can*reboot" id="184" />
+		<Flag Name="ChangeStats" id="185" />
+		<Flag Name="*jailed" id="186" />
+		<Flag Name="Unused" id="187" />
+		<Flag Name="KillAggro" id="188" />
+		<Flag Name="PasswordOK" id="189" />
+		<Flag Name="NoMPTick" id="190" />
+		<Flag Name="NoHPTick" id="191" />
+		<Flag Name="Anchor" id="192" />
+		<Flag Name="KilledByMob" id="193" />
+		<Flag Name="Courage" id="194" />
+		<Flag Name="DoctorKiller" id="195" />
+		<Flag Name="Surname" id="196" />
+		<Flag Name="NoSetSurname" id="197" />
+		<Flag Name="BleedingWounds" id="198" />
+		<Flag Name="AdultChannel" id="199" />
+		<Flag Name="Veteran" id="200" />
+		<Flag Name="CantBroadcast" id="201" />
+		<Flag Name="ChosenAlign" id="202" />
+		<Flag Name="CantSuicide" id="203" />
+		<Flag Name="Builder:Mobs" id="204" />
+		<Flag Name="Builder:Objs" id="205" />
+		<Flag Name="HasDarkmetal" id="206" />
+		<Flag Name="Unused" id="207" />
+		<Flag Name="Unused" id="208" />
+		<Flag Name="Unused" id="209" />
+		<Flag Name="Unused" id="210" />
+		<Flag Name="Unused" id="211" />
+		<Flag Name="Unused" id="212" />
+		<Flag Name="Unused" id="213" />
+		<Flag Name="Unused" id="214" />
+		<Flag Name="Unused" id="215" />
+		<Flag Name="Unused" id="216" />
+		<Flag Name="Unused" id="217" />
+		<Flag Name="Unused" id="218" />
+	</Players>
+	<Monsters>
+		<Flag Name="Perm" id="1" />
+		<Flag Name="Hidden" id="2" />
+		<Flag Name="Unused" id="3" />
+		<Flag Name="ManToMen" id="4">Plural: man to Men</Flag>
+		<Flag Name="NoAddS" id="5">no S on plural</Flag>
+		<Flag Name="NoPrefix" id="6">don't add a prefix article</Flag>
+		<Flag Name="Aggro" id="7" />
+		<Flag Name="GuardLoot" id="8" />
+		<Flag Name="BlocksExits" id="9" />
+		<Flag Name="Follows" id="10" />
+		<Flag Name="Flees" id="11" />
+		<Flag Name="Scavenger" id="12" />
+		<Flag Name="Male" id="13" />
+		<Flag Name="SA:Poisons" id="14" />
+		<Flag Name="Undead" id="15" />
+		<Flag Name="NoStealPeek" id="16" />
+		<Flag Name="IsPoisoned" id="17" />
+		<Flag Name="SA:Casts" id="18" />
+		<Flag Name="Scavenged" id="19" />
+		<Flag Name="Unused" id="20" />
+		<Flag Name="MagicOnly" id="21" />
+		<Flag Name="FactionAssist" id="22" />
+		<Flag Name="+1ToHit" id="23" />
+		<Flag Name="Talks" id="24" />
+		<Flag Name="NoKill" id="25" />
+		<Flag Name="FixedGold" id="26" />
+		<Flag Name="TalkAggro" id="27" />
+		<Flag Name="Unused" id="28" />
+		<Flag Name="Unused" id="29" />
+		<Flag Name="Unused" id="30" />
+		<Flag Name="Unused" id="31" />
+		<Flag Name="Unused" id="32" />
+		<Flag Name="CanPledgeTo" id="33" />
+		<Flag Name="CanRescindTo" id="34" />
+		<Flag Name="SA:Diseases" id="35" />
+		<Flag Name="SA:Dissolves" id="36" />
+		<Flag Name="Selling" id="37" />
+		<Flag Name="Trades" id="38" />
+		<Flag Name="PassGuard" id="39" />
+		<Flag Name="GoodAggro" id="40" />
+		<Flag Name="EvilAggro" id="41" />
+		<Flag Name="DieDesc" id="42" />
+		<Flag Name="CastPercent" id="43" />
+		<Flag Name="ResistStun" id="44" />
+		<Flag Name="NoCircle" id="45" />
+		<Flag Name="SA:Blinds" id="46" />
+		<Flag Name="FollowDM" id="47" />
+		<Flag Name="Feared" id="48" />
+		<Flag Name="Silenced" id="49" />
+		<Flag Name="Blinded" id="50" />
+		<Flag Name="Charmed" id="51" />
+		<Flag Name="Mobile" id="52" />
+		<Flag Name="Scripted" id="53" />
+		<Flag Name="Thief" id="54" />
+		<Flag Name="FastWander" id="55" />
+		<Flag Name="Pet" id="56" />
+		<Flag Name="Unused" id="57" />
+		<Flag Name="Unused" id="58" />
+		<Flag Name="Unused" id="59" />
+		<Flag Name="Unused" id="60" />
+		<Flag Name="Unused" id="61" />
+		<Flag Name="Unused" id="62" />
+		<Flag Name="Sexless" id="63" />
+		<Flag Name="Unused" id="64" />
+		<Flag Name="Unused" id="65" />
+		<Flag Name="Unused" id="66" />
+		<Flag Name="Unused" id="67" />
+		<Flag Name="Unused" id="68" />
+		<Flag Name="Expires" id="69" />
+		<Flag Name="LeavesCorpse" id="70" />
+		<Flag Name="IrregPlur" id="71">irregular plural that must be defined elsewhere</Flag>
+		<Flag Name="NoMobile" id="72">will not wander</Flag>
+		<Flag Name="Unused" id="73" />
+		<Flag Name="Unused" id="74" />
+		<Flag Name="Unused" id="75" />
+		<Flag Name="Unused" id="76" />
+		<Flag Name="Unused" id="77" />
+		<Flag Name="Unused" id="78" />
+		<Flag Name="Unused" id="79" />
+		<Flag Name="Unused" id="80" />
+		<Flag Name="Unused" id="81" />
+		<Flag Name="Unused" id="82" />
+		<Flag Name="Unused" id="83" />
+		<Flag Name="Unused" id="84" />
+		<Flag Name="Unused" id="85" />
+		<Flag Name="Unused" id="86" />
+		<Flag Name="Unused" id="87" />
+		<Flag Name="Unused" id="88" />
+		<Flag Name="Unused" id="89" />
+		<Flag Name="Unused" id="90" />
+		<Flag Name="Regen" id="91" />
+		<Flag Name="+2ToHit" id="92" />
+		<Flag Name="+3ToHit" id="93" />
+		<Flag Name="Unused" id="94" />
+		<Flag Name="Steals" id="95" />
+		<Flag Name="StealAggro" id="96" />
+		<Flag Name="Unused" id="97" />
+		<Flag Name="Unused" id="98" />
+		<Flag Name="Unused" id="99" />
+		<Flag Name="Assisted" id="100" />
+		<Flag Name="WillAssist" id="101" />
+		<Flag Name="NightOnly" id="102" />
+		<Flag Name="OutlawAggro" id="103" />
+		<Flag Name="Unused" id="104" />
+		<Flag Name="Unused" id="105" />
+		<Flag Name="Unused" id="106" />
+		<Flag Name="Wields" id="107" />
+		<Flag Name="GuardBribe" id="108" />
+		<Flag Name="Unused" id="109" />
+		<Flag Name="DayOnly" id="110" />
+		<Flag Name="SneakLoad" id="111" />
+		<Flag Name="Hireable" id="112" />
+		<Flag Name="Paid" id="113" />
+		<Flag Name="NoDodge" id="114" />
+		<Flag Name="Unused" id="115" />
+		<Flag Name="Unused" id="116" />
+		<Flag Name="AggroShopLft" id="117" />
+		<Flag Name="Chasing" id="118" />
+		<Flag Name="HardCircle" id="119" />
+		<Flag Name="WillYell" id="120" />
+		<Flag Name="HasYelled" id="121" />
+		<Flag Name="NoShowYell" id="122" />
+		<Flag Name="BeneCast" id="123" />
+		<Flag Name="Logged" id="124" />
+		<Flag Name="Unused" id="125" />
+		<Flag Name="Unused" id="126" />
+		<Flag Name="LvlBaseStun" id="127" />
+		<Flag Name="NoTouch" id="128" />
+		<Flag Name="Greedy" id="129" />
+		<Flag Name="Subdues" id="130">will knock someone unconsious and haul them off to jail</Flag>
+		<Flag Name="LvlRestrict" id="131" />
+		<Flag Name="NoBackstab" id="132" />
+		<Flag Name="Unused" id="133" />
+		<Flag Name="Unused" id="134" />
+		<Flag Name="Unused" id="135" />
+		<Flag Name="Unused" id="136" />
+		<Flag Name="Unused" id="137" />
+		<Flag Name="Unused" id="138" />
+		<Flag Name="Unused" id="139" />
+		<Flag Name="Unused" id="140" />
+		<Flag Name="Unused" id="141" />
+		<Flag Name="Unused" id="142" />
+		<Flag Name="Unused" id="143" />
+		<Flag Name="Unused" id="144" />
+		<Flag Name="Unused" id="145" />
+		<Flag Name="Unused" id="146" />
+		<Flag Name="Unused" id="147" />
+		<Flag Name="Unused" id="148" />
+		<Flag Name="Unused" id="149" />
+		<Flag Name="Unused" id="150" />
+		<Flag Name="Unused" id="151" />
+		<Flag Name="Unused" id="152" />
+		<Flag Name="Unused" id="153" />
+		<Flag Name="Unused" id="154" />
+		<Flag Name="Unused" id="155" />
+		<Flag Name="Unused" id="156" />
+		<Flag Name="NoLvl1" id="157" />
+		<Flag Name="NoLvl2" id="158" />
+		<Flag Name="NoLvl3" id="159" />
+		<Flag Name="NoLvl4" id="160" />
+		<Flag Name="NoKick" id="161" />
+		<Flag Name="SA:DeathScream" id="162" />
+		<Flag Name="WillSneak" id="163" />
+		<Flag Name="isSneaking" id="164" />
+		<Flag Name="Unused" id="165" />
+		<Flag Name="RandAggro" id="166" />
+		<Flag Name="NoPoison" id="167" />
+		<Flag Name="NoCharm" id="168" />
+		<Flag Name="SpecUndead" id="169" />
+		<Flag Name="SlowPoison" id="170" />
+		<Flag Name="Unused" id="171" />
+		<Flag Name="Unused" id="172" />
+		<Flag Name="NoExpLoss" id="173" />
+		<Flag Name="Unused" id="174" />
+		<Flag Name="RenPlural" id="175">Plural: -ren added to end</Flag>
+		<Flag Name="Unused" id="176" />
+		<Flag Name="FtoVE" id="177">Plural: F to VES</Flag>
+		<Flag Name="Unused" id="178" />
+		<Flag Name="Unused" id="179" />
+		<Flag Name="SA:Petrifies" id="180" />
+		<Flag Name="Unused" id="181" />
+		<Flag Name="AlwaysAggro" id="182" />
+		<Flag Name="KillsPerms" id="183" />
+		<Flag Name="KillAllMobs" id="184" />
+		<Flag Name="KillMaster" id="185" />
+		<Flag Name="Unused" id="186" />
+		<Flag Name="FastTick" id="187" />
+		<Flag Name="RestrictXP" id="188" />
+		<Flag Name="Unused" id="189" />
+		<Flag Name="Unused" id="190" />
+		<Flag Name="TollKeeper" id="191" />
+		<Flag Name="AlignVary" id="192" />
+		<Flag Name="AssistThac0" id="193" />
+		<Flag Name="Sweeper" id="194" />
+		<Flag Name="CustomType" id="195" />
+		<Flag Name="NoAdjust" id="196" />
+		<Flag Name="Unused" id="197" />
+		<Flag Name="Unused" id="198" />
+		<Flag Name="Unused" id="199" />
+		<Flag Name="Unused" id="200" />
+		<Flag Name="StayActive" id="201" />
+		<Flag Name="NoAutoCrit" id="202" />
+		<Flag Name="Unused" id="203" />
+		<Flag Name="AntiMagic" id="204" />
+		<Flag Name="MageStun" id="205" />
+		<Flag Name="SA:FireAura" id="206" />
+		<Flag Name="SA:ColdAura" id="207" />
+		<Flag Name="SA:NauseaAura" id="208" />
+		<Flag Name="SA:NegAura" id="209" />
+		<Flag Name="SA:WindAura" id="210" />
+		<Flag Name="Unused" id="211" />
+		<Flag Name="Unused" id="212" />
+		<Flag Name="Unused" id="213" />
+		<Flag Name="SA:Wounding" id="214" />
+		<Flag Name="Berserk" id="215" />
+		<Flag Name="SA:Berserking" id="216" />
+		<Flag Name="Teleported" id="217" />
+		<Flag Name="Unused" id="218" />
+		<Flag Name="Unused" id="219" />
+		<Flag Name="Unused" id="220" />
+		<Flag Name="RAggInvert" id="221" />
+		<Flag Name="CAggInvert" id="222" />
+		<Flag Name="Unused" id="223" />
+		<Flag Name="SaveFull" id="224" />
+		<Flag Name="DeityAggInvert" id="225" />
+		<Flag Name="YtoIE" id="226">Plural: Y to IES</Flag>
+		<Flag Name="Unused" id="227" />
+		<Flag Name="Unused" id="228" />
+		<Flag Name="Stoneskin" id="229" />
+		<Flag Name="Unused" id="230" />
+		<Flag Name="Raiding" id="231" />
+		<Flag Name="Unused" id="232" />
+		<Flag Name="Unused" id="233" />
+		<Flag Name="Unused" id="234" />
+		<Flag Name="Unused" id="235" />
+		<Flag Name="Unused" id="236" />
+		<Flag Name="Unused" id="237" />
+	</Monsters>
+	<Objects>
+		<Flag Name="Perm" id="1" />
+		<Flag Name="Hidden" id="2" />
+		<Flag Name="Invisible" id="3" />
+		<Flag Name="SomePrefix" id="4" />
+		<Flag Name="NoAddS" id="5" />
+		<Flag Name="NoPrefix" id="6" />
+		<Flag Name="Unused" id="7" />
+		<Flag Name="NoWgtContain" id="8" />
+		<Flag Name="TempPerm" id="9" />
+		<Flag Name="InvPerm" id="10" />
+		<Flag Name="NoMageLich" id="11" />
+		<Flag Name="LightSrc" id="12" />
+		<Flag Name="GoodOnly" id="13" />
+		<Flag Name="EvilOnly" id="14" />
+		<Flag Name="NoEnchant" id="15" />
+		<Flag Name="NoFix" id="16" />
+		<Flag Name="ClimbGear" id="17" />
+		<Flag Name="NoTake" id="18" />
+		<Flag Name="Scenery" id="19" />
+		<Flag Name="SizeFlag" id="20" />
+		<Flag Name="SizeFlag" id="21" />
+		<Flag Name="RandEnchant" id="22" />
+		<Flag Name="Cursed" id="23" />
+		<Flag Name="Worn" id="24" />
+		<Flag Name="FloorUse" id="25" />
+		<Flag Name="Devours" id="26" />
+		<Flag Name="FemaleOnly" id="27" />
+		<Flag Name="MaleOnly" id="28" />
+		<Flag Name="SexlessOnly" id="29" />
+		<Flag Name="PledgeOnly" id="30" />
+		<Flag Name="LightArmor" id="31" />
+		<Flag Name="ClsSelInvert" id="32" />
+		<Flag Name="Ass" id="33" />
+		<Flag Name="Bers" id="34" />
+		<Flag Name="Cle" id="35" />
+		<Flag Name="Ftr" id="36" />
+		<Flag Name="Mag" id="37" />
+		<Flag Name="Pal" id="38" />
+		<Flag Name="Ran" id="39" />
+		<Flag Name="Thi" id="40" />
+		<Flag Name="Vam" id="41" />
+		<Flag Name="Mon" id="42" />
+		<Flag Name="Dea" id="43" />
+		<Flag Name="Dru" id="44" />
+		<Flag Name="Lic" id="45" />
+		<Flag Name="Wer" id="46" />
+		<Flag Name="Brd" id="47" />
+		<Flag Name="Rog" id="48" />
+		<Flag Name="Disposable" id="49">Object will not keep area room in memory</Flag>
+		<Flag Name="NoShatter" id="50" />
+		<Flag Name="AlwaysCrit" id="51" />
+		<Flag Name="Lucky" id="52" />
+		<Flag Name="Casts" id="53" />
+		<Flag Name="TwoHands" id="54" />
+		<Flag Name="IrregPlur" id="55" />
+		<Flag Name="Unused" id="56" />
+		<Flag Name="ChaoticOnly" id="57" />
+		<Flag Name="LawfulOnly" id="58" />
+		<Flag Name="TmpEnchant" id="59" />
+		<Flag Name="StartingItem" id="60" />
+		<Flag Name="Portal" id="61" />
+		<Flag Name="Clan1" id="62" />
+		<Flag Name="Clan2" id="63" />
+		<Flag Name="Clan3" id="64" />
+		<Flag Name="Clan4" id="65" />
+		<Flag Name="Clan5" id="66" />
+		<Flag Name="Clan6" id="67" />
+		<Flag Name="Clan7" id="68" />
+		<Flag Name="Clan8" id="69" />
+		<Flag Name="Clan9" id="70" />
+		<Flag Name="Clan10" id="71" />
+		<Flag Name="Unused" id="72" />
+		<Flag Name="Unused" id="73" />
+		<Flag Name="Unused" id="74" />
+		<Flag Name="Unused" id="75" />
+		<Flag Name="Unused" id="76" />
+		<Flag Name="Unused" id="77" />
+		<Flag Name="Unused" id="78" />
+		<Flag Name="Unused" id="79" />
+		<Flag Name="Unused" id="80" />
+		<Flag Name="Unused" id="81" />
+		<Flag Name="R-Dissolve" id="82" />
+		<Flag Name="Unused" id="83" />
+		<Flag Name="Unused" id="84" />
+		<Flag Name="Unused" id="85" />
+		<Flag Name="Unused" id="86" />
+		<Flag Name="Unused" id="87" />
+		<Flag Name="Unused" id="88" />
+		<Flag Name="Unused" id="89" />
+		<Flag Name="Unused" id="90" />
+		<Flag Name="Unused" id="91" />
+		<Flag Name="Unused" id="92" />
+		<Flag Name="Eatable" id="93" />
+		<Flag Name="AlwaysDrop" id="94" />
+		<Flag Name="Unused" id="95" />
+		<Flag Name="Unused" id="96" />
+		<Flag Name="Unused" id="97" />
+		<Flag Name="Unused" id="98" />
+		<Flag Name="Unused" id="99" />
+		<Flag Name="Clan11" id="100" />
+		<Flag Name="Clan12" id="101" />
+		<Flag Name="Unused" id="102" />
+		<Flag Name="Unused" id="103" />
+		<Flag Name="Unused" id="104" />
+		<Flag Name="Custom" id="105" />
+		<Flag Name="NoShopLift" id="106" />
+		<Flag Name="Stolen" id="107" />
+		<Flag Name="Camouflage" id="108" />
+		<Flag Name="HitsMist" id="109" />
+		<Flag Name="Silver" id="110" />
+		<Flag Name="HoldBonus" id="111" />
+		<Flag Name="Unused" id="112" />
+		<Flag Name="NoSteal" id="113" />
+		<Flag Name="1hShield" id="114" />
+		<Flag Name="20%Prof" id="115" />
+		<Flag Name="40%Prof" id="116" />
+		<Flag Name="60%Prof" id="117" />
+		<Flag Name="80%Prof" id="118" />
+		<Flag Name="NoPawn" id="119" />
+		<Flag Name="BreakDrop" id="120" />
+		<Flag Name="Lore" id="121" />
+		<Flag Name="RaceSelInvert" id="122" />
+		<Flag Name="Dwf" id="123" />
+		<Flag Name="Elf" id="124" />
+		<Flag Name="Hfe" id="125" />
+		<Flag Name="Hlf" id="126" />
+		<Flag Name="Hum" id="127" />
+		<Flag Name="Orc" id="128" />
+		<Flag Name="Hfg" id="129" />
+		<Flag Name="Gno" id="130" />
+		<Flag Name="Tro" id="131" />
+		<Flag Name="Hfo" id="132" />
+		<Flag Name="Ogr" id="133" />
+		<Flag Name="Dke" id="134" />
+		<Flag Name="Gob" id="135" />
+		<Flag Name="Min" id="136" />
+		<Flag Name="Ser" id="137" />
+		<Flag Name="Kob" id="138" />
+		<Flag Name="Cam" id="139" />
+		<Flag Name="Brb" id="140" />
+		<Flag Name="Kat" id="141" />
+		<Flag Name="Envenomed" id="142" />
+		<Flag Name="NullMagic" id="143" />
+		<Flag Name="NoBreak" id="144" />
+		<Flag Name="CanTouchWith" id="145" />
+		<Flag Name="JustBought" id="146" />
+		<Flag Name="NoDrop" id="147" />
+		<Flag Name="DisplayFile" id="148" />
+		<Flag Name="Breaked" id="149" />
+		<Flag Name="SmallBow" id="150" />
+		<Flag Name="CoinOp" id="151" />
+		<Flag Name="Prep" id="152" />
+		<Flag Name="StrBow" id="153" />
+		<Flag Name="Unique" id="154" />
+		<Flag Name="NoBulkCont" id="155" />
+		<Flag Name="NoBulk" id="156" />
+		<Flag Name="PrimeKey" id="157" />
+		<Flag Name="NoPeekAt" id="158" />
+		<Flag Name="Bash+" id="159" />
+		<Flag Name="Keep" id="160" />
+		<Flag Name="NoBackstab" id="161" />
+		<Flag Name="SaveFull" id="162" />
+		<Flag Name="BodyPart" id="163" />
+		<Flag Name="Darkmetal" id="164" />
+		<Flag Name="Tfl" id="165" />
+	</Objects>
+	<SpecialAttacks>
+		<Flag Name="Single Target" id="1" />
+		<Flag Name="AE: Enemey" id="2" />
+		<Flag Name="AE: All" id="3" />
+		<Flag Name="AE: Player" id="4" />
+		<Flag Name="AE: Monster" id="5" />
+		<Flag Name="Require Hide" id="6" />
+		<Flag Name="No Dodge" id="7" />
+		<Flag Name="No Parry" id="8" />
+		<Flag Name="No Block" id="9" />
+		<Flag Name="Undead Targets Only" id="10" />
+		<Flag Name="No Undead Targets" id="11" />
+		<Flag Name="No Undead Ward" id="12" />
+		<Flag Name="No Drain Shield" id="13" />
+		<Flag Name="Undead Ward Reduces Dmg" id="14" />
+		<Flag Name="Intelligence Reduces Dmg" id="15" />
+		<Flag Name="Berserk Reduces Dmg" id="16" />
+		<Flag Name="Drain Shield Reduces Dmg" id="17" />
+		<Flag Name="Save NoDmg" id="18" />
+		<Flag Name="Half Hp Dmg" id="19" />
+		<Flag Name="Can Dinsintegrate" id="20" />
+		<Flag Name="RM No Dmg" id="21" />
+		<Flag Name="Earth Shield Reduce" id="22" />
+		<Flag Name="Acid" id="23" />
+		<Flag Name="Dissolves" id="24" />
+		<Flag Name="Poisons" id="25" />
+		<Flag Name="Diseases" id="26" />
+		<Flag Name="Blinds" id="27" />
+		<Flag Name="Can Knock Unconscious" id="28" />
+		<Flag Name="Zap Mana" id="29" />
+		<Flag Name="Randomize Stun" id="30" />
+		<Flag Name="Check Die Rob" id="31" />
+		<Flag Name="Drain Damge" id="32" />
+		<Flag Name="Day Only" id="33" />
+		<Flag Name="Night Only" id="34" />
+		<Flag Name="Check Phys Dmg" id="35" />
+		<Flag Name="Check Neg Energy Dmg" id="36" />
+		<Flag Name="No Attack on Low HP" id="37" />
+		<Flag Name="Holy War Only" id="38" />
+		<Flag Name="No Unconscious" id="39" />
+		<Flag Name="Target Needs Mana" id="40" />
+	</SpecialAttacks>
+	<PropStorage>
+		<Flag Name="View Log" id="1">Player can view property log.</Flag>
+	</PropStorage>
+	<PropShop>
+		<Flag Name="View Log" id="1">Player can view property log.</Flag>
+		<Flag Name="Can Stock" id="2">Player is allowed to stock items. Stock + Remove means the player can reprice items.</Flag>
+		<Flag Name="Can Remove" id="3">Player is allowed to remove items. Stock + Remove means the player can reprice items.</Flag>
+	</PropShop>
+</Flags>

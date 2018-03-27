@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1342" Version="2.40" Area="ocean">
+  <Name>Thernardier's Alley</Name>
+  <ShortDescription>You are in an alley behind Thernardier's Inn and leading to the stables.</ShortDescription>
+  <LongDescription>The Highland Stables is a rather nice place to board your horse, and they
+also rent horses to travellers coming out of the city.  It really is an
+honest mistake when they rent your horse to some drunken lout who doesn't
+know how to treat a horse.  The alley connects to Wakeforest Drive on the
+west.</LongDescription>
+  
+  <Established>755902361</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1740</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1819</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

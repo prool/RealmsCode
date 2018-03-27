@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1658" Version="2.40" Area="ocean">
+  <Name>Regalia Way</Name>
+  <ShortDescription>You are walking along Regalia Way, not to be confused with Regalia Drive.</ShortDescription>
+  <LongDescription>Regalia Way runs along the eastern border of the Regalia Convent, an
+order of women following a monotheistic approach to religion.  Their 
+mythos claim that only one god exists, which is omnipotent.  By putting
+the fear of God into their subjects, they can manipulate them as they
+please in order to get whatever they desire.  The fanciest buildings,
+ironically, are the churches, which supposedly use their alms to help
+the poor.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1657</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1659</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

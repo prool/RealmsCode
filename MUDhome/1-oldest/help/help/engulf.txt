@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  engulf spell       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 16
+School:  Evocation
+Domain:  Destruction
+
+This is the second most powerful spell in the earth realm. It causes massive
+amounts of earth and rock to crash into the target, engulfing them and
+suffocating them briefly. Fractures, destroyed limbs, and other ill-effects are
+common among victims of engulf.
+
+Syntax:
+cast engulf <target>

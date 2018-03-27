@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="5130" Version="2.40" Area="ocean">
+  <Name>North Hall</Name>
+  <ShortDescription>You are in the ruined north hallway of the ancient Castle Kayleigh.</ShortDescription>
+  <LongDescription>The walls, once so proudly draped with the castle's banners, now are covered
+with dark soot.  There are footprints on the floor, and strangely, they seem
+quite fresh.  There is a hollow echo of your own footsteps.</LongDescription>
+  
+  <Established>773559974</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">33</Mob>
+      <Mob Area="ocean" Num="1">33</Mob>
+      <Mob Area="ocean" Num="2">33</Mob>
+      <Mob Area="ocean" Num="3">33</Mob>
+      <Mob Area="ocean" Num="4">33</Mob>
+      <Mob Area="ocean" Num="5">33</Mob>
+      <Mob Area="ocean" Num="6">33</Mob>
+      <Mob Area="ocean" Num="7">33</Mob>
+      <Mob Area="ocean" Num="8">33</Mob>
+      <Mob Area="ocean" Num="9">33</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5129</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5131</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

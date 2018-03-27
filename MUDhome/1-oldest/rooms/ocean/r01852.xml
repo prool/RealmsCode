@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="1852" Version="2.40" Area="ocean">
+  <Name>The Barbarian Orange Training Hut</Name>
+  <ShortDescription>You are in the Orange Training Hut, somewhere in the Barbarian Pits.</ShortDescription>
+  <LongDescription>The Barbarian Training Huts are designed to test the aspiring barbarian
+with another barbarian of the next level.  In order to advance to the
+next level, you must defeat the first class grunt which awaits you in
+this hut.</LongDescription>
+  <LowLevel>2</LowLevel>
+  <HighLevel>2</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training hut</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">259</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">131</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="training hut">
+      <Keys/>
+      <Room Area="ocean">1853</Room>
+      <Key>15</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1869</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="5722" Version="2.40" Area="ocean">
+  <Name>Jerome's Blue Training Room</Name>
+  <ShortDescription>This is the training room for advanced fighters.</ShortDescription>
+  <LongDescription>In order to get the key to the advanvement room you must defeat Karl, the 
+second son of Jerome.  Of course, it will do you no good if don't have
+the funds to pay for your training.  Karl is big and experienced, but he's
+a sucker for an overhand rabbit punch.  Go for it!</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5720</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">5725</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="684" Version="2.40" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are on Darmanian Way, between the Darmanain Memorial and the Stables.</ShortDescription>
+  <LongDescription>The Evenborough Stables are located on the north side of the road, and
+provide visitors with a safe and inexpensive place to leave their horses
+while visiting in town.  Although horses and other steeds are not illegal
+in Oceancrest, for the safety of both the animal and citizens, they should
+be left in the stables while in town.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">685</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">683</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2035" Version="2.40" Area="ocean">
+  <Name>Alturis Road/Kista Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Kista Avenue and Alturis Road.</ShortDescription>
+  <LongDescription>On the northeast side of the road is the magnificient Cathedral of Veratus.
+The Cathedral was built at the time of Randolf the Blue against the wishes
+of his council, but since the monks paid their taxes, they were allowed to
+build it anyway.  The main entrance is a little way to the east, on the
+south side of the road.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2539</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2546</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

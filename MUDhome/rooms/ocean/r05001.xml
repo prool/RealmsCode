@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5001" Version="2.40" Area="ocean">
+  <Name>Training Compound</Name>
+  <ShortDescription>You are at a path intersection in the Brownhaven Animal Training Compound.</ShortDescription>
+  <LongDescription>A white sign post, with several wooden signs nailed to it, points in four
+directions.  To the east is the copper dragon training area, north is the
+pegasus grounds, and south takes you to the administration building.  To the
+west is the gate where you may go out to the road.</LongDescription>
+  
+  <Established>772145834</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">5000</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5002</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

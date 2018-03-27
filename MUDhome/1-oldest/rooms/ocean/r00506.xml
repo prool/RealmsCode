@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="506" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street/Lelion Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Rosecrest Street and Lelion Way.</ShortDescription>
+  <LongDescription>Lelion Way runs east and west along the shores of the Lithium Inlet and
+the subsequent river it forms to the east.  Rosecrest Street runs north
+and south across the Lithium Inlet, towards the Lyanden Castle in the 
+north and eventually ends at the southern City Walls in the southwestern
+corner of town.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">505</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">507</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">532</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">533</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

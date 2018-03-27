@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="649" Area="ocean" Version="2.40">
+  <Name>human head</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>2</ShotsMax>
+  <ShotsCur>2</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">head</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The head is eyeless and the mouth is formed into a silent scream.</Description>
+  <UseOutput>alas, poor Yorick.  I knew him well</UseOutput>
+  <Weight>6</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>9</MagicPower>
+  <InBag/>
+</Object>

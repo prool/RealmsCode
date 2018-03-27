@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="982" Version="2.40a" Area="ocean">
+  <Name>Cloud Castle Entryway</Name>
+  <ShortDescription>You are in the massive entryway into the enormous cloud castle.</ShortDescription>
+  <LongDescription>The hallway you are in extends to the east.  The ceiling in the hall
+is more than twenty meters straight up.  The walls and floor look like
+they're just clouds, yet seem solid enough that you can stand on them.
+A massive room lies to the east.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="20"/>
+    <Bit Num="91"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">983</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">981</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

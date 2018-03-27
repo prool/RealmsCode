@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3004" Version="2.40" Area="ocean">
+  <Name>Southeast Corner of Cellar</Name>
+  <ShortDescription>This is the shadowy and putred southeast corner of a farmer's cellar.</ShortDescription>
+  <LongDescription>The cellar is extremely large.  A thick coat of dust covers most parts,
+but a well worn path is clearly visible leading from the southwest corner
+to the door in the northeast.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>6000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">46</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3003</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3006</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3005</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

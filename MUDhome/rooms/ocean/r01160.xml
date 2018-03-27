@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1160" Version="2.40" Area="ocean">
+  <Name>Khelleva Circle</Name>
+  <ShortDescription>You are traveling around the eastern portion of Khelleva Circle.</ShortDescription>
+  <LongDescription>Khelleva Circle continues to the northwest and southwest.  Rosecrest
+Street branches out from the circle to the northeast and Khelleva 
+Drive, which runs past the Khelleva Mansion, branches to the southeast.
+The large circle was built by the Khelleva Family a couple of decades
+ago to alleviate traffic around their home and also to give some 
+support to the income-poor city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>5500</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">441</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1157</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1159</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1249</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1201</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

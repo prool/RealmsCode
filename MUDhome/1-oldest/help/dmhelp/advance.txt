@@ -1,0 +1,14 @@
+Help on DM command:
+
+        *advance [player] [level]
+
+This will change the level of a character to a specified level.  It will
+also update hit points and magic points (It can lower, too.). Note that
+this will also set their max level, so if you *advance someone to 30 and
+then *advance them to 1, they will "relevel" all the way back to 30. Fix
+this by: *set c [character] alvl [level].
+
+example:
+:*advance Terrance 5
+
+Terrance has been raised to level 5.

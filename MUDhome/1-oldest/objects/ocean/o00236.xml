@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="236" Area="ocean" Version="2.40">
+  <Name>ruby button</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>1</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">red</Key>
+    <Key Num="1">button</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="18"/>
+  </Flags>
+  <Description>You see a shiny red button made from a large, sparkling ruby.</Description>
+  <UseOutput>043214321</UseOutput>
+  <Type>14</Type>
+  <InBag/>
+</Object>

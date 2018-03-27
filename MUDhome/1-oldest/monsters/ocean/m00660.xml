@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<Creature Num="660" Area="ocean" Version="2.40">
+  <Name>Lord Kree of the Crystallines</Name>
+  <Level>21</Level>
+  <Type>1</Type>
+  <Experience>2200</Experience>
+  <Coins>
+    <Coin Num="2">5000</Coin>
+  </Coins>
+  <Alignment>250</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>300</Current>
+      <Max>300</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a very intimidating crystalline entity who seems tempered by wisdom.</Description>
+  <Keys>
+    <Key Num="0">lord</Key>
+    <Key Num="1">kree</Key>
+    <Key Num="2">crystallines</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>670</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>5</Number>
+    <Sides>2</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>why have you disturbed me?</Talk>
+  <DefenseSkill>205</DefenseSkill>
+  <AttackPower>250</AttackPower>
+  <WeaponSkill>205</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">698</Carry>
+    <Carry Area="ocean" Num="1">698</Carry>
+    <Carry Area="ocean" Num="2">698</Carry>
+    <Carry Area="ocean" Num="3">698</Carry>
+    <Carry Area="ocean" Num="4">698</Carry>
+    <Carry Area="ocean" Num="5">700</Carry>
+    <Carry Area="ocean" Num="6">701</Carry>
+    <Carry Area="ocean" Num="7">702</Carry>
+    <Carry Area="ocean" Num="8">703</Carry>
+    <Carry Area="ocean" Num="9">704</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects>
+    <Effect>
+      <Name>detect-invisible</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+    <Effect>
+      <Name>resist-magic</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+  </Effects>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="7"/>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="15"/>
+    <Bit Num="22"/>
+    <Bit Num="25"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2804" Version="2.40a" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>You are walking down a damp and dusty hallway carved from the rocks.</ShortDescription>
+  <LongDescription>Strangely, the walls of the hallway are perfectly square.  It's almost
+like you're walking through a regular building, except the walls are 
+composed of granite and ice.  The hallway continues to the north and
+south.  An eerie silence continues as you walk around the desolate hall.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>728790775</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2805</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2803</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

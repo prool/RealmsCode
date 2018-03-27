@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="2080" Version="2.41a" Area="ocean">
+  <Name>Second Floor Hallway</Name>
+  <ShortDescription>You are on the second floor of the great Kista Towers building.</ShortDescription>
+  <LongDescription>To the north, there is a large opening below you, allowing you to see the 
+grand throne room with two large, golden thrones in it.  There doesn't
+seem to be anyone in the throne room right now.  The hallway continues to
+the east and west.  There is a green-painted door to the south. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2081</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2079</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="green door">
+      <Keys/>
+      <Room Area="ocean">2085</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

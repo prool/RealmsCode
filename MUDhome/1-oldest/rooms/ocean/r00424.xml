@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="424" Version="2.40" Area="ocean">
+  <Name>Bendine Way</Name>
+  <ShortDescription>You are walking along Bendine Way, east of the Cathedral of Worldly Bliss.</ShortDescription>
+  <LongDescription>The Cathedral of Worldly Bliss is the center of all clerical bodies in 
+Oceancrest, and much of the outlying lands.  All the clerics usually come
+here to discuss the various problems with the society and find remedies
+to fix them.  It is a well known notion that mankind cannot think for
+themselves, therefore they must have religion to create morality.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">423</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">425</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

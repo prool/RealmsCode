@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3069" Version="2.40a" Area="ocean">
+  <Name>Temple Passage</Name>
+  <ShortDescription>This is a very old and dangerous passage through the Temple.</ShortDescription>
+  <LongDescription>Even now, years after the Temple was abandoned due to its partial destruction
+by earthquakes, the Temple still occasionally shakes, shudders and trembles 
+for no apparent reason.  Each tremor seems to bring new damage.  An old
+legend says the priests let a spell of some kind get out of control.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3068</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3070</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

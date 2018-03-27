@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |  Help on:  wall-of-thorns spell   | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 30
+School:  Conjuration
+Domain:  Nature
+
+The wall of thorns spell will summon a barrier of thorns, blocking an exit.
+The wall of thorns will also block the exit in the target room that leads back
+to the room you are in, if one could be found. Anyone, besides the caster, who
+passes through the wall of fire will take earth damage. A wall of thorns may be
+brought down by a dispel-magic spell.
+
+Syntax:
+cast wall-of-thorns <exit>

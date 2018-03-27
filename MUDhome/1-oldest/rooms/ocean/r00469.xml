@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="469" Version="2.40" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are on Darmanian Way, south of three statues in front of the Library.</ShortDescription>
+  <LongDescription>The three large statues in front of the southern entrance to the Oceancrest
+Municiple Library represent the various factors that put together a public
+library for anyone who wanted information to get it.  Books are rather
+expensive, and are not easilly obtained.  Some of the statues represent
+philanthropists who have given so much to the community.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">468</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">470</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

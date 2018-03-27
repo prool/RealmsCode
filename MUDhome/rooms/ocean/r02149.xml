@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2149" Version="2.40" Area="ocean">
+  <Name>Swampy Path in the Enchanted Forest</Name>
+  <ShortDescription>You are on a dark and gloomy path leading through a dismal swamp area.
+Moss covers everything, and great water spiders skitter about.  The wet
+ground bubbles and burps, and sucks at your boots as you struggle through
+the tangle of spider webs and thick vegetation.</ShortDescription>
+  
+  <Established>759012993</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2927</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2148</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2945</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

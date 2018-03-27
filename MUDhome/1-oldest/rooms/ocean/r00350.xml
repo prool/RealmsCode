@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<Room Num="350" Version="2.40a" Area="ocean">
+  <Name>Danielle's Mystic Mage's Emporium Back Room</Name>
+  <ShortDescription>You are in the back room of Danielle's Mystic Mage Emporium.</ShortDescription>
+  <LongDescription>Among the various trinkets and doodads that are lying around, there are
+two large circles of glass on the floor in the room.  On the wall is
+a sign which says "Teleporter - USE ONLY IN EMERGENCIES".  Apparently, it
+is used should anyone be brave or stupid enough to attack the city.  On
+the wall near the right circle are four buttons: black, red, green and
+orange.  On the wall near the left circle are four more buttons: grey,
+yellow, blue and purple.  They must be used to control the teleporters.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">317</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">408</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">409</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">410</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">411</Misc>
+    </LastTime>
+    <LastTime Num="4">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">412</Misc>
+    </LastTime>
+    <LastTime Num="5">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">413</Misc>
+    </LastTime>
+    <LastTime Num="6">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">414</Misc>
+    </LastTime>
+    <LastTime Num="7">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">415</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects>
+    <ObjRef Num="408" Area="ocean" Version="2.40a">
+      <Name>black button</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>1</Number>
+        <Sides>0</Sides>
+        <Plus>2</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">1</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">button</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="414" Area="ocean" Version="2.40a">
+      <Name>blue button</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>2</Sides>
+        <Plus>3</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">1</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">button</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="410" Area="ocean" Version="2.40a">
+      <Name>green button</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>2</Sides>
+        <Plus>2</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">1</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">button</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="412" Area="ocean" Version="2.40a">
+      <Name>grey button</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>1</Number>
+        <Sides>0</Sides>
+        <Plus>3</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">1</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">button</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="411" Area="ocean" Version="2.40a">
+      <Name>orange button</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>3</Sides>
+        <Plus>2</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">1</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">button</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="415" Area="ocean" Version="2.40a">
+      <Name>purple button</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>3</Sides>
+        <Plus>3</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">1</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">button</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="409" Area="ocean" Version="2.40a">
+      <Name>red button</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>1</Sides>
+        <Plus>2</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">1</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">button</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="413" Area="ocean" Version="2.40a">
+      <Name>yellow button</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>1</Sides>
+        <Plus>3</Plus>
+      </Dice>
+      <Value>
+        <Coin Num="2">1</Coin>
+      </Value>
+      <Keys>
+        <Key Num="0">button</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+  </Objects>
+  <Creatures>
+    <CrtRef Num="317" Area="ocean" Version="2.40a">
+      <Name>Raspillion</Name>
+      <Class>4</Class>
+      <Level>10</Level>
+      <Type>1</Type>
+      <Experience>400</Experience>
+      <Coins>
+        <Coin Num="2">195</Coin>
+      </Coins>
+      <Alignment>25</Alignment>
+      <Stats>
+        <Stat Name="Strength">
+          <Current>100</Current>
+          <Max>100</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Dexterity">
+          <Current>200</Current>
+          <Max>200</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Constitution">
+          <Current>200</Current>
+          <Max>200</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Intelligence">
+          <Current>200</Current>
+          <Max>200</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Piety">
+          <Current>150</Current>
+          <Max>150</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Hp">
+          <Current>120</Current>
+          <Max>120</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Mp">
+          <Current>200</Current>
+          <Max>200</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+      </Stats>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="5"/>
+        <Bit Num="12"/>
+        <Bit Num="17"/>
+        <Bit Num="23"/>
+      </Flags>
+      <LastTimes>
+        <LastTime Num="3">
+          <Interval>0</Interval>
+          <LastTime>1206216656</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="4">
+          <Interval>0</Interval>
+          <LastTime>1206129987</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="6">
+          <Interval>0</Interval>
+          <LastTime>1206129987</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="8">
+          <Interval>50</Interval>
+          <LastTime>1206217727</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="41">
+          <Interval>0</Interval>
+          <LastTime>1206129987</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="100">
+          <Interval>50</Interval>
+          <LastTime>1206217727</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="101">
+          <Interval>34</Interval>
+          <LastTime>1206217706</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </LastTimes>
+      <Inventory/>
+    </CrtRef>
+  </Creatures>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">348</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right teleporter">
+      <Keys/>
+      <Room Area="ocean">2349</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="left teleporter">
+      <Keys/>
+      <Room Area="ocean">99</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

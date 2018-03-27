@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1938" Version="2.40" Area="ocean">
+  <Name>The Silent Knife Training Room</Name>
+  <ShortDescription>You are in the training room of the Silent Knife Assassin's Guild.</ShortDescription>
+  <LongDescription>Only lower level Minor Assassins may enter this area to train in some 
+basic assassination skills.  Once you reach Minor Assassin, First Class,
+this center becomes much too simplistic for your talents, and you are 
+forced to go out and look for a higher quality Assassins' Guild.  Some
+of your brothers suggest a place known as the Rusty Dagger, but are 
+hesitant to tell you where that is.</LongDescription>
+  <HighLevel>2</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1939</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

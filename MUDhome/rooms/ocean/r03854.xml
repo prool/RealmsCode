@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3854" Version="2.40" Area="ocean">
+  <Name>Marina/Eidenhoft Alley</Name>
+  <ShortDescription>You are in a narrow, winding alley just east of Eidenhoft Boulevard.</ShortDescription>
+  <LongDescription>A number of speciality shops are here in the alley, and there is a lot of
+foot traffic going between the narrow walkway and Eidenhoft Boulevard to
+the east.  A story you overheard in the Dragon Claw makes you think this
+is the alley where a school for pickpockets is located.  Hold on to your
+wallet as you walk through here.  On the south side of the alley is a narrow
+doorway leading to the headquarters of a mercernary group.</LongDescription>
+  
+  <Established>768082860</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3855</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">565</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3833</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

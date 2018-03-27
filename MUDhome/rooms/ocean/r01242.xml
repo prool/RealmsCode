@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1242" Version="2.40" Area="ocean">
+  <Name>Allisk Circle</Name>
+  <ShortDescription>You are walking along the northern edge of Allisk Circle.</ShortDescription>
+  <LongDescription>Allisk Circle is named after the Countess Natasha de Allisk, or more
+formally, the Allisk Mansion, which is located to the east of Lankshire 
+Parkway, just south of the Necropolis.  A corner of the estate is visible
+from here.  You can see it on the northeast corner, surrouned by wall
+of metal bars.  The Allisk Circle is about as close as anyone dares to
+get to the Allisk Manor, but it can be entered from Overland Drive.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1241</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1244</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1243</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="circle">
+      <Keys/>
+      <Room Area="ocean">1259</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

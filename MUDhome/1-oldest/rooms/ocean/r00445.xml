@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="445" Version="2.40" Area="ocean">
+  <Name>Adlermann Way</Name>
+  <ShortDescription>You are walking along Adlermann Way, west of the Lithium Lanterns shop.</ShortDescription>
+  <LongDescription>The Lithium Lanterns shop provides the guards and everyday citizens with
+the essential lanterns to light up their paths in the dark areas of town.
+No one should be without a lantern.  On the west side of the road is the
+west City Wall, which runs parallel to Adlermann Way.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">444</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">446</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

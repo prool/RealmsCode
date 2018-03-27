@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="686" Area="ocean" Version="2.40">
+  <Name>fiery sign</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">sign</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Weight>800</Weight>
+  <Type>14</Type>
+  <InBag/>
+</Object>

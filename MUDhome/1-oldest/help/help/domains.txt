@@ -1,0 +1,28 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  domains of magic     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+There are currently twelve domains of magic in the world:
+
+    Augmentation         Creation
+    Destruction          Evil
+    Good                 Healing
+    Knowledge            Nature
+    Protection           Travel
+    Trickery 
+
+Domains of magic are used by divine spellcasters. Clerics, druids,
+paladins, deathknights, and rangers are divine spellcasters. As the
+foundation of the new magic system is in, but the full magic system has
+not yet been coded, your skill level in each of these domains does not
+affect your spell-casting ability. It will in the future, though, so train
+your skills as you normally would. To see your skill level in all magic
+skills, type ^Yskills magic^x.
+
+There are six temporary magic skills - they represent the six elemental
+realms. They are:
+
+    Air Realm            Cold Realm
+    Earth Realm          Electric Realm
+    Fire Realm           Water Realm
+

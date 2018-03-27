@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="180" Version="2.40" Area="ocean">
+  <Name>Magic Shop</Name>
+  <ShortDescription>This is the Magic Shop where you can buy magical items.</ShortDescription>
+  <LongDescription>You see Mythrandir floating in front of you, waiting for your order.
+There are not too many magical potions shops here in the village, so 
+this little place does a pretty good business.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="11"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">53</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

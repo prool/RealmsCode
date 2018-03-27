@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1679" Version="2.40" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are walking along Waterfront Way, north of the Grainery and Silos.</ShortDescription>
+  <LongDescription>The large Grainery and equally impressive silos on the south side of the
+road store the year's crops for the devastating winter months.  Although
+Oceancrest is close to the ocean, winter months can bring on some snow.
+Nevertheless, it gets quite cold out and crops just don't grow when the
+water doesn't even flow.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1680</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1678</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

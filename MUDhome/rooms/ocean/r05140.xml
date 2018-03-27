@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5140" Version="2.40" Area="ocean">
+  <Name>Kitchen</Name>
+  <ShortDescription>You are in a very large kitchen designed to feed hundreds of people.</ShortDescription>
+  <LongDescription>Although the rest of the castle is in total ruin, this kitchen appears
+untouched.  There is no damage in here at all.  Some smoke across the high
+ceiling is about all there is.  Pots, pans and other cooking equipment are
+still ready to be used.  A dumbwaiter shaft on the south wall is open.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5138</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="dumbwaiter">
+      <Keys/>
+      <Room Area="ocean">5086</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

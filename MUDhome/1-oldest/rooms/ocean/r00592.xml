@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="592" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street between the Sleepy Traveler Inn and the Stables.</ShortDescription>
+  <LongDescription>The Evenborough Stables are provided for visitors to leave their horses
+while visiting Oceancrest.  Sharing the streets with horses and pedestrians
+can be quite dangerous, both to the horse and the people on the street.
+All visitors are therefore requested to leave their steeds in the capable
+hands of the stable managers.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">591</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">593</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

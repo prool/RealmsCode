@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5435" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>You are just east of the road to Saint Anne's Retreat.</ShortDescription>
+  <LongDescription>The stone retreat has been here longer than anyone can remember, and
+did not always belong to the church.  When the clerics who have retired
+here first came to this part of the mountain, they had to exorcise a
+terrible demon who had taken it over.  When he was gone, the clerics
+simply moved in.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5434</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5436</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

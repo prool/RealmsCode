@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="5475" Version="2.40a" Area="ocean">
+  <Name>Castle Rutger Slide</Name>
+  <ShortDescription>Oooops!  This is one slippery slide!</ShortDescription>
+  <LongDescription>You are traveling swiftly down a careening slide, and have come to a point
+where you must reverse direction as you continue your downard journey.  This
+slide is not nearly big enough to bring much equipment down it, but it sure
+provides a fast attack for troops who must get from the castle above to the
+road below in time of emergency.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5477</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,53 @@
+
+SHOPLIFT IS DEBUGGED AND READY TO GO.
+
+Ok.....players can now shoplift in a shop if you
+set the shoplift rflag (46). There are a couple
+other things you should know before setting any
+shops this way.
+
+FIRST...You must make mobs that guard the shop.
+These mobs are PERMED in the STOREROOM of the
+shop. If a shoplifter fails, ALL of these mobs
+will run into the shop and attack him/her. It
+is just like an alarm trap, except these mobs
+automatically get d-i and detect-mist and block
+set on them. If there are any perms in the shop
+itself (the shopkeeper and ANY others) they will
+also ALL attack the shoplifter as well. If you
+do not *perm at least TWO guard mobs of at least
+level 10 in the storeroom, shoplift will not work.
+It is idiot proof now, so there's no way a screw
+up by us can allow players to exploit it any more.
+
+You must perm your guard mobs with timeouts of
+3-5 seconds. DO NOT perm them at 3600.
+
+Mobs which chase players out of the shops (like
+when they flee or hazy) will wait around for a time
+then wander on their own. When they wander, it will
+say they are wandering off to look for (person). In
+actuality, all they are doing is wandering away.
+
+Any goods stolen from a shop cannot be sold in
+a pawn, as they are "hot" and not wanted by the
+shopkeep. This was done to prevent high level
+thieves (who can shoplift well) from using shoplift
+as a loophole to get ez gold.
+
+If you want to put an item in a shopliftable shop that
+you dont want able to be shoplifted, you can set the
+"no shoplift" oflag(106) on it.
+
+As a general rule, try not to make more then 3 guard
+mobs in any given store, and try not to make it so
+they completely PASTE someone who fails a shoplift,
+since several people are gonna try this when we tell
+them all about it. Whenever possible, however, be sure
+both assist flags (100 AND 101) are set on all guard mobs.
+
+I pitty the fool who fails a shoplift in Igmoo's shop...
+cackle.....
+
+Any questions, ask me...
+Rapture

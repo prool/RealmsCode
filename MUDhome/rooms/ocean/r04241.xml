@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="4241" Version="2.40a" Area="ocean">
+  <Name>Center Courtyard</Name>
+  <ShortDescription>This is the exact center of the ground floor courtyard of Castle Rutger.</ShortDescription>
+  <LongDescription>A reflecting pool takes up most of the center area of the courtyard.  There
+are several statues around the edge and in the center, and together they
+tell the story of the struggle between the twins, Prince Rutger and Prince
+Ragnar, for the crown of their dead father, King Lyanden.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4242</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4244</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4246</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4238</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="pool">
+      <Keys/>
+      <Room Area="ocean">4291</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

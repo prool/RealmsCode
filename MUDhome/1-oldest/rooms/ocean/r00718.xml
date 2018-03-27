@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="718" Version="2.40a" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are walking along Oceancrest Avenue, north of the Bushman Estate.</ShortDescription>
+  <LongDescription>The magnificent Bushman Estates run on the south side of Oceancrest
+Avenue from Amberton Lane to the east, all the way to Lankshire
+Parkway in the west.  The large estate and farm provides Oceancrest with
+much of the basic fruits and vegetables the city needs to survive
+nutritionally.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">655</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">719</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

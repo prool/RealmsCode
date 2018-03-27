@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="2314" Version="2.40" Area="ocean">
+  <Name>The Might and Magic Mystery Shop</Name>
+  <ShortDescription>This is the Might and Magic Mystery Shop, where arcane objects are sold.</ShortDescription>
+  <LongDescription>====================]  This Shop is For Sale  [======================
+To purchase it you must first obtain and read the Rules of Business, which
+is available at the Sleeping Deer Real Estate Office.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2307</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1244" Version="2.40" Area="ocean">
+  <Name>Allisk Circle</Name>
+  <ShortDescription>You are walking around the western edge of the Allisk Circle.</ShortDescription>
+  <LongDescription>You are walking along the western rim of the Allisk Circle.  Oddly, the
+center of the circle is not very well kept up and is covered with dead
+grass and wilting weeds.  Hillcrest Drive continues to the west from
+here.  There is a strange-looking gazebo towards the southwest.  The
+circle continues to the northeast and southeast.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1242</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1245</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1624</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="circle">
+      <Keys/>
+      <Room Area="ocean">1259</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

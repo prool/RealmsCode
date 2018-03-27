@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1594" Version="2.40" Area="ocean">
+  <Name>Trees Above Etolos</Name>
+  <ShortDescription>You are climbing in the trees high above the druidian establishment.</ShortDescription>
+  <LongDescription>The trees are packed so close together that it is relatively easy to
+walk between the trees.  But there's always the chance that you might
+slip and fall down.  The druids have made almost a second home up here,
+setting up planks of wood along the tree's branches to make walking around
+much easier.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">181</Mob>
+      <Mob Area="ocean" Num="1">180</Mob>
+      <Mob Area="ocean" Num="2">180</Mob>
+      <Mob Area="ocean" Num="3">179</Mob>
+      <Mob Area="ocean" Num="4">179</Mob>
+      <Mob Area="ocean" Num="5">180</Mob>
+      <Mob Area="ocean" Num="6">179</Mob>
+      <Mob Area="ocean" Num="7">183</Mob>
+      <Mob Area="ocean" Num="8">181</Mob>
+      <Mob Area="ocean" Num="9">183</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1587</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1593</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

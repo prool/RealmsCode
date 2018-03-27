@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3898" Version="2.40" Area="ocean">
+  <Name>Subterrain Chamber</Name>
+  <ShortDescription>You are in a small chamber deep under the Ulandian Temple.</ShortDescription>
+  <LongDescription>The temple worshipers considered puzzles to be sacred, and took great pride
+in creating labyrinths and mysteries.  This room doesn't appear to have any
+exits, but the fact that you are here means there must be at least the one
+you came in.  Sometimes, the most obvious is quite invisible.  There is a 
+hole far over your head, but it would be impossible to go that way.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>773738472</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+    <Bit Num="28"/>
+    <Bit Num="33"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>air vent</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>86400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">403</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="air vent">
+      <Keys/>
+      <Room Area="ocean">3092</Room>
+      <Flags>
+        <Bit Num="1"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

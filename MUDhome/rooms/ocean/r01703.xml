@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1703" Version="2.40a" Area="ocean">
+  <Name>Melbourne Avenue</Name>
+  <ShortDescription>You are on Melbourne Avenue just south of the intersection with Kafkan Way.</ShortDescription>
+  <LongDescription>On the east side of the road is the Oceancrest Mountaineer's Supply,
+a store specializing in climbing equipment.  On the west side of the
+street is Lafyette's Blacksmith and Repair shop.  Lafyette works mostly
+on weapons and armor, rather than other items, and is a congenial giant
+of a man.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1764</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1704</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2252</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2259</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="159" Area="ocean" Version="2.40">
+  <Name>boots of levitation</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>25</ShotsMax>
+  <ShotsCur>25</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>5</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">800</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">levitation</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="15"/>
+    <Bit Num="16"/>
+  </Flags>
+  <Description>These are magical boots that actually give you a boost while climbing.</Description>
+  <UseOutput>You feel extraordinarily light as you wear these boots.</UseOutput>
+  <Weight>2</Weight>
+  <Type>6</Type>
+  <WearFlag>8</WearFlag>
+  <InBag/>
+</Object>

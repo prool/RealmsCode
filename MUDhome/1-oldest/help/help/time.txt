@@ -1,0 +1,18 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  time           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The time command shows you the time in game. It will tell what year it is, what
+month it is, what season it is, and whether it is night or day. If you have any
+special abilites, it will tell you how much longer they will remain in effect
+or how much longer until you may use them again.
+
+The world of Derlith does not have a week system, therefore there are no names
+for specific days. Days are simply refered to by their number and what month
+they belong to. The Derilian year is 530 days long, with most months having
+either 35 or 36 days and the last day of the month having only 31 days.
+
+The first day of Spring is the 21st of Nortaran.
+The first day of Summer is the 21st of Jenethel.
+The first day of Autumn is the 23rd of Hev'nar.
+The first day of Winter is the 21st of Yanyezn.

@@ -1,0 +1,44 @@
+Monster Yelling
+
+Yelling is a technique used by mobs to call for help when in
+battle. If you've ever seen the doctors call for the aid of
+the Highport guardsmen, you know what I'm talking about.
+There are a few things to make a monster yell:
+
+1) Set mflag 120. If you don't want the players to know the
+   monster has called for help, set flag 122. It's fairly
+   simple.
+ Can see yelling:
+     The doctor yells for help!
+     : A doctor just arrived.
+     The doctor quickly assists the doctor!
+     The doctor attacks you.
+
+ Cannot see yelling:
+     : A Highport guardsman just arrived.
+     The Highport guardsman runs to the aid of the doctor!
+     The Highport guardsman almost BASHED you.
+
+2) Next, when you *sta a monster, it will read:
+     Rescue mobs:   None. (*set p1 and p2 to the mob numbers)
+   You can set two mobs, and the more slots filled up the more
+   likely it is for someone to arrive. So, set p1 and p2 to the
+   rescue mobs' number.
+
+3) Set the traffic accordingly. The higher the traffic in the room,
+   the more likely it is that someone will come to the mobs'
+   assistance. Default traffic for yelling is 15%, even if the room's
+   traffic is 0.
+
+NOTE: _NEVER_ set mflag 121. The mud will do this for you. If you do,
+it'll mess a lot of stuff up. Just don't do it.
+
+Guidelines: Mobs which are stunned or circled can yell for help as
+well as those which are being hit. If you want to see it work, *mon
+34 and attack Baron von Hanna. Also, keep in mind that when a
+yelling mob's rescue mob arrives, the yelling mob is automatically
+set to "will-be-assisted." So if you have other mobs hanging out in
+the room, they will attack the players if they have the "will-assist"
+mflag set.
+
+If you have any questions, mudmail Veth.

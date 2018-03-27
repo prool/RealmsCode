@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1674" Version="2.40" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are walking along Waterfront Way, taking in some of the scenery.</ShortDescription>
+  <LongDescription>There is not much on this side of the town.  On the south side of the
+road, you can see a number of small houses where the farmers and their
+families live.  The proximity of the farm lands and fields in the southern
+part of town makes their lives much simpler.  The intersection with 
+Overland Drive lies to the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1673</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1614</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

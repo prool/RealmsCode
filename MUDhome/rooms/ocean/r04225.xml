@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="4225" Version="2.40a" Area="ocean">
+  <Name>Level One Circular Hallway/Franchot Tunnel Intersection</Name>
+  <ShortDescription>This is the northeast corner of Castle Rutger.  Franchot Tunnel intersects 
+the main circular hallway at this point.</ShortDescription>
+  <LongDescription>Franchot Tunnel will take you to the center courtyard.  It heads in a
+southwest direction, and goes past the chambers of Franchot the paladin,
+commander of the Black Guard which is an elite force pledged to Prince 
+Rutger.  The Black Guard believes that only Rutger has the rightful 
+succession to the Lyanden throne.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>tunnel</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4224</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4226</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tunnel">
+      <Keys/>
+      <Room Area="ocean">4250</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

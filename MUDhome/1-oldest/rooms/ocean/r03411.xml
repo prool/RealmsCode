@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3411" Version="2.40" Area="ocean">
+  <Name>Altar of Pathos</Name>
+  
+  <Established>760052761</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3410</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="altar">
+      <Keys/>
+      <Room Area="ocean">3413</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

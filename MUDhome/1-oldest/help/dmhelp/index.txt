@@ -1,0 +1,20 @@
+ac          customs     info        questsave   train 
+active      delete      invis       reload      trainloc
+add         dust        list        replace     traps
+adminpolicy echo        mflags      rflags      unfixup
+advance     eggdrop     monster     rm          users
+append      enemy       news        save        wear
+attack      exitload    notepad     scrolls     xflags
+beep        exp         oflags      send        status
+broad       expold      otypes      set         award
+builder     find        parameter   sflags      take
+builderpol  finger      perm        shutdown    put
+cfollow     fixup       pers        silence     balance
+char        flushcrtobj pflags      size        wrap
+clanlist    flushrooms  pledge      songs       outlaw
+clanload    force       potions     sneeded
+clans       gamestat    prepend     spy
+clansave    gcast       pset        talk
+clear       group       purge       teleport
+cname       guide       questlist   title
+create      index       questload   titles

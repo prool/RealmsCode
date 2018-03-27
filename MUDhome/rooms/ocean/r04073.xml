@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="4073" Version="2.41a" Area="ocean">
+  <Name>North Highway</Name>
+  <ShortDescription>You are on the King's North Highway, but the south way is blocked.</ShortDescription>
+  <LongDescription>Huge boulders and large rocks look as though they have been deliberately
+placed across the Highway.  A road crew has pitched a small camp on the west
+side of the road.  Another camp is for several of the King's militia who
+are here to protect the road crew from bandits and Golgoth, the monster
+from the ice mountain.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4070</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4074</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quests>
+    <QuestInfo Num="1">
+        <Name>Taking out the trash</Name>
+        <Repeatable>False</Repeatable>
+        <Prerequisites>
+            <Prerequisite>5</Prerequisite>
+            <Prerequisite>6</Prerequisite>
+        </Prerequisites>
+        <Requirements>
+            <Object>
+                <Area>misc</Area>
+                <Id>69</Id>
+                <Amount>10</Amount>
+            </Object>
+            <Object>
+            	<Area>ocean</Area>
+            	<Id>212</Id>
+            	<Amount>3</Amount>
+            </Object>
+            <Monster>
+                <Area>ocean</Area>
+                <Id>321</Id>
+                <Amount>15</Amount>
+            </Monster>
+            <Room>
+                <Area>misc</Area>
+                <Id>2013</Id>
+            </Room>
+        </Requirements>
+        <Rewards>
+            <Gold>1000000</Gold>
+            <Experience>50000</Experience>
+            <Object>
+                <Area>misc</Area>
+                <Id>69</Id>
+                <Amount>1</Amount>
+            </Object>
+        </Rewards>
+    </QuestInfo>
+</Quests>

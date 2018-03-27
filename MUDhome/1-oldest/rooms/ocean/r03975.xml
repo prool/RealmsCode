@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="3975" Version="2.40" Area="ocean">
+  <Name>Fern Gulley</Name>
+  <ShortDescription>You are in a low gulley overgrown with lush ferns and berry vines.</ShortDescription>
+  <LongDescription>Dotted throughout the gulley are quaint little houses, perhaps as tall as
+your waist.  They are all brightly painted in vivid primary colors, and 
+are as clean as though newly made.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1296</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

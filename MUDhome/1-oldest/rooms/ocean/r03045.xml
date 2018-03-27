@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3045" Version="2.40" Area="ocean">
+  <Name>Ghelta's Secret Summoning Room</Name>
+  <ShortDescription>You have stumbled upon Ghelta's secret magical summoning room.</ShortDescription>
+  <LongDescription>Except for the light coming from the circle of half melted candles, the
+room is encased in total darkness.  Even the light from your torches
+and your magical items seem ineffective against the darkness.   Inside the
+circle of candles, mist rises from a pulsating crimson pentagram.  You
+realize Ghelta was not unsuccessful in his attempts to summon creatures
+from other dimensions.</LongDescription>
+  
+  <Established>761539755</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">512</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3044</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="5516" Version="2.40" Area="ocean">
+  <Name>Zelda's Cape Shop Storage</Name>
+  <ShortDescription>You are in the cold storage room of Zelda's Capes and Furs.</ShortDescription>
+  
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5515</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

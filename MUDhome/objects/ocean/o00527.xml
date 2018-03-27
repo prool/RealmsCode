@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="527" Area="ocean" Version="2.40">
+  <Name>stone mask</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>40</ShotsMax>
+  <ShotsCur>40</ShotsCur>
+  <Armor>17</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">800</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">mask</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>A mask made of stone, with holes cut out for only your eyes.</Description>
+  <UseOutput>Your face feels like it will fall off under the weight.</UseOutput>
+  <Weight>8</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>19</WearFlag>
+  <InBag/>
+</Object>

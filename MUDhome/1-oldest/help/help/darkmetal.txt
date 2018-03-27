@@ -1,0 +1,21 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  darkmetal        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Darkmetal is essentially an item trait that makes it vulnerable to
+sunlight. This is common on drow weapons, which can reach enchantments of
++4 and +5. However, such items require careful attention.
+
+Your darkmetal items are safe if:
+
+    * It is night
+    * You are in Limbo or the Origin
+    * The room you are in is always dark / magically dark
+    * The room you are in is indoors / underground
+    * The room you are in is not on this plane of existence (ie, Ethereal
+      Plane)
+    * Your darkmetal item is in a bag
+
+If your darkmetal item is not safe, it will be destroyed the instant it
+is exposed to sunlight.
+

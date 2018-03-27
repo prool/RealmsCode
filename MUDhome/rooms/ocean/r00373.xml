@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="373" Version="2.40" Area="ocean">
+  <Name>Beach Road</Name>
+  <ShortDescription>You are on a road between the rocky beach and a lush jungle.</ShortDescription>
+  <LongDescription>The road disappears into the sand on the beach, but seems to be an old
+and established way through the tropical jungle toward the west.  A pile
+of small animal bones is stacked neatly beside the road, just as it enters
+the jungle.  Some of the bones are placed so as to form a kind of message,
+but you are unable to read their meaning.</LongDescription>
+  
+  <Established>755730592</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">374</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">371</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

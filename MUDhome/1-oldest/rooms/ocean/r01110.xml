@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="1110" Version="2.40" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are walking along Waterfront Way, north of the Golden Dolphin Inn.</ShortDescription>
+  <LongDescription>The intersection with Hafnia Way lies to the east of here.  There is a
+long stretch of road between here and the next section of town, as you
+must pass through the various agricultural fields to the east.  The
+Golden Dolphin Inn lies to the South and Waterfront Plaza is located
+to the north.  You cannot enter the plaza from here, though.  Entrances
+are on Main and Hafnia.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>7</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">1</Mob>
+      <Mob Area="ocean" Num="2">1</Mob>
+      <Mob Area="ocean" Num="3">1</Mob>
+      <Mob Area="ocean" Num="4">8</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1090</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1109</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2473" Version="2.40" Area="ocean">
+  <Name>Ranger Training Location</Name>
+  <ShortDescription>You are in one of the many training locations within the Riverdell Park.</ShortDescription>
+  <LongDescription>If you are a level nine tracker or a level ten underhillsman, you may train
+here to advance to the next level.  Once you have reached level eleven,
+you must track down the next training site.  Subsequent training sites 
+will be for a single level only, instead of for two levels, as have all
+the previous training sites, including this one.</LongDescription>
+  <LowLevel>9</LowLevel>
+  <HighLevel>10</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="6"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2472</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

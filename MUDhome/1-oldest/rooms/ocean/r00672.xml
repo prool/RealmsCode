@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="672" Version="2.40a" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are walking along Hofton Avenue, north of the Elven Embassy.</ShortDescription>
+  <LongDescription>Since Oceancrest is primarily a human town, sometimes, some of the other
+races which inhabit Oceancrest feel like their needs are not being fully
+addressed.  The Elven Embassy to the south provides a voice for the elven
+people to the government.  It also connects communications lines between
+Oceancrest and other elven cities.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">601</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">673</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="636" Area="ocean" Version="2.40">
+  <Name>Vivian's key</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>500</ShotsMax>
+  <ShotsCur>500</ShotsCur>
+  <Dice>
+    <Number>50</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">vivian's</Key>
+    <Key Num="1">key</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="11"/>
+  </Flags>
+  <Description>This is the key to Vivian's storage room in the Magical Wonders shop.</Description>
+  <UseOutput>If you are not Vivian, you had best return this. </UseOutput>
+  <Weight>1</Weight>
+  <Type>12</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

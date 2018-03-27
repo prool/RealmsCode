@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="444" Version="2.40" Area="ocean">
+  <Name>Adlermann Way/Darmanian Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Darmanian Way and Adlermann Way.</ShortDescription>
+  <LongDescription>Darmanian Way runs east from the intersection with Adlermann Way, which
+runs north and south.  On the west side of the intersection is the 
+impressive west City Wall which looks heavily guarded.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">443</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">445</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">472</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

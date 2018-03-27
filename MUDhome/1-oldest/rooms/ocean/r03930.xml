@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3930" Version="2.40" Area="ocean">
+  <Name>Ruby Hallway</Name>
+  <ShortDescription>You are in the eastern end of the Wizard's Eye ruby hallway.</ShortDescription>
+  <LongDescription>Now that you know something of your craft, you are hereby charged with the
+duty of helping those below you who also aspire to become a mage.  As you
+become older and wiser, the young mages will look to you for guidance.  Be
+sure it is not lacking on your part.</LongDescription>
+  <LowLevel>6</LowLevel>
+  <HighLevel>8</HighLevel>
+  
+  <Established>770918539</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>platinum door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="silver door">
+      <Keys/>
+      <Room Area="ocean">3931</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gold door">
+      <Keys/>
+      <Room Area="ocean">3932</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="platinum door">
+      <Keys/>
+      <Room Area="ocean">3933</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3924</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

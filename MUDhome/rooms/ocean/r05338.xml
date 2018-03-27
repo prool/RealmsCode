@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5338" Version="2.40" Area="ocean">
+  <Name>Lynaden Road</Name>
+  <ShortDescription>You are on the King's road between Oceancrest and the eastern cities.</ShortDescription>
+  <LongDescription>To the east is a steep hill which will provide the traveler with a good
+viewpoint of the surrounding countryside.  To the west, the road slopes
+downward, eventually reaching sea level when the road gets to Oceancrest.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5337</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5339</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1370" Version="2.40" Area="ocean">
+  <Name>Hallway Intersection</Name>
+  <ShortDescription>Two hallways join here.  One leads east, and the other runs north-south.</ShortDescription>
+  <LongDescription>The place is odd in a way that you do not notice at first.  Its a strange
+feeling that is in the back of your mind, but keeps coming back to your
+thoughts.  The completely bare walls make the halls look desolate and
+ancient.  There's no dust, though, as if the halls were cleaned on a
+daily basis.  Yet they have an old, dirty yellow look to them.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">131</Mob>
+      <Mob Area="ocean" Num="1">131</Mob>
+      <Mob Area="ocean" Num="2">131</Mob>
+      <Mob Area="ocean" Num="3">131</Mob>
+      <Mob Area="ocean" Num="4">151</Mob>
+      <Mob Area="ocean" Num="5">151</Mob>
+      <Mob Area="ocean" Num="6">152</Mob>
+      <Mob Area="ocean" Num="7">152</Mob>
+      <Mob Area="ocean" Num="8">152</Mob>
+      <Mob Area="ocean" Num="9">152</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1512</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1371</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1374</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |     Help on:  cyclone spell    |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 16
+
+This spell causes an intense cyclone of wind to swirl around a target, tearing
+it in several directions and ripping it apart. In addition, any sharp objects
+caught up in the cyclone will slash at the target, often causing extensive
+bleeding. This spell is the second most powerful spell in the air realm.
+
+Syntax:
+cast cyclone <target>
+

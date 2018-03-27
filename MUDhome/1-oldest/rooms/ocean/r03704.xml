@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="3704" Version="2.40" Area="ocean">
+  <Name>Crow's Nest</Name>
+  <ShortDescription>You are in the high crow's nest of the dreaded pirate ship Widow Maker.</ShortDescription>
+  <LongDescription>From here you can see the entire Nylandian Bay and Lithium Inlet which 
+feeds fresh water to the bay.  A great deal of the city can be seen, and
+there are some wonderous sights indeed.  The famous Lyanden Castle can
+be seen in the distance.  You have heard that the castle is where the 
+council of mages meets, and that Princess Runella represents the city
+of Oceancrest on that council.</LongDescription>
+  
+  <Established>762911959</Established>
+  <Flags>
+    <Bit Num="15"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">544</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3703</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

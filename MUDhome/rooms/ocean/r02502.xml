@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="2502" Version="2.40" Area="ocean">
+  <Name>Commerce Street</Name>
+  <ShortDescription>You are in a narrow little street known as Commerce Street.</ShortDescription>
+  <LongDescription>Several small shops are crowded along both the east and west side of this
+shopping district.  Although the street is small, there are a number of 
+shoppers going in and out of the business places.  Some of these shops are
+famous even in Oceancrest.  Tiamat Lane is the street you see to the north, 
+where you also see the doors of the Great Observatory.</LongDescription>
+  
+  <Established>788556927</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">201</Mob>
+      <Mob Area="ocean" Num="1">202</Mob>
+      <Mob Area="ocean" Num="2">203</Mob>
+      <Mob Area="ocean" Num="3">204</Mob>
+      <Mob Area="ocean" Num="4">208</Mob>
+      <Mob Area="ocean" Num="5">738</Mob>
+      <Mob Area="ocean" Num="6">738</Mob>
+      <Mob Area="ocean" Num="7">738</Mob>
+      <Mob Area="ocean" Num="8">738</Mob>
+      <Mob Area="ocean" Num="9">738</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2501</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2022</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="3686" Version="2.40" Area="ocean">
+  <Name>Guard Station</Name>
+  <ShortDescription>You are in a comfortable and well lighted castle guard station.</ShortDescription>
+  <LongDescription>Several cots are around the room, and a heavy table in the center is 
+littered with dishes and playing cards.  There are a number of empty
+Uland rum bottles on the floor.  Four large candles burn brightly,
+providing the room with excellent light in this otherwise gloomy place.</LongDescription>
+  
+  <Established>765189504</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">712</Mob>
+      <Mob Area="ocean" Num="1">712</Mob>
+      <Mob Area="ocean" Num="2">712</Mob>
+      <Mob Area="ocean" Num="3">712</Mob>
+      <Mob Area="ocean" Num="4">712</Mob>
+      <Mob Area="ocean" Num="5">712</Mob>
+      <Mob Area="ocean" Num="6">712</Mob>
+      <Mob Area="ocean" Num="7">712</Mob>
+      <Mob Area="ocean" Num="8">712</Mob>
+      <Mob Area="ocean" Num="9">712</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">712</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>300</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">629</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3673</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1491" Version="2.40" Area="ocean">
+  <Name>Private Dining Hall</Name>
+  <ShortDescription>You are in a small dining room with lavish paintings and other art.</ShortDescription>
+  <LongDescription>This dining hall is used primarily by the Wizard himself as he does
+not like moving up and down the stairs to get to the main dining hall.
+When important guests come, they are usually invited to stay and dine
+with him up here.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">166</Mob>
+      <Mob Area="ocean" Num="1">166</Mob>
+      <Mob Area="ocean" Num="2">166</Mob>
+      <Mob Area="ocean" Num="3">168</Mob>
+      <Mob Area="ocean" Num="4">170</Mob>
+      <Mob Area="ocean" Num="5">168</Mob>
+      <Mob Area="ocean" Num="6">170</Mob>
+      <Mob Area="ocean" Num="7">174</Mob>
+      <Mob Area="ocean" Num="8">174</Mob>
+      <Mob Area="ocean" Num="9">128</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1490</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

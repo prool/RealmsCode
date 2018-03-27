@@ -1,0 +1,13 @@
+Help on DM command:
+	DMFINGER
+
+Dmfinger displays the info page for a player, whether they are logged
+on or not. It also displays the normal 'finger' information, as well
+as what room they are in.
+
+: dmfinger min
+-Min's info page-
+Room Number: 123
+Currently logged on.
+No unread mail since: Wed Jul 31 17:54:05 2002
+

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="5021" Version="2.40" Area="ocean">
+  <Name>Above the Rain Clouds</Name>
+  <ShortDescription>You are high over some rain clouds.  200.n1.e0.s0.w2</ShortDescription>
+  <LongDescription>you can no longer see the ground because of the dark clouds below you.
+At least, however, you can see your direction indicator, and should be able
+to find your way back to Brownhaven.  Now if you can only find a hole in the
+clouds, so you can go down a bit lower to get your bearings.</LongDescription>
+  
+  <Established>772228109</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5027</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5028</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5029</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5014</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

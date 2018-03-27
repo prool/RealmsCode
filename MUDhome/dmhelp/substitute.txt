@@ -1,0 +1,25 @@
+Help on:
+	*<replace | substitute> [-SL#<num>] <search> <replace>
+
+This function will replace text in a room description. If you do not specify
+the short or long description, it will look in both. Note that, without
+deliminators, "search" can only be one word.
+
+
+   *replace this is a long phrase
+
+will replace "this" with "is a long phrase". To be more precise, use a
+deliminator:
+
+
+   *replace "this is" "a long phrase".
+
+You can use quotes ("), and apostraphe ('), or an asterisk (*), but you must
+be consistent about what deliminator you are using.
+
+
+  *replace -#3l "the people" "the monks"
+
+will replace the third occurance of "the people" with "the monks" in the
+long description.
+

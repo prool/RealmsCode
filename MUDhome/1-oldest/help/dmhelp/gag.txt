@@ -1,0 +1,11 @@
+Help on DM command:
+	GAG
+
+Gag will globally gag a character. It acts the same as the player
+command except everybody gags the target.
+
+: *gag min
+*** Min has been globally gagged.
+: *gag min
+Min is no longer globally gagged.
+

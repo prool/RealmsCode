@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="2487" Version="2.40" Area="ocean">
+  <Name>Desolate Corridor</Name>
+  <ShortDescription>You are in a dark, desolate corridor under the giant glacier.</ShortDescription>
+  <LongDescription>The dark corridor runs north and south through the glacier into the
+rocks surrounding it.  The corridor appears to be quite desolate and the
+dust on the ground looks undisturbed.  Who knows what might be hidden
+under the thick dust.</LongDescription>
+  
+  <Established>728453175</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2486</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2488</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

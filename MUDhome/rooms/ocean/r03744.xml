@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="3744" Version="2.40" Area="ocean">
+  <Name>Red Knight's Arena</Name>
+  <ShortDescription>You are in an arena draped with red banners.  You await your test.</ShortDescription>
+  <LongDescription>The Red Knight will try you in the eyes of God.  He has been chosen from
+amongst several who volunteered from the order of red paladin knights who 
+serve God in their fight against the evil that inhabits this land called
+Mordor.  If you are ready, and God has chosen you, you will defeat the
+Red Knight no matter how hard he tries.  He knows that, and wishes you
+the best of luck, but he will fight his hardest.</LongDescription>
+  <LowLevel>7</LowLevel>
+  <HighLevel>7</HighLevel>
+  
+  <Established>766780931</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">572</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3745</Room>
+      <Key>5</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">290</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

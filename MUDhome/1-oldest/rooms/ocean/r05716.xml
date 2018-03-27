@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="5716" Version="2.40" Area="ocean">
+  <Name>Phexton Village Community Warehouse</Name>
+  <ShortDescription>You are in the village warehouse, and see a long hall of locked rooms.</ShortDescription>
+  <LongDescription>There is a wide stairway, with steps so far spaced you would have to hoist
+yourself up to climb them.  There is also a hole in one wall which you
+could probably crawl through.  If it wasn't so big, you would swear it 
+was a mouse hole.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5713</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

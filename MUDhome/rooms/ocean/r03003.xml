@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3003" Version="2.40" Area="ocean">
+  <Name>Southwest Corner of Cellar</Name>
+  <ShortDescription>This is the musty southwest corner of a farmer's large cellar.</ShortDescription>
+  <LongDescription>Old, empty crates are loosely stacked in large piles near the corner here.
+A dextrous adventurer could probably work his way back up through the
+cellar door by carefully scaling the largest stack.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3002</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3004</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3005</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3006</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

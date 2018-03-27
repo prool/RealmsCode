@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="752" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are traveling along Wakeforest Drive, west of the Traveler's Guild.</ShortDescription>
+  <LongDescription>On the east side of the road is the Nowhere Fast Traveler's Guild, where
+every weary traveler should check into before leaving the town.  The
+Guild will carry important information about the conditions of the roads,
+possible ambush points and city status.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">751</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">753</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2316</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

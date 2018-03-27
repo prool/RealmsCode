@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5543" Version="2.40" Area="ocean">
+  <Name>Glabor Gulley Southern Path</Name>
+  <ShortDescription>You are close to the western end of Glabor Gulley, on the southern path.</ShortDescription>
+  <LongDescription>There are many signs of troll activity here, and you see movement down below
+in the center of the gulley where there is a great circular firepit near a 
+stone altar and a busy community area.  There are several cave openings
+farther east on the gulley slope.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5541</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5550</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

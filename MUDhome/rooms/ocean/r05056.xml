@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="5056" Version="2.40" Area="ocean">
+  <Name>High Over Baldywyne River</Name>
+  <ShortDescription>You are riding a dragon who flies over the Baldywyne.  50.n4.e2.s0.w0</ShortDescription>
+  <LongDescription>The great river below you rushes from the mouth of the Tasletek Gorge,
+and rolls south towards the Gotland Glenn.  Eventually, it will pass
+through the village of Brownhaven on its way to the grand city of
+Rhivlintz.  From there, it will empty into the Gulf of Tarquin.</LongDescription>
+  
+  <Established>772228724</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5069</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5035</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5062</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5052</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

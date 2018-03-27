@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1163" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along Overland Drive, south of the Oceancrest Arena.</ShortDescription>
+  <LongDescription>You can hear the cheers and jeers from the large Oceancrest Central Arena
+Complex located to the north.  There are main entrances on both Eidenhoft
+Boulevard and Marina Way.  It is suggested that you first visit the 
+Arena Events and Information Center before heading into the unknown to
+an almost certain death.  The Center is located off of Main Street.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1153</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1164</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

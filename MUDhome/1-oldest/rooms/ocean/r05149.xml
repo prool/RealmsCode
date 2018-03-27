@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<Room Num="5149" Version="2.40" Area="ocean">
+  <Name>Chambers for Kaleigh and Silventh</Name>
+  <ShortDescription>You are in the home-turned-prison for the Witch of Kayleigh and her warlock
+brother, Silventh.</ShortDescription>
+  <LongDescription>In the center of the cluttered room you see an unholy, intense flame,
+ready to spring to full force any moment.  Blue tongues of heat simmer in 
+a silver brazier, and flickering shadows fill the room.  Great black cats
+stalk the room, or lie watchfully in favorite spots.  Some say the witch
+herself was responsible for the fire during the battle with Aphrotine.</LongDescription>
+  
+  <Established>773531356</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="21"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>86400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">672</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">673</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">707</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">707</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">707</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">707</Misc>
+    </LastTime>
+    <LastTime Num="4">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">400</Misc>
+    </LastTime>
+    <LastTime Num="5">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">405</Misc>
+    </LastTime>
+    <LastTime Num="6">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">386</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5148</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

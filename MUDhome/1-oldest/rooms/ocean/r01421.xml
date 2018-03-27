@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1421" Version="2.40" Area="ocean">
+  <Name>Guard and Servant Hallway</Name>
+  <ShortDescription>You are in the main access hallway for the guards and servants.</ShortDescription>
+  <LongDescription>There is a stairway here leading up to the main kitchen.  All the maids
+are rushing around, trying to get the dinner served to the very hungry
+guests.  It's usually not a good idea to make the mages angry and
+hungry mages tend to become angry ones.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">130</Mob>
+      <Mob Area="ocean" Num="1">172</Mob>
+      <Mob Area="ocean" Num="2">130</Mob>
+      <Mob Area="ocean" Num="3">172</Mob>
+      <Mob Area="ocean" Num="4">172</Mob>
+      <Mob Area="ocean" Num="5">130</Mob>
+      <Mob Area="ocean" Num="6">172</Mob>
+      <Mob Area="ocean" Num="7">172</Mob>
+      <Mob Area="ocean" Num="8">172</Mob>
+      <Mob Area="ocean" Num="9">130</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1420</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1422</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1484</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

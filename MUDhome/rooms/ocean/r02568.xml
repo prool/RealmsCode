@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2568" Version="2.40" Area="ocean">
+  <Name>Curator's Office</Name>
+  <ShortDescription>You are in the office of the Curator of the Great Library.</ShortDescription>
+  <LongDescription>The Curator is responsible for all of the books and other research material
+found in this great building.  There is more material to study than any
+single person could ever assimilate, but if anyone has, it is the Curator.</LongDescription>
+  
+  <Established>788565465</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">741</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2507</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

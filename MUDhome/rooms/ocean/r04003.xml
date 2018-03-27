@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="4003" Version="2.40" Area="ocean">
+  <Name>Wind Tunnel</Name>
+  <ShortDescription>You are being swept up a small tunnel by an incredible burst of air.</ShortDescription>
+  <LongDescription>you can't go back below because of the strong blast of wind coming through
+the very small tunnel.  And this is a terrible place to stay, so you might
+as well let the wind carry you to where ever the tunnel ends.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3956</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

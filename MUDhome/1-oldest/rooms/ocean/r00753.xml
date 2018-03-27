@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="753" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive/Lelion Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Wakeforest Drive and Lelion Way.</ShortDescription>
+  <LongDescription>Lelion Way runs east and west out of the intersection with Wakeforest
+Drive, which continues to the north and south.  On both sides to the south
+of the intersection, there is some thick brush that prevents you from
+seeing into what appears to be a small park.  There appear to be a couple
+of shops and facilities to the north along Wakeforest Drive.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">752</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">754</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1337</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1338</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="747" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are traveling along Wakeforest Drive, running north and south.</ShortDescription>
+  <LongDescription>On the east side of the road, you can see the mysterious Dragon's Citadel.
+No one has really had the guts to go into the Citadel for ages, so no
+one really knows what goes on inside the haunted halls of the long
+abandoned old church.  The entrance to the Citadel is located on the
+north side of Neilian Drive.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">746</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">748</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

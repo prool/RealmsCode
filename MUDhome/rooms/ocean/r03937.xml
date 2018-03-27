@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3937" Version="2.40" Area="ocean">
+  <Name>Yab's Sitting Room</Name>
+  <ShortDescription>You are in the sitting room of Yab the Illusionist.</ShortDescription>
+  <LongDescription>Yab is the most powerful of all who have chosen to master the craft of
+illusion.  Others before her time gained power and respect by learning to
+make things appear differently than what they really are.  Yab taught
+Trantori, the High Invoker, how to make the mice at Khallazar's to appear
+as powerful three-headed snakes.  A pillar supports a sparkling amethest.
+Is it an illusion, or is there nothing else here?</LongDescription>
+  <LowLevel>11</LowLevel>
+  <HighLevel>11</HighLevel>
+  
+  <Established>771270264</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training room</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3934</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">3939</Room>
+      <Key>83</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

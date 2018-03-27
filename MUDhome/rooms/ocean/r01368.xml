@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1368" Version="2.40a" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are at a bend in the road where Hofton turns to the west and northeast.</ShortDescription>
+  <LongDescription>Hofton Avenue turns to the southeast as it approaches the Oceancrest 
+Military Headquarters, which you can see to the east.  To the south, you
+can see the East Oceancrest City Guard Barracks, where the guards and
+other personnel are housed.  Much of Oceancrest's economy depends on
+the military force keeping barbarian cultures outside of Oceancrest from
+breaching the city walls. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1367</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1369</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

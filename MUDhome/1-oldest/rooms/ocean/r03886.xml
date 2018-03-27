@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3886" Version="2.40" Area="ocean">
+  <Name>Long Tunnel</Name>
+  <ShortDescription>You are walking in a long tunnel.  Your boots echo in both directions.</ShortDescription>
+  <LongDescription>There are structural signs of some sort of a disaster here.  Great stones
+are dislodged from their normal places, and there are cracks in the floor
+and walls.  It looks as though the temple was shaken by a giant hand.</LongDescription>
+  
+  <Flags>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3885</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3884</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3887</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3894</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

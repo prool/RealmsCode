@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="5074" Version="2.40" Area="ocean">
+  <Name>Skies Over Kista Forest</Name>
+  <ShortDescription>For as far as the eye can see, there is forest.  85.n0.e24.s8.w0</ShortDescription>
+  <LongDescription>The great forest seems to go on and on, but somewhere to the north is
+the city of Kista.  The beautiful towers at Kista are known throughout the
+land.  Looking south, there is a solitary break in the forest where a black
+castle, with a single turreted tower, stands.</LongDescription>
+  
+  <Established>772851013</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5073</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5045</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5077</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5072</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

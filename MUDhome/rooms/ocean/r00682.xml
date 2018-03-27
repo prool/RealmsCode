@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="682" Version="2.47i" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are on Hofton Avenue, between the City Walls and the Evenborough Stables.</ShortDescription>
+  <LongDescription>The City Walls on the north side of the road protect the city from any
+attacks or invasions of virtually any kind.  On the south side of the 
+street, you can see the Evenborough Stables, where visitors are requested
+to leave their horses.  To the west, you can see the intersection with
+Evenborough Way, and the North Entrance to the City.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>west</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">681</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">400</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

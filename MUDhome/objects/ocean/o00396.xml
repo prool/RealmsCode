@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="396" Area="ocean" Version="2.40">
+  <Name>cloud giant morning star</Name>
+  <Adjustment>2</Adjustment>
+  <ShotsMax>125</ShotsMax>
+  <ShotsCur>125</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>4</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">6000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">giant</Key>
+    <Key Num="1">morning</Key>
+    <Key Num="2">star</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="19"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>You see a massive morning star, three times the size of a regular weapon.</Description>
+  <Weight>25</Weight>
+  <Type>5</Type>
+  <SubType>mace</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

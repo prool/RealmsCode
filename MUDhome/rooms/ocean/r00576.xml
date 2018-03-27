@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Room Num="576" Version="2.47i" Area="ocean">
+  <Name>Karlberg Bridge</Name>
+  <ShortDescription>You are on the Karlberg Bridge running across the river Othax.</ShortDescription>
+  <LongDescription>The River Othax is not a very hospitible one, and tends to be the cause
+of many deaths of children who enjoy playing in the rapid waters.  The
+Karlberg Bridge runs across the river along Leviathan Drive.  The bridge
+is very sturdy, but it still is a long way down.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>south</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">575</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">577</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

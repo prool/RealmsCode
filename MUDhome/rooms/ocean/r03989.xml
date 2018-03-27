@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3989" Version="2.40" Area="ocean">
+  <Name>Forest Tunnel</Name>
+  <ShortDescription>You are in a smooth tunnel deep under the Enchanted Forest.</ShortDescription>
+  <LongDescription>The walls are like glass, as though intense heat was used to fuse the earth
+into a bore sighted tunnel.  It runs straight as an arrow from northwest
+to southeast.  Although its not enough light to see by, the walls glow with
+an eerie greenish luminescense.</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3988</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3990</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

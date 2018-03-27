@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="1936" Version="2.40a" Area="ocean">
+  <Name>The Swift Hand</Name>
+  <ShortDescription>You are in the Swift Hand Thieves' Guild in southwestern Oceancrest.</ShortDescription>
+  <LongDescription>This small building houses a small group of pickpockets who will gladly
+fence just about anything you might want to get off your hands quickly
+and without any questions.  The Swift Hand is a low level guild and 
+does not offer too many services to the advanced thief, but caters to
+the rogues of the land.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1937</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1646</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

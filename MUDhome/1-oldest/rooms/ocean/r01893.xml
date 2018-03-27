@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="1893" Version="2.40" Area="ocean">
+  <Name>Unblemished Armor</Name>
+  <ShortDescription>You are in the Unblemished Armor shop in Leonardo's Foundry.</ShortDescription>
+  <LongDescription>Armors are Leonardo's specialty, specifically chain and brigandine.  Chain
+Mail is made of interlocking metalic rings which provide excellent
+protection against enemy swords.  Brigandine mail is similar to chain, 
+but made with light plates of metal rivited in between cloth and leather.
+It provides less protection, but is an inexpensive alternative to chain.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1890</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

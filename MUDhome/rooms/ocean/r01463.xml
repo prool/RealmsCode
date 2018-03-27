@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="1463" Version="2.40" Area="ocean">
+  <Name>Main Hallway</Name>
+  <ShortDescription>You are in the main hallway on the second floor of the palace.</ShortDescription>
+  <LongDescription>The main hallway is primarily used by the maids and chefs to bring food
+to the lounge and recreation rooms.  Guests are welcome to come up and
+look around.  There are guest quarters on the west side of the second
+floor and the balcony is to the north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">174</Mob>
+      <Mob Area="ocean" Num="1">174</Mob>
+      <Mob Area="ocean" Num="2">174</Mob>
+      <Mob Area="ocean" Num="3">174</Mob>
+      <Mob Area="ocean" Num="4">130</Mob>
+      <Mob Area="ocean" Num="5">130</Mob>
+      <Mob Area="ocean" Num="6">130</Mob>
+      <Mob Area="ocean" Num="7">166</Mob>
+      <Mob Area="ocean" Num="8">166</Mob>
+      <Mob Area="ocean" Num="9">167</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1459</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1462</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1464</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

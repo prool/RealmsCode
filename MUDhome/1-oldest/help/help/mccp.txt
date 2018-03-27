@@ -1,0 +1,21 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  MCCP           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Mud Client Compression Protocol v2
+
+Mccp is a protocol which transparently compresses output to players. On a
+supported client it should be automaticaly enabled. If you wish for some reason
+to turn it off, or turn it on, simply type "mccp" at the prompt to toggle it. If
+it is off and your client supports it, it will attempt to enable it. You can
+check the status of it by typing score. Realms currently supports version2 of
+protocol.
+
+Zmud 6.06+ supports it, as well as several other clients. Mccp should help
+reduce apparent lag to people, because we're sending less text at a time.
+
+For more info see:
+   http://www.randomly.org/projects/MCCP/index.html
+
+For a list of clients supporting mccp:
+   http://www.randomly.org/projects/MCCP/clients.html

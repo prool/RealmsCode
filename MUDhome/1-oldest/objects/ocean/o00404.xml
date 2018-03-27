@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="404" Area="ocean" Version="2.40">
+  <Name>dagger of impaling</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>120</ShotsMax>
+  <ShotsCur>120</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>4</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">7500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">impaling</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="21"/>
+  </Flags>
+  <Description>You see a strangely carved dagger ideal for backstabbing.</Description>
+  <Weight>3</Weight>
+  <Type>5</Type>
+  <SubType>dagger</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

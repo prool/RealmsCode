@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1934" Version="2.40" Area="ocean">
+  <Name>The Red Training Room</Name>
+  <ShortDescription>You are in the red training room in Rudolph's Fighting Academy.</ShortDescription>
+  <LongDescription>Congratulations!  You have advanced to the highest rank of Warrior, which 
+is Warrior, First Class.  Your skills have advanced beyond the training
+capabilities of this facility.  When you are ready to advance again, please 
+consult Roland's Royal Fighting Academy on Nissiau Lane.</LongDescription>
+  <LowLevel>5</LowLevel>
+  <HighLevel>5</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1928</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

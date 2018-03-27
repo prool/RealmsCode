@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1806" Version="2.40" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are walking along Golden Dolphin Way, north of the City Walls.</ShortDescription>
+  <LongDescription>The Dentra Central Archery Range is located on the north side of the road.
+Unfortunately, you are standing behind the targets.  However, since the
+range you are standing behind is for advanced archers, it is unlikely that
+they will miss their targets.  On the south side of the road, you can see
+the City Walls as they merge into the South Oceancrest Observational
+Station.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1807</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1738</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

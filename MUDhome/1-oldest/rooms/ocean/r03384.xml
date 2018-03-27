@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3384" Version="2.40" Area="ocean">
+  <Name>Sage's Rest Entrance</Name>
+  <ShortDescription>The entrance to the Sage's Rest is a descent into darkness.</ShortDescription>
+  <LongDescription>Somber looking sentinels stand a patient watch over the black entrance.
+Looking down, you see there are no stairs in the entry, but instead there
+is simply a dark hole in the ground.  Light does not seem to penetrate
+very far into the entrance.</LongDescription>
+  
+  <Established>759886674</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">528</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3336</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3385</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+        <Bit Num="9"/>
+        <Bit Num="18"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5536" Version="2.40" Area="ocean">
+  <Name>Nyyron Trail</Name>
+  <ShortDescription>You are on the northern Nyrron trail, walking beside the Nyyron Creek. </ShortDescription>
+  <LongDescription>To the south the trail continues out of sight around a great boulder, while
+to the north you see a recent avalanch has wiped out part of the path.  The
+mountain sides here are steep and rugged, and slides occur often.  If you
+follow the creek, however, it should take you back to the trail.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5535</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="creek">
+      <Keys/>
+      <Room Area="ocean">5537</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

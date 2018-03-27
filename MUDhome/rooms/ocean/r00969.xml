@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="969" Version="2.40" Area="ocean">
+  <Name>The Widow Maker - Below Deck</Name>
+  <ShortDescription>You are down on the lower deck of the pirate ship Widow Maker.</ShortDescription>
+  <LongDescription>This is not a good place to be if you get sea sick often.  The continuous
+rocking of the boat, even in the Nylandian Bay, makes walking tough and
+keeping your lunch down even tougher.  There is a stairway that leads up
+to the main deck and the hallway continues to the north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">955</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">970</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="port door">
+      <Keys/>
+      <Room Area="ocean">973</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">2322</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

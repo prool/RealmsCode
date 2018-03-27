@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="5477" Version="2.40" Area="ocean">
+  <Name>Castle Slide</Name>
+  <ShortDescription>You are at the bottom of a wild slide which starts at the castle gate.</ShortDescription>
+  <LongDescription>The slide is so slick that you cannot possibly go up, but there is always
+the road.  This place provides you with a good place to stay out of the
+the rain and snow, however.  You can see the east side of the guard barracks
+from here.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5476</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="919" Version="2.40" Area="ocean">
+  <Name>Reclaimation Center</Name>
+  <ShortDescription>You are in a rather sophisticated refuse management facility.</ShortDescription>
+  <LongDescription>As you enter the center, you first notice how clean it is.  It still
+smells, of course, but no where near as bad as Brownhaven.  As you drop
+items in the reclaimation center, it returns money, in appreciation of
+not just dumping your junk in the mountains somewhere.  On the wall
+you see a sign which says "Thank You For Recycling - Have a Nice Day".</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="6"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">920</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">916</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

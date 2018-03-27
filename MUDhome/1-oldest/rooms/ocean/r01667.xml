@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1667" Version="2.40" Area="ocean">
+  <Name>Appleton Road</Name>
+  <ShortDescription>Appleton Road runs diagonally through the southern part of town.</ShortDescription>
+  <LongDescription>One of the few roads in Oceancrest that run diagonally through the town
+is Appleton Road, which were created more or less for convinience before
+the city planners decided to limit and prevent the further development of
+skewed roads that deviated from the strict, grid-like pattern of the 
+city's roads.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1666</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1612</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

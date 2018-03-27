@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="354" Area="ocean" Version="2.40">
+  <Name>iron spear</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>75</ShotsMax>
+  <ShotsCur>75</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>4</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">250</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">spear</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="21"/>
+  </Flags>
+  <Description>You see an iron spear which appears to be glowing faintly.</Description>
+  <UseOutput>The spear is warm to the touch.</UseOutput>
+  <Weight>1</Weight>
+  <Type>5</Type>
+  <SubType>spear</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

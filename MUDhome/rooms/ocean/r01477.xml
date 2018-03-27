@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1477" Version="2.40" Area="ocean">
+  <Name>Guest Lounge</Name>
+  <ShortDescription>You are in the plush guest lounge where the dignitaries relax.</ShortDescription>
+  <LongDescription>The lounge is primarily a private meeting room next to the guest 
+quarters.  The two doors to the south lead to individual guest rooms
+where the dignitaries and other people of importance can remain for
+the night.  Many visitors prefer to meet up here as the atmosphere
+is much more private.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">166</Mob>
+      <Mob Area="ocean" Num="1">166</Mob>
+      <Mob Area="ocean" Num="2">166</Mob>
+      <Mob Area="ocean" Num="3">166</Mob>
+      <Mob Area="ocean" Num="4">166</Mob>
+      <Mob Area="ocean" Num="5">167</Mob>
+      <Mob Area="ocean" Num="6">167</Mob>
+      <Mob Area="ocean" Num="7">168</Mob>
+      <Mob Area="ocean" Num="8">168</Mob>
+      <Mob Area="ocean" Num="9">170</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>hallway</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="hallway">
+      <Keys/>
+      <Room Area="ocean">1465</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1479</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1480</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3667" Version="2.40" Area="ocean">
+  <Name>Old Tunnel</Name>
+  <ShortDescription>You are in a narrow tunnel that is no longer used by the castle's people.</ShortDescription>
+  <LongDescription>This is usually referred to as the old tunnel, when people talk about it,
+but most people have forgotten it is even here.  The door to the west is
+broken and hangs partially open, while to the east a huge grey stone has
+fallen from the ceiling and blocks the way.  Cobwebs cover everything and
+the dust makes you sneeze.   There doesn't seem to be anything of interest
+here except some sort of crytogram scratched on the wall.</LongDescription>
+  
+  <Established>765135685</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">719</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3666</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3645</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

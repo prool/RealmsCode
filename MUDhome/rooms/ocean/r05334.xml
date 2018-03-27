@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5334" Version="2.40" Area="ocean">
+  <Name>Lyanden Road/Gulley</Name>
+  <ShortDescription>You are in a gulley which a stream of water has cut across the road.</ShortDescription>
+  <LongDescription>The stream flows from the Enchanted Forest on the north side and has cut
+the road on its way to the desert on the south side.  Within a few meters,
+the water disappears into a great sinkhole in the desert floor.  The stream
+swirls violently with a loud roar before going under the sand.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5333</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5335</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

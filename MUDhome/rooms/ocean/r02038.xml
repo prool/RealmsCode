@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="2038" Version="2.40" Area="ocean">
+  <Name>Alturis Road/Charybdis Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Charybdis Way, going north from here,
+and Alturis Road, running east to west.  The Gardens are to the south.</ShortDescription>
+  <LongDescription>The Hanging Gardens of Kista are perhaps the most impressive monument
+to any person ever built.  The giant monument has three levels and looks
+like a great fountain with exotic plants and trees growing wherever there
+is room.  The base of the monument is almost completely made of gold with 
+scattered bits of platinum and silver to give it some contrast.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2037</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2505</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2522</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

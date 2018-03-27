@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="47" Version="2.40" Area="ocean">
+  <Name>Caledonia Road/Main Street</Name>
+  <ShortDescription>You are at the intersection of Caledonia Road and Main Street.</ShortDescription>
+  <LongDescription>Main Street is a commercial district where you might find just about
+anything for sale.  Looking for armor or perhaps a good horse?  Or perhaps
+you would like to buy an enchanted staff?  all of its available somehwere
+along Main Street.  There is a bazaar that takes place during the summer
+months that attracts visitors even from the sophisticated cities of Kista
+and Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">48</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">46</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">37</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">57</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1791" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are on Hillcrest Drive, north of the Allakaren Pyramid.</ShortDescription>
+  <LongDescription>The impressive Allakaren Pyramid is almost directly to the south of you.
+It has been said that the Pyramid is quite haunted, but that hasn't stopped
+archeologists from exploring the caverns in great detail over the many
+centuries the Pyramid has been standing.  No doubt looters have already
+taken most of the valuables within the Pyramid.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1790</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1792</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

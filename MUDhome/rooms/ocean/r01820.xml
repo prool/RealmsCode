@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1820" Version="2.40" Area="ocean">
+  <Name>The Barbarian's Trading Post</Name>
+  <ShortDescription>You are in a small pit where a number of goods may be purchased.</ShortDescription>
+  <LongDescription>It is very rare that barbarians have money, but occasionally, they will
+require new or more improved stuff.  So when they do come into some
+unforseen wealth, they will come here to purchase just about anything
+they need.  The Post also sells a number of trinkets and other useful
+junk that might have some use outside the Barbarian Pits.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1828</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1834</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

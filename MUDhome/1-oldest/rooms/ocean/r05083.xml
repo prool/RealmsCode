@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="5083" Version="2.40" Area="ocean">
+  <Name>Nartiz Ror</Name>
+  <ShortDescription>You are over a rocky arm of the Nartiz Mountain Range.  100.n0.e1.s2.w0</ShortDescription>
+  <LongDescription>The area below is hot and covered with jagged rocks, and there is no ground
+cover.  The only life you see are a few reptiles.  Hard to determine how
+big they are from this height, from the back of a dragon.  Brownhaven is 
+to the north.</LongDescription>
+  
+  <Established>773018002</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5051</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,39 @@
+Help on DM command:
+        *unique
+
+Uniques are items which are limited as to the number that can be in the game
+at any given time. This command allows you to modify the unique-ness of an
+object.
+
+^W*unique ^e<^Wlist^e> [^cnum^e]^x
+   Lists all unique items in memory. When supplied with a number, it shows more
+   information about a specific unique item group.
+
+
+^W*unique ^e<^cobject^e>^x
+   Displays info about an object.
+
+^W*unique ^e<^cobject^e> <^Wcreate^e>^x
+   Turns the object into a unique object in it's own group.
+
+^W*unique ^e<^cobject^e> <^Wadd^e> [^cnum^e]^x
+   Turns the object into a unique object and adds it to an existing group.
+
+
+^W*unique ^e<^Wset^e> <^cnum^e> <^c...^e>^x
+   Modifies a setting on a unique object group.
+
+      ^e<^Wgloballimit^e> -^x how many objects in this group can be in game.
+      ^e<^Wplayerlimit^e> -^x how many objects in this group a single player can have.
+      ^e<^Wdecay^e>       -^x how many game days until this object starts to decay.
+      ^e<^Wmax^e>         -^x how many game days after decay has started until there is
+                      a 100% chance the object will decay (0 = instantaneous).
+      ^e<^carea.###^e>^x:
+                  ^e<^Wlimit^e> -^x how many of this item can be in game
+
+^mNote:^x Type ^W*dmh time^x to compare game time to real time.
+
+^W*unique ^e<^cobject^e> <^Wdelete^e>^x
+   Removes the object's unique item status. If any unique item groups existed
+   where this was the only object, they will be deleted.
+

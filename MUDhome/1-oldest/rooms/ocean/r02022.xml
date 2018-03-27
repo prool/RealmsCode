@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="2022" Version="2.40" Area="ocean">
+  <Name>Tiamat Lane/Commerce Street Intersection</Name>
+  <ShortDescription>You are on Tiamat Lane, at the entrance to the Great Observatory.</ShortDescription>
+  <LongDescription>There is a small street to the south which is called Commerce Street.
+A number of book dealers have opened up there to sell various books
+to travelers.  To the north, you see the great doors of the equally
+Great Observatory. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">201</Mob>
+      <Mob Area="ocean" Num="1">202</Mob>
+      <Mob Area="ocean" Num="2">201</Mob>
+      <Mob Area="ocean" Num="3">202</Mob>
+      <Mob Area="ocean" Num="4">203</Mob>
+      <Mob Area="ocean" Num="5">204</Mob>
+      <Mob Area="ocean" Num="6">206</Mob>
+      <Mob Area="ocean" Num="7">207</Mob>
+      <Mob Area="ocean" Num="8">208</Mob>
+      <Mob Area="ocean" Num="9">205</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2021</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2502</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2023</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="doors">
+      <Keys/>
+      <Room Area="ocean">2552</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

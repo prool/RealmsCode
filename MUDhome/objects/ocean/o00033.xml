@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="33" Area="ocean" Version="2.40">
+  <Name>nunchukus</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>40</ShotsMax>
+  <ShotsCur>40</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>2</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">170</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+  </Flags>
+  <Weight>4</Weight>
+  <Type>5</Type>
+  <SubType>polearm</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

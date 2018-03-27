@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2324" Version="2.40" Area="ocean">
+  <Name>House of Hides</Name>
+  <ShortDescription>You are in a shop which caters to magicians, wizards and mages for armor.</ShortDescription>
+  <LongDescription>Metal shields and armor interfere with the casting of magic spells, making
+it difficult for masters of the occult to find decent armor.  The House of
+Hides prides itself on being able to produce leather armor and leather
+shields which are almost the equal of the best metal armor.  Such equipment
+is not cheap, however, and because the leather is strengthened with magic
+it cannot be repaired by the various repair shops around town.</LongDescription>
+  
+  <Established>766173775</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2307</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

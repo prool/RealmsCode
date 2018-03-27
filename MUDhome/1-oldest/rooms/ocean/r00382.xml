@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="382" Version="2.40" Area="ocean">
+  <Name>Orchard Lane</Name>
+  <ShortDescription>You are walking along Orchard Lane, north of Oolan's Armory Shop.</ShortDescription>
+  <LongDescription>Oolan's Armory specializes in unique and interesting armors that may 
+not be common in other parts of town.  Most of these armors are not out
+of the ordinary, but usually tend to last longer than conventional 
+leather or chain armors.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">381</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1307</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

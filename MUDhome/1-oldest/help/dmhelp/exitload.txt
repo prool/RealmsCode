@@ -1,0 +1,8 @@
+Help on DM command:
+	EXITLOAD
+
+Restores all exits to the room if they've previous been deleted.
+
+: *exitload
+Exits reloaded. (Check *log for errors)
+

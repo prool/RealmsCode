@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1715" Version="2.40" Area="ocean">
+  <Name>Melbourne Avenue</Name>
+  <ShortDescription>You are on Melbourne Avenue between a number of small shops beside the road.</ShortDescription>
+  <LongDescription>There is a large building on the west side of the road.  To the south is
+the Medical Supplies shop and to the north is the Leather Armory.  This
+being the poorer part of town, most of the armor sold there is relatively
+inexpensive.  On the east side of the road are a number of small buildings.
+Directly to the east is Ian's Fletchery, where bows are made and repaired.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1716</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1714</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

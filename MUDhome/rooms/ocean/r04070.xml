@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="4070" Version="2.41a" Area="ocean">
+  <Name>Steep Path</Name>
+  <ShortDescription>You are on a steep path above the North Highway, west of the Barbarian Pits.</ShortDescription>
+  <LongDescription>As you look below you, you see that rocks and boulders have been rolled
+across the King's North Highway.  It's evident, though, that road crews
+have been working on the problem, as you can see where they have setup
+a camp and have brought in equipment to clear the road.  To the west is 
+an icy path, leading to a cold looking mountain.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3849</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4071</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4073</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room Num="1775" Version="2.47i" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are traveling along Netherworld Lane, north of the Riverdell Park.</ShortDescription>
+  <LongDescription>The Riverdell Tranquility Park, aptly named, is one of the quieter, more
+peaceful parks in the city, primarily because it is so large.  There is 
+more than enough room in the park for everyone's interests without having
+to bother someone else.  The park is also used to train Rangers in the ways
+of tracking and searching in the woods, without having to actually leave
+the safety of Oceancrest.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>east</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">1718</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1776</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

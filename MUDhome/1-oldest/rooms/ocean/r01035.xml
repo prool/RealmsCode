@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1035" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive</Name>
+  <ShortDescription>You are on Oceanview Drive, running through the Administrative section.</ShortDescription>
+  <LongDescription>There are two large buildings taking up and entire block on both the
+east and west sides of the road.  On the east side is the city guard
+barracks and offices.  On the west is the Oceancrest Detention and 
+Correctional Facility.  There are no doors or other entrances on this
+side of both of these buildings.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1034</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1036</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

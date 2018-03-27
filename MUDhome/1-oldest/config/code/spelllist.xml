@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Spells>
+        <Spell>
+                <Name>Bane</Name>
+                <File>bane.xml</File>
+                <Priority>100</Priority>
+                <Description>p0wnage</Description>
+                <Script>import mudLib
+actor.send("Hi " + actor.getName() + " you are in room [" + actor.getRoom().getName() +"] (" + args + ")\n")
+toKill = actor.getRoom().findCreature(actor, args)
+
+if not actor.checkMp(25):
+	raise Exception('out of mana')
+
+if toKill is None:
+	actor.send("Could not find '" + args + "'\n")
+	raise Exception('target not found')
+else:	
+	actor.send("Found: " + toKill.getName() + "\n")
+
+num = min(actor.mp.getCur()/2, actor.getLevel()/2)
+
+actor.send("Casting (" + str(num) + ") magic missiles on " + toKill.getName() + "\n")
+</Script>
+        </Spell>
+</Spells>

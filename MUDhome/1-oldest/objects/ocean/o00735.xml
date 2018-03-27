@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="735" Area="ocean" Version="2.40">
+  <Name>mage's red cape</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Armor>13</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">red</Key>
+    <Key Num="1">cape</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="36"/>
+  </Flags>
+  <Description>The cape is blood red, and warm to the touch.  Only mages may wear it.</Description>
+  <UseOutput>Your brothers will know you by the color of your cape.</UseOutput>
+  <Weight>3</Weight>
+  <Type>6</Type>
+  <SubType>cloth</SubType>
+  <WearFlag>4</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2848" Version="2.40a" Area="ocean">
+  <Name>Crimson Hallway</Name>
+  <ShortDescription>You are walking around a corner in the long crimson hallway.</ShortDescription>
+  <LongDescription>The crimson hallway heads east and south from this corner.  The shimmering
+ice and light from throughout the glacier shines through the magnificent
+hallway producing a powerful crimson aura.  You can here more distinct
+voices to the south.</LongDescription>
+  
+  
+  
+  <Established>729229089</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2847</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2849</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

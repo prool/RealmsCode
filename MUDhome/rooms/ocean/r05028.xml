@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="5028" Version="2.40" Area="ocean">
+  <Name>Rain Storm</Name>
+  <ShortDescription>You are flying near the edge of a fast moving storm.  180.n1.e0.s0.w5</ShortDescription>
+  <LongDescription>You can't see anything on the ground, nor can you see anything in the sky
+around you.  The copper dragon is getting uneasy in the rain storm, and you
+can tell she wants to get out of it.</LongDescription>
+  
+  <Established>772228241</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5200</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5200</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5027</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5199</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

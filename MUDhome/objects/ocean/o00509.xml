@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="509" Area="ocean" Version="2.40">
+  <Name>beautiful waterlily dress</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>12</ShotsMax>
+  <ShotsCur>12</ShotsCur>
+  <Armor>35</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">120</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">waterlily</Key>
+    <Key Num="1">dress</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="20"/>
+    <Bit Num="26"/>
+  </Flags>
+  <Description>It shines in the sun, made of silk and ornamented with fresh waterlilies.</Description>
+  <UseOutput>What would your mother say, it is cut above your knees!</UseOutput>
+  <Weight>3</Weight>
+  <Type>6</Type>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

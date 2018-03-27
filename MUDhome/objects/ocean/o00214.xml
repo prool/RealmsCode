@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="214" Area="ocean" Version="2.40">
+  <Name>woodland's staff</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>3</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">12500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">staff</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Description>You see the mighty staff of the Grand Druid of Darmok.</Description>
+  <Weight>8</Weight>
+  <Type>5</Type>
+  <SubType>staff</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

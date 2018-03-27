@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="707" Area="ocean" Version="2.40">
+  <Name>tongues of fire</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>12</ShotsMax>
+  <ShotsCur>12</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">fire</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="11"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+    <Bit Num="36"/>
+  </Flags>
+  <Description>Cool to the touch, the tiny flame radiates an intense heat.</Description>
+  <UseOutput>The evil power of Kayleigh burns in your hand!</UseOutput>
+  <Weight>1</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>41</MagicPower>
+  <InBag/>
+</Object>

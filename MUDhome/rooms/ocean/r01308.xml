@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1308" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are traveling along Riverdell Way, west of Oolan's Armory.</ShortDescription>
+  <LongDescription>Oolan's Armory is like every other armory in town, but specializes in
+exotic leather items such as dragon's leather and shark leather.  The
+fancy leathers are not without a cost, though, and they seldom last much
+longer than standard leather armors, if even that long.  They do make
+a good fashion statement, though, and occasionally Oolan has some really
+durable stuff.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1307</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1309</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

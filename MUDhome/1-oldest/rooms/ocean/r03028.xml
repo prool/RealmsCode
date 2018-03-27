@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="3028" Version="2.40a" Area="ocean">
+  <Name>Altar of Maglubyet</Name>
+  <ShortDescription>This is the large altar dedicated to Maglubyet and maintained by the priests.</ShortDescription>
+  <LongDescription>Only a few select goblins are ever allowed in here, and no outsider has
+ever lived to leave this room.  A blood altar stands ready for its next
+victim.  A low, stone table is near the altar, and its top is covered with
+various small hand instruments of vivisection.  As you look closely at the
+altar you see it has straps to hold the victim in place, and a silver urn
+to collect the blood.</LongDescription>
+  
+  <Established>761563710</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">504</Mob>
+      <Mob Area="ocean" Num="1">504</Mob>
+      <Mob Area="ocean" Num="2">503</Mob>
+      <Mob Area="ocean" Num="3">503</Mob>
+      <Mob Area="ocean" Num="4">503</Mob>
+      <Mob Area="ocean" Num="5">509</Mob>
+      <Mob Area="ocean" Num="6">510</Mob>
+      <Mob Area="ocean" Num="7">510</Mob>
+      <Mob Area="ocean" Num="8">511</Mob>
+      <Mob Area="ocean" Num="9">506</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3027</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="curtain">
+      <Keys/>
+      <Room Area="ocean">3029</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="trap">
+      <Keys/>
+      <Room Area="ocean">3049</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

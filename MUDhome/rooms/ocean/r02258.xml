@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="2258" Version="2.41a" Area="ocean">
+  <Name>The Dragon's Claw Tavern and Grill</Name>
+  <ShortDescription>You are in one of the nicer bars in the southeastern section of town.</ShortDescription>
+  <LongDescription>The Dragon's Claw Tavern and Grill provides a good meal at a good price
+with all the ale you can drink.  The grill is located outside the bar,
+and serves steaks, venison and other meats from all over the land.  This
+is a good place to meet people and have a bite to eat.  Numerous people
+wander in and out of here, going about their own business.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>18</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">4</Mob>
+      <Mob Area="ocean" Num="1">6</Mob>
+      <Mob Area="ocean" Num="2">9</Mob>
+      <Mob Area="ocean" Num="3">8</Mob>
+      <Mob Area="ocean" Num="4">61</Mob>
+      <Mob Area="ocean" Num="5">62</Mob>
+      <Mob Area="ocean" Num="6">64</Mob>
+      <Mob Area="ocean" Num="7">201</Mob>
+      <Mob Area="ocean" Num="8">205</Mob>
+      <Mob Area="ocean" Num="9">205</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1705</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

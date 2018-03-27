@@ -1,0 +1,23 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  saving throws      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Saving throw resistances allow you to avoid all kinds of obstacles. There are
+five saving throws, or "saves" for short, and they can be found by using the
+score command. When you succeed a save, you take less damage than you normally
+would. For example, if you succeed a spell save, you only take half damage from
+the cast. Succeeding a trap save allows you to partially or even completely
+avoid a trap. There are many other ways saves can be useful, so it is in your
+best interest to try to raise them.
+
+Saves can be increased by practice. Using the previous examples, getting cast
+on a lot can increase your spells save, and falling into a lot of traps can
+increase your death/traps save. Starting with the seventh level, you may
+raise each of your saves 5 times. Leveling up also gives you an increase in
+one save, which depends on your class and level. Each save may be increased
+once every 60 seconds. This policy is in place to prevent trap abuse.
+
+Your saving throw resistance ranges on a scale from Normal to Immune. Note
+that being Immune does not actually mean you are invulnerable, since other
+factors, such as the stats of your character and your enemy, may also factor
+into your chance to save.

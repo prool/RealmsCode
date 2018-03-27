@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  thunderbolt spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 25
+School:  Evocation
+Domain:  Destruction
+
+This spell causes a massive bolt of electricty and sound to slam into the
+target, knocking them back. A thunderclap goes off in the immediate area,
+slamming harmfully into the target's eardrums, sometimes causing them to bleed
+out of their ears. In addition, the target is often killed due to massive
+electrical burns and nervous system disruption.
+
+Syntax:
+cast thunderbolt <target>

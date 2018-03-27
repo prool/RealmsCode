@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3776" Version="2.40" Area="ocean">
+  <Name>Cypress Grove</Name>
+  <ShortDescription>You are in a grove of cypress trees near the edge of the Lithium Inlet.</ShortDescription>
+  <LongDescription>The trees are old, and moss hangs from them in green tendrils, gently
+swaying in the breeze.  Underneath your feet is a carpet of long dead 
+moss, making it impossible to hear even your own footsteps.  The hanging
+moss makes it difficult to see very far, even though you know the woods
+are not very deep.   There is a cliffside to the south.  The walkway
+continues to the east and west.</LongDescription>
+  
+  <Established>766087948</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3775</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3777</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="705" Area="ocean" Version="2.40">
+  <Name>crystalline battle hood</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>10</ShotsMax>
+  <ShotsCur>10</ShotsCur>
+  <Armor>57</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">4250</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">battle</Key>
+    <Key Num="1">hood</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="5"/>
+  </Flags>
+  <Description>This hood is constructed from a crystal which seems to glow with life.</Description>
+  <UseOutput>The hood resonates a terrible sound to those around you.</UseOutput>
+  <Weight>8</Weight>
+  <Type>6</Type>
+  <SubType>plate</SubType>
+  <WearFlag>7</WearFlag>
+  <InBag/>
+</Object>

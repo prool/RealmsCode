@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3602" Version="2.40a" Area="ocean">
+  <Name>Castle Arch</Name>
+  <ShortDescription>You are standing in a great hallway, under the massive arch of Castle Ragnar.</ShortDescription>
+  <LongDescription>The corridor is a north-south connection between the castle's courtyard and
+the great gate at the drawbridge.  Directly south is a busy intersection
+where the corridor seems to widen before leading to the courtyard.  There
+is a cross corridor in that direction.  As you look about you, you realize
+that each stone in the arch overhead must weigh at least six tons.  What a
+marvel of construction is this castle.</LongDescription>
+  
+  
+  
+  <Established>762644510</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">13</Mob>
+      <Mob Area="ocean" Num="1">13</Mob>
+      <Mob Area="ocean" Num="2">13</Mob>
+      <Mob Area="ocean" Num="3">15</Mob>
+      <Mob Area="ocean" Num="4">9</Mob>
+      <Mob Area="ocean" Num="5">5</Mob>
+      <Mob Area="ocean" Num="6">5</Mob>
+      <Mob Area="ocean" Num="7">198</Mob>
+      <Mob Area="ocean" Num="8">206</Mob>
+      <Mob Area="ocean" Num="9">208</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>corridor</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">3601</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="corridor">
+      <Keys/>
+      <Room Area="ocean">3604</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

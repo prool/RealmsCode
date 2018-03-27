@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<Creature Num="738" Area="ocean" Version="2.40">
+  <Name>dirty begger</Name>
+  <Level>2</Level>
+  <Type>1</Type>
+  <Experience>15</Experience>
+  <Coins>
+    <Coin Num="2">30</Coin>
+  </Coins>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>20</Current>
+      <Max>20</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>He hasn't bathed in weeks, and stares at you with his one good eye.</Description>
+  <Keys>
+    <Key Num="0">begger</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>75</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>1</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>do ye have some gold for an old adventurer?  I was once as you are now.</Talk>
+  <DefenseSkill>15</DefenseSkill>
+  <AttackPower>120</AttackPower>
+  <WeaponSkill>15</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">59</Carry>
+    <Carry Area="ocean" Num="1">59</Carry>
+    <Carry Area="ocean" Num="2">59</Carry>
+    <Carry Area="ocean" Num="3">59</Carry>
+    <Carry Area="ocean" Num="4">59</Carry>
+    <Carry Area="ocean" Num="5">59</Carry>
+    <Carry Area="ocean" Num="6">59</Carry>
+    <Carry Area="ocean" Num="7">59</Carry>
+    <Carry Area="ocean" Num="8">59</Carry>
+    <Carry Area="ocean" Num="9">59</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

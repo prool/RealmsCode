@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3770" Version="2.40" Area="ocean">
+  <Name>Park Path</Name>
+  <ShortDescription>You are on a park path near the northwestern end of Lelion Beach and Park.</ShortDescription>
+  <LongDescription>The path is steep at this particular point, and looking down you can see
+the Lithium Inlet as it empties into the north end of Nylandian Bay.  
+Perhaps five meters above you is the top of the path which disappears
+over the rim of the cliff there.  There is an extremely bright light
+coming from just over the top of the cliff.</LongDescription>
+  
+  <Established>766010908</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3799</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3771</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

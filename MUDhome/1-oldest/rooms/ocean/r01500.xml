@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="1500" Version="2.40" Area="ocean">
+  <Name>Outside Brownhaven Gate</Name>
+  <ShortDescription>To the east lies the town the bustling community of Brownhaven.</ShortDescription>
+  <LongDescription>A large gate, watched by guards leads into the town to the east,
+and the wide path continues westward toward Lake Kellevah.  You
+can see the masts of several ferry-boats even from here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">40</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1502</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

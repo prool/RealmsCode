@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1408" Version="2.40" Area="ocean">
+  <Name>Passage to the Greenhouse</Name>
+  <ShortDescription>You are in a small, glass hallway leading into the Greenhouse.</ShortDescription>
+  <LongDescription>This remarkably modern hallway allows you to look out at the mountains
+of Eeste Island as you approach the Greenhouse.  It also leads back to
+the main lounge where a number of people are socializing.  The 
+greenhouse is filled with a lot of interesting and unusual plants.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1407</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1409</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

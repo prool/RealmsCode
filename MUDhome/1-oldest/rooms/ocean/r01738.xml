@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1738" Version="2.40" Area="ocean">
+  <Name>Riverdell Way/Golden Dolphin Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Riverdell Way and Golden Dolphin Way.</ShortDescription>
+  <LongDescription>Golden Dolphin Way runs west from here, running parallel to the City 
+Walls on the south side of the road.  Riverdell Way runs north through
+the main parts of the city.  To the south, you can see the South 
+Oceancrest Observational Station, a large guard station at the southern
+end of the city.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1806</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1737</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

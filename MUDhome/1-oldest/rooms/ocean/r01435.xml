@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="1435" Version="2.40" Area="ocean">
+  <Name>Prison Cell</Name>
+  <ShortDescription>You are locked inside a prison cell somewhere inside the palace.</ShortDescription>
+  <LongDescription>This prison is pretty small compared to the others you have been
+unfortunate enough to be locked into.  The food is descent so most
+of the people aren't complaining, or so the guards would have you
+believe.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">158</Mob>
+      <Mob Area="ocean" Num="1">158</Mob>
+      <Mob Area="ocean" Num="2">158</Mob>
+      <Mob Area="ocean" Num="3">157</Mob>
+      <Mob Area="ocean" Num="4">158</Mob>
+      <Mob Area="ocean" Num="5">157</Mob>
+      <Mob Area="ocean" Num="6">158</Mob>
+      <Mob Area="ocean" Num="7">157</Mob>
+      <Mob Area="ocean" Num="8">158</Mob>
+      <Mob Area="ocean" Num="9">158</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>crawlspace</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="cell door">
+      <Keys/>
+      <Room Area="ocean">1434</Room>
+      <Key>21</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="crawlspace">
+      <Keys/>
+      <Room Area="ocean">1436</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

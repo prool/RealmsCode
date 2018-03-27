@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="2124" Version="2.40" Area="ocean">
+  <Name>Milsene Museum Forest Exhibit</Name>
+  <ShortDescription>You are in a larger hallway that continues to the east.  There is an
+exhibit here on the wonders of the forest and the magic that inhabits it.</ShortDescription>
+  <LongDescription>The large hall is filled with trees and shrubs which delicately cover the
+grey walls of the Museum.  There are a number of exhibits here showing
+scenes from the Enchanted Forest.  The area has tree sprites and dryads
+and other magical, mystical creatures who may be found in the Enchanted
+Forest.  Of course, if you would like to see them in their natural setting,
+you should consider an adventureous trip to the forest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">60</Mob>
+      <Mob Area="ocean" Num="1">51</Mob>
+      <Mob Area="ocean" Num="2">116</Mob>
+      <Mob Area="ocean" Num="3">117</Mob>
+      <Mob Area="ocean" Num="4">121</Mob>
+      <Mob Area="ocean" Num="5">123</Mob>
+      <Mob Area="ocean" Num="6">185</Mob>
+      <Mob Area="ocean" Num="7">536</Mob>
+      <Mob Area="ocean" Num="8">190</Mob>
+      <Mob Area="ocean" Num="9">535</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2122</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2125</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

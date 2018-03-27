@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="872" Version="2.47e" Area="ocean">
+  <Name>Gypsy Camp</Name>
+  <ShortDescription>You are in a gypsy camp located in a broad clearing in a grove of trees.</ShortDescription>
+  <LongDescription>A large campfire burns brightly in the center of the camp, and a group
+of dancers swirl to the music from a wild violin played by a tall youth
+wearing bright clothing.  A brown bear in a harness shuffles with them,
+waving his giant paws in time to the music.  The good smells from the
+cooking pots are making you hungry.  Several large wagons are pulled into
+a circle around the clearing to the north, while there appears to be an
+animal keep to the west.  Easterly is a smooth, worn path leading away
+from the camp.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:56 2009
+</LastPlayerTime>
+  <HighLevel>10</HighLevel>
+  <BeenHere>1</BeenHere>
+  <Flags><Bit Num="23"></Bit></Flags>
+  <Wander><Traffic>18</Traffic><RandomMonsters><Mob Area="ocean">390</Mob><Mob Area="ocean" Num="1">396</Mob><Mob Area="ocean" Num="2">386</Mob><Mob Area="ocean" Num="3">400</Mob><Mob Area="ocean" Num="4">386</Mob><Mob Area="ocean" Num="5">400</Mob><Mob Area="ocean" Num="6">388</Mob><Mob Area="ocean" Num="7">388</Mob><Mob Area="ocean" Num="8">388</Mob><Mob Area="ocean" Num="9">389</Mob></RandomMonsters></Wander>
+  <Track><Direction>north</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">871</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">880</Room></Target><Effects></Effects></Exit><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">875</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

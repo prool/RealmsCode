@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="715" Version="2.40a" Area="ocean">
+  <Name>Hillborough Way</Name>
+  <ShortDescription>You are walking along Hillborough Way, south of Lawrence's Sporting Shop.</ShortDescription>
+  <LongDescription>Larry's sporting goods shop is known for its selection of various weapons
+and equipment used in everyday hunting and camping.  Most people go into
+the wilderness to hunt down a bear or two, and Larry's shop will be more
+than happy to provide you with equipment.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">714</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">509</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

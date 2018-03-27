@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  whisper         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Whisper allows you to speak to other characters in the room. Your conversation
+is kept confidential, but it does tell the room that you are having a
+conversation.
+
+: whisper bob Hey!
+You whispered, "Hey!" to Bob.
+: Bob whispered to you, "Hey yourself!".
+: Bob whispers something to Min.
+:

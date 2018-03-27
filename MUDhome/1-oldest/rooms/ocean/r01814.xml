@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Room Num="1814" Version="2.40" Area="ocean">
+  <Name>Advanced Range</Name>
+  <ShortDescription>You are in the advanced training range in the Dentra Central Archery Range.</ShortDescription>
+  <LongDescription>This area of the archery range is restricted to only the best archers in
+the lands, so that they can practice without having to worry about others
+less talented interfeering with them.  Most of the archers are pretty
+stuck up and may actually attack non-archers when they enter the facility.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

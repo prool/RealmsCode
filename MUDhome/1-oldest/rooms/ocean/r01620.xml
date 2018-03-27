@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1620" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are on Hillcrest Drive, between the Regalia Convent and the Odgen House.</ShortDescription>
+  <LongDescription>The Odgen House is located on the north side of the road and is one of
+the older family houses in the city.  On the south side of the road, you
+can see the Regalia Convent building.  It is a large, white building 
+with many statues and other marble sculptures to scare away the evil
+spirits that may accompany the people of the wrong faith.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">4</Mob>
+      <Mob Area="ocean" Num="1">4</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1621</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1619</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

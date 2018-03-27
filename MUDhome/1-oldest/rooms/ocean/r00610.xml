@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="610" Version="2.40a" Area="ocean">
+  <Name>The Anthian Bridge</Name>
+  <ShortDescription>You are cautiously walking across the Anthian Bridge.</ShortDescription>
+  <LongDescription>The Anthian Bridge crosses over the River Othax, flowing rapidly beneath
+your feet.  The bridge does not look very sturdy, but luckily, it's
+not too far across the river.  The river banks form quite an impressive
+cliff along Yellow Marsh Road and Neilian Drive, to the north and south
+respectively.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">609</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">611</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

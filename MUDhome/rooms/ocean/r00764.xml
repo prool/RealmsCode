@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="764" Version="2.40" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are traveling along Oceancrest Avenue, just south of a large park.</ShortDescription>
+  <LongDescription>The magnificent design of the park on the north side of the road is
+roughly based on ancient oriental themes.  Wakarimasu Park, as it is
+named, includes a number of beautiful shrines dedicated to ancient dieties
+that haven't been worshipped in centuries.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">738</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">765</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="606" Area="ocean" Version="2.40">
+  <Name>storage key</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>500</ShotsMax>
+  <ShotsCur>500</ShotsCur>
+  <Dice>
+    <Number>58</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">key</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a brass key inscribed, "Eiden Public Storage #7"</Description>
+  <Weight>1</Weight>
+  <Type>12</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

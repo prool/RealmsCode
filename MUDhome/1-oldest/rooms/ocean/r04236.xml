@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="4236" Version="2.40a" Area="ocean">
+  <Name>Chambers of Franchot</Name>
+  <ShortDescription>You are in the private quarters of Commander Franchot, friend of Rutger.</ShortDescription>
+  <LongDescription>Franchot singlehandedly once slew two red dragons in a battle that lasted
+three days.  He came upon the beasts in the Valley of Dragons while they 
+were mating and was able to strike the first blow, but mighty was their
+anger at being interrupted, and he suffered greatly, but he did kill them.</LongDescription>
+  
+  
+  
+  <Established>792271890</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>1206217807</LastTime>
+      <Misc Area="ocean">773</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4250</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

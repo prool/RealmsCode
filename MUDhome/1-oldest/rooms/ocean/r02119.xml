@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="2119" Version="2.40" Area="ocean">
+  <Name>Marlea's Hut</Name>
+  <ShortDescription>You are in the hut of Marlea, the youngest daughter of Mehetable.</ShortDescription>
+  <LongDescription>A large mirror hangs on the wall and there's even one on the ceiling over
+the largest feather bed you have ever seen.  Partially hidden from view is
+a small satchel filled with eye liner, lip blush and other cosmetics.  The
+satchel would be burned if Mehetable knew of it.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2109</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

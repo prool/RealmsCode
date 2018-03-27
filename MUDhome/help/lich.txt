@@ -1,0 +1,35 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  Lich         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Prime Requisites: Intelligence, Constitution
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+A lich is the result of forbidden necromantic magics. Some mages, when they
+reach venerable age, set out to extend their lives forever. To do this, they
+magically transform themselves into a lich using powerful negative energies. The
+result is an evil and undead being, which is the bane of all life in its path.
+A newly created lich is a shadow of its former self, having to start all over
+again to advance in power and experience. A lich is averse to healing magics,
+and no such spells will work for them or to their benefit. The magical energies
+which the immortal lich uses are a tap on its own life force. As such, a lich
+doesn't cast spells as the living do, but drains its own life to do so. A lich
+may touch a living creature and drain the life from it, leeching part of the
+creature's life force for itself. In addition, liches may also draw on the
+positive energy of the world around them to regenerate their own life force. As
+a result, there is always a deathly coldness whenever a lich is present. Due to
+the feeble nature of a lich's new body, they take more damage from physical
+attacks then normal. However, since they are essentially magical undead
+creations, they tend to resist magic the more powerful they get. They even
+absorb some of the damage to replenish their life force. A lich is unaffected
+by poison or disease, as these are weaknesses it only had in its former life. A
+lich is able to be turned by clerics and paladins, which actively hunt them down
+to destroy them. The lich is the destroyer of all things living and will kill at
+all costs. It must remain evil. If it does not, it surely will fade out of
+existence. On the world of Derlith, the lich owes allegiance to no one but
+itself.
+
+Abilities: Drain, Regenerate, Magic resistance
+

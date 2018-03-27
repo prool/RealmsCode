@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="2145" Version="2.40" Area="ocean">
+  <Name>Path Fork</Name>
+  <ShortDescription>You have reached a fork in the path you have been following.</ShortDescription>
+  <LongDescription>A gravel walkway leads east through a meadow, while the main path continues
+to the north and south.  You are surrounded by a grove of trees which gets
+thicker to the north, while to the south the path narrows and makes it way
+between huge rocks and boulders.  A steep rock face looks like it can be
+climbed, if you had climbing equipment.</LongDescription>
+  
+  <Established>759011242</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2146</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2144</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2143</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

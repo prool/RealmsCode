@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="2302" Version="2.40" Area="ocean">
+  <Name>Dragonwares</Name>
+  <ShortDescription>You are in Dragonwares, a fantastic shop that sells all sort of wierd and
+powerful objects from all over Oceancrest and perhaps from other lands.</ShortDescription>
+  <LongDescription>Dragonwares is a specialty shop which used to be owned by Conan, the
+Dragon-Slayer.  Conan was a high level leader of Oceancrest's heros
+and warriors, and often had rare items for sale.  This was his shop
+before he died on April 1, 1994, to get a 'real life.'  Conan was a
+member of the Mordor elite for more than three years, but decided an
+addiction like this was just too time consuming.  It may happen to you.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1047</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2303</Room>
+      <Key>99</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1105</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3719</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

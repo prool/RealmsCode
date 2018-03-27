@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="2143" Version="2.40" Area="ocean">
+  <Name>Crow's Tree Village</Name>
+  <ShortDescription>You are in a part of the forest where large birds make their homes.</ShortDescription>
+  <LongDescription>A path leads through the hedge going north, and another path continues
+to the south.  There are a number of large birdhouses hanging from the
+trees all about you.  A group of crows, larger than any you have ever
+seen before, are talking above your head.  Strangely, you understand
+every word they say.  You might be able to join in their conversation.</LongDescription>
+  
+  <Established>759010200</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">117</Mob>
+      <Mob Area="ocean" Num="1">117</Mob>
+      <Mob Area="ocean" Num="2">457</Mob>
+      <Mob Area="ocean" Num="3">457</Mob>
+      <Mob Area="ocean" Num="4">457</Mob>
+      <Mob Area="ocean" Num="5">457</Mob>
+      <Mob Area="ocean" Num="6">457</Mob>
+      <Mob Area="ocean" Num="7">458</Mob>
+      <Mob Area="ocean" Num="8">458</Mob>
+      <Mob Area="ocean" Num="9">458</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2145</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2141</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">2944</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

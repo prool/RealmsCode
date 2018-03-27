@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="2321" Version="2.40" Area="ocean">
+  <Name>Sick Bay</Name>
+  <ShortDescription>You are in the sick bay of the pirate ship Widow Maker.</ShortDescription>
+  <LongDescription>Pirates don't really care to take care of the sick, but this is a good
+place for the sniveling whiners.  And besides, it's better to put them here
+instead of keeping them around where others could catch something.  The
+room is small and cramped, and smells like someone has puked in the
+corner.  The place is overrun with mice.</LongDescription>
+  
+  <Established>755685834</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+    <Bit Num="16"/>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">16</Mob>
+      <Mob Area="ocean" Num="1">21</Mob>
+      <Mob Area="ocean" Num="2">21</Mob>
+      <Mob Area="ocean" Num="3">21</Mob>
+      <Mob Area="ocean" Num="4">21</Mob>
+      <Mob Area="ocean" Num="5">21</Mob>
+      <Mob Area="ocean" Num="6">21</Mob>
+      <Mob Area="ocean" Num="7">16</Mob>
+      <Mob Area="ocean" Num="8">21</Mob>
+      <Mob Area="ocean" Num="9">21</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2322</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

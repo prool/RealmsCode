@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="1925" Version="2.40" Area="ocean">
+  <Name>The Timid Camel Fine Imports Shop</Name>
+  <ShortDescription>The Timid Camel is the name of a caravan from the Kia'tra Desert.</ShortDescription>
+  <LongDescription>Since not many people like to travel through the desert, goods from
+the other side of the world seldom ever reach Oceancrest, and even
+moreso the other way around.  Various interesting daggers and swords
+from a completely different society are for sale here, but at a very
+expensive price.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1920</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

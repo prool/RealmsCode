@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="2841" Version="2.40" Area="ocean">
+  <Name>Cave of the Yeti</Name>
+  <ShortDescription>You are in a large, snowy cave on the east side of Lake Plasnelt.</ShortDescription>
+  <LongDescription>For some reason, there is a lot of snow in this cave from some unknown
+source.  The Yeti Lord rules over his kingdom from here, so there must
+be some way back up to the surface from the cave.  The yeti are quite
+powerful creatures, and dine on whatever happens to wander by.  They are
+especially fond of sahuagin.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>729143742</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">347</Mob>
+      <Mob Area="ocean" Num="1">347</Mob>
+      <Mob Area="ocean" Num="2">347</Mob>
+      <Mob Area="ocean" Num="3">347</Mob>
+      <Mob Area="ocean" Num="4">347</Mob>
+      <Mob Area="ocean" Num="5">347</Mob>
+      <Mob Area="ocean" Num="6">347</Mob>
+      <Mob Area="ocean" Num="7">345</Mob>
+      <Mob Area="ocean" Num="8">76</Mob>
+      <Mob Area="ocean" Num="9">76</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>lake</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="lake">
+      <Keys/>
+      <Room Area="ocean">2839</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

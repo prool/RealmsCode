@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="804" Version="2.40" Area="ocean">
+  <Name>Red Dragon's Habitat</Name>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>86400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">93</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">805</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

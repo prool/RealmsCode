@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1641" Version="2.41b" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive, east of the Richland Grape Orchard.</ShortDescription>
+  <LongDescription>The large Chateau Richland Grape Orchard to the west provides much of 
+the refreshments in the means of wine and juice to the city.  The Chateau
+produces the finest Bordeaux wines in the land, and a bottle can run
+upwards of two or three gold pieces.  You can hear some light cheering
+from the inside of the Melbourne Entertainment Arena, to the east.  The
+entrance to the Arena is located off of Nagaritha Drive, to the south.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1634</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1642</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

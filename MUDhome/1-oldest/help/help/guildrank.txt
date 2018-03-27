@@ -1,0 +1,36 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  guildrank       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The ranks within a guild are listed below in order of most important to
+least important. A guildmaster may use the "^yguild promote^x" and
+"^yguild demote^x" commands to change the rank of guild members.
+
+
+^WGuildmaster^x
+
+Each guild may only have one guildmaster. By default, this is the player that
+founded the guild. A guildmaster may pass leadership of the guild to another
+player by using the "^yguild abdicate^x" command.
+
+
+^WBanker^x
+
+Being a banker allows you to use all of the guild's bank-related commands.
+A banker is also allowed to use the guildhall command to modify a room's name,
+short description, and long description. Bankers may invite other players
+into the guild.
+
+
+^WOfficer^x
+
+When creating a new guild, the players that support its creation are
+automatically added to the guild as officers. Officers may invite other
+players into the guild.
+
+
+^WNormal Members^x
+
+When inviting new members to the guild, invitees join as ordinary guild
+members unless otherwise specified.
+

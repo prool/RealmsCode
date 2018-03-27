@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3190" Version="2.40" Area="ocean">
+  <Name>Waters Below High Sea Cliffs</Name>
+  <ShortDescription>You are swimming in the waters below some very tall sea cliffs.</ShortDescription>
+  <LongDescription>The cliffs are forbidding and dark, and the current sweeps you past them
+with a rush.  A rugged base is a jumble of giant rocks with waves crashing
+on them sending spray high into the air.  In the distance you can see
+seals and sea lions playing in the water.</LongDescription>
+  
+  <Established>756209786</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3189</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="cove">
+      <Keys/>
+      <Room Area="ocean">3193</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3192</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

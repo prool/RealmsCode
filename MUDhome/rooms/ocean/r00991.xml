@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="991" Version="2.40a" Area="ocean">
+  <Name>The Skies Above Oceancrest</Name>
+  <ShortDescription>You are soaring through the skies above the vast City of Oceancrest.</ShortDescription>
+  <LongDescription>The clear blue skies over the city are magnificent to soar through.  You
+just hope that your fly spell does not wear off.  With the sky as blue
+and clear as it is, you're likely to get quite lost if you don't watch
+where you're flying.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">992</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">987</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">989</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">995</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

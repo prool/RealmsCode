@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3880" Version="2.40" Area="ocean">
+  <Name>Aquaduct</Name>
+  <ShortDescription>You are wading in an ancient aquaduct under the Ulandian Temple.</ShortDescription>
+  <LongDescription>The way is dark and the walls are slimy to the touch.  As you wade through
+the cold water, you realize something alive is in the stream and keeps
+bumping you gently, perhaps out of curiosity, or perhaps trying to decide
+if you would be good to eat.  The brick-lined walls are getting wider to
+the east, and there might be a landing in that direction before the waters
+empty into an underground lake in that direction.</LongDescription>
+  
+  <Established>769037308</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3879</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3881</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

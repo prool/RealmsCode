@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5442" Version="2.40" Area="ocean">
+  <Name>Kerston's Bank</Name>
+  <ShortDescription>You are on a part of the road to Hafnia often called Kerston's Bank.</ShortDescription>
+  <LongDescription>There are low banks on both sides of the road, but that's not the reason 
+for the name.  Kerston the highwayman and his band of robbers consider this
+lonely area to be their personal source of funds, hence Kerston's Bank.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5441</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5443</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

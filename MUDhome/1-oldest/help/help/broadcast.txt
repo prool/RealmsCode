@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  broadcast        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+This command allows you to broadcast a message to all players in the game.
+You no longer limited to a certain number of broadcasts per day; instead,
+the mud checks to make sure you are not broadcasting too quickly. You must
+be atleast level 2 to use the broadcast channel.
+
+Example:
+: bro There is no spoon!
+### Bob broadcasted, "There is no spoon!"
+:
+

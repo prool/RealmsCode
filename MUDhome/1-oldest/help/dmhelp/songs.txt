@@ -1,0 +1,37 @@
+
+to add a song to a player type
+*set c <player> song #
+
+  songs #    title
+-------------------------------
+        1    healing
+        2    magic
+        3    restoration
+        4    destruction
+        5    mass-destruction
+        6    holiness
+        7    protection
+        8    flight
+        9    recall
+
+
+   The song scrolls are in the song range
+   where the last number is the song number.
+    ex: song.7 is song of pretection scroll
+
+   To create a song scroll, *set o (scroll) type 15   (song scroll)
+    and then *set o (scroll) m (song)
+
+   Please note ALL songs are quests.  Please talk to a DM
+   if you have an idea for a song quest.
+
+   If you have any ideas for new songs, please mudmail a DM.
+   Remember bard songs should generally be songs that
+   benefit a group of people.
+
+   Other songs in the works  (subject to change):
+     song of safety (word)
+     song of group safety (group word)
+     song of valour  (under consideration)
+     
+

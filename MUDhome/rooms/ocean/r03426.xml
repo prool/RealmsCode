@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3426" Version="2.40" Area="ocean">
+  <Name>The Vaults</Name>
+  <ShortDescription>Soot covered granite lines the halls of this darkened sepulcher.</ShortDescription>
+  <LongDescription>The ground of the hallway, which is covered with smooth stones, leads 
+north and south.  A large iron door leads out of the vaults to the
+east.  A silver skull has been laid into the wall across from the 
+entrance, warning of the Cult.  </LongDescription>
+  <LowLevel>20</LowLevel>
+  
+  <Established>760058499</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3344</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3427</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3443</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

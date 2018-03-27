@@ -1,0 +1,4 @@
+********************** DM/CT NEWS **********************
+DM/CT News File (Last modified 1/21/08)
+
+You can now edit these files on the website.

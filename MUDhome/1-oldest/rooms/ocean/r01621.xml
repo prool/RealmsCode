@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1621" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are walking along Hillcrest Drive, north of the Regalia Convent.</ShortDescription>
+  <LongDescription>On the south side of the road, you can see the magnificent Regalia Convent,
+known not really for the word that they spread, but the philosophy of an
+monotheistic deity, which is usually considered blasphemous by literally
+every major religion in Oceancrest, including some of the orc and 
+bugbear religions, which are also outcasted among the holy order of 
+sacred, acceptable religions.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1622</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1620</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

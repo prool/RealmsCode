@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="4010" Version="2.40" Area="ocean">
+  <Name>Brownhaven Guardshack</Name>
+  <ShortDescription>The sleepy guards in here are supposed to protect the copper dragons.</ShortDescription>
+  <LongDescription>Of course, what they really want to protect is their naps, and if you set
+off an alarm, which is connected to the entrance to the dragon pits, they
+get very upset and wide awake.</LongDescription>
+  
+  <Established>773795220</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">678</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">678</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5003</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="4220" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>This is the southeast corner of the ground floor of the Tower Castle.</ShortDescription>
+  <LongDescription>The hallway turns at this point, and continues to the north and to the
+southwest.  The southern side of the castle on the ground floor is used
+mostly by the troops, while the commanders generally reside on the north
+side of the castle.  Heavy battle equipment is in storage along the hall.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">775</Mob>
+      <Mob Area="ocean" Num="1">775</Mob>
+      <Mob Area="ocean" Num="2">775</Mob>
+      <Mob Area="ocean" Num="3">775</Mob>
+      <Mob Area="ocean" Num="4">775</Mob>
+      <Mob Area="ocean" Num="5">775</Mob>
+      <Mob Area="ocean" Num="6">775</Mob>
+      <Mob Area="ocean" Num="7">775</Mob>
+      <Mob Area="ocean" Num="8">775</Mob>
+      <Mob Area="ocean" Num="9">775</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4219</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4221</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

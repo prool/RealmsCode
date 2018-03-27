@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5462" Version="2.40" Area="ocean">
+  <Name>Rutger Castle Road</Name>
+  <ShortDescription>You are on a mountain ridge road, wide enough for an army to cross.</ShortDescription>
+  <LongDescription>Prince Rutger, son of King Lyanden, keeps a well trained garrison at his 
+mountain home.  He welcomes adventurers and rewards them handsomely if they 
+pledge their loyalty to him.  There is a guard post south of here.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5461</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5463</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="362" Version="2.41a" Area="ocean">
+  <Name>Uland's Long Dock End</Name>
+  <ShortDescription>You are at the end of a long dock, often home to the pirate ship Widow Maker.</ShortDescription>
+  <LongDescription>The Widow Maker sometimes moors here at the end of the dock for a few days,
+making Uland Island her home port while she waits for the weather to change.
+This is a deepwater dock, meant for large ships.  Merchant ships also tie up
+here, but seldom when the Widow Maker is in port.  A tangy smell of salt air
+and decaying fish is in the air.  Several fishermen are on the dock today.</LongDescription>
+  
+  <Established>760502496</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">352</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">951</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

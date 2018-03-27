@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1345" Version="2.40" Area="ocean">
+  <Name>Chief Bosun's Quarters</Name>
+  <ShortDescription>You are in the living quarters of the ship's chief bosun.</ShortDescription>
+  <LongDescription>There is a massive bunk on one bulkhead, and single, giant chair sits
+nearby.  A lone hurricane lantern swings slowly from the overhead,
+casting moving shadows in a dismal and damp room.  The chief bosun is
+not known for his good humor, and even the hardiest of swashbucklers
+and pirates do not come here willingly.  Why are you here?</LongDescription>
+  
+  <Established>756078718</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">383</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2322</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

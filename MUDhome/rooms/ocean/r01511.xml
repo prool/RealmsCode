@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="1511" Version="2.40" Area="ocean">
+  <Name>Main Hallway</Name>
+  <ShortDescription>You are in a large hallway deep under the Palace.</ShortDescription>
+  <LongDescription>This main hallway leads directly into the Mausoleum of the Keslar clan,
+a family of great mages.  There is also another door to the south that
+is labeled 'Crypt'.  The door is of rusted iron and oak and looks like it
+has never been used.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">131</Mob>
+      <Mob Area="ocean" Num="2">131</Mob>
+      <Mob Area="ocean" Num="3">152</Mob>
+      <Mob Area="ocean" Num="4">152</Mob>
+      <Mob Area="ocean" Num="5">152</Mob>
+      <Mob Area="ocean" Num="6">151</Mob>
+      <Mob Area="ocean" Num="7">152</Mob>
+      <Mob Area="ocean" Num="8">151</Mob>
+      <Mob Area="ocean" Num="9">151</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1396</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1392</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1512</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

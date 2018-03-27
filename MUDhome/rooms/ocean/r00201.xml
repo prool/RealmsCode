@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="201" Version="2.40" Area="ocean">
+  <Name>Living room</Name>
+  <ShortDescription>This is the mansion's living room.</ShortDescription>
+  <LongDescription>There are old, rotting couches lining the walls of this room, and
+cobweb-crusted tables in the center.  An occasional rat or mouse runs
+past your feet as you walk through what they have made their home.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">16</Mob>
+      <Mob Area="ocean" Num="1">17</Mob>
+      <Mob Area="ocean" Num="2">17</Mob>
+      <Mob Area="ocean" Num="3">21</Mob>
+      <Mob Area="ocean" Num="4">21</Mob>
+      <Mob Area="ocean" Num="5">18</Mob>
+      <Mob Area="ocean" Num="6">18</Mob>
+      <Mob Area="ocean" Num="7">19</Mob>
+      <Mob Area="ocean" Num="8">20</Mob>
+      <Mob Area="ocean" Num="9">18</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">207</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">200</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="alcove">
+      <Keys/>
+      <Room Area="ocean">208</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

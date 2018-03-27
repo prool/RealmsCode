@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="5035" Version="2.40" Area="ocean">
+  <Name>Light Clouds</Name>
+  <ShortDescription>You are on the back of a powerful dragon in light clouds.  50.n3.e2.s0.w0</ShortDescription>
+  <LongDescription>Off to the east is a great river, flowing south towards the Gotland Glenn.
+directly below is a vast grassland, which gently rises to the north.</LongDescription>
+  
+  <Established>772228382</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5056</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5034</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5043</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5018</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

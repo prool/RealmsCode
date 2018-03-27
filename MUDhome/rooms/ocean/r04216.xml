@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="4216" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>This is the south side of the first level hallway that encircles the castle.</ShortDescription>
+  <LongDescription>Farther to the east you can see that the hallway turns sharply to the
+north, while to the west it continues a good distance.  There is a small
+healing room for the infirm on the north side of the hallway, and a couple
+of healing mages can be seen inside.</LongDescription>
+  
+  <Established>791605072</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4215</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4217</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="white door">
+      <Keys/>
+      <Room Area="ocean">4263</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

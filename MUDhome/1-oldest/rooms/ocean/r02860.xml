@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="2860" Version="2.40a" Area="ocean">
+  <Name>Plasnelt Lake Bottom</Name>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>765275639</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="21"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2859</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2861</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="underwater temple">
+      <Keys/>
+      <Room Area="ocean">2865</Room>
+      <Key>37</Key>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

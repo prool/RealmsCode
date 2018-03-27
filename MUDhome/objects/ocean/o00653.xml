@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="653" Area="ocean" Version="2.40">
+  <Name>snakeskin mask</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>20</ShotsMax>
+  <ShotsCur>20</ShotsCur>
+  <Armor>13</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">300</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">mask</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="20"/>
+    <Bit Num="36"/>
+  </Flags>
+  <Description>The mask is made of from the scales of a white acid snake.</Description>
+  <Weight>2</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>19</WearFlag>
+  <InBag/>
+</Object>

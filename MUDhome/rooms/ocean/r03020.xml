@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="3020" Version="2.40" Area="ocean">
+  <Name>Goblin Priest's Lair</Name>
+  <ShortDescription>You have wondered into the dimly lit goblin priest's lair.</ShortDescription>
+  <LongDescription>Several small half melted candels are scattered throughout the room 
+provide the only means of light.  Along the walls you see various
+crudely made religous symbols for the goblin god Maglubiyet.  The
+room is filled with scent of putrid smelling insents.  In the
+middle of the room you see a goblin priest reciting the words
+to a golbin prayer.</LongDescription>
+  
+  <Established>761219613</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">322</Mob>
+      <Mob Area="ocean" Num="1">322</Mob>
+      <Mob Area="ocean" Num="2">325</Mob>
+      <Mob Area="ocean" Num="3">325</Mob>
+      <Mob Area="ocean" Num="4">323</Mob>
+      <Mob Area="ocean" Num="5">323</Mob>
+      <Mob Area="ocean" Num="6">323</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">504</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">286</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3019</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

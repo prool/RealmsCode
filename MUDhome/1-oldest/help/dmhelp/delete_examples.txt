@@ -1,0 +1,112 @@
+Help on:
+	*delete examples
+
+
+Our starting room description:
+----------------------------
+: look
+
+62 - Test Room
+
+This is the short description. It is only one line.
+This is the long description. It has lots of words, and
+these words span several lines. Usually, you tell the
+player what is going on in this part of the description.
+All exits: none.
+
+:
+----------------------------
+
+
+*del -P, without any other guidance, will delete the phrase "It" from both the
+short and long descriptions. Note that it leaves an extra space behind.
+----------------------------
+: *del -P It 
+Deleted.
+: *del -P It 
+Deleted.
+: *del -P It
+Pattern not found.
+: look
+
+62 - Test Room
+
+This is the short description.  is only one line.
+This is the long description.  has lots of words, and
+these words span several lines. Usually, you tell the
+player what is going on in this part of the description.
+All exits: none.
+
+:
+----------------------------
+
+
+Adding the S flags forces *delete to only look in the short description. The
+pattern " the" is left alone in the long description. Also note the double
+spacing in the command. The first space is to seperate the flags from the
+pattern, the second space acts as part of the patern.
+----------------------------
+: *del -SP  the 
+Deleted.
+: *del -SP  the
+Pattern not found.
+: look
+
+62 - Test Room
+
+This is short description.  is only one line.
+This is the long description.  has lots of words, and
+these words span several lines. Usually, you tell the
+player what is going on in this part of the description.
+All exits: none.
+
+:
+----------------------------
+
+
+The E flag will delete everything after the phrase, but not the phrase itself.
+----------------------------
+: *del -E part
+Deleted.
+: look
+
+62 - Test Room
+
+This is short description.  is only one line.
+This is the long description.  has lots of words, and
+these words span several lines. Usually, you tell the
+player what is going on in this part
+All exits: none.
+
+:
+----------------------------
+
+
+When E and P are used in conjunction, it will delete everything after what is
+found, including the phrase. If used in the short description, it will delete
+everything in the long description as well.
+----------------------------
+: *del -EP going
+Deleted.
+: look
+
+62 - Test Room
+
+This is short description.  is only one line.
+This is the long description.  has lots of words, and
+these words span several lines. Usually, you tell the
+player what is 
+All exits: none.
+
+: *del -EP  line
+Deleted.
+: look
+
+62 - Test Room
+
+This is short description.  is only one
+All exits: none.
+
+:
+----------------------------
+

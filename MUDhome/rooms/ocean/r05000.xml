@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5000" Version="2.40" Area="ocean">
+  <Name>Animal Training Compound Gate</Name>
+  <ShortDescription>You are outside the gate to the animal training compound.</ShortDescription>
+  <LongDescription>Looking inside, you see several separate areas where different animals are
+kept and trained.  To the west is the path leading to the road which runs
+around the village of Brownhaven.  Overhead, you can see several copper
+dragons high in the air with riders on their backs.  The riders seem to be
+naked and are carrying long lances, which glint in the light.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>gate</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">52</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">5001</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<Room Num="3639" Version="2.40" Area="ocean">
+  <Name>Main Armory</Name>
+  <ShortDescription>This is the main armory for Prince Ragnar's troops.</ShortDescription>
+  <LongDescription>Hanging from the rafters you see all manner of armors and hoods, and
+in all sizes, too.  One corner seems to be devoted to leather while
+another contains only mithrill.  Directly above you hangs a knight's
+full suit of chain mail, and a variety of hoods.  A rack along the 
+wall is filled with shields bearing the crest of Ragnar, and a counter
+top is covered with leggings and gloves.  A great hot forge can be 
+seen in the room to the east, while the room on the west appears to
+be used to manufacture archery tackle.</LongDescription>
+  
+  <Established>764987670</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">715</Mob>
+      <Mob Area="ocean" Num="1">715</Mob>
+      <Mob Area="ocean" Num="2">715</Mob>
+      <Mob Area="ocean" Num="3">715</Mob>
+      <Mob Area="ocean" Num="4">715</Mob>
+      <Mob Area="ocean" Num="5">715</Mob>
+      <Mob Area="ocean" Num="6">715</Mob>
+      <Mob Area="ocean" Num="7">715</Mob>
+      <Mob Area="ocean" Num="8">715</Mob>
+      <Mob Area="ocean" Num="9">715</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3638</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3640</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="shadow door">
+      <Keys/>
+      <Room Area="ocean">3654</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="1"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3641</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

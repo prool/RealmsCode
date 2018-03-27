@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="5531" Version="2.40" Area="ocean">
+  <Name>Top of Gorgon's Tower</Name>
+  <ShortDescription>You are on the top parapet of Gorgon's Tower, overlooking the Nyyron Trail. </ShortDescription>
+  <LongDescription>Although the vines are lush and green on the sides of the tower, nothing
+lives here on the top.  You can hear a bubbling noise below inside the  
+stone tower, and acid vapors rise all about you.  There is a closed hatch
+which appears to be locked with a heart-shaped lock.  Some say Gorgon still
+hides inside, blinded forever by the herbalist who once lived on the farm 
+south of here.</LongDescription>
+  
+  <Established>794790522</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>vines</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="hatch">
+      <Keys/>
+      <Room Area="ocean">5532</Room>
+      <Key>96</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="vines">
+      <Keys/>
+      <Room Area="ocean">5530</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

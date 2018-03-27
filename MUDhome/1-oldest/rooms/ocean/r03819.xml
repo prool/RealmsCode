@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="3819" Version="2.40" Area="ocean">
+  <Name>Performers' Tent</Name>
+  <ShortDescription>You are standing amidst carnival performers in the performers tent.</ShortDescription>
+  <LongDescription>Wow!  What a view!  Topless female acrobats, muscular master trapeze artists,
+funny clowns in underwear, contortionists looking for their backs, 
+maintenance men trying to pick up on the cabaret orchestra, a nosy kid 
+peeking behind the bearded lady's dress, midgets, another nosy kid trying to
+steal a snake charmer's flute and various other spectacles better left
+unmentioned.</LongDescription>
+  
+  <Established>765770431</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3817</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

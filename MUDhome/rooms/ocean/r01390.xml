@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1390" Version="2.40" Area="ocean">
+  <Name>Dungeon Kitchen</Name>
+  <ShortDescription>You are in the kitchen where food is prepared for the prisoners.</ShortDescription>
+  <LongDescription>The kitchen is filthy.  Small rats run around grabbing pieces of meat
+or what looks like meat (arguably) whenever they can.  The large pot
+on the stove contains what looks like some sort of stew, but you can't
+really tell what's in there, not that you'd really want to know.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">156</Mob>
+      <Mob Area="ocean" Num="1">156</Mob>
+      <Mob Area="ocean" Num="2">156</Mob>
+      <Mob Area="ocean" Num="3">156</Mob>
+      <Mob Area="ocean" Num="4">156</Mob>
+      <Mob Area="ocean" Num="5">156</Mob>
+      <Mob Area="ocean" Num="6">156</Mob>
+      <Mob Area="ocean" Num="7">156</Mob>
+      <Mob Area="ocean" Num="8">156</Mob>
+      <Mob Area="ocean" Num="9">156</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1386</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

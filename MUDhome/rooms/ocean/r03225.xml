@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3225" Version="2.40a" Area="ocean">
+  <Name>Mulberry Road</Name>
+  <ShortDescription>You are walking on Mulberry road, which goes between Kista and Oceancrest.</ShortDescription>
+  <LongDescription>The side of the road is lined with Great Mulberry trees, which are old
+trees that turn the road into a wonderful panarama of vivid colors in
+the autumn when the leaves turn and fall to the ground.  This walk is
+well patrolled and is considered a very safe road.  Young lovers often
+stroll here in the moonlight.</LongDescription>
+  
+  <Established>756089469</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3224</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3226</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

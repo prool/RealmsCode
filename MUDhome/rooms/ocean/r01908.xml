@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="1908" Version="2.40" Area="ocean">
+  <Name>One-on-One Arena</Name>
+  <ShortDescription>You are in a small arena with a single opponent gladiator as your foe.</ShortDescription>
+  <LongDescription>The ultimate test of a warrior's ability is their ability to stand up 
+to a single gladiator in a one-on-one, hand-to-hand, battle to the 
+death combat.  Not just anyone can do such a feat, but there's no 
+shame in a proud fight to the death.  A quick escape back into the
+Preparation Room is not available as the door to the room has been
+sealed from the opposite side.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">246</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1907</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

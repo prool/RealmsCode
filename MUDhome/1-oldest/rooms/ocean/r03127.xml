@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3127" Version="2.40" Area="ocean">
+  <Name>Grinning Sailor Cellar</Name>
+  <ShortDescription>You are in the liquor locker cellar of the Grinning Sailor Pub.</ShortDescription>
+  <LongDescription>Directly below you is a disposal pit where bodies and other garbage is 
+thrown.  Although dark, you can see a shuffling movement down there.
+As a matter of fact, the entire cellar is dark.  Over near the west wall 
+is a small table with but a single candle on it.  Most of the space is   
+taken up by great kegs of ale and rum.</LongDescription>
+  
+  <Flags>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3125</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3128</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="arch">
+      <Keys/>
+      <Room Area="ocean">3129</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

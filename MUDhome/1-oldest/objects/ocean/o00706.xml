@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="706" Area="ocean" Version="2.40">
+  <Name>biggest addict award</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>10</ShotsMax>
+  <ShotsCur>10</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">addict</Key>
+    <Key Num="1">award</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="14"/>
+    <Bit Num="27"/>
+  </Flags>
+  <Description>It kinda looks like an Oscar...but resembles a computer terminal???</Description>
+  <UseOutput>You feel quasi-nauseous / sleepy, just like after a late night of MUDing.</UseOutput>
+  <Weight>5</Weight>
+  <Type>6</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

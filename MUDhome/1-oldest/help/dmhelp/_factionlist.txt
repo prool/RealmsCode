@@ -1,0 +1,5 @@
+Help on: *factionlist
+
+This command allows a staff member (creator on up) to view
+the list of factions currently in the game and their numbers.
+

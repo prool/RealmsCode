@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1700" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>Golden Dolphin Way extends east and west, parallel to the City Walls.</ShortDescription>
+  <LongDescription>The omnimous City Walls lie directly to the south of you.  They must
+be nearly ten meters high, if not more.  The walls were built ages ago
+and have proved their worth many times.  In addition to keeping invaders
+out, they have also been proven to keep thieves and other vermin in,
+making them easier to capture.  It is almost impossible to scale the 
+City Wall from either side.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1650</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1699</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

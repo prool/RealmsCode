@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="189" Area="ocean" Version="2.40">
+  <Name>horseman's flail</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>60</ShotsMax>
+  <ShotsCur>60</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>4</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">flail</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a large flail used by men on horseback.</Description>
+  <Weight>7</Weight>
+  <Type>5</Type>
+  <SubType>mace</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

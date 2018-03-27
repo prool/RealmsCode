@@ -1,0 +1,59 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  property         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The property command allows you to manage the properties you own. When typed,
+it will display a list of properties that you own. If you are a partial owner
+of any property, you may remove yourself by using this command.
+
+If you are in one of your properties, the "^yproperty^x" command will give you more
+options for working with that specifical property.
+
+
+^WPartial Ownership
+
+You can assign other players as partial owners of your property. In doing
+so, they will be able to use some of the same commands as the actual owner.
+This depends on the property:
+
+   ^WStorage Rooms:^x partial owners are allowed complete access to the storage
+       room. They must also purchase a key to get through the locked storage
+       door. A player may only be associated with one storage room at a time.
+
+   ^WShops:^x partial owners are allowed to stock items and change the price of
+       items, but they cannot remove items from the store. They are not given
+       any profit from sales; this must be worked out manually by the owner.
+
+Partial owners may also have flags set on them. This will allow you to more
+precisely define what actions a partial owner may take. Type "^yproperty flags^x"
+for more information. ^WNote:^x for personal houses, this command will flag the
+entire property rather than partial owners.
+
+
+^WDestruction
+
+You may choose to close down your property at any time. Caution - you cannot
+undo this action! Also note, when you suicide your character, all of your
+properties are destroyed.
+
+
+^WLogging
+
+Properties keep a log of events that occur in relation to the property. By
+default, only actions taken by partial owners are logged. You may choose for
+all actions to be logged (owner included), or none to be logged.
+
+
+^WGuilds
+
+Certain properties may be assigned to a guild. For example, assigning a shop
+to a guild means that all guild members become partial owners, and proceeds
+from sales go to the guild's bank account. Should a player ever be removed
+from a guild, they will retain ownership of their shop. Guild halls MUST
+be part of a guild. They will always belong to the current leader of the
+guild - ownership of the guild hall does not stay with the player if they
+leave the guild or if they abdicate as guild leader.
+
+^WRelated Help Files:
+   ^yguildhall
+   ^yhouses

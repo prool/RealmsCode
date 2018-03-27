@@ -1,0 +1,23 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |          Help on:  Elf         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Adjustments: +2 Intelligence, -1 Strength, -1 Constitution, +1 Dexterity,
+	-1 Piety
+Compatable Classes: Assassin, Bard, Berserker, Druid, Fighter, Lich, Mage, Monk,
+	Paladin, Ranger, Rogue, Thief, Vampire, Werewolf, Fighter/Mage,
+	Fighter/Thief, Mage/Thief, Thief/Mage
+
+Elves are the dwellers of Derlith's forests, a fairy folk who have lived for
+centuries. The command elves have for magic is legendary, and as such they are
+often very good mages. Most of an elf's life is spent in intellectual persuits
+and studies of the world around him. He also has a fine appreciation of the
+arts, and often is able to sing and dance very well. The elves of Derlith make
+the best wine known, which is often consumed while sitting around fires telling
+stories of times ancient past.  An elf is small and slender of stature, and due
+to his size he is not as robust or strong as some other races. However, his
+intellect eclipses that of nearly all other race on Derlith.
+
+See in dark (infravision): Yes
+Size class: Medium
+

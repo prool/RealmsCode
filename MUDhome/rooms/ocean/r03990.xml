@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3990" Version="2.40" Area="ocean">
+  <Name>Forest Tunnel</Name>
+  <ShortDescription>You are in a glass smooth tunnel far below the floor of the Enchanted Forest.</ShortDescription>
+  <LongDescription>The tunnel is a remarkable piece of work, although it's apparent nothing
+living could produce such incredibly smooth walls.   It looks as if a
+giant fireball roared through here, and the earth melted.</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3989</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3991</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

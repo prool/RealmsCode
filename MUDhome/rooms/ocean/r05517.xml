@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5517" Version="2.40" Area="ocean">
+  <Name>Home of Tragirsha</Name>
+  <ShortDescription>You are in a the home of Tragirsha the giant toad.</ShortDescription>
+  <LongDescription>Tragirsha was not always a toad, having been born of humans who made their
+home on the Nyyron trail.  Her mother was a herbilist who could cure the 
+blind, but when an evil demon from one of the watch towers sought her help,
+she permanently blinded him.  To her sorrow, he was able to turn her only
+daughter into a giant toad.  Tragirsha lives here alone, in the cellar.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>trapdoor</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5404</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="trapdoor">
+      <Keys/>
+      <Room Area="ocean">5518</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

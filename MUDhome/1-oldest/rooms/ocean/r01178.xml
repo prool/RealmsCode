@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1178" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, north of the Khelleva Estate.</ShortDescription>
+  <LongDescription>The large Khelleva Estate lies to the south of here, surrounded by a 
+white, picket fence, and constantly guarded by ferocious watch dogs.
+On the north side of the road is the Ivanhouse Sporting Facility, a
+smaller version of the Oceancrest Central Arena, speciallizing more 
+on individual, one-on-one type battles.  Contestants may enter the
+Facility through the Challenger's Ready Room to the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>12000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">441</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1179</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1177</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

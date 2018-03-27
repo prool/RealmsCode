@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="111" Area="ocean" Version="2.40">
+  <Name>elven lamellar armor</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>75</ShotsMax>
+  <ShotsCur>75</ShotsCur>
+  <Armor>79</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">20000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">lamellar</Key>
+    <Key Num="1">armor</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="19"/>
+    <Bit Num="36"/>
+  </Flags>
+  <Description>A strong elven blend of leathers designed specifically for small mages.</Description>
+  <UseOutput>The armor is tight and heavy, but you feel very protected.</UseOutput>
+  <Weight>11</Weight>
+  <Type>6</Type>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

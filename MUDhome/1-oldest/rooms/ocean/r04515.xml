@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="4515" Version="2.40a" Area="ocean">
+  <Name>Private Chambers Hallway</Name>
+  <ShortDescription>You are in a long hallway which connects Heraldry Hall with Ladies Walk.</ShortDescription>
+  <LongDescription>There are many private apartments along this hallway.  High level members 
+of the royal court make their homes here.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4514</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4516</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

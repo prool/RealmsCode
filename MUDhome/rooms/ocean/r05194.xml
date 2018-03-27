@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="5194" Version="2.40" Area="ocean">
+  <Name>Blue Skies Over Vallenda Plains</Name>
+  <ShortDescription>You are at the western end of Vallenda Pass.  60.n3.e0.s0.w26</ShortDescription>
+  <LongDescription>Not far to the north is the western entrance to the pass between the dark
+mountains.  If you follow the pass to the east, you will eventually come
+to the village of Brownhaven, and farther east is the city of Kista.  To 
+the north is Prince Ragnar's castle.  The Vallenda Plains are west of here.</LongDescription>
+  
+  <Established>773890566</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5187</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5195</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

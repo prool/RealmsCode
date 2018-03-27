@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="504" Area="ocean" Version="2.40">
+  <Name>fish hook</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>15</ShotsMax>
+  <ShotsCur>15</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>3</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">hook</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>A big bent up fish hook, you could poke someones eye out with it,</Description>
+  <Weight>1</Weight>
+  <Type>5</Type>
+  <SubType>dagger</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="785" Version="2.40" Area="ocean">
+  <Name>Mirrored Hall</Name>
+  <ShortDescription>You are in a well-lit room surrounded by crystals.  The effect of which
+is that you can't figure out which walls exist and which ones don't.  
+The reflection in here is annoying yet at the same time mystifying.</ShortDescription>
+  <LongDescription>Upon careful examination of the room, you find a small note on the
+floor which reads: "What to do if you find yourself in a mirrored room
+with no exits and no hope of escape.  Consider how good life has been
+to you so far.  If life has not been good to you, which is more likely
+the case in your present situation, consider the fact that it will not
+be bothering you for much longer."  You toss the note down and bang
+your head against one of the mirrors.  When you come to your senses,
+as often a good bump on the head does to a person, you can somewhat make
+out a room to the south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">786</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

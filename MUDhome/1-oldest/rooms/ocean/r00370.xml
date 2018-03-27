@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="370" Version="2.40" Area="ocean">
+  <Name>Dark Jungle Road</Name>
+  <ShortDescription>The road has become dark and narrow as you get deeper into the jungle.</ShortDescription>
+  <LongDescription>A soft chanting can be heard in the distance, mingling with the sound of
+the surf even further away.  A dead goat is impaled on a stout pole by the
+side of the road, and chicken feathers make a necklace for the hapless
+animal.  Do you recall that voodoo doctors often use such grotesque  
+symbols to keep out the unbelievers?</LongDescription>
+  
+  <Established>761261370</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">369</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">371</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

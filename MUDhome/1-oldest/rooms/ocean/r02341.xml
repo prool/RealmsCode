@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2341" Version="2.40a" Area="ocean">
+  <Name>Mountain Trail</Name>
+  <ShortDescription>You are walking around a very large mountain in the Nellan Mountain Range.</ShortDescription>
+  <LongDescription>As you round the northern side of the mountain, you can see down into
+the Ituk Glacier.  The glacier is particularly dangerous because one
+can easily become quite lost in such a place.  Scavenging animals are
+always on the prowl for stranded and helpless prey.  The most dangerous
+of these animals is the white dragon, which is quite common up here.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2340</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2342</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1039" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive</Name>
+  <ShortDescription>You are on Oceanview Drive, east of Dillsdale Memorial Park and west of
+the Dragon Tooth Inn.  Hillcrest Drive is to the south.</ShortDescription>
+  <LongDescription>The Dragon Tooth Inn is located to the east of Oceanview Drive.  This
+is one of the more luxurious Inns in Oceancrest, and is heavily guarded
+at all times, for the protection of the guests.  Although crime isn't 
+a major concern in this part of town, the presense of security guards 
+makes the customer's stays more relaxing.  Royalty also stays here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1038</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1040</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3736</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="708" Version="2.40a" Area="ocean">
+  <Name>Hillborough Way</Name>
+  <ShortDescription>You are walking along Hillborough Way, north of the Shrine of Death.</ShortDescription>
+  <LongDescription>There are two shrines on the south side of the road: the Shrine of
+Life and the Shrine of Death.  They are essentially contained in the 
+same building, but are distinctly separate.  All clerics must go through
+the Shrines in order to complete their intermediate level training.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">617</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">709</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,460 @@
+<?xml version="1.0"?>
+<Areas>
+	<Area id="1">
+		<Width>66</Width>
+		<Height>63</Height>
+		<Depth>1</Depth>
+
+		<Name>The World</Name>
+		<DataFile>default</DataFile>
+		<CriticalX>1000</CriticalX>
+
+		<DefaultTerrain>W</DefaultTerrain>
+
+		<Roads>-|/\+?VCT</Roads>
+		<FlyPass>mnwWlLR</FlyPass>
+		<NoPass>^v</NoPass>
+		<FlightPower>6</FlightPower>
+
+		<TerrainInfo>
+			<Terrain>
+				<Id>w</Id>
+				<Name>Coastal Water</Name>
+				<Description>The coastal salt water beneath you surrounds the shores of
+the island, acting as a buffer between the beaches and the deep
+ocean water. Many commercial vessels stick to these waters
+where it is safe, although the trip is longer than sailing
+over the open sea. Schools of fish are a common sight.</Description>
+				<Cost>3</Cost>
+				<Style>B</Style>
+				<Display>~</Display>
+				<Flags><Bit Num="9"/><Bit Num="52"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>W</Id>
+				<Name>Deep Ocean Water</Name>
+				<Description>Deep ocean water stretches off into the distance in all
+directions. The water is very deep here, reaching about
+a hundred free before it finds the bottom. Marine trenches
+can extend even farther beyond that. Larger marine life
+lives here in the deep waters away from the shore,
+including animals such as whales to giant squid.</Description>
+				<Style>b</Style>
+				<Display>~</Display>
+				<Flags><Bit Num="9"/><Bit Num="52"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>z</Id>
+				<Name>Frozen River</Name>
+				<Description>The cold temperatures have frozen this river solid. It is
+strong enough to walk on without much risk of it breaking.
+It is possible that, in some areas, the water has frozen
+all the way through, though it is more likely that a
+current still flows beneath the surface.</Description>
+				<Cost>1</Cost>
+				<Style>C</Style>
+				<Display>~</Display>
+				<TrackDur>80</TrackDur>
+				<Flags><Bit Num="9"/><Bit Num="24"/><Bit Num="65"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>R</Id>
+				<Name>River</Name>
+				<Description>The waters of the river beneath are the lifeblood of
+the world, meandering through the countryside until they
+reach the ocean. Rivers vary wildly in their makeup,
+ranging from small creeks to powerful currents. A variety
+of fish live in the water and an assortment of wildlife
+often lives nearby.</Description>
+				<Cost>3</Cost>
+				<Style>B</Style>
+				<Display>~</Display>
+				<Flags><Bit Num="9"/><Bit Num="52"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>l</Id>
+				<Name>Lake</Name>
+				<Description>The lakes of the world are generally calm bodies of water,
+occasionally interrupted by rivers carrying new water.
+Many fish too large to live in the rivers find home in
+the waters of the various lakes. The deeper waters can
+become quite dark, however, and legends exist of terrible
+monsters that live beneath the calm water.</Description>
+				<Cost>3</Cost>
+				<Style>B</Style>
+				<Display>~</Display>
+				<Flags><Bit Num="9"/><Bit Num="52"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>L</Id>
+				<Name>Deep Lake</Name>
+				<Description>The lakes of the world are generally calm bodies of water,
+occasionally interrupted by rivers carrying new water.
+Many fish too large to live in the rivers find home in
+the waters of the various lakes. The deeper waters can
+become quite dark, however, and legends exist of terrible
+monsters that live beneath the calm water.</Description>
+				<Cost>3</Cost>
+				<Style>b</Style>
+				<Display>~</Display>
+				<Flags><Bit Num="9"/><Bit Num="52"/></Flags>
+			</Terrain>
+
+
+			<Terrain>
+				<Id>h</Id>
+				<Name>Hills</Name>
+				<Description>Rolling hills are scattered about the land, often
+preceding large mountain ranges. They are usually
+devoid of most life, supporting only stray grass and
+shrubs. Passage through the more rugged hills
+can be quite arduous.</Description>
+				<Cost>2</Cost>
+				<Vision>1</Vision>
+				<Style>w</Style>
+				<Display>h</Display>
+				<TrackDur>200</TrackDur>
+				<Flags><Bit Num="9"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>m</Id>
+				<Name>Mountains</Name>
+				<Description>Mountains are rugged terrain, sporting cliffs, ravines,
+crevices, and slopes. Rocks and gravel cover the landscape,
+leaving little room for trees or even grass to grow. The
+going is very dangerous, as a single slip could lead to
+a frighteningly long drop over the edge of a cliff.</Description>
+				<Vision>10</Vision>
+				<Style>r</Style>
+				<Display>m</Display>
+				<TrackDur>40</TrackDur>
+				<Flags><Bit Num="9"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>^</Id>
+				<Name>Mountain Peak</Name>
+				<Description>These mountainous peaks are the tallest points in the
+world. They reach into the clouds, razor sharp
+mountain ranges cutting into the sky. A fall from one
+of these pinnacles of the world would mean certain death.</Description>
+				<Vision>20</Vision>
+				<Style>W</Style>
+				<Display>^</Display>
+				<TrackDur>40</TrackDur>
+				<Flags><Bit Num="9"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>v</Id>
+				<Name>Volcano</Name>
+				<Description>The result of great tectonic movements, this ancient
+mountain has turned into a magma-spewing volcano. The
+temperature rises dramatically, strong enough to
+burn flesh and melt soft metal.</Description>
+				<Vision>20</Vision>
+				<Style>R</Style>
+				<Display>^</Display>
+				<Flags><Bit Num="9"/><Bit Num="21"/><Bit Num="24"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>n</Id>
+				<Name>Snowy Mountains</Name>
+				<Description>Mountains are rugged terrain, sporting cliffs, ravines,
+crevices, and slopes. Rocks and gravel cover the landscape,
+leaving little room for trees or even grass to grow. The
+going is very dangerous, as a single slip could lead to
+a frighteningly long drop over the edge of a cliff.</Description>
+				<Vision>10</Vision>
+				<Style>W</Style>
+				<Display>m</Display>
+				<TrackDur>280</TrackDur>
+				<Flags><Bit Num="9"/><Bit Num="24"/><Bit Num="65"/></Flags>
+			</Terrain>
+
+
+			<Terrain>
+				<Id>g</Id>
+				<Name>Grasslands</Name>
+				<Description>Wild grass of varying height dominates the nearby
+landscape. Meadows of tall prairie grass are interspersed
+with patches of short, rugged vegetation. A wide diversity
+of wildlife grazes throughout the grasslands of the world,
+which make for excellent hunting ground.</Description>
+				<Cost>1</Cost>
+				<Style>G</Style>
+				<Display>.</Display>
+				<TrackDur>200</TrackDur>
+				<Flags><Bit Num="9"/></Flags>
+			</Terrain>
+
+
+			<Terrain>
+				<Id>j</Id>
+				<Name>Jungle</Name>
+				<Description>Dense vegetation obscures vision in all directions. The
+canopy traps a layer of moisture and heat from escaping,
+making the jungle feel like a tropical zone. Insects are
+numerous and very annoying, buzzing about randomly. The
+chatter of birds is a nearly constant background noise.</Description>
+				<Cost>2</Cost>
+				<Vision>1</Vision>
+				<Style>g</Style>
+				<Display>j</Display>
+				<TrackDur>320</TrackDur>
+				<Flags><Bit Num="9"/><Bit Num="46"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>J</Id>
+				<Name>Dense Jungle</Name>
+				<Description>Dense vegetation obscures vision in all directions. The
+canopy traps a layer of moisture and heat from escaping,
+making the jungle feel like a tropical zone. Insects are
+numerous and very annoying, buzzing about randomly. The
+chatter of birds is a nearly constant background noise.</Description>
+				<Cost>3</Cost>
+				<Vision>2</Vision>
+				<Style>g</Style>
+				<Display>J</Display>
+				<TrackDur>500</TrackDur>
+				<Flags><Bit Num="9"/><Bit Num="46"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>f</Id>
+				<Name>Deciduous Forest</Name>
+				<Description>You are in a deciduous forest, one whose trees turn
+colors in the autumn and fall to the ground during the
+winter months. The forest is home to a great variety
+of animals, often ranging from bears and foxes to birds
+and mice. Light occasionally trickles through the canopy
+of leaves, sometimes opening into wide meadows.</Description>
+				<Cost>1</Cost>
+				<Vision>1</Vision>
+				<Style>g</Style>
+				<Display>f</Display>
+				<TrackDur>240</TrackDur>
+				<Flags><Bit Num="9"/><Bit Num="46"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>F</Id>
+				<Name>Thick Deciduous Forest</Name>
+				<Description>You are in a dense deciduous forest, one whose trees turn
+colors in the autumn and fall to the ground during the
+winter months. The forest is home to a great variety
+of animals, often ranging from bears and foxes to birds
+and mice. Light occasionally trickles through the canopy
+of leaves, sometimes opening into wide meadows.</Description>
+				<Cost>2</Cost>
+				<Vision>2</Vision>
+				<Style>g</Style>
+				<Display>F</Display>
+				<TrackDur>320</TrackDur>
+				<Flags><Bit Num="9"/><Bit Num="46"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>e</Id>
+				<Name>Evergreen Forest</Name>
+				<Description>You are in a coniferous forest made up primarily
+of evergreen trees; pines, cedars, and redwood trees. The
+needles discarded from the trees turn brown and form a
+dense blanket on the forest floor. The tall trees tend to
+block much of the sunlight and create a cool environment.</Description>
+				<Cost>1</Cost>
+				<Vision>1</Vision>
+				<Style>g</Style>
+				<Display>e</Display>
+				<TrackDur>120</TrackDur>
+				<Flags><Bit Num="9"/><Bit Num="46"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>E</Id>
+				<Name>Thick Evergreen Forest</Name>
+				<Description>You are in a dense coniferous forest made up primarily
+of evergreen trees; pines, cedars, and redwood trees. The
+needles discarded from the trees turn brown and form a
+dense blanket on the forest floor. The tall trees tend to
+block much of the sunlight and create a cool environment.</Description>
+				<Cost>2</Cost>
+				<Vision>2</Vision>
+				<Style>g</Style>
+				<Display>E</Display>
+				<TrackDur>200</TrackDur>
+				<Flags><Bit Num="9"/><Bit Num="46"/></Flags>
+			</Terrain>
+
+
+			<Terrain>
+				<Id>p</Id>
+				<Name>Plains</Name>
+				<Description>The open plains are wide expanses of grassland, although
+not quite as lush or tall. There are very few trees
+scattered about the landscape and only a small number of
+hills interrupt the otherwise placid horizon. Wildlife is
+fairly sparse in this region, only to be discovered in
+small patches where the vegetation is more fertile.</Description>
+				<Cost>1</Cost>
+				<Style>y</Style>
+				<Display>.</Display>
+				<TrackDur>200</TrackDur>
+				<Flags><Bit Num="9"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>d</Id>
+				<Name>Desert</Name>
+				<Description>The desert is a harsh region that experiences hot days
+and frigid nights. A nearly constant wind blows through
+the region, stirring up and building up sand dunes.
+Very little life can be found here, and that which can
+is dangerous; namely scorpions and snakes.</Description>
+				<Cost>1</Cost>
+				<Style>Y</Style>
+				<Display>~</Display>
+				<TrackDur>40</TrackDur>
+				<Flags><Bit Num="9"/><Bit Num="24"/><Bit Num="39"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>o</Id>
+				<Name>Oasis</Name>
+				<Description>The desert is a harsh region that experiences hot days
+and frigid nights. A nearly constant wind blows through
+the region, stirring up and building up sand dunes.
+This oasis provides some of the desperately needed
+water for those who live in the desert, and as a
+result is often the home to many animals.</Description>
+				<Cost>1</Cost>
+				<Style>B</Style>
+				<Display>~</Display>
+				<TrackDur>40</TrackDur>
+				<Flags><Bit Num="9"/><Bit Num="24"/><Bit Num="39"/></Flags>
+			</Terrain>
+			<Terrain>
+				<Id>i</Id>
+				<Name>Sand Dunes</Name>
+				<Description>This sand dune is a large collection of sand resulting
+from the sometimes fierce winds that blow through the
+desert. It provides you with a vantage point from which
+you can see for several miles, but it offers you no
+protection from the wind or the elements.</Description>
+				<Cost>2</Cost>
+				<Vision>1</Vision>
+				<Style>Y</Style>
+				<Display>h</Display>
+				<TrackDur>40</TrackDur>
+				<Flags><Bit Num="9"/><Bit Num="24"/><Bit Num="39"/></Flags>
+			</Terrain>
+
+
+			<Terrain>
+				<Id>s</Id>
+				<Name>Swamp</Name>
+				<Description>Swamps, marshes, and bogs are all treacherous places.
+They are densely packed with vegetation of all sorts,
+but are also the home to many insects carrying some
+nasty diseases. Furthermore, the ground is often
+water-logged and not always stable, providing for some
+treacherous footing.</Description>
+				<Cost>2</Cost>
+				<Vision>1</Vision>
+				<Style>m</Style>
+				<Display>s</Display>
+				<Flags><Bit Num="9"/></Flags>
+			</Terrain>
+
+
+			<Terrain>
+				<Id>r</Id>
+				<Name>Glacier</Name>
+				<Description>You are on a glacier, a massive expanse of frozen
+ice. The continual snow is packed onto the glacier,
+forming smaller, denser ice. These glaciers carve
+valley out of mountains and deform terrain where they
+pass. Only the toughest creatures can survive here.</Description>
+				<Cost>1</Cost>
+				<Style>W</Style>
+				<Display>g</Display>
+				<TrackDur>280</TrackDur>
+				<Flags><Bit Num="9"/><Bit Num="24"/><Bit Num="65"/></Flags>
+			</Terrain>
+
+			<Terrain>
+				<Id>t</Id>
+				<Name>Tundra</Name>
+				<Description>The tundra is a tract of land that is devoid of
+most tree life. The cold temperatures and short
+growing seasons mean that even grass has
+difficulties surviving here. The soil beneath your
+feet is generally frozen throughout the year.</Description>
+				<Cost>1</Cost>
+				<Style>W</Style>
+				<Display>t</Display>
+				<TrackDur>80</TrackDur>
+				<Flags><Bit Num="9"/><Bit Num="24"/><Bit Num="65"/></Flags>
+			</Terrain>
+		</TerrainInfo>
+
+		<MapInfo>
+			<Map>
+				<Id>@</Id>
+				<Name>People</Name>
+				<Style>W</Style>
+				<Display>@</Display>
+			</Map>
+			<Map>
+				<Id>?</Id>
+				<Name>Something of Interest</Name>
+				<Style>R</Style>
+				<Display>?</Display>
+			</Map>
+
+
+			<Map>
+				<Id>V</Id>
+				<Name>Village</Name>
+				<Style>R</Style>
+				<Display>V</Display>
+			</Map>
+			<Map>
+				<Id>C</Id>
+				<Name>City</Name>
+				<Style>R</Style>
+				<Display>C</Display>
+			</Map>
+			<Map>
+				<Id>T</Id>
+				<Name>Tower</Name>
+				<Style>R</Style>
+				<Display>T</Display>
+			</Map>
+
+
+			<Map>
+				<Id>-</Id>
+				<Name>Road</Name>
+				<Style>W</Style>
+				<Display>-</Display>
+			</Map>
+			<Map>
+				<Id>|</Id>
+				<Name>Road</Name>
+				<Style>W</Style>
+				<Display>|</Display>
+			</Map>
+			<Map>
+				<Id>\</Id>
+				<Name>Road</Name>
+				<Style>W</Style>
+				<Display>\</Display>
+			</Map>
+			<Map>
+				<Id>/</Id>
+				<Name>Road</Name>
+				<Style>W</Style>
+				<Display>/</Display>
+			</Map>
+			<Map>
+				<Id>+</Id>
+				<Name>Road</Name>
+				<Style>W</Style>
+				<Display>+</Display>
+			</Map>
+		</MapInfo>
+	</Area>
+</Areas>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="379" Version="2.40" Area="ocean">
+  <Name>Orchard Lane</Name>
+  <ShortDescription>You are walking along Orchard Lane, south of the Fiesty Kitten Nighclub.</ShortDescription>
+  <LongDescription>The Fiesty Kitten Nightclub and Bar is perhaps one of the most dangerous
+bars in all of Oceancrest.  It is frequented by many officers of the city
+guard or other "peacekeeping" forces.  The bar is also raided a lot by
+Morality Patrol for solicitation.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">746</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">380</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

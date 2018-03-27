@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Room Num="3000" Version="2.40" Area="ocean">
+  <Name>Tristram's Home</Name>
+  <ShortDescription>This is where Tristram comes to relax after a long day spying on mortals.</ShortDescription>
+  <LongDescription>The walls of this room are covered with beautiful tapestries from all
+parts of the world.  Each tapestry is partially transparent, and by
+squinting your eyes you can see through them to the parts of the world
+from which they come.  Behind one tapestry you can see some of your
+friends fighting a monster, as if in a movie.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

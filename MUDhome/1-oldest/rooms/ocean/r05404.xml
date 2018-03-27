@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="5404" Version="2.40" Area="ocean">
+  <Name>Forest Road/East Forest Lane</Name>
+  <ShortDescription>A wonderfully large redwood tree grows in the center of the road to the west.</ShortDescription>
+  <LongDescription>The Forest Road continues to the north and south in both directions.  Now
+isn't that strange.  Looks like a door right there in the tree!  A forest
+lane from the east ends here.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5402</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5405</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">5517</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

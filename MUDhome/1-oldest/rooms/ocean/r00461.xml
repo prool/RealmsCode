@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="461" Version="2.40" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are walking along Hofton Avenue, next to the City Guard Officer's Club.</ShortDescription>
+  <LongDescription>The City Guard Officer's Club on the south side of the road is a popular
+nightclub where many of the city guards go during their recreational time.
+The bar is rather noisy and you can see many tough characters leaving the
+bar all the time.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">460</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">441</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

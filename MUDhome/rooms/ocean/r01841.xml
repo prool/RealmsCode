@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1841" Version="2.40" Area="ocean">
+  <Name>The Southern Path</Name>
+  <ShortDescription>You are walking along the southern border of the Barbarian Pits.</ShortDescription>
+  <LongDescription>There is a warm, bubbling pool of mud located to the northwest of the
+path where a number of barbarians are resting.  It appears to be some
+sort of hot water spring bubbling through the mud that gives off the
+heat.  The path curves to the northeast where it meets the Center Path.
+The path to the west runs towards the Shaman's hut.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">261</Mob>
+      <Mob Area="ocean" Num="1">262</Mob>
+      <Mob Area="ocean" Num="2">263</Mob>
+      <Mob Area="ocean" Num="3">264</Mob>
+      <Mob Area="ocean" Num="4">262</Mob>
+      <Mob Area="ocean" Num="5">261</Mob>
+      <Mob Area="ocean" Num="6">262</Mob>
+      <Mob Area="ocean" Num="7">261</Mob>
+      <Mob Area="ocean" Num="8">262</Mob>
+      <Mob Area="ocean" Num="9">264</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1840</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1842</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1827</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

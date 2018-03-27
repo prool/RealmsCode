@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3780" Version="2.40" Area="ocean">
+  <Name>Lelion Wildlife Preserve</Name>
+  <ShortDescription>You are at a small cove on the Lithium Inlet, in the wildlife preserve.</ShortDescription>
+  <LongDescription>The waters of the inlet swirl and eddy here, not moving near as fast
+as the center of the inlet to the north.  The banks leading to the
+water's edge are grassy and inviting, and a wooden pier, apparently
+in good condition, extends into the clean and cold water.</LongDescription>
+  
+  <Established>766021368</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3779</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3781</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

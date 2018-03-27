@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="683" Version="2.40" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are walking along Darmanian Way, south of the Evenborough Stables.</ShortDescription>
+  <LongDescription>The large Evenborough Stables are able to accomodate over one hundred 
+horses at any given time.  This is useful when there are large festivals
+or other meetings in town.  On the south side of the road is the Darmanian
+Memorial, a museum-like preservation of ancient ruins of long dead
+civilizations.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">684</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">403</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

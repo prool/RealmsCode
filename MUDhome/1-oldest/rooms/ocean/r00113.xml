@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="113" Version="2.40" Area="ocean">
+  <Name>Brownhaven Way/Nathan Drive</Name>
+  <ShortDescription>This is the southern end of Brownhaven Way where it meets Nathan Drive. </ShortDescription>
+  <LongDescription>Nathan Drive runs parallel to the village wall.  Brownhaven Way is one
+of the nicer streets in the village, and as you look north, it appears to
+be a shady, tree lined street with quiet little shops tucked into amongst
+the bushes.  There's an odd looking tree growing here, however.  Looks 
+like it may well be several hundred years old.  It stands in a very small
+cemetery on the northeast side of the intersection.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">112</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">114</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">103</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

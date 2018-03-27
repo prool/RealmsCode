@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3962" Version="2.40" Area="ocean">
+  <Name>Llanandar Village</Name>
+  <ShortDescription>You are on the main path through a quaint and charming little village.</ShortDescription>
+  <LongDescription>There seems to be a village square in the middle of a small clearing.
+A great many elven folk are busy doing their daily chores, and most simply
+ignore you as they go about their business.  A sign post points west, but 
+you cannot read the language.  The houses seem to be built into living
+trees in the oak forest around you.</LongDescription>
+  
+  <Established>770446295</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">51</Mob>
+      <Mob Area="ocean" Num="1">60</Mob>
+      <Mob Area="ocean" Num="2">51</Mob>
+      <Mob Area="ocean" Num="3">60</Mob>
+      <Mob Area="ocean" Num="4">51</Mob>
+      <Mob Area="ocean" Num="5">51</Mob>
+      <Mob Area="ocean" Num="6">60</Mob>
+      <Mob Area="ocean" Num="7">51</Mob>
+      <Mob Area="ocean" Num="8">51</Mob>
+      <Mob Area="ocean" Num="9">51</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3963</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3961</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

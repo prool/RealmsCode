@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2144" Version="2.40" Area="ocean">
+  <Name>Gravel Walkway</Name>
+  <ShortDescription>You are on a winding gravel walkway between a small building in the east
+and hedged clearing to the west.</ShortDescription>
+  <LongDescription>Brightly colored wildflowers are on both sides of the walkway, which is
+well tended and has been recently raked.  The gravel walkway meanders
+through a meadow deep in the enchanted forest.  To the east you see the
+source of the pleasant smoke you have been smelling; a small cottage with
+a large smokestack at its north end.  At the south side of the cottage
+is a pond of water and a great waterwheel is on the wall of the cottage.
+A stream keeps the waterwheel turning slowly.  Thick trees are at the back
+of the cottage.</LongDescription>
+  
+  <Established>759010635</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2145</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2941</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

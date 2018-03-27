@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="959" Version="2.40" Area="ocean">
+  <Name>The Widow Maker Main Deck</Name>
+  <ShortDescription>You are on the starboard side of the main deck on the Widow Maker.</ShortDescription>
+  <LongDescription>The pirate ship Widow Maker is in relatively good condition considering the
+fact that it's out at sea nearly every day of the year.  The ship is kept
+up by the various midshipmen and other ensigns that haven't yet proven 
+themselves to the pirate captain and his officers.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">308</Mob>
+      <Mob Area="ocean" Num="1">308</Mob>
+      <Mob Area="ocean" Num="2">309</Mob>
+      <Mob Area="ocean" Num="3">310</Mob>
+      <Mob Area="ocean" Num="4">311</Mob>
+      <Mob Area="ocean" Num="5">310</Mob>
+      <Mob Area="ocean" Num="6">309</Mob>
+      <Mob Area="ocean" Num="7">308</Mob>
+      <Mob Area="ocean" Num="8">308</Mob>
+      <Mob Area="ocean" Num="9">308</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">958</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">962</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">951</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

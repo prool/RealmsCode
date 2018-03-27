@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="1218" Version="2.40" Area="ocean">
+  <Name>Appleton Road/Nagaritha Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Nagaritha Drive and Appleton Road.</ShortDescription>
+  <LongDescription>This is a rather minor intersection between the farming estates on the
+south and the cattle ranch on the north.  Appleton Road runs diagonally
+through the city to the northwest and southeast.  On the southeastern
+corner of the intersection, there is a small pub between Appleton Road
+and Overland Drive.  The main entrance to the pub is on Nagaritha Drive.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">1</Mob>
+      <Mob Area="ocean" Num="2">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="4">4</Mob>
+      <Mob Area="ocean" Num="5">7</Mob>
+      <Mob Area="ocean" Num="7">7</Mob>
+      <Mob Area="ocean" Num="8">8</Mob>
+      <Mob Area="ocean" Num="9">4</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1219</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1217</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1665</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1666</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

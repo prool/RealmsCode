@@ -1,0 +1,95 @@
+^WExit Flags^x
+ 1         Hidden                 
+ 2         Invisible              
+ 3         Locked                 set Locked and Lockable together
+ 4         Closed                 set Closed and Closable together
+ 5         Lockable               set Locked and Lockable together
+ 6         Closable               set Closed and Closable together
+ 7         NoPick                 
+ 8         NakedExit              must have no inventory to go through this exit
+ 9         ClimbUp                climbing gear required
+ 10        ClimbDown              climbing gear required
+ 11        HardClimb              
+ 12        FlyExit                must be flying to see/go to this exit
+ 13        FemaleOnly             
+ 14        MaleOnly               
+ 15        Pledge                 
+ 16        Portal                 
+ 17        NightOnly              
+ 18        DayOnly                
+ 19        PassiveGuard           any monsters flagged as Passive Guard will
+                                  block this exit
+ 20        NoSee                  
+ 21        ClsSelInvert           invert the class-selective flags
+ 22        Ass                    
+ 23        Bers                   
+ 24        Cle                    
+ 25        Ftr                    
+ 26        Mag                    
+ 27        Pal                    
+ 28        Rng                    
+ 29        Thi                    
+ 30        Vam                    
+ 31        Mon                    
+ 32        Dea                    
+ 33        Dru                    
+ 34        Lic                    
+ 35        Wer                    
+ 36        Brd                    
+ 37        Rog                    
+ 38        NoGood                 
+ 39        NoNeut                 
+ 40        NoEvil                 
+ 41        ImmortOnly             
+ 42        Clan1                  
+ 43        Clan2                  
+ 44        Clan3                  
+ 45        Clan4                  
+ 46        Clan5                  
+ 47        Clan6                  
+ 48        Clan7                  
+ 49        Clan8                  
+ 50        Clan9                  
+ 51        Clan10                 
+ 52        Clan11                 
+ 53        Clan12                 
+ 54        NoWander               monsters will not wander here
+ 55        ToStrg                 leads to player's storage room
+ 56        NoFleeTo               cannot flee to this exit
+ 57        NoScout                cannot scout this exit
+ 58        Concealed              very difficult to find; do not set Hidden
+ 59        DescOnly               cannot be searched, can only be guessed from
+                                  room description
+ 60        NoMist                 musts cannot go through this exit
+ 61        Tollbooth              players must pay a toll to go through, needs
+                                  to be a Tollkeeper in room
+ 62        TollLvlVary            toll cost will vary by level
+ 63        WatcherLock            
+ 64        MovingExit             exit has been created by ship code
+ 65        ExitToBoundRoom        exit leads to player's bound room
+ 66        RaceSelInvert          invert the race-selective flags
+ 67        Dwf                    
+ 68        Elf                    
+ 69        Hfe                    
+ 70        Hlf                    
+ 71        Hum                    
+ 72        Orc                    
+ 73        Hfg                    
+ 74        Gno                    
+ 75        Tro                    
+ 76        Hfo                    
+ 77        Ogr                    
+ 78        Dke                    
+ 79        Gob                    
+ 80        Min                    
+ 81        Ser                    
+ 82        Kob                    
+ 83        Cmb                    
+ 84        Brb                    
+ 85        Kat                    
+ 86        Tfl                    
+ 87        NotInWinter            heavy winter snows block passage
+ 88        NotInSpring            spring floods block passage
+ 89        NotInSummer            summer heat blocks passage
+ 90        NotInAutumn            simply can't go this way
+

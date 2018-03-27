@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="1844" Version="2.40" Area="ocean">
+  <Name>Western Shore of the Ramdes Bridge</Name>
+  <ShortDescription>You are on the western shore of the Ramdes River, just west of the bridge.</ShortDescription>
+  <LongDescription>The narrow bridge crosses over the relatively calm, but very deep Ramdes 
+River, which eventually empties into Lyanden Lake.  The river runs from
+the northern mountains through Oceancrest, and eventually ends up in the
+ocean.  The eastern half of the Barbarian Pits are pretty much deserted
+and reserved for very powerful barbarians who would rather be left alone.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">261</Mob>
+      <Mob Area="ocean" Num="1">262</Mob>
+      <Mob Area="ocean" Num="2">261</Mob>
+      <Mob Area="ocean" Num="3">262</Mob>
+      <Mob Area="ocean" Num="4">755</Mob>
+      <Mob Area="ocean" Num="5">264</Mob>
+      <Mob Area="ocean" Num="6">264</Mob>
+      <Mob Area="ocean" Num="7">755</Mob>
+      <Mob Area="ocean" Num="8">262</Mob>
+      <Mob Area="ocean" Num="9">261</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1831</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1843</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="river">
+      <Keys/>
+      <Room Area="ocean">4090</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="bridge">
+      <Keys/>
+      <Room Area="ocean">3943</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

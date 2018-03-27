@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="420" Version="2.40" Area="ocean">
+  <Name>Bendine Way/Hofton Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Hofton Avenue and Bendine Way.</ShortDescription>
+  <LongDescription>Hofton Way runs east and west from the intersection, running parallel to 
+the northern City Walls.  Bendine Way heads south out of the intersection
+through many of the more popular shops and facilities lining both sides
+of the road.  On the southeast corner of the intersection is the Red-Eye
+Pub and Grill Stage, where various bards and other minstrels come to 
+perform before live audiences.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">456</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">457</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">421</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

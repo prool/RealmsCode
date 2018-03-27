@@ -1,0 +1,15 @@
+>E
+5The wino belches loudly.
+>S
+1Whaddya lookin at pointy!
+>E
+2The wino hiccups.
+>E
+5The wino staggers around.
+>E
+1The wino scratches his butt.
+>S
+1Who put that wall there?
+>E
+2The wino falls on his face.
+*

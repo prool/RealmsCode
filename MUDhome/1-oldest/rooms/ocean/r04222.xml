@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="4222" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>You are on the east side of the Tower Castle of Prince Rutger.</ShortDescription>
+  <LongDescription>North of you is the castle's chapel, and south of you is the castle's
+Weather Wizard's Climate Room.  The walls along here are covered with
+banners and flags of famous commanders of the past and present.  The large
+green and gold flag with the red dragon in its field belongs to Franchot.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4221</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4223</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

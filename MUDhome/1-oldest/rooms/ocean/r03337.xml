@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3337" Version="2.40" Area="ocean">
+  <Name>Walk of Heroes</Name>
+  <ShortDescription>You are at the east end of the Walk of Heroes, which continues west. </ShortDescription>
+  <LongDescription>The crushed gravel here becomes a walk to honor heroes of Oceancrest's
+past.  North and south, off of the walk, you will find monuments erected
+in their honor.  A grassy knoll is south, and you see a monument there.</LongDescription>
+  
+  <Established>759804370</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3336</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3338</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3764</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

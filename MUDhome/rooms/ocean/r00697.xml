@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="697" Version="2.40a" Area="ocean">
+  <Name>Yellow Marsh Road</Name>
+  <ShortDescription>You are on Yellow Marsh Road, between the Avatar Ruins and the river Othax.</ShortDescription>
+  <LongDescription>On the north side of the road is the mysterious Avatar Ruins, where it
+has been said that the ancient avatars of the gods fought great battles
+throughout the land, creating massive mountains, the oceans and much
+of the features of the land.  The strange structures in the Avatar Ruins
+are said to be some of these remains.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">696</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">699</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

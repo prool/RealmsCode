@@ -1,0 +1,103 @@
+^WExit Flags^x
+ 1         Hidden                 Exit is hidden
+ 2         Invisible              Exit is invisible
+ 3         Locked                 Exit is locked: set 3-Locked and 5-Lockable together
+ 4         Closed                 Exit is closed: set 4-Closed and 6-Closable together
+ 5         Lockable               Exit can be locked: set 3-Locked and
+                                  5-Lockable together
+ 6         Closable               Exit can be closed: set 4-Closed and
+                                  6-Closable together
+ 7         NoPick                 Exit cannot be picked
+ 8         NakedExit              Must have no inventory to go through this exit
+ 9         ClimbUp                Climbing gear required
+ 10        ClimbDown              Climbing gear required
+ 11        HardClimb              Difficult to climb here
+ 12        FlyExit                Must be flying to see/go to this exit
+ 13        FemaleOnly             Only females may go through
+ 14        MaleOnly               Only males may go through
+ 15        Pledge                 Player must be pledged to any clan to go through
+ 16        Portal                 Exit created by the portal spell
+ 17        NightOnly              May only go through at night
+ 18        DayOnly                May only go through during the day
+ 19        PassiveGuard           Any monsters flagged as 39-PassiveGuard will
+                                  block this exit
+ 20        NoSee                  Players cannot see or use exit (staff only)
+ 21        ClsSelInvert           Invert the class-selective flags
+ 22        Assassin               Only Assassins may enter
+ 23        Berserker              Only Berserkers may enter
+ 24        Cleric                 Only Clerics may enter
+ 25        Fighter                Only Fighters may enter
+ 26        Mage                   Only Mages may enter
+ 27        Paladin                Only Paladins may enter
+ 28        Ranger                 Only Rangers may enter
+ 29        Thief                  Only Thieves may enter
+ 30        Vampire                Only Vampires may enter
+ 31        Monk                   Only Monks may enter
+ 32        Deathknight            Only Deathknights may enter
+ 33        Druid                  Only Druids may enter
+ 34        Lich                   Only Liches may enter
+ 35        Werewolf               Only Werewolves may enter
+ 36        Bard                   Only Bards may enter
+ 37        Rogue                  Only Rogues may enter
+ 38        NoGood                 Good players may not enter
+ 39        NoNeut                 Neutral players may not enter
+ 40        NoEvil                 Evil players may not enter
+ 41        StaffOnly              Only staff members may enter
+ 42        Clan1                  Only members of Clan 1 may enter
+ 43        Clan2                  Only members of Clan 2 may enter
+ 44        Clan3                  Only members of Clan 3 may enter
+ 45        Clan4                  Only members of Clan 4 may enter
+ 46        Clan5                  Only members of Clan 5 may enter
+ 47        Clan6                  Only members of Clan 6 may enter
+ 48        Clan7                  Only members of Clan 7 may enter
+ 49        Clan8                  Only members of Clan 8 may enter
+ 50        Clan9                  Only members of Clan 9 may enter
+ 51        Clan10                 Only members of Clan 10 may enter
+ 52        Clan11                 Only members of Clan 11 may enter
+ 53        Clan12                 Only members of Clan 12 may enter
+ 54        NoWander               Monsters will not wander here
+ 55        ToStrg                 Leads to player's storage room
+ 56        NoFleeTo               Cannot flee to this exit
+ 57        NoScout                Cannot scout this exit
+ 58        Concealed              Very difficult to find; do not set Hidden
+ 59        DescOnly               Cannot be searched, can only be guessed from
+                                  room description
+ 60        NoMist                 Musts cannot go through this exit
+ 61        Tollbooth              Players must pay a toll to go through, needs
+                                  to be a Tollkeeper in room
+ 62        TollLvlVary            Toll cost will vary by level
+ 63        WatcherLock            Watchers can unlock without a key
+ 64        MovingExit             Exit has been created by ship code
+ 65        ExitToBoundRoom        Exit leads to player's bound room
+ 66        RaceSelInvert          Invert the race-selective flags
+ 67        Dwarf                  Only Dwarves may enter
+ 68        Elf                    Only Elves may enter
+ 69        Half-Elf               Only Half-Elves may enter
+ 70        Halfling               Only Halflings may enter
+ 71        Human                  Only Humans may enter
+ 72        Orc                    Only Orcs may enter
+ 73        Half-Giant             Only Half-Giants may enter
+ 74        Gnome                  Only Gnomes may enter
+ 75        Troll                  Only Trolls may enter
+ 76        Half-Orc               Only Half-Orcs may enter
+ 77        Ogre                   Only Ogres may enter
+ 78        Dark-Elf               Only Dark-Elves may enter
+ 79        Goblin                 Only Goblins may enter
+ 80        Minotaur               Only Minotaurs may enter
+ 81        Seraph                 Only Seraphs may enter
+ 82        Kobold                 Only Kobolds may enter
+ 83        Cambion                Only Cambions may enter
+ 84        Barbarian              Only Barbarians may enter
+ 85        Kataran                Only Katarans may enter
+ 86        Tiefling               Only Tieflings may enter
+ 87        NotInWinter            Heavy winter snows block passage
+ 88        NotInSpring            Spring floods block passage
+ 89        NotInSummer            Summer heat blocks passage
+ 90        NotInAutumn            Simply can't go this way
+ 91        OnOpen:Player          OnOpen will only print to player
+ 92        ToPrevious             Take player to room they were previously in
+ 93        MistOnly               Only mists may pass through
+ 94        CanLook                Can look through this exit (free scout)
+ 95        LookOnly               Can only look through this exit (free scout)
+ 96        LockAfterUsage         Exit locks and closes after being used once
+

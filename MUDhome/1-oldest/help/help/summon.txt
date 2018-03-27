@@ -1,0 +1,18 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  summon spell       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 28
+School:  Translocation
+Domain:  Travel
+
+This spell summons its target to the room of the caster, summoning him across an
+infinite stretch of land. Note that natural occurances often interfere with the
+summon spell, most often in underground or magical locations. The target must
+have also set the SUMMON flag for this spell to work.
+
+Mages, liches, and clerics may cast the summon spell starting at 7th level; all
+other classes must wait until 10th level. Below 15th level, a character may have
+difficulty summoning more powerful players.
+
+Syntax:
+cast summon <target>

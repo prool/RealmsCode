@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  dustgust spell    |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 7
+
+This spell is a decent spell in the wind realm. Gusts of wind will fly from the
+caster's hands, knocking the target to its feet and striking it with anything
+nearby that is not bolted down. Broken bones may sometimes result, although they
+are not entirely common.
+
+Syntax:
+cast dustgust <target>
+

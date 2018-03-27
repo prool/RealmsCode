@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="362" Area="ocean" Version="2.40">
+  <Name>red training key</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>6</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">15</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">training</Key>
+    <Key Num="1">key</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a bright red training key used to open the red training room.</Description>
+  <Weight>1</Weight>
+  <Type>12</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

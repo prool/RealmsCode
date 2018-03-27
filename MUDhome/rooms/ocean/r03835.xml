@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3835" Version="2.40" Area="ocean">
+  <Name>Beneath the Secret Fireplace</Name>
+  <ShortDescription>This is the Dark Lords secret weapons storage facility.</ShortDescription>
+  <LongDescription>Somehow you have found the storage chamber beneath the merceranry head-
+quarters.  If you do not belong here, it would be a good idea to leave
+before guards come...  Or even worse, one of the Dark Lords.</LongDescription>
+  
+  <Established>769562622</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3833</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3836</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="4207" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>You are in a great hallway that encircles the Castle Rutger.</ShortDescription>
+  <LongDescription>The castle is built in the form of concentric levels, each one atop the
+other.  This level is the lowest and hence the largest.  The hallway you
+are in completely encircles the base level where troops and other members
+of Rutger's fighting forces are garrisoned.  On the upper floors you will 
+members of the royal family and counselors to the Prince.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4203</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

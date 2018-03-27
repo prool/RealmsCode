@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3401" Version="2.40" Area="ocean">
+  <Name>Middle Ring</Name>
+  
+  <Established>760009729</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3400</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3402</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

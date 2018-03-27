@@ -1,0 +1,17 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  AOE spells      |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+AOE (area-of-effect) spells are spells that can damage multiple targets. Each
+elemental realm has a single AOE spell associated with it. To be able to cast
+an AOE spell, you must be high enough level to cast a 5th tier spell.
+
+The caster of an AOE spell can target monsters, players, or both. Note that
+for the purpose of this spell, all pets will be treated as players. Thus,
+targeting the monsters in the room will skip all pets, and targeting the
+players in a room will also target pets. An AOE spell does damage similar to
+that of a 2nd tier spell.
+
+Syntax:
+cast spell [<monsters>|<players>|<all>]
+

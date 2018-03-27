@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3072" Version="2.40" Area="ocean">
+  <Name>Temple Passage</Name>
+  <ShortDescription>You are in a secret passage on the west side of the Ulandian Temple.</ShortDescription>
+  <LongDescription>The wall has buckled and you must squeeze sideways if you want to continue
+in either direction.  It looks as though another passage connected here
+long ago, and probably ran to the west, but now there is nothing but debris
+in that direction.  Looks like it is impossible to go that way.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3071</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3073</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

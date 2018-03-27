@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  quests^x         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Quests are obtained by talking to various creatures around the world.  The
+requirements vary by quest, but will often require you to visit a new place
+in the world, kill some other monsters, and possibly obtain some items for
+the creature.
+
+Rewards also vary but generally include gold, experience and special items.
+
+Some quests are repetable and can be done many times, others can only be
+done once.  Some quests additionally have pre-requisites (other quests you
+have to complete before you will be allowed to undertake the new quest)
+
+^WSee also:^x quest (command)

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="537" Version="2.40" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are on Lelion Way, sickened by the smell of the Lyanden Swamp.</ShortDescription>
+  <LongDescription>The large swamp on the north side of the road is formed by the collection
+of stale water in the basin as a result of building Lelion Way.  Normally,
+the water would exit to the ocean, but poor planning resulted in a sort of
+artificial dam, which left the area underwater.  On the south side of the
+road are a number of shops in a large complex.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">536</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">538</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

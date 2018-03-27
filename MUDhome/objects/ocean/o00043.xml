@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="43" Area="ocean" Version="2.40">
+  <Name>silver crucifix</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>2</ShotsMax>
+  <ShotsCur>2</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>3</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">crucifix</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>It's a shining silver crucifix, former possession of some devout monk.</Description>
+  <Weight>1</Weight>
+  <Type>5</Type>
+  <SubType>club</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

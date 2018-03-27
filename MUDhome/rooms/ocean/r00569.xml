@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="569" Version="2.40" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are on Leviathan Drive, walking between the Ruins and an old forest.</ShortDescription>
+  <LongDescription>The entrance to the Ruins is along Avatar Boulevard, which is the next
+north-south street to the west.  On the east side of the road you can
+see a very old and undisturbed forest.  There has been some mention of 
+druids by members of the clergy.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">5</Mob>
+      <Mob Area="ocean" Num="1">5</Mob>
+      <Mob Area="ocean" Num="2">5</Mob>
+      <Mob Area="ocean" Num="3">5</Mob>
+      <Mob Area="ocean" Num="4">5</Mob>
+      <Mob Area="ocean" Num="5">10</Mob>
+      <Mob Area="ocean" Num="6">8</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">568</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">570</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

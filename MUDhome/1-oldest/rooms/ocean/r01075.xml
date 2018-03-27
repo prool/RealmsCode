@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1075" Version="2.40" Area="ocean">
+  <Name>Rosecrest/Eidenhoft/Waterfront Intersection</Name>
+  <ShortDescription>You are at the major intersection of Rosecrest, Eidenhoft and Waterfront.</ShortDescription>
+  <LongDescription>This intersection brings together Rosecrest Street, which runs parallel
+to the City Wall on the west, Eidenhoft Boulevard, which runs northeast
+from here towards the Memorial Fountain and the center of town, and
+Waterfront Way, a more rural path which heads towards the farms and 
+grainery after it passes the shopping centers to the east.  This
+intersection is not quite as busy as others because it runs along the
+west City Wall.  It is however patroled regularly by the city guards.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1074</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1076</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1103</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1059</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

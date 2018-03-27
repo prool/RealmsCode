@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="503" Area="ocean" Version="2.40">
+  <Name>vorpal battle crescent</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>5</Number>
+    <Sides>3</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">20000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">battle</Key>
+    <Key Num="1">crescent</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+  </Flags>
+  <Description>A long pole with four polished blades at the end, looks deadly.</Description>
+  <Weight>10</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

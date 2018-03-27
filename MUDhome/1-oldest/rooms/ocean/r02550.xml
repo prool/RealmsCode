@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2550" Version="2.40" Area="ocean">
+  <Name>Ivory Way</Name>
+  <ShortDescription>You are on Ivory Way, which runs north-south through the city.</ShortDescription>
+  <LongDescription>A small tree-lined park can be seen to the east, and a wall around the
+Great Observatory is on the west.  Most people think there is only one
+entrance to the Observatory which they point out as the one on Tiamat Lane.
+But sometimes, early in the morning hours, the really big wigs who run that
+place can be seen leaving the park, and nobody saw them go in there.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2013</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2023</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

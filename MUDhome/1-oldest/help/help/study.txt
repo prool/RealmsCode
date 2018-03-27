@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  learn          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The study command allows you to study magical scrolls and learn the spell that
+is written upon it. Most spells have to be learned this way. Once a scroll is
+studied, it disintegrates.
+
+Example:
+: study silv
+You learn the vigor spell.
+The silver-tubed scroll disintegrates!
+:

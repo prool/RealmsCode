@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="80" Area="ocean" Version="2.40">
+  <Name>30 platinum pieces</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">150</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">platinum</Key>
+    <Key Num="1">pieces</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="5"/>
+  </Flags>
+  <Description>They glitter beautifully.</Description>
+  <Weight>5</Weight>
+  <Type>11</Type>
+  <InBag/>
+</Object>

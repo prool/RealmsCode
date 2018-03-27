@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3022" Version="2.40" Area="ocean">
+  <Name>Goblin Shrine Entrance</Name>
+  <ShortDescription>You are standing at the entrance to a goblin underground shrine.  </ShortDescription>
+  <LongDescription>Ahead of you lies a wide, long torch lit tunnel leading into the
+goblin shrine. You hear wails and shrieks coming from the tunnel
+in front of you.  Inscribed on the western wall is the warning:
+"All unbelievers will answer to Byhtme, the high priest of Maglubyet."
+You ponder the question if your decision to come here was such a good idea.  
+c</LongDescription>
+  
+  <Established>761304100</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3021</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3023</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,15 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  dice         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This command allows you to roll a combination of dice you specify. If no
+combination of dice is specified, it is assumed 2 6-sided dice are rolled (2d6).
+This is useful for things such as dividing up treasure amongst a group, or just
+sitting around and gambling when idling.
+
+Example:
+: dice 2d6+2
+You roll 2d6+2
+: 11
+:
+

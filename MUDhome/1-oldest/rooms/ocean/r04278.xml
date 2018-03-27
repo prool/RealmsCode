@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="4278" Version="2.40a" Area="ocean">
+  <Name>Hallway of the Nobles</Name>
+  <ShortDescription>You are in a hallway reserved for the pledged friends of Prince Rutger.</ShortDescription>
+  <LongDescription>the doors you see lead to the apartments of some of the finest adventurers
+in the Land of Mordor.  All of them have distinguished themselves in battle
+against the forces of Ragnar, and have earned their positions here.</LongDescription>
+  
+  
+  
+  <Established>792964725</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>stairs</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4279</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4280</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4281</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4282</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4283</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4284</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stairs">
+      <Keys/>
+      <Room Area="ocean">4276</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

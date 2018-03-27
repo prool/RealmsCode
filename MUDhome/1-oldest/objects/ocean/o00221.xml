@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="221" Area="ocean" Version="2.40">
+  <Name>bardiche of dismemberment</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>125</ShotsMax>
+  <ShotsCur>125</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>8</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">25000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">dismemberment</Key>
+    <Key Num="1">  </Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>You see a golden bardiche consisting of a large pole with a golden blade.</Description>
+  <Weight>10</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

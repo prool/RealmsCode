@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="5549" Version="2.40" Area="ocean">
+  <Name>Glabor's Throne Room</Name>
+  <ShortDescription>You stand before the throne of Glabor, King of the Mountain Trolls.</ShortDescription>
+  <LongDescription>Once every ten years, the strongest of the trolls fight to the death
+amongst themselves for the privilege of challenging the current holder
+of the throne.  Glabor has lasted longer than any previous king, and has
+been here fifty years.  His strength and love of a fight is legendary.</LongDescription>
+  
+  <Established>795393380</Established>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters>
+      <Mob Area="ocean">671</Mob>
+      <Mob Area="ocean" Num="1">30</Mob>
+      <Mob Area="ocean" Num="2">30</Mob>
+      <Mob Area="ocean" Num="3">671</Mob>
+      <Mob Area="ocean" Num="4">30</Mob>
+      <Mob Area="ocean" Num="5">30</Mob>
+      <Mob Area="ocean" Num="6">30</Mob>
+      <Mob Area="ocean" Num="7">671</Mob>
+      <Mob Area="ocean" Num="8">30</Mob>
+      <Mob Area="ocean" Num="9">671</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">786</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5548</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

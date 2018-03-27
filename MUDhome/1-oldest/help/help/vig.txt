@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  vigor          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 2
+School:  Other
+Domain:  Healing
+Shortcut: v
+
+This spell is the lowest level healing spell. As clerics and paladins are more
+pious in nature, they often fare better at casting this spell than others. Only
+minor wounds are healed, though, and vigor might not be able to save the target
+from life-threatening injuries.
+
+Syntax:
+cast vigor <target>

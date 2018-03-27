@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3850" Version="2.40a" Area="ocean">
+  <Name>Uland Trading Center</Name>
+  <ShortDescription>You are in an irregular shaped plaza known as the Uland Trading Center.</ShortDescription>
+  <LongDescription>A variety of small shops are tucked into this quaint little plaza of
+cobblestones and ancient buildings.  Evidently the owners of several
+of the shops live in quarters above them.  Directly east is a friendly
+looking place known as the Adventurer's Haven.  To the north is a tiny
+little neighborhood pub called the Tail-o-the-Dragon.  It's said that
+a retired hero of Oceancrest owns it and entertains patrons with his
+heroic tales.</LongDescription>
+  
+  <Established>768080813</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1645</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3851</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

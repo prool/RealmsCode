@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3743" Version="2.40" Area="ocean">
+  <Name>Paladin Training Room</Name>
+  <ShortDescription>Congratulations, you are ready to advance to the next level.</ShortDescription>
+  <LongDescription>Only the brave and pure are allowed to advance in the holy order of the
+paladins.  You must be very proud of the order, yet humble in your own
+accomplishments.  One day you will take your place in the council and
+look back at your adventures as a grand time in the Quest for Mordor.</LongDescription>
+  
+  <Established>766781025</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">290</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

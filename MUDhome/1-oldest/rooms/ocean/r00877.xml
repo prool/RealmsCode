@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="877" Version="2.44b" Area="ocean">
+  <Name>Gypsy King's Sleeping Quarters</Name>
+  <ShortDescription>You are in the bedroom of the king of the gypsys.</ShortDescription>
+  <LongDescription>The massive oak bed takes up most of the room, leaving little space
+for the clutter of strange items that have been gathered after years
+of travel in the Land of Mordor.  A mechanical bird in a cage watches
+your every step as you move about the room.  On a high shelf you can
+see a brass vial which gives off a sweet smelling vapor, contending
+with a pungent odor coming from a salve in a blood-red container
+marked "eternal youth."</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:59 2009
+</LastPlayerTime>
+  <Trap>1</Trap>
+  <TrapExit Area="ocean">893</TrapExit>
+  <BeenHere>1</BeenHere>
+  <Flags><Bit Num="12"></Bit><Bit Num="16"></Bit></Flags>
+  <Wander></Wander>
+  <Track><Direction>out</Direction></Track>
+  <Effects></Effects>
+  <PermMobs><LastTime Num="0"><Interval>3600</Interval><LastTime>0</LastTime><Misc Area="ocean">391</Misc></LastTime></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures><CrtRef Num="391" Area="ocean" Version="2.44b"><Name>the king of the gypsys</Name><Level>7</Level><Type>1</Type><Experience>200</Experience><Coins><Coin Num="2">71</Coin></Coins><Stats><Stat Name="Strength"><Current>180</Current><Max>180</Max><Initial>1024</Initial><TempMax>0</TempMax></Stat><Stat Name="Dexterity"><Current>170</Current><Max>170</Max><Initial>0</Initial><TempMax>0</TempMax></Stat><Stat Name="Constitution"><Current>130</Current><Max>130</Max><Initial>0</Initial><TempMax>0</TempMax></Stat><Stat Name="Intelligence"><Current>120</Current><Max>120</Max><Initial>0</Initial><TempMax>0</TempMax></Stat><Stat Name="Piety"><Current>120</Current><Max>120</Max><Initial>1024</Initial><TempMax>0</TempMax></Stat><Stat Name="Hp"><Current>80</Current><Max>80</Max><Initial>0</Initial><TempMax>0</TempMax></Stat><Stat Name="Mp"><Current>10</Current><Max>10</Max><Initial>0</Initial><TempMax>0</TempMax></Stat></Stats><Flags><Bit Num="0"></Bit><Bit Num="5"></Bit><Bit Num="7"></Bit><Bit Num="8"></Bit><Bit Num="12"></Bit><Bit Num="17"></Bit></Flags><LastTimes><LastTime Num="3"><Interval>0</Interval><LastTime>1259002799</LastTime><Misc>0</Misc></LastTime><LastTime Num="4"><Interval>0</Interval><LastTime>1259002799</LastTime><Misc>0</Misc></LastTime><LastTime Num="6"><Interval>0</Interval><LastTime>1259002799</LastTime><Misc>0</Misc></LastTime><LastTime Num="8"><Interval>60</Interval><LastTime>1259002860</LastTime><Misc>0</Misc></LastTime><LastTime Num="41"><Interval>0</Interval><LastTime>1259002799</LastTime><Misc>0</Misc></LastTime><LastTime Num="100"><Interval>55</Interval><LastTime>1259002860</LastTime><Misc>0</Misc></LastTime><LastTime Num="101"><Interval>30</Interval><LastTime>1259002799</LastTime><Misc>0</Misc></LastTime></LastTimes><Inventory></Inventory></CrtRef></Creatures>
+  <Exits><Exit Name="out"><Keys></Keys><Target><Room Area="ocean">876</Room></Target><Effects></Effects></Exit><Exit Name="trap door"><Keys></Keys><Target><Room Area="ocean">892</Room></Target><Key>40</Key><Effects></Effects><Flags><Bit Num="0"></Bit><Bit Num="2"></Bit><Bit Num="3"></Bit><Bit Num="4"></Bit><Bit Num="5"></Bit><Bit Num="6"></Bit></Flags></Exit></Exits>
+</Room>

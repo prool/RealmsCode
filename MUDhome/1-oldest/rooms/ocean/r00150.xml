@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="150" Version="2.40" Area="ocean">
+  <Name>East Ulandia</Name>
+  <ShortDescription>You are on East Ulandia, traveling in a north-south direction.</ShortDescription>
+  <LongDescription>A row of some of the better shops for this part of the village are on
+the east side of the road.  There seems to be small living quarters
+above each shop, and the sidewalk is swept clean in front each store.
+A wooden sign swings in the breeze over the door of a store that seems
+to specialize in leather armor for mages.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">2</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">145</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">155</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

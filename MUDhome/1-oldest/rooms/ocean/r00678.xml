@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="678" Version="2.40a" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You can see the impressive City Walls on the north side of Hofton Avenue.</ShortDescription>
+  <LongDescription>The imposing City Walls provide much of the security for the town.
+Being on the coast of the Respitial Sea, it is has been easy to attack and
+overpower the city.  Of course, this has happened many times, so in order
+to prevent something like this happening again, the City Walls were built
+around the town on the land and even into the ocean for the ultimate in
+city defense.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">677</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">679</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,20 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  guild shops        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Player shops can be associated with a guild by using the ^yshop guild assign^x
+command. This has two main effects:
+
+  1. All guild members become partial owners of this shop. This allows them
+     to stock items (but not to unstock).
+  2. All profits from the shop are deposited into the guild's bank account.
+
+Ownership of the shop remains with the player who purchased the shop, not the
+guild. If the player is removed from the guild, the shop will be as well.
+Shops built inside the guild foyer are an exception: ownership will remain
+with the guildmaster, just like the guild hall.
+
+You may use the ^yshop guild remove^x command to unassign a shop from a guild.
+
+For further information about guilds, please type ^yHELP GUILDS^x.
+

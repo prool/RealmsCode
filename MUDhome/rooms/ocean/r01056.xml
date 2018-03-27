@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1056" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are on Eidenhoft Boulevard, which runs diagonally through town.</ShortDescription>
+  <LongDescription>Eidenhoft Boulevard was named after Edmund Eidenhoft, the premire 
+architech who designed most of Oceancrest.  The road runs diagonally
+through the southern portion of town as to provide a very quick path
+from the southwest corner to the Arena and other notable buildings 
+towards the center of town.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1044</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1057</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

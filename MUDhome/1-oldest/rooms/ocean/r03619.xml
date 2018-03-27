@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3619" Version="2.40" Area="ocean">
+  <Name>Main Courtyard West</Name>
+  <ShortDescription>You are on the western side of the main courtyard in Castle Ragnar.</ShortDescription>
+  <LongDescription>There are a small group of tents here, each a different color and size.
+this is a favorite spot for the money lenders and money changers to
+gather.  Travelers from far places often prefer to get their money 
+changed to the local currency to avoid looking like what they are, 
+tourists, and thus being charged higher than normal prices.  This is
+a good place to trade-in your foreign bills for Oceancrest gold.</LongDescription>
+  
+  <Established>762645498</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3626</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3618</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3620</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

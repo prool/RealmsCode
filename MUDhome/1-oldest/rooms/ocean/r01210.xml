@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1210" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are walking along Nagaritha Drive, north of the Corn Fields.</ShortDescription>
+  <LongDescription>The rolling corn fields on the south side of the road provide food for
+most of the residents of Oceancrest.  Mr. DeNail owns and operates the
+large complex, and is always willing to hire on some unskilled labor 
+to work the fields and scare off the crows and other pests that plague
+the corn fields.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1211</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1209</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

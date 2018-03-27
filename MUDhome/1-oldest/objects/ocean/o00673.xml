@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="673" Area="ocean" Version="2.40">
+  <Name>elven magical crossbow</Name>
+  <Adjustment>2</Adjustment>
+  <ShotsMax>80</ShotsMax>
+  <ShotsCur>80</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>3</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">6000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">magical</Key>
+    <Key Num="1">crossbow</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="38"/>
+  </Flags>
+  <Description>The crossbow has a strangely warm feeling to it, almost as if it were alive.</Description>
+  <UseOutput>The elves love to work with wood, and are not strangers to magic.</UseOutput>
+  <Weight>5</Weight>
+  <Type>5</Type>
+  <SubType>crossbow</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

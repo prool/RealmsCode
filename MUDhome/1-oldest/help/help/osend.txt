@@ -1,0 +1,11 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  osend          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+This command is similar to the send and tell commands (HELP SEND), but it is the
+version to use for out of character speech.
+
+Example:
+: ot bob hey
+You sent: "[ooc]: hey" to Bob.
+:

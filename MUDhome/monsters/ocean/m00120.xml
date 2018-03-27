@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<Creature Num="120" Area="ocean" Version="2.40">
+  <Name>farmer's wife</Name>
+  <Class>4</Class>
+  <Level>1</Level>
+  <Type>1</Type>
+  <Experience>8</Experience>
+  <Coins/>
+  <Alignment>40</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>100</Current>
+      <Max>100</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>8</Current>
+      <Max>8</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>0</Current>
+      <Max>0</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>This woman is sure homely!</Description>
+  <Keys>
+    <Key Num="0">wife</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>50</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>1</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>That's right... the one who cut off the mouse tails with a carving knife.</Talk>
+  <DefenseSkill>5</DefenseSkill>
+  <AttackPower>206</AttackPower>
+  <WeaponSkill>5</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">171</Carry>
+    <Carry Area="ocean" Num="1">171</Carry>
+    <Carry Area="ocean" Num="2">162</Carry>
+    <Carry Area="ocean" Num="3">169</Carry>
+    <Carry Area="ocean" Num="4">169</Carry>
+    <Carry Area="ocean" Num="5">170</Carry>
+    <Carry Area="ocean" Num="6">170</Carry>
+    <Carry Area="ocean" Num="7">162</Carry>
+    <Carry Area="ocean" Num="8">162</Carry>
+    <Carry Area="ocean" Num="9">169</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags/>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

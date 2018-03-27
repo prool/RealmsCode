@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="2814" Version="2.40a" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>The dark hallway runs east and west underneath the giant glacier.</ShortDescription>
+  <LongDescription>Light reaches this part of the hallway, but just barely.  You can see the
+massive block of ice above you, but there's no way of telling just how far
+the ice extends and exactly how far underground you are.  As you head
+further to the east, you can see the darkness setting in as you head into
+the rocks under the glacier.</LongDescription>
+  
+  
+  
+  <Established>728799399</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="18"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>hidden passage</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2815</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2805</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hidden passage">
+      <Keys/>
+      <Room Area="ocean">2829</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

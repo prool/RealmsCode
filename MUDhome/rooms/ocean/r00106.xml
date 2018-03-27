@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="106" Version="2.40" Area="ocean">
+  <Name>Guard's Rec Room</Name>
+  <ShortDescription>This is the recreation room where the Guards rest and relax.</ShortDescription>
+  <LongDescription>The guards are bothered by you.  Oops, looks like you got yourself in a bit
+of trouble.  You might be able to grab one of the nice, new weapons you
+see in a rack by the door, if you need it.  Then again, you might not.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>18</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">30</Mob>
+      <Mob Area="ocean" Num="1">30</Mob>
+      <Mob Area="ocean" Num="2">30</Mob>
+      <Mob Area="ocean" Num="3">30</Mob>
+      <Mob Area="ocean" Num="4">30</Mob>
+      <Mob Area="ocean" Num="5">30</Mob>
+      <Mob Area="ocean" Num="6">30</Mob>
+      <Mob Area="ocean" Num="7">30</Mob>
+      <Mob Area="ocean" Num="8">30</Mob>
+      <Mob Area="ocean" Num="9">30</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">30</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">282</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">96</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

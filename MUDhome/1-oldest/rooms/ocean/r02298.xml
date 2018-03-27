@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room Num="2298" Version="2.44b" Area="ocean">
+  <Name>The University Library</Name>
+  <ShortDescription>You are at the entrance to the great University Library, the center of
+knolwedge for many of the great thinking persons in the world.</ShortDescription>
+  <LongDescription>The University Library is filled with tomes and scrolls of all kinds.  
+Many are locked behind strange doors, not having been disturbed for 
+ages.  Others are behind combination locks that prevent tampering.  In
+any case, there is more knowledge contained here than there will ever be
+in even the greatest mage.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>down</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs><LastTime Num="0"><Interval>300</Interval><LastTime>0</LastTime><Misc Area="ocean">499</Misc></LastTime></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1722</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

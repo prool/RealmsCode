@@ -1,0 +1,168 @@
+OPERMT          1       /* Permanent item (not yet taken) */ 
+OHIDDN          2       /* Hidden */ 
+OINVIS          3       /* Invisible */ 
+OSOMEA          4       /* "some" prefix */ 
+ODROPS          5       /* Don't add s on plural */ 
+ONOPRE          6       /* No prefix */ 
+		7       /* unused */ 
+OWTLES          8       /* Container of weightless holding */ 
+OTEMPP          9       /* Temporarily permanent */ 
+OPERM2          10       /* Permanent INVENTORY item */ 
+ONOMAG          11      /* Mages cannot wear/use it */ 
+OLIGHT          12      /* Object serves as a light */ 
+OGOODO          13      /* Usable only by good players */ 
+OEVILO          14      /* Usable only by evil players */ 
+ONOENC          15      /* Cannot be enchanted */ 
+ONOFIX          16      /* Cannot be repaired */ 
+OCLIMB          17      /* Climbing gear */ 
+ONOTAK          18      /* Cannot be taken */ 
+OSCENE          19      /* Part of room description/scenery */ 
+OSIZE1          20      /* OSIZE: 00=all wear, 01=small wear, */ 
+OSIZE2          21      /* 10=medium wear, 11=large wear */ 
+ORENCH          22      /* Random enchantment flag */ 
+OCURSE          23      /* The item is cursed */ 
+OWEARS          24      /* The item is being worn */ 
+OUSEFL          25      /* Can be used from the floor */ 
+OCNDES          26      /* Container devours items */ 
+O_FEMALE_ONLY   27      /* Usable by only females */ 
+O_MALE_ONLY     28      /* Usable by only males */ 
+O_SEXLESS_ONLY  29      /* Usable by only sexless creatures */ 
+OPLDGK          30      /* pledge players may only use */ 
+OLARMO          31      /* Object is light armor */
+OCLSEL          32      /* class selective invert */ 
+			/* Caution: this could let monks and wolves use the item */
+OASSNO          33      /* class selective: assassin */ 
+OBARBO          34      /* class selective: barbarian */ 
+OCLERO          35      /* class selective: cleric */ 
+OFIGHO          36      /* class selective: fighter */ 
+OMAGEO          37      /* class selective: mage */ 
+OPALAO          38      /* class selective: paladin */ 
+ORNGRO          39      /* class selective: ranger */ 
+OTHIEO          40      /* class selective: thief */ 
+OVAMPO          41      /* class selective: vamp */ 
+OMONKO          42      /* class selective: monk */ 
+ODEATO          43      /* class selective: death knight */ 
+ODRUDO          44      /* class selective: druid */ 
+OLICHO          45      /* class selective: lich */
+OWEREO          46      /* class selective: werewolf */
+OBARDO          47      /* class selective: bard */
+OROGUE          48      /* class selective: rogue */
+		49      /* unused */ 
+ONSHAT          50      /* weapon will never shatter */ 
+OALCRT          51      /* weapon will always critical */ 
+OLUCKY          52      /* Item is a luck charm */ 
+OWCAST          53      /* Weapon casts */ 
+OTWOHA          54      /* Weapon requires two hands, (no dlb wield) */
+OIREGP          55      /* Irregular Plural Name */
+		56      /* unused */ 
+OCHAON          57      /* Chaotics Only */
+OLAWON          58      /* Lawfuls Only */
+OTMENC		59      /* Temp Emchant */ 
+O_STARTING	60      /* Starting Item */
+		61      /* unused */  
+ /*Clan Flags, note flag 30 must also be set */
+OCLAN1          62      /* Clan 1 can use */
+OCLAN2          63      /* Clan 2 can use */
+OCLAN3          64      /* Clan 3 can use */
+OCLAN4          65      /* Clan 4 can use */
+OCLAN5          66      /* Clan 5 can use */
+OCLAN6          67      /* Clan 6 can use */
+OCLAN7          68      /* Clan 7 can use */
+OCLAN8          69      /* Clan 8 can use */
+OCLAN9          70      /* Clan 9 can use */
+OCLAN0          71      /* Clan 10 can use */
+	ORMAGI          72      /* Confers Resist-Magic when worn */
+	ORFIRE          73      /* Confers Resist-Fire when worn */
+	ORCOLD          74      /* Confers Resist-Cold when worn */
+	OREART          75      /* Confers Earth-Shield when worn */
+	OBWATR          76      /* Confers Breathe-Water when worn */
+	ORDRAN          77      /* Wearer resists xp drain and lich drain */
+	ODMAGI          78      /* Confers Detect-magic to wearer */
+	ODINVI  	        79      /* Confers Detect-invisible to wearer */
+	ORSTUN          80      /* Wearer resists-stun spell */
+	OENONL          81      /* Wearer can only be hit by magic weapons */
+ORDISS          82      /* Object resists-dissolve */
+	OFLY            83      /* Wearer under fly spell */
+	OLEV            84      /* Wearer under levitate spell */
+	OWINVI          85      /* Wearer is invisible */
+	OWORN           86      /* Object must be worn to use magic */
+	OBLESS          88      /* Wearer under bless spell */
+	OPEART          89      /* Wearer resists-earth realm */
+	OPAIR           90      /* Wearer resists-air realm */
+	OPFIRE          91      /* Wearer resists-fire realm */
+	OPWATR          92      /* Wearer resists-water realm */
+OEAT            93      /* this flag and potion type 6 to make eatable */
+OADROP          94      /* Mobs always drop */
+/* Flags 95-99 require DM permission to set. */
+	OSTRUP          95      /* Str goes up when worn */
+	ODEXUP          96      /* Dex goes up when worn */
+	OCONUP          97      /* Con goes up when worn */
+	OINTUP          98      /* Int goes up when worn */
+	OPTYUP          99      /* Pty goes up when worn */
+OCLA11          100     /* Only clan 11 can use */
+OCLA12          101     /* Only clan 12 can use */
+		102     /* unused */  
+		103     /* unused */  
+		104     /* unused */  
+OCUSTO          105     /* Object is a custom */
+ONSLFT          106     /* Object cannot be shoplifted */
+OSTOLN          107     /* Object was shoplifted (cannot be pawned) */
+OCAMOF          108     /* Object confers camouflage when worn */
+OHMIST          109     /* Weapon can hit misted vampire */
+OSILVR          110     /* Object is made of silver */
+OTHACO          111     /* Object makes thaco better when held */
+O_UNUSED        112     /* unused */
+ONOSTE          113     /* Object cannot be stolen */
+OSMSHE          114     /* Object can be worn with 2 weapons (shields) */
+OPRO20          115     /* Need 20% prof to use */
+OPRO40          116     /* Need 40% prof to use */
+OPRO60          117     /* Need 60% prof to use */
+OPRO80          118     /* Need 80% prof to use */
+ONPAWN          119     /* Object not pawnable */
+OBDROP          120     /* Object breaks when drops */
+OILORE          121     /* Lore Item */
+ORASEL          122     /* race selective invert */ 
+ODWRFO          123     /* race selective: dwarf */ 
+OELFO           124     /* race selective: elf */ 
+OHELFO          125     /* race selective: half-elf */
+OHAFLO          126     /* race selective: halfling */
+OHUMAO	        127	/* race selective: human */ 
+OORCO		128	/* race selective: orc */
+OHAFGO	        129	/* race selective: half-giant */
+OGNOMO          130     /* race selective: gnome */
+OTROLO          131     /* race selective: troll */
+OHORCO	        132	/* race selective: half-orc */
+OOGREO	        133	/* race selective: ogre */
+ODELFO          134     /* race selective: dark-elf */
+OGOBLO          135     /* race selective: goblin */ 
+OMINOO	        136	/* race selective: minotaur */
+OSERAO          137     /* race selective: seraph */
+OKBLDO	        138	/* race selective: kobold */
+OCAMBO          139     /* race selective: cambion */
+OBARBO          140     /* race selective: barbarian */
+OKATAO          141     /* race selective: kataran */
+OENVEN          142     /* object has been envenomed */
+OMNULL          143     /* object has null magic signature */
+ONBRAK          144     /* Object does not break */
+OCANTW          145     /* Can wield and touch with */
+OJBOUG	        146	/* Object was just bought */
+ONDROP          147     /* Object is No Drop */
+OLOGIN          148     /* display file all at once */
+OBROKN          149     /* Object is broken by break command */
+OSMBOW          150     /* Object is a small bow - Hand crossbow */
+OCOINO          151     /* Coin operated object */
+OPREPA          152     /* Object is being prepared */
+OSTMIS          153     /* Missile weapon uses strength bonus */
+OUNIQU          154     /* Object is unique or limited */
+OCNBLK          155     /* Bulkless container object */
+ONBULK          156     /* Bulkless object */
+OPRIME          157     /* Object is a primary key in combine codex */
+ONPEEK          158     /* Object cannot be peeked at */
+OBASHE          159     /* Shield does extra bash damage */
+OKEEP           160     /* Keep object */
+ONSTAB          161     /* No Backstab w/ this weapon */
+OSVFUL          162     /* Save entire object (DO NOT SET) */
+O_BODY_PART     163	/* Body part - cannot peek/steal, unset when mob dies */
+O_DARKMETAL     164	/* Object is a darkmetal item (decays in sunlight) */
+O_TIEFLING      165	/* race selective: tiefling */
+

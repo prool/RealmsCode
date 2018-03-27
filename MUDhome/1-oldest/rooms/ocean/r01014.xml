@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1014" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>You are on Main Street, near the primary shipyards of Oceancrest.</ShortDescription>
+  <LongDescription>Darby Reynolds builds any size ship for any person with the correct
+amount of gold.  His ships are said to be works of art; most of them
+are still sailing the many oceans.  Darby's Shipyard Office is on the
+west side of Main Street.  Heading North, you can now see the blue-
+green water of Nylandian Bay.  On the east, there is a shop with a 
+large banner which reads "Empirial Flags".  The banner is ornately
+stitched with the finest silks.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1013</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1015</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

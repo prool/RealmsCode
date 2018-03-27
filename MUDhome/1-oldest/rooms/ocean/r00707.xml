@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="707" Version="2.40a" Area="ocean">
+  <Name>Hillborough Way</Name>
+  <ShortDescription>You are walking along Hillborough Way, just east of Avatar Boulevard.</ShortDescription>
+  <LongDescription>You can see the intersection with Avatar Boulevard to the west.  The 
+busy intersection is, as always, crowded with people looking around for
+things to do.  Going west, you enter the main shopping district for
+the center section of Oceancrest.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">706</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">617</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="375" Area="ocean" Version="2.40">
+  <Name>wand of fire</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>2</ShotsMax>
+  <ShotsCur>2</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">fire</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a magnificent wand from the elemental plane of fire.</Description>
+  <UseOutput>A burst of fire fills the room!</UseOutput>
+  <Weight>1</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>37</MagicPower>
+  <MagicRealm>3</MagicRealm>
+  <InBag/>
+</Object>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5135" Version="2.40" Area="ocean">
+  <Name>East Wall</Name>
+  <ShortDescription>This is the eastern wall inside the Castle Kayleigh. </ShortDescription>
+  <LongDescription>A large water basin is set into the wall, and a clay pipe pours water into
+it.  There is a face carved behind the clay pipe, and it looks like a
+gargoyle with its tongue out.  The hallway continues to the northeast 
+and the southwest.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5134</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5132</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

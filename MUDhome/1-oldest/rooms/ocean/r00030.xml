@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="30" Version="2.40" Area="ocean">
+  <Name>Wall Road West</Name>
+  <ShortDescription>The road runs between the west wall and a group of servant's housing.</ShortDescription>
+  <LongDescription>The neighborhood is rather squalid and dirty, yet was once the pride of its
+residents.  But no more.  These days the village is threatening to tear the
+old buildings down, but eveyone knows they won't.  Too many more people
+would become homeless, and the rich would miss their help.  A fence is on  
+the east side of the road, and the village wall on the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">20</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">19</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

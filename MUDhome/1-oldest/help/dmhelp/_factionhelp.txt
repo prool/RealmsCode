@@ -1,0 +1,82 @@
+ABADDON FACTION SYSTEM
+
+The faction system here is very much similar (practically stolen from)
+the one from Everquest. What it basically does is create a mechanism
+for putting mobs into groups (called factions) to organize them around
+other mobs with similary likes/dislikes or political interests. For
+instance, there is a strong rivalry (sometimes hatred) between The
+Highport Guard and The Sigil Inquisitors. Depending how much a certain
+mob is LIKED by a faction set on it, the higher (more positive) its 
+faction rating for that faction will be. Similarly, the more a mob is 
+DISLIKED by a particular faction set, the lower (more negative) its 
+faction rating for that faction will be. 
+Example:
+Faction #2 is The Highport Guard.
+A normal Highport guardsmen would therefore have +500 or so in faction
+#2. The leader of the Highport guard (Orik the Guard Captian) would
+have like +9000 set on him for faction #2, since The Highport guard 
+likes him more. On the same note, since The Sigil Inquisitors are
+disliked by The Highport Guard, an inquisitor would have -500 or so
+set for faction #2. Sigil's grand inquisitor would have a -4500 or so
+set on him, because to kill the leader of The Sigil Inquisitors, a
+player would be doing The Highport Guard a service.
+
+This is extremely multi-dimensional. There are 255 total factions
+possible in the game right now, and each mob can have all 255 
+factions set on them if necessary.
+
+When designing mobs and setting their factions (if they are part
+of one), you must know (have planned) these things:
+1) What is the mob's primary faction? (who is he most loyal to)
+2) How valueable is the mob to it's primary faction?
+   The more valuable, the more positive the value for that faction
+   needs to be set on him.
+3) What factions LIKE the primary faction the mob is in, and how
+   much?
+   These faction #'s would be set to POSITIVE values - the more liked,
+   the more positive.
+4) What factions DISLIKE the primary faction the mob is in, and how 
+   much?
+   These faction #s would be set to NEGATIVE values - the less liked, 
+   the more negative.
+
+When setting faction values on mobs, there are some benchmarks to
+consider. You can see these in *dmh factionsettings for reference:
+Between -1001 and -7000, a mob will not trust. For example, shopkeeps
+wont sell things to that player.
+Between -7001 and -9000, a mob will randomly attack.
+Between -9001 and -32000, a mob will automatically aggro.
+
+A mob ONLY CARES ABOUT THE VALUE OF HIS PRIMARY FACTION.
+So if a player is hanging out around a Highport guardsman,
+and has -10000 in his faction #2 (The Highport Guard), and
+since that is the HP guardsman's primary faction, he will
+auto aggro that player.
+
+Players' factions change as they kill things. If a player kills a
+Highport guardsman, for example, and that HP guardsman has a faction
+value of +450 in The Highport Guard, then the player's setting for
+"The Highport Guard" will drop 450. In the same regards, however,
+since that HP guard probably had -450 set for "The Sigil Inquisitors",
+since "The Sigil Inquisitors" dont like The Highport Guard,
+the player would go UP 450 in his "The Sigil Inquisitors" faction.
+
+Multiple factions can be set on mobs, making this extremely 
+interesting.
+
+SYNTAX
+To set a faction on a mob, you use the *set command.
+Examples:
+To set any faction#:
+:*set c high fa 2 450
+Faction 2 set to 450
+To set primary faction#:
+:*set c high pr 2
+Prime faction set to The Highport Guard (2)
+
+Useful reference files are:
+*dmh faction (to see factions set on mobs)
+*dmh factionsettings (to see cut-off values)
+*dmh factionlist (this lists all factions and their #s)
+
+If you have any further questions, please ask Verithrax or Bane.

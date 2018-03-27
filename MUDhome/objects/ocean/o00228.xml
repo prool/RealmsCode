@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="228" Area="ocean" Version="2.40">
+  <Name>black opal pendant</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>3</ShotsMax>
+  <ShotsCur>3</ShotsCur>
+  <Dice>
+    <Number>25</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">black</Key>
+    <Key Num="1">opal</Key>
+    <Key Num="2">penant</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>The pendant appears to absorb all light in the shape of a key.  Strange.</Description>
+  <Weight>2</Weight>
+  <Type>12</Type>
+  <InBag/>
+</Object>

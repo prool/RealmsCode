@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2529" Version="2.40" Area="ocean">
+  <Name>Annetol Way/Teal Avenue Intersection</Name>
+  <ShortDescription>You are the intersection of Annetol Way and Teal Avenue.</ShortDescription>
+  <LongDescription>A huge blue-white pillar of flame shoots out of the ground behind a small
+building situated south of here.  A fiery sign burns brightly near the 
+entrance, and identifies this as the pyro testing grounds administered
+by the Iilandi University School of Pyrographic Phenomena.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2528</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2527</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2960</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

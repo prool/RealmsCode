@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="100" Version="2.40" Area="ocean">
+  <Name>Detention and Rehabilitation Center</Name>
+  <ShortDescription>You are in a cell of the Oceancrest Detention and Rehabilitation Center.</ShortDescription>
+  <LongDescription>You are buried hundreds of meters below ground level in a cell quarried
+out of grey marble.  The only opening you can find is a narrow slit,
+barely large enough to put your hand in, which lets light and air come
+from the surface down a tiny shaft.  The walls are smooth and seamless
+with no exit.  Although Oceancrest prides itself on the name of this
+institution, do not be deceived.  Prisoners in this cell are never
+rehabilitated and must spend the rest of their life (and then some) in
+this small room.  You will never again be a part of society, but you may 
+send or receive mail.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="17"/>
+    <Bit Num="28"/>
+    <Bit Num="31"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>freedom</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

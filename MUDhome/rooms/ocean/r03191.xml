@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3191" Version="2.40" Area="ocean">
+  <Name>blank</Name>
+  <ShortDescription>You are floating in the water below a set of vast sea cliffs.</ShortDescription>
+  <LongDescription>The cliffs stand at least 100 feet tall, and appear to be
+unscaible.  There is a strong current pulling you into the
+cliffs. You wonder how many have become shipwrecked on
+the cliffs.</LongDescription>
+  
+  <Established>756209827</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3190</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3192</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

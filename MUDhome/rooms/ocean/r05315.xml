@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5315" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>This is the section of Lyanden Road which turns to the south in direction.</ShortDescription>
+  <LongDescription>There is a pass between the Nartiz Mountains to the south and the home of
+the mountain trolls to the north.  Looks like this road has turned toward
+that pass.  Prince Ragnar's castle is somewhere southeast of here.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5314</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5316</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

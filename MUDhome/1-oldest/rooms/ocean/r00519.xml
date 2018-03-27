@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="519" Version="2.40" Area="ocean">
+  <Name>Marina Circle</Name>
+  <ShortDescription>You are on the east side of Marina Circle, near Nylandian Bay.</ShortDescription>
+  <LongDescription>Hillborough Way runs east from the Circle, heading towards the center
+of town.  There are a number of small monuments around dedicated to the
+sailors and shipmen who were lost at sea.  On the southeastern corner,
+you can see the Temple of Ahto, the God of the Oceans and the Sea.  Just
+ahead to the west, you can also see the Temple of Poseidon, a Greek God
+of the Sea.  Superstitious sailors pray to both gods, but most are fond
+of just one.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">518</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">521</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">554</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

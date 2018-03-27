@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1405" Version="2.40" Area="ocean">
+  <Name>Stairwell</Name>
+  <ShortDescription>You are in a stairwell leading down to the servant's quarters.</ShortDescription>
+  <LongDescription>This stairwell provides the servants and guards direct access to the
+palace's main levels and their quarters.  All the servants and guards
+have quarters in the lower part of the basement.  Their lives are 
+modest, but not overbearing.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">1404</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">1450</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

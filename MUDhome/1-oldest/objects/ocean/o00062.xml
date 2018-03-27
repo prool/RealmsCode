@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="62" Area="ocean" Version="2.40">
+  <Name>iron ring</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>5</ShotsMax>
+  <ShotsCur>5</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">50</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">ring</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+  </Flags>
+  <Description>It's gray as iron tends to be.</Description>
+  <Weight>1</Weight>
+  <Type>6</Type>
+  <SubType>ring</SubType>
+  <WearFlag>9</WearFlag>
+  <InBag/>
+</Object>

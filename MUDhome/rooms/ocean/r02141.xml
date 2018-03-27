@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="2141" Version="2.40" Area="ocean">
+  <Name>Gap in the Hedge</Name>
+  <ShortDescription>You are walking on a path with high hedges on both sides.  A gap is nearby.</ShortDescription>
+  <LongDescription>The gap in the hedge is not very wide, and the cleared area on the other
+side is rather small.  There's a dust in the air that makes you feel a
+little light-headed, but in spite of that you are sure you can hear 
+giggling on the other side of the hedge.</LongDescription>
+  
+  <Established>759009494</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">190</Mob>
+      <Mob Area="ocean" Num="1">51</Mob>
+      <Mob Area="ocean" Num="2">51</Mob>
+      <Mob Area="ocean" Num="3">190</Mob>
+      <Mob Area="ocean" Num="4">60</Mob>
+      <Mob Area="ocean" Num="5">60</Mob>
+      <Mob Area="ocean" Num="6">190</Mob>
+      <Mob Area="ocean" Num="7">121</Mob>
+      <Mob Area="ocean" Num="8">121</Mob>
+      <Mob Area="ocean" Num="9">60</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2140</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2143</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gap">
+      <Keys/>
+      <Room Area="ocean">2142</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

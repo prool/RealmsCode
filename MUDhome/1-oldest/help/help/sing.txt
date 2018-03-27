@@ -1,0 +1,8 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  sing           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Bards have various songs which they can sing which have varying effects. To see
+what songs you can sing, type SONGS. Some of them take a target, others do not.
+Songs can be gained throughout the course of adventuring and gaining in levels.
+Some must be sought after, and others come to you automatically.

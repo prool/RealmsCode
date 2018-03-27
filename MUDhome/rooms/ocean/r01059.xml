@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1059" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are traveling along Eidenhoft Boulevard, northeast of the intersection
+between Eidenhoft, Rosecrest Street and Waterfront Way.   A park is east.</ShortDescription>
+  <LongDescription>Because of Eidenhoft Boulevard's diagonal nature, small portions of the
+city block became unusable, notably the sections directly to the south
+and east of here.  To make the area more aesthetically pleasing, the 
+slivers of land were converted to small parks.  There is a large 
+intersection to the southwest where three roads come together.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1058</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1075</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3719</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

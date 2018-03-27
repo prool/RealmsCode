@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Room Num="1220" Version="2.41b" Area="ocean">
+  <Name>Overland Drive/Nagaritha Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Nagaritha Drive and Overland Drive.</ShortDescription>
+  <LongDescription>Overland drive is one of the longest streets in Oceancrest and has the
+unique feature of being the road which runs between the Manor of
+Natasha de Allisk and the mysterious Necropolis.  Nagaritha Drive runs
+east and west from one end of the city to the other.  On the southwest
+corner of the intersection is the local favorite, Thackery's Pub.  The
+main entrance to the pub is on Nagaritha Drive, but there is also an
+entrance on Overland Drive.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">267</Mob>
+      <Mob Area="ocean" Num="1">1</Mob>
+      <Mob Area="ocean" Num="2">1</Mob>
+      <Mob Area="ocean" Num="3">3</Mob>
+      <Mob Area="ocean" Num="4">267</Mob>
+      <Mob Area="ocean" Num="5">5</Mob>
+      <Mob Area="ocean" Num="6">1</Mob>
+      <Mob Area="ocean" Num="7">1</Mob>
+      <Mob Area="ocean" Num="8">267</Mob>
+      <Mob Area="ocean" Num="9">267</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1219</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1610</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1611</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1221</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="4243" Version="2.40a" Area="ocean">
+  <Name>Main Courtyard - North</Name>
+  <ShortDescription>You are at the northern most part of the castle's main courtyard.</ShortDescription>
+  <LongDescription>Several small doors and one great door are located in the north wall of
+the castle.  To the south is the central courtyard where the young warriors 
+often go before taking up battle.  There is a reflecting pool there that
+some say has magical powers of healing.</LongDescription>
+  
+  
+  
+  <Established>792696409</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4239</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4247</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4242</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="great door">
+      <Keys/>
+      <Room Area="ocean">4268</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

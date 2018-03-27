@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="509" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street/Hillborough Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Hillborough Way and Rosecrest Street.</ShortDescription>
+  <LongDescription>Hillborough Way runs east and west from the intersection and is one of the
+main roads through the center of Oceancrest.  Rosecrest Street runs north
+and south from the intersection, heading north past the Lithium Inlet 
+towards Lyanden Castle, and south towards the southwestern corner of
+the city.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">508</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">510</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">715</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">550</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

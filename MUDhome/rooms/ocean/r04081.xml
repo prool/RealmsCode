@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="4081" Version="2.40" Area="ocean">
+  <Name>Valley of Time</Name>
+  <ShortDescription>You are in what appears to be the center of a vast valley.</ShortDescription>
+  <LongDescription>An enigmatic prehistoric swampland surrounds you, alive with strange plants
+and beasts.  Great lizard-like birds swoop down to get a better look at you,
+and flesh-eating plants seem to twist in your direction as you wade through
+the marsh.  A cold fog drifts across the water.  The river is close by.</LongDescription>
+  
+  <Established>772829807</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">666</Mob>
+      <Mob Area="ocean" Num="1">666</Mob>
+      <Mob Area="ocean" Num="2">667</Mob>
+      <Mob Area="ocean" Num="3">666</Mob>
+      <Mob Area="ocean" Num="4">667</Mob>
+      <Mob Area="ocean" Num="5">666</Mob>
+      <Mob Area="ocean" Num="6">667</Mob>
+      <Mob Area="ocean" Num="7">668</Mob>
+      <Mob Area="ocean" Num="8">667</Mob>
+      <Mob Area="ocean" Num="9">666</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4082</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4080</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4083</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4084</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

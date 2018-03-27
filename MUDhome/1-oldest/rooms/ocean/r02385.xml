@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="2385" Version="2.40" Area="ocean">
+  <Name>Cavern Cliff</Name>
+  <ShortDescription>You are at the corner of one of the caverns deep within the planet.</ShortDescription>
+  <LongDescription>To the south you can see a cliff, but beyond that there is nothing but
+blackness.  It's the great abyss.  It's going to be impossible to cross
+it without some serious help.  Far overhead is a great ice cap which is
+slightly luminous, but apparently very thick and several thousand meters
+away.  You have descended to a much deeper level than when you came in.</LongDescription>
+  
+  <Established>727756921</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2384</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2386</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

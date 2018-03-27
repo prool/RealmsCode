@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1645" Version="2.41b" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are on Leviathan Drive, between the Shrine of Victory and a spice shop.</ShortDescription>
+  <LongDescription>The trading center on the east side of the road appears to be a small 
+armory and a medical supply shop where you can tend to your wounds.  On
+the west side of the road, you can see another, larger center where
+much of the food that is supplied by the Circle-Bar Cattle Ranch and the
+various fields are processed and made available to the public.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1644</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1646</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3850</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

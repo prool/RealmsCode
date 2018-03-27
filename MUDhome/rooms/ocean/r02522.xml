@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2522" Version="2.40" Area="ocean">
+  <Name>Alturis Road</Name>
+  <ShortDescription>You are on Alturis Road, between Charybdis Way and Ivory Way.</ShortDescription>
+  <LongDescription>There is a research park on the north side of the road, and the famous
+Hanging Gardens on the south side.  The city of Kista seems to be a mix of
+of wonderful grand scale art and the latest in science.  Kista was built
+by the three major races in Mordor as a place for all knowledge.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2038</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2039</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

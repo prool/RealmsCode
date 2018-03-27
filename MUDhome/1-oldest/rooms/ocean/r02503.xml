@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2503" Version="2.40" Area="ocean">
+  <Name>Tower Lane</Name>
+  <ShortDescription>You are on Tower Lane, just east of the Milsene Museum.</ShortDescription>
+  <LongDescription>The entrance to the museum appears to be west of here.  A tiny temple is
+on the north side of the road, barely coming to your chest in height.  The
+door is open, and you can see pixies and other small creatures inside.  On
+the south side, next door to the museum, is a research center for a dwarven
+mines and tunnels society.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2034</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2033</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

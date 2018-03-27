@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1228" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are travelling along Lankshire Parkway, north of Waterfront Way.</ShortDescription>
+  <LongDescription>Lankshire Parkway runs between the Klondike Wheat Fields on the east side
+of the road and the DeNail Corn Fields, on the west side of the road.
+To the south, you can see Waterfront Way intersecting Lankshire Parkway.
+Both the corn and wheat fields are more than happy to provide unskilled
+labor with some temporary jobs, plowing fields and scaring away the vermin
+that poison their crops.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1227</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1229</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

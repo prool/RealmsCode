@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="2018" Version="2.40" Area="ocean">
+  <Name>The Rhinefield Building</Name>
+  <ShortDescription>You are in the Rhinefield Building on the Althemanian College Campus.</ShortDescription>
+  <LongDescription>This is one of four buildings on the campus which is dedicated to the study
+of para-psychology.  An intense effort is being made to understand exactly
+how people can learn to control the forces of the mind.  Its been known for
+a long time that there are lower beasts which use mind-control to capture
+their prey, and although the study of such beasts is dangerous, several
+researchers have undertaken the project.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west exit</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north exit">
+      <Keys/>
+      <Room Area="ocean">2014</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west exit">
+      <Keys/>
+      <Room Area="ocean">2023</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south exit">
+      <Keys/>
+      <Room Area="ocean">2028</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

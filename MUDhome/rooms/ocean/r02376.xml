@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="2376" Version="2.40a" Area="ocean">
+  <Name>Underground Cavern</Name>
+  <ShortDescription>You are in a dark, underground cavern beneath the massive glacier.</ShortDescription>
+  <LongDescription>The glacier appears to be but a few meters deep here as you look up
+through the ice.  Ahead, to the north, you can see the beginning of a
+rope bridge which crosses over a massive abyss.  Unfortunately, it looks
+like the bridge has been cut, and lies dangling over the edge of the cliff.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>727326209</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2375</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2377</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

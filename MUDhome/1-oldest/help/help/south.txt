@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  movement         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Movement on Realms is very simple, for cardinal directions, such as north or
+southeast, you can type the abbreviation (n or se) to travel in the indicated
+direction. Up and down exits can also be accessed via abbreviations (u or d).
+"Out" exits can also be abbreviate as simply out.
+
+For all other exits, you will need to use the go / enter / leave command.
+Simply type "go" followed by enough letters of the exit name to make it unique.
+If there are multiple exits, you can specify which one by adding a number on
+the end.
+
+For closed exits, you will need to use the open and close commands.

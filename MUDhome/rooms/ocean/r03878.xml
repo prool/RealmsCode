@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Room Num="3878" Version="2.40" Area="ocean">
+  <Name>Ettercap Burrow</Name>
+  <ShortDescription>You are burrowed down in the filthy nest of the Ettercaps.</ShortDescription>
+  <LongDescription>The nest is very old, and generations of ettercaps have lived and died
+here, with everything simply getting packed down into the floor of matted
+debris.  The remains of previous adventurers are mixed with the remains
+of dead ettercaps, and all of it is underfoot in the mass of stinking
+vegetation making the nest.  The largest and oldest female sleeps here 
+almost constantly, waiting for the others to bring her food from outside.</LongDescription>
+  
+  <Established>769029434</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">589</Mob>
+      <Mob Area="ocean" Num="1">589</Mob>
+      <Mob Area="ocean" Num="2">589</Mob>
+      <Mob Area="ocean" Num="3">589</Mob>
+      <Mob Area="ocean" Num="4">589</Mob>
+      <Mob Area="ocean" Num="5">589</Mob>
+      <Mob Area="ocean" Num="6">589</Mob>
+      <Mob Area="ocean" Num="7">589</Mob>
+      <Mob Area="ocean" Num="8">589</Mob>
+      <Mob Area="ocean" Num="9">589</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">588</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">651</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3877</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,25 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  Kataran         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Adjustments: +2 Dexterity, +1 Constitution, -2 Intelligence, -1 Piety
+Compatible Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Paladin, Ranger, Rogue, Thief, Vampire,
+	Werewolf, Fighter/Thief
+
+Katarans are a race of savage cat people which live often live in Derlith's
+tropical jungles and desert regions. They are quite uncivilized, to a point
+where most of the civilized societies of Derlith fail to understand or accept
+them. Katarans are medium of build and are quite strong for their size. Due to
+their cat-like nature, they are also EXTREMELY agile and quick. Kats, as they
+are sometimes called, have varying colors to their coats of fur, the females
+usually having brighter colors and more varied markings then the males. They
+all have tails which are almost prehensile. Because Katarans do not understand
+normal civilization too well, they often are not quite as intelligent as
+average due to ignorance. Katarans do not like, nor do they understand magic
+and magical things, and Kataran shamans are often the most feared members of
+their tribes. Due to their dexterity and constitution, Katarans are known to
+be some of the best assassins and thieves in all of Derlith.
+
+See in dark (infravision): Yes
+Size class: Medium

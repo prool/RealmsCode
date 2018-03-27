@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="3319" Version="2.40" Area="ocean">
+  <Name>Necropolis Circle</Name>
+  <ShortDescription>You are at the south end of the circle, which goes around the fountain.</ShortDescription>
+  <LongDescription>The gravel path leads south, up to a low, white building.  Outside the
+building there is a sign which reads 'Administration'.  Next to the
+building is a small grove of trees which appear to be dead and quite ugly.  
+Standing here, in the middle of the city's necropolis, they seem to have 
+taken on a new appearence, twisted and gnarled with age, and very
+unfriendly looking...</LongDescription>
+  
+  <Established>759796171</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3316</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3317</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3321</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="fountain">
+      <Keys/>
+      <Room Area="ocean">3318</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1803" Version="2.40" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are walking along Waterfront Way, north of the Dentra Archery Range.</ShortDescription>
+  <LongDescription>The large archery range is flanked by a number of small shops and centers
+to benifit the archer and other warriors.  On the north side of the road,
+you can see a small center dedicated towards archery and fletchery.  This
+area is primarily run by the elves since they are the best archers and 
+know how to make the best bows and arrows in the land.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1802</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1717</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1815</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3877" Version="2.40" Area="ocean">
+  <Name>Ettercap Nest</Name>
+  <ShortDescription>You are high above the jungle floor in a filthy, foul Ettercap nest.</ShortDescription>
+  <LongDescription>The ettercaps are nasty creatures with pot-bellies, long arms, and razor
+sharp claws.  Their bodies are covered with tufts of thick, wirey black
+hair.  They have long, hypodermic like fangs, and can inject a fast acting
+toxin capable of death in an instant.  Like spiders, they can spin silk
+strands to make elaborate traps.  There are several skeletons here, their
+flesh long ago sucked dry.</LongDescription>
+  
+  <Established>768814604</Established>
+  <Flags>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">583</Mob>
+      <Mob Area="ocean" Num="1">589</Mob>
+      <Mob Area="ocean" Num="2">587</Mob>
+      <Mob Area="ocean" Num="3">587</Mob>
+      <Mob Area="ocean" Num="4">587</Mob>
+      <Mob Area="ocean" Num="5">587</Mob>
+      <Mob Area="ocean" Num="6">587</Mob>
+      <Mob Area="ocean" Num="7">587</Mob>
+      <Mob Area="ocean" Num="8">589</Mob>
+      <Mob Area="ocean" Num="9">586</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3876</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="burrow">
+      <Keys/>
+      <Room Area="ocean">3878</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

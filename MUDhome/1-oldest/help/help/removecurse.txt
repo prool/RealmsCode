@@ -1,0 +1,18 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  remove-curse spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 18
+School:  Abjuration
+Domain:  Good
+
+This spell allows its target to remove curses. If the target is afflicted with
+a curse (such as bleeding wounds), the spell will remove all curse effects
+from the player but will not uncurse their items.
+
+If the target is not under a curse, then any items worm will have their curse
+removed. For the darkness curse specifically, this will include any items in
+their inventory excluding items inside a bag. The removal of curses from items
+is permanent.
+
+Syntax:
+cast remove-curse <target>

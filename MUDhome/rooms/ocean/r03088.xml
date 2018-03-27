@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3088" Version="2.40" Area="ocean">
+  <Name>Wizard's Lair</Name>
+  <ShortDescription>This is where the evil, paranoid wizard comes to practice his magic.</ShortDescription>
+  <LongDescription>The residents of the underground city all avoid this place, not only because
+of the evil aura but also because the wizard keeps killing trespassers.
+It is not at all adviseable to disturb the wizard while he is busy.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">331</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>7200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">395</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3087</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

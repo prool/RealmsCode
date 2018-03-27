@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="334" Version="2.40" Area="ocean">
+  <Name>Uland Way/Rum Road</Name>
+  <ShortDescription>You are at the intersection of Uland Way and Rum Road.</ShortDescription>
+  <LongDescription>Rum Road is the major north-south road on the island, but Uland Way is
+by far an older road.  Some place through the jungle of this tropical 
+paradise is the old Uland Mansion, built by the most famous pirate ever
+to sail the Respitial Sea.  Some say that Uland Way was the carriage
+road to the house.</LongDescription>
+  
+  <Established>759805249</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">333</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">335</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3131</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

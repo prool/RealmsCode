@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1438" Version="2.40" Area="ocean">
+  <Name>Prison Cell</Name>
+  <ShortDescription>You are in a prison cell somewhere below the main level of the palace.</ShortDescription>
+  <LongDescription>The prison is well kept, for a prison, that is.  The bars prevent you 
+from escaping.  Every so often, a guard passes by.  Perhaps you should
+try to get his attention.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">158</Mob>
+      <Mob Area="ocean" Num="1">158</Mob>
+      <Mob Area="ocean" Num="2">158</Mob>
+      <Mob Area="ocean" Num="3">158</Mob>
+      <Mob Area="ocean" Num="4">158</Mob>
+      <Mob Area="ocean" Num="5">158</Mob>
+      <Mob Area="ocean" Num="6">158</Mob>
+      <Mob Area="ocean" Num="7">158</Mob>
+      <Mob Area="ocean" Num="8">158</Mob>
+      <Mob Area="ocean" Num="9">158</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>cell door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="cell door">
+      <Keys/>
+      <Room Area="ocean">1434</Room>
+      <Key>21</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

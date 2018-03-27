@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Classes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="Class"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Class">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Base"/>
+        <xs:element ref="Levels"/>
+      </xs:sequence>
+      <xs:attribute name="Name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Base">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Stats"/>
+        <xs:element ref="Dice"/>
+        <xs:element minOccurs="0" ref="Skills"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Stats">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Hp"/>
+        <xs:element ref="Mp"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Hp" type="xs:integer"/>
+  <xs:element name="Mp" type="xs:integer"/>
+  <xs:element name="Dice">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Number"/>
+        <xs:element ref="Sides"/>
+        <xs:element ref="Plus"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Number" type="xs:integer"/>
+  <xs:element name="Sides" type="xs:integer"/>
+  <xs:element name="Plus" type="xs:integer"/>
+  <xs:element name="Levels">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="Level"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Level">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="HpGain"/>
+        <xs:element ref="MpGain"/>
+        <xs:element ref="Stat"/>
+        <xs:element ref="Save"/>
+        <xs:element ref="Skills"/>
+      </xs:sequence>
+      <xs:attribute name="Num" use="required" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="HpGain" type="xs:integer"/>
+  <xs:element name="MpGain" type="xs:integer"/>
+  <xs:element name="Stat" type="xs:NCName"/>
+  <xs:element name="Save" type="xs:NCName"/>
+  <xs:element name="Skills">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="Skill"/>
+       </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Skill">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Name"/>
+        <xs:element ref="Gained"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="Deity"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Name" type="xs:NCName"/>
+  <xs:element name="Gained" type="xs:integer"/>
+  <xs:element name="Deity" type="xs:NCName"/>
+</xs:schema>

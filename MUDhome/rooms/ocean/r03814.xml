@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3814" Version="2.40" Area="ocean">
+  <Name>The Cook's Wagon</Name>
+  <ShortDescription>You are standing in a beatifully arranged kitchen with deliciously smelling
+soups, stews and desserts.  You may not leave without trying them out.</ShortDescription>
+  <LongDescription>This is the place where one might forget about his current and future
+adventures and sink into the dream world of sumptuous delicacies such as
+luscious lasagnas, outstanding hors d'ouvres, creamy chocolate mousse,
+big red strawberries with freshly whipped cream, juicy baklava pieces,
+large and flat meatballs, reddish orange lobsters, all kinds of recenty
+picked fruits and vegetables, haskovian pork chops and many many other
+things you've dreamt to eat.  The Cook is obviously one of the best known
+around and he has some serving boys who help him in the creation of
+the delicious foods.</LongDescription>
+  
+  <Established>765770181</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3813</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

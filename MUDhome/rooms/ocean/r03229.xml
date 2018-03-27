@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<Room Num="3229" Version="2.40a" Area="ocean">
+  <Name>Oceancrest South Gate</Name>
+  <ShortDescription>You are standing outside the south gate leading into Oceancrest.</ShortDescription>
+  <LongDescription>The south gate is an engineering triumph in itself, because it obviously
+weighs tons, yet a single man can open and close it.  The gate is made
+of giant ironwood, and bound in metal.  It looks like it could hold back
+an army, and in fact has done so many times.  Looking overhead, you see
+two guards at their stations, peering down at you.  Gate guards are not
+noted for their kindness.</LongDescription>
+  <Established>756006670</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>gate</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>15000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">401</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>15000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">401</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures>
+    <CrtRef Num="401" Area="ocean" Version="2.40a">
+      <Name>gate guard</Name>
+      <Level>12</Level>
+      <Type>1</Type>
+      <Experience>550</Experience>
+      <Coins>
+        <Coin Num="2">288</Coin>
+      </Coins>
+      <Alignment>35</Alignment>
+      <Stats>
+        <Stat Name="Strength">
+          <Current>200</Current>
+          <Max>200</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Dexterity">
+          <Current>150</Current>
+          <Max>150</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Constitution">
+          <Current>150</Current>
+          <Max>150</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Intelligence">
+          <Current>150</Current>
+          <Max>150</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Piety">
+          <Current>150</Current>
+          <Max>150</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Hp">
+          <Current>160</Current>
+          <Max>160</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Mp">
+          <Current>0</Current>
+          <Max>0</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+      </Stats>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="7"/>
+        <Bit Num="8"/>
+        <Bit Num="11"/>
+        <Bit Num="12"/>
+      </Flags>
+      <LastTimes>
+        <LastTime Num="3">
+          <Interval>0</Interval>
+          <LastTime>1206131932</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="4">
+          <Interval>0</Interval>
+          <LastTime>1206138217</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="6">
+          <Interval>0</Interval>
+          <LastTime>1206131932</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="8">
+          <Interval>55</Interval>
+          <LastTime>1206138207</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="41">
+          <Interval>0</Interval>
+          <LastTime>1206131932</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="100">
+          <Interval>50</Interval>
+          <LastTime>1206138213</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="101">
+          <Interval>32</Interval>
+          <LastTime>1206138233</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </LastTimes>
+      <Inventory/>
+    </CrtRef>
+    <CrtRef Num="401" Area="ocean" Version="2.40a">
+      <Name>gate guard</Name>
+      <Level>12</Level>
+      <Type>1</Type>
+      <Experience>550</Experience>
+      <Coins>
+        <Coin Num="2">65</Coin>
+      </Coins>
+      <Alignment>35</Alignment>
+      <Stats>
+        <Stat Name="Strength">
+          <Current>200</Current>
+          <Max>200</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Dexterity">
+          <Current>150</Current>
+          <Max>150</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Constitution">
+          <Current>150</Current>
+          <Max>150</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Intelligence">
+          <Current>150</Current>
+          <Max>150</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Piety">
+          <Current>150</Current>
+          <Max>150</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Hp">
+          <Current>160</Current>
+          <Max>160</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Mp">
+          <Current>0</Current>
+          <Max>0</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+      </Stats>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="7"/>
+        <Bit Num="8"/>
+        <Bit Num="11"/>
+        <Bit Num="12"/>
+      </Flags>
+      <LastTimes>
+        <LastTime Num="3">
+          <Interval>0</Interval>
+          <LastTime>1206131932</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="4">
+          <Interval>0</Interval>
+          <LastTime>1206138217</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="6">
+          <Interval>0</Interval>
+          <LastTime>1206131932</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="8">
+          <Interval>55</Interval>
+          <LastTime>1206138207</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="41">
+          <Interval>0</Interval>
+          <LastTime>1206131932</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="100">
+          <Interval>50</Interval>
+          <LastTime>1206138213</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="101">
+          <Interval>32</Interval>
+          <LastTime>1206138233</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </LastTimes>
+      <Inventory/>
+    </CrtRef>
+  </Creatures>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">1053</Room>
+      <Flags>
+        <Bit Num="17"/>
+      </Flags>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3228</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

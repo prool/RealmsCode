@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<Room Num="1996" Version="2.40" Area="ocean">
+  <Name>Natasha's Mausoleum</Name>
+  <ShortDescription>You have made the foolish mistake of entering Natasha's Private Chambers.</ShortDescription>
+  <LongDescription>The large mausoleum looked much smaller than it did from the outside.  
+The jet black coffin in the center of the room looks like it hasn't been
+touched in ages.  Once you step inside the mausoleum, the door slams
+shut behind you and the coffin opens up to reveal the Countess Natasha
+de Allisk, no longer in hibernation as you had wished.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>stairs</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>100000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">254</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>10</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">107</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>100000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">221</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>100000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">82</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1995</Room>
+      <Key>7</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="stairs">
+      <Keys/>
+      <Room Area="ocean">4008</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

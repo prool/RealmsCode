@@ -1,0 +1,15 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |          Help on:  gag         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Gag is a command which will allow you to filter out a certain player or players
+by adding them to your gag list. It works much like the ignore command does
+(HELP IGNORE). When another player is on your gag list, you do not see any
+socials they do, anything they say, anything they broadcast, emote, and very few
+things they do at all. In order to remove someone from your gag list, simply gag
+them again. Typing gag by itself will display your gag list. Your gag list is
+erased when you log off/on.
+
+Syntax:
+gag <player>
+

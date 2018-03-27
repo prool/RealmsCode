@@ -1,0 +1,7 @@
+
+Help on: *wander
+
+This command allows an admin to force a monster to wander away.
+
+Syntax: *wander (monster) [#]
+

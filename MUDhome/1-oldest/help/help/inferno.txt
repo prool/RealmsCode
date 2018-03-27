@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  inferno spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: Dependant on the number of targets.
+School:  Evocation
+Domain:  Destruction
+
+This spell affects all monsters in the area that the spell is cast in. A
+blazing inferno ignites and incinerates the targets of this spell. It is part
+of the fire realm.
+
+Type "help aoe" for more information.
+
+Syntax:
+cast inferno [<monsters>|<players>|<all>]

@@ -1,0 +1,15 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  blizzard spell    |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: Dependant on the number of targets.
+
+This spell affects all monsters in the area that the spell is cast in. The
+strong magic from this spell summons a temporary blizzard, bringing down the
+elemental forces into the area. Targets suffer frostbite, numbing of limbs, and
+a severe hypothermic reaction. This spell is part of the cold realm.
+
+Type "help aoe" for more information.
+
+Syntax:
+cast blizzard [<monsters>|<players>|<all>]
+

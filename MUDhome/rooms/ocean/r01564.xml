@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1564" Version="2.40" Area="ocean">
+  <Name>East Etolian Exercise Yard</Name>
+  <ShortDescription>You are at the eastern end of the large exercise field.</ShortDescription>
+  <LongDescription>It looks like everyone around you is training for some sort of competition.
+The fighting the druids are doing is very precise, strongly resembling
+the martial arts.  Although they are not great fighters, they will offer
+some resistance if they are ever attacked.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">177</Mob>
+      <Mob Area="ocean" Num="1">177</Mob>
+      <Mob Area="ocean" Num="2">177</Mob>
+      <Mob Area="ocean" Num="3">177</Mob>
+      <Mob Area="ocean" Num="4">178</Mob>
+      <Mob Area="ocean" Num="5">178</Mob>
+      <Mob Area="ocean" Num="6">178</Mob>
+      <Mob Area="ocean" Num="7">178</Mob>
+      <Mob Area="ocean" Num="8">177</Mob>
+      <Mob Area="ocean" Num="9">177</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1561</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1565</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

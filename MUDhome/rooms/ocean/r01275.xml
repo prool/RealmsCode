@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<Room Num="1275" Version="2.40a" Area="ocean">
+  <Name>Tomb of Rowland</Name>
+  <ShortDescription>You are inside the tomb of the great wizard Rowland.</ShortDescription>
+  <LongDescription>Rowland was the last of the great wizards of Keslar that used his magic
+for the good of mankind.  The power of Keslar and the magic contained
+therin has fallen into the hands of evil and constantly threatens the
+fabric of man's existance.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>259200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">162</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures>
+    <CrtRef Num="162" Area="ocean" Version="2.40a">
+      <Name>the ghost of Rowland</Name>
+      <Class>5</Class>
+      <Level>15</Level>
+      <Type>1</Type>
+      <Experience>1000</Experience>
+      <Coins/>
+      <Alignment>250</Alignment>
+      <Stats>
+        <Stat Name="Strength">
+          <Current>180</Current>
+          <Max>180</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Dexterity">
+          <Current>200</Current>
+          <Max>200</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Constitution">
+          <Current>130</Current>
+          <Max>130</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Intelligence">
+          <Current>250</Current>
+          <Max>250</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Piety">
+          <Current>200</Current>
+          <Max>200</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Hp">
+          <Current>200</Current>
+          <Max>200</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+        <Stat Name="Mp">
+          <Current>300</Current>
+          <Max>300</Max>
+          <TempMax>0</TempMax>
+        </Stat>
+      </Stats>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="5"/>
+        <Bit Num="7"/>
+        <Bit Num="8"/>
+        <Bit Num="12"/>
+        <Bit Num="14"/>
+        <Bit Num="15"/>
+        <Bit Num="17"/>
+        <Bit Num="22"/>
+        <Bit Num="23"/>
+      </Flags>
+      <LastTimes>
+        <LastTime Num="3">
+          <Interval>0</Interval>
+          <LastTime>1206322783</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="4">
+          <Interval>0</Interval>
+          <LastTime>1206322783</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="6">
+          <Interval>0</Interval>
+          <LastTime>1206322783</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="8">
+          <Interval>60</Interval>
+          <LastTime>1206324064</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="41">
+          <Interval>0</Interval>
+          <LastTime>1206322783</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="100">
+          <Interval>45</Interval>
+          <LastTime>1206324086</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+        <LastTime Num="101">
+          <Interval>30</Interval>
+          <LastTime>1206324085</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </LastTimes>
+      <Inventory/>
+    </CrtRef>
+  </Creatures>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1274</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Room Num="1176" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street/Netherworld Lane Intersection</Name>
+  <ShortDescription>You are at the intersection of Rosecrest Street and Netherworld Lane.</ShortDescription>
+  <LongDescription>Netherworld Lane continues to the east and west.  About a block to the
+east, you can start to see the outline of the Necropolis.  Rosecrest 
+is a strangely shaped road, running north to south.  Taking Rosecrest
+Street to the north brings you to the Ivanhouse Sporting Facility, a
+moderatly interesting gaming center, similar to the Oceancrest Central
+Arena, except geared more for one-on-one battle.  The games are not as
+popular with the people, but just as interesting for the competitors.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">267</Mob>
+      <Mob Area="ocean" Num="1">267</Mob>
+      <Mob Area="ocean" Num="2">267</Mob>
+      <Mob Area="ocean" Num="3">267</Mob>
+      <Mob Area="ocean" Num="4">267</Mob>
+      <Mob Area="ocean" Num="5">267</Mob>
+      <Mob Area="ocean" Num="6">267</Mob>
+      <Mob Area="ocean" Num="7">267</Mob>
+      <Mob Area="ocean" Num="8">267</Mob>
+      <Mob Area="ocean" Num="9">267</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1204</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1203</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1177</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1175</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

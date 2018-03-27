@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1236" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are walking along Lankshire Parkway, east of the Khelleva Mansion.</ShortDescription>
+  <LongDescription>You can see clearly the Khelleva Mansion and Estate to the west.  The
+Mansion is constructed of marble and concrete, making it a virtual
+fortress against any attack.  Before Oceancrest was founded and the
+City Walls built, the Khelleva Mansion was about the only structure 
+that actually survived attacks against it.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1237</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1235</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

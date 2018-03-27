@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="408" Version="2.40" Area="ocean">
+  <Name>Evenborough Way</Name>
+  <ShortDescription>You are walking along Evenborough Way, west of Evenborough Park.</ShortDescription>
+  <LongDescription>The large Evenborough Park rests on the eastern side of the road.  The
+park lies just to the west of the Lyanden Castle, and is often used as 
+a public auditorium so that the King may make any announcements to the
+general public.  On the west side of the road is a small armory for
+Knights of the Castle.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">407</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">409</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

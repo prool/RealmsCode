@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Room Num="786" Version="2.40" Area="ocean">
+  <Name>Mirrored Hall</Name>
+  <ShortDescription>You appear to have ventured into another room inside this vast mirrored
+wasteland.  You can barely make out the room to the north but as you
+venture further south, the north room seems to blend into the south one.</ShortDescription>
+  <LongDescription>Upon considering how good life has been to you so far, you stop to rest
+along one of the mirrors you've bumped into.  Bones lie scattered about
+this room (but strangely, not in the north room).  Another note lies on
+the floor that you almost overlook.  It says: "What to do if you encounter
+the ravenous beast of Traal.  Wrap your head with a towel, being sure to
+cover your eyes.  The beast of Traal is so stupid that it thinks that if
+you can't see it, it can't see you and goes about it's business.  Since
+you left your towel behind, your other option is to run away, terribly
+fast."  You continue to bang your head against the crystal wall.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">193</Mob>
+      <Mob Area="ocean" Num="1">193</Mob>
+      <Mob Area="ocean" Num="2">193</Mob>
+      <Mob Area="ocean" Num="3">193</Mob>
+      <Mob Area="ocean" Num="4">193</Mob>
+      <Mob Area="ocean" Num="5">193</Mob>
+      <Mob Area="ocean" Num="6">193</Mob>
+      <Mob Area="ocean" Num="7">193</Mob>
+      <Mob Area="ocean" Num="8">193</Mob>
+      <Mob Area="ocean" Num="9">193</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">785</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">784</Room>
+      <Key>25</Key>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1950" Version="2.40" Area="ocean">
+  <Name>Entrance to DeNail's Corn Fields</Name>
+  <ShortDescription>You are at the entrance to the DeNail Family Corn Fields labor office.</ShortDescription>
+  <LongDescription>DeNail is always willing to hire unskilled labor because he doesn't 
+really have to pay them anything to clear out the crows and other pesty
+creatures that eat up the corn.  The exit to the west leads out to 
+Hafnia Way in the southwestern part of town.  The corn fields are pretty
+large so you best watch out that you don't get lost.  </LongDescription>
+  <HighLevel>3</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1093</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1951</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1952</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1954</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

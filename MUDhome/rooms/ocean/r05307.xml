@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5307" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>You are on a wide highway running east and west through the Land of Mordor.</ShortDescription>
+  <LongDescription>A great forest stands on the north side.  Dry, hot sand is to the south.
+The road rises and falls as it covers small hills rolling toward the east.
+The eastern cities of the Land of Mordor are far away.  Oceancrest is much
+closer to the west.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5306</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5308</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

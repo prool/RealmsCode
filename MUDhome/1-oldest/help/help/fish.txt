@@ -1,0 +1,22 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  fishing         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+To fish, you must first obtain a fishing pole. The better the fishing pole,
+the more likely you are to catch a fish. Some of the stronger fish (marlins,
+for example) can only be caught by especially strong poles).
+
+Once you have a fishing pole, you need only find a suitable place to fish.
+Anywhere near water on the overland map will suffice, as will bridges or
+city docks. Different areas will give you different types of fish - for
+example, fishing on the coast will result in different fish than fishing
+on a river. To begin fishing, hold your fishing pole and type "fish".
+
+If you receive a message saying that you almost caught a fish, it means that
+you were unable to carry whatever it is you would have caught. Clear out
+your inventory so that you may continue fishing. It some cases, if the fish
+is a unique object or a lore object, clearing out your inventory may not
+work.
+
+Also note that you may cook the fish you catch. Go to any kitchen with a
+stove (any room with a fire) and type "cook <fish>".

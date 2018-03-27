@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3212" Version="2.40a" Area="ocean">
+  <Name>Lake View Road</Name>
+  <ShortDescription>You are on the northwest route of Lake View Road, near Lake Kista.</ShortDescription>
+  <LongDescription>There is a beautiful valley spread out below you, with long, sloping
+meadows and rolling hills on either side.  The scene is quite bucolic
+and pleasant, making you wonder why you don't give up the adventurer's
+life and find a place to settle down and raise a bunch of kids....
+Nah, just a passing thought.</LongDescription>
+  
+  <Established>755854641</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3210</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3213</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

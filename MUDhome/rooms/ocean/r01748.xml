@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1748" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are walking along Wakeforest Drive, east of the Obidian Housing Complex.</ShortDescription>
+  <LongDescription>The massive Obidian Complex is only dwarved by the high City Walls on the
+opposite side of the road.  Although the Complex is much higher than the
+City Walls, there has not been a recorded case where someone has actually
+tried to jump over the walls from this direction.  Being so close to the
+City Walls can sometimes be a problem as the large buildings are the first
+to be hit.  This poor planning, however, has not resulted in any casualties.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1747</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1749</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

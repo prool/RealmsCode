@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="1087" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way/Hafnia Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Golden Dolphin Way and Hafnia Way.</ShortDescription>
+  <LongDescription>hafnia Way is a short road which connects Golden Dolphin Way and Nagaritha
+Drive to the north.  Hafnia Way passes between the Golden Dolphin Inn
+on the west and a great caravan embarkment area on the east.  Oceancrest
+supplies many of the surrounding cities with grain and products made by
+the craftsmen in the city.  Caravans are put together here, and depart
+when enough travelers feel safe to venture into the outside world.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">267</Mob>
+      <Mob Area="ocean" Num="1">267</Mob>
+      <Mob Area="ocean" Num="2">267</Mob>
+      <Mob Area="ocean" Num="3">267</Mob>
+      <Mob Area="ocean" Num="4">267</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1086</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1088</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1686</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

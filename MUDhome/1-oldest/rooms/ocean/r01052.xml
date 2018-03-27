@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="1052" Version="2.40a" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>You are on Main Street, near the Southern Entrance to Oceancrest.</ShortDescription>
+  <LongDescription>The Southern Entrance to Oceancrest is just south of Golden Dolphin Way.
+Although security is fairly lax, not just anyone may enter the city 
+without the proper papers in order.  Leaving the city is just as 
+important, as without the proper papers, you may not be able to get
+back in.  On the east, there is a rowdy-looking tavern called "The
+Rusty Nail Saloon", which appears to be filled with drunk travelers
+having a drink before continuing on the road.  To the west is a large
+center known as Leonardo's Foundry, where metals may be converted to
+useful weapons and armor for sale. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1029</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1053</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1890</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1897</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

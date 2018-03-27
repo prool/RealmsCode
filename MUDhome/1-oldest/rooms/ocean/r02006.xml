@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="2006" Version="2.40" Area="ocean">
+  <Name>Dairy Production and Storage Facility</Name>
+  <ShortDescription>You are in the small dairy production facility where elves are busy
+milking cows and making all sorts of dairy products for the town.</ShortDescription>
+  <LongDescription>The town of Kista is rather small and requires a minimal amount of 
+dairy cows to produce their necessary dietary requirements.  However,
+some of the cheeses that come out of this plant are said to be the
+very best in the world.  All the cheese is churned by hand making the
+process very time consuming.  When the cows are not in their stables,
+they are resting in the field enclosed by the facility.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">225</Mob>
+      <Mob Area="ocean" Num="1">226</Mob>
+      <Mob Area="ocean" Num="2">225</Mob>
+      <Mob Area="ocean" Num="3">226</Mob>
+      <Mob Area="ocean" Num="4">227</Mob>
+      <Mob Area="ocean" Num="5">226</Mob>
+      <Mob Area="ocean" Num="6">225</Mob>
+      <Mob Area="ocean" Num="7">226</Mob>
+      <Mob Area="ocean" Num="8">225</Mob>
+      <Mob Area="ocean" Num="9">227</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2005</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2007</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

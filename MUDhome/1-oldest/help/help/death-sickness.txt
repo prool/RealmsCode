@@ -1,0 +1,24 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  death-sickness      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Death on Realms is strongly discouraged, but still happens despite players'
+best efforts to avoid it. Following a death that has been caused by a
+monster, trap, poison, or other effect, a player loses up to 10% of their
+total experience. At the 10th level and higher, this loss decreases to 2%,
+with a minimum of a 10k loss.
+
+Starting with the 7th level, you will be afflicted with a magical death-
+sickness. The duration of this sickness increases with your level, and its
+remaining time can be found by using the effects command.
+
+While you are afflicted with death-sickness, you will find combat much more
+difficult, as you will have a random chance of attacking slowly. During
+movement, you will also become randomly stunned. Furthermore, you will
+regain health and magic points very slowly. The strength of death-sickness
+is strongest right after you die, and gradually weakens until it finally
+wears off.
+
+As a result of the implementation of death-sickness, experience loss for
+higher level players has been decreased.
+

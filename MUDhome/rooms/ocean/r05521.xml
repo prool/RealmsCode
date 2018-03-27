@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5521" Version="2.40" Area="ocean">
+  <Name>Bottom of the Stairs</Name>
+  <ShortDescription>You are at the bottom of the stairs in the Boar's Arse Pub.</ShortDescription>
+  <LongDescription>As you approach, a couple of bouncers stand and stare at you.  If you want
+to go up these stairs, you had better have the right answers to their
+questions.  Give the wrong answer, or make the wrong move, and you will
+probably have to fight your way out of here.</LongDescription>
+  
+  <Established>783896593</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>stairs</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="tap room">
+      <Keys/>
+      <Room Area="ocean">5519</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stairs">
+      <Keys/>
+      <Room Area="ocean">5522</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

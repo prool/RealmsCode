@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1501" Version="2.40" Area="ocean">
+  <Name>Kellevah Road</Name>
+  <ShortDescription>This road is the main thoroughfare between Lake Kellevah and Brownhaven.</ShortDescription>
+  <LongDescription>In the distance to the south is a vast farmland, farmed by several of
+the area's best farmers.  It appears that corn is being grown.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1500</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1503</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1508</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

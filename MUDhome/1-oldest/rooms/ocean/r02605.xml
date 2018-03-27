@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="2605" Version="2.40" Area="ocean">
+  <Name>Kuroth's Tunnel</Name>
+  <ShortDescription>You are in a long east-west tunnel under the Hanging Gardens.</ShortDescription>
+  <LongDescription>This tunnel seems to be mostly inhabitated by rats, spiders and bats,
+but occasionally you sense something bigger moving in the darkness.  It
+doesn't seem to get any closer to you, but you can feel the presense as
+you continue your way through the damp and slippery tunnel.</LongDescription>
+  
+  <Established>789000170</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west door">
+      <Keys/>
+      <Room Area="ocean">2604</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east door">
+      <Keys/>
+      <Room Area="ocean">2606</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

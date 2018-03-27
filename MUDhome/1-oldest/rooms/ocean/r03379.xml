@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3379" Version="2.40" Area="ocean">
+  <Name>Staircase</Name>
+  <ShortDescription>The stairway is much darker and quite dusty.  Obviously not used much.</ShortDescription>
+  <LongDescription>As you stand here on the stairway, you realize the air is much hotter
+down below than the air above you.  Coming from below you hear the sound
+of a heavy hammer striking an anvil. Each step on the stairs produces a 
+squeak as you put your weight on it.  A ghostly voice speaks to you.
+You would be well served to talk with the apparition.</LongDescription>
+  
+  <Established>759882801</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">561</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3378</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3380</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1283" Version="2.40" Area="ocean">
+  <Name>Secret Crypt Passage</Name>
+  <ShortDescription>You are in a secret crypt passage somewhere behind the main crypt.</ShortDescription>
+  <LongDescription>This small, secret passage is so small, only you can get through it.
+The others in your party will have to wait for you to get out before
+they can come in after you.  You just hope there's something good
+at the other end of the passage.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1278</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1284</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

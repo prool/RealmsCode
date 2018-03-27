@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3676" Version="2.40" Area="ocean">
+  <Name>Thieve's Passage/Circular Well</Name>
+  <ShortDescription>You are on a narrow ledge in a circular well, clinging to the wall. </ShortDescription>
+  <LongDescription>A faint luminous light comes from the walls, making the room glow with
+a ghostly aura.  The ledge you are on travels around a circular well,
+which must must be very deep, considering how long it takes for small
+debris dislodged by your feet to hit the water below.  You have to inch
+along the ledge, but it looks like you can go clear around on the ledge. </LongDescription>
+  
+  <Established>765427499</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3675</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3690</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3688</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

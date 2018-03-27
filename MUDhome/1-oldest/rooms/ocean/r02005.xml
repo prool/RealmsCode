@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="2005" Version="2.40" Area="ocean">
+  <Name>Granary</Name>
+  <ShortDescription>You are in the large granary facility for the town of Kista.</ShortDescription>
+  <LongDescription>The granary is a storage facility for grains and rices.  Since the
+forests around Kista are not capable of producing grains, they are
+often imported from towns such as Brownhaven where corn and wheat
+almost grow naturally.  This facility stores these grains as supply
+lines are not very reliable and caravans might not arrive for as long
+as six months at a time.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">225</Mob>
+      <Mob Area="ocean" Num="1">225</Mob>
+      <Mob Area="ocean" Num="2">225</Mob>
+      <Mob Area="ocean" Num="3">225</Mob>
+      <Mob Area="ocean" Num="4">226</Mob>
+      <Mob Area="ocean" Num="5">226</Mob>
+      <Mob Area="ocean" Num="6">226</Mob>
+      <Mob Area="ocean" Num="7">226</Mob>
+      <Mob Area="ocean" Num="8">225</Mob>
+      <Mob Area="ocean" Num="9">227</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2006</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2530</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

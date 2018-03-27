@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3733" Version="2.40" Area="ocean">
+  <Name>Dusty Sitting Room</Name>
+  <ShortDescription>You are in a dusty sitting room upstairs in the Dragon Tooth Inn.</ShortDescription>
+  <LongDescription>There is a stale quality to the air, as though the room had not been open
+for a long time.  This is the living quarters of the previous owner of the
+inn.  A small kitchen and two bedrooms can be seen in adjoining rooms, but
+they are as silent and musty as this one.  After the owner was hanged, his
+body was returned here in a body bag, similar to the one you see on the
+floor now, to await reclaimation by relatives.</LongDescription>
+  
+  <Established>764463870</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">337</Mob>
+      <Mob Area="ocean" Num="1">337</Mob>
+      <Mob Area="ocean" Num="2">337</Mob>
+      <Mob Area="ocean" Num="3">337</Mob>
+      <Mob Area="ocean" Num="4">337</Mob>
+      <Mob Area="ocean" Num="5">337</Mob>
+      <Mob Area="ocean" Num="6">337</Mob>
+      <Mob Area="ocean" Num="7">337</Mob>
+      <Mob Area="ocean" Num="8">337</Mob>
+      <Mob Area="ocean" Num="9">337</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3732</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

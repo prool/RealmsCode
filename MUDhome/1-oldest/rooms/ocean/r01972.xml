@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1972" Version="2.40" Area="ocean">
+  <Name>Ennia's Venemous Pets</Name>
+  <ShortDescription>You are in Ennia's Shop of wonderfully curious poisonous animals.</ShortDescription>
+  <LongDescription>Poisions and venoms have always been somewhat of a curiosity, and Ennia
+has made her life dealing with such things.  Of course, since she 
+deals so much with the venomous and poisonous pets, she always has
+antedotes and other remedies ready at a moment's notice.  There is a
+small exhibit to the west with various exotic animals.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1171</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1974</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

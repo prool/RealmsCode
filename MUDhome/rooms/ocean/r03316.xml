@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3316" Version="2.40" Area="ocean">
+  <Name>Necropolis Circle</Name>
+  <ShortDescription>You are on the east side of the circle, passing the fountain to the west.</ShortDescription>
+  <LongDescription>The gravel shifts under your feet strangely, like something is not quite 
+right.  This place is really spooky, especially as you look to the east
+along the Necropolis path, where untold stories of brave warriors and 
+legendary soldiers await you.</LongDescription>
+  
+  <Established>759785214</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3315</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3319</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3322</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="fountain">
+      <Keys/>
+      <Room Area="ocean">3318</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

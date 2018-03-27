@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="360" Version="2.40" Area="ocean">
+  <Name>Dead End Alley</Name>
+  <ShortDescription>You are at the end of an alley which connects to Rum Road.</ShortDescription>
+  <LongDescription>A small grate has been removed from its vault in the ground, exposing
+a narrow entry to the cellar below the old wooden building here.
+Large black cats prowl the alley, and several look at you hungrily.  A
+body of a sailor is decomposing on the ground, partially hidden by rags
+and trash.  A couple of the larger cats crouch beside the body.</LongDescription>
+  
+  <Established>760477053</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">17</Mob>
+      <Mob Area="ocean" Num="1">525</Mob>
+      <Mob Area="ocean" Num="2">525</Mob>
+      <Mob Area="ocean" Num="3">525</Mob>
+      <Mob Area="ocean" Num="4">17</Mob>
+      <Mob Area="ocean" Num="5">525</Mob>
+      <Mob Area="ocean" Num="6">526</Mob>
+      <Mob Area="ocean" Num="7">526</Mob>
+      <Mob Area="ocean" Num="8">491</Mob>
+      <Mob Area="ocean" Num="9">491</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>vault</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">359</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="vault">
+      <Keys/>
+      <Room Area="ocean">361</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -632,7 +632,7 @@ bstring xsc(const bstring& txt) {
     for(int i=0; i<t; i++) {
         c = txt.getAt(i);
         // beyond 127 we get into the unsupported character range
-        if(c > 127)
+        if(0/*c > 127*/) // by prool: no serialize! Full 8bit characters and UTF-8 enabled
             ret << "&#" << c << ";";
         else
             ret << (char)c;

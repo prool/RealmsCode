@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5423" Version="2.40" Area="ocean">
+  <Name>Ashton River Road/Phexton Tunnel</Name>
+  <ShortDescription>The Phexton tunnel provides a shortcut to the road high above.</ShortDescription>
+  <LongDescription>The tunnel is dark however, and a hard climb.  If you continue on the road
+to the east it will take longer to get to the other end of the tunnel.  The
+tunnel was an old mine shaft, and a road engineer decided it could be used
+as part of the road, but after many mishaps inside, it was decided it was
+safer to have the road outside the mountain.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5424</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5422</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

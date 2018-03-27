@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="4506" Version="2.40a" Area="ocean">
+  <Name>Hall of Heros</Name>
+  <ShortDescription>You are in the Hall of Heros in Castle Ragnar.</ShortDescription>
+  <LongDescription>Oil paintings of famous fighters and paladins are on the wall, each hung
+above a huge chair sitting on a raised dais.  The ceiling is so high above
+that birds fly about the room, nesting in crannies and niches.  The floor
+has a rich multi-hued oriental rug running the length of the hall.  To the
+east is the throne room of Prince Ragnar.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4505</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4507</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

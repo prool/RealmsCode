@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="676" Version="2.40a" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are walking past the Hofton Ziggurat on the south side of Hofton Avenue.</ShortDescription>
+  <LongDescription>The Hofton Ziggurat has an octagonal base, which rises up in a pyramid 
+shape approximately fifty meters up.  The fancy architecture is based on
+the ancient Allakaren Pyramid, but is not quite as impressive as the
+latter.  Although replicated, no one has ever really captured the style
+of the ancient pyramids.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">675</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">660</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

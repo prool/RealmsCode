@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5537" Version="2.40" Area="ocean">
+  <Name>Nyyron Creek</Name>
+  <ShortDescription>You are wading in the Nyrron Creek as it flows from north to southwest.</ShortDescription>
+  <LongDescription>As you look up to the mountain on the east side, you see where an avalanch of
+dirt and boulders has covered the trail which used to traverse the mountain.
+A little to the northeast the creek spills over the debris, forming a small
+waterfall about three meters in height.  South of you is the Nyyron Trail
+which continues down the mountain.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5536</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5538</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5540</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

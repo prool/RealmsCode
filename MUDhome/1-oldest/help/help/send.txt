@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  send           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Send and tell can be used to telepathically communicate with another player in
+the game. If you do not have the proper magic to detect invisible or misted
+players, you will be unable to communicate with them.
+
+Example:
+: tell bob noooo
+You sent: "noooo" to Bob.
+: ### Bob just flashed, "huh?".
+:

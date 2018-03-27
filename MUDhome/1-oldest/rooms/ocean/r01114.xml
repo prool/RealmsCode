@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="1114" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>You are traveling along Marina Way, just west of the Regalia Convent.</ShortDescription>
+  <LongDescription>To the east, you can see the great Regalia Convent.  Although most of 
+their teachings are considered blasphemous, many scholars and other
+thinking persons find some amusement in their existance.  The entrance
+to the Convent is located to the east.  The Convent caters exclusively
+to women and teaches a monotheistic philosophy.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">265</Mob>
+      <Mob Area="ocean" Num="1">265</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1112</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1021</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

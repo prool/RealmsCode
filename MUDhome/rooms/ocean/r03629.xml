@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3629" Version="2.40" Area="ocean">
+  <Name>Fountain and Pool</Name>
+  <ShortDescription>You are in a resting area near a large fountain and quiet pool.</ShortDescription>
+  <LongDescription>A number of trees surround this area, making it a quiet and peaceful place
+to relax.  Directly to the north is the famous statue of King Lyanden and
+Prince Ragnar, while to the south is the southern tunnel through the back
+part of the castle.  A hedge separates this area from the east side of the
+courtyard, muffling the sounds you hear coming from there.</LongDescription>
+  
+  <Established>762645917</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3628</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3622</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3630</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

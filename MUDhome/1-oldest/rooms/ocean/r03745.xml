@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3745" Version="2.40" Area="ocean">
+  <Name>Paladin Training Room</Name>
+  <ShortDescription>The holy order of knighthood welcomes you as an advancing member.</ShortDescription>
+  <LongDescription>You have successfully defeated the Red Knight and may take you place
+as an advance Paladin in the service of God.  Remember, never flee from
+evil, and always defend the weak and innocent.  Search out evil in all
+its many forms, and an angel will be your strong sword arm as you do 
+battle.  Soon you may serve the kingdom of Lyanden.</LongDescription>
+  
+  <Established>766781053</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">290</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

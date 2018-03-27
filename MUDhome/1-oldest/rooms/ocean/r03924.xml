@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3924" Version="2.40" Area="ocean">
+  <Name>Ruby Hallway</Name>
+  <ShortDescription>You are in the ruby hallway to the mage's training rooms.</ShortDescription>
+  <LongDescription>Enlightenment shall be yours.  This hallway is the path to mystical and
+powerful knowledge.  As your brethern above you know, going west shall
+eventually bring you to the east hallway.  However, unless misfortune 
+befalls you, once you travel east you shall never travel west again.</LongDescription>
+  <LowLevel>3</LowLevel>
+  <HighLevel>8</HighLevel>
+  
+  <Established>770773522</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1810</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3929</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3930</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

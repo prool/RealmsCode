@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1040" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive/Hillcrest Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Hillcrest Drive and Oceanview Drive.</ShortDescription>
+  <LongDescription>Oceanview Drive is a rather scenic route used primarily by visitors to
+Oceancrest to get out of the crowded Main Street.  It runs from the
+Nylandian Bay to the south wall and southern shopping district.  Hillcrest
+is another large road which provides primary access to most of the 
+large estates located to the east in the fairly well-off sections of
+Oceancrest.  The Dragon Tooth Inn is north of here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1039</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1041</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1142</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1145</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

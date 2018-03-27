@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5437" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>The road has dropped into a snow covered mountain glen near a creek.</ShortDescription>
+  <LongDescription>Ice and rime has formed on the slowly moving stream, and the small valley
+is pristine, clear and cold.  You can see animal prints in the snow.  Large
+animal prints.  Looks like wolf tracks, and a lot of them.  Those are very, 
+very large animal prints.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5436</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5438</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="2000" Version="2.40" Area="ocean">
+  <Name>Caledon's Secret Alcove</Name>
+  <ShortDescription>You are in Caledon's Alcove.  This is where Caledon comes to plan out
+new areas of Mordor.  </ShortDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">701</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

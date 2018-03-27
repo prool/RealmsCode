@@ -1,0 +1,13 @@
+INTELLIGENCE:
+
+Intelligence is the most important attribute for most spell casting
+classes. The higher your intelligence is, the higher the bonus you get on
+the damage your spells do. In addition, the higher the number you have in
+intelligence, the longer your stuns last when you use the stun spell. This
+is very important for all casting classes. Intelligence also determines how
+many magic points you regenerate back at a time. If you are a bard or
+vampire, intelligence helps determine how successful you are when you try
+to charm or hypnotize. If a cleric has a higher intelligence then piety, it
+helps him heal more hit points when using the vigor and mend-wound spells.
+Last but not least, a the higher your intelligence is, the less chance you
+have of spell failure.

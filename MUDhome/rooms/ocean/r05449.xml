@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5449" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>This is the west end of Hafnia Gorge, a deep cut formed by the Ashton River.</ShortDescription>
+  <LongDescription>the road is on a ledge, high on the southern face of the mountain with a
+cold rock face beside you.  As you look overhead, you see twin castles built
+opposite each other on opposing sides of the gorge.  Far below is the mighty
+Ashton river, looking like a blue line from this height.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5448</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5450</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

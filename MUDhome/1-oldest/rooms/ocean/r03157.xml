@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="3157" Version="2.40" Area="ocean">
+  <Name>Sunken Pirate Ship</Name>
+  <ShortDescription>You are standing on the port side of the Snap Dragon.</ShortDescription>
+  <LongDescription>Oddly, all of the rigging is still in place and the sails are unfurled
+as if the ship were underway.  The ship is taut and clean, ready for
+inspection except for the cannon holes which pierced her side and sunk
+her.  Captain Morgan was quite proud of the Snap Dragon.</LongDescription>
+  
+  <Established>756270820</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">379</Mob>
+      <Mob Area="ocean" Num="1">376</Mob>
+      <Mob Area="ocean" Num="2">375</Mob>
+      <Mob Area="ocean" Num="3">375</Mob>
+      <Mob Area="ocean" Num="4">380</Mob>
+      <Mob Area="ocean" Num="5">380</Mob>
+      <Mob Area="ocean" Num="6">381</Mob>
+      <Mob Area="ocean" Num="7">381</Mob>
+      <Mob Area="ocean" Num="8">379</Mob>
+      <Mob Area="ocean" Num="9">299</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3158</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3154</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3156</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3197</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

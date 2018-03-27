@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Room Num="882" Version="2.47e" Area="ocean">
+  <Name>Dirt Road</Name>
+  <ShortDescription>You are on a dirt road going through the Chateau Richland Winery fields.</ShortDescription>
+  <LongDescription>The road has been in use for a long time and is bare of weeds.  It is
+apparently used fairly often.  There is a mid-day rest area immediately
+to the north, and in the distance to the east you see a large grove of
+trees.  Several farm buildings lie to the southwest.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>north</Direction><Size>5</Size><Num>1</Num></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">881</Room></Target><Effects></Effects></Exit><Exit Name="southwest"><Keys></Keys><Target><Room Area="ocean">883</Room></Target><Effects></Effects></Exit><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">891</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

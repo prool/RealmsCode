@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="6969" Version="2.41a" Area="ocean">
+  <Name>Darwin's Study</Name>
+  <ShortDescription>This is where Darwin comes to have some peace and quiet.</ShortDescription>
+  <LongDescription>In addition, the plush surroundings provide a nice place to entertain
+guests.  The room is dimly lit by a gas lantern hanging from the
+ceiling, and several tables surround a roll-top desk at the northern
+wall.  On the desk can be seen several large stacks of papers that
+appear to be notes on the various species that inhabit Oceancrest.</LongDescription>
+  
+  
+  
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="5"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>pits</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="pits">
+      <Keys/>
+      <Room Area="ocean">1909</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

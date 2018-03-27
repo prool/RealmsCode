@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Room Num="1724" Version="2.47i" Area="ocean">
+  <Name>Allakaren Circle</Name>
+  <ShortDescription>You are in the northern section of the strange Allakaren Circle.</ShortDescription>
+  <LongDescription>The Allakaren Circle is about twice the radius of most of the other 
+traffic circles in the city.  This is because the city planners actually
+thought about growth before they built the Circle.  Fearing the industrial
+growth of the town might hinder the Tree's growth, the Circle was built
+with a lot of central space for the Tree to grow and florish, despite
+what went on in its surroundings.  A small fence prevents people from
+disturbing the tree in the center of the circle.</LongDescription>
+  <Wander><Traffic>5</Traffic><RandomMonsters><Mob Area="ocean">3</Mob><Mob Area="ocean" Num="1">3</Mob><Mob Area="ocean" Num="2">266</Mob><Mob Area="ocean" Num="3">1</Mob><Mob Area="ocean" Num="4">1</Mob></RandomMonsters></Wander>
+  <Track><Direction>southeast</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1723</Room></Target><Effects></Effects></Exit><Exit Name="southeast"><Keys></Keys><Target><Room Area="ocean">1783</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

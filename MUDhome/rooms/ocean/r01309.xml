@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1309" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, west of Nicholas' Enchanted Weapons.</ShortDescription>
+  <LongDescription>Ironically, Nicholas has no enchanted weapons for sale, but likes to 
+advertise that he does to get people to buy his less powerful but more
+common stock.  The large shopping center to the east boasts a number of
+simple stores and services.  The center continues around the block.  On
+the west side of the street is a dark forest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1308</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1310</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

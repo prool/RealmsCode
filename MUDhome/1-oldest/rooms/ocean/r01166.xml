@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="1166" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are casually walking along Eidenhoft Boulevard.</ShortDescription>
+  <LongDescription>On the east, you can see a gray building called "Kaldeas' Mansion of
+Illusion".  The building is not very tall and seems mysteriously narrow.
+It's not a very good engineering job on the part of the architech.  There 
+doesn't appear to be a door on this side of the building.  Over to the west
+you can see a large building that appears to span the entire city block.
+There is a large gem hovering about the building, radiating a purple glow
+as the sunlight hits it.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">441</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1167</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1165</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

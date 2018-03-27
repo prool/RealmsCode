@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="1205" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street/Main Street Intersection</Name>
+  <ShortDescription>You are at the intersection of Rosecrest Street and Main Street.</ShortDescription>
+  <LongDescription>Main Street heads west out of Rosecrest Street, traveling through the
+central part of the southwestern section of town.  The Ivanhouse 
+Sporting Facility is located to the east where combatants fight 
+more evenly-matched gladiators on a one-on-one confrontation to the
+death.  The entrance to the facility is located off of Netherworld Lane,
+to the south.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1204</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1206</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">514</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

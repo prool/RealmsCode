@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="3910" Version="2.40" Area="ocean">
+  <Name>Thieve's Guild Training Room</Name>
+  <ShortDescription>You are in the training room for thieve's who are level six and above.
+Eventually, this will become an active training site requiring thieves
+to face a test, but right now that's not required.  However, there is a
+fee that will be charged for advancement.</ShortDescription>
+  <LowLevel>6</LowLevel>
+  
+  <Established>770713755</Established>
+  <Flags>
+    <Bit Num="3"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3909</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  remove-fear spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 10
+School:  Abjuration
+Domain:  Trickery
+
+This spell nullifies the effects of a fear spell on the target. In effect, the
+target experiences a boost of bravery strong enough to overcome magic. Thus, the
+target will once again be under their own free will.
+
+Syntax:
+cast remove-fear <target>

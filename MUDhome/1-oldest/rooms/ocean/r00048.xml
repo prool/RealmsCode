@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="48" Version="2.40" Area="ocean">
+  <Name>Caledonia Road</Name>
+  <ShortDescription>You are in front of the grand hotel known as the Caledonia Inn.</ShortDescription>
+  <LongDescription>Many years ago, the owner of the inn was told he would never die until
+the Caledonia Inn was finished.  Since that time he has kept workmen
+constantly adding to and tearing down the great inn, so that the building
+can never be said to be finished.  There is a maze of rooms and halls
+in there, some of which were sealed overnight, and built around.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">47</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">49</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

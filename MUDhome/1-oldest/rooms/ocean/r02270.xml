@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2270" Version="2.40" Area="ocean">
+  <Name>The Red Training Room</Name>
+  <ShortDescription>You have defeated the veteran second class knight and are worthy to advance.</ShortDescription>
+  <LongDescription>The skill of being a good fighter is a combination of intelligence and 
+strength.  Combined, the fighter can take on almost any opponent even
+if they are of a higher level than you are.  Come back when you are ready
+to advance again, and the Panthor Fighting Academy will train you.</LongDescription>
+  <LowLevel>1</LowLevel>
+  <HighLevel>1</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2268</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

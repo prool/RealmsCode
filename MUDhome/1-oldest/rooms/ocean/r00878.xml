@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="878" Version="2.40" Area="ocean">
+  <Name>Vlassen's Plane</Name>
+  <ShortDescription>You are in an intersecting plane between this world and another.</ShortDescription>
+  <LongDescription>Vlassen sits on pillows, a small boy with a smooth face and a tender
+young body.  His eyes follow you, and appear to be ancient pools of
+darkness as they peer into your soul.  He slowly twists a heavy strand
+of knotted human hair in his small hands as he waits for you to speak.
+The elderly men mutter and glare as they also wait.  Do not anger them
+further, as they are powerful in spite of their appearances.</LongDescription>
+  <HighLevel>10</HighLevel>
+  
+  <Established>755820144</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">451</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">874</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="292" Area="ocean" Version="2.40">
+  <Name>dwarven plate mail leggings</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>35</ShotsMax>
+  <ShotsCur>35</ShotsCur>
+  <Armor>30</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">12500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">plate</Key>
+    <Key Num="1">mail</Key>
+    <Key Num="2">leggings</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="10"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>You notice some small plate mail leggings, made especially by and for dwarves.</Description>
+  <Weight>5</Weight>
+  <Type>6</Type>
+  <SubType>plate</SubType>
+  <WearFlag>3</WearFlag>
+  <InBag/>
+</Object>

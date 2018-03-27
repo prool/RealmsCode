@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="207" Version="2.40" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>This narrow hallway runs north and south between two rooms.</ShortDescription>
+  <LongDescription>At the north end of the hallway is a wooden door beyond which you suspect
+is a bedroom.  The living room of the mansion is the large room south of
+this one.  You hear some are odd noises for a deserted house.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">16</Mob>
+      <Mob Area="ocean" Num="1">16</Mob>
+      <Mob Area="ocean" Num="2">17</Mob>
+      <Mob Area="ocean" Num="3">18</Mob>
+      <Mob Area="ocean" Num="4">23</Mob>
+      <Mob Area="ocean" Num="5">33</Mob>
+      <Mob Area="ocean" Num="6">21</Mob>
+      <Mob Area="ocean" Num="7">33</Mob>
+      <Mob Area="ocean" Num="8">33</Mob>
+      <Mob Area="ocean" Num="9">33</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">201</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">209</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

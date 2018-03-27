@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1057" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are on Eidenhoft Boulevard, running northeast to southwest.</ShortDescription>
+  <LongDescription>Eidenhoft Boulevard cuts through a large city block.  On the south side
+of the road, there are three shops: Batton Locks &amp; Picks, Dragonwares 
+and Leomund's Water Purification.  The entrances to these shops is 
+probably on Oceancrest Drive or Waterfront Way, but there might be a
+rear entrance to some of these buildings here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1056</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1058</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3719</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

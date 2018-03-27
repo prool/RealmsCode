@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2524" Version="2.40" Area="ocean">
+  <Name>Teal Avenue</Name>
+  <ShortDescription>You are on Teal Avenue in the industrial section of the city.</ShortDescription>
+  <LongDescription>Many of the new ideas and concepts which basic research produces are turned
+into usable products by the factories on this street.  On the east side
+you see a bright green building and a sign which says they specialize in
+enchanted rods and staves.  They proudly state that they use only the latest
+spells in production.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2523</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2525</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

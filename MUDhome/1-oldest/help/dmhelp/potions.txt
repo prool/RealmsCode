@@ -1,0 +1,99 @@
+
+    #  Name                   Value   Wgt  Shots  Magic    Description     
+--------------------------------------------------------------------------------
+   19. birthday cake              1    0      1      9     restore         
+   30. Thanksgiving turkey       50    1      1      1     vigor           
+   31. pumpkin pie               50    1      1     20     heal            
+ 1210. yellow mold                0    0     10      1     vigor           
+ 1211. purple mold                0    0      1      2     zephyr          
+ 1212. blue mold                  0    0      1     13     stun            
+ 1213. pale mold                  0    0      1     27     rumble          
+ 1214. yellow mold                0    0      1     30     dustgust        
+ 1215. black mold                 0    0      1     39     thunderbolt     
+ 1216. green mold                 0    0      1     14     tornado         
+ 1223. cerulean potion          100    0      1     19     mend-wounds     
+ 1262. bottle of beer             0    0      1     13     stun            
+ 1263. bottle of vodka            0    0      1     13     stun            
+ 1295. carmine potion          7500    0      1     69     fire-shield     
+ 1601. glowing blue potion     5000    5      1     12     teleport        
+ 2006. banana                    11    1      3      1     vigor           
+ 2012. orange                     5    0      2      1     vigor           
+ 2013. pear                       5    1      1      1     vigor           
+ 2209. oozy potion            14779    2      1     25     resist-magic    
+ 2214. clear blue potion       2000    2      1      8     invisibility    
+ 2216. jade potion              200    2      1      4     curepoison      
+ 2223. black potion              10    2      1     48     drain-exp       
+ 2264. healing potion           200    6      1      1     vigor           
+ 2313. smokey potion            500    1      3     17     word-of-recall  
+ 2371. cup of java               10    1      1      1     vigor           
+ 2428. icy potion              1000    2      1     65     resist-water    
+ 2429. honeydew extract         250    0      2     19     mend-wounds     
+ 2430. silver flask             400    2      1     10     detect-invisible
+ 2431. bubbling beaker          200    2      1     22     levitate        
+ 2435. lavender potion          200    2      1     67     resist-air      
+ 2439. hazy potion            13000    2      1     17     word-of-recall  
+ 2473. golden-hued potion       200    2      1     11     detect-magic    
+ 2548. blood red potion       20000    3      1     51     fear            
+ 2549. hazy potion            10000    2      1     17     word-of-recall  
+ 2716. pig's feet                 1    1      1     37     immolate        
+ 2860. foul-smelling potion     100    1      1      1     vigor           
+ 3219. milk                      50    1      1      1     vigor           
+ 3301. Bill's brew               50    1      1      1     vigor           
+ 3303. healing potion            65    1      1      1     vigor           
+ 3304. cyan potion               65    1      1      4     curepoison      
+ 3305. potion                    65    1      1      5     bless           
+ 3306. potion                    65    1      1      6     protection      
+ 3308. lime potion               65    1      1      8     invisibility    
+ 3309. verde potion           20000    1      1      9     restore         
+ 3310. onion potion            1000    1      1     10     detect-invisible
+ 3311. potion                    65    1      1     11     detect-magic    
+ 3312. potion                    65    1      1     12     teleport        
+ 3313. potion                    65    1      1     13     stun            
+ 3316. potion                    65    1      1     16     enchant         
+ 3317. potion                    65    1      1     17     word-of-recall  
+
+    #  Name                   Value   Wgt  Shots  Magic    Description     
+--------------------------------------------------------------------------------
+ 3318. potion                    65    1      1     18     summon          
+ 3319. umber potion            1000    1      1     19     mend-wounds     
+ 3320. potion                    65    1      1     20     heal            
+ 3321. potion                    65    1      1     21     track           
+ 3322. potion                    65    1      1     22     levitate        
+ 3323. lapis lazuli potion    15000    1      1     23     fire-protection 
+ 3324. sunny potion              65    1      1     24     fly             
+ 3325. potion                    65    1      1     25     resist-magic    
+ 3342. red and blue potion       65    1      1     42     know-aura       
+ 3343. ebon potion            10000    1      1     43     remove-curse    
+ 3344. dry ice potion         10000    1      1     44     resist-cold     
+ 3345. cobalt potion          10000    1      1     45     breathe-water   
+ 3346. potion                    65    1      1     46     earth-shield    
+ 3347. potion                    65    1      1     47     clairvoyance    
+ 3348. potion                    65    1      1     48     drain-exp       
+ 3349. mage blood potion         65    1      1     49     remove-disease  
+ 3350. eye ointment              65    1      1     50     cure-blindness  
+ 3351. potion                    65    1      1     51     fear            
+ 3352. potion                    65    1      1     52     room-vigor      
+ 3353. potion                    65    1      1     53     transport       
+ 3354. potion                    65    1      1     54     blind           
+ 3355. potion                    65    1      1     55     silence         
+ 3356. potion                    65    1      1     56     fortune         
+ 3357. potion                    65    1      1     57     curse           
+ 3362. potion                    65    1      1     62     invoke-elemental
+ 3363. potion                    65    1      1     63     plane-shift     
+ 3364. aqua potion            10000    1      1     65     resist-water    
+ 3365. aqua potion            10000    1      1     65     resist-water    
+ 3366. yellow-orange potion   12000    1      1     66     resist-fire     
+ 3367. potion                    65    1      1     67     resist-air      
+ 3368. cream potion           10000    1      1     68     resist-earth    
+ 3369. potion                    65    1      1     69     fire-shield     
+ 3613. Oil of the Ovate          65    1      1      8     invisibility    
+ 3614. Gilead potion             65    1      1     19     mend-wounds     
+ 3615. sacred well water         65    1      1     10     detect-invisible
+ 3616. saracha potion            65    1      1     24     fly             
+ 3617. toza potion               65    1      1     49     remove-disease  
+ 3618. acacia tea                65    1      1     50     cure-blindness  
+ 6504. magic mushrooms           15    1      1     42     know-aura       
+ 7667. phulouri                 100    1      1      1     vigor           
+ 7676. pelau                    100    1      1      1     vigor           
+ 7677. potato rotis            1000    0      2     50     cure-blindness  
+13001. beechnuts                200    1      1      1     vigor           

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1209" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive/Regalia Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Nagaritha Drive and Regalia Way.</ShortDescription>
+  <LongDescription>Regalia Way, not to be confused with Regalia Drive, is a small connector
+road, which cuts through the Regalia Convent towards the Allisk Circle.
+Regalia Way is not a very popular road, but it is a short cut out of
+the corn and wheat fields in the southern section of town.  The large
+corn fields are located on the southern side of the road, protected by
+a mesh wire fence.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1210</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1208</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1656</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

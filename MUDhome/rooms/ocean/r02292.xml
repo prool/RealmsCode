@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="2292" Version="2.41a" Area="ocean">
+  <Name>Melbourne Entertainment Arena - Entrance Foyer</Name>
+  <ShortDescription>You are in the main entrance foyer into the Melbourne Entertainment Arena.</ShortDescription>
+  <LongDescription>The Melbourne Entertainment Arena has two levels of difficulty.  To the 
+north is the entrance to the Beginner's Circle, where young warriors can
+get acquainted with the various criminals and vermin of Oceancrest.  To the
+east is the Center Ring arena where just about anything can happen.  The
+fighting rages from within both areans, beckoning you to enter.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2291</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2293</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2294</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

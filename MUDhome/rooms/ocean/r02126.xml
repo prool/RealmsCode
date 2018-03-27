@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="2126" Version="2.40" Area="ocean">
+  <Name>Milsene Museum's Hall of Doom</Name>
+  <ShortDescription>You are in the infamous Hall of Doom, perhaps the most popular part
+of the Museum.  There are a number of exhibits in neighboring rooms.</ShortDescription>
+  <LongDescription>The Hall of Doom is a magnificent hallway of the greatest terrors 
+ever to be collected into a single exhibit.  The hallway continues
+to the south and back into the main foyer to the north.  On the 
+east wing, you see a sign that says "The Undead Aren't Really Dead".
+On the west wing, you see a sign that reads "Dragons and Brimstone".</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2122</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2127</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2128</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2129</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

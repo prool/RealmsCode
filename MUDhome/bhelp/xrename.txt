@@ -1,0 +1,7 @@
+Help on: *xrename
+	This command allows builders and higher to rename any exit
+in a room. One of it's chief uses will be to make it possible to
+put multiple exits of the same name in a room without using the
+editor.
+Syntax: *xrename <oldname> [#] <newname>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="419" Version="2.40" Area="ocean">
+  <Name>Lorian Parkway/Islandia Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Lorian Parkway and Islandia Drive.</ShortDescription>
+  <LongDescription>Lorian Parkway runs north from Islandia Drive, which runs east and west.  On
+the south side of the road, you can see a pet store called Nicole's World
+of Animals, where a number of small pets and companions may be purchased.
+No one should be without a pet.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">475</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">476</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">418</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

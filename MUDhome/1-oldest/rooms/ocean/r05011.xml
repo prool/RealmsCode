@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="5011" Version="2.40" Area="ocean">
+  <Name>Skies Over Brownhaven</Name>
+  <ShortDescription>You are flying low over a road to Brownhaven.  30.n1.e0.s0.w1</ShortDescription>
+  <LongDescription>The copper dragon swoops down toward the old caravan road to get a better
+look at the pack train of horses, mules, camels, llamas, and other exotic
+creatures.  Startled faces look up as you drop low toward them.  They seem
+to be carrying a rich variety of trade goods.  One group of camels seem to
+be particularly well guarded.</LongDescription>
+  
+  <Established>772227720</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5036</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5007</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5010</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5022</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

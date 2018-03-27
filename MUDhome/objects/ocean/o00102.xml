@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="102" Area="ocean" Version="2.40">
+  <Name>dwarven plate mail</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Armor>92</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">50000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">plate</Key>
+    <Key Num="1">mail</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="10"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>Made by the dwarves, possibly the best armor available</Description>
+  <UseOutput>It's heavy going on but you feel impenetrable</UseOutput>
+  <Weight>20</Weight>
+  <Type>6</Type>
+  <SubType>plate</SubType>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

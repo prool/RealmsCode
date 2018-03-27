@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1766" Version="2.40a" Area="ocean">
+  <Name>Kafkan Way</Name>
+  <ShortDescription>You are walking along Kafkan Way, north of Lafyette's Blacksmith and Repairs.</ShortDescription>
+  <LongDescription>Lafyette's Blacksmith Shop offers superior and quality craftsmanship in the
+repair of armor and weaponry,  But Lafyette is a simple man, and does not
+guarantee anything.  (Nor do his competitors.)  Like all blacksmiths in the
+Land of Mordor, he has an aversion to enchanted items and will tell you it
+is difficult to repair items without them losing that special magical glow.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1765</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1198</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2259</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

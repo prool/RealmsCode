@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="748" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are on Wakeforest Drive, between the Citadel and Oceancrest Ministries.</ShortDescription>
+  <LongDescription>The North Oceancrest Ministry Building is located on the west side of
+the road, and consists of the Ministry of Tranquility, the Ministry of
+Rumor Control and the Hall of Discipline.  The entrance to the Ministries
+is located along Ministry Way, located one block to the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">747</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">749</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

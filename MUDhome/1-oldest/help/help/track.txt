@@ -1,0 +1,42 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  track spell       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 13
+School:  Not Castable
+Domain:  Nature
+
+This spell allows druids and rangers to transport themselves across the world to
+another person. The magic employs means similar to those used by the druids and
+rangers to track their prey, although on a greater scale. At higher levels, they
+will bring their entire group with them.
+
+Syntax:
+cast track <target>
+
+
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  track         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Track is a special ability that rangers, druids, werewolves and minotaurs have.
+By searching for such signs as broken twigs, footprints, or other disturbances
+to the natural setting (in the case of a werewolf or a minotaur, by using
+scent), one is able to find tracks. The pass-without-trace spell will prevent
+a player from leaving tracks in a room.
+
+Skill
+Level Result
+----- -------
+  1	Find the direction the last person who left the room went.
+  5	Determine the size of the largest person who last left the room.
+  10	Determine how many people most recently left the room.
+
+Example at skill level 10:
+: Bob leaves north.
+Min leaves north.
+: track
+You find tracks leading to the north.
+The tracks are medium.
+You find 2 unique sets of tracks.
+:
+

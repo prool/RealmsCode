@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5553" Version="2.40" Area="ocean">
+  <Name>Glabor Cave</Name>
+  <ShortDescription>You are in a rocky cave, where you see a long bar and several tables.</ShortDescription>
+  <LongDescription>A group of troll musicians are at one end of the cave, playing something
+that sounds horrible to your ears, but no doubt enjoyed by the patrons.
+Most of the people in the bar are trolls, but you see a few orcs as well.</LongDescription>
+  
+  <Flags>
+    <Bit Num="23"/>
+  </Flags>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">67</Mob>
+      <Mob Area="ocean" Num="1">671</Mob>
+      <Mob Area="ocean" Num="2">43</Mob>
+      <Mob Area="ocean" Num="3">787</Mob>
+      <Mob Area="ocean" Num="4">787</Mob>
+      <Mob Area="ocean" Num="5">788</Mob>
+      <Mob Area="ocean" Num="6">789</Mob>
+      <Mob Area="ocean" Num="7">789</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5546</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

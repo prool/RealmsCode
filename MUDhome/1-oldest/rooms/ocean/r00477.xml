@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="477" Version="2.40" Area="ocean">
+  <Name>Islandia Drive</Name>
+  <ShortDescription>You are traveling along Islandia Drive, north of the Golden Shield and
+south of the North Oceancrest Hot Springs and Spa.</ShortDescription>
+  <LongDescription>The Golden Shield has a reputation for being one of the best shield makers
+in all of Oceancrest.  All the Royal Shields are made here, as well as
+many other fighter's prized shields from all over the land.  On the north
+side of the road is the North Oceancrest Hot Springs and Spa, where tired
+warriors can go for a quick break before continuing on.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">476</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">478</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">316</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2104</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

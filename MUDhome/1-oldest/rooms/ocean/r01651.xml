@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="1651" Version="2.47e" Area="ocean">
+  <Name>Monument Avenue</Name>
+  <ShortDescription>You are walking along Monument Avenue, south of Keslar Mountain.</ShortDescription>
+  <LongDescription>Monument Avenue barely survived the creation of Keslar Mountain, which
+was created some centuries ago when the Mages of Keslar decided that a
+mountain would look nice here.  High on top of the mountain is the
+Palace where many of the mages still reside.  There is a spooky path
+up to the Palace on the other side, off of Kafkan Way.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>east</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">1638</Room></Target><Effects></Effects></Exit><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1652</Room></Target><Effects></Effects></Exit><Exit Name="path"><Keys></Keys><Target><Room Area="ocean">1817</Room></Target><Effects></Effects><Flags><Bit Num="0"></Bit></Flags></Exit></Exits>
+</Room>

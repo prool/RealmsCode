@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="169" Area="ocean" Version="2.40">
+  <Name>sack of grain</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">480</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">grain</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>The grain is quite heavy, but worth something if you can sell it.</Description>
+  <Weight>15</Weight>
+  <Type>14</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

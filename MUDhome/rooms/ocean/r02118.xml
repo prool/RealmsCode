@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="2118" Version="2.40" Area="ocean">
+  <Name>Mordith's Hut</Name>
+  <ShortDescription>This is the hut of Mordith, the middle daughter of Mehetable the witch.</ShortDescription>
+  <LongDescription>The room is simple but elegant, with many musical instruments in view.
+Mordith longs to be married, and her music is often about lost loves and
+forgotten promises.  Her favorite instrument is the finely crafted lute you
+see on the chair by the window.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2108</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="589" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive, west of the elven Shrine.</ShortDescription>
+  <LongDescription>The Elven Shrine of Corellon Larethian, the elven god of everthing that
+is, lies to the west of here.  The magnificent Shrine was built centuries
+ago by the elves who used to live in the area.  There are still many elves
+who follow Larethian's banner, but the number of elves in Oceancrest has
+diminished over the years.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">590</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">588</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

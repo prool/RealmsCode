@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="2948" Version="2.40" Area="ocean">
+  <Name>Forest Camp</Name>
+  <ShortDescription>Small shelters can be seen around the perimeter of the campground.</ShortDescription>
+  <LongDescription>A campfire has been recently put out and the lingering smell of the smoke
+is rather pleasant.  The ground is quite scuffed, as if a large number of
+people have been here, and there are the remains of a deer hanging from
+a tree, gutted and cleaned.</LongDescription>
+  
+  <Established>760246644</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>13</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">475</Mob>
+      <Mob Area="ocean" Num="1">475</Mob>
+      <Mob Area="ocean" Num="2">475</Mob>
+      <Mob Area="ocean" Num="3">475</Mob>
+      <Mob Area="ocean" Num="4">89</Mob>
+      <Mob Area="ocean" Num="5">475</Mob>
+      <Mob Area="ocean" Num="6">89</Mob>
+      <Mob Area="ocean" Num="7">477</Mob>
+      <Mob Area="ocean" Num="8">475</Mob>
+      <Mob Area="ocean" Num="9">475</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2947</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2949</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

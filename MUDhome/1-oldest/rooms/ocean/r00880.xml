@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Room Num="880" Version="2.47e" Area="ocean">
+  <Name>Animal Keep</Name>
+  <ShortDescription>This is the animal keep, a compound for both exotic and domestic animals.</ShortDescription>
+  <LongDescription>A number of stalls have been setup and a training circle looks well-worn.
+There are small animal wagons lined up on one side, and bags of feed and
+piles of straw are on the other side of the compound.  Gypsys are known
+as great animal trainers and this is apparently where much of that training
+takes place.  Several of the great horses that pull the wagons are tethered
+at one end of the keep, and some very exotic animals are at the other end.
+The campground is to the east.</LongDescription>
+  <HighLevel>10</HighLevel>
+  <Wander><Traffic>15</Traffic><RandomMonsters><Mob Area="ocean">393</Mob><Mob Area="ocean" Num="1">394</Mob><Mob Area="ocean" Num="2">395</Mob><Mob Area="ocean" Num="3">396</Mob><Mob Area="ocean" Num="4">396</Mob><Mob Area="ocean" Num="5">395</Mob><Mob Area="ocean" Num="6">394</Mob><Mob Area="ocean" Num="7">393</Mob><Mob Area="ocean" Num="8">393</Mob><Mob Area="ocean" Num="9">393</Mob></RandomMonsters></Wander>
+  <Track><Direction>west</Direction><Size>5</Size><Num>1</Num></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">881</Room></Target><Effects></Effects></Exit><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">872</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

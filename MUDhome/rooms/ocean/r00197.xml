@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="197" Version="2.40" Area="ocean">
+  <Name>Red Room</Name>
+  <ShortDescription>You are in Madame Ruthie's private chambers.</ShortDescription>
+  <LongDescription>There are no frills here, just a stout bed and several strong wooden chairs
+with a makeup table and mirror against one wall.  An open closet is stuffed
+with furs, long gowns and silks.  Only long-time friends of the madame ever
+see the inside of this room.  Are you one of her oldest friends?</LongDescription>
+  
+  <Established>761956723</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">523</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">194</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

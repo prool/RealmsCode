@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="5033" Version="2.40" Area="ocean">
+  <Name>Cloudy Sky</Name>
+  <ShortDescription>You are approaching a cloudy sky to the east.  50 n2.e1.s0.w0</ShortDescription>
+  <LongDescription>The skies are getting darker around you, especially to the east.  Far in
+the distance to the north, you can see the top of a single mountain poking
+through the clouds.  The base is obscured with fog and clouds.</LongDescription>
+  
+  <Established>772701965</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5018</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5012</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5034</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5015</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

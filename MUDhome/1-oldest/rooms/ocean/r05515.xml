@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="5515" Version="2.40" Area="ocean">
+  <Name>Zelda's Capes and Fine Furs</Name>
+  <ShortDescription>You are in a shop that sells the latest fashions in capes and furs.</ShortDescription>
+  <LongDescription>Although the windows show the latest fads in capes and other finery, the
+owner knows that she can make money on the old standbys too.  Near the back
+of the shop you can find old favorites that never go out of style.</LongDescription>
+  
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">945</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

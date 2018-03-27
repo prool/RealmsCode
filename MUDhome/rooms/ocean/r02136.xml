@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="2136" Version="2.40" Area="ocean">
+  <Name>Hermit's Cave Entrance</Name>
+  <ShortDescription>You are standing outside the cave of Xandaus, a strange old man.</ShortDescription>
+  <LongDescription>Hermits are always strange, and for some reason they always seem to have
+long, flowing white hair and long beards.  The one who lives here is no
+exception.  He is also very wise.  The outside of the cave is scattered
+with small animal bones and other bits of refuse.  The skin of some
+unknown animal is stretched on a frame which provides a sort of door
+for the cave.</LongDescription>
+  
+  <Established>756241343</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2135</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2137</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

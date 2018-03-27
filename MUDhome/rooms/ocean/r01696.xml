@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1696" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are walking along Golden Dolphin Way, north of the City Walls.</ShortDescription>
+  <LongDescription>The intersection with Overland Drive lies to the east.  Overland Drive
+is one of the long roads which runs directly past the Necropolis and
+the Manor of Natasha de Allisk.  Golden Dolphin Way continues to the
+east and west, with the large, South City Walls running parallel to the
+road.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1617</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1695</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="4286" Version="2.40a" Area="ocean">
+  <Name>Royal Stairway</Name>
+  <ShortDescription>You are on the third level of the Royal Stairway in the Tower Castle.</ShortDescription>
+  <LongDescription>The short eastern hallway is reserved for the noble friends of the Prince.
+Only the highest level and most trustworthy of Rutger's friends are allowed
+to take chambers in this part of the castle.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4285</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">4287</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

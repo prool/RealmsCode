@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="5715" Version="2.40" Area="ocean">
+  <Name>Boran's Hut</Name>
+  <ShortDescription>You are in the hut of Boran, the mountain giant who guards Boran Trail.</ShortDescription>
+  <LongDescription>The giants who live in Phexton Village have appointed Boran, one of the
+larger giants, to guard the narrow trail which leads to the Valley of the 
+Rainflowers.  They make a lot of money by harvesting the Rainflower seeds,
+and don't want travelers going there.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5713</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

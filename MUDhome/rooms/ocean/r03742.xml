@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3742" Version="2.40" Area="ocean">
+  <Name>Green Knight's Arena</Name>
+  <ShortDescription>You are in an arena draped with green banners, awaiting your test.</ShortDescription>
+  <LongDescription>You have shown you are willing to fight against evil by advancing as far
+as you have, but now you must challenge the Green Knight to serve at a
+higher level.  If your heart is pure, and your love of God is great,
+than no matter how hard the Green Knight tries, you will prevail.
+Good luck, mighty paladin.</LongDescription>
+  <LowLevel>6</LowLevel>
+  <HighLevel>6</HighLevel>
+  
+  <Established>766789786</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">571</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3743</Room>
+      <Key>7</Key>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">290</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="677" Area="ocean" Version="2.40">
+  <Name>cleric's cudgel</Name>
+  <Adjustment>2</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>3</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">6000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">cudgel</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="34"/>
+  </Flags>
+  <Description>The weapon has a hefty oak shaft and a heavy iron ball at the end.</Description>
+  <UseOutput>Blessed in the temple, its striking force is multiplied ten fold.</UseOutput>
+  <Weight>5</Weight>
+  <Type>5</Type>
+  <SubType>club</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

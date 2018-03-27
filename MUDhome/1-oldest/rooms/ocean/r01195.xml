@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1195" Version="2.40" Area="ocean">
+  <Name>Amberton Lane/Kafkan Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Kafkan Way and Amberton Lane.</ShortDescription>
+  <LongDescription>Kafkan Way heads off to the east from here, ending at the Necropolis.
+If the Keslarian Mages didn't create their castle right on this spot,
+Amberton Lane would continue to the south.  Unfortunately, the mages 
+did erect their palace on this spot, and Amberton Lane was destroyed.
+The large, looming castle appears to the southeast, high up a large
+mountain face.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1194</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1196</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

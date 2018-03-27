@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  whirlwind spell     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 10
+School:  Evocation
+Domain:  Destruction
+
+This is the level three spell of the air realm. It causes a massive whirlwind to
+hit the target, picking up anything nearby and striking the target with it.
+Whirlwind also pushes the target around and often into heavy and pointy objects,
+causing even more damage.
+
+Syntax:
+cast whirlwind <target>

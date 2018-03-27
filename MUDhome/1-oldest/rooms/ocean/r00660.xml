@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="660" Version="2.40a" Area="ocean">
+  <Name>Center Drive/Hofton Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Hofton Avenue and Center Drive.</ShortDescription>
+  <LongDescription>Center Drive heads south out of the intersection with Hofton Avenue, which
+continues to the east and west, running parallel to the City Walls.  On
+the southeast, you can see the impressive Hofton Ziggurat, where all the
+top delegates go to discuss various matter of importance. </LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">676</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">677</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">661</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

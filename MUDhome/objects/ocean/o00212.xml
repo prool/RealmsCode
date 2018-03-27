@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="212" Area="ocean" Version="2.40">
+  <Name>assassin's dagger</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>5</Number>
+    <Sides>3</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">12000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">dagger</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="21"/>
+  </Flags>
+  <Description>It's a blackened steel blade, perfect for backstabbing.</Description>
+  <UseOutput>You feel rather stealthy.</UseOutput>
+  <Weight>4</Weight>
+  <Type>5</Type>
+  <SubType>dagger</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

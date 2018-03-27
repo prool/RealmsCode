@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="16" Version="2.40a" Area="ocean">
+  <Name>Goldenrod Avenue</Name>
+  <ShortDescription>You are on Goldenrod Avenue, which is the northern boundary of Brownhaven.</ShortDescription>
+  <LongDescription>The road is badly paved, and a great many potholes have been untended
+for a very long time.  There is a busted wagon standing in the roadway,
+blocking most of the road.  On the south side of the road is the Begger's
+Guild.  No one is allowed to beg in the streets of Brownhaven unless they
+are a member of the guild, and pay membership dues.  The door appears to
+be heavy oak with a gold door knocker.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">15</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">17</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Object Num="5" Area="ocean" Version="2.40">
+  <Name>spear</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>25</ShotsMax>
+  <ShotsCur>25</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>6</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">50</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Weight>3</Weight>
+  <Type>5</Type>
+  <SubType>spear</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

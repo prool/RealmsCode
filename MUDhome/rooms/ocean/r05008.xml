@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="5008" Version="2.40" Area="ocean">
+  <Name>Skies Over Brownhaven</Name>
+  <ShortDescription>You can see the town square of Brownhaven below you.  50.n0.e1.s0.w0</ShortDescription>
+  <LongDescription>A little to the east is the great Baldywyne River, which flows through 
+the village.  The source must be somewhere to the north, across the Gotland
+Glenn.  To the east is the Kista Forest.</LongDescription>
+  
+  <Established>772227662</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5012</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5051</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5032</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5006</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

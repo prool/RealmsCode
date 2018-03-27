@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3393" Version="2.40" Area="ocean">
+  <Name>Lower Ring</Name>
+  
+  <Established>759893225</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3390</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3394</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

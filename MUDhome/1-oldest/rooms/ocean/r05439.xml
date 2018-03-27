@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5439" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>A small creek flows along the north side of the road.</ShortDescription>
+  <LongDescription>Snow covers everything you see, and a flurry of snow is driven by the east
+wind coming down from the mountain peaks.  Northwest of here, off the road,
+there is a woodsman's hut.  Because of the wind, you can't tell where that
+howling noise is coming from.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5438</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5440</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

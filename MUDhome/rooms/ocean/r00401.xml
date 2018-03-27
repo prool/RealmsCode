@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="401" Version="2.47i" Area="ocean">
+  <Name>Evenborough Way</Name>
+  <ShortDescription>You are walking along Evenborough Way, east of the Evenborough Inn.</ShortDescription>
+  <LongDescription>The Evenborough Inn provides luxurious accomodations for the weary 
+traveller for either single night visits or prolonged stays in Oceancrest.
+There is a magnificent fountain in front of the main entrance to the
+building, suggesting the price of staying here might be a little expensive.
+The Evenborough Stables are located on the eastern side of the road.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>north</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">400</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">402</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

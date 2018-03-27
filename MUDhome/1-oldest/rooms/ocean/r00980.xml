@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<Room Num="980" Version="2.40a" Area="ocean">
+  <Name>The Cloud Castle Main Hallway</Name>
+  <ShortDescription>You are in the main hallway that appears at the base of two large doors.</ShortDescription>
+  <LongDescription>The massive doors ahead of you, to the north, are guarded by a very large
+cloud giant.  The doors appear to be clouds, but seem solid enough that
+you couldn't just fly through it.  The cloud giant guard doesn't look like
+he's having a very good time guarding the door and might decide to attack
+you just for the fun of it.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">144</Mob>
+      <Mob Area="ocean" Num="1">145</Mob>
+      <Mob Area="ocean" Num="2">144</Mob>
+      <Mob Area="ocean" Num="3">145</Mob>
+      <Mob Area="ocean" Num="4">333</Mob>
+      <Mob Area="ocean" Num="5">333</Mob>
+      <Mob Area="ocean" Num="6">333</Mob>
+      <Mob Area="ocean" Num="7">333</Mob>
+      <Mob Area="ocean" Num="8">333</Mob>
+      <Mob Area="ocean" Num="9">333</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>1206217453</LastTime>
+      <Misc Area="ocean">333</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">981</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys>
+        <LastTime Num="0">
+          <Interval>0</Interval>
+          <LastTime>1206217457</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </Keys>
+      <Room Area="ocean">979</Room>
+      <Key>10</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

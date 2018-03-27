@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="2115" Version="2.40" Area="ocean">
+  <Name>Mehetable's Apple Orchid</Name>
+  <ShortDescription>This apple orchid is the pride and joy of Mehetable and her daughters.</ShortDescription>
+  <LongDescription>The oldest daughter is Megan, said to have a breathtaking beauty and a
+voice to match.  She sings very lovely ballads.  Megan has coal black hair,
+and wears gossermer gowns spun from spider's silk.  Mordith is the middle
+daughter, with flaming red hair, and a quick temper.  She plays the lute.
+Marlea, the youngest daughter has blonde hair and a sweet disposition.  She
+dances with the grace of a bird.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2114</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2113</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2116</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="31" Version="2.40" Area="ocean">
+  <Name>Limbo</Name>
+  <ShortDescription>This is limbo, a place where you go when you die or lose your way.</ShortDescription>
+  <LongDescription>Lost and lonely souls wander about aimlessly, hopelessly seeking to gain an
+insight into the meaning of their past and wasted lives.  Adventurous souls
+who wish to return to the city of Oceancrest to start their lives again
+should go through the blue door.  The green door goes to the Tree of Life.</LongDescription>
+  <Trap>1</Trap>
+  <TrapExit Area="ocean">50</TrapExit>
+  
+  <Established>785746849</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>mirror</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">742</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="green door">
+      <Keys/>
+      <Room Area="ocean">1</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="blue door">
+      <Keys/>
+      <Room Area="ocean">1898</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="mirror">
+      <Keys/>
+      <Room Area="ocean">176</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="brown door">
+      <Keys/>
+      <Room Area="ocean">2</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

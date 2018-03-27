@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<Room Num="2483" Version="2.40" Area="ocean">
+  <Name>Rose Bush</Name>
+  <ShortDescription>You are near a thorny rose bush towards the center of the park.</ShortDescription>
+  <LongDescription>This is the final destination of the Riverdell Tranquility Park.  Here,
+a ranger who is level fifteen or above may train.  If this is your
+desire, you should enter the rose bush.  If you wish to leave the
+park, go out.</LongDescription>
+  
+  <Established>727257418</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="18"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="rose bush">
+      <Keys/>
+      <Room Area="ocean">2484</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1935</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2428</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2412</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2421</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2419</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

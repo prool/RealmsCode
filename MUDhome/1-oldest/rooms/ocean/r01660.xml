@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1660" Version="2.40" Area="ocean">
+  <Name>Regalia Way</Name>
+  <ShortDescription>You are on Regalia Way, just southwest of the Allisk Circle.</ShortDescription>
+  <LongDescription>You can see the odd Allisk Circle to the northeast.  A strange feeling
+comes over you as you stare in that direction, almost as if you were 
+being watched.  The Allisk Manor extends as far as the Allisk Circle.
+Both Lankshire Parkway and Hillcrest Drive form the Manor's deathly 
+boundaries.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1659</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1245</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

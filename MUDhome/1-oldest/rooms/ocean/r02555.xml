@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2555" Version="2.40" Area="ocean">
+  <Name>Garden Circle Road</Name>
+  <ShortDescription>You are on Garden Circle Road, between thick hedges on either side.</ShortDescription>
+  <LongDescription>The base of the many-tiered Hanging Gardens is made of solid gold, with
+an occasional gemstone set in for contrast.  There are also places where
+you see runes and cryptograms cut into the gold.  There's probably a message
+here, if you could understand it.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2554</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2556</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

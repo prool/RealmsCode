@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="2268" Version="2.40" Area="ocean">
+  <Name>Panthor Academy of Fighting Arts</Name>
+  <ShortDescription>You have entered the Academy of Fighting Arts, where aspiring Fighters
+go during their early years to train in the intelligent art of fighting.</ShortDescription>
+  <LongDescription>Fighting is not all brute strength, and a good fighter must realize this.
+In order to advance in levels as a fighter, you must first defeat an
+equally capable fighter one level higher than you.  If you are a veteran
+aspiring to advance to second class, you should enter the red door.  If
+you are already a Veteran, second class, you should enter the blue door.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="red door">
+      <Keys/>
+      <Room Area="ocean">2269</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="blue door">
+      <Keys/>
+      <Room Area="ocean">2271</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1729</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

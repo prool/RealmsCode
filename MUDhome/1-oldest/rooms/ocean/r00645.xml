@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="645" Version="2.40" Area="ocean">
+  <Name>Necropolis Avenue</Name>
+  <ShortDescription>You are on Necropolis Avenue, just north of Netherworld Lane.</ShortDescription>
+  <LongDescription>Between the farmland on either side of the road, you can see to the south
+the intersection with Netherworld Lane and the infamous Oceancrest
+Necropolis.  The Necropolis is a large monument to all those citizens who
+have given their lives towards the betterment of the society.  Nearly
+anyone who is anyone is buried there.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">644</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1184</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

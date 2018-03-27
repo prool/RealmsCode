@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5527" Version="2.40" Area="ocean">
+  <Name>Nyyron Trail</Name>
+  <ShortDescription>This is the Nyyron Trail, which traverses the mountains going south.</ShortDescription>
+  <LongDescription>The trail is almost overgrown now, but wagon ruts still show the way along
+the rocky outcroppings.  Further south is one of the old signal watch towers
+which used to be used by the militia to warn the cities when there might
+be danger of invasion.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5526</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5528</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="1411" Version="2.40" Area="ocean">
+  <Name>Gardener's Shack</Name>
+  <ShortDescription>You are inside a small shack used by the gardener.</ShortDescription>
+  <LongDescription>Unfortunately, there's no gardener here right now.  He's probably out
+in the garden cleaning up.  The shack apperently has nothing fancy
+in it besides some hoes and shovels which could be used as weapons
+if you got desperate.  The gardener won't like you taking his supplies
+from him, though.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">139</Mob>
+      <Mob Area="ocean" Num="1">139</Mob>
+      <Mob Area="ocean" Num="2">139</Mob>
+      <Mob Area="ocean" Num="3">139</Mob>
+      <Mob Area="ocean" Num="4">139</Mob>
+      <Mob Area="ocean" Num="5">139</Mob>
+      <Mob Area="ocean" Num="6">139</Mob>
+      <Mob Area="ocean" Num="7">139</Mob>
+      <Mob Area="ocean" Num="8">139</Mob>
+      <Mob Area="ocean" Num="9">139</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1410</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  dispel-good spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 25
+School:  Not Castable
+Domain:  Evil
+
+This spell allows death knights and evil clerics (not Enoch clerics though)
+to do damage to good players and creatures. Damage is based on the caster's
+level and piety. You must be evil aligned to cast this it. Against summoned
+good creatures, it is especially good. Note that there are good aligned
+summoned creatures in the game.
+
+Syntax:
+cast dispel-good <target>
+

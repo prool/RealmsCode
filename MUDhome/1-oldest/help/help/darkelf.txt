@@ -1,0 +1,27 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  Dark Elf         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Adjustments: +2 Dexterity, -1 Strength, -1 Constitution, +1 Intelligence,
+	-1 Piety
+Compatible Classes: Assassin, Bard, Berserker, Deathknight, Druid, Fighter,
+	Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf,
+        Fighter/Mage, Fighter/Thief, Mage/Assassin, Mage/Thief, Thief/Mage
+
+Dark elves, or Drow as they are sometimes called, are the ancient cousins
+of elves who were banished to the underworld for practicing evil magics and
+worshiping dark gods. Occasionally, one of these dark elves will wander to
+the surface of Derlith to live instead. These rogue dark elves never have a
+place in society and are shunned and often attacked by other elves of the
+surface. As a result, they often become criminals, living as thieves,
+assassins, or something equally bad. The dark elf's small and slender form
+and long fingers gives him a fighting edge in addition to helping him in
+matters of stealth. A dark elf is thus very agile. However, thousands of
+years under the surface of the world in darkness has rendered him not as
+strong as some surface races.
+
+Type HELP DARKELVES for roleplaying information.
+
+See in dark (infravision): Yes
+Size class: Medium
+

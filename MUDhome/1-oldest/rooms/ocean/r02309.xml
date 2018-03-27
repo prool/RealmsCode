@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="2309" Version="2.40" Area="ocean">
+  <Name>Hillborough Adamantine Works</Name>
+  <ShortDescription>You are in a large shop selling various artifacts made of adamantine.</ShortDescription>
+  <LongDescription>Adamantine is one of the most expensive metals known, second possibly to
+mithril.  It is also one of the strongest known metals.  Armor made with
+adamantine is likely to last much longer than regular metalic armors,
+even though their degree of protection is equivalent.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2306</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

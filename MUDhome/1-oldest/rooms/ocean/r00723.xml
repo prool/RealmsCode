@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="723" Version="2.40" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are walking along Oceancrest Avenue, behind a large shopping complex.</ShortDescription>
+  <LongDescription>The large shopping complex on the north side of the road cannot be
+entered from this side of the building.  The entrance must be on the other
+side, off of Hillborough Way.  On the south side of the road, you can
+see the large Bushman Farms estate, where all kinds of fruits and
+vegetables are grown.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">722</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">630</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

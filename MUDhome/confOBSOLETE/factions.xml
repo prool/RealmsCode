@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+
+<Factions>
+	<Faction>
+		<Name>hpguard</Name>
+		<Social>shake</Social>
+		<DisplayName>The Highport Guard</DisplayName>
+	</Faction>
+
+
+
+	<Faction>
+		<Name>ironguard</Name>
+		<Social>hbeer</Social>
+		<DisplayName>The Dwarves of Ironguard</DisplayName>
+		<InitialRegard>
+			<Race Name="Dwarf">9000</Race>
+			<Race Name="Elf">-1000</Race>
+			<Race Name="Orc">-65000</Race>
+			<Race Name="Ogre">-65000</Race>
+			<Race Name="Goblin">-65000</Race>
+			<Race Name="Troll">-65000</Race>
+			<Race Name="Kobold">-65000</Race>
+			<Race Name="Minotaur">-2000</Race>
+			<Race Name="Cambion">-2000</Race>
+			<Race Name="Tiefling">-2000</Race>
+			<Race Name="Half-Orc">-2000</Race>
+		</InitialRegard>
+	</Faction>
+
+
+	<Faction>
+		<Name>forc</Name>
+		<Social>worship</Social>
+		<BaseRegard>-12000</BaseRegard> 
+		<DisplayName>The Firedrake Tribes</DisplayName>
+	</Faction>
+
+
+
+	<Faction>
+		<Name>druidwood</Name>
+		<Social>bow</Social>
+		<DisplayName>The Druidic Order of Druidwood</DisplayName>
+		<BaseRegard>-1000</BaseRegard> 
+		<InitialRegard>
+			<Class Name="Druid">9000</Class>
+			<Class Name="Ranger">9000</Class>
+			<Class Name="Lich">-65000</Class>
+			<Class Name="Vampire">-65000</Class>
+			<Race Name="Elf">9000</Race>
+		</InitialRegard>
+	</Faction>
+
+
+
+
+	<Faction>
+		<Name>churchcaladon</Name>
+		<Social>grovel</Social>
+		<DisplayName>The Church of Caladon</DisplayName>
+		<BaseRegard>0</BaseRegard>
+		<InitialRegard>
+			<Race Name="Cambion">6000</Race>
+			<Race Name="Seraph">-65000</Race>
+			<Deity Name="Aramon">6000</Deity>
+			<Deity Name="Enoch">-65000</Deity>
+			<Deity Name="Ceris">-8000</Deity>
+			<Deity Name="Gradius">-8000</Deity>
+			<Deity Name="Kamira">-8000</Deity>
+			<Deity Name="Linothan">-8000</Deity>
+		</InitialRegard>
+	</Faction>
+
+
+
+
+	<Faction>
+		<Name>gbcitizen</Name>
+		<Social>wave</Social>
+		<DisplayName>The Citizens of Gnomebarrow</DisplayName>
+		<BaseRegard>0</BaseRegard>
+		<InitialRegard>
+			<Race Name="Gnome">6000</Race>
+			<Race Name="Halfling">6000</Race>
+			<Deity Name="Kamira">6000</Deity>
+		</InitialRegard>
+	</Faction>
+
+
+
+	<Faction>
+		<Name>oakspire</Name>
+		<Social>nod</Social>
+		<DisplayName>The Dark Elves of Oakspire</DisplayName>
+		<BaseRegard>-20000</BaseRegard>
+		<InitialRegard>
+			<Race Name="Dark-Elf">20000</Race>
+			<Race Name="Cambion">-7000</Race>
+			<Race Name="Tiefling">-7000</Race>
+			<Race Name="Elf">-65000</Race>
+		</InitialRegard>
+		<MaxRegard>
+			<Race Name="Dwarf">-1000</Race>
+			<Race Name="Half-Elf">-1000</Race>
+			<Race Name="Halfling">-1000</Race>
+			<Race Name="Human">-1000</Race>
+			<Race Name="Orc">1000</Race>
+			<Race Name="Half-Giant">1000</Race>
+			<Race Name="Gnome">-1000</Race>
+			<Race Name="Troll">1000</Race>
+			<Race Name="Half-Orc">1000</Race>
+			<Race Name="Goblin">1000</Race>
+			<Race Name="Minotaur">1000</Race>
+			<Race Name="Seraph">-1000</Race>
+			<Race Name="Kobold">1000</Race>
+			<Race Name="Barbarian">-1000</Race>
+			<Race Name="Kataran">-1000</Race>
+		</MaxRegard>
+	</Faction>
+
+
+
+
+	<Faction>
+		<Name>crebel</Name>
+		<DisplayName>The Ceris Rebels</DisplayName>
+		<BaseRegard>0</BaseRegard>
+		<InitialRegard>
+			<Deity Name="Ceris">8000</Deity>
+			<Deity Name="Enoch">-7000</Deity>
+			<Deity Name="Aramon">-8000</Deity>
+			<Deity Name="Arachnus">-8000</Deity>
+		</InitialRegard>
+	</Faction>
+
+
+	<Faction>
+		<Name>sigil</Name>
+		<Social>shake</Social>
+		<DisplayName>The Citizens of Sigil</DisplayName>
+		<BaseRegard>0</BaseRegard>
+		<InitialRegard>
+			<Race Name="Seraph">3000</Race>
+			<Race Name="Cambion">-8000</Race>
+			<Race Name="Dark-Elf">-8000</Race>
+			<Race Name="Orc">-7000</Race>
+			<Race Name="Troll">-7000</Race>
+			<Race Name="Ogre">-7000</Race>
+			<Race Name="Minotaur">-7000</Race>
+			<Race Name="Tiefling">-7000</Race>
+			<Deity Name="Enoch">3000</Deity>
+			<Deity Name="Aramon">-8000</Deity>
+			<Deity Name="Arachnus">-8000</Deity>
+		</InitialRegard>
+	</Faction>
+	<Faction>
+		<Name>sigilinquisition</Name>
+		<Social>bless</Social>
+		<DisplayName>The Sigil Inquisition</DisplayName>
+		<BaseRegard>0</BaseRegard>
+		<InitialRegard>
+			<Race Name="Seraph">6000</Race>
+			<Race Name="Cambion">-65000</Race>
+			<Race Name="Dark-Elf">-65000</Race>
+			<Race Name="Orc">-8000</Race>
+			<Race Name="Troll">-8000</Race>
+			<Race Name="Ogre">-8000</Race>
+			<Race Name="Minotaur">-8000</Race>
+			<Race Name="Tiefling">-8000</Race>
+			<Race Name="Half-Giant">-1000</Race>
+			<Race Name="Half-Orc">-1000</Race>
+			<Deity Name="Enoch">6000</Deity>
+			<Deity Name="Ceris">-7000</Deity>
+			<Deity Name="Aramon">-65000</Deity>
+			<Deity Name="Arachnus">-65000</Deity>
+		</InitialRegard>
+	</Faction>
+
+
+
+
+	<Faction>
+		<Name>desertkat</Name>
+		<DisplayName>Kakkaran Katarans</DisplayName>
+		<BaseRegard>-5000</BaseRegard>
+		<InitialRegard>
+			<Race Name="Kataran">13000</Race>
+		</InitialRegard>
+	</Faction>
+
+
+	<Faction>
+		<Name>junglekat</Name>
+		<DisplayName>junglekat</DisplayName>
+	</Faction>
+
+</Factions>

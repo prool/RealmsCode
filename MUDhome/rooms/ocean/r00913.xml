@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Room Num="913" Version="2.40" Area="ocean">
+  <Name>One Eyed Jack's</Name>
+  <ShortDescription>You are in a private gambling hall.</ShortDescription>
+  <LongDescription>So this is where all the people disappear to in the evening.  You see
+slot machines, poker tables, blackjack tables and more.  There's more
+money on the tables than you've seen in your whole life.  There's also
+more alcohol and drunks here than you seen in your whole life too.  
+This place makes the local Brownhaven Pub look like a day care center.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">77</Mob>
+      <Mob Area="ocean" Num="1">77</Mob>
+      <Mob Area="ocean" Num="2">78</Mob>
+      <Mob Area="ocean" Num="3">78</Mob>
+      <Mob Area="ocean" Num="4">79</Mob>
+      <Mob Area="ocean" Num="5">77</Mob>
+      <Mob Area="ocean" Num="6">78</Mob>
+      <Mob Area="ocean" Num="7">62</Mob>
+      <Mob Area="ocean" Num="8">61</Mob>
+      <Mob Area="ocean" Num="9">79</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">79</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">915</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">912</Room>
+      <Key>9</Key>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

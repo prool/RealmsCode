@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5323" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>This part of the road runs through small hills and valleys.</ShortDescription>
+  <LongDescription>East of here is the infamous Timarask Valley, known as a dangerous place
+along the great Lyanden Road.  Overhead, occasional rain showers drift from
+the valley to the east.  Another valley which is off the road converges
+here with Timarask Valley.  A sign indicates it is the Valley of Timeron.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5340</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5324</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1365" Version="2.40" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are walking along Hofton Avenue, south of the Military Headquarters.</ShortDescription>
+  <LongDescription>The massive complex to the north is the Oceancrest Military Headquarters,
+where all the decisions about defense and wars are addressed.  Since there
+are so many barbarian tribes beyond the city walls of the city, it is
+essential to have a good military to defend and wake up the city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">743</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1366</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

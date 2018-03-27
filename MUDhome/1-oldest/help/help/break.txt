@@ -1,0 +1,20 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  break          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Break is a command that allows your character to attempt to break an item,
+thereby making it worthless and unusable. Note that various factors, such
+as your strength, how broken/worn the item already is, and if it is magical
+or not are factors that help determine whether you can break something.
+
+Note: breaking wands can prove hazarous to your health.
+
+Example:
+: i
+You have: a hoe.
+: break hoe
+You manage to break the hoe.
+: i
+You have: a broken hoe.
+:
+

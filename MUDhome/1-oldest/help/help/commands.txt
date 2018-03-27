@@ -1,0 +1,128 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  commands        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+ ^Wage                ^x Show your character's age and time played.
+ ^Walignment          ^x Choose your alignment.
+ ^Wassist             ^x Assist a player, targeting their target.
+ ^Wauction            ^x Auction an item for players to buy.
+ ^Wbalance            ^x See your bank balance.
+ ^Wbandage            ^x Use bandages to heal yourself.
+ ^Wbirthday           ^x Show which players online have birthdays.
+ ^Wbreak              ^x Break an object.
+ ^Wbribe              ^x Bribe a monster to leave the room.
+ ^Wbuy                ^x Purchase an item.
+ ^Wclaim              ^x Claim a lottery ticket.
+ ^Wclansend           ^x Communicate via the clan channel.
+ ^Wclasssend          ^x Communicate via the class channel.
+ ^Wclear              ^x Clear a preference.
+ ^Wclose              ^x Close a door.
+ ^Wcolors             ^x Show colors and set custom colors.
+ ^Wcombine            ^x Create new items.
+ ^Wcompare            ^x Compare two items.
+ ^Wconvert            ^x Convert from chaotic alignment to lawful alignment.
+ ^Wcook               ^x Create new items.
+ ^Wcraft              ^x Create new items.
+ ^Wdaily              ^x See our usage of daily-limited abilities.
+ ^Wdeposit            ^x Deposit gold in the bank.
+ ^Wdescription        ^x Change your character's description.
+ ^Wdice               ^x Roll dice.
+ ^Wdisarm             ^x Disarm an opponent or remove your wielded weapons.
+ ^Wdrink              ^x Drink a potion.
+ ^Wdrop               ^x Remove an item from your inventory and drop it on the ground.
+ ^Wduel               ^x Challenge another player to a duel.
+ ^Weat                ^x Eat some food.
+ ^Weffects            ^x Show what effects you are currently under.
+ ^Wequipment          ^x View the equipment you are currently wearing.
+ ^Wfactions           ^x Show your standing with various factions.
+ ^Wfinger             ^x Look up an offline character.
+ ^Wfish               ^x Go fishing.
+ ^Wfollow             ^x Follow another player.
+ ^Wforum              ^x Information on your forum account.
+ ^Wgamestat           ^x Game time statistics.
+ ^Wget                ^x Pick up an item and put it in your inventory.
+ ^Wgossip             ^x Communicate via the gossip channel.
+ ^Wgroup              ^x Show group members.
+ ^Wgsend              ^x Communicate via the guild channel.
+ ^Wgtalk              ^x Send a message to your group.
+ ^Wguild              ^x Perform guild-related commands.
+ ^Whide               ^x Hide from view.
+ ^Wignore             ^x Ignore a player.
+ ^Winformation        ^x Show extended information about your character.
+ ^Winventory          ^x View your inventory.
+ ^Wkeep               ^x Prevent accidentially throwing away an item.
+ ^Wknock              ^x Knock on a door to make a noise on the other side.
+ ^Wlanguages          ^x Show what languages you know.
+ ^Wlevelhistory       ^x Show character level history.
+ ^Wlist               ^x Show items for sale.
+ ^Wlose               ^x Stop following another player.
+ ^Wlottery            ^x View lottery info.
+ ^Wmccp               ^x Toggle mccp (compression).
+ ^Wnewbie             ^x Communicate via the newbie channel.
+ ^Wopen               ^x Open a door.
+ ^Wpassword           ^x Change your password.
+ ^Wpay                ^x Pay a monster a toll.
+ ^Wpledge             ^x Pledge your allegience to a clan.
+ ^Wpreferences        ^x Show preferences.
+ ^Wprepare            ^x Prepare for traps or prepare an item for crafting.
+ ^Wproperty           ^x Manage your properties.
+ ^Wproxy              ^x Allow proxy access to this character.
+ ^Wquests             ^x View your quests and perform quest-related commands.
+ ^Wquit               ^x Log off.
+ ^Wracesend           ^x Communicate via the race channel.
+ ^Wreadmail           ^x Read your mudmail.
+ ^Wrecipes            ^x Show what recipes you know.
+ ^Wrecite             ^x Recite a phrase to open certain locked doors.
+ ^Wreclaim            ^x Reclaim an item you just pawned.
+ ^Wreconnect          ^x Log in as another character.
+ ^Wrefund             ^x Refund an item you just purchased.
+ ^Wrepair             ^x Have a smithy repair an item.
+ ^Wreply              ^x Reply to a direct message.
+ ^Wrescind            ^x Rescind your allegience from a clan.
+ ^Wscore              ^x Show brief information about your character.
+ ^Wsearch             ^x Search for anything hidden.
+ ^Wsell               ^x Sell an item.
+ ^Wsendmail           ^x Send a mudmail to another player.
+ ^Wset                ^x Set a preference.
+ ^Wshipquery          ^x See where chartered ships are.
+ ^Wshop               ^x Perform player-shop-related commands.
+ ^Wsit                ^x Sit down to heal faster.
+ ^Wskills             ^x Show what skills your character knows
+ ^Wsleep              ^x Go to sleep to heal faster.
+ ^Wsmith              ^x Create new items.
+ ^Wsneak              ^x Sneak to an exit so you are not seen.
+ ^Wspeak              ^x Speak a different language.
+ ^Wspells             ^x Show what spells you know.
+ ^Wstand              ^x Stand up from a sitting position.
+ ^Wstatement          ^x View your bank statement.
+ ^Wstatistics         ^x Show character-related statistics.
+ ^Wstudy              ^x Study a scroll to learn a spell.
+ ^Wsuicide            ^x Delete your character.
+ ^Wsurname            ^x Choose a surname.
+ ^Wtailor             ^x Create new items.
+ ^Wtalk               ^x Talk to a monster.
+ ^Wtarget             ^x Target a creature or player.
+ ^Wtell               ^x Send a message to another player.
+ ^Wtelnet             ^x Shows what telnet options have been negotiated.
+ ^Wtelopts            ^x Shows what telnet options have been negotiated.
+ ^Wthrow              ^x Throw an object.
+ ^Wtime               ^x Show the current time
+ ^Wtitle              ^x Choose a custom title.
+ ^Wtnl                ^x Show the room how much experience you have to level.
+ ^Wtoggle             ^x Toggle a preference.
+ ^Wtrade              ^x Trade an item with a monster.
+ ^Wtrain              ^x Go up a level.
+ ^Wtransfer           ^x Transfer gold to another character.
+ ^Wunkeep             ^x Unkeep an item.
+ ^Wunprepare          ^x Unprepare an item.
+ ^Wvalue              ^x Check the value of an item.
+ ^Wvisible            ^x Cancel invisibility.
+ ^Wwake               ^x Wake up from being asleep.
+ ^Wweapons            ^x Use weapon trains.
+ ^Wwhisper            ^x Whisper a message to another player.
+ ^Wwho                ^x See who is online.
+ ^Wwhois              ^x View information about a specific character.
+ ^Wwiki               ^x Look up a wiki entry.
+ ^Wwithdraw           ^x Withdraw gold from the bank.
+ ^Wyell               ^x Yell something that everyone in the room and nearby rooms can hear.
+

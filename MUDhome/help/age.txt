@@ -1,0 +1,18 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |          Help on:  age         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This command shows your character's age.
+
+Example:
+: age
+Bob the Thug (level 1)
+
+Age:  18
+Born: the 31st of Isondel, the 4th month of the year,
+      217 years after the fall of the Kingdom of Bordia.
+Today is your birthday!
+
+Character Created: Mon May 21 19:12:40 2007
+Time Played: 0 Minutes
+

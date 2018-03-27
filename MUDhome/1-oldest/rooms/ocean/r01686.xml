@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1686" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are walking along Golden Dolphin Way, just east of Hafnia Way.</ShortDescription>
+  <LongDescription>Golden Dolphin Way runs parallel to the Southern City Walls through
+most of the southern part of the city.  On the north side of the road,
+you can see the visitor's stables, where short-time visitors may leave
+their steeds, and walk around town without having to worry about where
+their horses are or what havoc they're getting into.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1087</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1687</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

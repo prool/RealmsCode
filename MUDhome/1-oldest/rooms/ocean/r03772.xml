@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3772" Version="2.40" Area="ocean">
+  <Name>Wildlife Preserve Path</Name>
+  <ShortDescription>You are on a path along the southern side of the Lithium Inlet.</ShortDescription>
+  <LongDescription>The path drops steeply to the northeast, and rises gradually to the west,
+forming a tranquil and quite place to overlook a wildlife preserve on the
+north side of the Lelion Beach and Park.  Great birds of some type you have
+never seen anywhere else float in the sky above, occasionly diving into
+the water to the north.  Across the Lithium Inlet you can see several shops
+and a pub which you know is the Might and Muscle Tavern.</LongDescription>
+  
+  <Established>766012203</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3771</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3773</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="649" Version="2.40a" Area="ocean">
+  <Name>Amberton Lane</Name>
+  <ShortDescription>You are walking along Amberton Lane, just west of the Temple of Kurtulmak.</ShortDescription>
+  <LongDescription>Kurtulmak is the chief diety of the kobold clans that inhabit the sewers
+beneath Oceancrest.  He hates just about everyone else except kobolds in
+the world and seeks the day that his kobold followers can take over the
+surface world from the hideous humaniod creatures.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">648</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">546</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

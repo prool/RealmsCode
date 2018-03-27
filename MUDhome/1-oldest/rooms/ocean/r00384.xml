@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="384" Version="2.40" Area="ocean">
+  <Name>Orchard Lane</Name>
+  <ShortDescription>You are on a small bridge on Orchard Lane crossing a trickling stream.  </ShortDescription>
+  <LongDescription>The small stream appears to be the only thing that can get in and out of
+the forests on both sides of the road.  Unfortunately, the river is very
+shallow and appears to be the nesting ground of a few unfriendly looking
+alligators and other beasts.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">383</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">385</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

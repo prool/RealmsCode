@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="3634" Version="2.40" Area="ocean">
+  <Name>Eastern Arch</Name>
+  <ShortDescription>You are standing at the entrance to the grand hallway in Castle Ragnar.</ShortDescription>
+  <LongDescription>Through the eastern arch are the grand formal rooms of the castle.  The
+great Hall of Heros is directly east, and further that way is the throne
+room of Prince Ragnar himself.  Many more glorious halls and rooms branch
+from the Hall of Heros.  To the west is the center of the castle's court-
+yard where the great statue of King Lyanden stands.  Looking south you
+see a number of knights preparing a practice joust, while to the north is
+an assortment of vendors and tourists.</LongDescription>
+  
+  <Established>762646100</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>arch</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3635</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3633</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3626</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="statue">
+      <Keys/>
+      <Room Area="ocean">3627</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="arch">
+      <Keys/>
+      <Room Area="ocean">4505</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

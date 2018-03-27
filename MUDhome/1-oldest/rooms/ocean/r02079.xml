@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="2079" Version="2.41a" Area="ocean">
+  <Name>Second Floor Hallway</Name>
+  <ShortDescription>You are on the second floor of the Towers.  There is a plush carpet along
+the center of the hallway which runs west from here.</ShortDescription>
+  <LongDescription>The hallway is fantastically designed with many gold ornaments and arches
+throughout.  The long red carpet on the floor spans the entire hallway.  
+On the north side, you can see a railing which surrounds a large opening in 
+in the floor.  Apparently, you can watch the activities on the floor below.
+That must be the throne room down there.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2080</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="orange door">
+      <Keys/>
+      <Room Area="ocean">2082</Room>
+      <Key>15</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="grey door">
+      <Keys/>
+      <Room Area="ocean">2086</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="secret door">
+      <Keys/>
+      <Room Area="ocean">2075</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

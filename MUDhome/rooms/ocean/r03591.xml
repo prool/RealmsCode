@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<Room Num="3591" Version="2.40" Area="ocean">
+  <Name>Acolytes Antechamber</Name>
+  <ShortDescription>This is a waiting room for acolytes wishing to advance further.</ShortDescription>
+  <LongDescription>For acolytes of first rank, use the door on the right, for those of 
+second rank, wishing to advance to third, use the middle door.  And,
+for those of you wishing to advance to the rank of protector, use the
+left door.</LongDescription>
+  <LowLevel>1</LowLevel>
+  <HighLevel>3</HighLevel>
+  
+  <Established>771842267</Established>
+  <Flags>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>left door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1811</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="right door">
+      <Keys/>
+      <Room Area="ocean">3595</Room>
+      <Key>84</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="middle door">
+      <Keys/>
+      <Room Area="ocean">3595</Room>
+      <Key>85</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="left door">
+      <Keys/>
+      <Room Area="ocean">3595</Room>
+      <Key>86</Key>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

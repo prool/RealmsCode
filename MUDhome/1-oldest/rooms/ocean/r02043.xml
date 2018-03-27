@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="2043" Version="2.40" Area="ocean">
+  <Name>Archery Range</Name>
+  <ShortDescription>You are in the archery field where the elves learn to develop their
+skills in bows and archery.  There are targets to the west and south.</ShortDescription>
+  <LongDescription>A large mesh prevents anyone from entering the range itself, as absolutely
+no one is allowed in, for obvious reasons.  Unfortunately, the mesh is wide
+enough that an arrow can easily go through it.  There are circular targets
+about 50 meters to the west, and another set perhaps 25 meters south.
+Elena's tackle shop is through the door.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">215</Mob>
+      <Mob Area="ocean" Num="1">215</Mob>
+      <Mob Area="ocean" Num="2">216</Mob>
+      <Mob Area="ocean" Num="3">214</Mob>
+      <Mob Area="ocean" Num="4">213</Mob>
+      <Mob Area="ocean" Num="5">215</Mob>
+      <Mob Area="ocean" Num="6">216</Mob>
+      <Mob Area="ocean" Num="7">217</Mob>
+      <Mob Area="ocean" Num="8">216</Mob>
+      <Mob Area="ocean" Num="9">215</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2040</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2044</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

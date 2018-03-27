@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  broademote        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+This command allows you to broadcast an emote to the entire mud. It no
+longer has a number of uses per day, but instead checks to make sure you
+are not using the channel to quickly.
+
+Example:
+: broade thinks you all are crazy.
+You emote: thinks you all are crazy.
+*** Bob thinks you all are crazy.
+:
+

@@ -1,0 +1,52 @@
+Help on:
+	*talk [ i|k|r|l|s|d ]
+
+This function allows the DM to make an interactive talk for a monster.
+
+example:
+:*talk i
+Talk ready for input.
+	{activates the interactive talk}
+
+:*talk k weapon
+	{sets "weapon" as an interactive talk keyword}
+
+:*talk k weapon ACTION nod
+	{Monster will perform the "nod" social when asked about "weapon"}
+
+:*talk k weapon ACTION wave PLAYER
+	{the monster will wave to the player when asked about "weapon"}
+
+:*talk k weapon ATTACK
+        {Will make the mob attack the player that asked about "weapon"}
+
+:*talk k weapon CAST waterbolt
+        {Will make the mob cast a waterbolt on the player that asked}
+        {about "weapon". Mob must have MP to cast and must be of the}
+        {proper class to cast a class-specific spell.               }
+
+:*talk k weapon GIVE (item #)
+        {Will give that item to a player that askes about "weapon"}
+
+:*talk r -Yes, I sell weapons.
+Response added
+	{sets the response when the monster is asked about "weapon"}
+
+:*talk r + But my prices are really high...
+	{Adds to the response, continuing the talk. Next keyword to} 
+        {set could be "prices".                                    }
+
+:*talk l
+	{Lists what is set in talk file so far}
+
+:*talk s (monster name)
+
+	{Saves the interactive talk file of the monster}
+
+:*talk d (monster name)
+	{Deletes the interactive talk file of the monster}
+
+Don't forget to *save the monster after. Note that where all CAPS 
+are shown they must be used.
+
+Ask a DM if you have any further questions.

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="955" Version="2.40" Area="ocean">
+  <Name>The Widow Maker Main Deck</Name>
+  <ShortDescription>You are on the Main Deck of the pirate ship Widow Maker, docked at port.</ShortDescription>
+  <LongDescription>To the south is the stairway leading down into the crew's quarters, the
+mess hall, captain's room and the infamous brig.  The large ship has
+a complement of over three dozen people.  The area beneath the main deck
+must be quite large to accomodate that many people.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">308</Mob>
+      <Mob Area="ocean" Num="1">308</Mob>
+      <Mob Area="ocean" Num="2">308</Mob>
+      <Mob Area="ocean" Num="3">308</Mob>
+      <Mob Area="ocean" Num="4">308</Mob>
+      <Mob Area="ocean" Num="5">309</Mob>
+      <Mob Area="ocean" Num="6">309</Mob>
+      <Mob Area="ocean" Num="7">310</Mob>
+      <Mob Area="ocean" Num="8">308</Mob>
+      <Mob Area="ocean" Num="9">311</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">956</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">954</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">952</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">969</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

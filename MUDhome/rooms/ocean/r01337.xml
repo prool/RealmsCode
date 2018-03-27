@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1337" Version="2.40" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are on the south side of the Nowhere Fast Traveller's Guild, walking
+along Lelion Way, which runs east and west through the town.</ShortDescription>
+  <LongDescription>On the south side of the road, you can see a dense forest covered with
+shrubs and trees.  On the north is the Nowhere Fast Traveller's Guild.
+Anyone visiting Oceancrest or leaving Oceancrest should check with the
+Traveller's Guild about potential problems they might encounter in new
+or unfamiliar terrain.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1336</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">753</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2316</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

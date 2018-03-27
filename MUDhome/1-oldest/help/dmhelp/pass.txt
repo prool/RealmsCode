@@ -1,0 +1,15 @@
+Help on DM command:
+	PASS
+
+Changes the password of the player to the specified password.
+
+*pass <player> <new password>
+
+: *pass min idont12car
+Min's password has been changed to idont12car.
+: *pass min idont12care
+Min's password has been changed to idont12care.
+: *pass min idont12care
+Passwords must be different.
+
+

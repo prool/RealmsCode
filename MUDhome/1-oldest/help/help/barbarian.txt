@@ -1,0 +1,24 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  Barbarian        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Adjustments: +1 Strength, +1 Dexterity, -2 Intelligence
+Compatible Classes: Assassin, Bard, Berserker, Cleric, Druid, Fighter,
+        Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf
+
+Barbarians are wild savage humans who roam the Baladus Plains and other
+frontier areas of Derlith. They are tribal in nature, and are led by a
+barbarian chief or king usually. Humans in civilized areas often do not
+understand barbarians, and vice versa, so there are usually cool relations
+between them. Barbarians do not understand magic not related to battle
+enhancement or healing, so as a result they usually don't trust mages. All
+barbarian warriors are berserkers, and all barbarian clerics worship the
+god Ares, god of war, bloodlust, and battle. Blood, battle, tribal honor,
+and steel are all a barbarian understands or cares about. Barbarians are
+exceptionally large humans, occasionally over 7 feet in height. They are
+extremely robust in stature. Their savage nature causes them to be less
+intelligent due to ignorance, however.
+
+See in dark (infravision): No
+Size class: Large
+

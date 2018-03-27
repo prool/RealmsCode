@@ -1,0 +1,14 @@
+^WSpells:^x
+    anchor
+    bind
+    blink
+    ethereal-travel
+    portal
+    summon
+    teleport
+    transport
+    word-of-recall
+
+See also:
+    HELP SCHOOLS
+

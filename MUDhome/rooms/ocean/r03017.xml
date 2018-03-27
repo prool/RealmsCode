@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3017" Version="2.40" Area="ocean">
+  <Name>Goblin Lair Pit</Name>
+  <ShortDescription>This is a large room, with a pit in the middle and a slope to the north.</ShortDescription>
+  <LongDescription>The slope is a combination of small pebbles and larger flat rocks.  The
+combination makes a quite impassible barrier, as every time you try to
+climb it, you slide back down.  In the center of the room is a pit, from
+which light glows softly.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>pit</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>900</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">324</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>900</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">325</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="pit">
+      <Keys/>
+      <Room Area="ocean">3199</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3016</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3019</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

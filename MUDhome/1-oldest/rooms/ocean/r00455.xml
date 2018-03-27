@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="455" Version="2.40" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are on Hofton Avenue, walking past the Red-Eye Pub and Grill.</ShortDescription>
+  <LongDescription>A silvery metal gate separates you from the patio of the Pub and Grill, and
+the road.  Looking to the south, you can see various people sitting around
+talking about their adventures and life in general.  There is a stage a
+little further to the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">454</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">456</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

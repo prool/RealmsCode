@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="4263" Version="2.40" Area="ocean">
+  <Name>Healing Room</Name>
+  <ShortDescription>You are in a very small room with a few cots and some smelly herbs.</ShortDescription>
+  <LongDescription>A healing mage seems to be attending to those in need, and moves about the
+room taking care of the sick.  If you are in need of anything, you should
+talk to the mage in the white gown.</LongDescription>
+  
+  <Established>792370430</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+    <Bit Num="32"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">731</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4216</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="646" Version="2.40a" Area="ocean">
+  <Name>Amberton Lane/Neilian Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Amberton Lane and Neilian Drive.</ShortDescription>
+  <LongDescription>Amberton Lane heads to the south from the intersection of Neilian Drive,
+which runs east and west.  To the north, you can see the short cliffs
+overlooking the river Othax.  On the southeast corner of the road, you 
+can see a number of more unique religious shrines for other humanoid
+dieties.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">701</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">702</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">647</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

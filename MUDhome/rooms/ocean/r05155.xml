@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5155" Version="2.40" Area="ocean">
+  <Name>Western Hallway of Castle Kayleigh</Name>
+  <ShortDescription>The hallway is quiet, as with long ago death.</ShortDescription>
+  <LongDescription>Nothing has been in this section of the castle since that intense battle
+long ago.  Now it is simply a forlorn place for old ghosts.  To the east
+is the center courtyard, while to the west is the interior of the castle's
+outer wall.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5153</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5156</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

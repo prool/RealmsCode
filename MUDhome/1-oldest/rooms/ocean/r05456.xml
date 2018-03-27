@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5456" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>The road is steep and narrow at this point.  A guard rail is on the outside.</ShortDescription>
+  <LongDescription>A mountain pasture is on the south side of the road, and the rugged snow
+slopes rise to the east.  The mountain road curves around the pasture to the
+southwest.  Far out over the valley, near a great cloud bank, you see a
+copper dragon with a rider on its back.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5455</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5457</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

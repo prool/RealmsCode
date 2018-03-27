@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Object Num="329" Area="ocean" Version="2.40">
+  <Name>half-giant chain mail gloves</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>25</ShotsMax>
+  <ShotsCur>25</ShotsCur>
+  <Armor>22</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">giant</Key>
+    <Key Num="1">chain</Key>
+    <Key Num="2">gloves</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="10"/>
+    <Bit Num="19"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>You see a pair of chain mail gloves, made for very large hands.</Description>
+  <Weight>10</Weight>
+  <Type>6</Type>
+  <SubType>chain</SubType>
+  <WearFlag>6</WearFlag>
+  <InBag/>
+</Object>

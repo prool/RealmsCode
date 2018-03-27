@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="725" Version="2.40a" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are walking along Oceancrest Avenue, south of Roger's Taxidermy.</ShortDescription>
+  <LongDescription>After a good hunting trip, many hunters prefer to have their catch 
+stuffed as a trophy to display proudly and tell friends how they single
+handedly cut down this towering grizzly bear.  On the south side of the
+road, you can hear the faint cheers from the spectators at the Ivanhouse
+Sporting Facility.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">724</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">512</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  transmutation      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Transmutation spells change the shape or properties of the target of the
+spell. This could be as extreme as changing the target's form or merely
+changing a property of the target.
+
+^WSpells:^x
+    blind
+    breathe-water
+    damnation
+    deafness
+    disintegrate
+    enfeeblement
+    enlarge
+    entangle
+    feeblemind
+    fly
+    fortitude
+    haste
+    infravision
+    insight
+    knock
+    levitate
+    pass-without-trace
+    prayer
+    reduce
+    slow
+    stone-to-flesh
+    strength
+    weakness
+    well-of-magic
+
+See also:
+    HELP SCHOOLS
+

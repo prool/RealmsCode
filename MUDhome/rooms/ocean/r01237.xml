@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1237" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are walking along Lankshire Parkway, just west of the Necropolis.</ShortDescription>
+  <LongDescription>The large Oceancrest Necropolis lies on the east side of Lankshire Parkway,
+surrounded by tall, metal bars preventing looters, grave robbers and other
+lunatics from entering the facility.  The Main Entrance to the Necropolis
+is located off of Netherworld Lane to the north.  On the west, you can
+see the Khelleva Mansion, a powerful monument to the most powerful family
+in Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1238</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1236</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

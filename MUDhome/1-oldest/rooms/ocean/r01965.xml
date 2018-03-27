@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="1965" Version="2.40" Area="ocean">
+  <Name>Millwood Memorial Mayor's Office Foyer</Name>
+  <ShortDescription>You are in the main foyer of the Millwood Memorial Mayor's Office.</ShortDescription>
+  <LongDescription>The Mayor's Office is the seat of power for the city, or so the people
+who work there believe.  Mayor Millwood was in fact a very powerful mage
+and therefore, when his time came, he did not feel like just giving up
+and dying.  Although it cannot be proved that Millwood's experiment in
+the afterlife worked, many people do belive that the Mayor still haunts
+the office.  The first successor to Millwood was mysteriously killed 
+(thought to have committed suicide) by a letter opener through his temple.
+No one has since volunteered to be the next mayor.  Somehow or another,
+though, things still get accomplished. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1061</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1966</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

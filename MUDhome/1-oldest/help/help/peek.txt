@@ -1,0 +1,22 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  peek           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Peek allows thieves or assassins to try and "peek" at another player's or
+monster's inventory. If they are successful, they get to see what that creature
+is holding. The higher level the positive level difference between the peeker
+and the person peeked, the less likely the peeker will be noticed. There is also
+always a chance that the peeker will see how much gold a monster is carrying,
+but not a player. Also, thieves (and thieves only) can also peek into other
+players' containers, but this is somewhat harder then normal peeking, and it
+obviously has more chance of being discovered.
+
+Example:
+: peek bob
+He's oblivious to your rummaging.
+He is carrying: a hoe, a small sack.
+: peek bob sack
+You manage to peek inside Bob's small sack.
+He noticed!
+It contains: a hazy potion.
+:

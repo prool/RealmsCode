@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2331" Version="2.40" Area="ocean">
+  <Name>Glacier Cavern</Name>
+  <ShortDescription>The bright sunlight shines through the thick ice of the cold glacier.</ShortDescription>
+  <LongDescription>Although it must be at least five meters of ice through to the outside
+world, the ice is so clear, it looks like you could just walk through it.
+The cavern runs east and west through the mountain above and the glacier
+within.  Who knows what lurks in these cold realms of forever.</LongDescription>
+  
+  <Established>762454763</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2330</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2332</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

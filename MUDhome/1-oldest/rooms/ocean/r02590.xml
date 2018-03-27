@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="2590" Version="2.40" Area="ocean">
+  <Name>Base of the Tower of Kuroth</Name>
+  <ShortDescription>You are at the base of a very old tower in the center of the Hanging Gardens.</ShortDescription>
+  <LongDescription>Kuroth Tower is not very tall, and at one time was designed to be the third
+level of the Garden.  The tower is covered with flowering vines, hiding 
+even the ancient door, which must be around here somewhere.  Unfortunately,
+a demon has taken possession of the structure, and now resides inside.
+There is a tale that the demon stole one of the three crystal masks
+belonging to Elise, and dares her to come here for it.</LongDescription>
+  
+  <Established>788991680</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">171</Mob>
+      <Mob Area="ocean" Num="1">41</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2588</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2593</Room>
+      <Key>90</Key>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

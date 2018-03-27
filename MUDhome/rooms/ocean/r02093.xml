@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2093" Version="2.40" Area="ocean">
+  <Name>West Tower Stairway</Name>
+  <ShortDescription>You are in the stairway leading up the western tower of the Kista Towers.</ShortDescription>
+  <LongDescription>The tower staircase appears to spiral up infinitely into the sky.  The
+further you progress up the stairway, the further away the top appears
+to get.  There is an odd, musty smell in the stairwell that puzzles 
+you.  It doesn't look like this stairway is used often, although you
+know the towers are inhabited.  There must be some sort of great magic
+at the top of these stairs.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">2096</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">2092</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

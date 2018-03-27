@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="3063" Version="2.40" Area="ocean">
+  <Name>Goblin Priest's Sleeping Quarters</Name>
+  <ShortDescription>You are in the living quarters of the goblin priests.</ShortDescription>
+  <LongDescription>The room is divided into two parts by a heavy cloth curtains which run the
+length of the room.  On one side of the room are cots arranged in rows along
+side each other, and on the wall behind each cot is a heavy ceremonial
+robe hanging on a hook.  At the foot of each bed is a small wooden chest,
+presumably where a goblin priest stores his meager possessions.  On the
+other side of the room are tables and chairs and the remains of a recent
+meal.  On the wall is a grusome painting of a goblin diety devouring his
+foes, surrounded by his priestly servants.</LongDescription>
+  
+  <Established>761477139</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">503</Mob>
+      <Mob Area="ocean" Num="1">503</Mob>
+      <Mob Area="ocean" Num="2">503</Mob>
+      <Mob Area="ocean" Num="3">503</Mob>
+      <Mob Area="ocean" Num="4">503</Mob>
+      <Mob Area="ocean" Num="5">503</Mob>
+      <Mob Area="ocean" Num="6">503</Mob>
+      <Mob Area="ocean" Num="7">504</Mob>
+      <Mob Area="ocean" Num="8">504</Mob>
+      <Mob Area="ocean" Num="9">502</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">503</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">503</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3053</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="4071" Version="2.41a" Area="ocean">
+  <Name>Steep Path</Name>
+  <ShortDescription>This is a steep path high over the North Highway out of Oceancrest.</ShortDescription>
+  <LongDescription>The wind is cold here, and the path is covered with patches of ice.  This 
+trail gets colder and even more rugged in the westward direction where you  
+see the base of an ice and snow covered mountain.  The path drops pretty
+quickly to the southeast.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4070</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4020</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

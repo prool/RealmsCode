@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3791" Version="2.40" Area="ocean">
+  <Name>Sandy Road</Name>
+  <ShortDescription>You are on a sandy road connecting the beach area to Lelion Way.</ShortDescription>
+  <LongDescription>The road runs between high sand dunes on either side, making it difficult
+to see very far at times.  When the winter storms lash this area, as they
+do every year, they shift the sand and often uncover things that washed
+ashore hundreds of years ago.  In the pubs there has been talk of finding
+chests of jewels, and sometimes mysterious things with no apparent purpose.</LongDescription>
+  
+  <Established>765907158</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3790</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3792</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

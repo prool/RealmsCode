@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |   Help on:  protection spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 10
+
+This spell improves its target's defense skill by surrounding it with a magic
+field. This magic will attempt to intercept any blows aimed at the target. Note,
+however, that this shield will not prevent any magic damage from getting
+through.
+
+Syntax:
+cast protection <target>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="771" Version="2.40" Area="ocean">
+  <Name>Tranquility Way</Name>
+  <ShortDescription>You are walking along Tranquility Way, running west and southeast.</ShortDescription>
+  <LongDescription>Tranquility Way makes a turn towards the southeast, heading towards the
+eastern border of the city.  On the south, you can see the Tranquility
+Patrol Station, a police-like force that attempts to keep the peace in
+the streets of Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">743</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">772</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

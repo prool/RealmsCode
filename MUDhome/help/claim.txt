@@ -1,0 +1,10 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  claim        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This command allows you to claim a Powerbone ticket at any registered Powerbone
+lottery center (HELP LOTTERY). The main one is The Highport Lottery Office/Claims.
+
+Syntax:
+claim <ticket>
+

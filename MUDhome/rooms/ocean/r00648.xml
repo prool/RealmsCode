@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="648" Version="2.40a" Area="ocean">
+  <Name>Amberton Lane</Name>
+  <ShortDescription>You are walking down a rather unsafe section of Amberton Lane.</ShortDescription>
+  <LongDescription>On the east side of the road are a number of small temples and shrines
+dedicated towards some of the goblinoid and other non-humanoid dieties.
+Directly to the east is the Temple of Hruggek, the dominant god of
+the bugbear pantheon.  Hruggek is a relatively passive diety, not 
+actively involved in the everyday work of the bugbear clans.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">647</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">649</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

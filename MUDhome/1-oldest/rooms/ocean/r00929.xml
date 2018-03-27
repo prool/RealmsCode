@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="929" Version="2.40" Area="ocean">
+  <Name>Back Alley</Name>
+  <ShortDescription>You are behind the shops which are on the north side of Hafnia Boulevard.</ShortDescription>
+  <LongDescription>The alley is not very clean, but it is wide.  Most of the shops have locked
+doors on the south side of the alley, but the city maintains a Public Works
+Department which is located on the north side of this wide alley.  The elves
+supervise the work of the department, but mostly they hire gnomes to do the
+dirty work.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">933</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">927</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

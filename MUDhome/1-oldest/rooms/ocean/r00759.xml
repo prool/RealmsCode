@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="759" Version="2.40" Area="ocean">
+  <Name>Oceancrest Circle</Name>
+  <ShortDescription>You are on the western rim of the magnificent Oceancrest Circle.</ShortDescription>
+  <LongDescription>Walking around the Circle, you see that it is not just a dirt path, like
+most of the other roads, but is finely decorated with ornate bricks and
+cement.  Although there are a few paved roads in town, it is not common
+to see such fancy artwork that people can step on.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">757</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">760</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">767</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

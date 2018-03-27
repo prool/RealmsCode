@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="273" Area="ocean" Version="2.40">
+  <Name>treasure chest</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">50000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">chest</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="6"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Description>You see a large treasure chest you can put stuff in.</Description>
+  <Weight>800</Weight>
+  <Type>10</Type>
+  <InBag/>
+</Object>

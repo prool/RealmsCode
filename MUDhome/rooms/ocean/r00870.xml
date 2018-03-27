@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="870" Version="2.41b" Area="ocean">
+  <Name>Worn Path</Name>
+  <ShortDescription>You are on a worn path between the street and a grove of trees.</ShortDescription>
+  <LongDescription>The path is rather crooked, so you cannot see very far in either direction,
+but the city street appears to be to the east.  A large grove of trees to
+the west looks like it may be a campground of some sort.  You can hear
+music in that direction, and the sound of merry voices.</LongDescription>
+  
+  
+  
+  <Established>755723401</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>18</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">201</Mob>
+      <Mob Area="ocean" Num="1">201</Mob>
+      <Mob Area="ocean" Num="2">201</Mob>
+      <Mob Area="ocean" Num="3">201</Mob>
+      <Mob Area="ocean" Num="4">201</Mob>
+      <Mob Area="ocean" Num="5">201</Mob>
+      <Mob Area="ocean" Num="6">388</Mob>
+      <Mob Area="ocean" Num="7">387</Mob>
+      <Mob Area="ocean" Num="8">387</Mob>
+      <Mob Area="ocean" Num="9">201</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1643</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">871</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

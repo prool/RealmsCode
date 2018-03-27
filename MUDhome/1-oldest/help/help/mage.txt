@@ -1,0 +1,25 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  Mage           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Prime Requisites: Intelligence, Piety
+Compatible Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+A mage is the user of magic, the powerful wielder of the arcane arts. At low
+levels a mage is not very powerful, but at higher levels, he may control
+powerful magic which may destroy all in his path. A single spell from a mage is
+often able to do massive damage to an enemy. A mage's learning of arcane arts is
+so intense, that he may detect the presence of magic around him at all times.
+When he becomes powerful enough, he gains the power to temporarily enchant
+items. A mage is also a superb teacher, able to instruct beginning pupils in
+some low level magical abilities. When he reaches a certain level of magical
+ability, a mage may recharge items such as wands and staves. He does this by
+transmuting gold into magical energy. The amount of power in the magical item
+determines the amount of gold needed. The center of power for the mage on
+Derlith is in the Highport Wizards' Guild. There, all arcane knowledge is
+stored throughout the land. A society of mages exists which most mages are able
+to join, yet this is not required.
+
+Abilities: Teach, Transmute, Enchant, Always detects magic

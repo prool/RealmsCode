@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<Room Num="1489" Version="2.40" Area="ocean">
+  <Name>Master Hallway</Name>
+  <ShortDescription>You are in the master hallway on the third floor of the Palace.</ShortDescription>
+  <LongDescription>The master hallway continues to the east and west.  To the south, there
+is a door labled "Sorceress".  Apperently, it must be where the 
+sorceress goes at the end of the day to relax.  There's a small 
+servant's hallway to the north that appears to go to a small, private
+kitchen on this floor.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">170</Mob>
+      <Mob Area="ocean" Num="1">170</Mob>
+      <Mob Area="ocean" Num="2">168</Mob>
+      <Mob Area="ocean" Num="3">168</Mob>
+      <Mob Area="ocean" Num="4">167</Mob>
+      <Mob Area="ocean" Num="5">167</Mob>
+      <Mob Area="ocean" Num="6">168</Mob>
+      <Mob Area="ocean" Num="7">167</Mob>
+      <Mob Area="ocean" Num="8">167</Mob>
+      <Mob Area="ocean" Num="9">168</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1488</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1490</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1492</Room>
+      <Key>23</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1494</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

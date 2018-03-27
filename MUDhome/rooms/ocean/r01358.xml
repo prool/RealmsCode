@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1358" Version="2.40" Area="ocean">
+  <Name>Keslar Mountain Trail</Name>
+  <ShortDescription>You are on a narrow mountain trail leading up the strange mountain.</ShortDescription>
+  <LongDescription>To the west, you can see the great Necropolis.  From this high up, you
+can see just how big the Necropolis is.  It must span about three city
+blocks square.  The path up the mountain continues towards the top of
+the mountain and towards the Palace.  To the north, you can see the
+gate that you originally used to get in.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1196</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1359</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

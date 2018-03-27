@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="93" Area="ocean" Version="2.40">
+  <Name>bag</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>7</ShotsMax>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="6"/>
+  </Flags>
+  <Description>Several objects can be put inside this bag.</Description>
+  <UseOutput>You firmly grasp a bag with one of your hands.</UseOutput>
+  <Weight>1</Weight>
+  <Type>10</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

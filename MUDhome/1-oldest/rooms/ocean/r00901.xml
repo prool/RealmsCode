@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="901" Version="2.40" Area="ocean">
+  <Name>Secret Underground Passage</Name>
+  <ShortDescription>You assume you are somewhere under the city.</ShortDescription>
+  <LongDescription>The smell is getting worse.  You see a light in the passage to the
+northwest.  As you try to turn your attention away from the stench
+of decaying bodies, you notice some ritualistic paintings and carvings
+on the wall.  It appears to be a sacrifice of a young virgin elf to
+some evil looking gods.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">903</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">900</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">902</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

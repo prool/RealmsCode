@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="1497" Version="2.40" Area="ocean">
+  <Name>Dragon Tooth Inn Waste Treatment Tank</Name>
+  <ShortDescription>Now you've done it.  You are really in the shit this time.  WheW!!!</ShortDescription>
+  <LongDescription>You didn't actually mean to come down here, did you?  You slipped, right?
+Oh, gawd, look what you are standing in up to your knees.  If you move, you 
+might slip and fall in up to your eyebrows, so be veerrryy careful!</LongDescription>
+  
+  <Established>790373750</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">762</Mob>
+      <Mob Area="ocean" Num="1">762</Mob>
+      <Mob Area="ocean" Num="2">762</Mob>
+      <Mob Area="ocean" Num="3">762</Mob>
+      <Mob Area="ocean" Num="4">762</Mob>
+      <Mob Area="ocean" Num="5">762</Mob>
+      <Mob Area="ocean" Num="6">762</Mob>
+      <Mob Area="ocean" Num="7">762</Mob>
+      <Mob Area="ocean" Num="8">762</Mob>
+      <Mob Area="ocean" Num="9">762</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>men's</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">762</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">765</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="women's">
+      <Keys/>
+      <Room Area="ocean">1496</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="men's">
+      <Keys/>
+      <Room Area="ocean">1495</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

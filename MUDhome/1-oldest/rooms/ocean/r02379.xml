@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="2379" Version="2.40a" Area="ocean">
+  <Name>Cavernous Intersection</Name>
+  <ShortDescription>You are at a small interesection in the vast caverns below the glacier.</ShortDescription>
+  <LongDescription>The further north you head, the deeper into the ground you appear to be
+heading.  Looking up, you can still see the massive glacier over your
+head and the sky above the ice, which gets darker and darker the further
+down you go.  The cavern splits in two directions here, one going east
+and the other going west.  The cavern heads back towards the Dennanl Abyss
+to the south.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>727409040</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2378</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2380</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2381</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

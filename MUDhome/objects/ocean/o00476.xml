@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="476" Area="ocean" Version="2.40">
+  <Name>box of Trojans</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">trojans</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>An unopened box of Trojan condoms.</Description>
+  <UseOutput>You can concentrate on other matters now.</UseOutput>
+  <Weight>4</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>6</MagicPower>
+  <InBag/>
+</Object>

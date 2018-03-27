@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="4215" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>You are walking on the ground floor, south side, of Castle Rutger.</ShortDescription>
+  <LongDescription>The special forces of the castle's garrison who maintain the heavy battle
+equipment have their barracks just to the north.  The great double doors
+on the north side of the hallway lead to those barracks.  On the other side
+is the castle armory.</LongDescription>
+  
+  <Established>791593366</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4214</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4216</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="double doors">
+      <Keys/>
+      <Room Area="ocean">4253</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="4228" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>The entrance to the castle armory is through the alcove on the south side.</ShortDescription>
+  <LongDescription>There are four sentries on duty here at all times, and every once in a
+while a sergeant comes by to check on them.  Please do not speak to them,
+as they are not supposed to be diverted from their duties.</LongDescription>
+  
+  <Established>791606732</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">712</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">712</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">712</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">712</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4227</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4229</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

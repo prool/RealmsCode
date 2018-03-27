@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="1068" Version="2.40a" Area="ocean">
+  <Name>Rosecrest Street/Regalia Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Rosecrest Street and Regalia Drive.</ShortDescription>
+  <LongDescription>Regalia Drive runs east to the Memorial Fountain, and eventually ends at the
+Regalia Convent.  The convent is one of the few remaining institutions just
+for women.  Rosecrest continues to the north and south, parallel to the City
+Wall on the west.  Guards patrol the top of the wall in a regular pattern.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1067</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1069</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1149</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

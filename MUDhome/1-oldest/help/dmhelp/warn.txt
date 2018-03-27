@@ -1,0 +1,17 @@
+Help on: *warn
+
+This command allows Caretakers and DMs to formally warn
+players for committing infractions. It can be done to
+both players online as well as offline. A player can
+be warned formally a maximum of three times, and the
+number of warnings the player has is indicated when
+they type "score".
+Syntax:
+: *warn Thena        
+Thena has 0 total warnings.
+: *warn Thena -a
+Warning added. Thena now has 1 total warning.
+: *warn Thena -r
+One warning removed. Thena now has 0 warnings remaining.
+
+

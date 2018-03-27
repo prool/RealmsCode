@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="522" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>You are walking along Marina Way, west of the Regal House of Silver.</ShortDescription>
+  <LongDescription>Silver is a valuable commodity in Oceancrest, although not as valuable
+as gold or as useful as adamantine.  Nevertheless, the Regal House of
+Silver does some fine craftsmanship in weapons, armors and even some 
+fancy houseware items like candlesticks and silverware.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">523</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">521</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

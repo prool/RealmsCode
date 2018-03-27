@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="2068" Version="2.40" Area="ocean">
+  <Name>West Hallway</Name>
+  <ShortDescription>You are in the western hallway of the ground level of the Kista Towers.</ShortDescription>
+  <LongDescription>From what you can tell, there is only one level to the Towers.  For the
+most part, it's just this floor and the large towers looming above you.
+The corridor is well kept and seems to be fairly busy with visiting
+representatives from the human and dwarven races.  The walls are fairly
+bare, though.  Perhaps they ran out of pictures to put up.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">166</Mob>
+      <Mob Area="ocean" Num="1">166</Mob>
+      <Mob Area="ocean" Num="2">166</Mob>
+      <Mob Area="ocean" Num="3">166</Mob>
+      <Mob Area="ocean" Num="4">166</Mob>
+      <Mob Area="ocean" Num="5">166</Mob>
+      <Mob Area="ocean" Num="6">220</Mob>
+      <Mob Area="ocean" Num="7">221</Mob>
+      <Mob Area="ocean" Num="8">222</Mob>
+      <Mob Area="ocean" Num="9">166</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2061</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2069</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2072</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

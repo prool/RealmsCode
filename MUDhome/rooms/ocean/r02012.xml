@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="2012" Version="2.40" Area="ocean">
+  <Name>Myrr Lane/Charybdis Way Intersection</Name>
+  <ShortDescription>Myrr Lane runs east and west, while Charybdis Way heads south.</ShortDescription>
+  <LongDescription>Charybdis Way runs through the center of Kista and takes you close
+to the Towers themselves.  The Red Dragon Pub is located on the west
+side of Aquamarine Way just south of here.  The Great Observatory is
+on the southeast corner of the intersection.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters>
+      <Mob Area="ocean">210</Mob>
+      <Mob Area="ocean" Num="1">211</Mob>
+      <Mob Area="ocean" Num="2">198</Mob>
+      <Mob Area="ocean" Num="3">208</Mob>
+      <Mob Area="ocean" Num="4">208</Mob>
+      <Mob Area="ocean" Num="5">208</Mob>
+      <Mob Area="ocean" Num="6">207</Mob>
+      <Mob Area="ocean" Num="7">201</Mob>
+      <Mob Area="ocean" Num="8">202</Mob>
+      <Mob Area="ocean" Num="9">203</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2011</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2511</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2514</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

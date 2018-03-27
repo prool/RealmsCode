@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1099" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are travelling along Nagaritha Drive, just east of a large intersection.</ShortDescription>
+  <LongDescription>Natasha's stables are located in the sliver of land created by the
+strangely shaped Eidenhoft Boulevard, which runs northeast to southwest.
+South of Nagaritha Drive is a small shop.  The sign above the door
+reads "Bysantal's General Goods and Services" in proud, bold lettering.
+Oceanview Drive is just west of here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1098</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1044</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

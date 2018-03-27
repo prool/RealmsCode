@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Object Num="327" Area="ocean" Version="2.40">
+  <Name>half-giant chain mail sleeves</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Armor>22</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">750</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">giant</Key>
+    <Key Num="1">chain</Key>
+    <Key Num="2">sleeves</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="10"/>
+    <Bit Num="19"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>You see some large chain mail sleeves made specially for half-giants.</Description>
+  <Weight>15</Weight>
+  <Type>6</Type>
+  <SubType>chain</SubType>
+  <WearFlag>2</WearFlag>
+  <InBag/>
+</Object>

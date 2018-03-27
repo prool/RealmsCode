@@ -1,0 +1,22 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  portal spell       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 100
+School:  Translocation
+Domain:  Not Castable
+
+The portal spell allows you take you and your companions to one of your
+dimensional anchors. Depending on your level, only a certain number of people
+may step through the portal before it closes. Only one person may pass through
+at level 31, and every 2 levels thereafter will allow one more person to enter.
+Note that when the caster passes through the portal or leaves the room the
+portal was created in, it will close automatically.
+
+You must be a mage or a lich and atleast level 31 to cast this spell. You
+must be atleast 7th level to use a portal.
+
+Syntax:
+cast portal <anchor>
+
+See also:
+HELP ANCHOR

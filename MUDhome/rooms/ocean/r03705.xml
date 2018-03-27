@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="3705" Version="2.41b" Area="ocean">
+  <Name>Charity and Welfare Office</Name>
+  <ShortDescription>You are in the city of Oceancrest's charities and welfare office.</ShortDescription>
+  <LongDescription>Not wishing to find starved bodies on the street, the city has provided
+this office for the use of various religions to use as an outlet for
+donated items.  Several chests are around the wall, and each contains
+the things needed by the poor.  You may donate any items you do not need,
+simply by putting them in the chests.   If you are in need, feel free to
+help yourself to what ever you may find in them.  It's all free.  To take
+everything is equivalent to robbing the poor, and to do so is to bring
+the punishment of Styx down on you.  Please be prudent in what you take.</LongDescription>
+  
+  <Established>763088531</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">595</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1786</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

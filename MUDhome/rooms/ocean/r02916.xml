@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="2916" Version="2.40" Area="ocean">
+  <Name>Avernus</Name>
+  <ShortDescription>You are traveling through the wasteland of the first plane of Hell.</ShortDescription>
+  <LongDescription>Avernus has not really lived up to what you might have considered Hell,
+but this is only the first of nine levels which compose Hell.  The 
+dangerous abishai sees to be coming out everywhere, as you seem them
+in each direction out of the corner of your eye.</LongDescription>
+  
+  <Established>727858234</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">357</Mob>
+      <Mob Area="ocean" Num="1">357</Mob>
+      <Mob Area="ocean" Num="2">357</Mob>
+      <Mob Area="ocean" Num="3">357</Mob>
+      <Mob Area="ocean" Num="4">358</Mob>
+      <Mob Area="ocean" Num="5">358</Mob>
+      <Mob Area="ocean" Num="6">358</Mob>
+      <Mob Area="ocean" Num="7">359</Mob>
+      <Mob Area="ocean" Num="8">360</Mob>
+      <Mob Area="ocean" Num="9">361</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2909</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2915</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

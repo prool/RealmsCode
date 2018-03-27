@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3978" Version="2.40" Area="ocean">
+  <Name>Stone Hut Training Room</Name>
+  <ShortDescription>You have bested one of the Chief's finest guards and may now train.</ShortDescription>
+  <LongDescription>Both the Chief and the Shaman would like you to stop by later, so that
+they can personally congratulate you on your achievement.  The next time
+you advance, you will receive a new title.</LongDescription>
+  
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="5"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1845</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1150" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are walking along Eidenhoft Boulevard, running northeast to southwest.</ShortDescription>
+  <LongDescription>Eidenhoft Boulevard is easy to remember because it is one of the few
+roads in Oceancrest which run diagonally.  Heading southwest, Eidenhoft
+heads towards the Oceancrest Memorial Fountain and other unique monuments
+dedicated towards the heroes of the realm.  Further to the northeast,
+Eidenhoft begins to straighten out and head due north past the Oceancrest
+Central Arena.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1021</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1151</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

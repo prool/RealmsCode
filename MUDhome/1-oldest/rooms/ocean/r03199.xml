@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3199" Version="2.40" Area="ocean">
+  <Name>Second Level</Name>
+  <ShortDescription>Congratulations!  You have made it to the second level of the city.</ShortDescription>
+  <LongDescription>Are you sure you want to be here?  The fabled Emerald Armor may be just
+a myth, you know.  It seems to get more dangerous the deeper into the
+underground city you descend.  But then, no pain no gain, right?  And
+the Emerald Armor might actually be down here somewhere.  I say lets go
+for it!  I'll be right back here behind you.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="tower">
+      <Keys/>
+      <Room Area="ocean">3102</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3021</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

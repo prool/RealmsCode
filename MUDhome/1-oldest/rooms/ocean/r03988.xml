@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3988" Version="2.40" Area="ocean">
+  <Name>Trantori's Redwood</Name>
+  <ShortDescription>You are below ground level, and inside a hollow shaft in a great redwood.</ShortDescription>
+  <LongDescription>A smooth tunnel seems to run towards the southeast from here.  The only
+other way you can go is up some ladder rungs you see nailed to the inside 
+of the tree.  This is the biggest redwood in the entire forest, and the High
+Invoker lives at the top of it.</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3987</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3989</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

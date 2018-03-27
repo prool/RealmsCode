@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2086" Version="2.40" Area="ocean">
+  <Name>Dwarven Dignitary's Quarters</Name>
+  <ShortDescription>You are in Drowlin's quaters, the dwarven dignitary from Tragular.</ShortDescription>
+  <LongDescription>Drowlin spends time traveling between Tragular and Kista so he's not
+always in town.  He usually shows up every two or three days depending
+on the condition of the roads.  Tragular is a large dwarven city deep
+within the mountains to the south.  The quarters are rather nicely 
+decorated with lots of gold and metals around, displaying some artifacts
+of Drowlin's heritage.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>86400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">236</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2079</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

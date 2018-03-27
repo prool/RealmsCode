@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1561" Version="2.40" Area="ocean">
+  <Name>West Etolian Exercise Yard</Name>
+  <ShortDescription>You are in the western end of a large field surrounded by the forest.</ShortDescription>
+  <LongDescription>In order to keep fit, both physically and mentally, most of the druids
+go to the exercise field to practice their various fighting exercises 
+and improve their physical skills.  The field is rather large and
+continues to the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>7</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">177</Mob>
+      <Mob Area="ocean" Num="1">177</Mob>
+      <Mob Area="ocean" Num="2">177</Mob>
+      <Mob Area="ocean" Num="3">177</Mob>
+      <Mob Area="ocean" Num="4">178</Mob>
+      <Mob Area="ocean" Num="5">177</Mob>
+      <Mob Area="ocean" Num="6">178</Mob>
+      <Mob Area="ocean" Num="7">177</Mob>
+      <Mob Area="ocean" Num="8">177</Mob>
+      <Mob Area="ocean" Num="9">178</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1562</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1564</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

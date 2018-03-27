@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="3720" Version="2.40" Area="ocean">
+  <Name>Platinum Eyes</Name>
+  <ShortDescription>You are in the Platinum Eyes Shoppe which specializes in rare items.</ShortDescription>
+  <LongDescription>=============]   This Shop is For Sale   [===============
+If you wish to purchase this shop, you must first get the Rules of Business
+from the Sleeping Deer Real Estate Office.  After you have read the rules,
+contact one of the Dungeon Masters who will relieve you of your hard-earned
+gold, and give you a key to the place.</LongDescription>
+  
+  <Established>764361335</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>storage</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">627</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2307</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="storage">
+      <Keys/>
+      <Room Area="ocean">3721</Room>
+      <Key>60</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

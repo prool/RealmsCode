@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2518" Version="2.40" Area="ocean">
+  <Name>Randolf Lane</Name>
+  <ShortDescription>Randolf Lane is a short service road leading to the city's east gate.</ShortDescription>
+  <LongDescription>The group of buildings to the north form the Althemanian College, a school
+for graduate students in the Iilandi University System.  On the south side
+of Randolf Lane is one of the barracks for the Kista Security Forces.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2028</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2052</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

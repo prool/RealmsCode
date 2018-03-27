@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="304" Version="2.40" Area="ocean">
+  <Name>Ogre's Arena</Name>
+  <ShortDescription>You have entered the main fighting area.  Crowds shout and cheer
+at the arrival of new entertainment.</ShortDescription>
+  <LongDescription>The blood of less fortunate fighters is splattered across the walls and
+You wonder what fate holds in store for you. To the northeast you
+see a door leading to The Cage, which is the one-on-one combat arena  
+for Matriess the destroyer. Only the most skilled warriors should
+attempt to fight there.</LongDescription>
+  
+  <Established>756033367</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>13</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">248</Mob>
+      <Mob Area="ocean" Num="1">248</Mob>
+      <Mob Area="ocean" Num="2">191</Mob>
+      <Mob Area="ocean" Num="3">191</Mob>
+      <Mob Area="ocean" Num="4">27</Mob>
+      <Mob Area="ocean" Num="5">407</Mob>
+      <Mob Area="ocean" Num="6">286</Mob>
+      <Mob Area="ocean" Num="7">246</Mob>
+      <Mob Area="ocean" Num="8">408</Mob>
+      <Mob Area="ocean" Num="9">407</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="cage">
+      <Keys/>
+      <Room Area="ocean">305</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">301</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

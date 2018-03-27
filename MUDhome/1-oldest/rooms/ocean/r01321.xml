@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1321" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, west of the Iilandi University.</ShortDescription>
+  <LongDescription>The large Iilandi University has long been known as the best learning
+institution in the lands.  The great people of the lands come to teach
+here not for gold, but for prestige.  Since most are already rich, there
+isn't much of a need to pay them more gold.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1320</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1322</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

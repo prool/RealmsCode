@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  frenzy        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Frenzy allows a werewolf to attack in a maddened whirlwind of claws and teeth.
+It makes them harder to hit, in addition to increasing their dexterity by five.
+A werewolf which is frenzied attacks every two seconds instead of every three.
+It can be used once every 10 minutes, and it only lasts for 2 minutes.
+
+Example:
+: frenz
+You begin to attack in a frenzy.
+:
+

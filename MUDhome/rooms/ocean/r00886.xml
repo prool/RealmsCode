@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="886" Version="2.40" Area="ocean">
+  <Name>General Store</Name>
+  <ShortDescription>You are in a company owned store which buys and sells to the field hands.</ShortDescription>
+  <LongDescription>Workers for the winery can run up an account here, which is one of
+the reasons so many of them continue to work for the winery.  They
+are so far in debt, they cannot leave.  The store will also buy items,
+if they feel they can make a profit on them later.</LongDescription>
+  
+  <Established>755892418</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="1"/>
+    <Bit Num="49"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">884</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

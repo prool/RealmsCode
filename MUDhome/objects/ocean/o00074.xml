@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="74" Area="ocean" Version="2.40">
+  <Name>diamond-studded stiletto</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>110</ShotsMax>
+  <ShotsCur>110</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>4</Sides>
+    <Plus>4</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">50000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">stiletto</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>It's a beautiful weapon, completely covered in gold and diamonds.</Description>
+  <UseOutput>You fell a tad bit like royalty wielding this garish weapon.</UseOutput>
+  <Weight>8</Weight>
+  <Type>5</Type>
+  <SubType>dagger</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

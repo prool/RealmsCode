@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1256" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are casually walking along Overland Drive, minding your own business.</ShortDescription>
+  <LongDescription>Overland Drive passes by three of the wealthiest estates in Oceancrest.  
+You are now approximately at the center of all three.  On the north is
+the Khelleva Stables, part of the Khelleva Estate.  On the southeast is
+the Iilandi Family Estate, owners of the Richland Grape Orchard and the
+Klondike Wheat Fields.  On the southwest is the Odgen Family Villa.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>5000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">441</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1255</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1257</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

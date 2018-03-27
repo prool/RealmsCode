@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  burn spell        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 3
+School:  Evocation
+Domain:  Destruction
+
+This spell is the lowest level spell in the fire realm. It scorches the
+target and creates minor burns on the target's skin. Though most of these
+wounds are not fatal, repeated burns can be lethal. However, the spell is
+generally used to irritate and provoke rather than kill.
+
+Syntax:
+cast burn <target>
+

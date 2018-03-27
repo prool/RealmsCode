@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5461" Version="2.40" Area="ocean">
+  <Name>Rutger Castle Road</Name>
+  <ShortDescription>You are just south of the intersection with Hafnia Mountain Road.</ShortDescription>
+  <LongDescription>Prince Rutger and his royal family have a mountain castle to the southeast.
+You can see it from here, if you tilt your head back and look high on the
+east mountian face.  The road you are on winds through several passes to
+go there.  Just to the south there is grove of trees which the roads skirts.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5427</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5462</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

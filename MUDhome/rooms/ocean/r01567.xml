@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="1567" Version="2.40a" Area="ocean">
+  <Name>Middle Circle of Etolos</Name>
+  <ShortDescription>You are in the middle circle path around the Etolos complex.</ShortDescription>
+  <LongDescription>Despite the primative nature of the druids, you sense that they are
+actually more civilized than the modern townsperson.  The peace and
+tranquility are resounded in the atmosphere of group participation and
+cooperation.  Outsiders have mocked the Etolian Druids because of these
+primative attitudes, but in fact, they have survived longer than any
+other human civilization in the world.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>7</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">177</Mob>
+      <Mob Area="ocean" Num="1">177</Mob>
+      <Mob Area="ocean" Num="2">178</Mob>
+      <Mob Area="ocean" Num="3">178</Mob>
+      <Mob Area="ocean" Num="4">179</Mob>
+      <Mob Area="ocean" Num="5">178</Mob>
+      <Mob Area="ocean" Num="6">177</Mob>
+      <Mob Area="ocean" Num="7">177</Mob>
+      <Mob Area="ocean" Num="8">177</Mob>
+      <Mob Area="ocean" Num="9">177</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1568</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1559</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1570</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

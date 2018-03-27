@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="2287" Version="2.40" Area="ocean">
+  <Name>Royal Jousting Supplies</Name>
+  <ShortDescription>You are in a large shop dedicated to the popular sport of jousting.</ShortDescription>
+  <LongDescription>The jouster must properly balance his lance and his horse.  But in preparing
+for the joust, these fighters also train using various pole-type weapons,
+usually with strong, metal hooks and blades attached to them.  A good
+polearm in the hands of a skilled fighter can be a deadly weapon.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1711</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

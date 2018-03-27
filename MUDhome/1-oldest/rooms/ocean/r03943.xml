@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3943" Version="2.40" Area="ocean">
+  <Name>Ramdes Bridge</Name>
+  <ShortDescription>You are on the east side of the Barbarian Pits, on the Ramdes Bridge.</ShortDescription>
+  <LongDescription>This bridge is really nothing more than a few old ropes tied together. 
+Beneath you are the dark waters of the famous Ramdes River, whose source  
+has never been explored because no one can find the headwaters.  You would
+think that all one would have to do is follow the river, but looking north
+you see it comes down from the mountains through a very deep, foggy valley.
+That terrain looks forboding.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1845</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1844</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

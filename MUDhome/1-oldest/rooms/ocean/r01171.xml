@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1171" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>You are walking along Main Street, just south of the Adrilite Museum.</ShortDescription>
+  <LongDescription>On the south side of the road you see a shop filled with snakes and spiders.
+The sign above the door says, "Ennia's Venemous Pets."  There is a very ugly
+spider painted on the window.  She really doen't get much business.  On the
+north side of the road is the Adrilite Museum of Natural History, a place
+of civic pride for citizens of Oceancrest.  The entrance is on Marina Way.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1170</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1126</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1972</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3913" Version="2.40" Area="ocean">
+  <Name>Nobunaga's Tent</Name>
+  <ShortDescription>You are in the luxurous tent of Nobunaga the orcish paladin.</ShortDescription>
+  <LongDescription>Nobunaga nevers buys or sells anything, but he loves to trade.  If you have
+anything he might like, make him an offer.  He often will trade just for
+the pleasure of trading.  Nobunaga and his buddies sometimes come here 
+to drink the dwarve's Ulandian rum.</LongDescription>
+  
+  <Established>770871118</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3912</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="mirror">
+      <Keys/>
+      <Room Area="ocean">3914</Room>
+      <Key>79</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

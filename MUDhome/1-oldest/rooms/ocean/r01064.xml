@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1064" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, just west of the Ministry of Truth building.</ShortDescription>
+  <LongDescription>The Ministry of Truth is hardly what it appears to be, but the people in
+it honestly believe that what they say is in fact true and that therefore
+everyone else in the world must be lying.  Although the premise no doubt 
+was originally good, the corrupt nature of the job managed to destroy their
+integrity.  Nevertheless, many citizens believe them to be the wisest people
+in Oceancrest.  Rosecrest Street continues parallel to the City Walls, 
+running north and south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1063</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1065</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

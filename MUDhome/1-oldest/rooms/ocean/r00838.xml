@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="838" Version="2.40" Area="ocean">
+  <Name>Klaw's Room</Name>
+  <ShortDescription>You are in a red room surrounded by red curtains.</ShortDescription>
+  <LongDescription>This is Klaw's room.  Klaw is the deadly black devil from the sixth plane
+of hell.  He also doesn't care much for visitors and will try to steal
+your soul. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">115</Mob>
+      <Mob Area="ocean" Num="1">115</Mob>
+      <Mob Area="ocean" Num="2">115</Mob>
+      <Mob Area="ocean" Num="3">115</Mob>
+      <Mob Area="ocean" Num="4">115</Mob>
+      <Mob Area="ocean" Num="5">115</Mob>
+      <Mob Area="ocean" Num="6">115</Mob>
+      <Mob Area="ocean" Num="7">115</Mob>
+      <Mob Area="ocean" Num="8">115</Mob>
+      <Mob Area="ocean" Num="9">115</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>curtain</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>608400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">125</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="curtain">
+      <Keys/>
+      <Room Area="ocean">837</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

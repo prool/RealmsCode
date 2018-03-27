@@ -1,0 +1,27 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  bandage         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Bandage is a command used in order to heal wounds with bandages you may
+find or buy. Different bandages may heal for more then others. A bandage
+item doesnt have to be a "bandage" per say, but can also have the same
+effect. For example, a healing salve, ointment, or a healing gem. Whether
+the item is an actual bandage or not, the bandage command is used to
+activate it. You may bandage yourself or a target monster or player.
+Bandaging cannot be done while in combat.
+
+Syntax:
+  bandage (bandagetype)
+  bandage (target) (bandagetype)
+
+Example:
+: i
+You have a healing salve, a blackened-steel eviscerator.
+: bandage salve
+You regain 12 hit points.
+: band high salv
+The Highport guardsman regains 10 hit points.
+: band bob salv
+Bob regains 7 hit points.
+:
+

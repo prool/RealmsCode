@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3550" Version="2.40" Area="ocean">
+  <Name>The Vaults Guard Room</Name>
+  <ShortDescription>You are in a central guard post with passages allowing the guards to 
+respond quickly to alarms which are placed throughout the vaults.</ShortDescription>
+  <LongDescription>If you've found the room empty you're lucky, because it allows you 
+access to rooms all over the vaults, but if you found angry guards,
+be careful, they're mean.</LongDescription>
+  
+  <Established>769937279</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>passage</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">599</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">599</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">599</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">3549</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

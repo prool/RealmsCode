@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="3947" Version="2.40" Area="ocean">
+  <Name>Wooden Hut</Name>
+  <ShortDescription>You are in the barbarian's training hut, ready to advance to level eight.</ShortDescription>
+  <LongDescription>there's only one more small thing to take care of, however.  You see that
+goliath of a barbarian standing in front of the training room door?  He's  
+not going to let you enter, and he has the only key.</LongDescription>
+  <LowLevel>7</LowLevel>
+  <HighLevel>7</HighLevel>
+  
+  <Established>789611462</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">753</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1845</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3977</Room>
+      <Key>93</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

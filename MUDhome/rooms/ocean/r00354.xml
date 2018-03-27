@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="354" Version="2.40" Area="ocean">
+  <Name>Rum Road South</Name>
+  <ShortDescription>You are walking on Rum Road South, the best road on the entire island.</ShortDescription>
+  <LongDescription>The Pink Lady bar and grill is on the west side of the road.  Some kind
+of a disturbance seems to be taking place in there.  Next door is a small
+place called the Green Goat, but it seems to be popular only with dwarves.
+Further to the south you can see a huge wooden building that must be the
+distillery.  It seems to have a tin roof, and a ramshackle loading dock.</LongDescription>
+  
+  <Established>760475423</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">26</Mob>
+      <Mob Area="ocean" Num="1">26</Mob>
+      <Mob Area="ocean" Num="2">26</Mob>
+      <Mob Area="ocean" Num="3">26</Mob>
+      <Mob Area="ocean" Num="4">210</Mob>
+      <Mob Area="ocean" Num="5">26</Mob>
+      <Mob Area="ocean" Num="6">26</Mob>
+      <Mob Area="ocean" Num="7">43</Mob>
+      <Mob Area="ocean" Num="8">43</Mob>
+      <Mob Area="ocean" Num="9">43</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>green door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">353</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">355</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">367</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="green door">
+      <Keys/>
+      <Room Area="ocean">366</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="4260" Version="2.40" Area="ocean">
+  <Name>Thoto's Emporium</Name>
+  <ShortDescription>You are in a shabby little emporium which sells a variety of goods.  </ShortDescription>
+  <LongDescription>Thoto the gnome opened this shop the day the room was completed when the
+castle was built.  He has been in business here for a very long time, and
+doesn't mind cheating you out of a month's pay.  No guarantees with anything
+you purchase in here.</LongDescription>
+  
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4209</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

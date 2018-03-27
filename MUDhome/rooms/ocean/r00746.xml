@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="746" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive/Orchard Lane Intersection</Name>
+  <ShortDescription>You are at the intersection of Wakeforest Drive and Orchard Lane.</ShortDescription>
+  <LongDescription>Orchard Lane runs east and west out of the intersection with Wakeforest
+Drive, which continues to the north and south.  On the southeast, you
+can see the mysterious Dragon's Citadel.  On the north side of the 
+intersection, you can see a number of administrative buildings, primarily
+guard patrol buildings and barracks.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">745</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">747</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">378</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">379</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

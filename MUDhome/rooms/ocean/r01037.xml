@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1037" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive/Overland Drive Intersection</Name>
+  <ShortDescription>You are at the intersection of Overland Drive and Oceanview Drive.</ShortDescription>
+  <LongDescription>You have come to a rather busy intersection.  Each of the four corners
+of the intersection seem to be quite busy with activity.  On the north-
+east, there's the Guard Headquarters.  To the northwest is the Prison
+(or Detention and Rehabilitation Center).  To the southeast is the 
+Dragon Tooth Inn, one of the more luxurious inns in Oceancrest.  And
+to the southwest is Dillsdale Memorial Park, which is used for official
+gatherings and public announcements.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1036</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1038</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1137</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1138</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

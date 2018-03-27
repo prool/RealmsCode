@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3773" Version="2.40" Area="ocean">
+  <Name>Wildlife Preserve Path</Name>
+  <ShortDescription>You are at the western end of a wildlife preserve in Lelion Beach and Park.</ShortDescription>
+  <LongDescription>The area is rather hevily wooded, although you can see there are few trees
+on the path which climbs to the west.  There is a rocky cliff face on the
+south side of the park, and you can see some huge bird nests up there.  No,
+not just huge.  Those nests are really big!  High overhead, above the wide
+Lithium Inlet on the north side, you see the birds that must inhabit those
+nests.  Must be the biggest birds in existance.</LongDescription>
+  
+  <Established>766013160</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3772</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3774</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

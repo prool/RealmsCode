@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="2819" Version="2.40" Area="ocean">
+  <Name>Triangular Room</Name>
+  <ShortDescription>You are in a strange, triangular room, covered with gold and jewels.</ShortDescription>
+  <LongDescription>The odd shaped room gets wider to the north, with the door forming the
+apex of the triangle.  There is some arcane, ancient writing on the wall
+which reads "Those who seek wisdom will prevail.  Those who seek gold
+will die."  There are odd symbols around the room, but otherwise, the
+room is quite empty.</LongDescription>
+  
+  <Established>728802500</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2818</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="secret panel">
+      <Keys/>
+      <Room Area="ocean">2820</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

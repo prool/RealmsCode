@@ -1,0 +1,32 @@
+   _______________________________________
+  /\                                      \
+ /  | Highest Player Based on Class        |
+ \  |                                      |
+  \_|        Assassin :                    |
+    |       Berserker :                    |
+    |          Cleric :                    |
+    |         Fighter :                    |
+    |            Mage :                    |
+    |         Paladin :                    |
+    |          Ranger :                    |
+    |           Thief :                    |
+    |       Pureblood :                    |
+    |            Monk :                    |
+    |    Death Knight :                    |
+    |           Druid :                    |
+    |            Lich :                    |
+    |        Werewolf :                    |
+    |            Bard :                    |
+    |           Rogue :                    |
+    |                                      |
+    |    Fighter/Mage :                    |
+    |   Fighter/Thief :                    |
+    | Cleric/Assassin :                    |
+    |      Mage/Thief :                    |
+    |      Thief/Mage :                    |
+    |   Mage/Assassin :                    |
+    |                                      |
+    |    __________________________________|_
+    \   /                                   /
+     \_/___________________________________/
+

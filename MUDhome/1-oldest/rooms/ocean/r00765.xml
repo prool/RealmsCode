@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="765" Version="2.40" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are on Oceancrest Avenue, between the park and the Crimson Dragon Inn.</ShortDescription>
+  <LongDescription>The posh Crimson Dragon Traveler's Lodge on the south side of the road
+is a very popular lodging place for visitors to Oceancrest.  Its luxurious
+accomodations are not without a price, though.  On the north side of the
+road is the Wakarimasu Park, an elegant park based on ancient oriental
+architectures.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">764</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">766</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

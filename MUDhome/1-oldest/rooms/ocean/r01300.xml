@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1300" Version="2.40" Area="ocean">
+  <Name>Riverdell Way/Hofton Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Hofton Avenue and Riverdell Way.</ShortDescription>
+  <LongDescription>Riverdell Way runs south out of the intersection with Hofton Avenue, which
+continues to the east and west, running parallel to the northern City Walls.
+To the southwest, you can see a large forest area that appears to continue
+as far down Riverdell Way that you can see.  The large forest seems 
+undisturbed by the passage of time and the development of the city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1369</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">396</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1301</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

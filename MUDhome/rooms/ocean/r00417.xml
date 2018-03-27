@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="417" Version="2.40" Area="ocean">
+  <Name>Lorian Parkway</Name>
+  <ShortDescription>You are walking along Lorian Parkway, west of Handel's House of Fire.</ShortDescription>
+  <LongDescription>Fire itself is not very rare in Oceancrest, but getting something to start
+a fire isn't always as easy as one would like.  Handel's House of Fire 
+provides for these needs, as well as the possibility of having to put them
+out.  On the west side of the road is Xanthar's Holy Supplies, where a
+variety of clerical items may be purchased.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">416</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">418</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

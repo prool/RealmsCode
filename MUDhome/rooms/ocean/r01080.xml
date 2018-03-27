@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1080" Version="2.40" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are on Golden Dolphin Way, south of a small shopping complex.</ShortDescription>
+  <LongDescription>You are at the center of this city block between Rosecrest Street and
+Oceanview Drive.  On the north, you can see three buildings in a small
+shopping complex.  Directly to the north is the Silver Tears Gambling
+Hall.  Security appears to be pretty lax around the small building,
+so it's unlikely that there's any serious gambling going on.  It seems
+to be a small-time operation for amusement during lunch or dinner.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1079</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1081</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

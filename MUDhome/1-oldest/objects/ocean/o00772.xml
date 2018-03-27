@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="772" Area="ocean" Version="2.40">
+  <Name>200 knights</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">knights</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Description>rows of knights in gleaming armor kneel on one knee, facing Prince Rutger.</Description>
+  <Type>14</Type>
+  <InBag/>
+</Object>

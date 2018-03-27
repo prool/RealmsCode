@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="3065" Version="2.40" Area="ocean">
+  <Name>Goblin Library</Name>
+  <ShortDescription>You have found what might be called the goblin priest's library.</ShortDescription>
+  <LongDescription>Several goblins ignore your presense and continue to work, while others
+rise to object.  You never imagined goblins could read or write, let alone
+have a library.  Along the back wall are several shelves filled with both
+large and small books, many old scrolls and a few hefty and ancient tomes.
+A few wooden tables and chairs run the length of the room.  Scattered atop
+the tables are piles of parchment, open books and writing instruments.
+Closer examination of the titles reveals that some of the books are written
+about magic and mages.  They may contain the incantations and words for
+great spells, or perhaps directions to lost treasure.  Too bad you don't
+read goblin.  You also notice some of the books appear to be in elvin.</LongDescription>
+  
+  <Established>761361643</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">502</Mob>
+      <Mob Area="ocean" Num="1">502</Mob>
+      <Mob Area="ocean" Num="2">503</Mob>
+      <Mob Area="ocean" Num="3">503</Mob>
+      <Mob Area="ocean" Num="4">504</Mob>
+      <Mob Area="ocean" Num="5">504</Mob>
+      <Mob Area="ocean" Num="6">506</Mob>
+      <Mob Area="ocean" Num="7">504</Mob>
+      <Mob Area="ocean" Num="8">505</Mob>
+      <Mob Area="ocean" Num="9">503</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">504</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">505</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3052</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

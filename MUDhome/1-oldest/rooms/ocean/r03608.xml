@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3608" Version="2.40" Area="ocean">
+  <Name>Knight's Walk</Name>
+  <ShortDescription>You are in a massive stone tunnel, known as the Knight's Walk.</ShortDescription>
+  <LongDescription>The tunnel continues to the east and west, gradually rising toward the
+east.  Further to the west the Knight's Walk ends, but a hallway appears
+to continue to the south from there.  The stone wall is cold to the touch
+on both sides of you, and a cool breeze whistles around you.  Graffitti
+covers the north wall.</LongDescription>
+  
+  <Established>762644882</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">725</Mob>
+      <Mob Area="ocean" Num="1">726</Mob>
+      <Mob Area="ocean" Num="2">727</Mob>
+      <Mob Area="ocean" Num="3">727</Mob>
+      <Mob Area="ocean" Num="4">727</Mob>
+      <Mob Area="ocean" Num="5">727</Mob>
+      <Mob Area="ocean" Num="6">726</Mob>
+      <Mob Area="ocean" Num="7">725</Mob>
+      <Mob Area="ocean" Num="8">726</Mob>
+      <Mob Area="ocean" Num="9">725</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3605</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3609</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

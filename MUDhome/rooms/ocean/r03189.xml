@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3189" Version="2.40" Area="ocean">
+  <Name>Below the High Sea Cliffs</Name>
+  <ShortDescription>You are swimming in the Respitial Sea below tall sea cliffs.</ShortDescription>
+  <LongDescription>The cliffs are craggy and look to be impossible to scale.  High on the
+rock face you can see the nests of sea eagles, perhaps the only creatures
+who will ever inhabit those dark places.  The Land of Mordor is a strange
+place indeed.</LongDescription>
+  
+  <Established>756209609</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3181</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3190</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

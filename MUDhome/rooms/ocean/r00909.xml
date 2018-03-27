@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="909" Version="2.40a" Area="ocean">
+  <Name>Hafnia Mage Emporium</Name>
+  <ShortDescription>You are in a giant warehouse for magic potions.</ShortDescription>
+  <LongDescription>You've never seen this many magic supplies in your life.  Everything 
+you could imagine is here.  Hafnia prides itself on the quality and
+quantity of it's supplies and this magic shop is no different.  If
+you want a magical potion, this is the place to be.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="11"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">943</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="873" Version="2.41b" Area="ocean">
+  <Name>Green Wagon</Name>
+  <ShortDescription>You are in a wagon with several card players around a gaming table.</ShortDescription>
+  <LongDescription>The players look up as you enter, but go back to their game as you stand
+here.  A short, very fat man sits alone in a corner and stares at you as
+he slowly strokes a strange animal in his lap.  The animal is a cross
+between a lynx and an elven cat, and apparently does not like you.  The
+lynxven is brightly colored with tassled ears and sabre teeth. </LongDescription>
+  <HighLevel>10</HighLevel>
+  
+  <Established>755817678</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">454</Mob>
+      <Mob Area="ocean" Num="1">454</Mob>
+      <Mob Area="ocean" Num="2">454</Mob>
+      <Mob Area="ocean" Num="3">454</Mob>
+      <Mob Area="ocean" Num="4">454</Mob>
+      <Mob Area="ocean" Num="5">454</Mob>
+      <Mob Area="ocean" Num="6">454</Mob>
+      <Mob Area="ocean" Num="7">454</Mob>
+      <Mob Area="ocean" Num="8">454</Mob>
+      <Mob Area="ocean" Num="9">454</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">875</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

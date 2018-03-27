@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Room Num="3219" Version="2.40" Area="ocean">
+  <Name>Small Cavern</Name>
+  <ShortDescription>You have entered a small cavern infested with all sorts of disease
+carrying creatures.  You fear for your health.</ShortDescription>
+  <LongDescription></LongDescription>
+  
+  <Established>755863266</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+    <Bit Num="24"/>
+    <Bit Num="25"/>
+  </Flags>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="2">40</Mob>
+      <Mob Area="ocean" Num="3">40</Mob>
+      <Mob Area="ocean" Num="4">40</Mob>
+      <Mob Area="ocean" Num="5">40</Mob>
+      <Mob Area="ocean" Num="6">17</Mob>
+      <Mob Area="ocean" Num="7">17</Mob>
+      <Mob Area="ocean" Num="8">17</Mob>
+      <Mob Area="ocean" Num="9">17</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>20000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">377</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>20000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">377</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>20000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">377</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">895</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

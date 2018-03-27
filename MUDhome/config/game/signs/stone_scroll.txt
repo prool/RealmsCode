@@ -1,0 +1,28 @@
+   _______________________________________
+  /\                                      \
+ /  | Only characters who have reached     |
+ \  | atleast level 3 are counted for the  |
+  \_| stone scroll.                        |
+    |                                      |
+    |   Highest Player :                   |
+    |   Richest Player :                   |
+    |   Longest Played :                   |
+    |   Best Pkiller   :                   |
+    |   Most Spells    :                   |
+    |   Explorer       :                   |
+    |                                      |
+    | To view a specific category, type    |
+    | "look stone <category>". The         |
+    | categories are:                      |
+    |         class                        |
+    |         race                         |
+    |         deity                        |
+    |         breakdown                    |
+    |                                      |
+    | Last Updated:                        |
+    | Tue Mar 27 12:48:28 2018 (Athens, Minsk, Cairo, Jerusalem). |
+    |                                      |
+    |    __________________________________|_
+    \   /                                   /
+     \_/___________________________________/
+

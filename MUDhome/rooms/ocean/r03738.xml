@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3738" Version="2.40" Area="ocean">
+  <Name>Public Room Hallway</Name>
+  <ShortDescription>You are in a hallway connecting the vestibule of the Dragon Tooth Inn to
+the Public Room.  If you are seeking the new owner of this fine inn, you
+wiill find him practicing his bartending skills just off the hallway to
+the south.  If you need to relieve yourself, the restrooms are also located
+in the hallway to the south.  Directly east is the vestibule and main entry.</ShortDescription>
+  
+  <Established>764467851</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3737</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3722</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

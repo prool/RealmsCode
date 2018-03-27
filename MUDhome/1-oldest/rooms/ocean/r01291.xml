@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="1291" Version="2.40" Area="ocean">
+  <Name>Dark Path</Name>
+  <ShortDescription>The forest path seems to split here, going around a large oak tree.</ShortDescription>
+  <LongDescription>The path to the northwest leads towards a freshly cleared area where
+you can smell cooking and woodsmoke in the air.  The trees don't seem
+as dense in that direction.  The path crosses over a small footbridge
+spanning a friendly little creek running to the north.  The eastern
+path leads deeper into the dark part of the forest, while the southern
+path may lead out of the Enchanted Forest.</LongDescription>
+  
+  <Established>756169752</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">188</Mob>
+      <Mob Area="ocean" Num="1">188</Mob>
+      <Mob Area="ocean" Num="2">188</Mob>
+      <Mob Area="ocean" Num="3">189</Mob>
+      <Mob Area="ocean" Num="4">189</Mob>
+      <Mob Area="ocean" Num="5">189</Mob>
+      <Mob Area="ocean" Num="6">190</Mob>
+      <Mob Area="ocean" Num="7">190</Mob>
+      <Mob Area="ocean" Num="8">190</Mob>
+      <Mob Area="ocean" Num="9">192</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1288</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1292</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2931</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

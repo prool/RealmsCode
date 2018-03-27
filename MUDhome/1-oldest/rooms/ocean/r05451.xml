@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5451" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>You are at the eastern end of a deep mountain gorge on Hafnia Mountain Road.</ShortDescription>
+  <LongDescription>The road does not descend to the bottom of the gorge, but follows a narrow
+ledge along the southern side of it.  High on either side, at the top of the
+north and south peaks there are twin castles built almost to the very edge.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5450</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5452</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<Creature Num="621" Area="ocean" Version="2.40">
+  <Name>red-robed sorceress</Name>
+  <Class>5</Class>
+  <Level>25</Level>
+  <Type>1</Type>
+  <Experience>5000</Experience>
+  <Coins>
+    <Coin Num="2">1000</Coin>
+  </Coins>
+  <Alignment>100</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>500</Current>
+      <Max>500</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>500</Current>
+      <Max>500</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>She is a tiny elf of a woman, wearing a rich, red robe of velvet.</Description>
+  <Keys>
+    <Key Num="0">sorceress</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>790</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>6</Number>
+    <Sides>14</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>In honor of your advancement, I will cast a spell for you, if you ask properly</Talk>
+  <DefenseSkill>245</DefenseSkill>
+  <AttackPower>250</AttackPower>
+  <WeaponSkill>245</WeaponSkill>
+  <CarriedItems/>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="0"/>
+    <Bit Num="1"/>
+    <Bit Num="2"/>
+    <Bit Num="3"/>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="6"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="9"/>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+    <Bit Num="16"/>
+    <Bit Num="17"/>
+    <Bit Num="18"/>
+    <Bit Num="19"/>
+    <Bit Num="20"/>
+    <Bit Num="21"/>
+    <Bit Num="22"/>
+    <Bit Num="23"/>
+    <Bit Num="24"/>
+    <Bit Num="25"/>
+    <Bit Num="26"/>
+    <Bit Num="27"/>
+    <Bit Num="28"/>
+    <Bit Num="29"/>
+    <Bit Num="30"/>
+    <Bit Num="31"/>
+    <Bit Num="32"/>
+    <Bit Num="33"/>
+    <Bit Num="34"/>
+    <Bit Num="35"/>
+    <Bit Num="36"/>
+    <Bit Num="37"/>
+    <Bit Num="38"/>
+    <Bit Num="39"/>
+    <Bit Num="40"/>
+    <Bit Num="41"/>
+    <Bit Num="42"/>
+    <Bit Num="43"/>
+    <Bit Num="44"/>
+    <Bit Num="45"/>
+    <Bit Num="46"/>
+    <Bit Num="47"/>
+    <Bit Num="48"/>
+    <Bit Num="49"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="17"/>
+    <Bit Num="20"/>
+    <Bit Num="23"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

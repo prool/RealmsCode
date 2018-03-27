@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="1466" Version="2.40" Area="ocean">
+  <Name>Southern Access Hallway</Name>
+  <ShortDescription>You are in the southern access hallway used primarily by the servants.</ShortDescription>
+  <LongDescription>This access hallway allows servants and maids to bring dinner down to
+the mages and guests in the main dining hall.  To the east, you can
+see a balcony leading across into some sort of large lounge.  You can't
+make out just what it is.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">130</Mob>
+      <Mob Area="ocean" Num="1">130</Mob>
+      <Mob Area="ocean" Num="2">172</Mob>
+      <Mob Area="ocean" Num="3">172</Mob>
+      <Mob Area="ocean" Num="4">172</Mob>
+      <Mob Area="ocean" Num="5">174</Mob>
+      <Mob Area="ocean" Num="6">174</Mob>
+      <Mob Area="ocean" Num="7">172</Mob>
+      <Mob Area="ocean" Num="8">172</Mob>
+      <Mob Area="ocean" Num="9">174</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1465</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1469</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1481</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

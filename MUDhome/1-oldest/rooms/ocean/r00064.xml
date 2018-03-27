@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="64" Version="2.40" Area="ocean">
+  <Name>Main Arena</Name>
+  <ShortDescription>This is Brownhaven's main battling arena.</ShortDescription>
+  <LongDescription>Blood stains the walls and grounds of the entire arena.  You wonder just 
+how many poor souls have died on the floors of this place.  Citizens have
+packed the stands to see you fight, and loud cheers erupt as you enter the
+arena.  Are you ready for this?</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">14</Mob>
+      <Mob Area="ocean" Num="1">11</Mob>
+      <Mob Area="ocean" Num="2">15</Mob>
+      <Mob Area="ocean" Num="3">11</Mob>
+      <Mob Area="ocean" Num="4">15</Mob>
+      <Mob Area="ocean" Num="5">13</Mob>
+      <Mob Area="ocean" Num="6">14</Mob>
+      <Mob Area="ocean" Num="7">12</Mob>
+      <Mob Area="ocean" Num="8">13</Mob>
+      <Mob Area="ocean" Num="9">12</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">65</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">74</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

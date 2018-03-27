@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="1227" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are walking along Lankshire Parkway, surrounded by corn and wheat.</ShortDescription>
+  <LongDescription>Facing east, you can see the entrance to the Klondike Wheat Fields.  The
+Klondike Office is always willing to hire unskilled labor to help them
+harvest their wheat and rid the fields of unwanted pests like rats and
+other vermin.  On the west side of the road is the entrance to the DeNail
+Corn Fields.  Farmer DeNail is also always willing to get some unskilled
+labor into the fields to do some work.  After all, it helps the economy.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">1</Mob>
+      <Mob Area="ocean" Num="2">1</Mob>
+      <Mob Area="ocean" Num="3">1</Mob>
+      <Mob Area="ocean" Num="4">2</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1226</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1964</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1228</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="5044" Version="2.40" Area="ocean">
+  <Name>Open Skies</Name>
+  <ShortDescription>You are flying atop a copper dragon over Kista Forest.  100.n0.e23.s9.w0</ShortDescription>
+  <LongDescription>Far to the south there is an eery dark storm, which seems to be localized
+over a black castle.  Looking down, you can see the great oaken forest
+which stretches for vast distances in all directions.</LongDescription>
+  
+  <Established>772228534</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5072</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5120</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5045</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

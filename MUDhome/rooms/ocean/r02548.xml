@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2548" Version="2.40" Area="ocean">
+  <Name>Pearl Avenue</Name>
+  <ShortDescription>You are on Pearl Avenue, between the Grand Cathedral and the Town Hall. </ShortDescription>
+  <LongDescription>The Kista Town Hall is on the east side of the Avenue.  Although the
+true leaders of Kista hold offices in the Towers, There is a mayor and
+a council who handle the day-to-day business of running the city.  Kista
+is a very democratic city, and everyone can come to the Town Hall and be 
+heard, if they have an opinion. The Grand Catheral is west of you.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2036</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2030</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2561</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

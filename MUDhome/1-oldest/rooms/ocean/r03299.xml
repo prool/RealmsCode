@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3299" Version="2.40" Area="ocean">
+  <Name>Corner of the Magical Garden</Name>
+  
+  <Established>758605607</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3296</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3301</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

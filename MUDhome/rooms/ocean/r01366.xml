@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1366" Version="2.40a" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are walking down Hofton Avenue, in the northeastern section of town.</ShortDescription>
+  <LongDescription>Despite the heavy military presence in the area, the northeastern quadrant
+of town tends to be the rowdiest of them all.  Numerous nightclubs and
+bars line the streets, filled with officers and enlisted men after a long
+day at work. They tend not to be in very good moods.  You might think
+twice before entering any bar on this side of the town.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1365</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1367</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

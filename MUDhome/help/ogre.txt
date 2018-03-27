@@ -1,0 +1,20 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  Ogre         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Adjustments: +1 Strength, +2 Constitution, -1 Dexterity, -2 Intelligence
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf
+
+Ogres are ancient cousins of giants. They are big and very ugly, standing often
+between seven and eight feet tall. Tribes of ogres can be found in the mountains
+and sometimes in remote hilly areas. Ogres are very strong, a trait which they
+get from their relation to giants. They aren't very pious though, often caring
+more about when their next raid will be then anything else. Ogres make very good
+barbarians or fighters, and this is often what they become. Since they have a
+tendency to eat human flesh, they are not well tolerated by mankind. As a result
+they are often shunned by civilized areas.
+
+See in dark (infravision): No
+Size class: Large
+

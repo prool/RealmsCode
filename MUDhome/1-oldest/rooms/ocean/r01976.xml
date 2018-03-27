@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="1976" Version="2.40a" Area="ocean">
+  <Name>Ivanhouse Sporting Arena - Entrance</Name>
+  <ShortDescription>You are at the Main Entrance to the Ivanhouse Sporting Arena.</ShortDescription>
+  <LongDescription>At this point, you have a number of choices.  To the north, you may enter
+the Beginner's Circle.  Up to three gladiators may engage a single 
+opponent.  This area is exclusively for lower-level characters who have
+not quite mastered the art of gladiator fighting.  To the northeast is
+the Gladiator Pit, a small arena where you may challenge a human gladiator
+in one-on-one combat.  To the northwest is the Mul Pit, another small
+arena where you may challenge a mul gladiator, a human/dwarven half-breed,
+in hand-to-hand combat.  Again, this arena only permits one competitor
+at a time.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1975</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1977</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1978</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1979</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

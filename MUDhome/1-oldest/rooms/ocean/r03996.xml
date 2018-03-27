@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3996" Version="2.40" Area="ocean">
+  <Name>Glass Bubble</Name>
+  <ShortDescription>You are on a narrow ridge that spirals around inside a glass bubble.</ShortDescription>
+  <LongDescription>Toward the empty space of the center, there is a dull, reddish glow.
+The walls are smooth and warm to the touch.  If you slip, you may never 
+get your footing again.  Stay on the ridge.</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3995</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3997</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

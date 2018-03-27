@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3832" Version="2.40" Area="ocean">
+  <Name>Highwire</Name>
+  <ShortDescription>You are balancing on a tightrope, very high up, looking down at the tigers.</ShortDescription>
+  <LongDescription>The highwire is the only way to get between the main platform and the left
+platform.  It is quite dangerous, not only because of the long fall you
+would take if you fell, but also because of the beasts waiting below.
+Hopefully, you would not fall into the cage.  Very nasty beasts are kept
+there.</LongDescription>
+  <HighLevel>15</HighLevel>
+  <Trap>1</Trap>
+  <TrapExit Area="ocean">3828</TrapExit>
+  
+  <Established>765776483</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>left</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="left">
+      <Keys/>
+      <Room Area="ocean">3825</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="right">
+      <Keys/>
+      <Room Area="ocean">3824</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

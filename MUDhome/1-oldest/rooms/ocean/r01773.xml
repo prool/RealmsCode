@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1773" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, south of Chancellor's Hall.</ShortDescription>
+  <LongDescription>The large Chancellor's Hall building on the north side of the road covers
+much of this city block and has over one hundred separate lecture halls
+and classrooms.  Most of the classes are taught in the Chancellor's Hall
+building, but most of the research is done on the south side of the road
+in Tholian Hall or the Technological Research Facility.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1772</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1774</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

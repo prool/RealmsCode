@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="5051" Version="2.40" Area="ocean">
+  <Name>Skies Over Brownhaven</Name>
+  <ShortDescription>You are over the eastern part of Brownhaven village.  50.n0.e1.s1.w0</ShortDescription>
+  <LongDescription>There is a hot and arid region slightly to the south.  Geothermal activity
+has made the southern area a hellish place to exist.  Looking east or west
+however, shows a green and lush landscape.</LongDescription>
+  
+  <Established>772228644</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5008</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5083</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5058</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5050</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

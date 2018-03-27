@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1231" Version="2.40a" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are walking along Lankshire Parkway, north of Golden Dolphin Way.</ShortDescription>
+  <LongDescription>Lankshire Parkway intersects Golden Dolphin Way ahead to the south.  Golden
+Dolphin Way marks the southern border of Oceancrest.  You can see the 
+large City Walls looming in the background.  On the east side of the road
+are the various Oceancrest silos and grannaries, used to store the unused
+wheat and corn from the fields for the colder winter months.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1230</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1232</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

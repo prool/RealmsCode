@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="3156" Version="2.40" Area="ocean">
+  <Name>Sunken Pirate Ship</Name>
+  <ShortDescription>You are standing on the port side, near the stern, of the Snap Dragon.</ShortDescription>
+  <LongDescription>the strangest thing you notice about the Snap Dragon is that it appears
+to be a ship ready for action, with decks cleared and sails unfurled.
+It looks like the ship was sunk only a few minutes ago, yet you know the
+Oceancrest Navy did the dirty deed years ago.  Everything you can see
+is apparently in place and ready to use.  How odd.</LongDescription>
+  
+  <Established>756270901</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">376</Mob>
+      <Mob Area="ocean" Num="1">376</Mob>
+      <Mob Area="ocean" Num="2">380</Mob>
+      <Mob Area="ocean" Num="3">380</Mob>
+      <Mob Area="ocean" Num="4">375</Mob>
+      <Mob Area="ocean" Num="5">375</Mob>
+      <Mob Area="ocean" Num="6">381</Mob>
+      <Mob Area="ocean" Num="7">299</Mob>
+      <Mob Area="ocean" Num="8">379</Mob>
+      <Mob Area="ocean" Num="9">385</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>stern</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3157</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3153</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stern">
+      <Keys/>
+      <Room Area="ocean">3152</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

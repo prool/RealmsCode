@@ -1,0 +1,35 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  harm spell        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 30
+School:  Not Castable
+Domain:  Evil
+
+This spell allows a pure Aramon or Arachnus cleric to rip away about 90% of an
+opponent's life force, leaving them with only 1d10 hit points. A successful save
+vs death will cause this damage to only be 1/4 of total current hit points. This
+spell can only be cast 2x per day, and its success/failure is impacted by level
+difference of the caster and target.
+
+Syntax:
+cast harm <target>
+
+
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  harm         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+When a death knight reaches a high enough level, they are able to cause the dark
+energies which are within their soul to flow outward in an open attack on
+someone. This is an attack by touch, and thus those immune to non-magical
+attacks are unharmed by this, as are monsters requiring magical weapons to hit
+them. The damage done is based on the death knight's level. This ability also
+has daily, time, and alignment restrictions. The attack does not always succeed.
+
+Example:
+: harm win
+The darkness within you flows into the wino.
+You did 43 damage!
+You killed the wino.
+You gained 6 experience for the death of the wino.
+:

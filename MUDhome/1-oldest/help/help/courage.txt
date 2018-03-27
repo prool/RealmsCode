@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  courage spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 20
+School:  Enchantment
+Domain:  Other
+
+This spell imbues the target with an unnatural courage. As such, they are immune
+to magical fears of any kind. If already under magical fear, this spell will
+neutralize such fear. This spell is only able to be cast by paladins and clerics
+of a good or martial faith.
+
+Syntax:
+cast courgae <target>
+

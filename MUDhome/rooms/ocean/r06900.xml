@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<Room Num="6900" Version="2.41a" Area="ocean">
+  <Name>DM'S Cross Roads</Name>
+  <ShortDescription>You are in the Dungeonmaster's elite Cross Roads Room.</ShortDescription>
+  <LongDescription>From here the Dm's can go to just about any place in the Land of Mordor.</LongDescription>
+  
+  
+  
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>barbarians</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="brownhaven">
+      <Keys/>
+      <Room Area="ocean">2</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="kista">
+      <Keys/>
+      <Room Area="ocean">2052</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hafnia">
+      <Keys/>
+      <Room Area="ocean">946</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="uland">
+      <Keys/>
+      <Room Area="ocean">362</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gypsy's">
+      <Keys/>
+      <Room Area="ocean">872</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="necropolis">
+      <Keys/>
+      <Room Area="ocean">3312</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="sewer">
+      <Keys/>
+      <Room Area="ocean">240</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="aetelos">
+      <Keys/>
+      <Room Area="ocean">344</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="ocean">
+      <Keys/>
+      <Room Area="ocean">270</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="pits">
+      <Keys/>
+      <Room Area="ocean">1909</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="barn">
+      <Keys/>
+      <Room Area="ocean">3002</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="annetol">
+      <Keys/>
+      <Room Area="ocean">977</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="ragnar">
+      <Keys/>
+      <Room Area="ocean">3600</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="mondrake">
+      <Keys/>
+      <Room Area="ocean">979</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="citadel">
+      <Keys/>
+      <Room Area="ocean">774</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="avatar">
+      <Keys/>
+      <Room Area="ocean">275</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="cygnus">
+      <Keys/>
+      <Room Area="ocean">297</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="etolos">
+      <Keys/>
+      <Room Area="ocean">1550</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="barbarians">
+      <Keys/>
+      <Room Area="ocean">1837</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="enchanted_forest">
+      <Keys/>
+      <Room Area="ocean">1290</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="widow_maker">
+      <Keys/>
+      <Room Area="ocean">950</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="ogden_villa">
+      <Keys/>
+      <Room Area="ocean">3266</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="dragon's_claw">
+      <Keys/>
+      <Room Area="ocean">2258</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="public_storage">
+      <Keys/>
+      <Room Area="ocean">3759</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="werewolves">
+      <Keys/>
+      <Room Area="ocean">1993</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="dragon_tooth_inn">
+      <Keys/>
+      <Room Area="ocean">3722</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="roland's">
+      <Keys/>
+      <Room Area="ocean">308</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="rudolf's">
+      <Keys/>
+      <Room Area="ocean">1928</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="uland_temple">
+      <Keys/>
+      <Room Area="ocean">3882</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="rutger">
+      <Keys/>
+      <Room Area="ocean">5474</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

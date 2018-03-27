@@ -1,0 +1,6 @@
+Help on DM command:
+	DMLOAD / DMSAVE
+
+This command handles the loading and saving of mud configuration options.
+Type *dmload or *dmsave to view a list of available options.
+

@@ -1,0 +1,10 @@
+Help on:
+	DMGUILD
+
+Sends a message as if you were a member of the specified guild.
+
+Example:
+: dmguild seek Hey
+--- [Seekers of the Damned] Dominus guild sent, "Hey".
+:
+

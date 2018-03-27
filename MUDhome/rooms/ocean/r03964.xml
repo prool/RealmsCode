@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3964" Version="2.40" Area="ocean">
+  <Name>Llanandar Creek</Name>
+  <ShortDescription>You are walking along the bank of a sparkling little creek.</ShortDescription>
+  <LongDescription>Sparkling lights seem to pop all about you, and tiny wings flutter at your
+ear.  You can hear a tinkling little laughter and the sound of a musical
+instrument somewhere close by.  The great oaks make a ring around this
+meadow, bounded on the west by a wonderful little creek.  The path continues
+to the north and south.</LongDescription>
+  
+  <Established>770446585</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">121</Mob>
+      <Mob Area="ocean" Num="1">121</Mob>
+      <Mob Area="ocean" Num="2">121</Mob>
+      <Mob Area="ocean" Num="3">537</Mob>
+      <Mob Area="ocean" Num="4">537</Mob>
+      <Mob Area="ocean" Num="5">537</Mob>
+      <Mob Area="ocean" Num="6">51</Mob>
+      <Mob Area="ocean" Num="7">51</Mob>
+      <Mob Area="ocean" Num="8">60</Mob>
+      <Mob Area="ocean" Num="9">51</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3963</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3965</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

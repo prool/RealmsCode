@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3968" Version="2.40" Area="ocean">
+  <Name>Giant Oak Copse</Name>
+  <ShortDescription>You are in a copse of ancient and gnarled old oaks.  A meadow is to the west.</ShortDescription>
+  <LongDescription>these woods are cool and shady, and not much brush grows at the base of the
+giant oaks.  The path seems rather well taken care of, almost as if it had
+been swept.  There's not much in the way of dead brush, either.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3967</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3960</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

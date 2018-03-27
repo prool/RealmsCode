@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="3173" Version="2.40" Area="ocean">
+  <Name>Lost in the Respitial Sea</Name>
+  <ShortDescription>You are floating on the waves of a vast sea, hopelessly lost.</ShortDescription>
+  <LongDescription>As you practice your backstroke you wonder if you will ever see land again.
+there is certainly no way to tell which way you should be swimming, so for
+all you know you might be headed straight out to sea.  But you have to
+keep swimming, because there's nothing else to do.</LongDescription>
+  
+  <Established>756084820</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3172</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3174</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3168</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

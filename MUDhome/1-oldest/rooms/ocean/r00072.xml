@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="72" Version="2.40" Area="ocean">
+  <Name>Under South Bridge</Name>
+  <ShortDescription>You are under the South Bridge spanning the Baldywyne.</ShortDescription>
+  <LongDescription>A wooden shack takes up most of the available space, going nearly to
+the water's edge.  there is a path leading south to the other side of
+the bridge, but you almost have to walk in the water to go that way.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">71</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">59</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

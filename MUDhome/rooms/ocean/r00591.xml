@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="591" Version="2.47i" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are walking along Rosecrest Street, west of the Sleepy Traveler Inn.</ShortDescription>
+  <LongDescription>The Sleepy Traveler Inn is a small residence for long-term visitors to
+Oceancrest.  The accomodations are less comfortable than in the Evenborough
+Inn, but made primarily for people who plan to stay for weeks or months
+at a time.  On the west side of the road is the Evenborough Stables, where
+visitors may leave their horses while visiting Oceancrest.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>north</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">679</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">592</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

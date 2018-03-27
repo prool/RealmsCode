@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<Room Num="2913" Version="2.40" Area="ocean">
+  <Name>Tiamat's Lair</Name>
+  <ShortDescription>You are in the lair of the great Chromatic Dragon, Tiamat.</ShortDescription>
+  <LongDescription>If Tiamat is here, chances are you won't be around much longer.  The
+powerful dragon is the root of all of the evil dragons, and can summon
+them at will.  Each of Tiamat's five heads is capable of attacking 
+simultaneously, in addition to her massive body, using her tail to
+attack with deadly force.  Tiamat guards the entrance to the second
+level of Hell, Dis.</LongDescription>
+  
+  <Established>728113916</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">56</Mob>
+      <Mob Area="ocean" Num="1">58</Mob>
+      <Mob Area="ocean" Num="2">59</Mob>
+      <Mob Area="ocean" Num="3">92</Mob>
+      <Mob Area="ocean" Num="4">93</Mob>
+      <Mob Area="ocean" Num="5">93</Mob>
+      <Mob Area="ocean" Num="6">92</Mob>
+      <Mob Area="ocean" Num="7">59</Mob>
+      <Mob Area="ocean" Num="8">58</Mob>
+      <Mob Area="ocean" Num="9">56</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>43200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">97</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>43200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">98</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>43200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">99</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>43200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">100</Misc>
+    </LastTime>
+    <LastTime Num="4">
+      <Interval>43200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">101</Misc>
+    </LastTime>
+    <LastTime Num="5">
+      <Interval>43200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">102</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2914</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">2926</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

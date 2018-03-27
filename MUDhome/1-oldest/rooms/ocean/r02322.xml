@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="2322" Version="2.40" Area="ocean">
+  <Name>Cargo Hold</Name>
+  <ShortDescription>You are in the cargo hold of the Widow Maker.</ShortDescription>
+  <LongDescription>Pirates don't really carry cargo, but instead use this area to store
+the loot they get from other ships.  The sick bay is south, toward the
+stern, while the chief bosun has his quarters toward the bow.  A locked
+door has the word "brig" crudely painted on it, and the rest of the hold
+is filled with chests and barrels.  One keg has a candle sputtering on it.</LongDescription>
+  
+  <Established>755686320</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">969</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2321</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1345</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="brig">
+      <Keys/>
+      <Room Area="ocean">1344</Room>
+      <Key>39</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

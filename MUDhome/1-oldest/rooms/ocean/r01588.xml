@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1588" Version="2.40a" Area="ocean">
+  <Name>Trees Above Etolos</Name>
+  <ShortDescription>You are high above the ground, in the trees overlooking Etolos.</ShortDescription>
+  <LongDescription>This is a rather common place for the higher level druids to meditate
+and take in all that nature has to offer.  The druids take care of nature
+and in turn, nature takes care of them.  The trees around the inner 
+circle of Etolos are very tall and strong, being able to support many
+people on their limbs.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">183</Mob>
+      <Mob Area="ocean" Num="1">183</Mob>
+      <Mob Area="ocean" Num="2">183</Mob>
+      <Mob Area="ocean" Num="3">183</Mob>
+      <Mob Area="ocean" Num="4">180</Mob>
+      <Mob Area="ocean" Num="5">181</Mob>
+      <Mob Area="ocean" Num="6">181</Mob>
+      <Mob Area="ocean" Num="7">180</Mob>
+      <Mob Area="ocean" Num="8">183</Mob>
+      <Mob Area="ocean" Num="9">183</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1587</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1589</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

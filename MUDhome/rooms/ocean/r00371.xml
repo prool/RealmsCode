@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="371" Version="2.40" Area="ocean">
+  <Name>Cemetery Gate</Name>
+  <ShortDescription>You are at a cross roads in the jungle, near a rusty cemetery gate.</ShortDescription>
+  <LongDescription>The gate hangs at an odd angle, and looks as though the next strong breeze
+will knock it down completely.  The cemetery behind the overgrown fence
+has not had any care in a long time.  The road here continues to the east
+and the west.  The smell of salt air comes from the east, and it sounds
+like surf in that direction.</LongDescription>
+  
+  <Established>761262456</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">372</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">373</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">370</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

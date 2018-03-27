@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="521" Area="ocean" Version="2.40">
+  <Name>two-handed scythe</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>60</ShotsMax>
+  <ShotsCur>60</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>3</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">600</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">scythe</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>the scythe can cut a mule in half when properly wielded.</Description>
+  <Weight>7</Weight>
+  <Type>5</Type>
+  <SubType>polearm</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

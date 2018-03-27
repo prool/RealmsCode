@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="2602" Version="2.40" Area="ocean">
+  <Name>Hedge Row</Name>
+  <ShortDescription>You are in between long rows of hedges, which seem to form a maze.</ShortDescription>
+  <LongDescription>The hedges have been cut and shaped into animals and symbols by the
+gardners who work here.  Perhaps if you note the shapes carefully,
+or drop something, you can map your way out of here.</LongDescription>
+  
+  <Established>788952603</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2594</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2601</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2601</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2600</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

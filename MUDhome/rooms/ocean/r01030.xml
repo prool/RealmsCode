@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1030" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane/Oceanview Drive Intersection</Name>
+  <ShortDescription>You are at the junction of Netherworld Lane and Oceanview Drive.</ShortDescription>
+  <LongDescription>Netherworld Lane heads east from this point and proceeds all the way
+to the east side of town.  The road gets its name by passing on the
+north side of the Necropolis, towards the center of town.  Oceanview
+Drive is a more scenic route with less traffic for those who want to
+enjoy the many pleasures the city has to offer.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1129</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1031</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

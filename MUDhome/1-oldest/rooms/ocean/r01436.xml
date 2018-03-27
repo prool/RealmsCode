@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1436" Version="2.40" Area="ocean">
+  <Name>Prison Cell</Name>
+  <ShortDescription>You are locked inside a prison cell somewhere inside the palace.</ShortDescription>
+  <LongDescription>The palace likes to keep unwanted vagrants away from their honored 
+guests.  This is the place most of them go.  You see a number of
+prisoners in the cells around you.  You've heard, however, that there
+is a much darker dungeon somewhere below you.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">158</Mob>
+      <Mob Area="ocean" Num="1">158</Mob>
+      <Mob Area="ocean" Num="2">158</Mob>
+      <Mob Area="ocean" Num="3">157</Mob>
+      <Mob Area="ocean" Num="4">157</Mob>
+      <Mob Area="ocean" Num="5">157</Mob>
+      <Mob Area="ocean" Num="6">158</Mob>
+      <Mob Area="ocean" Num="7">157</Mob>
+      <Mob Area="ocean" Num="8">157</Mob>
+      <Mob Area="ocean" Num="9">157</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>crawlspace</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="crawlspace">
+      <Keys/>
+      <Room Area="ocean">1435</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

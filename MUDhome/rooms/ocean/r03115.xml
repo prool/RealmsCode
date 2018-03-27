@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3115" Version="2.40" Area="ocean">
+  <Name>The Crypt of Sorrow</Name>
+  <ShortDescription>You are standing in the hidden underground crypt of Sorrow, the dark
+elf assassin.</ShortDescription>
+  <LongDescription>A cloaked black marble statue of the famed dark elf Sorrow, stands
+in the centre of the crypt holding</LongDescription>
+  
+  <Established>771115186</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3114</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="panel">
+      <Keys/>
+      <Room Area="ocean">3116</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

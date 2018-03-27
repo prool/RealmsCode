@@ -1,0 +1,33 @@
+Size
+
+You can set size on objects, creatures, exits, and rooms.
+Syntax:
+	*set o [object] size medium
+	*set c [creature] size medium
+	*set r size medium
+	*set xsize [exit] medium
+
+Size		Example
+------		---------
+  fine		  fly
+  diminutive	  toad
+  tiny		  cat
+  small		  halfling
+  medium	  human
+  large		  ogre / horse
+  huge		  cloud giant / bulette
+  gargantuan	  kraken
+  colossal	  great red dragon
+
+You must be logged in to see this picture:
+http://img.rohonline.net/img/builder/sizes.jpg
+
+
+Effects
+-------
+For rooms and exits, if the creature is too large, they will not fit.
+
+For objects (ie, weapons and armor), the size of the item will affect the
+   ability of the creature to use it based on relative size. The details
+   of this have not yet been determined.
+

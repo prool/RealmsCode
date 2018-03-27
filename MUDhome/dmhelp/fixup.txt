@@ -1,0 +1,11 @@
+Help on: *fixup
+
+This command allows you to make multiple word exits in
+rooms. You must first make them with underscores. For
+example, if you want to make an "iron door" exit, you
+must first make it "iron_door". Then after that you may
+use *fixup to remove the underscores. Be sure to set any
+exit flags (*dmh xflags) before you use *fixup. If you
+forget any, you may use *unfixup to return the underscores.
+
+Syntax: *fixup (underscored exit name)

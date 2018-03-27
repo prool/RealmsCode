@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="3765" Version="2.40" Area="ocean">
+  <Name>Lyanden Lighthouse Base</Name>
+  <ShortDescription>You are at the base of the Lyanden Lighthouse, and see no apparent entry.</ShortDescription>
+  <LongDescription>An intense magical light comes from the top of the tower about twelve
+meters overhead, almost blindingly bright even in the daytime.  The base
+of the tower is smooth and seamless, with no apparent entry.  The tower
+also appears to be larger at the top than at the base, like it was
+inverted.  The surface is almost slick, and provides no handholds,
+making it impossible to climb.  (But why would you want to?)</LongDescription>
+  
+  <Established>766110042</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3799</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

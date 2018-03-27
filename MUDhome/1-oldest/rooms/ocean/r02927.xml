@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="2927" Version="2.40" Area="ocean">
+  <Name>Swampy Path Through the Forest</Name>
+  <ShortDescription>You are walking on a slightly muddy path with swampy water on both sides.</ShortDescription>
+  <LongDescription>The path is the only clear way through the swamp, but it's not very
+pleasant.  Moss hangs from the branches, and you have to continually
+push it out of your way.  Water snakes slide away as you make your way
+along the path, and water spiders glare menacingly at you.  The brush
+is so thick you can't see very far in any direction.</LongDescription>
+  
+  <Established>759013337</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">427</Mob>
+      <Mob Area="ocean" Num="1">473</Mob>
+      <Mob Area="ocean" Num="2">473</Mob>
+      <Mob Area="ocean" Num="3">473</Mob>
+      <Mob Area="ocean" Num="4">427</Mob>
+      <Mob Area="ocean" Num="5">473</Mob>
+      <Mob Area="ocean" Num="6">473</Mob>
+      <Mob Area="ocean" Num="7">427</Mob>
+      <Mob Area="ocean" Num="8">473</Mob>
+      <Mob Area="ocean" Num="9">473</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2928</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2149</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

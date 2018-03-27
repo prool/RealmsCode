@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  resist-air spell     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 13
+School:  Abjuration
+Domain:  Protection
+
+This spell halves all magical spell damage from the air realm. An intangible
+shield of air forms around the target, attempting to nullify and offensive magic
+that comes toward it and the target. Note that only magic from the realm of air
+is affected.
+
+See "help resist" for more information.
+
+Syntax:
+cast resist-air <target>

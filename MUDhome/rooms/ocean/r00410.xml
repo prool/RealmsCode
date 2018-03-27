@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="410" Version="2.40" Area="ocean">
+  <Name>Evenborough Way/Nissiau Lane Intersection</Name>
+  <ShortDescription>You are at the intersection of Nissiau Lane and Evenborough Way.</ShortDescription>
+  <LongDescription>Nissiau Lane runs west from here, through a number of small shops on
+both sides of the road.  The northwestern section of town is known for
+its great selection of shops and facilities, and Nissiau Lane runs
+between most of them.  Evenborough Way continues to the north and south
+from here.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">409</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">411</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">484</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="1566" Version="2.40" Area="ocean">
+  <Name>Middle Circle of Etolos</Name>
+  <ShortDescription>You are travelling around the middle path circling Etolos.</ShortDescription>
+  <LongDescription>You notice that this area of the dense forest is beginning to thin out
+a little the further east you go.  You can see a small brook bringing
+water out from the northwest.  To the southeast, you can see a number
+of druids farming a small garden.  The brook appears to act as an
+irrigation ditch, bringing water to the otherwise dry ground.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">177</Mob>
+      <Mob Area="ocean" Num="1">177</Mob>
+      <Mob Area="ocean" Num="2">178</Mob>
+      <Mob Area="ocean" Num="3">177</Mob>
+      <Mob Area="ocean" Num="4">177</Mob>
+      <Mob Area="ocean" Num="5">178</Mob>
+      <Mob Area="ocean" Num="6">178</Mob>
+      <Mob Area="ocean" Num="7">177</Mob>
+      <Mob Area="ocean" Num="8">179</Mob>
+      <Mob Area="ocean" Num="9">179</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1565</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1563</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1573</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

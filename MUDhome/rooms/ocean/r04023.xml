@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="4023" Version="2.41a" Area="ocean">
+  <Name>Golgoth Mountain Path</Name>
+  <ShortDescription>You continue walking along the western side of the mountain.</ShortDescription>
+  <LongDescription>The trail is a soft earth and easily imprinted, but even so, whatever made
+the footprints you see must be very heavy.  A short distance along the
+path the footprints lead away from it.  Although man-sized, the markings
+indicate that the creature which made them has only two large toes.  If
+you look in the direction of the tracks you see the entrance to a cave
+which was previously obscured by trees.</LongDescription>
+  
+  
+  
+  <Established>771875901</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4022</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="cave">
+      <Keys/>
+      <Room Area="ocean">4024</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4026</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

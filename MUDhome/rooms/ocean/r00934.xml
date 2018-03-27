@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="934" Version="2.40" Area="ocean">
+  <Name>Hafnia Armory</Name>
+  <ShortDescription>You are in the Hafnia main armory.</ShortDescription>
+  <LongDescription>This is where you come when you want armor of the best quality.  The
+elves make the best armor in the world, but it does not come cheap.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="11"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">944</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

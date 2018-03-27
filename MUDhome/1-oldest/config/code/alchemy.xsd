@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Alchemy">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="AlchemyInfo"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AlchemyInfo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Name"/>
+        <xs:element ref="Positive"/>
+        <xs:element ref="Action"/>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element ref="PotionPrefix"/>
+          <xs:element ref="PythonScript"/>
+          <xs:element ref="Throwable"/>
+        </xs:choice>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Name" type="xs:NCName"/>
+  <xs:element name="Positive" type="xs:NCName"/>
+  <xs:element name="Action" type="xs:NCName"/>
+  <xs:element name="PotionPrefix" type="xs:NCName"/>
+  <xs:element name="PythonScript" type="xs:string"/>
+  <xs:element name="Throwable" type="xs:NCName"/>
+</xs:schema>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1930" Version="2.40" Area="ocean">
+  <Name>The Blue Training Room</Name>
+  <ShortDescription>Now that you have defeated the Blue Warrior, you are worthy of training.</ShortDescription>
+  <LongDescription>This is the training location for the Warrior Class.  If you have the
+money to train, you may do so now.  If you do not have the money, you  
+will have to come back at a later time and defeat the Blue Warrior again.
+The training academy cannot afford to train people for free.</LongDescription>
+  <LowLevel>3</LowLevel>
+  <HighLevel>3</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1928</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

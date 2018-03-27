@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="888" Version="2.40" Area="ocean">
+  <Name>Grape Picker's Shacks</Name>
+  <ShortDescription>You are in the center of a group of shacks in the Chateau Richland Orchard.</ShortDescription>
+  <LongDescription>The shacks are well cared for, but they are still just shacks.  A small
+pond of water lies to the west and you can see a number of very ugly
+children playing there.  A large barn is to the north, and you can see
+a few people working in there.  The grape vines cover a vast area behind
+the barn and past the pond.</LongDescription>
+  
+  <Established>755894679</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">398</Mob>
+      <Mob Area="ocean" Num="1">398</Mob>
+      <Mob Area="ocean" Num="2">398</Mob>
+      <Mob Area="ocean" Num="3">399</Mob>
+      <Mob Area="ocean" Num="4">452</Mob>
+      <Mob Area="ocean" Num="5">452</Mob>
+      <Mob Area="ocean" Num="6">452</Mob>
+      <Mob Area="ocean" Num="7">453</Mob>
+      <Mob Area="ocean" Num="8">452</Mob>
+      <Mob Area="ocean" Num="9">453</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">890</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3268" Version="2.40" Area="ocean">
+  <Name>Front Entrance</Name>
+  <ShortDescription>You are at the front entrance to the Ogden Villa family home.</ShortDescription>
+  <LongDescription>The Ogden family is not royalty, but because they have so much money the
+members of the Lyanden court consider very carefully any requests that come
+from them.  Not only are the family members rich, but they like to show it
+off as well.  This estate is a good example of that.</LongDescription>
+  
+  <Established>756161191</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3267</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3269</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3289</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

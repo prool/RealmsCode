@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="389" Area="ocean" Version="2.40">
+  <Name>shark skin leather armor</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>120</ShotsMax>
+  <ShotsCur>120</ShotsCur>
+  <Armor>52</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1250</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">skin</Key>
+    <Key Num="1">leather</Key>
+    <Key Num="2">armor</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="19"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Description>You find some thick, shark skin leather armor from a very large shark.</Description>
+  <Weight>5</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

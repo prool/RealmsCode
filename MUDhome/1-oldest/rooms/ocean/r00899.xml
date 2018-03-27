@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="899" Version="2.40" Area="ocean">
+  <Name>Hafnia Post Office</Name>
+  <ShortDescription>You are in the Hafnia Post Office.</ShortDescription>
+  <LongDescription>You can send and receive mail from here to any other post office
+in Mordor.  It's nice to have a modern postal system that works.
+There are several "wanted" posters on the bulletin board.  Is your
+name there?</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">947</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

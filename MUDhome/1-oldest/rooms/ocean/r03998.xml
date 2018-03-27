@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3998" Version="2.40" Area="ocean">
+  <Name>Glass Bubble</Name>
+  <ShortDescription>You are inside a glass bubble, clinging to smooth, warm walls.</ShortDescription>
+  <LongDescription>The ledge you are traveling on is quite narrow, and it seems to rise and
+widen as it circles around the interior. There is a red light near the
+center of the bubble, or at least something red out there. It seems to be
+turning as you make your way around the inside of this place.</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3997</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3999</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

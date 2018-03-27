@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="3759" Version="2.41a" Area="ocean">
+  <Name>Eiden Public Storage Office</Name>
+  <ShortDescription>You are in the office of the Eiden Public Storage Facilities.</ShortDescription>
+  <LongDescription>This office is also a post office.  You may send mail to Styx if you wish to
+purchase a storage room.  The cost is $50k.  You receive a key to a locked
+room and one storage chest which will hold 50 items.  Additional chests cost
+$50k each, with a maximum of eight chests.  Additional keys cost $2k each.
+the room is a one-player room, and is also a fast heal room.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2300</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

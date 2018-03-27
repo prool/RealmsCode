@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3678" Version="2.40" Area="ocean">
+  <Name>Thieve's Passage</Name>
+  <ShortDescription>You are in a cramped little crawlway known as thieve's passage.</ShortDescription>
+  <LongDescription>The passageway is so narrow that only one person at a time can crawl
+through it.  Of course, several rats can travel through here together.
+The sound of a rusty, squeaking hinge is louder to the west, but the
+sound can only be heard occasionly.  You may have to lie on your back
+to get through the next section to the west.</LongDescription>
+  
+  <Established>765425807</Established>
+  <Flags>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3677</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3679</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

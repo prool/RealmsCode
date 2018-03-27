@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1649" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive, just north of the City Walls.</ShortDescription>
+  <LongDescription>You are just north of Golden Dolphin Way, the road which marks the southern
+boundary of the city.  The large City Walls protect the people from 
+invading forces, but also help in law enforcement, as it is very hard, if
+not impossible to scale the walls from either side without being 
+noticed from a distance.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1648</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1650</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="120" Area="ocean" Version="2.40">
+  <Name>mountain boots</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>25</ShotsMax>
+  <ShotsCur>25</ShotsCur>
+  <Armor>4</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">60</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">mountain</Key>
+    <Key Num="1">boots</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="16"/>
+  </Flags>
+  <Description>You see a pair of boots, ruggedly designed for mountain climbing.</Description>
+  <Weight>2</Weight>
+  <Type>6</Type>
+  <WearFlag>8</WearFlag>
+  <InBag/>
+</Object>

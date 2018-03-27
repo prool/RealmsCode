@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<Creature Num="50" Area="ocean" Version="2.40">
+  <Name>grinning demon</Name>
+  <Level>11</Level>
+  <Type>1</Type>
+  <Experience>450</Experience>
+  <Coins>
+    <Coin Num="2">500</Coin>
+  </Coins>
+  <Alignment>-200</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>190</Current>
+      <Max>190</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>160</Current>
+      <Max>160</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>110</Current>
+      <Max>110</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>120</Current>
+      <Max>120</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>130</Current>
+      <Max>130</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>135</Current>
+      <Max>135</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>12</Current>
+      <Max>12</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>The demon has an evil grin etched in its blackened face.</Description>
+  <Keys>
+    <Key Num="0">demon</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>250</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>3</Number>
+    <Sides>1</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>You have certainly come to grant me your soul.</Talk>
+  <DefenseSkill>105</DefenseSkill>
+  <AttackPower>190</AttackPower>
+  <WeaponSkill>105</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">88</Carry>
+    <Carry Area="ocean" Num="1">88</Carry>
+    <Carry Area="ocean" Num="2">88</Carry>
+    <Carry Area="ocean" Num="3">88</Carry>
+    <Carry Area="ocean" Num="4">88</Carry>
+    <Carry Area="ocean" Num="5">88</Carry>
+    <Carry Area="ocean" Num="6">88</Carry>
+    <Carry Area="ocean" Num="7">88</Carry>
+    <Carry Area="ocean" Num="8">88</Carry>
+    <Carry Area="ocean" Num="9">88</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects/>
+  <SpecialAttacks/>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells>
+    <Bit Num="1"/>
+    <Bit Num="6"/>
+  </Spells>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="12"/>
+    <Bit Num="15"/>
+    <Bit Num="17"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

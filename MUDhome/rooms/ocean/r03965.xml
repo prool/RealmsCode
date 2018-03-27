@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3965" Version="2.40" Area="ocean">
+  <Name>Llanandar Creek</Name>
+  <ShortDescription>You are not far from the creek's banks, walking through tall grass.</ShortDescription>
+  <LongDescription>The Enchanted Forest is home to many races and animals, some rare, and some
+very common, although it seems the common animals often have extraordinary
+talents.  Even the trees around this lovely meadow somehow seem alive and
+watchful as you make your way along the path.</LongDescription>
+  
+  <Established>770779420</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3964</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3966</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

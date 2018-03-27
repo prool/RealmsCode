@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="612" Area="ocean" Version="2.40">
+  <Name>bag of holding</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>9</ShotsMax>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">8000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">holding</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="7"/>
+    <Bit Num="9"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>Several objects can be put inside this bag.</Description>
+  <Weight>3</Weight>
+  <Type>14</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

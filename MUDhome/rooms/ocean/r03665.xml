@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3665" Version="2.40" Area="ocean">
+  <Name>Old Tunnel</Name>
+  <ShortDescription>You are in an abandoned section of the tunnels below the castle.</ShortDescription>
+  <LongDescription>Several great oaken doors are wedged tightly shut on the west side of
+the tunnel.  The entry to the first one is overgrown with a gelatinous
+slime that seems to quiver as you get closer.  A number of skeleton
+bones lie just below it, and several rusted pieces of armor lie on the
+tunnel floor.  Further south you hear the trickling sound of water.</LongDescription>
+  
+  <Established>765134276</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>300</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">721</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3664</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3666</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

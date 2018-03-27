@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="290" Version="2.40" Area="ocean">
+  <Name>Holy Order of the Red Rose</Name>
+  <ShortDescription>You are in a holy shrine for paladins.  Please bow your head.</ShortDescription>
+  <LongDescription>The paladin represents living truth and goodness, and dedicates his person
+to the elimination of evil in the world.  However, at each step in his
+advancement, he must be tested to see that he has remained pure of heart,
+thought and deed.  To that end, high level paladins often come here and
+voulnteer to serve as mentors for newly advancing members of their holy
+order.  Do not enter the training areas if you are not ready.</LongDescription>
+  
+  <Established>766561731</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">751</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="advanced door">
+      <Keys/>
+      <Room Area="ocean">307</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="green door">
+      <Keys/>
+      <Room Area="ocean">3742</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="red door">
+      <Keys/>
+      <Room Area="ocean">3744</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="white door">
+      <Keys/>
+      <Room Area="ocean">3746</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

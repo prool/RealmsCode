@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="698" Area="ocean" Version="2.40">
+  <Name>mace of harmonic oblivion</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>250</ShotsMax>
+  <ShotsCur>250</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>4</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">harmonic</Key>
+    <Key Num="1">oblivion</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Description>You see a shimmering mace which seems to focus all ambient sound.</Description>
+  <UseOutput>A sonic shockwave flattens both friend and foe to the ground.</UseOutput>
+  <Weight>8</Weight>
+  <Type>5</Type>
+  <SubType>mace</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

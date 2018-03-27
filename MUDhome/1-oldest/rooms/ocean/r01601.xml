@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1601" Version="2.41a" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along Overland Drive, south of the Necropolis.</ShortDescription>
+  <LongDescription>The large Necropolis on the north is guarded by a wall of cast-iron bars
+that prevent looters and other grave robbers from entering the Necropolis
+at night and defiling the gravesites.  On the south, you can see the 
+mysterious Mausoleum on the Allisk Manor grounds.  This is rumored to
+be Natasha's final resting location.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1600</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1602</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

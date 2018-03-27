@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5466" Version="2.40" Area="ocean">
+  <Name>Rutger Castle Road</Name>
+  <ShortDescription>You are in a shallow ravine below a north-south mountain ridge.  The road</ShortDescription>
+  <LongDescription>rises in both directions from here.  To the northwest, you can see a building
+beside the wide road, and to the southeast you see the bottom of a series of
+winding switchbacks leading to the mountain fortress of Prince Rutger.  The
+fortress itself is high on the side of the mountian.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5465</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5467</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

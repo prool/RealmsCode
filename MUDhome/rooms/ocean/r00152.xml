@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="152" Version="2.40" Area="ocean">
+  <Name>Poor Alley</Name>
+  <ShortDescription>Poor Alley twists and turns as it runs north to south.</ShortDescription>
+  <LongDescription>This place doesn't smell very good, and you are constantly being pulled
+at by grubby and dirty hands.  Beggers plead for money, and sneakthieves
+look you over to see where you purse might be.  If you had a serious
+fight here, there's not much room, and who knows how many of them might
+decide to gang together against you?  There seems to be some action to
+the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">3</Mob>
+      <Mob Area="ocean" Num="3">2</Mob>
+      <Mob Area="ocean" Num="4">5</Mob>
+      <Mob Area="ocean" Num="5">7</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">7</Mob>
+      <Mob Area="ocean" Num="9">7</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">147</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">157</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">151</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

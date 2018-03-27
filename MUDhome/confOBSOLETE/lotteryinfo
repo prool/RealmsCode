@@ -1,0 +1,6 @@
+Help on: lotteryinfo
+        
+This command will show you all information about
+the current lottery cycle. This includes the numbers
+which were drawn, the time of the next drawing, and
+the current jackpot.

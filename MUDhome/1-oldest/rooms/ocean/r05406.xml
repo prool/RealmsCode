@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5406" Version="2.40" Area="ocean">
+  <Name>Forest Road</Name>
+  <ShortDescription>You are on Forest Road, which runs south to Lyanden Road, and north to
+the ancient burial grounds of imps, gnomes and leprachauns.</ShortDescription>
+  <LongDescription>A small stream is flowing across the road, and a footbridge crosses
+over it.  A sign is on the other side, but you cannot read it from here.
+You can hear an odd noise underneath the wooden structure, sort of a
+snapping sound.  A good forest path is to the northeast.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5405</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1287</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

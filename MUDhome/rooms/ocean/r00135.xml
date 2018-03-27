@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="135" Version="2.40" Area="ocean">
+  <Name>Caledonia Road/East Ulandia</Name>
+  <ShortDescription>This is the intersection of Caledonia Road and East Ulandia.</ShortDescription>
+  <LongDescription>Caledonia Road crosses a bridge going west, and East Ulandia runs north
+and south parallel to the river.  On the northeast corner there are a
+great many tents and temporary booths set up in a great outdoor fair.
+There are certainly a lot of people wandering around looking at things
+over there.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">130</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">140</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">136</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">49</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

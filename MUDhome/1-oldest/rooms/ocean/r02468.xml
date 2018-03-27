@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="2468" Version="2.40" Area="ocean">
+  <Name>Riverdell Shrubbery</Name>
+  <ShortDescription>You feel funny as you crawl under one of the dense shrubberies.</ShortDescription>
+  <LongDescription>Nevertheless, you have found another training location.  Your tracking
+skills have improved and you are ready to advance to the next level.  If
+your goal is to train, enter the hole in the ground.  If you wish to leave
+the park, go out.  If you wish to continue in the park, you must track
+out of this room.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="18"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="hole">
+      <Keys/>
+      <Room Area="ocean">2469</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1935</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2448</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

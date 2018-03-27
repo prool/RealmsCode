@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="5137" Version="2.40" Area="ocean">
+  <Name>Castle Kayleigh Library</Name>
+  <ShortDescription>You are in the castle's library, which is filled with smoke damaged books.</ShortDescription>
+  <LongDescription>From what you have seen, the fire raged throughout the hallways, but never
+in this room.  The ceiling fell in, making it difficult to move around in
+here, and the smoke covered everything with soot, but the tomes and books
+are still mostly undamaged on their shelves.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5133</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="apothecary">
+      <Keys/>
+      <Room Area="ocean">5084</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

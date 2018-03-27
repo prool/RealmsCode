@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="705" Version="2.40a" Area="ocean">
+  <Name>Hillborough Way</Name>
+  <ShortDescription>You are walking along Hillborough Way between the two Knightly Orders.</ShortDescription>
+  <LongDescription>The Holy (Knightly) Order of the White Cross, on the north side of the
+road, is the epitome of goodness in the world, while the Holy (Knightly)
+Order of the Black Cross, on the south side of the road, is the epitome 
+of evil and despair in the world.  Paladins must be able to face ultimate
+evil in order to obtain a higher ranking in the paladin hierarchy.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">704</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">652</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

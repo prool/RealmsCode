@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3475" Version="2.40" Area="ocean">
+  <Name>The Lyanden Tomb</Name>
+  
+  <Established>760095056</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3474</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3476</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

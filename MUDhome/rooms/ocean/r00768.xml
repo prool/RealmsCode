@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="768" Version="2.40" Area="ocean">
+  <Name>Oceancrest Avenue</Name>
+  <ShortDescription>You are on Oceancrest Avenue, just south of the Kobiyo Observatory.</ShortDescription>
+  <LongDescription>The Kobiyo Observatory is a large building in the Wakarimasu Park dedicated
+to examining the stars and other celestial bodies in space.  The Observatory
+is an extension of the Iilandi University, located to the south.  On the
+south side of the road is the Iilandi University Visitor's Center and the
+Recreational Facilities.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">767</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">769</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

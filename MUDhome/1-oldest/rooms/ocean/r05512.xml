@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5512" Version="2.40" Area="ocean">
+  <Name>Hafnia Circle</Name>
+  <ShortDescription>This is the eastern side of the circular drive around Hafnia.</ShortDescription>
+  <LongDescription>On the east side of the road is the Hafnia Public Library, a depository
+of much of the history and lore of the elven culture.  You probably can
+learn the entire story of how the war between the mountain trolls and the
+elves got started, and the outcome of it, if you are willing to do the
+research.  The library is open twentyfour hours a day.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5509</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5513</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

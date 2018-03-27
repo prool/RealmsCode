@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="2572" Version="2.40" Area="ocean">
+  <Name>Third Station of the Oracle</Name>
+  <ShortDescription>This is the third station of Veratus, the Oracle.</ShortDescription>
+  <LongDescription>Candles and burning incense are set into niches in the wall, and a small
+fountain of water cascades down the tiled wall on the other side.  If you
+have reached this place and Veratus is still here, in the form of an owl, 
+then you have gained her interest in your quest.  Once you enter her 
+chambers, you will see her in her true form.</LongDescription>
+  
+  <Established>788742859</Established>
+  <Flags>
+    <Bit Num="16"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">742</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">743</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">747</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2576</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2573</Room>
+      <Key>88</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

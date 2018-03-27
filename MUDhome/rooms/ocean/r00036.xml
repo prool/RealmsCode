@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="36" Version="2.40" Area="ocean">
+  <Name>Brownhaven Central Library</Name>
+  <ShortDescription>This is Brownhaven's very own library, full of books on almost every topic.</ShortDescription>
+  <LongDescription>The library is known for miles around because of its collection of magical
+tomes and detailed books on combat, armor and weapons.  A short librarian
+eyes you suspiciously as you walk among the shelves of books.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">46</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">191</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

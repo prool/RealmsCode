@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="3730" Version="2.40" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>You are at the northern end of a hallway on the second floor of the inn.</ShortDescription>
+  <LongDescription>No light comes from the only room opening onto this part of the hallway.
+Strange that the door should be slightly open if no one is in there.  At
+one time, long ago, the previous owner of the Dragon Tooth Inn was a member
+of an anti-royalist group of terrorists.  He kept a room reserved just for
+visiting members of the royal family, but unknown to them it had a secret
+passage which allowed terrorists to murder the occupants.  Now there is a
+rumor that the ghost of a Viscount keeps a room here, waiting for revenge.</LongDescription>
+  
+  <Established>764462424</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">45</Mob>
+      <Mob Area="ocean" Num="1">45</Mob>
+      <Mob Area="ocean" Num="2">45</Mob>
+      <Mob Area="ocean" Num="3">45</Mob>
+      <Mob Area="ocean" Num="4">45</Mob>
+      <Mob Area="ocean" Num="5">45</Mob>
+      <Mob Area="ocean" Num="6">45</Mob>
+      <Mob Area="ocean" Num="7">45</Mob>
+      <Mob Area="ocean" Num="8">45</Mob>
+      <Mob Area="ocean" Num="9">45</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3729</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3731</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

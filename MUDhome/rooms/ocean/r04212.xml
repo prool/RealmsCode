@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="4212" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>The great hallway completely encircles the main courtyard of the castle.</ShortDescription>
+  <LongDescription>The wooden door you see on the outside wall looks well used.  It probably
+does not go directly out of the castle, but since the castle wall is so
+wide at the ground level it might go someplace within the wall itself.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4211</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4213</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4254</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

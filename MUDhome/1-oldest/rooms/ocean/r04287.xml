@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="4287" Version="2.40a" Area="ocean">
+  <Name>Top of the Royal Stairway</Name>
+  <ShortDescription>You are at the top of Rutger's private stairway in the Tower Castle.</ShortDescription>
+  <LongDescription>Several doors are open which apparently lead to the family quarters of
+the Prince.  There is also a metal door with a bar across it, and another
+door from which you hear the sounds of guards.  Could this be the castle's
+fabled vault?  Rutger is reported to have fabulous wealth.</LongDescription>
+  
+  
+  
+  <Established>793338459</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4286</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="metal door">
+      <Keys>
+        <LastTime Num="0">
+          <Interval>0</Interval>
+          <LastTime>1206217890</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </Keys>
+      <Room Area="ocean">4288</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4289</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4290</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

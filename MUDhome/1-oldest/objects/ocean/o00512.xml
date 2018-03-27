@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="512" Area="ocean" Version="2.40">
+  <Name>steel reinforced shield</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Armor>30</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">820</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">reinforced</Key>
+    <Key Num="1">shield</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="21"/>
+  </Flags>
+  <Description>This sturdy shield is made of wood with steel reinforcements.</Description>
+  <Weight>8</Weight>
+  <Type>6</Type>
+  <SubType>shield</SubType>
+  <WearFlag>18</WearFlag>
+  <InBag/>
+</Object>

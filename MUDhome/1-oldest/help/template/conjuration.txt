@@ -1,0 +1,10 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  conjuration       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Conjuration spells focus on summoning creatures, objects, or manifestations
+of energy. Whether or not the spell confers control over what was summoned
+is not guaranteed.
+
+Note that the conjuration school currently has limited spells. More work
+is being done to code spells for this school.

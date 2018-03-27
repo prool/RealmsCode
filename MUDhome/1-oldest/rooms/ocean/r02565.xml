@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2565" Version="2.40a" Area="ocean">
+  <Name>Tower Lane</Name>
+  <ShortDescription>You are on Tower Lane, east of the intersection with Kista Avenue.</ShortDescription>
+  <LongDescription>A tall building on the north side of the lane has a frieze on its side.
+The frieze depicts the planets, the sun and the moon.  Large icons of 
+astrological figures ring the frieze.  To the west is Kista Lane, and 
+the entrance to the building is there.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2564</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2029</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

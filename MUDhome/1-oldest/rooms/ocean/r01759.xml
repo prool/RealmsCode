@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1759" Version="2.40" Area="ocean">
+  <Name>Kafkan Way</Name>
+  <ShortDescription>You are walking on Kafkan Way, north of the South Oceancrest Post Office.</ShortDescription>
+  <LongDescription>A small postal facility lies on the south side of the road.  Being that
+communications are the most important thing in a good society, the mail
+system tends to be very accurate and prompt.  On the north side of the
+road is a small fountain.  The fountain seems to be sitting in the 
+middle of the large park on the Iilandi Campus.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1758</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1760</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2251</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

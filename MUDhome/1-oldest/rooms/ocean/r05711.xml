@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="5711" Version="2.40" Area="ocean">
+  <Name>Boran Street/Galgorn Way Intersection</Name>
+  <ShortDescription>You are at the corner of Boran Street and Galgorn Way.</ShortDescription>
+  <LongDescription>Boran Street runs north and south along the western side of Phexton Village,
+and Galgorn Way travels east and west to connect to the east side of the
+village.  There are a few buildings to the north, but most of the village 
+is south of here.  The village green is in the center.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5710</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5712</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5713</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

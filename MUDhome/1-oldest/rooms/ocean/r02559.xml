@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2559" Version="2.40" Area="ocean">
+  <Name>Garden Circle Road</Name>
+  <ShortDescription>You are on the eastern side of the famous Kista Hanging Gardens.</ShortDescription>
+  <LongDescription>The base of the living monument is made of pure gold mined from a dwarven
+mine in the mountains and forest to the south of here.  The eastern slopes 
+of the Nartiz Mountains lie to the south, and the Kista Forest covers them.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2558</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2560</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

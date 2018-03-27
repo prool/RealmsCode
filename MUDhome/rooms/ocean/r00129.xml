@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="129" Version="2.40" Area="ocean">
+  <Name>Taragon Road</Name>
+  <ShortDescription>You are on Taragon Road, a wide dirt road near some large storage barns.</ShortDescription>
+  <LongDescription>The barns you see contain food and other necessities in the event of a
+long-term siege.  Once, about six hundred years ago, the village was 
+attacked by mountain trolls and the residents almost starved before they
+drove the trolls away.  Since that time, the village has stored just
+about anything you can imagine in there.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">3</Mob>
+      <Mob Area="ocean" Num="3">2</Mob>
+      <Mob Area="ocean" Num="4">5</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">124</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">134</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">128</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

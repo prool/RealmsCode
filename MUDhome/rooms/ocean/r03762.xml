@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3762" Version="2.40" Area="ocean">
+  <Name>Orphanage Cellar</Name>
+  <ShortDescription>You are in the cellar of the Oceancrest Orphanage.</ShortDescription>
+  <LongDescription>The room is dark and musty, with a strong smell of soap and dirty clothes.
+Clutter abounds, and the floor is covered with boxes and stacks of odd
+items.  When kids are brought to the orphanage, most of the stuff they
+had with them is placed down here, out of the way.  The only person who
+ever comes down here, though, is a nasty old caretaker whom the children
+fear and hate.  They tell tales to anyone who will listen that he has
+turned bad children into soap, by rendering them in a large vat down here.</LongDescription>
+  
+  <Established>765664148</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+    <Bit Num="32"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">585</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3761</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3763</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

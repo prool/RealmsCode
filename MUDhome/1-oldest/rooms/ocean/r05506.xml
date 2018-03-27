@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5506" Version="2.40" Area="ocean">
+  <Name>Hafnia Circle</Name>
+  <ShortDescription>This is the better part of the city, where you will find expensive shops.</ShortDescription>
+  <LongDescription>A jewelry shop on the west side announces a new shipment of enchanted
+material direct from the Enchanted Forest work shop.  next door is a wedding
+shop, and across the street is the comfortable Dandelion Tea Shoppe.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">931</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5505</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

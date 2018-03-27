@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="182" Version="2.40" Area="ocean">
+  <Name>Bags and Lights Store</Name>
+  <ShortDescription>You are in a store that specializes in bags and small items.</ShortDescription>
+  <LongDescription>It's really odd that a store could stay in business when all they sell are
+bags and a few other things.  The store owner prides himself on his vast
+selection on all kinds of bags, and seems to do a thriving business.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="11"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">82</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

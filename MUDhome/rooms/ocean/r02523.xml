@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="2523" Version="2.40" Area="ocean">
+  <Name>Teal Avenue</Name>
+  <ShortDescription>You are on Teal Avenue, south of the city's eastern gate.</ShortDescription>
+  <LongDescription>On the west side of the avenue you can see the amphitheater and hear the
+music of the orchestra.  Must be something interesting there tonight.  On
+the east side there are several small foundries and specialized factories
+which produce the latest in armor and professional equipment for people
+who can afford their wares.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2052</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2524</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

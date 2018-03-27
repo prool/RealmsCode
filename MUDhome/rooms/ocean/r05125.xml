@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="5125" Version="2.40" Area="ocean">
+  <Name>Castle Kayleigh's Main Floor</Name>
+  <ShortDescription>You are on the great circular floor of the Castle Kayleigh.</ShortDescription>
+  <LongDescription>Dark and forbidding archways lead to old hallways and forgotten rooms.
+A stone stairway spirals around the tower, leading to the roof.   Everywhere
+you look, you see fire damage.  The fire must have been very intense, as
+even the metal hand rail has melted into a grotesque pile of sludge.</LongDescription>
+  
+  <Established>773381567</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>archway</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="archway">
+      <Keys/>
+      <Room Area="ocean">5129</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="archway">
+      <Keys/>
+      <Room Area="ocean">5126</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="archway">
+      <Keys/>
+      <Room Area="ocean">5127</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="archway">
+      <Keys/>
+      <Room Area="ocean">5128</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5124</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

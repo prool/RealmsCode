@@ -1,0 +1,10 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  steal          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Thieves may steal objects from monsters or other players. If they are
+successful, the victim will not even know he or she was stolen from. However,
+if unsuccessful, the victim is warned. Monsters usually get quite angry when
+someone tries to steal from them.
+
+Steal $ <person> will attempt to steal a random amount of gold from the target.

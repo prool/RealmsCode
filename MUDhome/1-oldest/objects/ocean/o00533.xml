@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="533" Area="ocean" Version="2.40">
+  <Name>statue</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>0</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value/>
+  <Keys/>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="8"/>
+    <Bit Num="9"/>
+    <Bit Num="17"/>
+    <Bit Num="18"/>
+  </Flags>
+  <Description>It looks as if it moves...</Description>
+  <UseOutput>0</UseOutput>
+  <Type>14</Type>
+  <InBag/>
+</Object>

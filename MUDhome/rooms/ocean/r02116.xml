@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Room Num="2116" Version="2.40" Area="ocean">
+  <Name>Mehetable's Yard</Name>
+  <ShortDescription>This is the center yard of four huts, owned by Mehetable and her daughters.</ShortDescription>
+  <LongDescription>In front of each hut there is a very special apple tree, each bearing a
+single remarkable apple.  Three of them are silver, and one of them is gold.
+Mehetable and her three beautiful daughters don't mind the occasional
+visitor helping themselves to an apple from the orchid, but one dares not
+reach for one of these.</LongDescription>
+  
+  <Established>784239787</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2113</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2115</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="mehetable's tree">
+      <Keys/>
+      <Room Area="ocean">2110</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="megan's tree">
+      <Keys/>
+      <Room Area="ocean">2107</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="mordith's tree">
+      <Keys/>
+      <Room Area="ocean">2108</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="marlea's tree">
+      <Keys/>
+      <Room Area="ocean">2109</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

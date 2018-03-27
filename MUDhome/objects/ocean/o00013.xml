@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="13" Area="ocean" Version="2.40">
+  <Name>wool mask</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>9</ShotsMax>
+  <ShotsCur>9</ShotsCur>
+  <Armor>8</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">20</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">mask</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Weight>1</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>19</WearFlag>
+  <InBag/>
+</Object>

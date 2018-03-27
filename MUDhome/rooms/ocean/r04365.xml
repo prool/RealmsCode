@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="4365" Version="2.40a" Area="ocean">
+  <Name>Night Entry Chamber</Name>
+  <ShortDescription>You are in a cold, stone chamber inside the walls of the Tower Castle.</ShortDescription>
+  <LongDescription>The metal door on the west wall is only used at night when the castle's
+main gates are closed.  Many beasts and vile things prowl the night, so its
+very dangerous to go out after dark, but for those who insist, the metal
+door is available.</LongDescription>
+  
+  
+  
+  <Established>791663609</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>1206217789</LastTime>
+      <Misc Area="ocean">771</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="metal door">
+      <Keys/>
+      <Room Area="ocean">5474</Room>
+      <Key>95</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4200</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

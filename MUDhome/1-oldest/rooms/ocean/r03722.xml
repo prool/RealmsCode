@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3722" Version="2.41a" Area="ocean">
+  <Name>Vestibule of the Dragon Tooth Inn</Name>
+  <ShortDescription>You are in the plush vestibule of the luxurious Dragon Tooth Inn.</ShortDescription>
+  <LongDescription>The Dragon Tooth Inn has quite a history in the city of Oceancrest.
+At one time there was a hidden meeting room in the back part of the inn,
+and a group of anti-royalist terrorists met there.   After a number of
+visiting Viscounts were murdered in their locked rooms, the inn was closed
+and the owner hanged.  Now the inn is open again, under new management.</LongDescription>
+  
+  <Established>764452980</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1137</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="desk">
+      <Keys/>
+      <Room Area="ocean">3739</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3738</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

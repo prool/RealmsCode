@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="3884" Version="2.40" Area="ocean">
+  <Name>Long Tunnel</Name>
+  <ShortDescription>You are in a long narrow tunnel.  The walls are cold to the touch.</ShortDescription>
+  <LongDescription>the dampness makes a great environment for slime and bacteria growth which
+probably isn't good for your health.  Everything you touch seems to be slick
+with some sort of nasty, living slime.  This tunnel is very confusing, too.</LongDescription>
+  
+  <Established>769069146</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3886</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3885</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3887</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3894</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="64" Area="ocean" Version="2.40">
+  <Name>wedding ring</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>75</ShotsMax>
+  <ShotsCur>75</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">ring</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Weight>1</Weight>
+  <Type>6</Type>
+  <SubType>ring</SubType>
+  <WearFlag>9</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room Num="3178" Version="2.40" Area="ocean">
+  <Name>Tropical Beach of Uland</Name>
+  <ShortDescription>You are on a snow white beach on a tropical island, below some sand cliffs.</ShortDescription>
+  <LongDescription>The beach stretches around the island, out of sight, while above you is
+a sandy cliff that might be difficult to climb.  There seems to be a
+jungle up there, as you see cocanut trees and palms growing up on the
+high ground above the sand.  The surf rolls in with a crashing noise
+and runs up the beach, wiping out your footprints.</LongDescription>
+  
+  <Established>761272662</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>surf</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="surf">
+      <Keys/>
+      <Room Area="ocean">3177</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room Num="977" Version="2.47i" Area="ocean">
+  <Name>Annetol's Cave</Name>
+  <ShortDescription>You are in a hidden cave on the cliffs overlooking the river Othax.</ShortDescription>
+  <LongDescription>Annetol is a rather large blue dragon that you didn't think was still
+alive.  The very old blue dragon is therefore much more powerful than a
+standard, mature dragon you've seen in museums, but he's also a bit
+slower.  Annetol has a bad temper, but tends to be cordial to avoid 
+wasting his energy.</LongDescription>
+  <LowLevel>5</LowLevel>
+  <Wander></Wander>
+  <Track><Direction>up</Direction></Track>
+  <Effects></Effects>
+  <PermMobs><LastTime Num="0"><Interval>3600</Interval><LastTime>1206216409</LastTime><Misc Area="ocean">330</Misc></LastTime></PermMobs>
+  <PermObjs><LastTime Num="0"><Interval>3600</Interval><LastTime>1206216412</LastTime><Misc Area="ocean">138</Misc></LastTime></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="up"><Keys></Keys><Target><Room Area="ocean">702</Room></Target><Effects></Effects><Flags><Bit Num="8"></Bit><Bit Num="10"></Bit></Flags></Exit></Exits>
+</Room>

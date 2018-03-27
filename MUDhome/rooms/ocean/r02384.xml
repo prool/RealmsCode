@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2384" Version="2.40" Area="ocean">
+  <Name>Descending Cavern</Name>
+  <ShortDescription>The cavern you are in steadily heads downward towards the east.</ShortDescription>
+  <LongDescription>Even though it appears that you can't get any lower into the ground, the
+cavern continues to descend into the depths of the planet.  To the west,
+you can barely make out a light on the upward slope.  Unfortunately,
+there isn't much light down here, so you can't really see anything.</LongDescription>
+  
+  <Established>727756657</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2385</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2383</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

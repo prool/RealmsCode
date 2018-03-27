@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Room Num="345" Version="2.40" Area="ocean">
+  <Name>The Temple of Ahto</Name>
+  <ShortDescription>You are in a majestic temple, dedicated to Ahto, God of the Seas and Waters.</ShortDescription>
+  <LongDescription>The magnificent Temple of Ahto pays homage to the powerful God of the
+Seas and Waters.  The god Ahto was worshiped by many of the northern folk
+living on the northern island Rustallik'n.  These people often traded with
+the people of Oceancrest, and some started migrating here.  Nevertheless,
+Ahto became a major icon to the sailors and seamen who live day to day on
+the open seas.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

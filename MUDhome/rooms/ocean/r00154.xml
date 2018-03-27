@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="154" Version="2.40" Area="ocean">
+  <Name>Taragon Road</Name>
+  <ShortDescription>You are on Taragon Road, near a broken section of the village wall.</ShortDescription>
+  <LongDescription>The mayor's office keeps promising to send a construction crew to repair the
+wall, but it has ben seventeen years since a copper dragon crashed into the
+wall, destroying a section of it and killing the dragon's rider.  Through
+the break in the wall, you can see sheep in a green pasture, and a heavily
+wooded area further to the east.  On the west side of the road is a fortune
+teller's small shack.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">3</Mob>
+      <Mob Area="ocean" Num="3">2</Mob>
+      <Mob Area="ocean" Num="4">5</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">149</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">159</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

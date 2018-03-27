@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="2820" Version="2.40" Area="ocean">
+  <Name>Hydra's Den</Name>
+  <ShortDescription>The large, squarish room is covered with bones of previous victims.</ShortDescription>
+  <LongDescription>The hydra is a ferocious, five-headed beast of the underworld who feasts
+on the bones of adventurers who are too curious for their own good.  The
+room is about thirty feet wide and seventy feet long, providing a lot
+of room for all the treasure the hydra likes to keep, assuming it hasn't
+been plundered already.</LongDescription>
+  
+  <Established>728802741</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>passage</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">54</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">437</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">2819</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

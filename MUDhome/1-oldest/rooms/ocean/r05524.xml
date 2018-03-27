@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5524" Version="2.40" Area="ocean">
+  <Name>Hallway in the Boar's Arse</Name>
+  <ShortDescription>You are in an upstairs hallway in the Boar's Arse Pub.</ShortDescription>
+  <LongDescription>There is a only one large room at the end of the hall.  Looks like a meeting
+place of some kind.  There is a small crowd, and a speaker is at the front
+of the room.  You see a red banner on the wall, with a white circle on it.
+An upraised fist, with a single finger erect, is inside the circle.</LongDescription>
+  
+  <Established>783896418</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>stairs</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="stairs">
+      <Keys/>
+      <Room Area="ocean">5522</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="meeting room">
+      <Keys/>
+      <Room Area="ocean">5525</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

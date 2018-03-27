@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2822" Version="2.40" Area="ocean">
+  <Name>Dark Hallway</Name>
+  <ShortDescription>You are at the southeastern corner of the desolate and dark hallway.</ShortDescription>
+  <LongDescription>The seldom used hallway appears to be left over from the time when the
+caverns were being built.  The hall doesn't appear to fit into the main
+scheme of the hallway layout and looks even dustier than the main hallways.
+The dark hallway continues to the north and west.</LongDescription>
+  
+  <Established>729053171</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2823</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2821</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

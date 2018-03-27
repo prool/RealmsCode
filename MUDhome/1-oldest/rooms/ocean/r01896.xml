@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="1896" Version="2.40" Area="ocean">
+  <Name>Cast Iron Shields Storage Shack</Name>
+  <ShortDescription>You are in the Cast Iron Shields Storage Shack in Leonardo's Foundry.</ShortDescription>
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1895</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

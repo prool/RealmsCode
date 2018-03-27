@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="1397" Version="2.40" Area="ocean">
+  <Name>Cremetorium</Name>
+  <ShortDescription>You are in the crematorium.</ShortDescription>
+  <LongDescription>This is the place where the deceased are consumed by fire and returned
+to the earth as dust and ash.  There is a large furnace at the north
+end of the room.  The hallway to the west leads back into the Mausoleum.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1393</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="96" Version="2.40" Area="ocean">
+  <Name>Main Street Militia Headquarters</Name>
+  <ShortDescription>Militia Headquarters is not a place to mess around in.</ShortDescription>
+  <LongDescription>Guards handle most of their daily business here.  To the south is their
+private rec room.  A number of them can be seen coming and going.  They look
+at you funny, and you hear the remark, "who's the wimp?"</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">678</Mob>
+      <Mob Area="ocean" Num="1">678</Mob>
+      <Mob Area="ocean" Num="2">678</Mob>
+      <Mob Area="ocean" Num="3">678</Mob>
+      <Mob Area="ocean" Num="4">678</Mob>
+      <Mob Area="ocean" Num="5">678</Mob>
+      <Mob Area="ocean" Num="6">678</Mob>
+      <Mob Area="ocean" Num="7">678</Mob>
+      <Mob Area="ocean" Num="8">678</Mob>
+      <Mob Area="ocean" Num="9">678</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">97</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">106</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

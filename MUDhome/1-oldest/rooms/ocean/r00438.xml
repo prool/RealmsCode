@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="438" Version="2.40" Area="ocean">
+  <Name>Delaney Drive</Name>
+  <ShortDescription>You are walking along Delaney Drive, west of the Cathedral of Worldly Bliss.</ShortDescription>
+  <LongDescription>The entrance to the Cathedral of Worldly Bliss is located to the east of
+here.  A large monument in the center of the square depicts the entire world
+and the various sections of religious control.  On the west side of the road
+is Martha's World of Water and Ice.  Clean, fresh water is usually a rare
+commodity, and ice is even more so.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">437</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">439</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4019</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="4034" Version="2.40" Area="ocean">
+  <Name>Western Crystalline City</Name>
+  <ShortDescription>You are in a western block of the crystalline city.</ShortDescription>
+  <LongDescription>To the north you see the bustling movement of a large crowd of crystallines.
+It's not possible to determine what they are doing without getting closer,
+but they seem to be excited about something.  To the east there is a tower
+which is protected by a squadron of crystalline guards standing before the
+tower's gate.  You probably cannot enter from this side.</LongDescription>
+  
+  <Established>771973656</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4033</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4035</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

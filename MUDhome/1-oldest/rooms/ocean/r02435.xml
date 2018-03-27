@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="2435" Version="2.40" Area="ocean">
+  <Name>Riverdell Training Facility</Name>
+  <ShortDescription>You are wandering through the vast Riverdell Forest, perfecting your skills.</ShortDescription>
+  <LongDescription>Tracking is an essential part of any ranger's training.  Without the
+ability to track, you would be completely lost in such a vast park.
+As you continue to walk through the park, you notice how similar all
+the trees look and how hard it is to find your way around.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="18"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2443</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2427</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2436</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2434</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

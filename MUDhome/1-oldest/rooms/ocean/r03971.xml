@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3971" Version="2.40" Area="ocean">
+  <Name>Llanandar's Private Quarters</Name>
+  <ShortDescription>You are in the private living quarters of Llanandar, the elven bowyer.</ShortDescription>
+  <LongDescription>Llanandar likes his privacy, but not particularly your presense here.
+The room is even smaller than the shop downstairs, and you have to bow your
+head to keep from hitting it on the ceiling.  A tiny bed is shoved against
+the wall, and a private collection of bows are on the wall above it.</LongDescription>
+  
+  <Established>770488109</Established>
+  <Flags>
+    <Bit Num="16"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">610</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3970</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5530" Version="2.40" Area="ocean">
+  <Name>Vine Covered Side of Gorgon's Tower</Name>
+  <ShortDescription>You are midway up the side of Gorgon's Tower, climbing on heavy vines.</ShortDescription>
+  <LongDescription>The Nyyron Trail can be seen to the east, and further south is a burned
+farmhouse.  The top of the tower is about the same distance as it is to the
+ground  A stinging vapor comes from cracks in the stone, causing your eyes  
+and lungs to burn.  Acid oozes from the tower in places.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5531</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5529</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

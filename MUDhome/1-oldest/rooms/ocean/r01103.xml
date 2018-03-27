@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1103" Version="2.40" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are on Waterfront Way, a primary access route to the farms in the east.</ShortDescription>
+  <LongDescription>Since Eidenhoft Boulevard runs northeast from the intersection to the 
+west, a small wedge is created between the two roads, which has been
+carefully decorated with trees and shrubs.  To the south of Waterfront
+Way, there is a large building with three shops.  Directly to the south
+is a door with a sign which reads "Treasure Cove Exotic Supplies" in
+sparkling green letters. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1104</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1075</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="568" Version="2.40" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking on Leviathan Drive, west of an old and dense forest.</ShortDescription>
+  <LongDescription>In the pubs and the temples you sometimes hear an old tale of druids and
+dragons, but you never hear the same story told the same way twice.  Maybe 
+nobody nobody really knows the truth.  Very often though, the tales involve
+this very forest you see to the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">567</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">569</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

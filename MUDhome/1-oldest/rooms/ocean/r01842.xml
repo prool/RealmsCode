@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1842" Version="2.40" Area="ocean">
+  <Name>The Southern Path Junction</Name>
+  <ShortDescription>You are at the junction of the center path and the south ofern path.</ShortDescription>
+  <LongDescription>The Center Path, naturally, runs through the center of the Barbarian 
+Pits.  The Southern Path runs along the southern border of the Pits. 
+The barbarian race isn't all that bright and do not have a lot of fancy 
+names for their roads, especially since they're just dirt paths.  The
+primative training facility for the tribesmen is located to the south
+here.  The barbarians are known to test their own before allowing them
+to advance to higher levels.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1841</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1868</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1835</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1843</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

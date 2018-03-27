@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="1445" Version="2.40" Area="ocean">
+  <Name>Servant's Quarters Hallway</Name>
+  <ShortDescription>You are in the hallway that accesses the servants quarters.</ShortDescription>
+  <LongDescription>Two rooms are located on both sides of this hallway, one to the north and
+one to the south.  The quarters on the north appear to be mostly for
+the servants who clean the house.  The quarters to the south appear to
+be for the maids who serve the guests and mages of the Palace.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">173</Mob>
+      <Mob Area="ocean" Num="1">174</Mob>
+      <Mob Area="ocean" Num="2">174</Mob>
+      <Mob Area="ocean" Num="3">173</Mob>
+      <Mob Area="ocean" Num="4">130</Mob>
+      <Mob Area="ocean" Num="5">130</Mob>
+      <Mob Area="ocean" Num="6">172</Mob>
+      <Mob Area="ocean" Num="7">172</Mob>
+      <Mob Area="ocean" Num="8">172</Mob>
+      <Mob Area="ocean" Num="9">174</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1441</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1442</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1446</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1447</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

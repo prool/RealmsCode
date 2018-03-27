@@ -1,0 +1,17 @@
+...·····.....·····/                                     \·····.....·····...
+ ·  .  .  ·  ·  . | Help on:  detect-invisibility spell | .  ·  ·  .  .  ·
+···.....·····.....\                                     /.....·····.....···
+MP cost: 10
+School:  Divination
+Domain:  Knowledge
+Shortcut: d-i
+
+This spell allows its target to see invisible items and creatures by
+connecting their eyes to a magical plane. For the duration of the spell,
+the target will be able to see invisible things. Note, however, they will
+not be able to detect mists. In addition to this, an object or exit that is
+hidden and invisible will still remain hidden by the means of this spell.
+
+Syntax:
+cast detect-invisibility <target>
+

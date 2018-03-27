@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="529" Version="2.40" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are walking along Lelion Way, between the Lithium Inlet on the north
+side of the road and the Lithium Bay Boat Tours building on the south.</ShortDescription>
+  <LongDescription>Lithium Bay Boat Tours provides its customers with various tours of the
+Bay and the river that drains into the bay.  Maps are also available. 
+The Lithium Inlet leads east into the city, eventually forming
+Lyanden Lake. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">530</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">528</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

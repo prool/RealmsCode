@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  wall-of-force spell   | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 50
+School:  Conjuration
+Domain:  Creation
+
+The wall of force spell will create an immovable, impenetrable barrier to
+block an exit. The wall of force will also block the exit in the target room
+that leads back to the room you are in, if one could be found. No one - not
+even the caster - may pass through this wall. A wall of force may be brought
+down by a disintegrate spell.
+
+Syntax:
+cast wall-of-force <exit>

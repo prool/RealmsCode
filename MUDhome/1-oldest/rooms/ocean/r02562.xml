@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="2562" Version="2.40" Area="ocean">
+  <Name>Mayor's Office</Name>
+  <ShortDescription>You are in the office of the mayor of Kista, a consumate politician.</ShortDescription>
+  <LongDescription>The mayor isn't really dishonest, but there really isn't much for him
+to do.  The real leaders of the city are in the Tower and Mayor Kreech
+simply takes his orders from them.  He does, however, have to run for 
+re-election every few years, and tries to satisfy his most important
+backers.  He's not above taking a bribe or two.  Do you have any money?</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2561</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

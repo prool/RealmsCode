@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3792" Version="2.40" Area="ocean">
+  <Name>Sandy Road</Name>
+  <ShortDescription>You are on a sandy beach road near the the Nylandian Bay.</ShortDescription>
+  <LongDescription>Not far to the south is the blue water of a natural deep bay.  The Nylandian
+Bay is a very busy seaport, linking Oceancrest with the rest of the Land of
+Mordor.  The Respitial Sea carries a great deal of the commerce between the
+city and the rest of the continent, with merchant ships traveling up and
+down the coast.  Of course, such riches as they carry means pirates are also
+out there.  There is a rumor that pirates have sometimes used the grottos
+and caves near here.</LongDescription>
+  
+  <Established>765956381</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3791</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3793</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

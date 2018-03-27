@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="108" Area="ocean" Version="2.40">
+  <Name>singing sword</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>250</ShotsMax>
+  <ShotsCur>250</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>5</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">50000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">singing</Key>
+    <Key Num="1">sword</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>A large sword whose quality surpasses all others you have seen.</Description>
+  <UseOutput>The sword sings to you as you wield it.</UseOutput>
+  <Weight>10</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="411" Area="ocean" Version="2.40">
+  <Name>orange button</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>3</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">button</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="18"/>
+  </Flags>
+  <Description>You see a bright orange button.</Description>
+  <UseOutput>0122313312</UseOutput>
+  <Weight>1</Weight>
+  <Type>14</Type>
+  <InBag/>
+</Object>

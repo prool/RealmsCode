@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Object Num="479" Area="ocean" Version="2.40">
+  <Name>toad leather horned helm</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>20</ShotsMax>
+  <ShotsCur>20</ShotsCur>
+  <Armor>35</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">15000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">&#x66A;</Key>
+    <Key Num="1">horned</Key>
+    <Key Num="2">helm</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="13"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Description>It is a tough leather helm, with two once poisonous horns on top.</Description>
+  <UseOutput>You feel the power of the evil toad who once owned this skin.</UseOutput>
+  <Weight>5</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>7</WearFlag>
+  <InBag/>
+</Object>

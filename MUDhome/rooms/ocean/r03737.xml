@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3737" Version="2.40" Area="ocean">
+  <Name>Restrooms Hallway</Name>
+  <ShortDescription>You are in the hallway going to the restrooms in the Dragon Tooth Inn.</ShortDescription>
+  <LongDescription>The door on the west goes to the Public Room where you will find Theronwold,
+the owner of the inn, serving drinks to a quite clientele.  The hallway
+continues to the north.  Theronwold is the new owner of this establishment,
+having recently opened the doors again after the previous owner was taken
+across the street to Dillsdale Memorial Park one Saturday afternoon and
+hanged for activies against the crown.  Restrooms are located on the east.</LongDescription>
+  
+  <Established>764467474</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="bar">
+      <Keys/>
+      <Room Area="ocean">3736</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3738</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="men">
+      <Keys/>
+      <Room Area="ocean">1495</Room>
+      <Flags>
+        <Bit Num="13"/>
+      </Flags>
+    </Exit>
+    <Exit Name="women">
+      <Keys/>
+      <Room Area="ocean">1496</Room>
+      <Flags>
+        <Bit Num="12"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2603" Version="2.40" Area="ocean">
+  <Name>Kuroth's Tunnel</Name>
+  <LongDescription>You are in a dark and evil smelling tunnel under the Hanging Gardens.
+There are bats and other creatures here, and its not a good place to be.
+Water trickles down the center of the muddy floor making the way rather
+slippery.  Be careful not to fall into some sort of trap.  The light you 
+see to the west is the tunnel entrance in the hedge maze.</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2604</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2595</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

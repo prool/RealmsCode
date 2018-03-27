@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="1889" Version="2.40" Area="ocean">
+  <Name>Bysantal's General Goods and Services Storage Shack</Name>
+  <ShortDescription>You are in the general store storage shack.</ShortDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1888</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

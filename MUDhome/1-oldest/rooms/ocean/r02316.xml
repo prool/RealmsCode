@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2316" Version="2.40" Area="ocean">
+  <Name>Nowhere Fast Traveler's Guild</Name>
+  <ShortDescription>You are in the Nowhere Fast Traveler's Guild, a place where you can
+pick up all kinds of information about this and other cities and events.</ShortDescription>
+  <LongDescription>The large guild sells guides to just about every city and about almost
+anything going on in the cities.  The Traveler's Guild is an essential
+stop for all visitors to Oceancrest, and to those planning to leave
+Oceancrest for other cities.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">752</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1337</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

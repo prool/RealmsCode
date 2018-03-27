@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="1484" Version="2.40" Area="ocean">
+  <Name>Dining Hall Accessway</Name>
+  <ShortDescription>You are in the hallway leading down to the main dining hall.</ShortDescription>
+  <LongDescription>There is a stairway here leading down to the accessway behind the
+dining hall on the first level.  You can see all the maids and servants
+rushing around to get dinner in on time.  There's nothing worse than
+an angry, hungry mage.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">172</Mob>
+      <Mob Area="ocean" Num="1">172</Mob>
+      <Mob Area="ocean" Num="2">172</Mob>
+      <Mob Area="ocean" Num="3">174</Mob>
+      <Mob Area="ocean" Num="4">172</Mob>
+      <Mob Area="ocean" Num="5">173</Mob>
+      <Mob Area="ocean" Num="6">173</Mob>
+      <Mob Area="ocean" Num="7">174</Mob>
+      <Mob Area="ocean" Num="8">174</Mob>
+      <Mob Area="ocean" Num="9">172</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1483</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1485</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">1421</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

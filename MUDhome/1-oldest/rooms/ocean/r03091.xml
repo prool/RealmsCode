@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3091" Version="2.40" Area="ocean">
+  <Name>Broken Wall</Name>
+  <ShortDescription>You are in a very close section of a broken wall in the Uland Temple.</ShortDescription>
+  <LongDescription>You really can't go anywhere from here, except back to the passage.  There
+is a small hole in the floor, but the only way you could possibly go down it
+would be if you removed everything you are wearing.  It's a very small 
+opening, and it looks like you probably could not come back up.</LongDescription>
+  
+  <Established>790821175</Established>
+  <Flags>
+    <Bit Num="15"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>hole</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="hole">
+      <Keys/>
+      <Room Area="ocean">3898</Room>
+      <Flags>
+        <Bit Num="7"/>
+      </Flags>
+    </Exit>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">3090</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

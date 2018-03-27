@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Room Num="1323" Version="2.44b" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are travelling along Riverdell Way, west of the Chancellor's Hall.</ShortDescription>
+  <LongDescription>The Chancellor's Hall is one of the major buildings on the Iilandi 
+University Campus.  It is the primary hall for most of the lectures and
+other activities that take place on the campus.  To the west is the
+Rodaisal Community Housing Complex.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:42 2009
+</LastPlayerTime>
+  <BeenHere>1</BeenHere>
+  <Wander></Wander>
+  <Track><Direction>south</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1322</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1324</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

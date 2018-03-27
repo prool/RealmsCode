@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1681" Version="2.41a" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are walking along Waterfront Way, south of the DeNail Corn Fields.</ShortDescription>
+  <LongDescription>The DeNail Corn Fields provide much of the corn required by many of the
+ranches for their herds, as well as for public consumption.  Corn is one
+of the more basic commodities of the town, and such as it is, it usually
+fetches a high price.  The Oceancrest Stables and Walking Yards are 
+located on the south side of the street.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">1</Mob>
+      <Mob Area="ocean" Num="2">1</Mob>
+      <Mob Area="ocean" Num="3">1</Mob>
+      <Mob Area="ocean" Num="4">2</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1229</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1682</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

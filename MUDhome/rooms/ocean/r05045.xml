@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="5045" Version="2.40" Area="ocean">
+  <Name>Cloudy Skies</Name>
+  <ShortDescription>You are about as far east as the dragon wants to fly.  90.n0.e24.s9.w0</ShortDescription>
+  <LongDescription>You can feel the great dragon veering away from any turns to the east.
+Below you are valleys and streams which cut through the oaks and pines
+of the Kista Forest.  There doesn't seem to be anything to the east but
+more of the same, while somewhere to the north is the city of Kista.</LongDescription>
+  
+  <Established>772228549</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5074</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5120</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5044</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1184" Version="2.40" Area="ocean">
+  <Name>Necropolis Avenue/Netherworld Lane Intersection</Name>
+  <ShortDescription>You are at the intersection of Netherworld Lane and Necropolis Avenue.</ShortDescription>
+  <LongDescription>Necropolis Avenue runs south directly into the Main Entrance of the 
+Necropolis, which is probably why it is named that way.  Netherworld
+Lane continues to the east and west, making the north border of the
+Necropolis.  The Necropolis is surrounded by iron bars.  The only
+entrance is to the south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1185</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1183</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">645</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3312</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

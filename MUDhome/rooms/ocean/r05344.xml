@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5344" Version="2.40" Area="ocean">
+  <Name>West Forest Lane</Name>
+  <ShortDescription>You are walking on an east-west lane in the woods of the Enchanted Forest.</ShortDescription>
+  <LongDescription>The forest lane continues on the ground, but it looks like some very good
+craftsmen have built a road up in the trees.  To the west there is a long
+ramp leading up to a solid looking highway going westward and overhead.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">756</Mob>
+      <Mob Area="ocean" Num="1">190</Mob>
+      <Mob Area="ocean" Num="2">756</Mob>
+      <Mob Area="ocean" Num="3">756</Mob>
+      <Mob Area="ocean" Num="4">190</Mob>
+      <Mob Area="ocean" Num="5">190</Mob>
+      <Mob Area="ocean" Num="6">190</Mob>
+      <Mob Area="ocean" Num="7">190</Mob>
+      <Mob Area="ocean" Num="8">190</Mob>
+      <Mob Area="ocean" Num="9">190</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5343</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

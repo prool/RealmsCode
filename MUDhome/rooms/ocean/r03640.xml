@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="3640" Version="2.40" Area="ocean">
+  <Name>Fletching Room</Name>
+  <ShortDescription>You are in a the archery tackle and fletching room of Castle Ragnar.</ShortDescription>
+  <LongDescription>Master bowyers are at work on long benches, busy making strong yew bows
+and fletching war arrows.  A group of apprentices carry great armloads
+of arrows to the storage room through the passage.  In one corner a mage
+works with one of the bowyers, waving a black wand over a stack of newly
+made crossbows.  The main armory is through the arch to the east.  There
+is a practice range for archers on the south side.</LongDescription>
+  
+  <Established>764987705</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">215</Mob>
+      <Mob Area="ocean" Num="1">216</Mob>
+      <Mob Area="ocean" Num="2">217</Mob>
+      <Mob Area="ocean" Num="3">215</Mob>
+      <Mob Area="ocean" Num="4">216</Mob>
+      <Mob Area="ocean" Num="5">217</Mob>
+      <Mob Area="ocean" Num="6">215</Mob>
+      <Mob Area="ocean" Num="7">216</Mob>
+      <Mob Area="ocean" Num="8">217</Mob>
+      <Mob Area="ocean" Num="9">215</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>arch</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">609</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="arch">
+      <Keys/>
+      <Room Area="ocean">3639</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">3642</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

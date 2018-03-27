@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<Room Num="194" Version="2.40a" Area="ocean">
+  <Name>Upstairs Hallway</Name>
+  <ShortDescription>You are in a well lighted hallway in Madame Ruthie's old red house.</ShortDescription>
+  <LongDescription>Madame Ruthie believes in two things, money and pleasure, and has found a
+way to combine them.  Roaring laughter comes from several of the rooms,
+while from the others you hear grunts and squeals.  Several doors are
+open, and you avert your eyes as you pass.  (Well, you sorta avert them.)</LongDescription>
+  
+  <Established>761955675</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">541</Mob>
+      <Mob Area="ocean" Num="1">524</Mob>
+      <Mob Area="ocean" Num="2">524</Mob>
+      <Mob Area="ocean" Num="3">541</Mob>
+      <Mob Area="ocean" Num="4">541</Mob>
+      <Mob Area="ocean" Num="5">541</Mob>
+      <Mob Area="ocean" Num="6">541</Mob>
+      <Mob Area="ocean" Num="7">524</Mob>
+      <Mob Area="ocean" Num="8">524</Mob>
+      <Mob Area="ocean" Num="9">524</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>stairs</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="stairs">
+      <Keys/>
+      <Room Area="ocean">193</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">195</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">199</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">196</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">199</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">197</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">198</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="4043" Version="2.40" Area="ocean">
+  <Name>Emerald Fountain</Name>
+  <ShortDescription>You are at a fountain which is completely composed of emeralds.</ShortDescription>
+  <LongDescription>This fountain is a place for both young and old crystallines to
+relax and be entertained.  The fountain itself illuminates the entire
+area in a relaxing green glow.  The water which is sprayed into the air
+is instantly shaped into beautiful designs which hold their form
+for a few seconds and then fall towards the ground in millions of
+tiny dew drops.</LongDescription>
+  
+  <Established>772827895</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4036</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1058" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are currently traveling along Eidenhoft Boulevard.</ShortDescription>
+  <LongDescription>Directly to the south, you see Leomund's Water Purification shop.  Of
+course, all Leomund does is take the water from the river and boil it
+to get rid of all the bacteria.  He does pretty good business because 
+either people are too lazy to do it themselves or too stupid.  There
+is a small building to the west with a sign that reads "Silk Dreams"
+and a rather large bouncer guarding the door.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1057</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1059</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1940</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

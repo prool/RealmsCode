@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="269" Version="2.40" Area="ocean">
+  <Name>Large Ocean Going Raft</Name>
+  <ShortDescription>You are aboard a very large and comfortable raft.</ShortDescription>
+  <LongDescription>There seems to be crates of fruit and large kegs of beer and other spirits
+stored here.  There are a number of hammocks strung below the canvas sun-
+shade which look quite inviting.  The tranquil sounds of the water lapping
+against the side and the smell of the sea air may help you to relax after
+your long swim.</LongDescription>
+  
+  <Established>756088040</Established>
+  <Flags>
+    <Bit Num="13"/>
+    <Bit Num="16"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>sea</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="sea">
+      <Keys/>
+      <Room Area="ocean">3180</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

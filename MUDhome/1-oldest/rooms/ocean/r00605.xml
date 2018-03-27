@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="605" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard</Name>
+  <ShortDescription>You are walking along Avatar Boulevard, just west of the Ruins entrance.</ShortDescription>
+  <LongDescription>A large building opens up into the wonderous Avatar Ruins, a virtually
+desolate place where the world has more or less just opened up.  Various
+pieces of rock and debris lie scattered about.  The Ruins are said to 
+hold a number of secrets about the past and the future, but no one has
+really ever been able to figure them out.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">604</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">606</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">275</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

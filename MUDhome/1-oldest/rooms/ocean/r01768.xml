@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1768" Version="2.40" Area="ocean">
+  <Name>Netherworld Lane</Name>
+  <ShortDescription>You are walking along Netherworld Lane, south of the Traveller's Lodge.</ShortDescription>
+  <LongDescription>The Crimson Dragon Traveller's Lodge provides accomodations for just about
+anyone wandering in from outside the city.  The lodge also provides 
+information about travel conditions and possible locations for raids and
+other looters.  The eastern gate is the most popular entrance and exit
+out of the city, and usually the safest as it is the most travelled.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1767</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1769</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

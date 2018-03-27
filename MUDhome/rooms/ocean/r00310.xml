@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="310" Version="2.40" Area="ocean">
+  <Name>Roland's Fighting Academy Training Room</Name>
+  <ShortDescription>You have defeated the green knight and are worthy to advance.</ShortDescription>
+  <LongDescription>A vial of holy water has been left here for your use to mend some of the
+very bad wounds you might have suffered in battle.  You are now worthy to 
+train to the level of Punisher.  When you are ready to advance again, come
+back to Roland's Fighting Academy and we will continue your training.</LongDescription>
+  <LowLevel>6</LowLevel>
+  <HighLevel>6</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">359</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">308</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="5061" Version="2.40" Area="ocean">
+  <Name>Turbulent Airways</Name>
+  <ShortDescription>You are in turbulent air, which is getting dark.  50.n0.e0.s1.w4</ShortDescription>
+  <LongDescription>The turbulent air makes it difficult to hold on and scan the skies at the
+same time.  There have been reports of griffons in this area of the Vallenda
+Pass.  Right now would not be a good time to meet one of them.</LongDescription>
+  
+  <Established>772228814</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5029</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5079</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5060</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5200</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

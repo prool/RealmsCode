@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5335" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>A stream cuts the road to the northwest, but vanishes quickly.</ShortDescription>
+  <LongDescription>The road continues to slope downward to the west and upward to the east.
+This is a strange land, with a forest on the north and a desert on the
+south.  There are stories in the city pubs of a nomadic race of people who
+live on the K'tral, and of huge sandworms which burrough deep under the hot
+dunes.  Looking across the desert you tend to not believe that anything
+could live out there.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5334</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5336</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

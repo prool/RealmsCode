@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="437" Version="2.40" Area="ocean">
+  <Name>Delaney Drive</Name>
+  <ShortDescription>You are walking along Delaney Drive, east of the Guard Surplus shop.</ShortDescription>
+  <LongDescription>The Guard Surplus and Supply shop located on the west side of the road
+provides a number of useful armors and weapons used by the city guards.
+Of course these weapons are used, and can't be expected to be worth much
+more than souveniers.  On the east side of the road is the Cathedral of
+Worldly Bliss.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">436</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">438</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

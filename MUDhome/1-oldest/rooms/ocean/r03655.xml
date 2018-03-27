@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3655" Version="2.40" Area="ocean">
+  <Name>Cross Tunnel</Name>
+  <ShortDescription>You have reached an intersection with another tunnel.</ShortDescription>
+  <LongDescription>The tunnel going north and south seems to be quite a bit larger than the
+one which travels in the east-west direction.  The walls of the main
+tunnel are clean and dry, and the floor is a very expensive rose marble.
+A soft and cool breeze moves gently down the smaller tunnel, coming from
+the east.  There are also cobwebs in the tunnel going to the east.</LongDescription>
+  
+  <Established>765050865</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3646</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3661</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3662</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3656</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="3016" Version="2.40" Area="ocean">
+  <Name>Goblin Lair</Name>
+  <ShortDescription>You are near the center of the lair of the goblins.</ShortDescription>
+  <LongDescription>To your immediate south is a downward slope which looks quite slippery.
+Beyond that is a large room, which is too dark to see.  There is a smaller
+room off to the east side of the slope.  Finally, rough cut passages
+lead to the northwest and northeast.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">322</Mob>
+      <Mob Area="ocean" Num="1">322</Mob>
+      <Mob Area="ocean" Num="2">322</Mob>
+      <Mob Area="ocean" Num="3">322</Mob>
+      <Mob Area="ocean" Num="4">322</Mob>
+      <Mob Area="ocean" Num="5">322</Mob>
+      <Mob Area="ocean" Num="6">323</Mob>
+      <Mob Area="ocean" Num="7">323</Mob>
+      <Mob Area="ocean" Num="8">324</Mob>
+      <Mob Area="ocean" Num="9">325</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3011</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3014</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3017</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3018</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

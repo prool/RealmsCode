@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="29" Version="2.40" Area="ocean">
+  <Name>Frodorab's Boot Storage</Name>
+  <LongDescription>You are in the storage room for Brownhaven's finest bootery.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">28</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="528" Version="2.40" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are walking along Lelion Way, north of Lynn's Specialty Imports Shop.</ShortDescription>
+  <LongDescription>Lynn deals with all kinds of imports, usually from far way countries and
+islands that are only accessible through ship.  Much of the stuff that 
+comes in here is very strange or unique from the new lands, far to the
+west across the Respitial Sea.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">529</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">527</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,9 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  festering wounds     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Festering wounds are a deadly form of normal injury. The are evil and unclean,
+damaging the victim long after the initial injury. Festering wounds will not
+heal on their own accord and will prevent you from healing naturally. You must
+use a remove-curse spell to clean your wounds.
+

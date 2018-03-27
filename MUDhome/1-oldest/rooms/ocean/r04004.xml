@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Room Num="4004" Version="2.40" Area="ocean">
+  <Name>Harikari's Addiction Deprivation Chamber</Name>
+  <ShortDescription>You are in a dimly lit room which appears to be stained throughout by blood.</ShortDescription>
+  <LongDescription>This huge room appears limitless in space, with dark shadows as the only
+visible boundaries.  However, a faint noise which resembles the clicking
+of keyboards seems to incessantly extend itself from the darkness.  In
+what appears to be the center of the room, Harikari, master of the
+occult and technology, is seen manipulating a microcosmic representation 
+of Oceancrest.</LongDescription>
+  
+  <Established>771666221</Established>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="32"/>
+    <Bit Num="49"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>pits</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="pits">
+      <Keys/>
+      <Room Area="ocean">1909</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="mountain">
+      <Keys/>
+      <Room Area="ocean">4025</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="ashton pool">
+      <Keys/>
+      <Room Area="ocean">1290</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="spring">
+      <Keys/>
+      <Room Area="ocean">1572</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="island">
+      <Keys/>
+      <Room Area="ocean">3891</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="necropolis">
+      <Keys/>
+      <Room Area="ocean">3318</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

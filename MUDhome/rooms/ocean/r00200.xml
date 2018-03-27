@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="200" Version="2.40" Area="ocean">
+  <Name>Foyer of the old mansion</Name>
+  <ShortDescription>This is the entrance to the old, creepy mansion.</ShortDescription>
+  <LongDescription>Before you to the north lies a large, twisting staircase that leads up
+into the unknown darkness of the house above.  To the east is what appears
+to be a living room of some sort, except that it hasn't been lived in for
+ages.  To the west is another room which you are unable to see very well.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">21</Mob>
+      <Mob Area="ocean" Num="1">16</Mob>
+      <Mob Area="ocean" Num="2">16</Mob>
+      <Mob Area="ocean" Num="3">21</Mob>
+      <Mob Area="ocean" Num="4">18</Mob>
+      <Mob Area="ocean" Num="5">18</Mob>
+      <Mob Area="ocean" Num="6">17</Mob>
+      <Mob Area="ocean" Num="7">17</Mob>
+      <Mob Area="ocean" Num="8">16</Mob>
+      <Mob Area="ocean" Num="9">17</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">201</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">202</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">210</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1990</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

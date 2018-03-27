@@ -1,0 +1,16 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  bloodsacrifice    |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This command, if done successfully, allows a death knight to exceed his or her
+maximum HP. They can surpass the maximum by the energy their evil arua drains
+off of their opponent, which gets added on to their HP.
+
+Example:
+(32 H 11 M): bloodsac
+Your blood loss feeds the demons you serve.  You feel their power surround you.
+(32 H 11 M): k worker
+You slash the field worker for 5 damage.
+Your aura of evil drains 2 hit points from your opponent.
+(34 H 11 M):
+

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="2276" Version="2.40" Area="ocean">
+  <Name>Imeldia's Potions and Stuff</Name>
+  <ShortDescription>You can see by the way the shop is put together that this must be some
+sort of magic shop.  There are bubbling potions everywhere you look.</ShortDescription>
+  <LongDescription>Imeldia is not the greatest alchemist in the land, but provides her
+customers with a number of essential potions and powerders that might
+be useful in their adventures through Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1708</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

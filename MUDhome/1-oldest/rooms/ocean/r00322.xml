@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="322" Version="2.40" Area="ocean">
+  <Name>Bendine Aquarium Main Hallway</Name>
+  <ShortDescription>You are in the Main Hallway, exploring the wonders of the Bendine Aquarium.</ShortDescription>
+  <LongDescription>The hallway continues to the east and west.  To the west, you can see the
+giant Fresh Water Aquarium where all kinds of wierd and strange creatures
+live.  To the north, you can see the room where the octopi are kept.  The
+Octopus Tank can hold a number of octopi, which are inherently dangerous.
+Caution should be exercised when entering this tank.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">318</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">323</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

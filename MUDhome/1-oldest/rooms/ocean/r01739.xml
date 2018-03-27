@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1739" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive/Netherworld Lane Intersection</Name>
+  <ShortDescription>You are at the intersection of Wakeforest Drive and Netherworld Lane.</ShortDescription>
+  <LongDescription>You are getting close to the easternmost borders of the city, which lie
+but a block to the east.  Wakeforest Drive runs north and south through
+the eastern section of the city, past the Wakarimasu Parks.  Netherworld
+Lane runs east and west past the main entrance of the city's Necropolis 
+towards the center of town.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1770</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1771</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">763</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1740</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

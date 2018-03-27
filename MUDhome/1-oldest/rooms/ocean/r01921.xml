@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="1921" Version="2.40" Area="ocean">
+  <Name>Adventures Unlimited Treasure Maps and Accessories</Name>
+  <ShortDescription>You are in the famous (or infamous) Treasure Maps and Accessories Shop.</ShortDescription>
+  <LongDescription>Adventures Unlimited is a franchise service which buys and sells treasure
+maps and other artifacts for the treasure hunter.  Although they have
+a reputation for being reputable, no one has ever seemed to survive long
+enough to find the treasure they claim to have bought a map to.  Whether
+or not treasure exists probably depends on the skill of the purchaser,
+and not the reputability of the seller.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1920</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="554" Version="2.40" Area="ocean">
+  <Name>Hillborough Way</Name>
+  <ShortDescription>You are walking along Hillborough Way, north of the Temple of Ahto.</ShortDescription>
+  <LongDescription>Ahto is one of the more popular gods of the sea, second only to Poseidon.
+Ironically, both obviously cannot exist at the same time, and many also
+believe they're one in the same person.  The Regal House of Silver is 
+located on the north side of the street, providing customers with the
+finest silver trinkets, weapons and some limited armors.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">553</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">519</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

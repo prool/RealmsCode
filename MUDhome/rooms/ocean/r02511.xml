@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2511" Version="2.40" Area="ocean">
+  <Name>Charybdis Way</Name>
+  <ShortDescription>You are on Charybdis Way between Tiamat Lane and Myrr Lane.</ShortDescription>
+  <LongDescription>A sturdy wall keeps you from the Great Observatory grounds to the east.
+on the west side are three pubs in a row.  The northernmost pub has the
+the largest sign, which reads "Red Dragon Pub - Coldest Ale in the City."
+You have to descend some steps to get there.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2021</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2012</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="steps">
+      <Keys/>
+      <Room Area="ocean">2017</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

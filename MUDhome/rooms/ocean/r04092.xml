@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="4092" Version="2.40" Area="ocean">
+  <Name>Darkened Tunnel</Name>
+  <ShortDescription>You are in a dark tunnel below the hermit's cave.</ShortDescription>
+  <LongDescription>Strange varieties of fungus can be seen growing on the moist walls
+of the tunnel.  Frogs and small lizards seems to crawl about, often
+crossing your path in a nervous frenzy.  Their croaks and movements
+echo throughout the passage, creating almost a musical noise.</LongDescription>
+  
+  <Established>774575196</Established>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4091</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4093</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

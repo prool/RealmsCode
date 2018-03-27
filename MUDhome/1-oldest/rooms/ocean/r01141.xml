@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1141" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are on Hillcrest Drive, just west of Main Street.</ShortDescription>
+  <LongDescription>Hillcrest Drive runs between the Dragon Tooth Inn, a very luxurious
+inn for the wealthy travelers, on the north, and the Temple of the 
+Rising Moon, a clerical order of balance, to the south.  The Temple
+cannot be reached from this side; the entrance is off of Regalia Drive,
+one block to the south.  The entrance to the Dragon Tooth Inn is 
+located to the west, and around the corner to the north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1006</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1142</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

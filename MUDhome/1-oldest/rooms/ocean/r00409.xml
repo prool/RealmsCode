@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="409" Version="2.40" Area="ocean">
+  <Name>Evenborough Way</Name>
+  <ShortDescription>You are walking along Evenborough Way, west of the Evenborough Park.</ShortDescription>
+  <LongDescription>The lush, green grass of the Everborough Park makes it an ideal place to
+sit down for a rest between walks.  It is a long way from one end of the
+city to the other.  On the west side of the road, you can see Sir Edward's
+Royal Swordsmith, where most of the swords used by the Knights of the Castle
+are forged.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">408</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">410</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

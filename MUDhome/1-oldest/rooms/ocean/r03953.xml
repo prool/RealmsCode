@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3953" Version="2.40a" Area="ocean">
+  <Name>Spiral Staircase</Name>
+  <ShortDescription>You are in the clouds on a redwood staircase, winding around a huge tree.</ShortDescription>
+  <LongDescription>A rope ladder hangs down to a spiraling staircase below, which disappears
+in the clouds below you.  Your's so high, it's hard to see anything on the
+ground below you.  There's a message burned into the tree here.  Looks like
+Trantori doesn't want any visitors.  "Leave now, or become a toad for the
+rest of your life."</LongDescription>
+  
+  <Established>770342171</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3952</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="rope">
+      <Keys/>
+      <Room Area="ocean">3954</Room>
+      <Flags>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

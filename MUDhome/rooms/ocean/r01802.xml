@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1802" Version="2.40" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are walking along Waterfront Way, in front of the Dentra Archery Range.</ShortDescription>
+  <LongDescription>The entrance to the Advanced Archer's Archery Range is located on the
+south side of the road.  This range is used by only the finest archers
+in the land.  To prevent some embarassment, young archers are urged to
+get permission before entering this area of the Dentra Archery Range.
+Competition can be fierce, but always a lot of fun.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1735</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1803</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="884" Version="2.41b" Area="ocean">
+  <Name>Orchard Compound</Name>
+  <ShortDescription>You are in broad compound surrounded by several farm buildings.</ShortDescription>
+  <LongDescription>One building appears to be a storage shack for farm tools, and another
+is the foreman's office.  A small general store is on the western side
+of the compound.  Further to the west are a number of small homes for
+the field hands who work for the Chateau Richland Winery.</LongDescription>
+  
+  <Established>755891382</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">122</Mob>
+      <Mob Area="ocean" Num="1">122</Mob>
+      <Mob Area="ocean" Num="2">186</Mob>
+      <Mob Area="ocean" Num="3">186</Mob>
+      <Mob Area="ocean" Num="4">398</Mob>
+      <Mob Area="ocean" Num="5">398</Mob>
+      <Mob Area="ocean" Num="6">398</Mob>
+      <Mob Area="ocean" Num="7">398</Mob>
+      <Mob Area="ocean" Num="8">399</Mob>
+      <Mob Area="ocean" Num="9">399</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">883</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">886</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="path">
+      <Keys/>
+      <Room Area="ocean">890</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="office">
+      <Keys/>
+      <Room Area="ocean">889</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

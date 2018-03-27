@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="2198" Version="2.40" Area="ocean">
+  <Name>Allisk Labyrinth</Name>
+  <ShortDescription>You are somewhere inside the Allisk Labyrinth, no doubt quite lost.</ShortDescription>
+  <LongDescription>You are apperently lost inside the Allisk Labyrinth.  The stone-grey walls
+appear identical in every direction you look.  Although you feel like you
+haven't been in this direction before, you also feel that somehow you're
+going around in circles.  The Labyrinth was built many centuries ago and
+rumor has it that minotars and flying snakes still roam the corridors 
+looking for food.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">249</Mob>
+      <Mob Area="ocean" Num="1">250</Mob>
+      <Mob Area="ocean" Num="2">249</Mob>
+      <Mob Area="ocean" Num="3">250</Mob>
+      <Mob Area="ocean" Num="4">249</Mob>
+      <Mob Area="ocean" Num="5">250</Mob>
+      <Mob Area="ocean" Num="6">27</Mob>
+      <Mob Area="ocean" Num="7">27</Mob>
+      <Mob Area="ocean" Num="8">27</Mob>
+      <Mob Area="ocean" Num="9">250</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2188</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2197</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2208</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

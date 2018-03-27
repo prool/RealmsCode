@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="695" Version="2.40" Area="ocean">
+  <Name>Islandia Drive</Name>
+  <ShortDescription>You are walking along Islandia Drive, north of the Darmanian Memorial.</ShortDescription>
+  <LongDescription>The Darmanian Memorial is a preservation for the ancient relics and other
+findings of an ancient civilization known only as the Darmanians (roughly
+translated by one of the mages with an expertise in ancient languages).
+The preservation is carefully assembled to allow anyone interested to 
+look at and examine the various artifacts from the ancient society.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">694</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">407</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

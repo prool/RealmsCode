@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1249" Version="2.40" Area="ocean">
+  <Name>Khelleva Road</Name>
+  <ShortDescription>You are walking along a narrow road, running through the Khelleva Estate.</ShortDescription>
+  <LongDescription>This small road runs southeast from the Khelleva Circle, located to the
+northwest.  It passes by the Khelleva Mansion and the Khelleva Stables,
+to the east and south respectively.  This small road was originally
+constructed to provide easy access to the Khelleva Mansion, but has since
+turned into a quick short-cut through town.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">1</Mob>
+      <Mob Area="ocean" Num="3">1</Mob>
+      <Mob Area="ocean" Num="4">8</Mob>
+      <Mob Area="ocean" Num="5">8</Mob>
+      <Mob Area="ocean" Num="6">8</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">4</Mob>
+      <Mob Area="ocean" Num="9">3</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1250</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1160</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

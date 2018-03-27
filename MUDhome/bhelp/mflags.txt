@@ -1,0 +1,236 @@
+MPERMT          1       /* Permanent monster */ 
+MHIDDN          2       /* Hidden */ 
+MINVIS          3       /* Invisible */ 
+MTOMEN          4       /* Man to men on plural */ 
+MDROPS          5       /* Don't add s on plural */ 
+MNOPRE          6       /* No prefix */ 
+MAGGRE          7       /* Aggressive */ 
+MGUARD          8       /* Guards treasure */ 
+MBLOCK          9       /* Blocks exits */ 
+MFOLLO          10      /* Monster follows attacker */ 
+MFLEER          11      /* Monster flees */ 
+MSCAVE          12      /* Monster is a scavenger */ 
+M_MALE          13      /* Sex == male */ 
+MPOISS          14      /* Poisons attackers */ 
+MUNDED          15      /* Undead */ 
+MUNSTL          16      /* Cannot be stolen from */ 
+MPOISN          17      /* Poisoned */ 
+MMAGIC          18      /* Monster can cast spells */ 
+MHASSC          19      /* Has already scavenged something */ 
+MBRETH          20      /* Monster breathes fire */ 
+MMGONL		  21	/* Monster only harmed by magic */ 
+M_FACTION_ASSIST  22	// monster will assist members of primeFaction
+MENONL		  23	/* +1 or better weapon to hit */ 
+MTALKS          24      /* Monster can talk interactively */ 
+MUNKIL          25      /* Monster cannot be harmed */ 
+MNRGLD          26      /* Monster has fixed amt of gold */ 
+MTLKAG          27      /* Becomes aggressive after talking */ 
+MRMAGI          28      /* Monster resists magic */ 
+MBRWP1          29      /* Monster breathes acid */ 
+MBRWP2          30      /* Monster breathes frost */ 
+MENEDR          31      /* Monster drains energy (exp) */ 
+MKNGDM          32      /* Monster breathes poison gas */ 
+MPLDGK          33      /* Players can pledge to monster */ 
+MRSCND          34      /* Players can rescind to monster */ 
+MDISEA          35      /* Monster causes disease */ 
+MDISIT          36      /* Monster can dissolve items */ 
+MPURIT          37      /* Player can purchase from monster */ 
+MTRADE          38      /* Monster will give items */ 
+MPGUAR          39      /* Passive exit guard */ 
+MGAGGR          40      /* Monster aggro to good players */ 
+MEAGGR          41      /* Monster aggro to evil players */ 
+MDEATH          42      /* Monster has additon desc after death */ 
+MMAGIO          43      /* Monster cast magic percent flag (prof 1) */ 
+MRBEFD          44      /* Monster resists stun only */ 
+MNOCIR          45      /* Monster cannot be circled */ 
+MBLNDR          46      /* Monster blinds */ 
+MDMFOL          47      /* Monster will follow DM */ 
+MFEARS          48      /* Monster is fearful */ 
+MSILNC          49      /* Monster is silenced */ 
+MBLIND          50      /* Monster is blind */ 
+MCHARM          51      /* Monster is charmed */ 
+MMOBIL          52      /* Mobile monster */ 
+MROBOT          53      /* Logic Monster (scripted) */ 
+MTHIEF          54      /* Thief [BDyess] */ 
+MFWAND          55      /* Fast wander [BDyess] */ 
+MPET            56      /* Is, or can be, a pet [BDyess] */ 
+MPROTE          57      /* Can cast Protection on [BDyess] */ 
+MBLESS          58      /* Can cast Bless on [BDyess] */ 
+MLEVIT          59      /* Can cast levitation on [BDyess] */ 
+MFLYSP          60      /* Can cast fly on [BDyess] */ 
+MSSHLD          61      /* Can cast earth-shield on [BDyess] */ 
+MBRWAT          62      /* Can cast breathe-water on [BDyess] */
+M_SEXLESS       63      /* Creature is sexless */ 
+MRFIRE          64      /* Can cast resist-fire on [BDyess] */ 
+MEARTH          65      /* Creature of earth [BDyess] */ 
+MWIND           66      /* Creature of air [BDyess] */ 
+MFIRE           67      /* Creature of fire [BDyess] */ 
+MWATER          68      /* Creature of water [BDyess] */ 
+MEXPIR          69      /* Creature expires [BDyess] */ 
+MCORPS          70      /* Monster leaves a corpse [BXKIM] */ 
+MIREGP          71      /* Irregular plural monster */
+MNOWAN          72      /* Monster never mobile */
+MREART          73      /* Resists earth realm */
+MRAIR           74      /* Resists air realm */
+MRFLAM          75      /* Resists fire realm */
+MRWATR          76      /* Resists water realm */
+MVEART          77      /* Vulnerable to earth realm */
+MVAIR           78      /* Vulnerable to air realm */
+MVFLAM          79      /* Vulnerable to fire realm */
+MVWATR          80      /* Vulnerable to water realm */
+MRSHRP          81      /* Resists sharp weapons */
+MRTHRS          82      /* Resists thrust weapons */
+MRBLNT          83      /* Resists blunt weapons */
+MRPOLE          84      /* Resists pole weapons */
+MRMISL          85      /* Resists missile weapons */
+MVSHRP          86      /* Vulnerable to sharp weapons */
+MVTHRS          87      /* Vulnerable to thrust weapons */
+MVBLNT          88      /* Vulnerable to blunt weapons */
+MVPOLE          89      /* Vulnerable to pole weapons */
+MVMISL          90      /* Vulnerable to missile weapons */
+MREGEN          91      /* Monster regenerates */
+MTWO            92      /* +2 or better weapon needed to hit */
+MTHREE          93      /* +3 or better weapon needed to hit */
+MSMOTH          94      /* Earth smother attack */
+MSTEAL          95      /* Monster steals if attacking */
+MSAGGR          96      /* Monster steals randomly on sight */
+MBRLIG          97      /* Breathes lightning */
+MFSHIE          98      /* Monster has fire-shield spell on */
+MPSYBL          99      /* Monster has Psychic energy blast */
+MWBASS          100     /* Will be assisted */
+MWASSI          101     /* Will assist */
+MNIGHT          102     /* Only comes at night */
+MAGOUT          103     /* Monster aggros outlaws */
+MWBACK          104     /* Monster will backstab, (needs to be hidden) */
+MWBASH          105     /* Monster will bash */
+MWCIRC          106     /* Monster will circle */
+MWWIEL          107     /* Monster wields weapons */
+MOFFER		108	/* Monster will accept offers (NOt in yet) */
+MWBITE		109	/* Monster will bite */
+MDAY            110     /* Monster will come only during the day */
+MNSHOW          111     /* Doesn't show when monster arrives */
+MHIRE           112     /* Mob is hireable */
+MHLEAV          113     /* DON'T USE, used for hire */
+MRDODG          114     /* Monster not dodgeable */
+MDMIST          115     /* Monster detects mist */
+MRBITE          116     /* Monster cannot be bitten */
+MASHOP          117     /* Monster after a shoplifter - DONT SET */
+MCHASE          118     /* Monster chasing someone - DONT SET */
+MRCIRC          119     /* Monster resists circle as undead */
+MWYELL          120     /* Monster will yell for help */
+MYELLD          121     /* Monster yelled for help - DONT SET */
+MNYELL          122     /* Do not show "monster yells" message */
+MBSPEL          123     /* Monster casts beneficial spells at random */
+MWBLOG          124     /* Monster logged */
+MBITES          125     /* Monster always bites */
+MTAILS          126     /* Monster has tail slap attack */
+MLSTUN          127     /* Resist-stun based on caster level */
+MRTOUC          128     /* Monster resists touch */
+MGREDY	        129	/* Monster will knock someone unconsious and steal
+			   gold - can be used with flag 7 */
+MPOLCE          130     /* Monster will knock someone unconsious and haul
+		        them off to jail (2645) or whever u *set j mob # to)
+MLVLRE          131     /* Level restricted attack */
+MNSTAB          132     /* Monster cannot be backstabbed  */
+MUNDEW          133     /* Monster cannot be hurt by animated creatures */
+MTRAMP	        134     /* Monster is big enough to trample people */
+MNEART          135     /* Monster immune to earth realm */
+MNAIR           136     /* Monster immune to air realm */
+MNFIRE          137     /* Monster immune to fire realm */
+MNWATR          138     /* Monster immune to water realm */
+MNELEC          139     /* Monster immune to electricity realm */
+MNICE           140     /* Monster immune to ice realm */
+                141     /* unused */
+                142     /* unused */
+MRELEC          143     /* Monster resists electricity realm */
+MRICER          144     /* Monster resists ice realm */
+                145     /* unused */
+                146     /* unused */
+MVELEC          147     /* Monster vulnerable to electricity */
+MVICER          148     /* Monster vulnerable to ice realm */
+                149     /* unused */
+                150     /* unused */
+MNSHRP          151     /* Monster immune to sharp weapons */
+MNTHRS          152     /* Monster immune to thrust weapons */
+MNBLNT          153     /* Monster immune to blunt weapons */
+MNPOLE          154     /* Monster immune to pole weapons */
+MNMISL          155     /* Monster immune to missile weapons */
+MWARMT          156     /* Monster under warmth spell */
+/* Do not set mflags 157-160 without DM permission. */
+MNLONE          157     /* Immune level 1 spells */
+MNLTWO          158     /* Immune to level 2 spells or less */
+MNLTHR          159     /* Immune to level 3 spells or less */
+MNLFOU          160     /* Immune to level 4 spells or less */
+MNKICK          161     /* Cannot be kicked (for things like slimes) */
+MDSCRE          162     /* Monster has a deadly scream attack */
+MWSNEA          163     /* Monster will sneak */
+MSNEAK          164     /* Monster is sneaking - DO NOT SET */
+/* Do not set 165 or 166 without talking to a DM */
+MRAGGR          165     /* Monster randomly aggro on loading */
+MWAGGR          166     /* Monster will go aggro (based on update) */
+MNPOIS          167     /* Monster not poisonable */
+MNCHRM          168     /* Monster not charmable */
+MSUNDE          169     /* Monster is special undead (harder to turn) */
+MSPOIS          170     /* Monster under slow poison spell - DO NOT SET */
+MWTURN          171     /* Monster will turn undead */
+MWTOUC          172     /* Monster will use touch of death */
+MNLEXP          173     /* No EXP loss from monster */
+MHASTE          174     /* Monster is hasted by spell - DO NOT SET */
+MSLOWD          175     /* Monster is slowed by spell - DO NOT SET */
+MSTING          176     /* Monster has poisonous sting */
+MFTOVE          177     /* 'f' to 'ves' plural: wolf -> wolves */
+MPGAZE          178     /* Monster has petrifying gaze attack */
+MBPETR          179     /* Monster has petrifying breath attack */
+MSTONE          180     /* Monster's touch can turn to stone */
+MWRENO          181     /* Monster will renounce */
+MAAGGR          182     /* Monster always aggressive */
+MKPERM          183     /* Mob will attack perm creatures */
+MKAMOB          184     /* Mob attacks all mobs it will not assist */
+MKMAST          185     /* Mob kills master - not pet */
+MWKICK          186     /* Mob will kick */
+MFTICK          187     /* Mob fast ticks when no one in room */
+MRESXP          188     /* Lower exp after max-killable level */
+MSTREN          189     /* Monster under strength spell */
+MWEAKN          190     /* Monster under weakness spell */
+MITOLL          191     /* Monster is a tollkeeper */
+MAVARY          192     /* Monster's alignment will vary */
+MATHAC          193     /* Mobs assist each others' thac0s */ 
+MSWEEP          194     /* Mob is a streetsweeper - cleans rooms */
+MCUSTM          195     /* Mob is custom - has no specific mtype. */
+MNOADJ          196     /* Mob will not adjust on loading */
+MHASBS          197     /* Mob has backstabbed */
+MRCLEA          198     /* Mob resists cleave */
+MVCLEA          199     /* Mob vulnerable to cleave */
+MNCLEA          200     /* Mob immune to cleave */
+MRACTI          201     /* StayActive - DO NOT SET THIS */
+MNACRT          202     /* Immune to auto-crit weapons */
+MCGAZE          203     /* Confusing gaze */
+MAMAGI          204     /* Monster blocks casting in room */
+MMSTUN          205     /* Mob is mage/lich stun only */
+MAFIRE          206     /* Mob has fire aura */
+MACOLD          207     /* Mob has cold aura */
+MANAUS          208     /* Mob has nauseating aura */
+MANEGA          209     /* Mob has negative aura */
+MAWIND          210     /* Mob has turbulent wind aura */
+                211     /* unused */
+                211     /* unused */
+                213     /* unused */
+M_WOUNDING      214     /* Mob has festering wound attack */
+M_BERSERK       215     /* Mob is berserk */
+M_W_Berserk     216     /* Mob will go berserk */
+MPORTED         217     /* Mob was teleported */
+MLDRAIN         218     /* Mob will temp drain levels */
+MBWIND          219     /* Mob has windblast breath */
+MMPZAP          220     /* Mob will zap player's MP */
+MRAGGI          221     /* Race aggro flag invert */
+MCAGGI          222     /* Class aggro flag invert */
+MDGAZE          223     /* Monster has death gaze */
+MSVFUL          224     /* Save entire mob (DO NOT SET) */
+MDAGGI          225     /* Diety aggro flag invert */
+MYTOIE          226     /* 'y' to 'ies' plural: sentry -> sentries */
+MOFELEC         227     /* ofElec */
+MOFCOLD         228     /* ofCold */
+MSSKIN          229     /* Stoneskin spell */
+MDARK           230     /* Darkness spell */
+MRAID           231     /* Raiding */
+

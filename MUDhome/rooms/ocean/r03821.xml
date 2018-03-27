@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Room Num="3821" Version="2.40" Area="ocean">
+  <Name>Under The Grandstand</Name>
+  <ShortDescription>You are crouching under the grandstand at the Seaside Carnival.</ShortDescription>
+  <LongDescription>Peanuts and popcorn shower down on top of you from the grandstand
+as you crouch uncomfortably under the crowds of people.  You had
+best be careful, for you never know what awful things those pesty
+village children might drop from the stands.  There is an awful 
+stench down here, due mainly to the sticky, moldy foods dropped
+from above and the hoards of stray dogs and cats which have made
+their homes here where the maintenance people must come to chase
+them away.  Find your way out before you fall victim to the pesti-
+lence breeding here.  The noise which comes from the north is your
+clue that the center ring might be in that direction.</LongDescription>
+  
+  <Established>765770505</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3826</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3827</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3822</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="curtain">
+      <Keys/>
+      <Room Area="ocean">3817</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3829</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

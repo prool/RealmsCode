@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  confusion        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+A confusion attack is a special ability that some monsters have, often
+delivered through a gaze attack.
+
+A confused player will not always be able to walk in the direction they are
+trying to go, may attack random creatures in the room (including yourself),
+or flee from phantom danger. Your speech will be garbled and it will be
+very difficult to understand what you are saying. An insight spell will
+dispel any confusion you are under and will keep you from being confused
+for the duration of the spell. A feeblemind spell makes you completely
+vulnerable to confusion.
+

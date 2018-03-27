@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3635" Version="2.40" Area="ocean">
+  <Name>Main Courtyard East</Name>
+  <ShortDescription>You are near the eastern wall of the great courtyard in Castle Ragnar.</ShortDescription>
+  <LongDescription>A large red and white tent stands just north of you, its tent flap open
+and obscured by a blue steam or mist coming from inside.  To the west
+is a great expanse of flagstone and marble where you see an odd assortment
+of people gathered.  As you look up, you see towers and turrets which 
+seem to get lost in the clouds above.  Castle Ragnar has never been
+fully explored, and every so often a new room or hallway is found.</LongDescription>
+  
+  <Established>762646119</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3626</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3636</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3634</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

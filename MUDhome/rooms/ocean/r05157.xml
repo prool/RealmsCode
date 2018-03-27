@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5157" Version="2.40" Area="ocean">
+  <Name>Western Concourse</Name>
+  <ShortDescription>You are on the western concourse of the black Castle of Kayleigh.</ShortDescription>
+  <LongDescription>Someone has written their name in the black soot on the wall, and a word.
+The word appears to be "Krakenvoch."  Is it also a name?  or a warning?
+There's more writing, but in a language you do not speak.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5131</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5154</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

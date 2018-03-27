@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1610" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along Overland Drive, north of Nagaritha Drive.</ShortDescription>
+  <LongDescription>Overland Drive intersects Nagaritha Drive a little way to the south.  On
+the east side of the road, you can see the vast Chateau Richland Grape
+Orchard.  The west side of the road is dominated by the Circle-Bar Ranch
+House and the Cattle Ranch, where most of the cattle in Oceancrest are
+raised and slaughtered.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1220</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1609</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

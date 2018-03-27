@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1298" Version="2.40" Area="ocean">
+  <Name>West Side of Stump</Name>
+  <ShortDescription>You are between the Ashton creek and the west side of a great stump.</ShortDescription>
+  <LongDescription>The path continues in a circle, staying close to the great stump.  The
+gnarly roots twist and turn in every direction, making it difficult to
+to climb over them in places.  Not far to the west is the creek, and a
+little further to the north you can see a rope bridge going from east
+to west across it.</LongDescription>
+  
+  <Established>755861483</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1297</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2133</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

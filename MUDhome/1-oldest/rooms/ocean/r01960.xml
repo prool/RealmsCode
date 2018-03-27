@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Room Num="1960" Version="2.40" Area="ocean">
+  <Name>DeNail Corn Fields</Name>
+  <ShortDescription>You are in the DeNail Corn Fields, scaring away crows and other pests.</ShortDescription>
+  <LongDescription>The corn smells sweet in the warm air.  Crows are constantly picking at
+the corn and your job is to scare them away.  The corn field is very 
+large and seems to expand in all directions.  The stalks are so tall,
+you can hardly see over the top.  It's even worse if you're already
+short.  Occassionally, you'll see some farm workers hauling away the
+corn.</LongDescription>
+  <HighLevel>3</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">117</Mob>
+      <Mob Area="ocean" Num="1">245</Mob>
+      <Mob Area="ocean" Num="2">245</Mob>
+      <Mob Area="ocean" Num="3">120</Mob>
+      <Mob Area="ocean" Num="4">122</Mob>
+      <Mob Area="ocean" Num="5">119</Mob>
+      <Mob Area="ocean" Num="6">119</Mob>
+      <Mob Area="ocean" Num="7">117</Mob>
+      <Mob Area="ocean" Num="8">120</Mob>
+      <Mob Area="ocean" Num="9">119</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1959</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1957</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1961</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1964</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

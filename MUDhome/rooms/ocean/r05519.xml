@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="5519" Version="2.40" Area="ocean">
+  <Name>Boar's Arse Pub</Name>
+  <ShortDescription>You are in one of the larger pubs located in the City of Hafnia.</ShortDescription>
+  <LongDescription>A lot of different races seem to enjoy this pub.  You are in the main tap
+room, and can see the pub also has a dining room in a separate part of
+the building.  An oaken stairway on the south side of the room goes to an
+upstairs section.  Looks like a couple of bouncers or guards are at the
+bottom of the stairs.  Something interesting is up there, no doubt.</LongDescription>
+  
+  <Established>783896519</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">945</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="dining room">
+      <Keys/>
+      <Room Area="ocean">5520</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stairs">
+      <Keys/>
+      <Room Area="ocean">5521</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

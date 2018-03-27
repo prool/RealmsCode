@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="160" Version="2.40" Area="ocean">
+  <Name>East Ulandia</Name>
+  <ShortDescription>You are on East Ulandia, near the east bank of the Baldywyne River.</ShortDescription>
+  <LongDescription>Most of the bank for as far as you can see is lush and green, but for
+some reason, there's no vegetation here.  The ground looks absolutely
+sterile, without even a weed growing.  In places it even looks scorched.
+The Brownhaven South Bridge is just up the road to the north, and this
+unhappy condition seems to extend to the underside of the bridge.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">2</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">155</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">165</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

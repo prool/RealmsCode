@@ -1,0 +1,22 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  hire           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Hire allows you to take a monster as a pet that would help you during battle.
+After a while, you must recompensate the monster for his efforts if you would
+like to keep it. You may only hire monsters 3 levels lower than you; the higher
+level the monster, the more it costs to hire.
+
+Example:
+: hire doctor $1000
+The doctor begins to follow you.
+
+To see if a monster is hireable, just try and hire them. Not all monsters are
+hireable. To see how much it costs to hire a monster, you can try and hire them
+for one gold coin.
+
+Example:
+: hire guard $1
+The Highport guardsman demands at least 7500 gold coins.
+
+(Note that Highport Guardsmen are NOT hireable. This is just an example.)

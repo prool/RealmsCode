@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="542" Area="ocean" Version="2.40">
+  <Name>crystal compass</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">compass</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>You see a beautifully intricate crystaline compass.  It looks very delicate.</Description>
+  <UseOutput>A musical voice from the crystals says, "give me a living target to seek."</UseOutput>
+  <Weight>2</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>21</MagicPower>
+  <InBag/>
+</Object>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1369" Version="2.40" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are traveling along Hofton Avenue, south of the City Walls.</ShortDescription>
+  <LongDescription>The Northern City Walls disappear behind the large military building 
+located to the east as Hofton turns to the southeast up ahead.  To the
+west, you can see the intersection with Riverdell Way.  On the south are
+the East Oceancrest City Guard Barracks, where much of the city guard is
+stationed.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1368</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1300</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

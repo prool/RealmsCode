@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1609" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along Overland Drive, east of the Circle-Bar Ranch House.</ShortDescription>
+  <LongDescription>The Circle-Bar Ranch House provides much of the meat and meat by-products
+that are consumed by the citizens of Oceancrest.  Many of the best butchers
+have at one time worked for the Circle-Bar Ranch, preparing the cattle
+for consumption.  The Cattle Ranch is located west of the Ranch House.  The
+Chateau Richland Grape Orchard is located to the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1610</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1608</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

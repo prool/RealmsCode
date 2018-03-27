@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="2311" Version="2.40" Area="ocean">
+  <Name>Deni's World of Spices</Name>
+  <ShortDescription>Rare herbs and spices are always a commodity in Oceancrest.</ShortDescription>
+  <LongDescription>Some spices are said to have magical or mystical powers associated with
+them.  Most, however, are just used for seasonings or to preserve meats.
+There are shelves upon shelves of herbs and spices along the walls, most
+of which you've never seen before.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2306</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

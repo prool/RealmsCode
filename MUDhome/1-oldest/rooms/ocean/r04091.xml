@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="4091" Version="2.40" Area="ocean">
+  <Name>Hermit's Storage</Name>
+  <ShortDescription>You are in a narrow, dark tunnel which Xandaus uses for storage purposes.</ShortDescription>
+  <LongDescription>Wooden boxes and chests with contents unknown are neatly stack on one
+side of the tunnel, while on the other side, a large oak rack supports
+the weight of numerous potion bottles and vials.  Despite the 
+organization of the items, everything seems to be covered in dust.</LongDescription>
+  
+  <Established>774489354</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2137</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4092</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

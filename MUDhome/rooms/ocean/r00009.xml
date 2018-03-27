@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="9" Version="2.40a" Area="ocean">
+  <Name>Dur's Think Tank</Name>
+  <ShortDescription>This is where Dur comes up with his marvelous ideas for Mordor.</ShortDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="3"/>
+    <Bit Num="5"/>
+    <Bit Num="10"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="328" Version="2.40" Area="ocean">
+  <Name>Bendine Aquarium Piranha Exhibit</Name>
+  <ShortDescription>You are in the exhibit with a large pool of swimming piranha in the center.</ShortDescription>
+  <LongDescription>The large pool in the center contains many vicious piranha swimming around
+in packs of up to twenty.  It is not really advised that you even touch the
+water around the pool because piranha can smell blood miles away.  It is
+said that a swarm of piranha can debone a living horse in less than a couple
+of minutes.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">325</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="pool">
+      <Keys/>
+      <Room Area="ocean">329</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

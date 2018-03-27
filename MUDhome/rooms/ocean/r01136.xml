@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1136" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along Overland Drive, south of the Guard Headquarters.</ShortDescription>
+  <LongDescription>The City Guard Crime Patrol Headquarters is located to the north of 
+Overland Drive.  Two large guards patrol the entrance and you can see
+a number of city guards leave to patrol the streets.  The guards at
+the front entrance are looking at you funny as you continue to stare
+at them.  Main Street is to the east of here.  On the south side of the
+street is the Dragon Tooth Inn, an exclusive inn for the discriminating
+visitor.  The entrance is to the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1009</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1137</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

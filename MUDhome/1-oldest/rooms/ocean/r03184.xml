@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3184" Version="2.40" Area="ocean">
+  <Name>Whirlpool Below the Cliffs</Name>
+  <ShortDescription>You are being swirled around and around in a whirlpool below the cliffs.</ShortDescription>
+  <LongDescription>You could probably swim away from this whirlpool if you wanted, it doesn't
+seem to be that strong, but if you are curious you will see where it takes
+you.  The cliffs are almost directly overhead, but the whirlpool seems to
+be pulling things down a little closer to the cliffs in the north.</LongDescription>
+  
+  <Established>756114229</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>3</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">385</Mob>
+      <Mob Area="ocean" Num="1">289</Mob>
+      <Mob Area="ocean" Num="2">302</Mob>
+      <Mob Area="ocean" Num="3">293</Mob>
+      <Mob Area="ocean" Num="4">349</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3185</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3183</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3182</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

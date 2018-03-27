@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1600" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along a very eerie stretch of Overland Drive.</ShortDescription>
+  <LongDescription>Overland Drive runs in between the Necropolis on the north side of the
+road and the Estate of Natasha de Allisk on the south side.  It is 
+rumored that the Manor is still haunted by old ghosts and the previous
+owner of the mansion.  It is also rumored that Natasha herself still
+roams the halls.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1239</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1601</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

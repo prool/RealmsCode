@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="1199" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive, just west of Riverdell Park.</ShortDescription>
+  <LongDescription>The Riverdell Tranquility Park is a large city block, set aside primarily
+for natural preservation purposes.  The large number of trees and shrubs
+protected by the park makes it an ideal location for rangers of all levels
+to train in the skills of tracking and searching.  On the west is a large
+weapons and armor retailer.  Known as Evander's World of Weapons, the 
+center sells many exotic and rare items.  The center must be entered from
+either the north or south.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1198</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1200</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1935</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

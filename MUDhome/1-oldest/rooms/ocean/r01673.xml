@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="1673" Version="2.40" Area="ocean">
+  <Name>Appleton Road/Waterfront Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Waterfront Way and Appleton Road.</ShortDescription>
+  <LongDescription>You are in a relatively minor intersection as Appleton Road is usually
+not a very traveled road.  Appleton Road continues in a diagonal path
+to the southeast towards Golden Dolphin Way.  Waterfront Way runs east
+and west from one end of town to the other.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1672</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1674</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1668</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1669</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

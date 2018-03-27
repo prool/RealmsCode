@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="44" Area="ocean" Version="2.40">
+  <Name>black vestments</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>9</ShotsMax>
+  <ShotsCur>9</ShotsCur>
+  <Armor>8</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">25</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">vestments</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="3"/>
+  </Flags>
+  <Description>These vestments are the typical clothing of priests and monks.</Description>
+  <Weight>2</Weight>
+  <Type>6</Type>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

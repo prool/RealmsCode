@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="5480" Version="2.40" Area="ocean">
+  <Name>Tasletek Village</Name>
+  <ShortDescription>You are in the center of Tasletek Village, near Hafnia Mountain Road.</ShortDescription>
+  <LongDescription>The Snow Flower Inn is the largest of the five buildings in the village. 
+looks like a few retired hobbits have settled here, from the signs on 
+the doors.  Toby's appears to be a smithy, while Trabin might sell a few
+pieces of armor and weapons.  Tillie runs a small pawn shop.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">237</Mob>
+      <Mob Area="ocean" Num="1">757</Mob>
+      <Mob Area="ocean" Num="2">757</Mob>
+      <Mob Area="ocean" Num="3">237</Mob>
+      <Mob Area="ocean" Num="4">237</Mob>
+      <Mob Area="ocean" Num="5">757</Mob>
+      <Mob Area="ocean" Num="6">757</Mob>
+      <Mob Area="ocean" Num="7">237</Mob>
+      <Mob Area="ocean" Num="8">757</Mob>
+      <Mob Area="ocean" Num="9">757</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5448</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="inn">
+      <Keys/>
+      <Room Area="ocean">5482</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="toby's">
+      <Keys/>
+      <Room Area="ocean">5481</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="trabin's">
+      <Keys/>
+      <Room Area="ocean">5483</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tillie's">
+      <Keys/>
+      <Room Area="ocean">5485</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

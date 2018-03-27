@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="1942" Version="2.40" Area="ocean">
+  <Name>Silk Dreams Dancing Stage</Name>
+  <ShortDescription>You have somehow made it up to the stage to fondle the dancers.</ShortDescription>
+  <LongDescription>Now you've really pissed some people off.  It's not a very good idea
+to jump onto the stage while the girls are dancing.  A number of 
+bouncers try to get you off the stage as the dancers are running about
+creating more of a havoc.  You best return to your table, to the north,
+if you want to avoid a conflict.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">79</Mob>
+      <Mob Area="ocean" Num="1">79</Mob>
+      <Mob Area="ocean" Num="2">79</Mob>
+      <Mob Area="ocean" Num="3">79</Mob>
+      <Mob Area="ocean" Num="4">79</Mob>
+      <Mob Area="ocean" Num="5">79</Mob>
+      <Mob Area="ocean" Num="6">79</Mob>
+      <Mob Area="ocean" Num="7">243</Mob>
+      <Mob Area="ocean" Num="8">243</Mob>
+      <Mob Area="ocean" Num="9">243</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">79</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">79</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1940</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="backstage">
+      <Keys/>
+      <Room Area="ocean">1943</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

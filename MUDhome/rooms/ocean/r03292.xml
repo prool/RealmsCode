@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3292" Version="2.40" Area="ocean">
+  <Name>Evan's Potion Shoppe</Name>
+  <ShortDescription>You have entered Evan's magical potion shop, where you can buy many of your 
+favorite potions for your adventures in and about the city of Kista.</ShortDescription>
+  <LongDescription>Evan the Most Magnificent always thought he was a powerful mage, and
+had intelligence to become one, had he not had such an ego.  His potions
+are every bit as good as the ones you can buy in Oceancrest, but his
+selection is poor.  Don't tell him that or you might get him mad.</LongDescription>
+  
+  <Established>756250672</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="11"/>
+    <Bit Num="32"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2501</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2567</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

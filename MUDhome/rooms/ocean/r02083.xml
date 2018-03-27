@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="2083" Version="2.40" Area="ocean">
+  <Name>Lady Drianna's Private Chambers</Name>
+  <ShortDescription>You are in Lady Drianna's personal and private chambers in the Towers.</ShortDescription>
+  <LongDescription>Lady Drianna is the stunningly beautiful elven wife of Lord Aaileman.
+This is the chamber where she goes when she's not accompanying him on his
+various duties.  She also uses this chamber for meeting with important
+individuals from the city.  Drianna is typically more understanding of the
+city's people and their problems.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>14400</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">234</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2544</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2081</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

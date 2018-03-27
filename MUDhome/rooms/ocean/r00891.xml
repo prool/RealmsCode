@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="891" Version="2.41b" Area="ocean">
+  <Name>Rest Area</Name>
+  <ShortDescription>This is the field workers rest area.  A single giant oak tree grows here.</ShortDescription>
+  <LongDescription>A small stream pools here, providing a reflecting surface for the tree
+branches above.  A lone picnic table stands in the middle of the area.
+Someone has wedged a wine keg in the lower boughs of the tree, and it
+seems to have a good amount still in it.  Perhaps this would be a good
+place for a nap after a nip.</LongDescription>
+  
+  
+  
+  <Established>755910624</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">21</Mob>
+      <Mob Area="ocean" Num="1">21</Mob>
+      <Mob Area="ocean" Num="2">117</Mob>
+      <Mob Area="ocean" Num="3">21</Mob>
+      <Mob Area="ocean" Num="4">21</Mob>
+      <Mob Area="ocean" Num="5">117</Mob>
+      <Mob Area="ocean" Num="6">21</Mob>
+      <Mob Area="ocean" Num="7">21</Mob>
+      <Mob Area="ocean" Num="8">117</Mob>
+      <Mob Area="ocean" Num="9">21</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">882</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

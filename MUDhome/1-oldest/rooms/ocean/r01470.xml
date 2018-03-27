@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="1470" Version="2.40" Area="ocean">
+  <Name>Balcony Over Gaming Lounge</Name>
+  <ShortDescription>You are on the balcony overlooking the gaming lounge.</ShortDescription>
+  <LongDescription>The gaming lounge is used to test out magical weapons and spells on
+helpless prisoners who were caught intruding on the palace.  There
+is a stairway down into the lounge to the southeast.  The balcony
+continues to the north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">168</Mob>
+      <Mob Area="ocean" Num="1">168</Mob>
+      <Mob Area="ocean" Num="2">167</Mob>
+      <Mob Area="ocean" Num="3">167</Mob>
+      <Mob Area="ocean" Num="4">166</Mob>
+      <Mob Area="ocean" Num="5">166</Mob>
+      <Mob Area="ocean" Num="6">166</Mob>
+      <Mob Area="ocean" Num="7">170</Mob>
+      <Mob Area="ocean" Num="8">170</Mob>
+      <Mob Area="ocean" Num="9">166</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1471</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1472</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1469</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

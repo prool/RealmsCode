@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<Room Num="2032" Version="2.40" Area="ocean">
+  <Name>Tower Lane/Charybdis Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Tower Lane and Charybdis Way.</ShortDescription>
+  <LongDescription>On the north side of Tower Lane are the famous Towers of Kista surrounded by
+a deep moat.  Further to the east, on both sides of the street, you can see
+the Royal Kista Arms, a hotel that caters to the upper class of society.
+The Milsene Museum is beyond the Kista Arms to the east.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">210</Mob>
+      <Mob Area="ocean" Num="1">207</Mob>
+      <Mob Area="ocean" Num="2">208</Mob>
+      <Mob Area="ocean" Num="3">202</Mob>
+      <Mob Area="ocean" Num="4">213</Mob>
+      <Mob Area="ocean" Num="5">214</Mob>
+      <Mob Area="ocean" Num="6">198</Mob>
+      <Mob Area="ocean" Num="7">211</Mob>
+      <Mob Area="ocean" Num="8">208</Mob>
+      <Mob Area="ocean" Num="9">208</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2549</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2031</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2566</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2504</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="moat">
+      <Keys/>
+      <Room Area="ocean">2058</Room>
+      <Flags>
+        <Bit Num="9"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

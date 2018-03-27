@@ -1,0 +1,7 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  scout          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Scout is a ability rangers and assassins have that allows them to view exits
+before entering them. This is very useful when nearby a aggressive area where
+you must take caution.

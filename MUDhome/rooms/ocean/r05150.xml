@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5150" Version="2.40" Area="ocean">
+  <Name>West Wall</Name>
+  <ShortDescription>This is the southwestern section of the castle wall.</ShortDescription>
+  <LongDescription>the room to the north appears to be an armory.  In the dim light you can see
+stacks of weapons and pieces of armor.  Any leather that might have been in 
+there was probably ruined by the fire.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5141</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5151</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5152</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

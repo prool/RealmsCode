@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="140" Version="2.40" Area="ocean">
+  <Name>East Ulandia</Name>
+  <ShortDescription>You are on the east bank of the Baldywyne River, walking on East Ulandia.</ShortDescription>
+  <LongDescription>There's a lot of cheering and noise coming from the building to the east.
+A large poster indicates the building houses a cock fighting arena.  The
+poster says that there is no-limit betting allowed, and your bet of any
+size will be covered.  There's a picture of two fighting cocks staring at
+each other, and the print underneath says they are both undefeated.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">2</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">135</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">145</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

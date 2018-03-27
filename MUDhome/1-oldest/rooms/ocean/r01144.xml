@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1144" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are walking along Hillcrest Drive, which runs east to west.</ShortDescription>
+  <LongDescription>On the north side of Hillcrest Drive is the Ministry of Truth building
+where everyone in the building insists that everyone else in the building
+is in fact lying.  In their attempt to figure out what is true, they
+have stumbled upon the problem that truth is what one makes it out to
+be, therefore nothing is true, but then again, nothing is false.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1145</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1143</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="418" Version="2.40" Area="ocean">
+  <Name>Lorian Parkway</Name>
+  <ShortDescription>You are walking along Lorian Parkway, east of the Shrine of Truth &amp; Fairness.</ShortDescription>
+  <LongDescription>On the east side of the road is Jeane's Glass and Glazing shop, where you
+can pick up all kinds of fancy and interesting glass objects, for windows,
+doors, or whatever.  Glass, however, is very expensive, and should be used
+sparingly.  On the west side of the road is the Paladin's Shrine of Truth
+and Fairness.  The entrance to the shrine is located off of Islandia Drive
+to the south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">417</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">419</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

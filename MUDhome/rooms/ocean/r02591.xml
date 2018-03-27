@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="2591" Version="2.40" Area="ocean">
+  <Name>Reflecting Pool</Name>
+  <ShortDescription>You are in the most beautiful and serene part of the Garden.</ShortDescription>
+  <LongDescription>Great slabs of flat rock hang over a reflecting pool, while fruit trees are
+heavy with their perfect produce.  Someone has lodged a keg of mild brandy
+into the bole of a walnut tree, and it seems to never empty.  There are 
+bright, sparkling points of light in the air.  A bridge goes to the north.</LongDescription>
+  
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+    <Bit Num="32"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>bridge</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2588</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2583</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2581</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="bridge">
+      <Keys/>
+      <Room Area="ocean">2574</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

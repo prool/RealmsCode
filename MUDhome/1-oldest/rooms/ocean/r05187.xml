@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="5187" Version="2.40" Area="ocean">
+  <Name>Skies above Galgorie Pond</Name>
+  <ShortDescription>Directly below is the site of a famous battle between Galgorie and a monster.</ShortDescription>
+  <LongDescription>The monster used to feed on lone travelers, and kept well hidden.  None knew
+of the monster's existance for a long time, but when he was was found out,
+Galgorie battled him for three days in the copse of trees below.   The beast
+lived in the nearby pond.</LongDescription>
+  
+  <Established>773889398</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5188</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5194</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

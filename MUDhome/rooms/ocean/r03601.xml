@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="3601" Version="2.40a" Area="ocean">
+  <Name>Massive Gate</Name>
+  <ShortDescription>You are near the great gate of Castle Ragnar, standing at the drawbridge.</ShortDescription>
+  <LongDescription>Traffic during the daytime is very heavy, but the gate is closed at night. 
+The palace guard is in good numbers here, and they inspect carts and
+vendors waiting at the gate.  Some of the stranger looking travelers are
+stopped and asked their business.  As you look about you, you see a door
+to the side that seems to lead to the guard headquarters.  Through the
+massive arch you see the immense courtyard of the castle, and looking
+north there is a well traveled road leading away from the castle.</LongDescription>
+  
+  
+  
+  <Established>762644467</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">12</Mob>
+      <Mob Area="ocean" Num="1">13</Mob>
+      <Mob Area="ocean" Num="2">14</Mob>
+      <Mob Area="ocean" Num="3">28</Mob>
+      <Mob Area="ocean" Num="4">712</Mob>
+      <Mob Area="ocean" Num="5">712</Mob>
+      <Mob Area="ocean" Num="6">712</Mob>
+      <Mob Area="ocean" Num="7">712</Mob>
+      <Mob Area="ocean" Num="8">712</Mob>
+      <Mob Area="ocean" Num="9">712</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>arch</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="bridge">
+      <Keys/>
+      <Room Area="ocean">3600</Room>
+      <Flags>
+        <Bit Num="17"/>
+      </Flags>
+    </Exit>
+    <Exit Name="arch">
+      <Keys/>
+      <Room Area="ocean">3602</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3603</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

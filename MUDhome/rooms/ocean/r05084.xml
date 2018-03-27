@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="5084" Version="2.40" Area="ocean">
+  <Name>Apothecary</Name>
+  <ShortDescription>You are in the apothecary of the Castle Kayleigh.</ShortDescription>
+  <LongDescription>Did you ever wonder what might happen if you mixed a lot of different
+chemicals together, applied an intense heat over a prolonged time, and
+then had hundreds of magic spells cast in the vicinity of the cooking
+mess?  Well, that's exactly what happened a couple of hundred years ago
+during the great battle that occurred here.</LongDescription>
+  
+  <Established>773552329</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">676</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">709</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5137</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

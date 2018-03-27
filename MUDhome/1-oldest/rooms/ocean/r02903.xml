@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Room Num="2903" Version="2.40" Area="ocean">
+  <Name>Avernus</Name>
+  <ShortDescription>You are traveling along the outer fringe of the wasteland of Avernus.</ShortDescription>
+  <LongDescription>The massive wasteland of rocks and mud seem to amplify the powers of the
+earth realm.  The outer fringes of Avernus are patrolled regularly by
+abishai.  The lower level abishai tend to travel in groups, and attack
+ruthlessly when encountered.</LongDescription>
+  
+  <Established>727854836</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">357</Mob>
+      <Mob Area="ocean" Num="1">357</Mob>
+      <Mob Area="ocean" Num="2">357</Mob>
+      <Mob Area="ocean" Num="3">357</Mob>
+      <Mob Area="ocean" Num="4">357</Mob>
+      <Mob Area="ocean" Num="5">358</Mob>
+      <Mob Area="ocean" Num="6">359</Mob>
+      <Mob Area="ocean" Num="7">360</Mob>
+      <Mob Area="ocean" Num="8">361</Mob>
+      <Mob Area="ocean" Num="9">357</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2901</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2907</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2902</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2904</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

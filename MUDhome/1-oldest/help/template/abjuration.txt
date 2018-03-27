@@ -1,0 +1,7 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  abjuration        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Abjurations are protective spells - they summon physical or magical
+barriers, protect you against magical or physical abilities, or banish
+outsiders from this plane of existence.

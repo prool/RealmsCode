@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1805" Version="2.40a" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are on Waterfront Way, just north of the Beginner's Archery Range.</ShortDescription>
+  <LongDescription>The Dentra Central Archery Range is divided into two separate ranges so
+that the experienced archers don't have to deal with the inexperienced ones
+at the same target range.  You are in front of the main entrance to the
+Beginner's Archery Range where a number of younger archers and their tutors
+are practicing and improving their skills.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1804</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1647</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

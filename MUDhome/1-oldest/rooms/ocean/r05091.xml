@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="5091" Version="2.40" Area="ocean">
+  <Name>Rothchild's Chambers</Name>
+  <ShortDescription>This was once the luxurous quarters of Rothchild the mage.</ShortDescription>
+  <LongDescription>His fate was sealed when he came face to face with the Witch of Kayleigh,
+and she turned him into living stone.  Only the most powerful of magic can
+cancel that spell, and none today know the spell.  It may have been lost
+forever when the books and other treasures in this room were burned.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5089</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

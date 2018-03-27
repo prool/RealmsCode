@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1151" Version="2.40" Area="ocean">
+  <Name>Eidenhoft Boulevard</Name>
+  <ShortDescription>You are walking along Eidenhoft Boulevard, just east of the Mortuary.</ShortDescription>
+  <LongDescription>The Davis Brothers Mortuary lies to the west of here.  It is typically
+where most of the deceased end up when they die, it being one of the
+few funeral arrangement centers in Oceancrest.  The large villa to the
+east is the Odgen Family Estate.  The large fountains to the south 
+are made of finely crafted marble and gold.  Although this is one of the
+smaller villas in Oceancrest, the Odgen Family is one of the richest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1150</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1152</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1899</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

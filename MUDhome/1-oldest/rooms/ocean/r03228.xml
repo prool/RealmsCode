@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3228" Version="2.40a" Area="ocean">
+  <Name>Mulberry Road</Name>
+  <ShortDescription>You are just outside the massive city gates of Oceancrest.</ShortDescription>
+  <LongDescription>Oceancrest is one of the largest cities in this part of the continent,
+and as you stand out here and observe its walls, you note they must be
+at least twenty meters high, with the guard towers and lookout stations
+going even higher.  No wonder there has never been a successful invasion
+of the city of Oceancrest.</LongDescription>
+  
+  <Established>756089570</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3227</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3229</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

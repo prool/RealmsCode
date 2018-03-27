@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1216" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are walking down Nagaritha Drive, north of the Circle-Bar Ranch.</ShortDescription>
+  <LongDescription>The Circle-Bar Cattle Ranch is located on the north side of the road,
+separated by Appleton Road, which runs diagonally through the ranch.  On
+this side of the ranch, you can see the Slaughterhouse where scores of
+cattle are killed each day to provide for the necessities of the city's
+citizens.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1217</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1215</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

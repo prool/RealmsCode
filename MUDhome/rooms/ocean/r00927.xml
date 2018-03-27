@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="927" Version="2.40" Area="ocean">
+  <Name>Back Alley</Name>
+  <ShortDescription>You are in a wide alley which goes east and west behind Hafnia's best shops.</ShortDescription>
+  <LongDescription>There is an entry, or exit depending on your point of view, to the west.
+The south side of the alley seems to be a series of locked doors, but on
+the north side you see several municipal offices and warehouses.  This
+alley is not very clean.  You would think the city would be embarrassed.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">929</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">940</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

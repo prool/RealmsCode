@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5454" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <LongDescription>You are on a narrow road in a short valley which protect you from the wind.
+the road climbs out of the valley to the east, and drops deeper into it
+towards the west.  High mountains are all around you now, stark and cold in
+the mountain air.  Being this high really takes your breath away.   A pall
+of volcanic smoke hangs in the air.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5453</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5455</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

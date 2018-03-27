@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="1580" Version="2.40a" Area="ocean">
+  <Name>Inner Circle of Etolos</Name>
+  <ShortDescription>You are in the inner-most circle of the druid community.</ShortDescription>
+  <LongDescription>The inner circle is forbidden, even to most druids.  Only druids of the
+fifth circle and above may enter.  Outsiders are not at all allowed 
+near the inner circle, and you being here has alarmed and shocked the
+druid community.  You had better leave now before the guards come and
+force you to leave.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">183</Mob>
+      <Mob Area="ocean" Num="1">183</Mob>
+      <Mob Area="ocean" Num="2">183</Mob>
+      <Mob Area="ocean" Num="3">183</Mob>
+      <Mob Area="ocean" Num="4">183</Mob>
+      <Mob Area="ocean" Num="5">183</Mob>
+      <Mob Area="ocean" Num="6">180</Mob>
+      <Mob Area="ocean" Num="7">179</Mob>
+      <Mob Area="ocean" Num="8">178</Mob>
+      <Mob Area="ocean" Num="9">178</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1574</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1581</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">1585</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

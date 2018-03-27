@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Room Num="1640" Version="2.47e" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive in the southeastern section of town.</ShortDescription>
+  <LongDescription>Leviathan Drive continues to the north and south, being one of the only
+roads in town that you can travel on and get from the north to the south
+city walls without leaving the road.  On the east, you can see the Holy
+Order of the White Rose, the entrance to which is located to the north.
+On the west side of the road is the Chateau Richland Winery, where all
+varieties of wines may be purchased.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 10:59:53 2009
+</LastPlayerTime>
+  <BeenHere>1</BeenHere>
+  <Wander><Traffic>12</Traffic><RandomMonsters><Mob Area="ocean">12</Mob><Mob Area="ocean" Num="1">14</Mob><Mob Area="ocean" Num="2">12</Mob><Mob Area="ocean" Num="3">14</Mob><Mob Area="ocean" Num="4">12</Mob><Mob Area="ocean" Num="5">14</Mob><Mob Area="ocean" Num="6">12</Mob><Mob Area="ocean" Num="7">14</Mob><Mob Area="ocean" Num="8">12</Mob><Mob Area="ocean" Num="9">14</Mob></RandomMonsters></Wander>
+  <Track><Direction>south</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1639</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1634</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

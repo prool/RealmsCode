@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1125" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>You are walking along Marina Way, between Netherworld Lane and Main Street.</ShortDescription>
+  <LongDescription>Marina Way continues to the north and south, intersecting Main Street to
+the north and Netherworld Lane to the south.  On the west side of the road,
+you can see a large pub called the Grinning Sailor, filled with sailors
+and other marine personnel.  It looks like it could get pretty rough in
+there.  On the east side of the road is a small block of shops, accessible
+from Main Street.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1124</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1126</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3124</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

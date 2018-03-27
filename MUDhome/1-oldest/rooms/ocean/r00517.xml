@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="517" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>You are on Marina Way, east of the Nylandian Bay Shipmaster's Office.</ShortDescription>
+  <LongDescription>The Shipmaster is in charge of all ships entering and leaving the harbor.
+This is a thankless job as everyone is always in a hurry to either enter
+and quickly get rid of their cargo, or to get out of the harbor.  On the 
+east side of the road is the Temple of Ahto, the Finnish God of the
+Oceans and Seas.  Ahead to the north is Marina Circle.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">518</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">516</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

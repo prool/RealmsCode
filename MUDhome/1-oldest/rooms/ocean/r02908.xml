@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="2908" Version="2.40" Area="ocean">
+  <Name>Avernus</Name>
+  <ShortDescription>You are exploring the inner sanctum of the vast wasteland known as Avernus.</ShortDescription>
+  <LongDescription>Avernus consists of a vast plain of rocks and gravel, covered with a grey
+sky that allows no light through.  The result is a flat world of infinite
+proportions where it is always just dark enough to make it extremely hard
+to get around.  Occasionally, you see some dragons flying overhead, looking
+for a good meal.</LongDescription>
+  
+  <Established>727863524</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">56</Mob>
+      <Mob Area="ocean" Num="1">58</Mob>
+      <Mob Area="ocean" Num="2">59</Mob>
+      <Mob Area="ocean" Num="3">361</Mob>
+      <Mob Area="ocean" Num="4">361</Mob>
+      <Mob Area="ocean" Num="5">361</Mob>
+      <Mob Area="ocean" Num="6">361</Mob>
+      <Mob Area="ocean" Num="7">361</Mob>
+      <Mob Area="ocean" Num="8">239</Mob>
+      <Mob Area="ocean" Num="9">240</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2907</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2909</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2904</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2914</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

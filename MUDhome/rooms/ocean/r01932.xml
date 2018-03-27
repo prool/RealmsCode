@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1932" Version="2.40" Area="ocean">
+  <Name>The Blue Training Room</Name>
+  <ShortDescription>Now that you have defeated the Green Warrior, you are worthy of training.</ShortDescription>
+  <LongDescription>You have proven your strength in battle.  In order to advance, you must
+donate a sum of money to the academy for your training.  Unfortunately,
+running an academy is anything but free.  Once this fee is paid, you will 
+be formally declared a Warrior, Second Class.</LongDescription>
+  <LowLevel>4</LowLevel>
+  <HighLevel>4</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1928</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

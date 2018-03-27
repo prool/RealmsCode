@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="1219" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are walking along Nagaritha Drive, just north of Thackery's Pub.</ShortDescription>
+  <LongDescription>Thackery's Pub is a run-down little family pub catering mostly to the
+farm workers who live in the area.  The wine is particularly good,
+however, since they buy it from the Chateau Richland Winery across the
+way to the north.  You hear ribald singing coming from the door.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1343</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1218</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1220</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

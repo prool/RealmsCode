@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="516" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>You are traveling along Marina Way, just west of the Leviathan Fishery.</ShortDescription>
+  <LongDescription>It is no surprise to see a fishery on the east side of the road, being
+that you are so close to Nylandian Bay.  On the west side of the road
+is the Leviathan Small Boat Rental shop and a bit to the north is the
+Nylandian Bay Shipmaster's Office.  Just beyond these buildings to the
+west is the Nylandian Bay itself.  The Bay is usually pretty busy as
+much of Oceancrest's commerce comes from the seas.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">517</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">515</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

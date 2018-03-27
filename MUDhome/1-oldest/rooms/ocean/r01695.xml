@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1695" Version="2.40a" Area="ocean">
+  <Name>Golden Dolphin Way</Name>
+  <ShortDescription>You are walking along Golden Dolphin Way, just south of the Farmers houses.</ShortDescription>
+  <LongDescription>Small residences have been built on the north side of the road to support
+the rural farmers and their families.  These small houses allow the 
+farmers never to be too far way from their farms in case of emergencies,
+since the regular city residences are located a few miles to the east or
+north, towards the center of town.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1696</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1694</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

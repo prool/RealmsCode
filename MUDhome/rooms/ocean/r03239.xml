@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3239" Version="2.40" Area="ocean">
+  <Name>Hidden Meadow</Name>
+  <ShortDescription>You are in a hidden meadow somewhere in the middle of the thicket.</ShortDescription>
+  <LongDescription>You have found your way into a bandit hideout.  There are lots of 
+somewhat filthy looking people wandering about,  you better hope
+they don't see you.  There seems to be some sort of attraction 
+at an overturned cart on the other side of the meadow, perhaps it
+is where someone important lives.</LongDescription>
+  
+  <Established>756025591</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">402</Mob>
+      <Mob Area="ocean" Num="1">402</Mob>
+      <Mob Area="ocean" Num="2">402</Mob>
+      <Mob Area="ocean" Num="3">402</Mob>
+      <Mob Area="ocean" Num="4">402</Mob>
+      <Mob Area="ocean" Num="5">402</Mob>
+      <Mob Area="ocean" Num="6">402</Mob>
+      <Mob Area="ocean" Num="7">402</Mob>
+      <Mob Area="ocean" Num="8">402</Mob>
+      <Mob Area="ocean" Num="9">402</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>thicket</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="thicket">
+      <Keys/>
+      <Room Area="ocean">3233</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="cart">
+      <Keys/>
+      <Room Area="ocean">3240</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

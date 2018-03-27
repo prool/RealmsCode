@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3784" Version="2.40" Area="ocean">
+  <Name>Lithium Beach</Name>
+  <ShortDescription>You are on the beach on the northern side of Lithium Inlet.</ShortDescription>
+  <LongDescription>The waters of the Lithium Inlet cut deeply into the banks here, and wash
+a lot of the gravel and sand down to the water's edge.  The water is cold
+and moving very fast as it comes from the Lyanden Lake to the east.  The
+Lelion Beach and Park is located to the west, along the southern bank of
+the inlet.  A sign not far to the west says, "Explore this area at your
+own risk.  The city is not responsible for the actions of wild animals
+or birds."  A set of stairs climbs to the south, and up above you hear
+the sounds of happy crowds of people.</LongDescription>
+  
+  <Established>766023612</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3785</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3783</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

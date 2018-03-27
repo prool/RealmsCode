@@ -1,0 +1,12 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  frostbite spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 7
+
+This spell causes frost to bite into the target's entire form. The resulting
+effects will often include immobile limbs, damaged nerves, and any other
+ill-effects of being out in the cold for too long.
+
+Syntax:
+cast frostbite <target>
+

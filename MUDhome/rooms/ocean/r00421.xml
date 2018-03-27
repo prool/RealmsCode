@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="421" Version="2.40" Area="ocean">
+  <Name>Bendine Way</Name>
+  <ShortDescription>You are walking along Bendine Way, east of the Oceancrest Municipal Library.</ShortDescription>
+  <LongDescription>The Oceancrest Municipal Library provides the northern section of town 
+with a number of historical, scientific and magical references dating
+back nearly two hundred years, if not more.  On the east side of the
+road is the Red-Eye Bar and Grill Stage, where a number of young bards
+go to practice their routines.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">420</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">422</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

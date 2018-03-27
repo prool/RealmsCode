@@ -1,0 +1,25 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  Druid          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Prime Requisites: Intelligence, Constitution
+Compatible Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The druid is the master of elements and the forces of mother nature. Such
+is the affinity he has for the powers of the universe, that he can conjure
+elemental creatures of earth, air, fire, and water to assist him. The
+forest is the kingdom of the druid, where he can be the most together with
+nature. The order of druids in Derlith is a complex hierarchy. The most
+experienced druids can call very powerful elemental creatures to fight for
+them, yet only those druids with the most devotion can hope to hold them to
+this world for long. Like a ranger, a druid may also find tracks in a room
+in order to determine routes of travel most often used. However, unlike a
+ranger, a druid is able to commune with nature to learn the whereabouts of
+nearby creatures.
+
+See HELP DRUIDS for some roleplaying notes.
+
+Abilities: Conjure, Track, Barkskin, Commune
+

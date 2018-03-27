@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="4239" Version="2.40a" Area="ocean">
+  <Name>Main Courtyard - Northwest Corner</Name>
+  <ShortDescription>You are at the troop review stand, in the northwest corner of the courtyard.</ShortDescription>
+  <LongDescription>There are seats arranged in tiers here, and a place for a band to play
+as the troops assemble for inspection.  The ladies of the castle mostly
+come here to show off their silks and jewelry, and the noblemen come here
+to show off their ladies.  the squad leaders are here just to show off
+the troops.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4243</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4206</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4238</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4242</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

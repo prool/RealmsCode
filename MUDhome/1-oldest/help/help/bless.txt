@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  bless spell       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 10
+School:  Abjuration
+Domain:  Protection
+
+This spell improves your ability to hit monsters. It fills the target with
+holy perception, whether good, neutral, or evil, and allows them to plan
+their blows more carefully. Thus, with the help of a diety, it is more
+likely they will make contact with their weapon when attacking.
+
+Syntax:
+cast bless <target>
+

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="3272" Version="2.40" Area="ocean">
+  <Name>Base of a Grand Stairway</Name>
+  
+  <Established>756126558</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3269</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stairs">
+      <Keys/>
+      <Room Area="ocean">3273</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,282 @@
+Help on:
+DM function *SET
+
+This function allows the DM to set any variable on an exit, room,
+player, monster, or object. The syntax is different for each class of
+thing. This file will discuss each class beginning with exits. 
+
+Making & Deleting EXITS:
+
+*set [rm #] x [exit name] [link to rm #]
+
+If you omit the [rm #] section, it will assume that you mean the 
+parent room (the one you are in). To create an exit you specify
+the exit name and the room number to link it to.  
+
+example:
+:*set x north 60
+	[creates an exit named 'north' leading to room 60]
+:*set x d 61
+	[creates an exit named 'door' leading to room 61]
+
+Some exit names can be abbreviated. They are
+	All cardinal directions (n, e, sw)
+	d ->  door
+	o ->  out
+	p ->  passage
+	t ->  trap door
+	a ->  arch
+	g ->  gate
+	st -> stairs
+
+To DELETE an exit, use 0 as the [link to rm #].  
+To RENAME an exit, use *xrename.
+	
+If you use "." as the [link to rm #], then it will link both rooms 
+with the same [exit name] in each room. Special exits:
+	all cardinal directions (north, east, southwest, etc).
+	up
+	down
+will instead have the opposite direction as the return exit. Thus,
+*set x up 60 . would set and up exit to room 60 and a down exit in
+room 60 leading back.
+
+
+To set FLAGS on exits, the syntax is:
+
+*set xf [exit name] [flag number]
+
+This will toggle the flag named in [flag number] on the 
+exit [exit name].
+
+
+To see PASSPHRASE on an exit, the syntax is:
+	*set xpp [exit name] [phrase]
+To see PASSLANG on an exit, the syntax is:
+	*set xpl [exit name] [language]
+
+To see ONENTER on an exit, the syntax is:
+	*set xe [exit name] [phrase]
+
+-------------------------------------------------------------------------
+Setting up ROOMS:
+
+*set r [trfbxe] [<value>]
+
+To set the traffic on a room use the 't' case and the value 
+following it will be taken as the new traffic value.
+
+example:
+:*set r t 100
+Traffic is now 100%.
+
+To set a flag on the room use the 'f' case and the flag number 
+specified in [<value>] will toggle. *dmh rflags has a list of flags
+yoy can use.
+
+example:
+:*set r f 10
+Room flag #10 on.
+
+To put a new random monster into a room use the 'r' case and the
+value following is the random slot (1-10).  A third variable must be set 
+and that will provide the monster number to put into the random slot.
+
+example:
+:*set r r3 60
+Random #3 is now 60.
+:*set r r4 65
+Random #4 is now 65.
+
+To set level boundaries for a room you must specify whether you 
+want to set high or low boundaries.  This is done by either 'l' or 'h' 
+next to the case 'b'.  The level boundary is set by the value following 
+the case and type of boundary to set.
+
+example:
+:*set r bl 10
+Low level boundary 10. (You can't go in if your level 10+)
+:*set r bh 4
+High level boundary 4. (You must be level 4+ to go into the room.)
+
+To put a trap in a room use the 'x' case and the value that 
+follows will be the trap type placed into the room.
+
+example:
+:*set r x 3
+Room has trap #3 set.
+
+example:
+:*set r exp 300
+This will give people 300 experience the first time they enter the room.
+
+
+Use *dmh traps to see a list of traps you can use.
+-------------------------------------------------------------------------
+To set up PLAYERS:
+
+*set c <name> <al|con|c|dex|e|f|g|hm|h|i|l|mm|m|pie|p#|r#|s|clan> [<val>]
+
+	The variables you can set are:
+	al 		alignment
+	con		constitution
+	c		class
+	dex		dexterity
+	e		experience
+	f		flag toggle
+	g		gold
+	h		current hp
+	hm		max hp
+	i		intellegence
+	l		level
+	m		current mp
+	mm		max mp
+	p# <val>	gives <val> hits to proficiency #
+	pie		piety
+	r		race
+	r# <val>	gives <val> hits to realm #
+	s		strength
+        clan #          sets clan 0 - 10
+	
+example:
+:*set c joe h 20
+	[joe now has 20 hp]
+:*set c jim f 2
+	[jim is now hidden]
+:*set c jim r0 160000
+        [jim now has 160000 hits in his earth realm (roughly 50%).]
+:*set c jim p2 10000
+        [jim now has 10000 hits in his blunt proficiency.]
+-------------------------------------------------------------------------
+To set up MONSTERS' variables:
+Everything you can *set for a player, you can also *set for a 
+monster. In addition, you may/must also *set the following:
+      
+        ar           set armor class
+	dn           set number of dice damage
+        ds           set sides per dice damage
+        dp           set plus on damage die-roll
+	thac         set thac0 "To Hit Armor Class 0"
+        num          set max number that load at one time
+        inv # (item) set monster's inventory slot number to (item)
+        sp #         toggle on and off spell # (*dmh sflags)
+
+example:
+:*set c grendel dn 4
+	[Grendel now hits with 4 dice damage]
+:*set c arthur thac 14
+	[Arthur has a thac0 of 14]
+:*set c rat num 6
+      [Between 1 and 6 rats will arrive at a time]
+:*set c peasant inv 1 knife
+      [This will set the peasants first inventory slot]
+      [to the item number of the knife. You must have ]
+      [the knife in your inventory when you do this.  ]
+      [Monsters have 10 inventory slots max to set.   ]
+:*set c wizard sp 31
+      [This will turn on the spell waterbolt so ]
+      [the wizard knows it. If it were already  ]
+      [on, this would turn it off. *dmh sflags  ]
+      [will show you the number for each spell. ]     
+
+NOTE: You may also teach spells to monsters just as you
+      would teach a player, but you cannot unteach the
+      spells. To do this you have to toggle the spell
+      off with *set as above, using the spell's number.
+            
+NOTE: To determine how often a monster casts spells in combat rather
+      then hitting only, you must *set their proficiency 0 from 1
+      to 100. You must also *set the casts spells flag (18) as well
+      as the magic percent flag (43). You may also *set their realms
+      just as you would do a player with [*set c (mon) r(0-3) (value)].
+
+For example: (remember to set flags 18 and 43 first)
+*set c wizard p0 50
+     [This will make the wizard cast 50% of the time]    
+*set c wizard r3 160000
+     [This will give the wizard 160000 shots in his water realm (~50%)]
+
+To figure out how many shots correspond to a certain % in realms or profs,
+just *set yourself to various numbers and do an info to see the affects.
+
+-------------------------------------------------------------------------
+To set OBJECT variables:
+
+*set o <name> [<crt>] <ad|ar|dn|ds|dp|f|m|sm|s|v|wg|wr|t|sp|lvl> [<val>]
+
+	variables are:
+	ad		adjustment (+)
+	ar		armor class
+	dn		number of dice damage
+	ds		sides of dice damage
+	dp		bonus/plus to damage die-roll
+        f <val>         toggles flag #<val> (*dmh oflags)
+	m		magic power (*dmh sflags)
+	s		shots current
+	sm 		shots max
+	v		value
+	wg		weight
+        wr              wear location flag (*dmh wear)
+        t #             set object type (*dmh otypes)
+        sp #            special object type
+        lvl #           level restriction (minimum level to use)
+
+For example:
+:*set o shield ar 2
+      [The shield will lower AC by 2 steps if worn.]
+:*set o sword adj 3
+      [The sword is now +3]
+:*set o galvorn lvl 7
+      [Players must be level 7 to use this galvorn blade.]
+:*set o parch t 8
+      [This turns the parchment to a scroll.]
+:*set o ring v 1000
+      [The ring is now worth 1000gp]
+
+-------------------------------------------------------------------------
+SOME ITEM CREATION STEPS:
+
+To make a scroll:
+1) Describe it using *oname. (help *oname)
+2) *set the item to type 8. (*dmh otypes)
+3) *set the magical power with *set (item) m #
+   where # is the spell number from *dmh sflags.
+4) *set weight, bulk, value, and any flags you want.
+5) *save (item) #
+
+To make a wand or wand-like item:
+1) Describe the item using *oname. (help *oname)
+2) *set the object to type 9. (*dmh otypes)
+3) *set the magical property with *set (item) m #
+   where # is the spell number from *dmh sflags.
+4) *set the number of current AND maximum shots.
+5) *set any minimum level restrictions.
+6) *set weight, bulk, value, and any flags you want.
+7) *save (item) #
+
+To make armor:
+1) Describe the item using *oname. (help *oname)
+2) *set the item to type 6.
+3) *set the ac adjustment with *set (item) ar
+4) *set any magic bonus with *set (item) ad
+5) *set the item's wear location with *set (item) wr
+   (look at *dmh wear for a list of wear locations.)
+6) *set the the number of maximum AND current shots.
+7) *set any minimum level restrictions.
+8) Set weight, bulk, value, and any flags you want.
+9) *save (item) #
+
+To make a weapon:
+1) Describe the item using *oname. (help *oname)
+2) *set the item type to 0:sharp, 1:thrust,
+    2:blunt, 3:pole, 4:missle, 4:cleave. (*dmh otypes)
+3) *set the damage dice, sides, and bonus.
+4) *set any magic bonus with *set (item) ad
+5) If the weapon casts, set its flag 53 to on,
+   then *set its magical power. (*dmh sflags)
+6) *set the the number of maximum AND current shots.
+7) *set any minimum level restrictions.
+8) Set weight, bulk, value, and any flags you want.
+9) *save (item) #
+
+Ask a DM if you have any further questions.

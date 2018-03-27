@@ -1,0 +1,28 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  Dwarf          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Adjustments: +1 Strength, +2 Constitution, -1 Dexterity, -1 Piety,
+	-1 Intelligence
+Compatible Classes: Assassin, Bard, Berserker, Cleric, Druid, Fighter,
+        Lich, Mage, Monk, Paladin, Ranger, Rogue, Thief, Vampire, Werewolf,
+	Fighter/Thief
+
+Dwarves are jolly folk, short of stature and long of beard. They always
+have a very bulky and stocky appearance. Dwarves are some of the toughest
+fighters around, owing to years and years spent toiling in underground
+mines and hauling rock. Dwarves love beer and ale, and will always take
+the opportunity to drink them whenever the moment arrives. Due to their
+bulky build, dwarves are often stronger then other races of similar size,
+and they are often usually healthier. However, they aren't as quick as
+other races their size and also aren't very pious in general. Dwarves often
+make excellent armor and weapons, which they often use to great
+effectiveness. Battle, mining, honor, and spirits are the most important
+things to a dwarf, besides the history and traditions of his ancestors,
+which take precedence over all.
+
+Type HELP DWARVES for roleplying information.
+
+See in dark (infravision): Yes
+Size class: Medium
+

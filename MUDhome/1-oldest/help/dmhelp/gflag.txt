@@ -1,0 +1,3 @@
+^WProperty Guild Flags^x
+ 1         Public                 Public property
+

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2520" Version="2.40" Area="ocean">
+  <Name>Ivory Way</Name>
+  <ShortDescription>You are on Ivory Way between the Althemanian Campus and a small pub.</ShortDescription>
+  <LongDescription>The pub seems to enjoy the patronage of the many graduate students who do
+research over at the college.  Once they get out of the lab, they seem to be
+no different than the undergraduates in Oceancrest.  Always drinking.
+Randolf Lane is south of here.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2027</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2023</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

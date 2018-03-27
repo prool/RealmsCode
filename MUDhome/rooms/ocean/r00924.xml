@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="924" Version="2.40" Area="ocean">
+  <Name>Hand-To-Hand Combat Arena</Name>
+  <ShortDescription>You are in a small arena similar to the one in Brownhaven.</ShortDescription>
+  <LongDescription>Elves often come here to settle disputes between themselves, usually
+ending in one of their deaths.  Are you sure you want to challenge
+these people?</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">51</Mob>
+      <Mob Area="ocean" Num="1">52</Mob>
+      <Mob Area="ocean" Num="2">60</Mob>
+      <Mob Area="ocean" Num="3">51</Mob>
+      <Mob Area="ocean" Num="4">52</Mob>
+      <Mob Area="ocean" Num="5">60</Mob>
+      <Mob Area="ocean" Num="6">51</Mob>
+      <Mob Area="ocean" Num="7">52</Mob>
+      <Mob Area="ocean" Num="8">60</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">925</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

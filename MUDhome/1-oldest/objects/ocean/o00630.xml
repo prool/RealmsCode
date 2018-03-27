@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="630" Area="ocean" Version="2.40">
+  <Name>Mordor skeleton key</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>99</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">mordor </Key>
+    <Key Num="1">skeleton</Key>
+    <Key Num="2">key</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a bone key carved from the leg of a long dead dungeonmaster.</Description>
+  <UseOutput>The ground rumbles as you turn this unholy key!!!!</UseOutput>
+  <Weight>1</Weight>
+  <Type>12</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

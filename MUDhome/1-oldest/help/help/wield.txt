@@ -1,0 +1,12 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  wield          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Wield allows you to wield a weapon of some sort, as long as you are not already
+wielding one. If you have proficiency in the type of weapon you are wielding,
+you will hit an opponent more frequently.
+
+Example:
+: wield hoe
+You wield a hoe.
+:

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="3829" Version="2.40" Area="ocean">
+  <Name>Carnival Grandstand</Name>
+  <ShortDescription>You are in the middle of the Grandstand viewing the main attractions.</ShortDescription>
+  <LongDescription>You are bewildered by all the goings on here.  You have a view of three
+rings, and a show in each ring.  High above the rings there are three
+platforms, and a trapeze and highwire.  The Ringmaster is announcing the
+shows in the center ring, while dancing elephants plod around him.  In the
+ring on the right, clowns make you laugh, and acrobats do fast flips and
+somersaults.  On the left, tiger tamers coax tigers to jump through hoops
+and stand on two legs.  In the air high above the ground, trapeze artists
+gracefully fly from their perches onto the trapeze, literally holding on
+with sheer will.  Next to them, a tightrope walker delicately crosses from
+one platform to another.  Someone shouts, "Down in front!"</LongDescription>
+  
+  <Established>765770832</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3830</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="under">
+      <Keys/>
+      <Room Area="ocean">3821</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1800" Version="2.40" Area="ocean">
+  <Name>Nagaritha Drive</Name>
+  <ShortDescription>You are walking along Nagaritha Drive, south of the Melbourne Arena.</ShortDescription>
+  <LongDescription>The Melbourne Entertainment Arena provides citizens with the much needed
+emotional releases of revenge against criminals and other dregs of 
+society.  These people, accused and convicted of crimes, are thrown into
+the pits to do battle with gladiators, and sometimes lions.  The 
+spectators also get to join in by throwing rocks and other garbage at the
+contestants.  On the south side of the road is D'Tan's Armory, where some
+light armor may be purchased before entering the arena.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1713</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1801</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2289</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

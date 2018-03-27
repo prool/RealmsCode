@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<Room Num="2497" Version="2.40a" Area="ocean">
+  <Name>Frost Giant Hallway</Name>
+  <ShortDescription>You are in a giant hallway leading to the throne room of the frost giants.</ShortDescription>
+  <LongDescription>Two spectacular golden doors lie to the north of the great hallway, which
+presumably lead to the great throne room of the frost giant king.  The
+doors are locked and guarded by frost giants and other skeletal warriors.
+The hallway to the south leads back out to the caverns under the glacier.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>728517242</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="21"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">355</Mob>
+      <Mob Area="ocean" Num="1">355</Mob>
+      <Mob Area="ocean" Num="2">355</Mob>
+      <Mob Area="ocean" Num="3">356</Mob>
+      <Mob Area="ocean" Num="4">356</Mob>
+      <Mob Area="ocean" Num="5">363</Mob>
+      <Mob Area="ocean" Num="6">363</Mob>
+      <Mob Area="ocean" Num="7">363</Mob>
+      <Mob Area="ocean" Num="8">363</Mob>
+      <Mob Area="ocean" Num="9">355</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="golden door">
+      <Keys>
+        <LastTime Num="0">
+          <Interval>0</Interval>
+          <LastTime>1206217133</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </Keys>
+      <Room Area="ocean">2498</Room>
+      <Key>33</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south door">
+      <Keys/>
+      <Room Area="ocean">2395</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

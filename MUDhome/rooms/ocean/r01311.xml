@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="1311" Version="2.47i" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>There is an odd sign on the east side of the road reading "The Glyph Master".</ShortDescription>
+  <LongDescription>Riverdell Way continues to the north and south, traveling through the
+eastern section of town.  On the east side of the road is a funny shop
+called "The Glyph Master", a sort of fortune telling/deciphering store
+where you can probably figure out what a number of the cryptic scrolls
+and writings mean.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>south</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1310</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">1312</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

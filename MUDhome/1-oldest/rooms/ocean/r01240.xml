@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1240" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are walking along Lankshire Parkway, east of the Iilandi Mansion.</ShortDescription>
+  <LongDescription>The large Iilandi Mansion is located to the west.  The Iilandi Family
+owns much of the farming properties in Oceancrest, working them up from
+mere plots of land to the comodity producers that they are today.  On
+the east side of the road is the Allisk Manor, home of Natasha de Allisk,
+one of the last known vampires in the lands.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1241</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1239</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

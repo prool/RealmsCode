@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3796" Version="2.40" Area="ocean">
+  <Name>Cliff Top</Name>
+  <ShortDescription>You are on top of a high cliff in the Lelion Beach and Park.</ShortDescription>
+  <LongDescription>The top of the cliffs is very flat, forming a high table running east and
+west.  From here you can see that most of the Nylandian Bay is located to
+the southwest.  Looking north you see the Lithium Inlet where fresh water
+from the Ashton River pours into the bay.  Across the inlet there are a
+group of shops and several streets in the northwest part of Oceancrest.
+The cliff tops slope gradually down to the east, and you see a number of
+colorful tents in that direction.  A path goes down to the south.</LongDescription>
+  
+  <Established>766009004</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3795</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3798</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="188" Area="ocean" Version="2.40">
+  <Name>horseman's mace</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>4</Sides>
+    <Plus>1</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">150</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">mace</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a large mace made specifically for fighting on horseback.</Description>
+  <Weight>13</Weight>
+  <Type>5</Type>
+  <SubType>mace</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

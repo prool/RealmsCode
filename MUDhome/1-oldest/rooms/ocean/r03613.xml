@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3613" Version="2.40a" Area="ocean">
+  <Name>Ladies Walk</Name>
+  <ShortDescription>You are on the Ladies Walk, near the eastern end of the wide tunnel.</ShortDescription>
+  <LongDescription>The Ladies Walk continues to the west from here.  A hallway runs north
+and south, giving you a choice of directions.  The hallway is lighted
+with heavy candles high on the wall every few meters, but appears
+to fade away in the distance at either end.  Oaken doors are closed
+along the hallway, but a few have light coming from under them.</LongDescription>
+  
+  
+  
+  <Established>762645099</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3612</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4517</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

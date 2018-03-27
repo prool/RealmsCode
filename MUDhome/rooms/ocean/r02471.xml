@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="2471" Version="2.40" Area="ocean">
+  <Name>Ranger Training Location</Name>
+  <ShortDescription>You are in the training location for level seven and level eight trackers.</ShortDescription>
+  <LongDescription>You are allowed to train at this location if you are a level seven or level
+eight tracker.  Upon reaching level nine, you must seek out the next
+training location, also located within the park.  As you advance in 
+levels, your abilities to track also improve.</LongDescription>
+  <LowLevel>7</LowLevel>
+  <HighLevel>8</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="6"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2470</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

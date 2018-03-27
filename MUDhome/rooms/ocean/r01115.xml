@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1115" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>You are traveling on Marina Way, which runs north to south.</ShortDescription>
+  <LongDescription>Marina Way is often considered a back road through some of the central
+shops in town.  The reason being that almost all deliveries are made
+from this side of the buildings.  The main entrances to most of the
+buildings is off of Main Street, one block to the west.  To the west,
+you can see a large, mysterious looking building which seems to 
+radiate a blue-green smoke. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1116</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1021</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

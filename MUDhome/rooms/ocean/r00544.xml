@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="544" Version="2.40a" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are on Lelion Way, between Leia's Repair Shop and the Hospital facility.</ShortDescription>
+  <LongDescription>The most modern science goes into healing patients, but many things cannot
+be overcome.  The Oceancrest Caretaking Facility for the Mortally Wounded
+provides care for people who are beyond recovery.  The facility also acts
+as a hospital, providing relief to many thousands of Oceancrestillians who
+are constantly getting hurt somehow.  On the north side of the road is
+Leia's Repair Shop.  The entrance to her shop is located off of Avatar
+Boulevard.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">545</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">543</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

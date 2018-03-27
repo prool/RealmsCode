@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3188" Version="2.40" Area="ocean">
+  <Name>Hidden Sea Alcove</Name>
+  <ShortDescription>You are in a secluded corner of the great sea cave.</ShortDescription>
+  <LongDescription>The area is almost completely hidden form the main cave and has a cool
+breeze moving across the surface of the water.  There must be a hidden
+chimney near here, with access to the tops of the cliffs.  There is a
+faint sound of water dripping from the ceiling onto the water's calm
+surface.  Although the water is clear, it is so deep that you cannot
+see the bottom.</LongDescription>
+  
+  <Established>756196914</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">133</Mob>
+      <Mob Area="ocean" Num="1">133</Mob>
+      <Mob Area="ocean" Num="2">133</Mob>
+      <Mob Area="ocean" Num="3">133</Mob>
+      <Mob Area="ocean" Num="4">159</Mob>
+      <Mob Area="ocean" Num="5">159</Mob>
+      <Mob Area="ocean" Num="6">84</Mob>
+      <Mob Area="ocean" Num="7">84</Mob>
+      <Mob Area="ocean" Num="8">84</Mob>
+      <Mob Area="ocean" Num="9">84</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3186</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

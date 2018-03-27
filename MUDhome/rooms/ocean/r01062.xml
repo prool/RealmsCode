@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1062" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, west of the Oceancrest Ministry of Order.</ShortDescription>
+  <LongDescription>The Ministry of Order is charged by the crown with the responsibility of
+maintaining peace in the city.  They have the largest taxpayer supported
+budget of all the ministries.  Actually, to call it a Ministry of Order is
+sort of an oxymoron.  It's more like a maze of beauracracy.  The Ministry
+is in charge of the Oceancrest Detention and Rehabilitation Facility, and
+most people know that once you enter there, even if you are just visiting,
+you will probably never be seen again.  The rule is that any paper inside
+there must be signed in triplicate by four different department heads before
+it is valid.  Most papers also require the signature of the Mayor, but he
+has been dead for three years now.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1061</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1063</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

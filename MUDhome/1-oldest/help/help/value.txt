@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  value          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The value command only works in pawn shops and it is used to ask the shopkeeper
+how much money he will give you for a particular item. In a repair shop, use
+the cost command to see how much the repair smith wants to charge you to fix a
+given armor or weapon.
+
+Example:
+: val hoe
+The shopkeep says, "The hoe's worth 2."
+:

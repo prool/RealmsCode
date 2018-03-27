@@ -1,0 +1,17 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . | Help on: set, clear, toggle, pref | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+These three commands will allow you to change you preferences. To view a
+list of your preferences, simply type any one of them by itself. The
+"preference" command acts as "toggle" when given a specific preference.
+
+Some notes:
+
+For information on the "lagprotect" and "lagrecall" preference, type
+"help lagprotect".
+
+It is recommended you leave the "summon" preference off until you need to turn
+it on it. It prevents other players from moving your character across the
+world without your permission.
+

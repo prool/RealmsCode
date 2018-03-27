@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  blind spell       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 20
+School:  Transmutation
+Domain:  Trickery
+
+This spell causes the target to become blind for a limited duration. While
+blind, a player or monster is worse at combat and cannot cast. Players
+cannot see the rooms they are in or their current inventories. Anyone can
+cast this spell on a monster, but only chaotics can cast it on chaotic
+players. It is possible to cast it on yourself.
+
+Syntax:
+c blind <target>
+

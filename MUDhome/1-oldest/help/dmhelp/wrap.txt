@@ -1,0 +1,10 @@
+Help on: *wrap
+
+This command allows you to wrap the lines of a room description
+so as to even it out. It gets rid of the pesky indent that comes
+with a description which is accidentally made too long. It can be
+done on both long and short descriptions.
+
+Syntax:
+*wrap <s | l> <length>, where length is from 60-77.
+

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="2918" Version="2.40" Area="ocean">
+  <Name>Avernus</Name>
+  <ShortDescription>You have entered the dreaded inner sanctum of the first plane of Hell.</ShortDescription>
+  <LongDescription>You can feel the ground sinking below you as you travel further towards
+the center of the plane.  At the very center of the plane lies Tiamat,
+the dreaded Chromatic Dragon.  The entrance to the lair is protected by
+a button lock.  Each color represents a color of abishai.  Press the
+buttons in order of power from least to greatest to open the lock.</LongDescription>
+  
+  <Established>727916383</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">360</Mob>
+      <Mob Area="ocean" Num="1">361</Mob>
+      <Mob Area="ocean" Num="2">361</Mob>
+      <Mob Area="ocean" Num="3">360</Mob>
+      <Mob Area="ocean" Num="4">240</Mob>
+      <Mob Area="ocean" Num="5">239</Mob>
+      <Mob Area="ocean" Num="6">58</Mob>
+      <Mob Area="ocean" Num="7">59</Mob>
+      <Mob Area="ocean" Num="8">56</Mob>
+      <Mob Area="ocean" Num="9">260</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2917</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2919</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2912</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2922</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

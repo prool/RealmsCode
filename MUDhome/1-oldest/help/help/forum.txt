@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  forum          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The Realms Forum is located here: ^Whttp://forums.rohonline.net/^x
+
+The forum command will allow you to associate your character with a forum
+account, or visit the following URL for more information about association:
+^Whttp://www.rohonline.net/assoc.php^x
+
+Syntax:
+To unassociate this character from this forum account type:
+   forum ^Cremove^x
+To associate this character with a forum account type:
+   forum ^C<forum account> <forum password>^x

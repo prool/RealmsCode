@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="1922" Version="2.40" Area="ocean">
+  <Name>Adventures Unlimited Storage Room</Name>
+  <ShortDescription>This is the storage room used by the Adventures Unlimited Treasure 
+Maps and Accessories Shop.</ShortDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1921</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Room Num="1599" Version="2.40" Area="ocean">
+  <Name>Government Test Site.</Name>
+  <ShortDescription>You are in the purple room of the DM's secret underground test site.</ShortDescription>
+  
+  <Established>761128905</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits/>
+</Room>

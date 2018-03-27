@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="489" Area="ocean" Version="2.40">
+  <Name>tuxedo</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>5</ShotsMax>
+  <ShotsCur>5</ShotsCur>
+  <Armor>13</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5000</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="27"/>
+  </Flags>
+  <Description>A finely tailored black tuxedo with tails, how elegant.</Description>
+  <UseOutput>What's the ocasion?</UseOutput>
+  <Weight>5</Weight>
+  <Type>6</Type>
+  <SubType>cloth</SubType>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

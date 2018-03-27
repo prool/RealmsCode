@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="1277" Version="2.40" Area="ocean">
+  <Name>Cave of Restless Spirits</Name>
+  <ShortDescription>You are in a cave filled with ghosts of deceased mages.</ShortDescription>
+  <LongDescription>The cave seems to moan out at you.  Every so often, you catch a glimpse
+of a ghost wandering around the cave.  The ghosts appear afraid and too
+weak to leave the cave which gives them their strength.  They have been
+banished here until the evil of Keslar Palace has been removed.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">163</Mob>
+      <Mob Area="ocean" Num="1">163</Mob>
+      <Mob Area="ocean" Num="2">163</Mob>
+      <Mob Area="ocean" Num="3">163</Mob>
+      <Mob Area="ocean" Num="4">163</Mob>
+      <Mob Area="ocean" Num="5">163</Mob>
+      <Mob Area="ocean" Num="6">163</Mob>
+      <Mob Area="ocean" Num="7">163</Mob>
+      <Mob Area="ocean" Num="8">163</Mob>
+      <Mob Area="ocean" Num="9">163</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1272</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

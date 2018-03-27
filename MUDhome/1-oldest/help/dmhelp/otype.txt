@@ -1,0 +1,30 @@
+OBJECT TYPES
+
+Weapon..................5
+ SubTypes:
+   Slashing: claw(for werewolves only), sword, great-sword
+   Exotic: polearm, whip
+   Chopping: axe, great-axe
+   Piercing: rapier, spear, dagger
+   Crushing: staff, mace, great-mace, club(general blunt), hammer,
+             great-hammer, bare-hand
+   Ranged: bow, crossbow, thrown
+
+Armor...................6
+ SubTypes: cloth(everyone), leather(light-armor), chain(medium), plate(heavy)
+
+Potion..................7
+Scroll..................8
+Wand....................9
+Container...............10
+Money...................11
+Key.....................12
+Lightsource.............13
+Miscellaneous...........14
+Song Scroll.............15
+Poison..................16
+Bandage.................17
+(unused) Ammo...........18
+(unused) Quiver.........19
+Lottery Ticket..........20
+

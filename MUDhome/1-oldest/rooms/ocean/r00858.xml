@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room Num="858" Version="2.47e" Area="ocean">
+  <Name>Jade Green Hallway</Name>
+  <ShortDescription>You are in a well-lit, green hallway.  The green light gives off a 
+strange flourescence that makes a number of your weapons glow curiously.</ShortDescription>
+  <LongDescription>The walkway continues to the east and west and curves south at each 
+corner.  A small engraving in the wall on the south says "Do Not 
+Trust Your Compass!".  As you look to the east and west, you can see
+a number of bones lying about and glowing brightly.</LongDescription>
+  <Flags><Bit Num="11"></Bit><Bit Num="12"></Bit></Flags>
+  <Wander><Traffic>5</Traffic><RandomMonsters><Mob Area="ocean">33</Mob><Mob Area="ocean" Num="1">33</Mob><Mob Area="ocean" Num="2">33</Mob><Mob Area="ocean" Num="3">33</Mob><Mob Area="ocean" Num="4">33</Mob><Mob Area="ocean" Num="5">33</Mob><Mob Area="ocean" Num="6">33</Mob><Mob Area="ocean" Num="7">33</Mob><Mob Area="ocean" Num="8">33</Mob><Mob Area="ocean" Num="9">33</Mob></RandomMonsters></Wander>
+  <Track><Direction>west</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">857</Room></Target><Effects></Effects></Exit><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">856</Room></Target><Effects></Effects></Exit><Exit Name="gate"><Keys></Keys><Target><Room Area="ocean">861</Room></Target><Key>25</Key><Effects></Effects><Flags><Bit Num="0"></Bit><Bit Num="2"></Bit><Bit Num="3"></Bit><Bit Num="4"></Bit><Bit Num="5"></Bit></Flags></Exit></Exits>
+</Room>

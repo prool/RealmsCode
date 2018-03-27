@@ -1,0 +1,288 @@
+^WHooks^x
+
+Hooks are custom Python scripts that are executed at predefined times. This
+allows greater flexibility in defining behavior. Hooks can be attached to
+any mud object. Mud objects are creatures (players and monster), objects,
+exits, and rooms (unique rooms or area rooms). 
+
+
+^WSocial Interaction Hooks^x
+
+When a creature performs a social on a creature, an object, or an exit, the
+following hooks are run after the message has been printed. If the social
+involves multiple targets (show object player), they are executed in the order
+of creature -> object -> exit.
+
+    ^Y*^x The doSocial hook is executed on the creature performing the social.
+        ^Y*^x target = target of the social
+        ^Y*^x param1 (string) = The social that was performed
+        ^Y*^x param2 (string) = See social result parameters 
+    ^Y*^x The receiveSocial hook is executed next on the target of the social.
+        ^Y*^x target = the creature that performed the social
+        ^Y*^x param1 (string) = The social that was performed
+        ^Y*^x param2 (string) = See social result parameters 
+
+
+When a creature performs a social that does not have a specific target, the
+following hooks are run on every creature in the room except the one performing
+the social.
+
+    ^Y*^x The roomSocial hook is executed.
+        ^Y*^x target = the creature that performed the social
+        ^Y*^x param1 (string) = The social that was performed
+        ^Y*^x param2 (string) = See social result parameters 
+
+
+^WSocial Result Parameters^x
+
+    ^Y*^x rps = rock, paper, scissors
+    ^Y*^x flip = heads, tails, side
+    ^Y*^x dice = the result of 2d6 
+
+
+^WExample^x
+
+ : shake gua
+ You shake the guard's hand.
+ checking hook doSocial: Dominus on guard param1: shake
+ checking hook receiveSocial: guard on Dominus param1: shake
+ : show hoe gua
+ You proudly show the guard the hoe.
+ checking hook doSocial: Dominus on guard param1: show
+ checking hook receiveSocial: guard on Dominus param1: show
+ checking hook doSocial: Dominus on hoe param1: show
+ checking hook receiveSocial: hoe on Dominus param1: show
+ : flip gua You flip a coin and show it to the guard: heads.
+ checking hook doSocial: Dominus on guard param1: flip param2: heads
+ checking hook receiveSocial: guard on Dominus param1: flip param2: heads
+ : rps one, two, three: You chose rock.
+ checking hook roomSocial: guard on Dominus param1: rps param2: rock
+ checking hook roomSocial: wino on Dominus param1: rps param2: rock
+ :
+
+
+^WDeath Hooks^x
+
+When a creature dies...
+
+    ^Y*^x The preKill hook on the killer is executed.
+        ^Y*^x target = victim
+        ^Y*^x param1 (bool) = Whether or not this was a duel 
+    ^Y*^x The preDeath hook on the victim is executed next.
+        ^Y*^x target = killer
+        ^Y*^x param1 (bool) = Whether or not this was a duel 
+
+
+If the player that is killed is a hardcore player...
+
+    ^Y*^x The preHardcoreDeath hook is run before the hardcore death message
+      is broadcast.
+    ^Y*^x The postHardcoreDeath hook is run after the hardcore death message
+      is broadcast. 
+
+Note that hardcore characters are deleted from memory after this point
+(assuming they are not killed by staff) and no more hooks are run.
+
+
+If the creature is a player, the following hooks are run directly before the
+victim leaves the room to go to Limbo (these hooks are NoT run if the player
+does not leave the room (duel, in jail, etc.))...
+
+    ^Y*^x The postKillPreLimbo hook on the killer is executed.
+        ^Y*^x target = victim 
+    ^Y*^x The postDeathPreLimbo hook on the victim is executed next
+        ^Y*^x target = killer 
+
+
+The following hooks are run after all messages have been printed...
+
+    ^Y*^x The postKill hook on the killer is executed.
+        ^Y*^x target = victim
+        ^Y*^x param1 (bool) = Whether or not this was a duel 
+    ^Y*^x The postDeath hook on the victim is executed next
+        ^Y*^x target = killer
+        ^Y*^x param1 (bool) = Whether or not this was a duel
+        ^Y*^x param2 (bool) = Whether or not the victim left the room 
+
+These hooks are run after the player has (or would have) moved to Limbo (for
+players) and directly before the monster is removed from the room (and
+subsequently before they are removed from memory).
+
+
+^WExample^x
+
+Death is a complicated process, especially when the monsters are carrying items.
+
+ : look
+
+ 60 - misc - Builder Waiting Room
+
+ You are in the b uilder waiting room.
+ All exits: none.
+ You see a guard.
+
+ : peek gua
+ The guard is carrying: fluorescent scroll(NoSteal).
+ : k gua
+ You attack the guard.
+ You punched the guard for 58 damage.
+ checking hook preKill: Dominus on guard param1: 0
+ checking hook preDeath: guard on Dominus param1: 0
+ You killed the guard.
+ You gain 1 experience for the death of the guard.
+ checking hook beforeRemoveobject: guard on fluorescent scroll
+ checking hook beforeRemoveFromCreature: fluorescent scroll on guard
+ checking hook afterRemoveobject: guard on fluorescent scroll
+ checking hook afterRemoveFromCreature: fluorescent scroll on guard
+ checking hook beforeAddobject: Builder Waiting Room on fluorescent scroll
+ checking hook beforeAddToRoom: fluorescent scroll on Builder Waiting Room
+ checking hook afterAddobject: Builder Waiting Room on fluorescent scroll
+ checking hook afterAddToRoom: fluorescent scroll on Builder Waiting Room
+ The guard was carrying: a silver-tubed scroll (M).
+ checking hook postKill: Dominus on guard param1: 0
+ checking hook postDeath: guard on Dominus param1: 0
+ checking hook beforeRemoveCreature: Builder Waiting Room on guard
+ checking hook beforeRemoveFromRoom: guard on Builder Waiting Room
+ checking hook afterRemoveCreature: Builder Waiting Room on guard
+ checking hook afterRemoveFromRoom: guard on Builder Waiting Room
+ :
+
+
+^WAdd / Remove Hooks^x
+
+The following hooks are executed directly before one mud object leaves or
+enters another mud object. The container mud object's hooks are always
+executed first. For example, when a player picks up an object, the hooks
+are executed in this order:
+
+ : i
+ You have: two hoes.
+ : drop hoe
+ checking hook beforeRemoveobject: Dominus on hoe
+ checking hook beforeRemoveFromCreature: hoe on Dominus
+ checking hook afterRemoveobject: Dominus on hoe
+ checking hook afterRemoveFromCreature: hoe on Dominus You drop a hoe.
+ checking hook beforeAddobject: Builder Waiting Room on hoe
+ checking hook beforeAddToRoom: hoe on Builder Waiting Room
+ checking hook afterAddobject: Builder Waiting Room on hoe
+ checking hook afterAddToRoom: hoe on Builder Waiting Room
+ :
+
+The associated mud object is always passed in as the target of the hook.
+
+
+The hooks are:
+
+    ^Y*^x beforeAddobject
+    ^Y*^x beforeAddToobject
+    ^Y*^x afterAddobject
+    ^Y*^x afterAddToobject 
+
+    ^Y*^x beforeRemoveobject
+    ^Y*^x beforeRemoveFromobject
+    ^Y*^x afterRemoveobject
+    ^Y*^x afterRemoveFromobject 
+
+    ^Y*^x beforeAddCreature
+    ^Y*^x beforeAddToCreature
+    ^Y*^x afterAddCreature
+    ^Y*^x afterAddToCreature 
+
+    ^Y*^x beforeRemoveCreature
+    ^Y*^x beforeRemoveFromCreature
+    ^Y*^x afterRemoveCreature
+    ^Y*^x afterRemoveFromCreature 
+
+    ^Y*^x beforeAddToRoom
+    ^Y*^x afterAddToRoom 
+
+    ^Y*^x beforeRemoveFromRoom
+    ^Y*^x afterRemoveFromRoom 
+
+
+^WExit Hooks^x
+
+The following hooks are run when a creature performs a command on an exit.
+Hooks are executed on the creature first, then on the exit.
+
+
+Open / Close:
+
+    ^Y*^x openExit is executed on the creature.
+    ^Y*^x openByCreature is executed on the exit.
+    ^Y*^x closeExit is executed on the creature.
+    ^Y*^x closeByCreature is executed on the exit. 
+
+Lock / Unlock:
+
+    ^Y*^x lockExit is executed on the creature.
+    ^Y*^x lockByCreature is executed on the exit.
+    ^Y*^x unlockExit is executed on the creature.
+    ^Y*^x unlockByCreature is executed on the exit. 
+
+Scout:
+
+    ^Y*^x scoutExit is executed on the creature.
+    ^Y*^x scoutByCreature is executed on the exit. 
+
+Picking:
+
+    ^Y*^x succeedPickExit is executed on the creature.
+    ^Y*^x succeedPickByCreature is executed on the exit.
+    ^Y*^x failPickExit is executed on the creature.
+    ^Y*^x failPickByCreature is executed on the exit.
+
+
+^WWeather Hooks^x
+
+The following hooks are executed on all players and monsters that are outside when
+the specified event occurs. If the weather configuration for that room has no text,
+then the hook will not be executed. The is no MudObject target, but the first
+parameter is the lowercase name of the current season.
+
+    ^Y*^x weatherSunrise
+    ^Y*^x weatherSunset 
+
+    ^Y*^x weatherEarthTrembles
+    ^Y*^x weatherHeavyFog 
+
+    ^Y*^x weatherBeautifulDay
+    ^Y*^x weatherBrightSun
+    ^Y*^x weatherGlaringSun
+    ^Y*^x weatherHeat 
+
+    ^Y*^x weatherStill
+    ^Y*^x weatherLightBreeze
+    ^Y*^x weatherStrongWind
+    ^Y*^x weatherWindGusts
+    ^Y*^x weatherGaleForce 
+
+    ^Y*^x weatherClearSkies
+    ^Y*^x weatherLightClouds
+    ^Y*^x weatherThunderheads 
+
+    ^Y*^x weatherLightRain
+    ^Y*^x weatherHeavyRain
+    ^Y*^x weatherSheetsRain
+    ^Y*^x weatherTorrentRain 
+
+    ^Y*^x weatherNoMoon
+    ^Y*^x weatherSliverMoon
+    ^Y*^x weatherHalfMoon
+    ^Y*^x weatherWaxingMoon
+    ^Y*^x weatherFullMoon 
+
+
+^WExample^x
+
+ : A chilly wind sweeps down out of the Dragonhold Mountains.
+ checking hook weatherLightBreeze: Dominus on -none- param1: autumn
+ : The Ironclad is about to depart from Highport.
+ : Highport is engulfed by the night.
+ checking hook weatherSunset: Dominus on -none- param1: autumn
+ The sky is clear blue from horizon to horizon.
+ checking hook weatherClearSkies: Dominus on -none- param1: autumn
+ : Player saved.
+ : The moon is swallowed by the night.
+ checking hook weatherNoMoon: Dominus on -none- param1: autumn
+

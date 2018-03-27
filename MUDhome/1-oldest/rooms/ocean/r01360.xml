@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1360" Version="2.40" Area="ocean">
+  <Name>Mountain Trail to the Palace</Name>
+  <ShortDescription>You are on the high mountain trail leading up to the Forbidden Palace.</ShortDescription>
+  <LongDescription>The trail up the mountains is starting to level out towards the summit.
+Ahead to the south, you can see the great palace you saw from below. 
+The "Forbidden" Palace, as many locals like to call it, seems very
+desolate, but everyone seems to know that someone or something still
+inhabits the old mansion. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1359</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1400</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

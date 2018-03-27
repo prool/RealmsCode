@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5337" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>Hot sand blows across the highway here, almost obscuring your view of it.</ShortDescription>
+  <LongDescription>The K'tral Desert on the south side of the road seems to have a definite
+demarcation point, abruptly ending at the edge of the road.  On the north
+side there is green grass and trees.  This seems to be the only place that
+sand has invaded the northern side of the highway.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5336</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5338</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

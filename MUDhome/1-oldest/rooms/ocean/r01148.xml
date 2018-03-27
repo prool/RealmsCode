@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1148" Version="2.40" Area="ocean">
+  <Name>Regalia Drive</Name>
+  <ShortDescription>You are walking along Regalia Drive, north of the Oceancrest Amphitheatre.</ShortDescription>
+  <LongDescription>The entrance to the Amphitheatre is to the south.  The large, grassy
+hill provides space for thousands of people.  Some benches are set up
+but most people are content to sit on the grass and discuss the day's
+events, problems and other worries.  To the north is the Oceancrest
+Ministry of Knowledge, where the collective knowledge of the town is
+stored and guarded.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1147</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1149</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

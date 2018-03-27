@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="3969" Version="2.40" Area="ocean">
+  <Name>Llanandar's Tree House</Name>
+  <ShortDescription>You are standing outside the home of Llanandar, the elven bowmaker.</ShortDescription>
+  <LongDescription>The giant old oak has doors and windows cut in the living tree, and an 
+old elf can be seen working inside.  Another old elf appears to be asleep 
+by the door.  A small sign, with a cursive script, proclaims this to be a
+bowyer's workshop.  The creek runs along the side, and you see a small
+bridge over it, and a path which goes deeper into the woods.</LongDescription>
+  
+  <Established>770430761</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">278</Mob>
+      <Mob Area="ocean" Num="1">278</Mob>
+      <Mob Area="ocean" Num="2">278</Mob>
+      <Mob Area="ocean" Num="3">278</Mob>
+      <Mob Area="ocean" Num="4">278</Mob>
+      <Mob Area="ocean" Num="5">278</Mob>
+      <Mob Area="ocean" Num="6">278</Mob>
+      <Mob Area="ocean" Num="7">278</Mob>
+      <Mob Area="ocean" Num="8">278</Mob>
+      <Mob Area="ocean" Num="9">278</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>path</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="path">
+      <Keys/>
+      <Room Area="ocean">3963</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3970</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

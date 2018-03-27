@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="660" Area="ocean" Version="2.40">
+  <Name>heavy wine bottle</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>15</Number>
+    <Sides>1</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">wine</Key>
+    <Key Num="1">bottle</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>It's a very old and rare bottle of the finest wine.  Must be worth a lot.</Description>
+  <Weight>4</Weight>
+  <Type>5</Type>
+  <SubType>club</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

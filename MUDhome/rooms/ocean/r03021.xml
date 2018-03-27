@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3021" Version="2.40" Area="ocean">
+  <Name>Underground Passage</Name>
+  <ShortDescription>You are in a tunnel almost too tight to squeeze through.</ShortDescription>
+  <LongDescription>And it stinks too.  The tunnel does seem to be rather short, though, and
+an exit can be seen at both ends.  There's a slime on the walls, and you
+have just put your hands in something very squishy.</LongDescription>
+  
+  <Established>761603071</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3199</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3022</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

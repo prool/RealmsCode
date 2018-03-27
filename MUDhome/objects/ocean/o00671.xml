@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="671" Area="ocean" Version="2.40">
+  <Name>large blue ball</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>5</ShotsMax>
+  <ShotsCur>5</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">3000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">blue</Key>
+    <Key Num="1">ball</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The ball has a shimmering blue aura and is about the size of a human head.</Description>
+  <UseOutput>The blue aura pulses as you hold it.</UseOutput>
+  <Weight>5</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>16</MagicPower>
+  <InBag/>
+</Object>

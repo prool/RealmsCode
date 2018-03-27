@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<Room Num="4511" Version="2.40a" Area="ocean">
+  <Name>Prince Ragnar's Throne Room</Name>
+  <ShortDescription>You are in the throne room of Prince Ragnar, a twin son of King Lyanden.</ShortDescription>
+  <LongDescription>The floor is glass, covering an immense bottomless chasm, and a brilliant
+light falls on a bejeweled golden throne floating in the center of the room.
+No light at all falls on the occupant of the throne, and all you can see
+is an inky blackness where Ragnar is reputed to sit.   You are invited to
+become a member of Ragnar's Keep.</LongDescription>
+  
+  
+  
+  <Established>774573066</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">724</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">721</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">720</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects>
+    <ObjRef Num="720" Area="ocean" Version="2.40a">
+      <Name>100 oriental dancers</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value/>
+      <Keys>
+        <Key Num="0">oriental</Key>
+        <Key Num="1">dancers</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="724" Area="ocean" Version="2.40a">
+      <Name>300 knights in gleaming armor</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value/>
+      <Keys>
+        <Key Num="0">knights</Key>
+        <Key Num="1">gleaming</Key>
+        <Key Num="2">armor</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+    <ObjRef Num="721" Area="ocean" Version="2.40a">
+      <Name>500 warriors</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value/>
+      <Keys>
+        <Key Num="0">warriors</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+  </Objects>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4510</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="throne">
+      <Keys/>
+      <Room Area="ocean">4512</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="prayer room">
+      <Keys/>
+      <Room Area="ocean">4519</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

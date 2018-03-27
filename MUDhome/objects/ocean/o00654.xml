@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="654" Area="ocean" Version="2.40">
+  <Name>shattered dragon's blade</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>3</ShotsMax>
+  <ShotsCur>3</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>4</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">dragon</Key>
+    <Key Num="1">blade</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="1"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The blade looks like it could still be used a few more times.</Description>
+  <UseOutput>Although shattered, you still feel the power of the dragon!</UseOutput>
+  <Weight>2</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="580" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive, east of the goblin shrine.</ShortDescription>
+  <LongDescription>The Shrine of Maglubiyet is dedicated to the goblin diety.  Maglubiyet
+enjoys wars and conflicts, believing that they bring out the best traits
+in all goblins and hobgoblins.  Being of a similar philosophy to Gruumsh, 
+both factions are usually fighting to see which is more superior and more
+worthy of their respective god's praise.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">579</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">549</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

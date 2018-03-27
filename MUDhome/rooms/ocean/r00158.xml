@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="158" Version="2.40" Area="ocean">
+  <Name>Plasnelt Road</Name>
+  <ShortDescription>Plasnelt Road was named after a geological area to the north of the village.</ShortDescription>
+  <LongDescription>The village of Brownhaven sits at the western end of Gotland Glenn, near
+the eastern edge of the Nartiz Mountain Range.  It's a rather idealic spot,
+but its proximity to Mount Aphinix means its sometimes subject to raids
+by mountain trolls.   On the north side of the road there is a repair shop.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">157</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">159</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">153</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

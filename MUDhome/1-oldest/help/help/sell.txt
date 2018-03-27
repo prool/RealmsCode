@@ -1,0 +1,16 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  sell           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+You may only sell things you have in a pawn shop. You may sell any item you
+have that is not broken or worthless. To find out how much money the pawn
+shopkeeper will give you an item before you actually sell it, use the VALUE
+command. Also note that pawn shops will not buy potions, no matter how valuable
+they are.
+
+Example:
+: sell hoe
+The shopkeep says, "I won't buy that crap from you."
+: sell gold
+The shopkeep gives you 50 gold for the golden bauble.
+:

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Quests>
+	<Quest>
+		<ID>1</ID>
+		<name>Firestorm</name>
+		<exp>3000</exp>
+	</Quest>
+</Quests>

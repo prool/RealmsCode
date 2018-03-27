@@ -1,0 +1,47 @@
+Treasure Types
+
+Ttype       AP     PP     GP     SP     CP
+-------------------------------------------
+0           x0     x0     x0     x0     x0
+1           x0     x0     x0     x3     x6
+2           x0     x0     x0     x6     x3
+3           x0     x0     x0.2   x8     x12
+4           x0     x0     x0.333 x10    x15
+5           x0     x0     x0.4   x12    x20
+6           x0     x0.1   x0.5   x15    x30
+7           x0     x0.2   x1     x20    x45
+8           x0.02  x0.333 x1.2   x25    x55
+9           x0.05  x0.4   x1.4   x30    x65
+10          x0.08  x0.5   x1.5   x40    x75
+11          x0.1   x0.7   x1.8   x50    x90
+
+Ex: A level 1 wino with ttype 2 will have a max
+    of: 6sp, 3cp.
+    A level 20 dragonman (mtype dragon) with 
+    ttype 11 will have a max of: 
+    8ap, 14pp, 36gp, 1000sp, 1800cp
+
+All perms need to have coins SET based generally on these
+ttype settings. Ttypes are meant primarily for mobile,
+random mobs, not for perms. This is important since we
+are going to be less perm based than mobile based. 
+
+IF A TTYPE IS NOT SET, the game will load a monster with a 
+default ttype based on its mtype. All creatures without mtypes 
+will have ttype 0 - so if you want the game to decide the 
+coins your monsters drop, just go through and set all their 
+mtypes. If the custom coin flag is set (mflag 177), or if the 
+mob is a perm, it will override the autocoin set, and it will 
+ignore treasure type alltogether.
+
+Treasure types can be set by doing: *set c mob tt #
+
+If you wish to see a mob's default type and coins that
+would result, just set the ttype to 0, and then do:
+*coins (mob) -d
+
+Please use mflag 177 (custom coins) very rarely, and only
+with DM permissionbed perm does NOT need to have this flag
+set.
+
+Any questions, ask a DM.

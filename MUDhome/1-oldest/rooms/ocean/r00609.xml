@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="609" Version="2.40a" Area="ocean">
+  <Name>Avatar Boulevard/Yellow Marsh Road Intersection</Name>
+  <ShortDescription>You are at the intersection of Avatar Boulevard and Yellow Marsh Road.</ShortDescription>
+  <LongDescription>Yellow Marsh Road is a small road leading east from the intersection with
+Avatar Boulevard, which runs north and south.  Yellow Marsh Road marks
+the southern end of the Avatar Ruins.  To the south, you can see the
+Anthian Bridge, crossing over the river flowing into Lyanden Lake.  Looking
+up, you can see a single cloud in the otherwise clear sky.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">608</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">610</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">998</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">699</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

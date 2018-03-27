@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="671" Version="2.40a" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are walking along Hofton Avenue, running parallel to the City Walls.</ShortDescription>
+  <LongDescription>Looking to the north, you can see the massive City Walls, which protect
+the City of Oceancrest from any attacks or sieges by any faction outside
+of Oceancrest.  Although there hasn't been an uprising in a long time,
+the city knows that when their guard is let down, some rebel force will
+begin an attack.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">670</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">601</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

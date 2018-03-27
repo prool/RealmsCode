@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="4238" Version="2.40a" Area="ocean">
+  <Name>Main Courtyard - Center West</Name>
+  <ShortDescription>You are on the parade deck of Prince Rutger's central courtyard.</ShortDescription>
+  <LongDescription>The review stand is to the north, and a tier of seats for visitors and
+observers is to the northwest.  On the north wall of the castle you can see
+a silk banner with the crest of Rutger on it.  The banner is in black edged
+with silver trim.  The troops who assemble here also wear black uniforms or
+armor with silver piping and silver accessories, colors of Lyanden Castle.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4239</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4240</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4241</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4206</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

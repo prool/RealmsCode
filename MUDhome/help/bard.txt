@@ -1,0 +1,28 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  Bard         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Prime Requisites: Piety, Intelligence
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+Bards are the traveling lore masters and storytellers of Derlith. Early on in
+their lives, they set out to travel the land to find out as much as they can.
+Often they attend colleges in order to gain expertise in particular areas as
+well. As such, they know a lot about the lands and the creatures in them. This
+gives bards a unique perspective on almost everything, and chances are that
+they will know something about almost anything they find, particularly items
+and weapons. A bard's singing ability is legendary, and it is said to be able
+to heal the body. Some other more traveled bards are said to be able to
+mentally revitalize those that hear their music. It is also said that bards are
+able to learn songs which can damage their enemies through the power of magic,
+as well as many other magical affects. Some creatures are so enticed by a bards
+stories and song, that they are instantly charmed and under the sway of the
+bard. Bards play a vital role in Derlith, as they act as historians. Don't let
+this fool you. Bards are quite roguish, and they definitely know how to have a
+good time.
+
+Abilities: Charm, Sing, Identify
+Bards can learn different songs to do different things.
+

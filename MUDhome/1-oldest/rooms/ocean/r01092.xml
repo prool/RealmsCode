@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="1092" Version="2.40" Area="ocean">
+  <Name>Hafnia Way</Name>
+  <ShortDescription>You are walking along Hafnia Way, just west of the Caravan camp. </ShortDescription>
+  <LongDescription>There is a large shopping complex to the west called Waterfron Plaza.  The
+plaza boasts an elven leather shop, a repair shop, and various other shops
+featuring imports from around the world.  Directly to the east is a large
+field that belongs to the DeNail family, but has often been used as a
+camp for the assembly of caravans to leave the city.  The shops are usually
+the first to buy the goods arriving from far off places.   There is also a
+fighting academy in the Waterfront Plaza to the west.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">1</Mob>
+      <Mob Area="ocean" Num="3">1</Mob>
+      <Mob Area="ocean" Num="4">6</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1093</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1091</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1920</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

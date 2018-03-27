@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="2865" Version="2.40a" Area="ocean">
+  <Name>The Underwater Temple</Name>
+  <ShortDescription>You are in the inner sanctum of Kasmier, a place you should not be.</ShortDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>765276896</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>1206216935</LastTime>
+      <Misc Area="ocean">560</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>84000</Interval>
+      <LastTime>1206216939</LastTime>
+      <Misc Area="ocean">430</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2858</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2860</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2862</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2864</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

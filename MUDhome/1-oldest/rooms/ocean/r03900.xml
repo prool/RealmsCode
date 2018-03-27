@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3900" Version="2.40a" Area="ocean">
+  <Name>Shrine Entry</Name>
+  <ShortDescription>You are in the magnificient entry to the Holy Order of Corellon Larethian.</ShortDescription>
+  <LongDescription>The high ceiling appears to be covered with gold foil, inlaid with precious
+gems.  The wavering flames of the high set torches produce a dancing sparkle
+which is beautiful to behold.  Everywhere you look you see evidence of
+elven quality workmanship.  This one entry room alone must be worth the
+ransom of a couple of kings.  There is a sign in the elven language on the
+wall near the east door.</LongDescription>
+  
+  
+  
+  <Established>768591423</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">656</Mob>
+      <Mob Area="ocean" Num="1">656</Mob>
+      <Mob Area="ocean" Num="2">656</Mob>
+      <Mob Area="ocean" Num="3">656</Mob>
+      <Mob Area="ocean" Num="4">656</Mob>
+      <Mob Area="ocean" Num="5">656</Mob>
+      <Mob Area="ocean" Num="6">656</Mob>
+      <Mob Area="ocean" Num="7">656</Mob>
+      <Mob Area="ocean" Num="8">656</Mob>
+      <Mob Area="ocean" Num="9">656</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">657</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3901</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

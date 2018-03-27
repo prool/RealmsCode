@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="1556" Version="2.40a" Area="ocean">
+  <Name>Outer Circle of Etolos</Name>
+  <ShortDescription>You are travelling along the outskirts of the forest of Etolos.</ShortDescription>
+  <LongDescription>The trees in this forest seem to create a path that you can follow 
+around Etolos.  To the northeast, you can see one of the inner circles.
+Strangely enough, you don't see a lot of physical structures in the
+forest.  The population of druids, however, seems to increase the further
+east you head.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">177</Mob>
+      <Mob Area="ocean" Num="1">177</Mob>
+      <Mob Area="ocean" Num="2">177</Mob>
+      <Mob Area="ocean" Num="3">177</Mob>
+      <Mob Area="ocean" Num="4">178</Mob>
+      <Mob Area="ocean" Num="5">178</Mob>
+      <Mob Area="ocean" Num="6">177</Mob>
+      <Mob Area="ocean" Num="7">178</Mob>
+      <Mob Area="ocean" Num="8">177</Mob>
+      <Mob Area="ocean" Num="9">177</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1553</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">1559</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1560</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

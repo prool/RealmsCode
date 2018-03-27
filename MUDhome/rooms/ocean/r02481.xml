@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Room Num="2481" Version="2.40" Area="ocean">
+  <Name>Redwood Tree</Name>
+  <ShortDescription>The ancient redwood tree you have climbed gives you a great look at the city.</ShortDescription>
+  <LongDescription>The tall tree towers above the rest of the park, giving you a good
+look at all the other strange and interesting objects in the park to
+look for.  If you are ready to train, you should go to the tree branch.
+If you wish to leave the park, go out.  If you wish to remain in the park,
+you must track out of the tree.</LongDescription>
+  
+  <Established>727256947</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="18"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="tree branch">
+      <Keys/>
+      <Room Area="ocean">2482</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1935</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2410</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2459</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2403</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2401</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

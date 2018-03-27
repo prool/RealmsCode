@@ -1,0 +1,6 @@
+Help on: *eggdrop
+
+Connects mud to IRC eggdrop, allowing player broadcasts
+and other mudwide broadcast things sent to the IRC channel.
+
+Syntax: *eggdrop

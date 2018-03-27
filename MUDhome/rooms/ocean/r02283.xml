@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2283" Version="2.40" Area="ocean">
+  <Name>The Healing Hand</Name>
+  <ShortDescription>You are in a small building with a lot of white, healing lights.</ShortDescription>
+  <LongDescription>A number of clerics and priests give their time to come to help people 
+who have been severely injured.  They give their time freely because it 
+is the way of their religion, and a helping hand is never really ever
+forgotten.  You may rest here in peace without being disturbed until
+you have been completely healed.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+    <Bit Num="16"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1712</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1799</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

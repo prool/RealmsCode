@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="4027" Version="2.41a" Area="ocean">
+  <Name>Golgoth Frozen Falls</Name>
+  <ShortDescription>You are standing at the base of a frozen, hundred-meter waterfall.</ShortDescription>
+  <LongDescription>Around a particularly sharp corner of the trail the sparkling waterfall
+comes into view.  It appears to be frozen in both time and space, and
+the light falling on it creates a kaleidascope of shifting rainbows and
+prismatic reflections.  Closer examination reveals that a section of the
+waterfall is clearer, and slightly more transparent than the rest of it.
+The trail apparently ends here.  Nice view.</LongDescription>
+  
+  
+  
+  <Established>771897572</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="7">658</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4026</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="crevice">
+      <Keys/>
+      <Room Area="ocean">4028</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="1"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

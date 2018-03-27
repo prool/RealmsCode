@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="1873" Version="2.40" Area="ocean">
+  <Name>Main Hallway</Name>
+  <ShortDescription>You are walking in the Main Hallway, just east of the Main Chapel.</ShortDescription>
+  <LongDescription>The hallway opens into a large chapel to the west where anyone may 
+enter to pray, study or just rest under the watchful eye of Artemis.
+There is a door to the north which reads "Priestess' Quarters".  
+There is another door on the south which reads "Meditation Chamber".
+The chapel is relatively deserted at this time, but shows a bit of
+movement occasionally.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1872</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

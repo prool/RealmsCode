@@ -1,0 +1,12 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |     Help on:  rumble spell     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 3
+
+This spell is the lowest level spell in the earth realm. It creates a minor
+tremor under the target, causing minor abrasions. The few scratches and bruises
+normally isn't enough to kill the target, only to anger them more.
+
+Syntax:
+cast rumble <target>
+

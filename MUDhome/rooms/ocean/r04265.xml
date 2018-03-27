@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="4265" Version="2.40" Area="ocean">
+  <Name>Castle Rutger Library</Name>
+  <ShortDescription>You are in the dusty library of Prince Rutger's Tower Castle.</ShortDescription>
+  <LongDescription>Evidently the people who live here in the castle don't do much reading,
+as there is a heavy coat of dust everywhere.  The dust is so heavy you 
+cannot read the titles of the books and manuscripts stored here.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4227</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4226</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

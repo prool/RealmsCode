@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="43" Version="2.40" Area="ocean">
+  <Name>Brownhaven Way/Caledonia Road</Name>
+  <ShortDescription>This is the intersection of Brownhaven Way and Caledonia Road.</ShortDescription>
+  <LongDescription>Brownhaven Way is a north-south street where most of the village's 
+professional people maintain their offices.  A few of the more genteel
+pubs are also found along Brownhaven Way.  Caledonia Road is used mostly
+by merchants.  A few second-hand stores can be found along the west road.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">33</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">53</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">44</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">42</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

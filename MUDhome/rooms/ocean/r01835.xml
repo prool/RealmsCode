@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="1835" Version="2.40" Area="ocean">
+  <Name>The Center Path</Name>
+  <ShortDescription>You are on one of the central paths through the Barbarian Pits.</ShortDescription>
+  <LongDescription>The bottom of the Pits is northeast of here, while the Barbarian Chief's Hut
+is located directly north in a small section of land separated by the two
+center paths.  On the south you can see a great many barbarians relaxing in
+a huge puddle of hot mud, if you can call that relaxing.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>18</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">261</Mob>
+      <Mob Area="ocean" Num="1">262</Mob>
+      <Mob Area="ocean" Num="2">263</Mob>
+      <Mob Area="ocean" Num="3">264</Mob>
+      <Mob Area="ocean" Num="4">263</Mob>
+      <Mob Area="ocean" Num="5">264</Mob>
+      <Mob Area="ocean" Num="6">262</Mob>
+      <Mob Area="ocean" Num="7">261</Mob>
+      <Mob Area="ocean" Num="8">261</Mob>
+      <Mob Area="ocean" Num="9">261</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1842</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1836</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1826</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1827</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

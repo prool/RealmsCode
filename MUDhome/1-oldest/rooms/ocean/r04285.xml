@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="4285" Version="2.40a" Area="ocean">
+  <Name>Royal Stairway</Name>
+  <ShortDescription>You are on the second level of the Royal Stairway in Rutger's Tower Castle.</ShortDescription>
+  <LongDescription>There is a hallway going west which seems to be bustling with clerks and
+accountants, all of them busy with the the paperwork of the castle.  Most
+people never consider how much administrative work is associated with the
+workings of a castle, but just stop one of these clerks, and you will see
+just how upset he can become over being delayed in his work.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4270</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">4286</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

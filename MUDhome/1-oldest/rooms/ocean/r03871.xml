@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3871" Version="2.40" Area="ocean">
+  <Name>Brick Cistern</Name>
+  <ShortDescription>You are on a ledge which spirals around the circular walls of the cistern.</ShortDescription>
+  <LongDescription>The cistern is lined with a ceramic brick, making a smooth surface for
+the circular well.  The ledge you are on spirals around the wall, but
+provides very little in the way of hand holds.  From here, its still a
+long way in either direction, up or down.  Although there is a bright
+sky up above, there is very little light here, and even less below you.</LongDescription>
+  
+  <Established>768710443</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3870</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3872</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

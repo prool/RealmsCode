@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="5452" Version="2.40" Area="ocean">
+  <Name>Hafnia Mountain Road</Name>
+  <ShortDescription>The road narrows in the western direction, and enters a valley to the east.</ShortDescription>
+  <LongDescription>All of the snow has melted, even though there is snow at lower elevations.
+Higer up, and over to the south, there are several active volcanos, each 
+providing a welcome warmth to the air and the road.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5451</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5453</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

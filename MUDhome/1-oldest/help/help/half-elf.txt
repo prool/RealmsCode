@@ -1,0 +1,18 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |        Help on:  Half Elf         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Adjustments: +1 Dexterity, +1 Intelligence, -1 Constitution, -1 Strength
+Compatible Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Paladin, Ranger, Rogue, Thief, Vampire,
+	Werewolf, Fighter/Mage, Fighter/Thief, Mage/Thief, Thief/Mage
+
+Half elves are the result of the crossing of elves and humans. As a result, they
+often have no place to call a home, as neither side accepts them fully. Half
+elves living with humans fair better however, as elves tend to be a bit more
+racist then mankind. A half elf inherits his elven half's quick intellect as
+well as his smallness of stature. Half elves are able to become masters at any
+profession, and they can be found all across Derlith.
+
+See in dark (infravision): No
+Size class: Medium

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="5464" Version="2.40" Area="ocean">
+  <Name>Rutger Castle Road</Name>
+  <ShortDescription>You are on the south side of a guard post whose sentries block the road.</ShortDescription>
+  <LongDescription>There is a tiny kiosk, painted with red and white stripes, standing at the
+the side of the road.  A few meters away you see a barracks for the troops
+that maintain this post.  A long pole has been lowered across the road,
+apparently to require travelers to stop.  It would be easy to walk around. </LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5463</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5465</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="barracks">
+      <Keys/>
+      <Room Area="ocean">5478</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

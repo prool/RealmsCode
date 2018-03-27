@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="920" Version="2.40" Area="ocean">
+  <Name>Hafnia Circle</Name>
+  <ShortDescription>You are on Hafnia Circle road traveling around the city of Hafnia.</ShortDescription>
+  <LongDescription>You are at the most southern end of town.  The road curves back to the north
+in both directions.  To the north is the business district of the city. 
+This is the less well-to-do section of Hafnia, but a few artisans keep  
+their shops here because of the low rent. A sign nearby says "Bowyer."</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">921</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">919</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="alley">
+      <Keys/>
+      <Room Area="ocean">914</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5514</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">917</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

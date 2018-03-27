@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3868" Version="2.40" Area="ocean">
+  <Name>Aquaduct</Name>
+  <ShortDescription>You are in a fresh water aquaduct which takes water to the temple.</ShortDescription>
+  <LongDescription>The sides of the aquaduct are covered with moss and feel slimy to the
+touch.  The humidity down here is quite high, and any metal you may be
+carrying is probably starting to rust.  You should probably feel assured
+that no doubt nothing could live down here.  And no doubt you are as safe
+as if you were home in bed.</LongDescription>
+  
+  <Established>768693497</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3867</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3869</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

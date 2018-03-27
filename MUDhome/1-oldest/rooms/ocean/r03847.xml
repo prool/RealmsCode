@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3847" Version="2.40a" Area="ocean">
+  <Name>North Highway</Name>
+  <ShortDescription>You are on the King's Northern Highway, north of a country inn.</ShortDescription>
+  <LongDescription>To the south you can see a large but decrepit old inn where they serve
+good food, or so the peasants along the road have said.  A few small
+buildings and shops around the inn make up a village.  A produce stand
+is just off the road.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3846</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3848</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4052</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

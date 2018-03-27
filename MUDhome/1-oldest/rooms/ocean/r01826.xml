@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="1826" Version="2.40" Area="ocean">
+  <Name>The Barbarian Chief's Hut</Name>
+  <ShortDescription>You have violated one of the only barbarian rules by entering this hut.</ShortDescription>
+  <LongDescription>Barbarians are typically very trusting and don't really mind outsiders
+wandering around, but they do not allow just anyone into the Chief's
+Hut.  It is strictly off limits even to most barbarians that live here.
+There are a number of guards waiting to pounce as you enter, making
+life very tough.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>18</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">271</Mob>
+      <Mob Area="ocean" Num="1">271</Mob>
+      <Mob Area="ocean" Num="2">271</Mob>
+      <Mob Area="ocean" Num="3">271</Mob>
+      <Mob Area="ocean" Num="4">271</Mob>
+      <Mob Area="ocean" Num="5">271</Mob>
+      <Mob Area="ocean" Num="6">271</Mob>
+      <Mob Area="ocean" Num="7">271</Mob>
+      <Mob Area="ocean" Num="8">271</Mob>
+      <Mob Area="ocean" Num="9">271</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>172800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">272</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1833</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1835</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1825</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

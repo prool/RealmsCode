@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1118" Version="2.40" Area="ocean">
+  <Name>Marina Way</Name>
+  <ShortDescription>You are traveling on Marina Way, just west of the Oceancrest Arena.</ShortDescription>
+  <LongDescription>The Oceancrest Central Arena is notorious for its lack of compassion when
+it comes to duels and brawls.  Most contestants join to have the chance
+to fight with some of the great gladiators of all time, but also end up
+dying soon thereafter.  The Arena offers many levels of difficulty from
+sheer brute strength to wisdom and skill in outmanuvering your opponent.
+it is definately not for the weak of heart.  The Arena entrance is 
+located to the north.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1119</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1117</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

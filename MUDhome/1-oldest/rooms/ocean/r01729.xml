@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="1729" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, west of the Allakaren Pyramid.</ShortDescription>
+  <LongDescription>The Allakaren Pyramid was built centuries ago before the city of Oceancrest
+even existed.  However, after many years of looting and wear by the 
+elements, the Pyramid has started to deteriorate.  After the City of 
+Oceancrest was formed and the walls around the city were being planned,
+the administrators decided that it would be in the best interests of
+the community to protect the Pyramid within the City Walls.  It is said
+that the Pyramid is still haunted by its previous owner, but this hasn't
+stopped archeologists from digging around inside.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1730</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1728</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2268</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

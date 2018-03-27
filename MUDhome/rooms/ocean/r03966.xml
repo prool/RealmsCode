@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="3966" Version="2.40" Area="ocean">
+  <Name>Llanandar Meadows</Name>
+  <ShortDescription>You are in a meadow surrounded by woods.  To the west is the sound of water.</ShortDescription>
+  <LongDescription>Around are old growth oaks, and you realize that many of them are centuries
+old, but still healthy and productive.  Small animals chatter in the tree 
+tops, and birds flit from tree to tree.  The meadow too, seems alive with
+rodents and other tiny animals.</LongDescription>
+  
+  <Established>770530728</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">434</Mob>
+      <Mob Area="ocean" Num="1">434</Mob>
+      <Mob Area="ocean" Num="2">434</Mob>
+      <Mob Area="ocean" Num="3">434</Mob>
+      <Mob Area="ocean" Num="4">434</Mob>
+      <Mob Area="ocean" Num="5">434</Mob>
+      <Mob Area="ocean" Num="6">434</Mob>
+      <Mob Area="ocean" Num="7">434</Mob>
+      <Mob Area="ocean" Num="8">434</Mob>
+      <Mob Area="ocean" Num="9">434</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3965</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3967</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

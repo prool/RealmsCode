@@ -1,0 +1,31 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  darkness spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 15/20/25
+School:  Evocation
+Domain:  Trickery
+
+This spell summons a globe of magical darkness to follow the target around.
+Anyone in the same room as the target will need the infravision spell to be
+able to see. Anyone may cast this spell upon themselves, and it will cost
+only 15MP. Mages, liches, clerics, druids, and bards are all able to cast
+it upon others as well. In that case it will cost 20MP to cast instead of
+15MP.
+
+Anybody who knows and can cast the enchant spell may cast darkness on an
+object. This enchants the object with an aura of darkness that lasts until
+a remove-curse spell is cast on the person holding it. Darkened objects in
+a bag will not be affected by remove-curse and will also not make the room
+dark. This version of the spell costs 25MP to cast, the same as the enchant
+spell.
+
+Enoch does not condone the use of this spell. The darkness spell will last
+half as long as normal if cast by a worshipper of Enoch. Arachnus is the
+opposite; followers of Arachnus will find this spell lasts twice as long.
+
+This spell is considered offensive. It can be cast on any player above
+third level.
+
+Syntax:
+cast darkness <player|object>
+

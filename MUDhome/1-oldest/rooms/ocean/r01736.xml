@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1736" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, east of the Dentra Archery Range.</ShortDescription>
+  <LongDescription>The Dentra Archery Range is divided into two separate ranges, one for
+the advanced archers and another for beginners and novice archers.  The
+Range improves archery skills and often holds tournaments to see who 
+can hit the target's bull's eye from the furthest distance.  The entrance
+to the facility is located off of Waterfront Way.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1737</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1735</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

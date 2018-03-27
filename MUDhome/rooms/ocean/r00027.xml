@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="27" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>Main Street continues to the north and south.  A camel stable is east of you.</ShortDescription>
+  <LongDescription>There is a large lot and several warehouses and camel stables on the east
+side of the street.  An auction is held when the caravans arrive from other
+cities, and it is usually an exciting event.  Even people who do not intend 
+buy come just to watch.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="5">6</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">37</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">17</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

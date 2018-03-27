@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="4235" Version="2.40a" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>You are in the ground level hallway which encircles the castle.</ShortDescription>
+  <LongDescription>There are several levels to Rutger's Tower, each a circular hallway above
+the others.  This is the largest, and it rings the main courtyard.  The
+next level up is much smaller and is mostly administrative offices.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4234</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4203</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

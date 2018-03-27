@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="655" Area="ocean" Version="2.40">
+  <Name>recycling machine</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">machine</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="6"/>
+    <Bit Num="17"/>
+    <Bit Num="25"/>
+  </Flags>
+  <Description>It's a huge steam engine with rotating knives and smashing hammers.</Description>
+  <Weight>800</Weight>
+  <Type>10</Type>
+  <InBag/>
+</Object>

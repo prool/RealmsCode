@@ -1,0 +1,60 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  socials         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+ack          afk          ahem         anvil        attention    babble       
+ballz        bark         bathe        beam         bear         beckon       
+beer         beg          behind       bhand        bird         bitchslap    
+bleed        bless        blink        blow         blush        boggle       
+bonk         boo          bored        bounce       bow          bubble       
+burp         cackle       caress       cheer        chest        choke        
+chuckle      cigar        clap         clean        cluck        collapse     
+comb         comfort      compose      confused     congrats     copulate     
+cornholio    cough        count        cower        crack        crazy        
+cringe       crow         cry          cstr         cuddle       curl         
+curse        curtsy       damn         dance        daydream     defecate     
+die          dirt         disgust      dismiss      doh          doodle       
+dream        drool        embrace      evil         expose       eye          
+faint        fall         fangs        fart         fft          fidget       
+fist         flex         flip         foam         fondle       freak        
+freeze       french       froth        frown        frustrate    fume         
+fun          gag          gasp         gibber       giggle       glare        
+glaze        gnaw         goose        grab         grimace      grin         
+grind        groan        grope        grovel       growl        grr          
+grumble      grunt        haha         hail         halo         hammer       
+hbeer        hiccup       high5        hiss         hug          hum          
+hump         hunger       hysterical   imitate      innocent     jiggy        
+jk           jump         kic          kiss         knee         lag          
+laugh        lick         listen       livejournal  lobotomy     lol          
+loom         lust         maniac       mark         massage      masturbate   
+meiko        meow         moan         monkey       moo          moon         
+mope         mosh         munch        murmur       mutter       narrow       
+nervous      nibble       nod          noogie       nose         nudge        
+ogle         oink         ok           pace         pan          panic        
+pant         pants        paranoid     pat          peck         pester       
+pet          phew         pinch        point        poke         ponder       
+pose         pounce       pout         psycho       puke         pummel       
+punch        purr         quack        rag          rage         raise        
+rant         relax        roar         rofl         roll         rollover     
+rps          rub          ruffle       sad          salute       satisfied    
+scowl        scratch      scream       seduce       shake        shiver       
+shove        show         shrug        shudder      shuffle      shush        
+sigh         sit          skip         slap         sleep        slobber      
+smack        smell        smile        smirk        smoke        smooch       
+snap         snarl        sneer        sneeze       snicker      sniff        
+sniffle      snore        snort        snuggle      sob          spank        
+spaz         spin         spit         squeal       squeeze      squint       
+squirm       stab         stagger      stand        stare        stomp        
+stretch      strip        strut        stumble      suck         sulk         
+surrender    swat         sweat        tackle       tag          tantrum      
+tap          taunt        tease        thank        think        thumb        
+thwack       tickle       tip          tnl          trip         triumph      
+tug          twiddle      twitch       vangogh      wag          wail         
+wait         wake         wall         warm         warn         wave         
+wedgy        whimper      whine        whip         whistle      wicked       
+wiggle       wild         wince        wink         woot         worry        
+worship      writhe       yawn         yodel        zip          
+
+For social commands that do not appear on this list, you can use the
+^mEMOTE^x command. This will allow you to customize your character's behavior.
+

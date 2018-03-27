@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2510" Version="2.40" Area="ocean">
+  <Name>Tiamat Lane</Name>
+  <ShortDescription>You are on the north side of Kista Towers, traveling on Tiamat Lanes.</ShortDescription>
+  <LongDescription>A formidable wall protects you from the moat at this point.  As you look
+closely, you realize this must be the wall where the moat keepers have
+installed a maintenance lock so they can do repairs and other necessary
+duties involving the moat monsters.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2021</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2509</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

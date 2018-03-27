@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="2396" Version="2.40a" Area="ocean">
+  <Name>Frost Giant Cavern</Name>
+  <ShortDescription>You are at the corner of the massive cavern carved from the great glacier.</ShortDescription>
+  <LongDescription>The passageway continues to the south and the west.  There is a distinct
+odor of rotting, decaying flesh in the area, but you can't really tell 
+which direction it's coming from.  The halls of this cavern are wandered
+by massive frost giants and armies of skeletal warriors.</LongDescription>
+  
+  <Established>728420163</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="21"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">363</Mob>
+      <Mob Area="ocean" Num="1">355</Mob>
+      <Mob Area="ocean" Num="2">355</Mob>
+      <Mob Area="ocean" Num="3">355</Mob>
+      <Mob Area="ocean" Num="4">356</Mob>
+      <Mob Area="ocean" Num="5">356</Mob>
+      <Mob Area="ocean" Num="6">363</Mob>
+      <Mob Area="ocean" Num="7">355</Mob>
+      <Mob Area="ocean" Num="8">355</Mob>
+      <Mob Area="ocean" Num="9">363</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2395</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2397</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

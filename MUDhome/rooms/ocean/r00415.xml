@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="415" Version="2.40" Area="ocean">
+  <Name>Lorian Parkway/Darmanian Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Darmanian Way and Lorian Parkway.</ShortDescription>
+  <LongDescription>Darmanian Way runs east and west, intersecting Lorian Parkway, which runs
+north and south out of the intersection.  Both streets are lined with 
+various shops and facilities for just about everyone for almost any 
+reason.  On the southwest corner of the road is the Temple of Clerical
+Science, where clerics from all around the region come to discuss the
+issues involved in modern clergy.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">414</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">416</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">464</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">465</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

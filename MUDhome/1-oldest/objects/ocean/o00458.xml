@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="458" Area="ocean" Version="2.40">
+  <Name>fisherman's net</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>2</ShotsMax>
+  <ShotsCur>2</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">850</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">net</Key>
+    <Key Num="1">fisherman</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a large tangled net ideal for snaring fish.</Description>
+  <UseOutput>You entangle your opponant.</UseOutput>
+  <Weight>7</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>13</MagicPower>
+  <InBag/>
+</Object>

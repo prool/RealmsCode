@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="1895" Version="2.40" Area="ocean">
+  <Name>Cast Iron Shields</Name>
+  <ShortDescription>You are in the Cast Iron Shields shop in Leonardo's Foundry.</ShortDescription>
+  <LongDescription>Shields are essential to any warrior's equipment lists, and only the
+finest iron and metal shields are sold here.  All shields are pretty
+generic, but as is usually the case, the larger the shield, the more
+protection it give you.  A good shield complements all the other armor
+you are wearing.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1890</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

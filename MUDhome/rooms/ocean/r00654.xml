@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="654" Version="2.40a" Area="ocean">
+  <Name>Amberton Lane</Name>
+  <ShortDescription>You are walking on Amberton Lane, west of the Knightly Order of the
+Black Cross and east of Altihmin's Academy of Advanced Fighting Techniques.</ShortDescription>
+  <LongDescription>Altihmin's Academy is reserved for only the most powerful of fighters
+in the realm.  He trains fighters to be powerful leaders and even more
+powerful on the battlefield.  On the east side of the road is the Knightly
+Order of the Black Cross, the dark side which all paladins must enter
+and overcome.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">653</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">655</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

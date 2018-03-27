@@ -1,0 +1,136 @@
+/* Spell flags */ 
+SVIGOR          1       /* vigor */ 
+SHURTS          2       /* zephyr */ 
+SINFRA          3       /* infravision */ 
+SSLOWP          4       /* slow-poison */ 
+SBLESS          5       /* bless */ 
+SPROTE          6       /* protection */ 
+SFIREB          7       /* fireball */ 
+SINVIS          8       /* invisibility */ 
+SRESTO          9       /* restore */ 
+SDINVI          10      /* detect-invisibility */ 
+SDMAGI          11      /* detect-magic */ 
+STELEP          12      /* teleport */ 
+SBEFUD          13      /* befuddle (stun) */ 
+SLGHTN          14      /* cyclone */ 
+SICEBL          15      /* atrophy */ 
+SENCHA          16      /* enchant */ 
+SRECAL          17      /* word-of-recall */ 
+SSUMMO          18      /* summon */ 
+SMENDW          19      /* mend-wounds */ 
+SFHEAL          20      /* heal */ 
+STRACK          21      /* track */ 
+SLEVIT          22      /* levitation */ 
+SFIREP          23      /* heat-protection */ 
+SFLYSP          24      /* fly */ 
+SRMAGI          25      /* resist-magic */ 
+SSHOCK          26      /* whirlwind */ 
+SRUMBL          27      /* rumble */ 
+SBURNS          28      /* burn */ 
+SBLIST          29      /* blister */ 
+SDUSTG          30      /* dustgust */ 
+SWBOLT          31      /* waterbolt */ 
+SCRUSH          32      /* crush */ 
+SENGUL          33      /* shatterstone */ 
+SBURST          34      /* burstflame */ 
+SSTEAM          35      /* steamblast */ 
+SSHATT          36      /* engulf */ 
+SIMMOL          37      /* immolate */ 
+SBLOOD          38      /* bloodboil */ 
+STHUND          39      /* tempest */ 
+SEQUAK          40      /* earth-tremor */ 
+SFLFIL          41      /* flamefill */ 
+SKNOWA          42      /* know-alignment */ 
+SREMOV          43      /* remove-curse */ 
+SRCOLD          44      /* resist-cold */ 
+SBRWAT          45      /* breathe water */ 
+SSSHLD          46      /* earth-shield */ 
+SLOCAT          47      /* clairvoyance */ 
+SDREXP          48      /* drain energy (exp) */ 
+SRMDIS          49      /* cure disease */ 
+SRMBLD          50      /* cure blindess */ 
+SFEARS          51      /* fear */ 
+SRVIGO       	52	/* room vigor */ 
+STRANO		53	/* transport */ 
+SBLIND		54	/* blind */ 
+SSILNC		55	/* silence */ 
+SFORTU		56	/* fortune */ 
+SCURSE		57	/* curse [BDyess] */ 
+SQUAKE		58	/* earthquake [BDyess] */ 
+SFLOOD		59	/* tsunami [BDyess] */ 
+SFIRES		60	/* inferno [BDyess] */ 
+SHURRI		61	/* hurricane [BDyess] */ 
+SINVOK		62	/* conjure [BDyess] */ 
+SPLANE          63	/* plane shift */ 
+SJUDGE          64      /* word-of-judgement */
+SRWATR          65      /* resist-water */
+SRWATR          66      /* resist-fire */
+SRWATR          67      /* resist-air */
+SRWATR          68      /* resist-earth */
+SFSHIE          69      /* reflect-magic */
+SANIMA          70      /* animate-dead */
+SDISMG          71      /* dispel-magic */
+STSGHT          72      /* true-sight */
+SRFEAR          73      /* remove-fear */
+SRSLNC          74      /* remove-silence */
+SCAMOF          75      /* camouflage */
+SETRVL          76      /* Ethereal-travel */
+SDSHIE          77      /* Drain-shield */
+SDEVIL          78      /* Dispel-evil */
+SDGOOD          79      /* Dispel-good */
+SUNDEW          80      /* undead-ward */
+/* New spell realms */
+SZAP            81      /* Zap */
+SLGHTB          82      /* Lightning-bolt */
+SSBOLT          83      /* Shockbolt */
+SELECT          84      /* Electrocute */
+STHNDR          85      /* Thunderbolt */
+SCLGHT          86      /* Chain-Lightning */
+SSHIVE          87      /* Chill */
+SFRSTB          88      /* Frostbite */
+SSLEET          89      /* Sleet */
+SCCONE          90      /* Cold-cone */
+SIBLAD          91      /* Iceblade */
+SISTRM          92      /* Blizzard */
+SRLGHT          93      /* Resist-lightning */
+SWARMT          94      /* Warmth */
+SCUREP          95      /* Curepoison */
+SHASTE          96      /* Haste */
+SSLOW           97      /* Slow */
+SKNOWL          98      /* Know-languages /*
+SSTOFL          99      /* Stone-to-flesh /*
+SSCARE          100     /* Scare /*
+SHPERS          101     /* Hold-Person /*
+SENTGL          102     /* Entangle /*
+SANCHR          103     /* Anchor /*
+SSTREN          104     /* Strength /*
+SWEAKN          105     /* Enfeeblement /*
+SARMOR          106     /* Armor /*
+SSTONE          107     /* Stoneskin /*
+SFREEA          108     /* Free-Action /*
+SREJUV          109     /* Rejuvinate /*
+SDISIN          110     /* Disintegrate /*
+S_RESURRECT     111     /* Resurrect */
+S_COURAGE       112     /* Courage */
+S_BLOODF        113     /* Bloodfusion */
+S_MMISSILE      114     /* Magic-missile */
+S_KNOCK         115     /* Knock */
+S_BLINK         116     /* Blink */
+S_HARM          117     /* Harm */
+S_BIND          118     /* Bind */
+S_DARKNESS      119     /* Darkness */
+S_TONGUES       120     /* Tongues */
+S_ENLARGE       121     /* Enlarge */
+S_REDUCE        122     /* Reduce */
+S_INSIGHT	123     /* Insight */
+S_FEEBLEMIND	124     /* Feeblemind */
+S_PRAYER	125     /* Prayer */
+S_DAMNATION	126     /* Damnation */
+S_FORTITUDE	127     /* Fortitude */
+S_WEAKNESS	128     /* Weakness */
+S_PASS_NO_TRACE	129     /* Pass-without-trace */
+S_FARSIGHT	130     /* Farsight */
+S_WIND_PROT	131     /* Wind-Protection */
+S_STATIC_FIELD	132     /* Static-Field */
+S_PORTAL	133     /* Portal */
+

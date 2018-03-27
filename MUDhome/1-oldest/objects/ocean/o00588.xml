@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="588" Area="ocean" Version="2.40">
+  <Name>draknal's key of death</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>77</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">2500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">draknal's</Key>
+    <Key Num="1">key</Key>
+    <Key Num="2">death</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="5"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>A pitch black key belonging to the deadly death knight, Draknal.</Description>
+  <Weight>1</Weight>
+  <Type>12</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

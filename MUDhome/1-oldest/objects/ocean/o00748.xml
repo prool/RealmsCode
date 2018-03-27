@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="748" Area="ocean" Version="2.40">
+  <Name>key of Elise</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>90</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">20</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">elise</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>You see a key made from a horn plate of the Adamantine Dragon.</Description>
+  <UseOutput>click.  A soft voice in the air bids you, "good luck, my champion."</UseOutput>
+  <Weight>1</Weight>
+  <Type>12</Type>
+  <InBag/>
+</Object>

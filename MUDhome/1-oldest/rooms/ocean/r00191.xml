@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="191" Version="2.40" Area="ocean">
+  <Name>Secret Archive Room</Name>
+  <ShortDescription>This is the secret archive room where scrolls and documents are kept.</ShortDescription>
+  <LongDescription>Stacked up on shelves all around you are fat books and glass-encased scrolls.
+None of them interest you particularly, however.  The library is up.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">61</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">36</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="portal">
+      <Keys/>
+      <Room Area="ocean">1000</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

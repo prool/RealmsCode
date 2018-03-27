@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3214" Version="2.40" Area="ocean">
+  <Name>Lake View Road</Name>
+  <ShortDescription>You are on Lake View Road, near the northeast side.  Kista is south of you.</ShortDescription>
+  <LongDescription>Lake Kista is between the road and the city, and the great range of the
+Nartiz Mountains looms to the south.  Over the Gotland Pass just to the
+north lies the vast Gotland Glenn.  There are tales of an entire city
+built beneath the grasslands out there.</LongDescription>
+  
+  <Established>756071673</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3211</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3215</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

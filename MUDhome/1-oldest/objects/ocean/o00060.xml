@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="60" Area="ocean" Version="2.40">
+  <Name>long bow</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>3</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">bow</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Weight>8</Weight>
+  <Type>5</Type>
+  <SubType>bow</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

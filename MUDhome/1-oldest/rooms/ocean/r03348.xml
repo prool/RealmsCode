@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Room Num="3348" Version="2.40" Area="ocean">
+  <Name>Eldritch's Tomb Entrance</Name>
+  <ShortDescription>You are indeed fortunate to have made it this far.  Beware the guardians.</ShortDescription>
+  <LongDescription>Walls of pitch black obsidian converge upon you.  Hallways depart from
+the base of the stairs you are near, leading off to the north, south
+east, and west.  The hallways are lined with glowing scpeters in place of
+torches, which leave the air inside clean but stale.  It is light enough 
+to see shadows on the walls, but you cannot see to what the shadows belong.
+Eldritch was known for his kindness and benevolence in life, but you aren't
+sure he would appreciate grave robbers in his tomb.  would you?</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>759873030</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3349</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3351</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3353</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3355</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3328</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

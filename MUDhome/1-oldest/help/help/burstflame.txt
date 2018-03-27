@@ -1,0 +1,15 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |    Help on:  burstflame spell     | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 10
+School:  Evocation
+Domain:  Destruction
+
+This is the third level spell in the fire realm. As the name says, the
+spell shoots a burst of flame at the target, engulfing it in fire and
+burning it rather severely. The spell is made slightly more lethal by the
+fact it will ignite clothes, doing more damage and causing grave burns.
+
+Syntax:
+cast burstflame <target>
+

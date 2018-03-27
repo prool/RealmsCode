@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Object Num="53" Area="ocean" Version="2.40">
+  <Name>green potion</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">potion</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a vial with a green potion inside.  The label is unreadable.</Description>
+  <Weight>1</Weight>
+  <Type>7</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>4</MagicPower>
+  <InBag/>
+</Object>

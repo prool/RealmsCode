@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="1998" Version="2.40" Area="ocean">
+  <Name>Dryfus' Elephant Leather Works Storage Shack</Name>
+  <ShortDescription>You are in the storage shack of Dryfus' Elephant Works shop.</ShortDescription>
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1997</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

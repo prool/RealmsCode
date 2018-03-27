@@ -1,0 +1,301 @@
+﻿<MsdpVariables>
+	<!-- Server Info -->
+    <MsdpVariable>
+        <Name>SERVER_ID</Name>
+        <RequiresPlayer>False</RequiresPlayer>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+sock.msdpSendPair(msdpVar.getName(), mud.gConfig.getMudNameAndVersion())
+]]></SendScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>SERVER_TIME</Name>
+        <RequiresPlayer>False</RequiresPlayer>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <UpdateInterval>10</UpdateInterval>
+        <SendScript><![CDATA[import mudLib
+import datetime
+sock.msdpSendPair(msdpVar.getName(), str(datetime.datetime.now()))
+]]></SendScript>
+<UpdateScript><![CDATA[import mudLib
+import datetime
+reportedVar.setValue(str(datetime.datetime.now()))
+]]></UpdateScript>
+    </MsdpVariable>
+	<!-- Character Info -->
+    <MsdpVariable>
+        <Name>CHARACTER_NAME</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+sock.msdpSendPair(msdpVar.getName(), actor.getName())
+]]></SendScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>HEALTH</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+                <SendScript><![CDATA[import mudLib
+sock.msdpSendPair(msdpVar.getName(), str(actor.hp.getCur()))
+]]></SendScript>
+                <UpdateScript><![CDATA[import mudLib
+reportedVar.setValue(actor.hp.getCur())
+]]></UpdateScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>HEALTH_MAX</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+sock.msdpSendPair(msdpVar.getName(), str(actor.hp.getMax()))
+]]></SendScript>
+        <UpdateScript><![CDATA[import mudLib
+reportedVar.setValue(actor.hp.getMax())
+]]></UpdateScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>MANA</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+sock.msdpSendPair(msdpVar.getName(), str(actor.mp.getCur()))
+]]></SendScript>
+        <UpdateScript><![CDATA[import mudLib
+reportedVar.setValue(actor.mp.getCur())
+]]></UpdateScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>MANA_MAX</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+sock.msdpSendPair(msdpVar.getName(), str(actor.mp.getMax()))
+]]></SendScript>
+<UpdateScript><![CDATA[import mudLib
+reportedVar.setValue(actor.mp.getMax())
+]]></UpdateScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>EXPERIENCE</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+sock.msdpSendPair(msdpVar.getName(), str(actor.getExperience()))
+]]></SendScript>
+<UpdateScript><![CDATA[import mudLib
+reportedVar.setValue(actor.getExperience())
+]]></UpdateScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>EXPERIENCE_MAX</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+sock.msdpSendPair(msdpVar.getName(), str(actor.expNeededDisplay()))
+]]></SendScript>
+<UpdateScript><![CDATA[import mudLib
+reportedVar.setValue(actor.expNeededDisplay())
+]]></UpdateScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>EXPERIENCE_TNL</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+sock.msdpSendPair(msdpVar.getName(), str(actor.expToLevel()))
+]]></SendScript>
+<UpdateScript><![CDATA[import mudLib
+reportedVar.setValue(actor.expToLevel())
+]]></UpdateScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>EXPERIENCE_TNL_MAX</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+sock.msdpSendPair(msdpVar.getName(), str(actor.expForLevel()))
+]]></SendScript>
+<UpdateScript><![CDATA[import mudLib
+reportedVar.setValue(actor.expForLevel())
+]]></UpdateScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>WIMPY</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+sock.msdpSendPair(msdpVar.getName(), str(actor.getWimpy()))
+]]></SendScript>
+<UpdateScript><![CDATA[import mudLib
+reportedVar.setValue(actor.getWimpy())
+]]></UpdateScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>MONEY</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+sock.msdpSendPair(msdpVar.getName(), str(actor.getCoinDisplay()))
+]]></SendScript>
+<UpdateScript><![CDATA[import mudLib
+reportedVar.setValue(actor.getCoinDisplay())
+]]></UpdateScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>BANK</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+sock.msdpSendPair(msdpVar.getName(), str(actor.getBankDisplay()))
+]]></SendScript>
+<UpdateScript><![CDATA[import mudLib
+reportedVar.setValue(actor.getBankDisplay())
+]]></UpdateScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>ARMOR</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+sock.msdpSendPair(msdpVar.getName(), str(actor.getArmor()))
+]]></SendScript>
+<UpdateScript><![CDATA[import mudLib
+reportedVar.setValue(actor.getArmor())
+]]></UpdateScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>ARMOR_ABSORB</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+sock.msdpSendPair(msdpVar.getName(), str(round(actor.getDamageReduction(actor)*100.0,0)))
+]]></SendScript>
+<UpdateScript><![CDATA[import mudLib
+reportedVar.setValue(str(round(actor.getDamageReduction(actor)*100.0,0)))
+]]></UpdateScript>
+    </MsdpVariable>
+	<!-- Target Info -->
+    <MsdpVariable>
+        <Name>TARGET</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+target = actor.getTarget()
+if target:
+  sock.msdpSendPair(msdpVar.getName(), target.getName())
+else:
+  sock.msdpSendPair(msdpVar.getName(), "none")
+]]></SendScript>
+<UpdateScript><![CDATA[import mudLib
+target = actor.getTarget()
+if target:
+  reportedVar.setValue(target.getName())
+else:
+  reportedVar.setValue("none")
+]]></UpdateScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>TARGET_ID</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+target = actor.getTarget()
+if target:
+  sock.msdpSendPair(msdpVar.getName(), target.getId())
+else:
+  sock.msdpSendPair(msdpVar.getName(), "N/A")
+]]></SendScript>
+<UpdateScript><![CDATA[import mudLib
+target = actor.getTarget()
+if target:
+  reportedVar.setValue(target.getId())
+else:
+  reportedVar.setValue("N/A")
+]]></UpdateScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>TARGET_HEALTH</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+target = actor.getTarget()
+if target:
+  sock.msdpSendPair(msdpVar.getName(), str( round((target.hp.getCur()*1.0) / (target.hp.getMax()*1.0) * 100.0,1) ) )
+else:
+  sock.msdpSendPair(msdpVar.getName(), "0")
+]]></SendScript>
+<UpdateScript><![CDATA[import mudLib
+target = actor.getTarget()
+if target:
+  reportedVar.setValue(str( round((target.hp.getCur()*1.0) / (target.hp.getMax()*1.0) * 100.0,1) ))
+else:
+  reportedVar.setValue("0")
+]]></UpdateScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>TARGET_HEALTH_MAX</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+        <SendScript><![CDATA[import mudLib
+target = actor.getTarget()
+if target:
+  sock.msdpSendPair(msdpVar.getName(), "100")
+else:
+  sock.msdpSendPair(msdpVar.getName(), "100")
+]]></SendScript>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>TARGET_STRENGTH</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+    </MsdpVariable>
+	<!-- World Info -->
+    <MsdpVariable>
+        <Name>ROOM</Name>
+        <Configurable>False</Configurable>
+        <WriteOnce>False</WriteOnce>
+    </MsdpVariable>
+	<!-- Configurable Variables -->
+    <MsdpVariable>
+        <Name>CLIENT_ID</Name>
+        <Configurable>True</Configurable>
+        <WriteOnce>True</WriteOnce>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>CLIENT_VERSION</Name>
+        <Configurable>True</Configurable>
+        <WriteOnce>True</WriteOnce>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>PLUGIN_ID</Name>
+        <Configurable>True</Configurable>
+        <WriteOnce>False</WriteOnce>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>ANSI_COLORS</Name>
+        <Configurable>True</Configurable>
+        <WriteOnce>False</WriteOnce>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>XTERM_256_COLORS</Name>
+        <Configurable>True</Configurable>
+        <WriteOnce>False</WriteOnce>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>UTF_8</Name>
+        <Configurable>True</Configurable>
+        <WriteOnce>False</WriteOnce>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>SOUND</Name>
+        <Configurable>True</Configurable>
+        <WriteOnce>False</WriteOnce>
+    </MsdpVariable>
+    <MsdpVariable>
+        <Name>MXP</Name>
+        <Configurable>True</Configurable>
+        <WriteOnce>False</WriteOnce>
+    </MsdpVariable>
+</MsdpVariables>

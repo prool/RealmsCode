@@ -1,0 +1,8 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  sneak        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Once hidden, a player can use this command to move around unseen. Certain
+classes, such as assassin and thief, are obviously much better at this than
+other classes.
+

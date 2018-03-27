@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="1013" Version="2.40" Area="ocean">
+  <Name>Main Street/Rosecrest Street Intersection</Name>
+  <ShortDescription>You are at the intersection of Main Street and Rosecrest Street.</ShortDescription>
+  <LongDescription>Main Street continues to the north and south, and intersects Rosecrest
+Street, which runs east and west.  To the north, you can start to see
+Nylandian Bay.  The warm ocean breeze is quite refreshing.  Rosecrest 
+Street leads west towards the administrative buildings and north towards
+the Oceancrest Main Arena.  South of Main lies the magnificent Oceancrest
+Memorial Fountain and one of the city's primary shopping districts. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1012</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1014</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1130</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1131</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="87" Version="2.40" Area="ocean">
+  <Name>Plasnelt Road/Main Street</Name>
+  <ShortDescription>Plasnelt Road and Main Street cross in a T-intersection here.</ShortDescription>
+  <LongDescription>Main Street is the major north-south street, while Plasnelt Road runs
+across the village in an east-west direction.  On the southeast corner
+there is a large stable and several barns.  Merchants often sponsor
+expeditions to the Kista Forest, and pack animals are needed to make
+up a caravan.  There is a thriving trade with the gnomish craftsmen who
+live in the forest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">4</Mob>
+      <Mob Area="ocean" Num="1">4</Mob>
+      <Mob Area="ocean" Num="2">7</Mob>
+      <Mob Area="ocean" Num="3">9</Mob>
+      <Mob Area="ocean" Num="4">12</Mob>
+      <Mob Area="ocean" Num="5">13</Mob>
+      <Mob Area="ocean" Num="6">14</Mob>
+      <Mob Area="ocean" Num="7">1</Mob>
+      <Mob Area="ocean" Num="8">2</Mob>
+      <Mob Area="ocean" Num="9">5</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">88</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">86</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">77</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">97</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

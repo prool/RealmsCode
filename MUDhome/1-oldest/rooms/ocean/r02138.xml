@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2138" Version="2.40" Area="ocean">
+  <Name>Redwood Giants</Name>
+  <ShortDescription>You are walking beneath giant redwood trees in the enchanted forest.</ShortDescription>
+  <LongDescription>The trees are the biggest you have ever seen, and disappear into the
+clouds above.  The lowest branches are far overhead and form a canopy,
+filtering the sunlight during the day.  Not far to the southwest you can
+see a rope bridge across a narrow chasm, and to the north are what appear
+to be even bigger redwood trees.</LongDescription>
+  
+  <Established>759008216</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">2134</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2139</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="2578" Version="2.40" Area="ocean">
+  <Name>Hanging Gardens Entry</Name>
+  <ShortDescription>You are at the southern entrance to the fabulous Hanging Gardens.</ShortDescription>
+  <LongDescription>Some of the rarest and most exotic plants in the world can be found here.
+Ferns and flowers adorn the grounds under giant trees, while succulent
+vines grow up the sides of the trees.  There is a heady perfume from almost
+every plant, and the air is damp with a fine mist.  The Garden is alive
+with the calls of small animals and insects.  Randolf the Blue spared no
+expense when he built this place as a monument for his wife.  However, be
+warned:  this place is reserved for royalty, and commoners are forbidden.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2041</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2579</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2585</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

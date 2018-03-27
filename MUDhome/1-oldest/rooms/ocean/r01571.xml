@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="1571" Version="2.40a" Area="ocean">
+  <Name>Meditation Area</Name>
+  <ShortDescription>You are in a rather large alcove that continues to the west.</ShortDescription>
+  <LongDescription>You can see a number of druids meditating in the quiet atmosphere of
+the woods of Etolos.  To the south, you can see a spring bringing
+fresh water into the community.  The center of the circle is located
+to the north of the meditation area.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">177</Mob>
+      <Mob Area="ocean" Num="1">177</Mob>
+      <Mob Area="ocean" Num="2">177</Mob>
+      <Mob Area="ocean" Num="3">177</Mob>
+      <Mob Area="ocean" Num="4">178</Mob>
+      <Mob Area="ocean" Num="5">177</Mob>
+      <Mob Area="ocean" Num="6">178</Mob>
+      <Mob Area="ocean" Num="7">178</Mob>
+      <Mob Area="ocean" Num="8">177</Mob>
+      <Mob Area="ocean" Num="9">177</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1570</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1572</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1568</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

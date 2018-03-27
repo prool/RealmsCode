@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3801" Version="2.40" Area="ocean">
+  <Name>Carnival Midway</Name>
+  <ShortDescription>You are on the midway of the Seaside Carnival and Sideshow.</ShortDescription>
+  <LongDescription>To the west lies the bustling midway.  There are many sights to see and
+crowds of people waiting for their turn to see them.  The midway is home
+to bizarre and exciting sideshows, and features wierd and unusual life forms
+and strange artifacts.  You can hear the roar and screech of animals to
+the west.  A large banner tells you that a Puppet Show is to the south.</LongDescription>
+  
+  <Established>765769309</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3800</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3802</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3812</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

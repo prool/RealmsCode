@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="1837" Version="2.41a" Area="ocean">
+  <Name>Entrance to the Barbarian Pits</Name>
+  <ShortDescription>Welcome to the Barbarian Pits, just north of the City of Oceancrest. </ShortDescription>
+  <LongDescription>Society, deeming the barbarians as just too barbaric, has set aside this
+small park to the east of the Northern Highway as a place reserved only 
+for their use.  Here, the barbarian culture is nurtured and passed down
+through the generations instead of simply being forgotten, as was done
+in the past before they moved here.  Not particularly happy with their
+small park, the barbarians are still content enough to stay here and not
+overrun the city to the south.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3849</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1838</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1836</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1828</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

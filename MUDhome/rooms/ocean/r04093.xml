@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="4093" Version="2.40" Area="ocean">
+  <Name>Darkened Tunnel</Name>
+  <ShortDescription>You are in a dark tunnel deep below the hermit's cave.</ShortDescription>
+  <LongDescription>The floor is slick with a slimy liquid which is probably a
+mixture of mud and mildew.  Now, the only noise which can be
+heard is the melodic dripping of water.  All signs of reptilian
+life has disappeared as you enter this section of the tunnel.</LongDescription>
+  
+  <Established>774575883</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4092</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4094</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

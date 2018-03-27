@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="4291" Version="2.40a" Area="ocean">
+  <Name>Courtyard Pool</Name>
+  <ShortDescription>You are in the magical waters of the courtyard pool in the Tower Castle.</ShortDescription>
+  <LongDescription>Statues around you are arranged in an orderly fashion to tell the story of
+the twin sons born to King Lyanden at Lyanden Castle.  The midwife died
+under mysterious circumstances shortly after their births, and thereby was
+lost the order of birth between Ragnar and Rutger.  Now no one knows which
+is the elder of the brothers, nor which is the rightful successor to the 
+throne at Lyanden Court.</LongDescription>
+  
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4241</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

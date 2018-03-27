@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1647" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive/Waterfront Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Waterfront Way and Leviathan Drive.</ShortDescription>
+  <LongDescription>Leviathan Drive, which runs north and south, intersects Waterfront Way,
+running east to west here.  The Dentra Central Archery Range, one of the
+finest in the lands, is located on the southeastern corner of the 
+intersection, where you can find a number of sharpshooting archers as
+well as some fletchers and shops to add to your collection of fine bows.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1646</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1648</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1671</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1805</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

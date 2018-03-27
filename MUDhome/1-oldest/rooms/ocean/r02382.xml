@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<Room Num="2382" Version="2.40a" Area="ocean">
+  <Name>Emerald Room</Name>
+  <ShortDescription>You are in a very large, square room, glowing with emeralds and jewels.</ShortDescription>
+  <LongDescription>The odd looking room seems to radiate the light from above the glacier,
+through the emerald ceiling, creating an eerie, greenish hue throughout
+the entire room.  There are three doors in the otherwise empty room
+heading to the west, north and south, respectively.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>727494667</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2380</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys>
+        <LastTime Num="0">
+          <Interval>0</Interval>
+          <LastTime>1206217095</LastTime>
+          <Misc>0</Misc>
+        </LastTime>
+      </Keys>
+      <Room Area="ocean">2388</Room>
+      <Flags>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2383</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

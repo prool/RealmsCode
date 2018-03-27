@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="946" Version="2.41a" Area="ocean">
+  <Name>Hafnia Boulevard/Rue Caledonia Intersection</Name>
+  <ShortDescription>You are at the center of the city.  Hafnia Boulevard runs east and west from
+here, and Rue Caledonia is the wide street going from north to south.</ShortDescription>
+  <LongDescription>This is the central part of the city, and a small park is located in the 
+center of the intersection.  A statue and park benches are under beautiful
+lavender trees in flower.  The natives say the trees flower all year long.
+The elves erected a statue to some of the adventurers from other races who
+helped them in their time of trouble with the dragons and the cowardly
+mountain trolls.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">947</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">945</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5500</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5507</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

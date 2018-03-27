@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="2803" Version="2.40a" Area="ocean">
+  <Name>Hallway</Name>
+  <ShortDescription>You have come to a small intersection where two hallways diverge.</ShortDescription>
+  <LongDescription>The main hallway continues to the north and south, while a second hallway
+juts off to the east.  It is very quiet in these halls; almost too quiet.
+You don't see many monsters in these caverns, but perhaps something has
+scared them away.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>728790399</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2804</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2802</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2821</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

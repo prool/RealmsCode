@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1346" Version="2.40a" Area="ocean">
+  <Name>Lelion Way</Name>
+  <ShortDescription>You are on Lelion Way, just east of Leviathan Drive.</ShortDescription>
+  <LongDescription>On the north side of the road is a dense stand of trees so thick you
+cannot see more than a few meters that way.  Tree branches overhang
+the road, making it quite shady along here.  There are apple trees to
+the south, but they are not quite so dense in that direction.</LongDescription>
+  
+  
+  
+  <Established>756165922</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1347</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">549</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

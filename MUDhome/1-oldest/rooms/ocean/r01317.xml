@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1317" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, east of the Ashton River.</ShortDescription>
+  <LongDescription>You can see the Ashton River flowing north as you walk along the road.
+The Ashton Waterfall is visible up ahead to the south, along with the
+Ashton Falls Resort.  The Resort is a very exclusive club for only the
+upper crust of society.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1316</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1318</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

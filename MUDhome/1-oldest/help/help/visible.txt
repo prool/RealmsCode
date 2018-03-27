@@ -1,0 +1,12 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  visible         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+This command will dispel your invisibility.
+
+Example:
+: c invis
+Invisibility spell cast.
+: vis
+Your invisibility is dispelled.
+:

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="5057" Version="2.40" Area="ocean">
+  <Name>Open Sky</Name>
+  <ShortDescription>You are southwest of Brownhaven, on the back of a dragon.  50.n0.e0.s1.w1</ShortDescription>
+  <LongDescription>The open sky is dotted with clouds, and occasionally there is fog or rain.
+Dragons don't normally like to fly in inclement weather, because they get
+lost so easily.  If you fly into a cloud, there's no telling where you might
+wind up.  The winds aloft can often carry you miles off course, if you fly
+that high.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5007</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5081</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5050</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5054</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

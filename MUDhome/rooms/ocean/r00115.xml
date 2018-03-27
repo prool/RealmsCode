@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="115" Version="2.40" Area="ocean">
+  <Name>Nathan Drive</Name>
+  <ShortDescription>Nathan Drive continues to the east and west.</ShortDescription>
+  <LongDescription>A large warehouse is on the north side of the road, and another building
+is on the other side of it.  Painted on the side of the warehouse is a 
+new sign.  It says, "We make the finest rods and staves in all of the
+Land or Mordor.  Our mages can enchant them for any purpose.  Try us."</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+      <Mob Area="ocean" Num="9">10</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">114</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">116</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

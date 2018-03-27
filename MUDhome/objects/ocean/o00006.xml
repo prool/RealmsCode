@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Object Num="6" Area="ocean" Version="2.40">
+  <Name>sling</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>20</ShotsMax>
+  <ShotsCur>20</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>4</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">8</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Weight>1</Weight>
+  <Type>5</Type>
+  <SubType>thrown</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

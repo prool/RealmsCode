@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="268" Version="2.40" Area="ocean">
+  <Name>Below the South Bridge</Name>
+  <ShortDescription>You are below the South Bridge, on the eastern bank.</ShortDescription>
+  <LongDescription>You spy a small door in the massive bridge pier, but its closed.   Lucky for
+you it's not open, because there's a bloody trail to it.  Lying about are
+rotting pieces of flesh, and rusted pieces of armor.  Strange that they
+haven't been noticed and given a proper burial.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">155</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

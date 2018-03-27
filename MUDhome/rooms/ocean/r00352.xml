@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="352" Version="2.40" Area="ocean">
+  <Name>Uland Island Dock</Name>
+  <ShortDescription>This is a long dock standing out from a village on Uland Island.</ShortDescription>
+  <LongDescription>The island is famous for the strong rum it makes and exports, but there
+is very little else here.  That is, unless you count the long line of
+pubs, bars and saloons that line the single road in the village.  Most
+of the island is uninhabited except for the dwarves who work in the
+distillery, and the shopkeepers who run the saloons.  And of course, 
+there are the women who live in the large red house at the north end
+of the village's single road.  Young ladies go there to learn a trade.</LongDescription>
+  
+  <Established>760474717</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">353</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">362</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="774" Version="2.41a" Area="ocean">
+  <Name>Entrance to the Dragon's Citadel</Name>
+  <ShortDescription>You have entered the hallway entrance to the great Dragon's Citadel.</ShortDescription>
+  <LongDescription>The Dragon's Citadel is known for it's mystical healing powers and
+superior magical spells.  No one has really ventured further into
+the Citadel beyond the Great Gates which you can see to the distance
+in the north.  Those who have, have never returned, but just entering
+the Citadel, travelers and explorers have felt a mystic wave of power
+overwhelming them.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">775</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1351</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

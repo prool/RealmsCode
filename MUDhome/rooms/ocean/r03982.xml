@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="3982" Version="2.40" Area="ocean">
+  <Name>Trantori's Redwood</Name>
+  <ShortDescription>You are inside a hollow shaft in a giant redwood tree.</ShortDescription>
+  <LongDescription>You are clinging to ladder rungs nailed to the inside of this great tree.
+You can go up or down, but it would be silly to stop here.  It's dark and
+silent all around you.  Think of it this way:  where you go, you won't be
+here, and that's better, don't you think?</LongDescription>
+  
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3981</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3983</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

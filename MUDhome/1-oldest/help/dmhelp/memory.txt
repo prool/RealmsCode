@@ -1,0 +1,8 @@
+Help on DM command:
+	MEMORY
+
+Displays the memory stats of the mud.
+
+: *memory
+-a bunch of memory stuff-
+

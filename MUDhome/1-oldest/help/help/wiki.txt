@@ -1,0 +1,8 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  wiki           | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The wiki command allows you to connect to the Realms Wiki and view entries.
+Links to other wiki entries will be displayed in ^ecerulean^x (or ^Ccyan^x if your
+client does not support MXP). Type ^ywiki [entry]^x to look up a specific entry.
+

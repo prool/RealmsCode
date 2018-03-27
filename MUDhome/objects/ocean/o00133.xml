@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="133" Area="ocean" Version="2.40">
+  <Name>lightning javelin</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>6</Number>
+    <Sides>4</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">25000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">javelin</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>You see a mighty javelin with a lightning bolt painted across it.</Description>
+  <Weight>5</Weight>
+  <Type>5</Type>
+  <SubType>polearm</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<Room Num="3044" Version="2.40" Area="ocean">
+  <Name>Ghelta's Magic Workshop</Name>
+  
+  <Established>761539660</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>8</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">322</Mob>
+      <Mob Area="ocean" Num="1">510</Mob>
+      <Mob Area="ocean" Num="2">511</Mob>
+      <Mob Area="ocean" Num="3">511</Mob>
+      <Mob Area="ocean" Num="4">510</Mob>
+      <Mob Area="ocean" Num="5">52</Mob>
+      <Mob Area="ocean" Num="6">52</Mob>
+      <Mob Area="ocean" Num="7">52</Mob>
+      <Mob Area="ocean" Num="8">303</Mob>
+      <Mob Area="ocean" Num="9">304</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">508</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">52</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>52000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">61</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3043</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3045</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

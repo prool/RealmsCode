@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="740" Version="2.40" Area="ocean">
+  <Name>Highland Avenue</Name>
+  <ShortDescription>You are traveling along the eastern border of the great town of Oceancrest.</ShortDescription>
+  <LongDescription>Highland Avenue runs north and south, parallel to the eastern City Walls,
+which form the eastern boundary of the city.  The City Walls were built
+to protect the citizens of the city from attacks and sieges from the
+barbarian cultures in the plains beyond the city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">739</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">741</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

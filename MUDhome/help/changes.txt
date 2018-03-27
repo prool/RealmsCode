@@ -1,0 +1,90 @@
+
+^c3/30/08:^x ^mGroup Experience & Theft^x
+
+  ^Y*^x You must now be on the attack list of the monster being killed 
+    to get group experience
+  ^Y*^x Experience has been added for stealing of items
+
+********************************************************************************
+
+^c3/23/08:^x ^mProperties^x
+
+  Properties have undergone an update
+      ^Y*^x Properties now have logs. You can change who's actions are logged
+        via the property command.
+      ^Y*^x Partial owners can now have flags set on them.
+
+********************************************************************************
+
+^c3/21/08:^x ^mSpecial Attacks^x
+
+  ^Y*^x Pet owners will now see the damage their pets do from special attacks
+
+  ^Y*^x Group members will see damage done via special attacks to their group members
+
+********************************************************************************
+
+^c3/20/08:^x ^mInvisibility and Group Exp Changes^x
+
+  ^Y*^x You will no longer get group experience if you are invisible when
+    the monster is killed.
+
+  ^Y*^x ^RIMPORTANT:^x Invisbility will now fade when you cast any spell on
+    someone who is in combat.  This includes non offensive spells like vigor,
+    protection etc.
+
+********************************************************************************
+
+^c3/18/08:^x  ^mCode cleanup^x
+
+  ^Y*^x Aggressive monsters that have not been involved in combat for
+    20 minutes will now have a small chance to wander away every update cycle.
+    This should solve the problem of someone baiting 15 aggros and leaving the area
+    and the next person getting gang-banged when they go there.
+  
+  ^Y*^x Block now outputs when it goes off.
+
+********************************************************************************
+
+^c3/16/08:^x ^mCursed Items^x
+
+  ^Y*^x Cursed items should now be working properly again
+
+********************************************************************************
+
+^c3/15/08:^x  ^mArmor Damage^x
+
+  ^Y*^x Armor damage rates are now influenced by your skill with that 
+    type of armor.
+
+********************************************************************************
+
+^c3/13/08:^x  ^mVersion 2.40 is now live.  Some highlights of the changes are:^x
+
+  ^Y*^x AC, Thac0 and weapon proficiencies have been removed.
+
+  ^Y*^x Defense, armor, and weapon skills have been added
+     ^Y*^x To gain access to the new weapon skills you must type the ^Wweapons^x command
+     ^Y*^x Chance to hit is based on the difference between defense and weapon skill
+     ^Y*^x Armor now absorbs a lot more damage.  You can see the amount of damage it
+       will absorb vs someone the same level as you by looking at ^Wscore^x
+
+  ^Y*^x F/T and F/M can now wear medium and heavy armor, but sacrifice their
+    second class powers when wearing them.  To take full advantage of their skills
+    they should stick to leather armor.
+
+  ^Y*^x Depending on class, base damage for a character is influenced by level,
+    strength, and possibly dexterity.
+
+  ^Y*^x Weapons can now have fractional second delays (2.5 seconds for example)
+
+  ^Y*^x Experience Adjustments
+     ^Y*^x Group experience is now in, to use it the group leader must ^Wset xpsplit^x
+        (Note: There is also a 35% bonus for each person in the group when group
+               exp is enabled)
+     ^Y*^x Exp reduction has been put in for monsters that are out of your level range
+ 
+  ^Y*^x Properties
+     ^Y*^x Properties have been adjusted.  You may now assign other people access to your
+        stores and storage rooms.  Refer to ^Whelp property^x for more details
+

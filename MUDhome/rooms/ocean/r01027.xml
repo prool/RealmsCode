@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1027" Version="2.40" Area="ocean">
+  <Name>Main Street</Name>
+  <ShortDescription>You are on Main Street, running north to south through the shopping centers.</ShortDescription>
+  <LongDescription>The Main Street shopping centers are known for their exquisite quality
+goods and services.  There is a large complex to the east which is 
+accessible from Main Street to the north.  To the west, there is a small
+building with thick smoke bubbling out from under the door.  A faint
+sign above the door says "Nevermore Alchemy".</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>6</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">1</Mob>
+      <Mob Area="ocean" Num="1">6</Mob>
+      <Mob Area="ocean" Num="2">6</Mob>
+      <Mob Area="ocean" Num="3">8</Mob>
+      <Mob Area="ocean" Num="4">2</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1026</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1028</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2304</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

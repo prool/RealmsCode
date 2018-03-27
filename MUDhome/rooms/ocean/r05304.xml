@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5304" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>This is the road between Oceancrest and the eastern cities.</ShortDescription>
+  <LongDescription>To the northwest is a short but steep hill, and below it to the north is
+a walnut and oak covered valley.  From here you see a group of small houses
+in the valley.  There are large rocks and boulders in the plains to the
+south, part of the  badlands a long way to the south.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5303</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5305</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

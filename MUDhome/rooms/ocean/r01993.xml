@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Room Num="1993" Version="2.41a" Area="ocean">
+  <Name>Werewolves' Den</Name>
+  <ShortDescription>You have ventured into the darkest area of the Werewolves' Den.</ShortDescription>
+  <LongDescription>Werewolves appear to come from every direction once they smell blood.  Now
+that you have invaded their sanctuary, the larger werewolves come out in
+packs looking for prey.  Hopefully, you won't be a statistic in the morning
+papers.  The trail outside the den leads east to the front of the Manor and
+the gate, and it also leads west to the rear of the estate.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">251</Mob>
+      <Mob Area="ocean" Num="1">251</Mob>
+      <Mob Area="ocean" Num="2">252</Mob>
+      <Mob Area="ocean" Num="3">252</Mob>
+      <Mob Area="ocean" Num="4">252</Mob>
+      <Mob Area="ocean" Num="5">253</Mob>
+      <Mob Area="ocean" Num="6">252</Mob>
+      <Mob Area="ocean" Num="7">251</Mob>
+      <Mob Area="ocean" Num="8">253</Mob>
+      <Mob Area="ocean" Num="9">252</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>floor slab</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1992</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1994</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="floor slab">
+      <Keys/>
+      <Room Area="ocean">3911</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

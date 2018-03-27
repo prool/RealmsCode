@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<Room Num="5004" Version="2.40" Area="ocean">
+  <Name>Copper Pits - Second Level</Name>
+  <ShortDescription>You are on the second level of the copper dragon pits.</ShortDescription>
+  <LongDescription>Milling about you are dragons in various shades and hues of copper.  Many
+are already saddled, and they all look eager to fly.  One of the dragons
+snuffles at your shoulder, apparently wanting you to mount her.  A light
+breeze flutters a windsock on a tall staff nearby.</LongDescription>
+  <Trap>7</Trap>
+  <TrapExit Area="ocean">4010</TrapExit>
+  
+  <Established>772145322</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>mount</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+    <LastTime Num="4">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+    <LastTime Num="5">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+    <LastTime Num="6">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+    <LastTime Num="7">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="mount">
+      <Keys/>
+      <Room Area="ocean">5005</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5003</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

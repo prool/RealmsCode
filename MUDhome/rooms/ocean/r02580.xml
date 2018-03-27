@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2580" Version="2.40" Area="ocean">
+  <Name>Arboretum Way</Name>
+  <ShortDescription>You are on the west side of the famous Hanging Gardens, on Arboretum Way. </ShortDescription>
+  <LongDescription>Actually, this is really just a very wide path through the trees, but it
+is well maintained and you find it quite clean.  There are a number of owls 
+overhead, and strangely, you can understand their conversation.  They invite
+you to join them, if you can fly.  To the east you can see the second level.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2579</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2581</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2587</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

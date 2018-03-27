@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="209" Area="ocean" Version="2.40">
+  <Name>sorceress' staff</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>150</ShotsMax>
+  <ShotsCur>150</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>3</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">4000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">staff</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>You see the mighty staff of the sorceress for use in combat.</Description>
+  <UseOutput>You feel the strenght of wizards in your blood.</UseOutput>
+  <Weight>5</Weight>
+  <Type>5</Type>
+  <SubType>staff</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

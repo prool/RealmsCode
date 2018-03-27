@@ -1,0 +1,38 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  staff          |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Staff Heirarchy and Explanations
+
+
+Dungeonmaster
+
+Overlords of the game in all aspects. Have final word on all policy decisions.
+Enforce policy and security of the mud, write code, build areas, items, and
+creatures, and have access to the shell. Have unrestricted access to the entire
+mud. They are the final point of contact for players, and are unable to be
+mailed directly.
+
+
+Caretakers
+
+Chief enforcers of the policy. Build new areas, creatures, and items. Have
+unrestricted access to the entire mud. Supervises builders. Second to the last
+point of contact for players. By default they are unable to be mailed by
+players, however, they may act as a Watcher if they so choose (see below).
+
+
+Builder
+
+Primary builders of the mud. Build new areas and creatures. Limited access to
+specific areas, set by Dungeonmasters. No contact with players possible - always
+invisible to players.
+
+
+Watcher
+
+Veteran players in service of Realms, acting as liasons. Assists players and
+contacts Caretakers or Dungeonmasters if needed. A list of all watchers can be
+found by typing "who watchers" at the prompt. If you need any kind of
+assistance, please mudmail them (HELP MUDMAIL) or talk to them.
+

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="691" Area="ocean" Version="2.40">
+  <Name>Nab's red sash</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">300</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">red</Key>
+    <Key Num="1">sash</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="5"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The sash is a bright red velvet with the name Nab embroidered on it.</Description>
+  <UseOutput>Property of Nab, the weather wizard.  Please return if found.</UseOutput>
+  <Weight>1</Weight>
+  <Type>14</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

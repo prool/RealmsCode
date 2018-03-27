@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2387" Version="2.40" Area="ocean">
+  <Name>Cavern Cliff</Name>
+  <ShortDescription>There is a cliff on the north side of the cavern overlooking the Abyss.</ShortDescription>
+  <LongDescription>The apparently endless Abyss located to the north drops nearly endlessly
+towards the center of the planet, but oddly, you hear some sounds of
+movement and see occasional flickers of light from deep within the
+chasm.  The cavern heads north across the cliff and east through a cave.</LongDescription>
+  
+  <Established>727757763</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2386</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2330</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

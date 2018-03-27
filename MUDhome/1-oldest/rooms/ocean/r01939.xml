@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="1939" Version="2.40a" Area="ocean">
+  <Name>The Silent Knife</Name>
+  <ShortDescription>You are in the sleezy, run-down Silent Knife Assassin's Guild.</ShortDescription>
+  <LongDescription>This rustic location, pretty much falling apart everywhere you look, is
+one of the major Assassin's Guilds in Oceancrest.  Luckily, it is not a
+very popular one, and its current use now is primarily for training low
+level Assassins in the art of cuthroat killing without the victim knowing
+what hit them.  Only Minor Assassins may enter the training room to the 
+south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1636</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1938</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

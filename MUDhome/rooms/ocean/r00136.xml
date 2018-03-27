@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="136" Version="2.40" Area="ocean">
+  <Name>Caledonia Road</Name>
+  <ShortDescription>You are on Caledonia Road, just south of the annual Brownhaven Fair.  On
+the north side of the road there are a lot of tents and booths set up to
+form an open-air market place.  Near the entrance, you can see a group of
+acrobats practicing their moves.  On the south side of the road is an old
+building with a faded sign.  "Jeremia's maps and information."</ShortDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">135</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">137</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

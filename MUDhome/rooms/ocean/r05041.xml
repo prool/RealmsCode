@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="5041" Version="2.40" Area="ocean">
+  <Name>Sky Over Gotland Glenn Creek</Name>
+  <ShortDescription>You are flying over Gotland Glenn.  50.n1.e3.s0.w0</ShortDescription>
+  <LongDescription>In the distance you see mounds of earth around large holes in the earth.
+Stories have been told by wandering bards of a strange mole-like people
+who live beneath the ground somewhere on the grassy Gotland Glen.</LongDescription>
+  
+  <Established>772228487</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5042</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5040</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5078</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5031</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

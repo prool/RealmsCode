@@ -1,0 +1,454 @@
+Building Necessities Before We Open
+
+Following are descriptions of the things we absolutely
+need done before we are able to re-open the game. As
+many of you know, we are going to make it so each race
+starts in a different place. It is of the utmost priority
+that we get these places started ASAP. I am going to
+provide general guidelines for the areas which need to
+be stuck to. Other than that, it's all up to whomever
+decides to build the area. Mudmail me with questions.
+
+
+New Starting Area Basics
+
+1) Training requirements for the areas MUST be stuck
+to, and are described in the new area descriptions
+below.
+
+2) All need a bank, a post office, one or more pawns,
+one or more repair shops, and alot space for 1-5 other
+shops as well - remember: shops each require 2 rooms
+per 10 items you want to sell. For now, have an idea
+what you want to put in the shops, but don't worry about
+putting items in to sell there until we have all these
+starting areas done. We don't want to overlap things, so
+we will coordinate that then.
+
+3) All need a "regulatory" type mob like Highport guards.
+These mobs will fast wander or just be mobile and wander
+around the main parts of the area. They will all have
+their own faction. Be thinking about other factions as
+you create the area as well. Factions interact politically.
+These mobs should not be easy to kill, and should be
+flagged so others of their kind run to help them. Use HP
+guards as a model if you have questions. For HP guards,
+2011 is the one that yells, and 2010 is the one that
+runs to help which *does not* yell. This is very important
+or you can have hundreds of mobs if they yell and then
+those that run to help yell too.
+
+4) Newbie "hunting" areas need to be on the outskirts of
+the main parts of the town. We no longer will be having
+people level off of things like vagrants and farmers, or
+if you do, give them positive faction in the regulatory
+mobs you have's faction. For example, farmers and stuff
+in HP market square will have slight positive faction in
+The Highport Guard faction, so the HP guardsmen get pissed
+if you kill too many of those mobs. Newbie hunting areas
+need to contain "neutral" like things, or things no one
+cares if you kill. Examples of the kinds of mobs that can
+be used will be in each areas description below.
+
+5) Perms in these areas ALL yell for help, all are hard
+enough to not be worth trying to kill until like level
+21, and are devalued in experience. We do not want people
+running through cities on perm runs like we had before.
+This game is completely shifting to a "zone-oriented" idea
+for perms, and the main focus for gaining exp will be
+to kill mobile creatures, NOT perms. By "zone-oriented",
+I mean u have to do "this, this, and this" in order to
+get through to the area where the main bad guy or perm
+is. Examples would be like having to kill all the guards
+outside of Baron Von Hanna's office to get to him, in
+addition to having to get a key off some other perm (which
+is also guarded) to get to his room (and he'll probably
+still beat your ASS). There will be no more walking in
+and killing perms with impunity. Not in cities. In fact,
+all perms everywhere need to have this zone oriented
+approach from now on - ESPECIALLY in starting areas.
+Groups need to be required to kill perms. To do otherwise
+is to be just another version of Isengard - which does
+not work.
+
+6) Level boundries need to be put into effect on the
+outskirts of these areas so that no one level 1 can
+walk out of the area until they reach level 2. In addition,
+some of the area descriptions below place stricter
+standards on this than others - particularly like the
+troll town (which is in the middle of the Hellbog), and
+the Katarans, which will be starting in an island jungle
+near the isle of Tobago somewhere, and dark elves, which
+begin in Oakspire, in the middle of the perilous Darkhold
+Forest.
+
+7) For coins (money dropped) keep in mind that copper
+is very common, silver is common, gold is uncommon, platinum
+is somewhat rare, and alanthium is VERY rare. So do not
+do something like make winos drop gold coins. As a
+general rule, nothing under level 8 should drop gold
+coins, nothing under level 13 should drop platinum,
+and nothing under level 17 should drop alanthium. If
+you use *coins and it sets it for you, you can manually
+adjust it to this effect if needed - at least until
+I code it in so it's automatic.
+
+8) The listed size requirements for the areas below CANNOT
+be exceeded. No more rooms than this will be given out
+for it. Please understand this if you choose to build
+one of these areas.
+
+9) Do ALL descriptions before doing any mobs and objects.
+Be thinking about what mobs you want while you are doing
+the descriptions, and also be thinking about what is
+dropped as well, but we need to get the desc done FIRST.
+
+
+If more requirements come to mind, i will post more
+information. The above should be fine to get started. If
+there are any further suggestions or questions you have
+mudmail me.
+
+NOTE: Do not worry about training for Vampires, Werewolves,
+or Liches for now. We are going to open with those classes
+unavailable, and make them available later. If you have
+built training for those classes, seale it off until we
+can decide what to do with it later, or go ahead and recycle
+it if you need the rooms.
+
+
+Area Specifications
+
+Area: Free City of Highport
+Races starting here: Human, Half-elf, Cambion,
+                     Seraph, Half-Orc
+Location: Durgas River Delta
+Size: 400+ rooms
+Builder: Grazzt
+
+I am working on this now to get it modified to the correct
+specifications for a new starting area.
+
+
+Area: The Hold of Ironguard
+Races starting here: Dwarf
+Location: Bloodmound Hills/Firedrake Foothills
+Builder: Open
+Size: 150-200 rooms
+Note: typing "help dwarves" will assist anyone
+      building this area.
+
+GENERAL
+   Formerly Ironguard Keep, this area is just an
+expansion of what is currently built, making it into
+a dwarven city. Smelting of ore and mining are the
+primary focuses of the dwarves here. This area
+needs to be completely underground, with adaptions to the
+current above ground area to make it so it flows well with
+what is new. If this means wiping the current Ironguard
+out, that is not a problem. The outer areas of the caverns
+are where people will go to level and fight things.
+All manner of things can be put in those caverns.
+PRIMARY GOD(S)
+   Gradius is the primary god - diety of
+metallurgy, mining, and elemental earth. His priests
+are very influencial to the King on his decisions,
+and they work closely with the military. They often
+contribute troops in the form of conjured earth
+elementals.
+GOVERNMENT
+   The city is ruled by a dwarven King and there are
+a number of dwarven clans in charge of various aspects
+of the city's needs: defense, war, mining, merchants,
+weaponsmithing, armoring, banking, etc.. There is even
+a thieves guild hidden VERY WELL in Ironguard, as well
+as an assassins' guild. Both are not very prominent,
+as dwarven society frowns on and even tends to often
+erradicate such things from existance.
+TRAINING
+   Fighter- Training all the way to 30 in a huge military
+complex. Any race can train there for now.
+   Berserker- Training all the way to 30 for DWARVES ONLY,
+in the same complex as fighters. Dwarven berserkers are
+called "battleragers".
+   Cleric- Clerics of Gradius, since that is the only god
+a dwarven cleric can worship, do all their leveling in
+a huge temple complex dedicated to Gradius. Dwarves only.
+   Thief- Training to level 7 in the well hidden thieves'
+guild. Leveling requirements for a dwarven thief need to
+be difficult.
+   Assassin- See Thief above.
+   Bard- Dwarven bards are notorious throughout Derlith.
+The bards' college in Ironguard has a heavy emphasis on
+history of the dwarven clans and dwarves in general more
+than on performance in the theatre, singing, or storytelling.
+Naturally, according to them, everything is how it is now
+because of dwarves and dwarves alone. Elves, of course,
+naturally dispute this...but of course they're wrong..since
+"they're just a bunch of sissies dancing to music and drinking
+WINE in the forest"..heh.. Only dwarven bards are able to
+train here, and all the way to level 30.
+SUGGESTED NEWBIE KILLING MOB IDEAS
+   All mobs for hunting (that can be killed without pissing off
+the dwarven guards in Ironguard) would come in outskirts of the
+city underground, or out in the hills above ground.
+   In hills: wargs(L2-3), dire wolves(L3-4), giant bats(L1-2),
+orc raiders(L3-6), goblin raiders(L1-4), cougars(L4),
+giant beetles(L1-2), black wolves(L1-2), etc..
+   Underground: kobold raiders(L1-3), cave spiders(L2-3),
+cave bats(L1-3), rock iguanas(L3-4), stone spiders(L4-5),
+fire beetles(L5-6), etc...
+
+Area: Schnai Village
+Races starting here: Barbarian
+Location: Upper Baladus Plains
+Size: 50-75 rooms
+Builder: Pandora
+
+GENERAL
+   This area is mostly an open place, with the idea of people
+of a tribal nature in mind. The barbarians of Schnai are
+organized much like germanic tribal barbarians were. Both
+men and women fight, and they are extremely viscious. They
+use psychological warfare to their advantage, and are quite
+uncivilized, veiwing most anyone not of their race with
+extreme suspicion. The village/town is organized so as to
+be spread out into different areas dependant on function.
+Thus, you'll have one section devoted entirely to the curing
+of game, another solely used mostly for making weapons and
+training to fight, another for where women and children
+mostly stay, etc. The most powerful warriors often have more
+than one woman. Schnai barbarians are by no means monogomous,
+although they lean toward it, as is natural. An exception
+to the normal basics for starting areas is that there is no
+bank in Schnai Village.
+PRIMARY GOD(S)
+   The barbarians of Schnai worship the god Ares, who is
+representing of bloodlust, war, killing, and destruction.
+The Priests of Ares are a very powerful sect, as they lead
+the warriors into battle against the various gnoll, orc, and
+goblin tribes which dot the plains.
+GOVERNMENT
+   The barbarians of Schnai are ruled by a barbarian overlord
+named Rellik, who has taken over an old Bordian castle in the
+plains, and dubbed it Schnai Castle. He has a very powerful
+army, and even threatens the giant tribes which moved into
+the Baladus plains during the times of chaos which led to the
+fall of the Kingdom of Bordia, and the destruction of its
+capital Ft. Baladus. In fact, some say he has carved a new
+kingdom out of the wild Baladus plains. With the help of
+Lormar Emit, a wizard of very powerful ability, and his
+companion of many years, he is powerful indeed. Another of
+his companions, Kifc, is the chief Priest of Ares in Schnai
+Village. Day to day things in Schnai Village are left to
+the decision of a Tribal Council of the ten most renouned
+warriors. Trial by combat determines who sits on the council.
+Older warriors are permitted to have a stand-in to fight
+for them if they are too old and frail to fight. There is
+always one Priest of Ares on the council, as Kifc is a
+permanent member by order of the Overlord Rellik. That priest
+always leads the village in battle.
+TRAINING
+   Assassin- Barbarian assassins are almost always outcasts
+and bandits. Leveling for them will not go beyond 4, and will
+have to be in specialized bandit camps, where the barbarian
+just walks into a room and trains with some bandit perm.
+After level 4, a barbarian will need to go to Highport to
+level as an assassin.
+   Bard- Barbarian bards are supreme partygoers and barroom
+brawlers. They are able to level to 4 in Schnai, in the back
+of the Gladiator's bar. After that they must go to Sigil and
+its bard college, where they often graduate after starting
+many fights along the way.
+   Berserker- Barbarian warriors of the most chaotic nature
+are almost always berserkers. They train in Schnai Village
+in the Barbarian Sporting pits all the way to level 30.
+   Cleric- All barbarian clerics are Priests of Ares by
+default. The temple to ares needs to be expanded, and leveling
+to 30 added in.
+   Ranger- Barbarian trackers are very good, but they are
+by far not the best rangers in Derlith. Rangers can train up
+to level 10 in Schnai, at a spot out in the plains, perhaps
+in a track maze like on isengard. After that they must go to
+Eldinwood and learn from the elves, who are master rangers.
+   Thief- See Assassin above. They level in the same place,
+but go to a different room. They may reach level 4, then
+must go to Highport.
+   SUGGESTED NEWBIE KILLING MOB IDEAS
+All nuetral faction mobs in this area will be out in the plains,
+or in pits where things are controlled. Like you could have
+a pit where men go fight wild dogs or something.
+In plains: wild boars(1-3), goblin raiders(1-3), gnoll
+raiders(2-4), orc raiders(3-4), plains rats(1-2), grass
+snakes(1-2), coyotes(2-3), bandits(2-5), deer(1-2), prarie
+dogs(1), etc..other plains animals.
+
+
+Area: Goblin Caverns (no name yet)
+Races starting here: Goblin
+Location: Upper Bloodmound Hills
+Builder: Draegoth
+Size: 100 rooms
+Note: typing "help goblins" will assist.
+
+GENERAL
+   This area needs to be totally underground, with maybe a
+tower or something, or old ruins above ground at the entrance,
+either of which would be heavily guarded. The "evil dwarves"
+are always up to something fishy, and it could be bad.
+The interior is a conglomerate of different levels of caves
+and caverns. The more powerful the goblin, the better the
+area of the caverns he/she lives in. Even though the caves
+seem somewhat chaotic inside (meaning use a lot of diagonal
+directions and non-directional exits), they are actually quite
+organized. Each area of the cavern will be under the control of
+a single barracks, led by a goblin commander. This commander
+can be either a warrior or a shaman that scares the crap out of
+everyone in his section. All section commanders plot schemes
+in a goblin-like manner to move up more in the King's favor.
+Women and children stay in sectioned off areas (women
+USUALLY dont fight as males do, but when defending their young,
+they are worth 2-3 goblin warriors, so they should be tough).
+Goblins have wargs which help them patrol the caves, and their
+traps usually always involve ambush rather then clever
+mechanical-like devices (as kobolds would have). There will
+be a central underground water source somewhere also. There
+is also a waste cave where all the goblins go to take a dump.
+Of course, it has a problem with carrion crawlers and dung rats,
+which always plagues the goblin section commanders...
+PRIMARY GOD(S)
+   Goblins will worship whomever can kick their ass, but only
+if that figure is evil in nature. For instance, there might
+be a devine clergy built around the head Shaman or the king,
+or the local contingent of the cult of Aramon has them
+scared shitless, etc...
+GOVERNMENT
+   The biggest goblin that can beat everyone else's ass is
+always the king. This doesnt mean he's a warrior all the time,
+either. He usually has several trusted bodyguards (which means
+he has blackmail material on them, or is holding their
+family hostage so they wont try to kill him) around him at
+all times. If the king is a warrior, he will take much
+council from the head goblin shaman, as goblins are very very
+superstitous. The king needs to be difficult to kill.
+TRAINING
+   Assassin- Goblin assassins are coniving sneaky little bastards.
+They tend to be very good at the trade, as not many people take
+them as seriously as they should. Assassinating your superior
+(or framing him) is the way to advance in goblin society. Goblin
+assassins will have a small complex to level in where they can
+reach up to level 10. Only goblins can train there. No other races
+can. There is no guild, only a hang-out place where the nastiest
+goblin assassins go to hang out and train.
+   Berserker- Goblin berserkers are the centerpiece of the goblin
+armies. They tend to be extremely rabid and large for goblins,
+and they always smell of putrid old-smelling watered down wine.
+They tend to puke in battle a lot - on their opponents. Goblin
+berserkers can level up to level 10 in the goblin caverns. After
+that they have to go somewhere else, like Garakk (see below).
+   Fighter- Goblins are primarily fighters more than anything
+else. There is a rather large complex where goblins can train
+up to level 10. After that they have to go to Garakk (see below).
+   Shaman- Goblin shaman are feared throughout Derlith. They
+often command very strange superstitious powers and can place
+curses on people at a whim. The goblin shaman system is very
+rigid and heirarchial. There is no shaman school, but there is
+an area of "servitude" where potential goblin shaman agree to
+be tortured, be part of experiments, test new poison potions,
+fight conjured spirits, etc..in order to prove their worthiness
+to the shaman above them. Goblin shaman can level all the way
+to 30 in the goblin caverns...ONLY goblins are allowed.
+   Thief- Goblin thieves are very good at what they do. As goblin
+society is basically a bunch of coniving thieves, brutes, and
+bandits, this is not suprising. There is a very powerful
+thieves' guild (goblins admitted only) in the goblin caverns.
+Goblin thieves can level up to level 12 in the goblin caverns.
+After that they have to go someplace else to get higher.
+SUGGESTED NEWBIE KILLING MOB IDEAS
+  The possibilities here are endless in the outer caverns.
+cave spiders(1-2), dung rats(1), huge spiders(2-3), rock snakes(2),
+etc....use of the monster manual can help here quite a bit, so
+long as the levels of the mobs are translated into mordor right.
+SPECIAL:
+  Goblins players starting out in the goblin caverns need to
+stay in the goblin caves at least until they are level 5. So,
+instead of a restriction of 2+ level to get out of there area,
+it needs to be 5+ on all exits leading out of the area to the
+rest of Derlith.
+  All banks and post-offices are goblin-only to enter.
+
+Area: Troll Swamp Town (no name yet)
+Races starting here: Troll
+Location: Hellbog
+Builder: Darklight
+Size: 100 rooms
+
+GENERAL
+   This areas is set in the depths of the Hellbog. The trolls which
+live here are the marginally civilized type (compared to other trolls).
+The area should be semi-organized, and should be a series of small
+islands and caverns dug in and around areas of stagnant swamp water.
+Bridges should connect some areas. The trolls either live in crude
+huts, or in dugout mudholes where water cannot get in. They don't
+care much for sanitation, so the whole place will reek. So shops and
+such will be in a small island that is the "town center". Instead of
+streets like in Highport, things will be connected via bridges or
+muddy paths, or across shallow swamp water and reeds.
+
+PRIMARY GOD(S)
+  The trolls do not worship any gods. They have shaman that are very
+superstitious, and they are the closest things to gods that they
+have. However, nontroll gods have had an influence. The Devil Knights
+have set up shop in the troll town in order to actively recruit
+trolls to become death knights. Trolls are the best leaders of
+orcs and goblins that are the mainstay of Caladon's armies, simply
+because they terrify the troops into obeying. Troll warriors are
+bad enough, but to orcs and goblins, troll death knights are completely
+horrifying. The Cult of Aramon also has an outpost, but it's presence 
+has nothing to do with the trolls, and is mainly there to keep an eye 
+on the Devil Knights (i.e. keep them in line), and to do dark experiments 
+in the depths of the swamp.
+
+GOVERNMENT
+  The biggest, meanest, nastiest, and most ruthless troll rules
+the town as chief. He can only be removed by being challenged and
+killed. The shaman in the town are also a force to be reckoned
+with, and the chief often relies on them for guidance. Overall,
+however, the biggest troll warriors lead a faction that controls
+the town - led by the biggest troll through fear and brutality.
+Troll warriors walk around the village keeping order, randomly
+beating the crap out of people.
+
+TRAINING
+  Berserker - Trolls do not train as fighters. All are berserkers
+because of their savage nature. One of the "islands" in the town
+is a big training pit where trolls fight to the death to train.
+Trolls, and trolls only, may level from 1 to 30 here.
+  Shaman - Troll shaman have a series of huts and underground
+tunnels in which they all live. In that area is where the
+shaman training is. Should involve mixture of items and combat.
+Trolls only may level their shaman up to 30 here.
+  DeathKnight - The Devil Knights have a reasonably dry compound
+set up on highground just outside the troll town. In there they
+have death knight training. Trolls may train as death knights
+in the troll town up to level 10. After that they must go to
+Caladon to train. 
+
+SUGGESTED NEWBIE KILLING MOB IDEAS
+  Killing areas should be set outside the town in the swamp.
+The possibility for mobs to kill in a swamp are endless:
+snakes, swamp lizards, swamp bats, crocodiles, lizard man
+raiders, etc...
+
+SPECIAL
+  Nobody should be allowed out of the troll town until they are
+at least level 5, so level boundries need to be set up to that
+effect. Also, keep in mind that the deeper into the swamp a
+player goes away from the town, the nastier things need to get.
+To the north of the town a ways, is a lizard man lair which
+extends like 2-3 levels underground, partially underwater. The
+trolls and lizard men are always fighting one another. Another
+thing is that the bank in the troll town MUST be in the Devil
+Knight compound, as trolls dont deal with banks often. 
+Any post-offices are all troll-only to enter.
+

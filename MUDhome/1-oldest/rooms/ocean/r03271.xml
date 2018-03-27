@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Room Num="3271" Version="2.40" Area="ocean">
+  <Name>Doctor Ogden's Den</Name>
+  
+  <Established>756376003</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3269</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="260" Area="ocean" Version="2.40">
+  <Name>walking staff</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>30</ShotsMax>
+  <ShotsCur>30</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>6</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">200</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">staff</Key>
+    <Key Num="1">stick</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a large oak walking stick with a small jewel on top.</Description>
+  <Weight>1</Weight>
+  <Type>5</Type>
+  <SubType>staff</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

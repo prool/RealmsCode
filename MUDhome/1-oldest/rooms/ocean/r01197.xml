@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Room Num="1197" Version="2.44b" Area="ocean">
+  <Name>Kafkan Way</Name>
+  <ShortDescription>You are walking along Kafkan Way, south of Evander's World of Weapons.</ShortDescription>
+  <LongDescription>The large shopping plaza to the north is called Evander's World of 
+Weapons, where all kinds of weapons can be bought and sold.  The
+entrance to the center is to the north.  Kafkan Way intersects
+Leviathan Drive to the east, and continues west until it reaches
+the Necropolis at Amberton Lane.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>north</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="west"><Keys></Keys><Target><Room Area="ocean">1196</Room></Target><Effects></Effects></Exit><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">1980</Room></Target><Effects></Effects></Exit><Exit Name="east"><Keys></Keys><Target><Room Area="ocean">1198</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

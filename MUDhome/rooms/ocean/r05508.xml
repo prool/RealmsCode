@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5508" Version="2.40" Area="ocean">
+  <Name>Hafnia Circle</Name>
+  <ShortDescription>You are just south of East Hafnia Boulevard, on Hafnia Circle.</ShortDescription>
+  <LongDescription>On the west side of the road you see a tree shaded building with a statue
+standing near the entrance.  The steps are wide and there seems to be an
+open door at the top of the steps.  Engraved in the stone are the words,
+"Fraternal Order of Rangers."</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">948</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5509</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Room Num="3338" Version="2.40" Area="ocean">
+  <Name>Walk of Heroes</Name>
+  <ShortDescription>The crushed gravel path leads east and west through the Walk of Heroes.</ShortDescription>
+  <LongDescription>The walk is impressive with its great monuments to the north and south.
+To the northeast the Sage's Rest comes into view, a monument somewhat
+strangely erected to the illusionist Zelinx.  it is rumored that he
+buried himself with his tower, but most people are too scared to go
+in and see for themselves.</LongDescription>
+  
+  <Established>759804347</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3337</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3339</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3407</Room>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

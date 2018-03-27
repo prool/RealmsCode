@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Effects">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="Effect"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Effect">
+    <xs:complexType>
+        <xs:element minOccurs="0" ref="Name"/>
+        <xs:element minOccurs="0" ref="ApplyScript"/>
+        <xs:element minOccurs="0" ref="BaseEffect"/>
+        <xs:element minOccurs="0" ref="ComputeScript"/>
+        <xs:element minOccurs="0" ref="Display"/>
+        <xs:element minOccurs="0" ref="OldFunction"/>
+        <xs:element minOccurs="0" ref="OppositeEffect"/>
+        <xs:element minOccurs="0" ref="PostApplyScript"/>
+        <xs:element minOccurs="0" ref="PreApplyScript"/>
+        <xs:element minOccurs="0" ref="PulseDelay"/>
+        <xs:element minOccurs="0" ref="PulseScript"/>
+        <xs:element minOccurs="0" ref="Pulsed"/>
+        <xs:element minOccurs="0" ref="RoomAddStr"/>
+        <xs:element minOccurs="0" ref="RoomDelStr"/>
+        <xs:element minOccurs="0" ref="SelfAddStr"/>
+        <xs:element minOccurs="0" ref="SelfDelStr"/>
+        <xs:element minOccurs="0" ref="Type"/>
+        <xs:element minOccurs="0" ref="UnApplyScript"/>
+        <xs:element minOccurs="0" ref="Spell"/>
+        <xs:element minOccurs="0" ref="DisplayName"/>
+        <xs:element minOccurs="0" ref="UsesStrength"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Name" type="xs:NCName"/>
+  <xs:element name="ApplyScript" type="xs:string"/>
+  <xs:element name="BaseEffect" type="xs:NCName"/>
+  <xs:element name="ComputeScript" type="xs:string"/>
+  <xs:element name="Display" type="xs:string"/>
+  <xs:element name="OldFunction" type="xs:NCName"/>
+  <xs:element name="OppositeEffect" type="xs:NCName"/>
+  <xs:element name="PostApplyScript" type="xs:string"/>
+  <xs:element name="PreApplyScript" type="xs:string"/>
+  <xs:element name="PulseDelay" type="xs:integer"/>
+  <xs:element name="PulseScript" type="xs:string"/>
+  <xs:element name="Pulsed" type="xs:boolean"/>
+  <xs:element name="RoomAddStr" type="xs:string"/>
+  <xs:element name="RoomDelStr" type="xs:string"/>
+  <xs:element name="SelfAddStr" type="xs:string"/>
+  <xs:element name="SelfDelStr" type="xs:string"/>
+  <xs:element name="Type" type="xs:NCName"/>
+  <xs:element name="UnApplyScript" type="xs:string"/>
+  <xs:element name="Spell" type="xs:boolean"/>
+  <xs:element name="DisplayName" type="xs:string"/>
+  <xs:element name="UsesStrength" type="xs:boolean"/>
+</xs:schema>

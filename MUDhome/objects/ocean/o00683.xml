@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="683" Area="ocean" Version="2.40">
+  <Name>drow short sword</Name>
+  <Adjustment>2</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>5</Number>
+    <Sides>3</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">drow</Key>
+    <Key Num="1">sword</Key>
+    <Key Num="2">short</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="13"/>
+  </Flags>
+  <Weight>5</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

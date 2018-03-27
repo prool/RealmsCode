@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="3251" Version="2.40a" Area="ocean">
+  <Name>Kista Beach</Name>
+  <ShortDescription>You can stop here and enjoy the view of beautiful Lake Kista.</ShortDescription>
+  <LongDescription>The snow-white sands and cool, gentle breezes help you relax at this
+wonderful beach.  Here you can rest and enjoy the surroundings.</LongDescription>
+  
+  <Established>756038685</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3217</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5081</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="lake">
+      <Keys/>
+      <Room Area="ocean">3241</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

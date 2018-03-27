@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Room Num="3942" Version="2.40a" Area="ocean">
+  <Name>North Oceancrest Guard Station</Name>
+  <ShortDescription>You are inside the Guard Station next to the North City Gate.</ShortDescription>
+  <LongDescription>There is evidence of a drunken party taking place, and the guards don't
+look to happy to see a visitor.  It's probably not a good idea to stay.
+You see three doors here, and one of them apparently leads to a holding 
+cell, while the sturdy one leads outside.  The other door goes to the city. </LongDescription>
+  
+  <Established>789437822</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>city door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">750</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>150</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">751</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="outside door">
+      <Keys/>
+      <Room Area="ocean">3841</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="city door">
+      <Keys/>
+      <Room Area="ocean">3840</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="cell door">
+      <Keys/>
+      <Room Area="ocean">3843</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

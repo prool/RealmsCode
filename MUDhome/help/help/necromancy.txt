@@ -1,0 +1,14 @@
+^WSpells:^x
+    animate-dead
+    draw-spirit
+    lifedraw
+    lifetap
+    sap-life
+    siphon-life
+    soulsteal
+    spirit-strike
+    touch-of-kesh
+
+See also:
+    HELP SCHOOLS
+

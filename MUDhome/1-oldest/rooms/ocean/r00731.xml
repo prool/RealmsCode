@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="731" Version="2.40" Area="ocean">
+  <Name>Highland Avenue</Name>
+  <ShortDescription>You are walking along Highland Avenue, east of a large temple.</ShortDescription>
+  <LongDescription>The magnificent Temple of Harmonic Discord is one of the most impressive
+works of art in the land, although the clerics which inhabit it deny
+this.  The temple is the source of great power in the land, as the gods
+look down on the site of worship with generosity.</LongDescription>
+  
+  <Established>727327224</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">730</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">732</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

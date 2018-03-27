@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="758" Version="2.40" Area="ocean">
+  <Name>Oceancrest Circle</Name>
+  <ShortDescription>You are on the eastern rim of the great Oceancrest Circle.</ShortDescription>
+  <LongDescription>These magnificent circles scattered throughout Oceancrest display the
+proud heritage of the city.  The Oceancrest Circle welcomes all visitors
+to Oceancrest.  Visitors to Oceancrest are warned that some of the less
+desirable elements of any city are likely to be found in the northeastern
+quadrant of the town, and are therefore advised to avoid the area.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">766</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">757</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">760</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Room Num="578" Version="2.47i" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive, east of the Shrine of Gruumsh.</ShortDescription>
+  <LongDescription>The Orcs have built a large shrine in dedication to Gruumsh, the orc god
+of all that is and will be.  He is said to rule over the other orcish 
+gods with an iron fist and never sleeps.  Gruumsh is not a very friendly
+god, but when you're omnipotent, it doesn't really matter.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>south</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">577</Room></Target><Effects></Effects></Exit><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">579</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

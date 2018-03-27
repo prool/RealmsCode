@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="887" Version="2.40" Area="ocean">
+  <Name>General Store Storage</Name>
+  <ShortDescription>This is the storage room for the winery's general store.</ShortDescription>
+  
+  <Established>755892887</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">886</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

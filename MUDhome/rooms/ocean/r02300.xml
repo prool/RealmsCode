@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<Room Num="2300" Version="2.41a" Area="ocean">
+  <Name>Eiden Public Storage Facility</Name>
+  <ShortDescription>You have entered the large public storage facility in the center of town.</ShortDescription>
+  <LongDescription>Public storage is often a problem to people visiting the city in that
+there's always too much to carry around.  Besides, the stuff is heavy!
+The Eiden Public Storage Building allows people to store their valuable
+stuff here for a price.  Storage rooms are located to the north, east
+and west.  Netherworld Lane is to the south.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">710</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects>
+    <ObjRef Num="710" Area="ocean" Version="2.41a">
+      <Name>management sign</Name>
+      <Adjustment>0</Adjustment>
+      <ShotsCur>0</ShotsCur>
+      <Dice>
+        <Number>0</Number>
+        <Sides>0</Sides>
+        <Plus>0</Plus>
+      </Dice>
+      <Value/>
+      <Keys>
+        <Key Num="0">sign</Key>
+      </Keys>
+      <LastTimes/>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </ObjRef>
+  </Objects>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1174</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3750</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2301</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3904</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="office">
+      <Keys/>
+      <Room Area="ocean">3759</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

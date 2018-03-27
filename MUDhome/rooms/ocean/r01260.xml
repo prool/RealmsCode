@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1260" Version="2.40" Area="ocean">
+  <Name>Entrance to the Crypt Caverns</Name>
+  <ShortDescription>You are at the entrance to the crypt caverns.</ShortDescription>
+  <LongDescription>The crypt caverns hold the remains of the deceased mages of Keslar.  These
+'good' mages were banished with the coming of Kaylar and the crypts were
+sealed forever.  Some say the ghosts of these mages still haunt the 
+cavern crypts and will not rest until Keslar is released from evil.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1392</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1261</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

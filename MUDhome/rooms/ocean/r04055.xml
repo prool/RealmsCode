@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="4055" Version="2.40" Area="ocean">
+  <Name>Granovetter's Cellar</Name>
+  <ShortDescription>You are in the cellar below the kitchen in Granovetter's Inn.</ShortDescription>
+  <LongDescription>There are racks of wine and great kegs of Uland rum close by, but in the
+dark areas you see nothing but dust and vegetable bins.  Although the 
+innkeeper and his family are well liked, there are whispered stories
+occasionally about a mad brother who is kept out of sight.  Might this 
+be his private world, down here?</LongDescription>
+  
+  <Established>789805431</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>ladder</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>28600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">760</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>28800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">763</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="ladder">
+      <Keys/>
+      <Room Area="ocean">4054</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

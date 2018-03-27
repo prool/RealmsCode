@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="4257" Version="2.40" Area="ocean">
+  <Name>Servant's Stairwell</Name>
+  <ShortDescription>This is the third floor of Prince Rutger's castle.</ShortDescription>
+  <LongDescription>The third floor is where many of the high level warriors and adventurers
+who have pledged their loyalty to Rutger have taken residence.  There are
+storage rooms available for those who spend little time in the castle as 
+well.  There is a window here, where you can the countryside to the west
+of the castle.  You seem to be very high in the air, as you look out.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>down</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4256</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">4258</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

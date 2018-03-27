@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="761" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are walking along Wakeforest Drive, just south of the Oceancrest Circle.</ShortDescription>
+  <LongDescription>You can see the brilliance of the Oceancrest Circle to the north.  It was
+designed to be a powerful symbol of the unity and power in Oceancrest, and
+the pride the people take in living and working in such a city.  The Circle
+was built and privately funded by the citizens of Oceancrest and then
+donated to the City.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">760</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">762</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

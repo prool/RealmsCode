@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1839" Version="2.40" Area="ocean">
+  <Name>The Southern Path</Name>
+  <ShortDescription>You are walking along the southern path in the Barbarian Pits.</ShortDescription>
+  <LongDescription>Descending into the Barbarian Pits isn't as bad as you had imagined.  
+As you walk around., you notice that the path now curves to the east as
+you reach the southern end of the Pits.  There seems to be quite a bit 
+of excitement a little further to the east.  You have already seen a
+number of younger grunts of varying ability wandering around </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">261</Mob>
+      <Mob Area="ocean" Num="1">261</Mob>
+      <Mob Area="ocean" Num="2">262</Mob>
+      <Mob Area="ocean" Num="3">261</Mob>
+      <Mob Area="ocean" Num="4">755</Mob>
+      <Mob Area="ocean" Num="5">262</Mob>
+      <Mob Area="ocean" Num="6">264</Mob>
+      <Mob Area="ocean" Num="7">263</Mob>
+      <Mob Area="ocean" Num="8">261</Mob>
+      <Mob Area="ocean" Num="9">262</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1838</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1840</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="1267" Version="2.40" Area="ocean">
+  <Name>Mage Hold</Name>
+  <ShortDescription>You are in a secret holding cell for a number of magic items and potions.</ShortDescription>
+  <LongDescription>This hold was designed to hold many of the artifacts of the ancient mages
+so that they could be used in the afterlife.  A magical force-field seems
+to have been raised as you are the only one that can get into this hold.</LongDescription>
+  <LowLevel>7</LowLevel>
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="13"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1266</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

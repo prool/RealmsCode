@@ -1,0 +1,45 @@
+   ________________________________________________
+  /\                                               \
+ /  | Player Breakdown                              |
+ \  |                                               |
+  \_|        Assassin :  -nan%        Dwarf :  -nan%  |
+    |       Berserker :  -nan%          Elf :  -nan%  |
+    |          Cleric :  -nan%     Half-Elf :  -nan%  |
+    |         Fighter :  -nan%     Halfling :  -nan%  |
+    |            Mage :  -nan%        Human :  -nan%  |
+    |         Paladin :  -nan%          Orc :  -nan%  |
+    |          Ranger :  -nan%   Half-Giant :  -nan%  |
+    |           Thief :  -nan%        Gnome :  -nan%  |
+    |       Pureblood :  -nan%        Troll :  -nan%  |
+    |            Monk :  -nan%     Half-Orc :  -nan%  |
+    |    Death Knight :  -nan%         Ogre :  -nan%  |
+    |           Druid :  -nan%     Dark-Elf :  -nan%  |
+    |            Lich :  -nan%       Goblin :  -nan%  |
+    |        Werewolf :  -nan%     Minotaur :  -nan%  |
+    |            Bard :  -nan%       Seraph :  -nan%  |
+    |           Rogue :  -nan%       Kobold :  -nan%  |
+    |                              Cambion :  -nan%  |
+    |    Fighter/Mage :  -nan%    Barbarian :  -nan%  |
+    |   Fighter/Thief :  -nan%      Kataran :  -nan%  |
+    | Cleric/Assassin :  -nan%     Tiefling :  -nan%  |
+    |      Mage/Thief :  -nan%                       |
+    |      Thief/Mage :  -nan%                       |
+    |   Mage/Assassin :  -nan%                       |
+    |                                               |
+    |          Aramon :  -nan%                       |
+    |           Ceris :  -nan%                       |
+    |           Enoch :  -nan%                       |
+    |         Gradius :  -nan%                       |
+    |            Ares :  -nan%                       |
+    |          Kamira :  -nan%                       |
+    |        Linothan :  -nan%                       |
+    |        Arachnus :  -nan%                       |
+    |            Mara :  -nan%                       |
+    |                                               |
+    | deity breakdown is limited to classes         |
+    | pledged to a god.                             |
+    |                                               |
+    |    ___________________________________________|_
+    \   /                                            /
+     \_/____________________________________________/
+

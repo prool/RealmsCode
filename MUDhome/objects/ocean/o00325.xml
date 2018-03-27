@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="325" Area="ocean" Version="2.40">
+  <Name>adamantine scale mail hood</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>60</ShotsMax>
+  <ShotsCur>60</ShotsCur>
+  <Armor>44</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">750</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">scale</Key>
+    <Key Num="1">mail</Key>
+    <Key Num="2">hood</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="19"/>
+  </Flags>
+  <Description>You see a hood crafted with scales made of adamantine.</Description>
+  <Weight>6</Weight>
+  <Type>6</Type>
+  <SubType>leather</SubType>
+  <WearFlag>7</WearFlag>
+  <InBag/>
+</Object>

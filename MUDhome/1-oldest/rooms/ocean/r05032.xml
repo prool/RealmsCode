@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="5032" Version="2.40" Area="ocean">
+  <Name>Skies Over Gotland Glenn</Name>
+  <ShortDescription>You are east of Brownhaven over Gotland Glenn.  60.n0.e2.s0.w0</ShortDescription>
+  <LongDescription>The great Gotland Glen is a vast grassland, home to a number of wierd and
+wonderful animals and sentient beings.  There is reputed to be an entire
+underground city built by burrowing mole people down there.</LongDescription>
+  
+  <Established>772434150</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5031</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5058</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5040</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5008</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

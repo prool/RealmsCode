@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="196" Version="2.40" Area="ocean">
+  <Name>Green Room</Name>
+  <ShortDescription>You are in the Green Room of Madame Ruthie's House of Pleasure.</ShortDescription>
+  <LongDescription>The Green Room is reserved for Madame Ruthie's oldest customer's and is
+quite rich in its furnishings.  Silk pillows are stacked everywhere, and
+brocaded covers are on the bed.  Soft lamp light flickers in the room,
+giving a pleasant glow to the beautiful materials.  An open window looks
+over the bay, and birds twitter outside.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">521</Mob>
+      <Mob Area="ocean" Num="1">521</Mob>
+      <Mob Area="ocean" Num="2">521</Mob>
+      <Mob Area="ocean" Num="3">521</Mob>
+      <Mob Area="ocean" Num="4">521</Mob>
+      <Mob Area="ocean" Num="5">521</Mob>
+      <Mob Area="ocean" Num="6">521</Mob>
+      <Mob Area="ocean" Num="7">521</Mob>
+      <Mob Area="ocean" Num="8">521</Mob>
+      <Mob Area="ocean" Num="9">521</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">194</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

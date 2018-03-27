@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Object Num="451" Area="ocean" Version="2.40">
+  <Name>writing stone</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys>
+    <Key Num="0">wall</Key>
+    <Key Num="1"> </Key>
+    <Key Num="2"> </Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="18"/>
+  </Flags>
+  <Type>14</Type>
+  <InBag/>
+</Object>

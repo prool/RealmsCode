@@ -1,0 +1,112 @@
+^WRoom Flags^x
+ 1         Shoppe                 You can also use the trapexit to set the
+                                  storage room, otherwise it defaults to this
+                                  room + 1
+ 2         Dump                   Dropped items recycled for 5gp
+ 3         Training               Training flag. See *dmh train
+ 4         Training               Training flag. See *dmh train
+ 5         Training               Training flag. See *dmh train
+ 6         Training               Training flag. See *dmh train
+ 7         Training               Training flag. See *dmh train
+ 8         MobJail                A jail room a monster takes you to (as
+                                  opposed to staff)
+ 9         DarkAlways             Always naturally dark
+ 10        DarkNight              Naturally dark at night
+ 11        PostOffice             Players can send/read mail here
+ 12        NoPkill                Safe room, no playerkilling
+ 13        NoPortTo               Cannot teleport to this room
+ 14        HealFast               Heal faster in this room
+ 15        OnePly                 1-player only inside
+ 16        TwoPly                 2-players only inside
+ 17        ThreePly               3-players only inside
+ 18        NoMagic                No magic will work here
+ 19        PermTracks             Permanent tracks
+ 20        Earth                  Earth realm
+ 21        Air                    Air realm
+ 22        Fire                   Fire realm
+ 23        Water                  Water realm
+ 24        GrpWander              Player-dependent monster wanders
+ 25        PHarm                  Harmful room
+ 26        Toxic                  Poisonous gas
+ 27        MPDrain                Mana draining room
+ 28        Stun                   Stunning room
+ 29        NoSummonOut            Can not be summon out
+ 30        CanPledge              Can pledge to clans here
+ 31        CanRescind             Can rescind from clans here
+ 32        NoPotion               Potions will not work
+ 33        Magic+                 Magical bonus room
+ 34        NoLog                  Player will relog in room 1
+ 35        VampireCoven           Room is vampire coven
+ 36        Indoors                Players won't hear weather messages,
+                                  darkmetal is safe
+ 37        Jail                   Jail room
+ 38        NoCastPort             Teleport cannot be cast here
+ 39        Lottery                Can buy lottery ticket; must set 1-Shoppe flag
+ 40        DesertHarm             Heat damage during the day, cold damage at night
+ 41        BuyStrg                Can purchase storage rooms here
+ 42        StrgRm                 Is a storage room
+ 43        NoClair                Cannot be claired in this room
+ 44        NoFlee                 Cannot flee from this room
+ 45        RH:Vines               Vines try to strangle you (druids immune)
+ 46        CanShoplift            You can attempt to shoplift
+ 47        Forest                 Room is forest
+ 48        Ethereal               Room is ethereal
+ 49        OppRealm+              The opposite realm of the room is given a bonus
+ 50        Pawn                   Can sell items
+ 51        RH:IcyWater            Icy water damage
+ 52        NoTrackTo              Other players cannot track to this room
+ 53        DropDestroy            Environment destroys dropped items
+ 54        NoSummonTo             Cannot summon anyone to this room
+ 55        NoTrackOut             Cannot track out of this room
+ 56        Realm+                 Room's realm adds to same realms spell damage
+ 57        OutlawSafe             Outlaws may not be killed, are damaged by lightning
+ 58        Bank                   Can perform bank transactions
+ 59        ATM                    Magic money machine - withdraw and balance
+                                  only: used mainly for jails to bail out
+ 60        ^yUnused^x
+ 61        Guild:OpenAccess       This room belongs to a guild, but anyone may enter
+ 62        NoRecall               Word of recall does not work
+ 63        LogToTrapExt           Player will relog into room specified by
+                                  trap exit
+ 64        HardMove               Hard to move from room
+ 65        Electricity            Electricity realm
+ 66        Cold                   Cold realm
+ 67        HardFlee               Hard to flee from this room
+ 68        NoMist                 Mists cannot enter
+ 69        DisperseMist           Mists will be forced to unmist
+ 70        ^yUnused^x
+ 71        CanBuildShop           Can build a shop here
+ 72        MagicDark              Magically dark
+ 73        Underwater             Room is underwater and players will drown
+ 74        NoDodge                Cannot dodge here
+ 75        Aramon                 Only worshipers of Aramon may enter
+ 76        Ceris                  Only worshipers of Ceris may enter
+ 77        Enoch                  Only worshipers of Enoch may enter
+ 78        Gradius                Only worshipers of Gradius may enter
+ 79        Ares                   Only worshipers of Ares may enter
+ 80        Kamira                 Only worshipers of Kamira may enter
+ 81        Jakar                  Only worshipers of Jakar may enter
+ 82        Linothan               Only worshipers of Linothan may enter
+ 83        Mara                   Only worshipers of Mara may enter
+ 84        Arachnus               Only worshipers of Arachnus may enter
+ 85        Underground            Players won't hear weather messages,
+                                  darkmetal is safe
+ 86        CanBuildGldHall        Can build a guildhall here
+ 87        WasBuildGldHall        A guildhall has been built here
+ 88        RH:Archers             Elven archers
+ 89        RH:Moss                Deadly underdark moss
+ 90        WasBuildShop           A shop has been built here
+ 91        Construction           Room is under construction
+ 92        Typo                   A typo was found here
+ 93        CanBuildHouse          Can build a house here
+ 94        WasBuildHouse          A house has been built here
+ 95        WinterCold             Room is cold during the winter
+ 96        NoPrevious             Player does not record this as previous room
+ 97        ShopStorage            Must be set in storage room for room flag 1
+                                  (Shoppe) to work
+ 98        AlwaysWinter           Treat this room as winter regardless of season
+ 99        CanAlwaysMist          Vampires can always turn to mist here,
+                                  regardless of time of day
+ 100       Limbo                  Room is Limbo (where players go when they die)
+ 101       NoSpringTrapOnEnter    A player entering this room won't spring any traps
+

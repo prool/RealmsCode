@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Object Num="713" Area="ocean" Version="2.40">
+  <Name>two-handed gleaming sword</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Dice>
+    <Number>4</Number>
+    <Sides>4</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">gleaming</Key>
+    <Key Num="1">sword</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="27"/>
+    <Bit Num="36"/>
+  </Flags>
+  <Description>The sword floats in mid-air in the middle of the room.</Description>
+  <Weight>6</Weight>
+  <Type>5</Type>
+  <SubType>great-sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

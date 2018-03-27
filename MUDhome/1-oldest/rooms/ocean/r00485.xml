@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="485" Version="2.40" Area="ocean">
+  <Name>Nissiau Lane</Name>
+  <ShortDescription>You are walking down Nissiau Lane, north of Hagar's Meat shop.</ShortDescription>
+  <LongDescription>Hagar's Meat shop imports a number of fine meats and other delicacies
+from throughout the lands.  Although Oceancrest is well supplied with 
+more than enough cattle to survive for years, it is occasionally nice
+to have some venison or even some bear for supper.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">484</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">486</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

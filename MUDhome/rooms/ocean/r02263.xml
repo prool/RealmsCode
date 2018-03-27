@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="2263" Version="2.40" Area="ocean">
+  <Name>The Blue Training Room</Name>
+  <ShortDescription>You are in the blue knight's training room.  In order to advance to the
+next level, you must defeat the holy knight which stands before you.</ShortDescription>
+  <LongDescription>Worthy Paladins should be able to defeat an opponent a level above you.
+Since you have a slight disadvantage, this will prove that you are indeed
+ready to advance to the level of Gallant Warrior, Second Class.</LongDescription>
+  <LowLevel>1</LowLevel>
+  <HighLevel>1</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>training room</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">279</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">355</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="training room">
+      <Keys/>
+      <Room Area="ocean">2265</Room>
+      <Key>6</Key>
+      <Flags>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">2262</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="378" Version="2.40" Area="ocean">
+  <Name>Orchard Lane</Name>
+  <ShortDescription>You are traveling along Orchard Lane, south of the Tranquility Patrol.</ShortDescription>
+  <LongDescription>The Tranquility Patrol Station is located on the north side of the road
+and provides peacekeeping support to the bars and nightclubs around the
+area.  The Tranquility Patrol is dedicated to keeping order and peace.
+They wander around the streets and bars, breaking up fights and brawls.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">377</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">746</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="2135" Version="2.40" Area="ocean">
+  <Name>Rope Suspension Bridge</Name>
+  <ShortDescription>You are on a rope bridge spanning the Ashton creek in the gorge below.</ShortDescription>
+  <LongDescription>The old bridge sways with each step you take, forcing you to walk slowly
+to keep it from going into wild oscillations and perhaps dumping you
+into the water below.  Only one person at a time can be on the bridge,
+but fortunately it doesn't look like you could be attacked easily while
+here.  Unless the attack came from the air.  What's that overhead?</LongDescription>
+  
+  <Established>756240860</Established>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="20"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">110</Mob>
+      <Mob Area="ocean" Num="1">432</Mob>
+      <Mob Area="ocean" Num="2">432</Mob>
+      <Mob Area="ocean" Num="3">432</Mob>
+      <Mob Area="ocean" Num="4">432</Mob>
+      <Mob Area="ocean" Num="5">110</Mob>
+      <Mob Area="ocean" Num="6">195</Mob>
+      <Mob Area="ocean" Num="7">195</Mob>
+      <Mob Area="ocean" Num="8">109</Mob>
+      <Mob Area="ocean" Num="9">109</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2134</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2136</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

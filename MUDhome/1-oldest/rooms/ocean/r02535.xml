@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="2535" Version="2.40" Area="ocean">
+  <Name>Kista Avenue</Name>
+  <LongDescription>You are on Kista Avenue, south of the intersection with Tiamat Lane.
+The Great Library takes up all of the east side of the block, but on the
+west side of the avenue there is a three story building painted with broad
+pastel stripes.  Carved into the corner stone you see, "Iilandi University -
+School of Astrology."  The entrance seems to be farther south.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">60</Mob>
+      <Mob Area="ocean" Num="1">60</Mob>
+      <Mob Area="ocean" Num="2">60</Mob>
+      <Mob Area="ocean" Num="3">60</Mob>
+      <Mob Area="ocean" Num="4">60</Mob>
+      <Mob Area="ocean" Num="5">60</Mob>
+      <Mob Area="ocean" Num="6">60</Mob>
+      <Mob Area="ocean" Num="7">60</Mob>
+      <Mob Area="ocean" Num="8">60</Mob>
+      <Mob Area="ocean" Num="9">60</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2019</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2536</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

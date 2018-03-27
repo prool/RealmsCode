@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="468" Version="2.40" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are walking along Darmanian Way, between the Library and the Church.</ShortDescription>
+  <LongDescription>Quite an odd combination, but the Cathedral of Worldly Bliss is located on
+the south side of the road, while the Oceancrest Municiple Library is 
+located on the north side.  Although not always at odds with each other,
+there is usually quite a rift between science and the clergy, usually
+resulting in violent riots.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">423</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">469</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

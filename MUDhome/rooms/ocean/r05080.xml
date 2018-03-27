@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="5080" Version="2.40" Area="ocean">
+  <Name>Turbulent Air</Name>
+  <ShortDescription>The turbulent air comes off the foothills below.  65.n0.e0.s2.w2</ShortDescription>
+  <LongDescription>Further to the south the low foothills give way to the jagged Nartiz
+Mountains.  The mountains are snow covered at their peaks, and cloud
+cover lies in layers all the way to the jagged tops.  Looking west, there
+is a pass that seems to get very narrow, between the northern Nartiz and
+the southern face of Mount Aphinix.</LongDescription>
+  
+  <Established>773017803</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5054</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

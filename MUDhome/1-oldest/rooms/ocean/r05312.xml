@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="5312" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>You are just west of a major intersection of roads.</ShortDescription>
+  <LongDescription>Dark Forest hangs on both sides of the road, cutting out almost all of
+the light from the sky.  The road has dipped down here, so you are in an
+area where it's hard to see in any direction. Bird noises and other sounds,
+some of which you have never heard before, come from the trees aroound you.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5311</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5313</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

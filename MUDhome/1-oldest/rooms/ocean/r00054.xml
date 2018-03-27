@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<Room Num="54" Version="2.40" Area="ocean">
+  <Name>Matilda's Overnight Inn</Name>
+  <ShortDescription>You are inside a friendly little inn where most people are lauging.</ShortDescription>
+  <LongDescription>This place is pretty active.  A number of people you've seen in town
+are in here.  They seem to all be friends of the mayor, although you
+don't see him here.  You do see a number of waitresses wearing short
+skirts and not much else.  One comes up to you and asks you what you
+would like to drink.  Please keep your eyes in your face.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>20</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">4</Mob>
+      <Mob Area="ocean" Num="1">4</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">10</Mob>
+      <Mob Area="ocean" Num="4">62</Mob>
+      <Mob Area="ocean" Num="5">62</Mob>
+      <Mob Area="ocean" Num="6">62</Mob>
+      <Mob Area="ocean" Num="7">65</Mob>
+      <Mob Area="ocean" Num="8">65</Mob>
+      <Mob Area="ocean" Num="9">1</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>1200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">64</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>1200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">64</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">61</Misc>
+    </LastTime>
+    <LastTime Num="3">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">61</Misc>
+    </LastTime>
+    <LastTime Num="4">
+      <Interval>600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">61</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">53</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">55</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

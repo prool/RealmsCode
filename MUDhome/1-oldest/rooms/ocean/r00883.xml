@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Room Num="883" Version="2.47e" Area="ocean">
+  <Name>Road Fork</Name>
+  <ShortDescription>You are at a fork in the road leading through the grape orchard.</ShortDescription>
+  <LongDescription>The wider road heads to the northeast, while the smaller and less used
+one continues to the north.  You can see several farm buildings a short
+distance to the north, and several farm workers appear to be trudging
+in that direction.</LongDescription>
+  <Wander></Wander>
+  <Track><Direction>northeast</Direction><Size>5</Size><Num>1</Num></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="south"><Keys></Keys><Target><Room Area="ocean">885</Room></Target><Effects></Effects></Exit><Exit Name="north"><Keys></Keys><Target><Room Area="ocean">884</Room></Target><Effects></Effects></Exit><Exit Name="northeast"><Keys></Keys><Target><Room Area="ocean">882</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

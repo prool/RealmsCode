@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="5518" Version="2.40" Area="ocean">
+  <Name>Cellar of Tragirsha</Name>
+  <ShortDescription>You are in a damp and dark cellar, with an odd smell in the musty air.</ShortDescription>
+  <LongDescription>Tragirsha has lived here alone for almost 180 years, suffering from the spell
+of the demon.  She waits for someone to break the curse cast on her, and
+has vowed to reward anyone who does.  During the years she has lived here
+she has learned much because of her power to listen to the thoughts of 
+people who pass by on the road outside.</LongDescription>
+  
+  <Established>794278133</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">783</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5517</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

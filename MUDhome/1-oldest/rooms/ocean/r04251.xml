@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Room Num="4251" Version="2.40" Area="ocean">
+  <Name>Apstone Tunnel</Name>
+  <ShortDescription>You are in Apstone Tunnel, on the ground floor of Castle Rutger.</ShortDescription>
+  <LongDescription>Apstone, one of the oldest wizards in the entire land, has chosen the side
+of Prince Rutger.  Apstone is almost alone in his decision, as most of
+the mages and wizards who live in the kingdom have decided to stay neutral
+in the struggle between the twin sons of King Lyanden.  The door you see
+leads to his apartments.</LongDescription>
+  
+  <Established>792370133</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">777</Mob>
+      <Mob Area="ocean" Num="1">777</Mob>
+      <Mob Area="ocean" Num="2">777</Mob>
+      <Mob Area="ocean" Num="3">777</Mob>
+      <Mob Area="ocean" Num="4">777</Mob>
+      <Mob Area="ocean" Num="5">777</Mob>
+      <Mob Area="ocean" Num="6">777</Mob>
+      <Mob Area="ocean" Num="7">777</Mob>
+      <Mob Area="ocean" Num="8">777</Mob>
+      <Mob Area="ocean" Num="9">777</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">777</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4219</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">4248</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">4237</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

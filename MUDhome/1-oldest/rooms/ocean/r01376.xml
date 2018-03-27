@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="1376" Version="2.40" Area="ocean">
+  <Name>Secret Hallway</Name>
+  <ShortDescription>You are in a dark, secret hallway that no one seems to know about.</ShortDescription>
+  <LongDescription>The hallway has a musty smell, but it's a relief compared to what really
+smells behind the door.  The hallway continues to the south, getting
+darker the further south you go.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">151</Mob>
+      <Mob Area="ocean" Num="1">151</Mob>
+      <Mob Area="ocean" Num="2">151</Mob>
+      <Mob Area="ocean" Num="3">151</Mob>
+      <Mob Area="ocean" Num="4">151</Mob>
+      <Mob Area="ocean" Num="5">151</Mob>
+      <Mob Area="ocean" Num="6">151</Mob>
+      <Mob Area="ocean" Num="7">151</Mob>
+      <Mob Area="ocean" Num="8">151</Mob>
+      <Mob Area="ocean" Num="9">151</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1394</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1377</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

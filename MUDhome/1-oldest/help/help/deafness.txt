@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  deafness spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 30
+School:  Transmutation
+Domain:  Trickery
+
+The deadfness spell will cause the target to lose all hearing. They will
+still be aware of people speaking in the room but will hear nothing. A
+sleeping deaf person cannot be awoken by loud noises.
+
+Syntax:
+cast deafness <target>
+

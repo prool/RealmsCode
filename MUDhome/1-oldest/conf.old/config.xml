@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Config>
+  <General>
+    <Port>3333</Port>
+    <DmPass>default_dm_pass</DmPass>
+    <CustomColors>xMYMggYGCycmxgmwg##</CustomColors>
+    <AprilFools>No</AprilFools>
+    <AutoShutdown>No</AutoShutdown>
+    <CharCreationDisabled>No</CharCreationDisabled>
+    <CheckDouble>Yes</CheckDouble>
+    <GetHostByName>Yes</GetHostByName>
+    <LessExpLoss>Yes</LessExpLoss>
+    <LogDeath>Yes</LogDeath>
+    <PkillInCombatDisabled>Yes</PkillInCombatDisabled>
+    <RecordAll>No</RecordAll>
+    <LogSuicide>Yes</LogSuicide>
+    <SaveOnDrop>Yes</SaveOnDrop>
+    <MaxGuild>No</MaxGuild>
+  </General>
+  <Lottery>
+    <CurrentCycle>1</CurrentCycle>
+    <CurrentJackpot>500000</CurrentJackpot>
+    <Enabled>Yes</Enabled>
+    <TicketPrice>500</TicketPrice>
+    <LotteryRunTime>1259553600</LotteryRunTime>
+    <WinningNumbers><LotteryNum Num="0">1</LotteryNum><LotteryNum Num="1">4</LotteryNum><LotteryNum Num="2">5</LotteryNum><LotteryNum Num="3">7</LotteryNum><LotteryNum Num="4">24</LotteryNum><LotteryNum Num="5">23</LotteryNum></WinningNumbers>
+    <Tickets></Tickets>
+  </Lottery>
+</Config>

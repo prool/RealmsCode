@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="504" Version="2.40a" Area="ocean">
+  <Name>The Cetacean Bridge</Name>
+  <ShortDescription>You are on the Cetacean Bridge, crossing the Lithium Inlet.</ShortDescription>
+  <LongDescription>The Cetacean Bridge easily separates the northern section of Oceancrest
+from the southern section.  Nylandian Bay and the Lithium Inlet more or
+less physically separate the two sections of town, but there is not much
+of a cultural difference between the two areas of land.  The Cetacean 
+Bridge was so named because the workers building the bridge were constantly
+amused by the playful dolphins in the Lithium Inlet, enjoying the warmer
+waters.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">503</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">505</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="4059" Version="2.40" Area="ocean">
+  <Name>Hobar's Second Hand Store</Name>
+  <LongDescription>You are in the shop of Hobar, eldest son of Granovetter the dwarf.
+All about you are pieces of farm equipment, armor, old furniture, strange
+pieces of scientific apparatus, and just plain junk.  One wall seems to be
+ocvered with an assortment of weapons.  Looks like Hobar will buy just about
+anything, but does he ever sell any of this stuff?</LongDescription>
+  
+  <Flags>
+    <Bit Num="1"/>
+    <Bit Num="49"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4058</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

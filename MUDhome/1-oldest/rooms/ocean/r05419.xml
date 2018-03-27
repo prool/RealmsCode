@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5419" Version="2.40" Area="ocean">
+  <Name>Ashton River Road</Name>
+  <ShortDescription>The mighty Ashton River is on the north side of the road.</ShortDescription>
+  <LongDescription>This is an excellent road following the Ashton River.  West is a fish camp.
+The road meanders to the northeast and southwest.  The foothills are much
+higher here, and you can look westward over the Enchanted Forest.  To the
+east the road continues to climb, and now the mountains are close by.  Looks
+like the road narrows.  The elven city of Hafnia is somewhere up there.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5410</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5418</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5420</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="463" Area="ocean" Version="2.40">
+  <Name>mummified head</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>5</ShotsMax>
+  <ShotsCur>5</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">400</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">head</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="13"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+  </Flags>
+  <Description>The head's eyes are open and there is a smile on its face.</Description>
+  <UseOutput>Where's the rest of me?</UseOutput>
+  <Weight>4</Weight>
+  <Type>9</Type>
+  <WearFlag>17</WearFlag>
+  <MagicPower>2</MagicPower>
+  <InBag/>
+</Object>

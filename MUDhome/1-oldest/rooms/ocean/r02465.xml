@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2465" Version="2.40" Area="ocean">
+  <Name>Ranger Training Location</Name>
+  <ShortDescription>You have reached the training location for Rangers levels one and two.</ShortDescription>
+  <LongDescription>If you are a level one or level two searcher, you may train here to
+advance to the next level.  After you finish your training here, you 
+will need to seek out the next training location to advance to the 
+level of scout.  Do this by practicing your tracking skills out of 
+the tree you came in from.</LongDescription>
+  <LowLevel>1</LowLevel>
+  <HighLevel>2</HighLevel>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="4"/>
+    <Bit Num="5"/>
+    <Bit Num="6"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2464</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

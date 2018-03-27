@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Room Num="6901" Version="2.40" Area="ocean">
+  <Name>Dungeonmaster's Storage Room</Name>
+  <ShortDescription>This is a storage room for DM's so they may buy things without making them.</ShortDescription>
+  <LongDescription>Do not take these items.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">6900</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

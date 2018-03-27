@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="459" Version="2.40" Area="ocean">
+  <Name>Hofton Avenue</Name>
+  <ShortDescription>You are walking along Hofton Avenue, north of the Oceancrest Library.</ShortDescription>
+  <LongDescription>The impressive library is nothing compared to the University Library 
+and the Ministry of Knowledge, but it does contain a number of mystical
+tomes and dusty ledgers of boring city statistics.   Civilization only 
+remembers what it wants to remember.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">458</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">433</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

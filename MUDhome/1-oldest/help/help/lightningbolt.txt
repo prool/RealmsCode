@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |  Help on:  lightning-bolt spell   | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 7
+School:  Evocation
+Domain:  Destruction
+
+This spell causes a forked arc of electricity to spring from the caster's hands,
+slamming into the target and electrically burning them. Survivors often
+experience nervous-system problems resulting from being the target of this
+spell.
+
+Syntax:
+cast lightning-bolt <target>

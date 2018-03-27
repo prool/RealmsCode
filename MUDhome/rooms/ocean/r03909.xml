@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3909" Version="2.40" Area="ocean">
+  <Name>Thieve's Guild</Name>
+  <ShortDescription>You are in the meeting room of some very high level thieves.</ShortDescription>
+  <LongDescription>Only seasoned adventurers are allowed in here, and training classes are
+conducted for mid-level thieves in the side rooms.  At the moment, all
+master training thieves are either serving time or out on a job, so if
+you want to advance in level without a fight, this is your lucky day.
+Just go to the training room and pickup your advancement.</LongDescription>
+  
+  <Established>770713318</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="training door">
+      <Keys/>
+      <Room Area="ocean">3910</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+      </Flags>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3855</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

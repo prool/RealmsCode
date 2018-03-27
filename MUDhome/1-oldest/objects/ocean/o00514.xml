@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Object Num="514" Area="ocean" Version="2.40">
+  <Name>steel-bladed flail</Name>
+  <Adjustment>3</Adjustment>
+  <ShotsMax>85</ShotsMax>
+  <ShotsCur>85</ShotsCur>
+  <Armor>17</Armor>
+  <Dice>
+    <Number>5</Number>
+    <Sides>2</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">16000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">bladed</Key>
+    <Key Num="1">flail</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="10"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Description>An evil looking thrashing device with blades of black steel.</Description>
+  <Weight>8</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

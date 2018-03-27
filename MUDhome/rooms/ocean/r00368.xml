@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="368" Version="2.40" Area="ocean">
+  <Name>Jungle Road</Name>
+  <ShortDescription>You are in a clearing between the village and a thick tropical jungle.</ShortDescription>
+  <LongDescription>The beach is not far from here, and a road is cut through the jungle which
+seems to go in the direction of the sound of the surf.  Tall palms and
+heavy banana trees are overhead, and the ground is covered with soft ferns
+and creeping vines.  The back doors of several buildings open onto this
+cleared area, and garbage has been thrown into heaps nearby.</LongDescription>
+  
+  <Established>761255238</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="green door">
+      <Keys/>
+      <Room Area="ocean">366</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="pink door">
+      <Keys/>
+      <Room Area="ocean">367</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">369</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3860</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Room Num="5484" Version="2.40" Area="ocean">
+  <Name>Trabin's Store Room</Name>
+  <ShortDescription>You are in the storage room owned by Trabin the gnome.</ShortDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5483</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

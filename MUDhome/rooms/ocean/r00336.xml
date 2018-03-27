@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="336" Version="2.40" Area="ocean">
+  <Name>Uland Way</Name>
+  <ShortDescription>You are west of the main part of the village on Uland Way.</ShortDescription>
+  <LongDescription>The way is muddy and not very wide, making it difficult to travel along
+here.  A couple of shops are open, but there is also one that has a for
+sale sign on the door.  As you look closer you see in small letters that
+the previous owner died of the red death, and that the widow is willing 
+to sell cheap.  On the south side is Herman's Blacksmith Shop.</LongDescription>
+  
+  <Established>762915173</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">335</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">337</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3891</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

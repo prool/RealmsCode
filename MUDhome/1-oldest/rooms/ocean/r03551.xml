@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Room Num="3551" Version="2.40" Area="ocean">
+  <Name>Merriam the Bold's Tomb</Name>
+  
+  <Established>766955794</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3429</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

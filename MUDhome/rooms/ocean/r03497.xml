@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Room Num="3497" Version="2.40" Area="ocean">
+  <Name>Arioch &amp; Dragonmaster weird but cool hang out cafe</Name>
+  
+  <Established>774147568</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>fun</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="fun">
+      <Keys/>
+      <Room Area="ocean">50</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

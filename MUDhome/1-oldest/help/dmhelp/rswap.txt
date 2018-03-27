@@ -1,0 +1,70 @@
+Help on:
+	*RSWAP (room swap)
+
+Roomswap will swap the location of two rooms (ie, misc.2013 and test.55),
+updating everything related to these rooms (exits, offline players, etc).
+
+^WNotes:^x
+You will periodically receive messages informing you of what the background
+process has found that needs updating. Messages preceeded by
+a magenta ^MRS^x denote messages the background process has sent, messages
+preceeded by a yellow ^YRS^x denote messages the current mud has sent.
+: ^MRS: ^eReceiving test.2.^x
+^MRS: ^e Receiving test.4.^x
+^MRS: ^e Receiving test.5.^x
+: ^YRS: ^eReceiving Dominus.^x
+Player saved.
+:
+Anything that is saved by the current mud will appear as a message in yellow.
+
+^WLocked Exits:^x
+If you are moving areas (ie, from "misc" to "druid"), room swap will
+require confirmation to continue if there is a locked exit in the room.
+Keys will have to be updated because they are area-specific.
+
+^WQueue:^x
+Only one room-swap process can be running at a time. If you attempt to start
+one while one is already running, the request will be put in a queue. You
+don't need to be logged on for this to work - you may enter rooms into the
+queue and log off. Any staff member can use these commands; builders will be
+limited to the rooms they have the authorization to edit.
+
+^WCommands:^x
+^e*rswap [area]^x      - move to next open room in [area].
+  This will search the area for the next available room, then will continue
+  swapping the current room with that room. This is good for moving large
+  sections of rooms into another area.
+
+  ^WExample:^x
+  : *rswap misc
+
+^e*rswap [area.id]^x   - move to specific room (will swap if room exists).
+^e*rswap [id]^x        - move to specific room (will swap if room exists).
+  This will move the current room to the specified room. If both rooms exist,
+  they will trade places.
+
+  ^WExample:^x
+  : *rswap misc.123
+
+^e*rswap [-range source target loop]^x
+^e*rswap [-range source.low:high target]^x
+  This will swap a range of rooms, starting from source [area.id],
+  moving all rooms to target [area.id or area]. If an id is not specified,
+  the script will search for the next empty room in that area. The script
+  will loop through "loop" number of rooms or from low to high before exitting.
+
+  ^WExample:^x - these two commands will have the same result
+  : *rswap -range misc.2000 hp 200
+  : *rswap -range misc.2000:2200 hp
+
+^e*rswap [-info]^x     - print roomswap info.
+  This info will list all data in memory that must be checked, what jobs are
+  in the queue, and what processes are being watched.
+
+^e*rswap [-cancel #]^x - cancel current roomswap job, # is 1 by default.
+  This will cancel the current job that is running. The next item in the queue
+  will start. If provided with a number, that job will be cancelled.
+
+^e*rswap [-abort]^x    - abort all roomswap jobs (empty queue).
+  This will cancel the current job and remove all items from the queue.
+

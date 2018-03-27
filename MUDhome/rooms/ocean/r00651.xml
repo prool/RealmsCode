@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="651" Version="2.40a" Area="ocean">
+  <Name>Amberton Lane</Name>
+  <ShortDescription>You are on Amberton Lane, between the Hospital and the Knightly Order.</ShortDescription>
+  <LongDescription>The Knightly Order of the White Cross provides superior training for 
+paladins of high rank who have already been admitted to the ranks of
+Lyanden Castle's knights.  This powerful fraternity is the home to all
+holy knights in the land.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">650</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">652</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

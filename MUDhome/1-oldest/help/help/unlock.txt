@@ -1,0 +1,11 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  unlock          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+The unlock command allows you to unlock a locked door if you have the
+appropriate key.
+
+Example:
+: unlock door key
+Click.
+:

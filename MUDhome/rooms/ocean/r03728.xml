@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="3728" Version="2.40" Area="ocean">
+  <Name>Rutger Royal Suite</Name>
+  <ShortDescription>You are in a royal suite reserved for Prince Rutger and his family.</ShortDescription>
+  <LongDescription>The new owner of the Dragon Tooth Inn reserves rooms for both Prince Rutger
+and Prince Ragnar, but they have never been known to stay here at the same
+time.  When King Lyanden died, both Rutger and his brother Ragnar made a
+claim to the throne, but no one could conclusively say to which of them it
+truly belonged.  A war has split the kingdom since that time.  Princess
+Runella, a member of the council of mages, holds the Sceptre of Power in
+escrow until one brother or the other is named king.</LongDescription>
+  
+  <Established>764461304</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3726</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

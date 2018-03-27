@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<Room Num="3378" Version="2.40" Area="ocean">
+  <Name>Fighter's Hall</Name>
+  <ShortDescription>You have entered the inner sanctum of the Great Fighter's Hall.</ShortDescription>
+  <LongDescription>The great door swings shuts behind you and you feel as if you are disturbing 
+something sacred, as you enter the long, silent room.  If you look carefully
+you see ghostly dark figures wandering aimlessly about the hall, nothing
+but their eyes giving off light.  At the end of the long hall, a statue 
+has been erected in honor of the brave warriors interred here.
+</LongDescription>
+  
+  <Established>759882258</Established>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">538</Mob>
+      <Mob Area="ocean" Num="1">538</Mob>
+      <Mob Area="ocean" Num="2">538</Mob>
+      <Mob Area="ocean" Num="3">538</Mob>
+      <Mob Area="ocean" Num="4">538</Mob>
+      <Mob Area="ocean" Num="5">539</Mob>
+      <Mob Area="ocean" Num="6">539</Mob>
+      <Mob Area="ocean" Num="7">539</Mob>
+      <Mob Area="ocean" Num="8">539</Mob>
+      <Mob Area="ocean" Num="9">539</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">533</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3377</Room>
+      <Flags>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+    <Exit Name="staircase">
+      <Keys/>
+      <Room Area="ocean">3379</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

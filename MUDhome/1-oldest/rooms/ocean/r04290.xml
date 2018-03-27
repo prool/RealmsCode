@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="4290" Version="2.40a" Area="ocean">
+  <Name>Rutger's Hallway</Name>
+  <ShortDescription>You are in a short hallway between stairways, on the top floor of the castle.</ShortDescription>
+  <LongDescription>Several doors along here open to plush rooms which are the main residence for
+Prince Rutger's family.  To the west is a secretary's desk at the head of
+the noble's stairway, and to the east you see a guard station and a metal
+door.  Sweet smelling candles light the hallway along here.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">4277</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4287</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

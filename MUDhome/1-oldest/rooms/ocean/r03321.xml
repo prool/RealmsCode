@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3321" Version="2.40" Area="ocean">
+  <Name>Necropolis Path</Name>
+  <ShortDescription>You are a path through the necropolis, with a low building to the south.</ShortDescription>
+  <LongDescription>A chill mist seems to follow you as you move along the path, and is perhaps
+getting a little thicker to the north.  The mist seems to envelope you,
+making you shiver as you search through this place of the dead.  A voice
+in the mist seems to whisper to you, "don't stray from the path, or you
+might become a permanent resident with us."</LongDescription>
+  
+  <Established>759796230</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3319</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3323</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

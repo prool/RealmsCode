@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3876" Version="2.40" Area="ocean">
+  <Name>Jungle Grove</Name>
+  <ShortDescription>You are in a grove of giant trees, and vines hang from them all.</ShortDescription>
+  <LongDescription>High overhead you occasionally see shadowy forms watching you with glowing
+red eyes.  Out of the corner of your eye there is movement, but when you
+turn your head, its gone.  At the Iilandi University in the city of Ocean-
+crest there is a research group that says there is a nest of Ettercaps
+living in the jungle of Uland Island.  Ettercaps are ugly bipeds that get
+along well with spiders.  Around two meters tall, they have spindly legs
+and large pot-bellies.  Their arms reach nearly to their ankles.</LongDescription>
+  
+  <Established>768813111</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3862</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3877</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

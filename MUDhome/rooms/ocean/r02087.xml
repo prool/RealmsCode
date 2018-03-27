@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="2087" Version="2.40" Area="ocean">
+  <Name>Forest Trail</Name>
+  <ShortDescription>You are on a forest trail with a red haze drifting overhead.  The grass     
+is greener than the Enchanted Forest and the trees are florishing.</ShortDescription>
+  <LongDescription>A voice speaks out to you:  "You have chosen the path of danger, as would  
+any worthy adventurer.  Careful, as you will find the Adamantine Dragon's
+cave to the west.  A smart adventurer does not fight when he or she
+does not have to."  The voice ends on a single musical note.   The trail
+seems to travel in a full circle.  You can walk to the northeast and
+southeast from here.  The dense forest and a mysterious force shield
+prevent you from leaving the path's circle.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">2089</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">2088</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

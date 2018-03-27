@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="4219" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway/Apstone Tunnel Intersection</Name>
+  <ShortDescription>You are at the intersection of Apstone Tunnel and the circular hallway.</ShortDescription>
+  <LongDescription>Apstone Tunnel leads in a northwest direction towards the center courtyard.
+The tunnel carries the name of a very talented and very old wizard who has
+chosen to support the claim of Prince Rutger against his brother, Prince
+Ragnar.  Apstone believes that it is Rutger who has a lawful claim to the
+crown at Lyanden.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4218</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4220</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="tunnel">
+      <Keys/>
+      <Room Area="ocean">4251</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

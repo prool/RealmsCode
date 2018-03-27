@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="894" Version="2.40" Area="ocean">
+  <Name>Secret Quick Car Transporter</Name>
+  <ShortDescription>You are at the Quick Car terminal for the City of Kista.</ShortDescription>
+  <LongDescription>The quick cars were developed by the elves to let them move around
+the mountains quickly and safely without having to deal with all the
+threats on the surface.  With the help of dwarven miners and elven
+ingenuity, the quick cars zip through the tunnels at speeds close
+to 60 kilometers per hour.  Hold on tight.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">1299</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2517</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5321" Version="2.40" Area="ocean">
+  <Name>Lyanden Road</Name>
+  <ShortDescription>Rolling hills are to the north and west, while desert sand is south.</ShortDescription>
+  <LongDescription>the hills rise steadily towards the stark mountains in the east.  There is
+another mountain range farther to the east and south.  Looks like that must
+be the direction of the Vallenda Pass.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">5320</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5322</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

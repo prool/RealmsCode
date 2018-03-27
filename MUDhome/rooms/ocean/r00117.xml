@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="117" Version="2.40" Area="ocean">
+  <Name>Main Street/Nathan Drive</Name>
+  <ShortDescription>This is the intersection of Main Street and Nathan Drive.</ShortDescription>
+  <LongDescription>Main Street has most of the commerical and entertainment places located on
+it.  It continues to the north, running to the village wall on the other
+side of Town Square.  A lot of the entertainment in Browhaven tends to be
+rather bloody, since the culture is not up to that of Kista or Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">10</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="5">6</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+      <Mob Area="ocean" Num="9">25</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">107</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">116</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

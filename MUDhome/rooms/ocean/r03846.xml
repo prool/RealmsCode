@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3846" Version="2.40a" Area="ocean">
+  <Name>North Highway</Name>
+  <ShortDescription>You are on a north-south bound highway maintained by the king.</ShortDescription>
+  <LongDescription>A large country inn and a few small shops make up a small village in a
+grove of trees to the east.  From this elevation you can see a river in the
+distance even farther to the east.  Wheat fields are on the west side of the
+highway, and an old house and barn are over there.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3845</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">3847</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">4052</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

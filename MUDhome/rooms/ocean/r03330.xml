@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3330" Version="2.40" Area="ocean">
+  <Name>Walk of Lords</Name>
+  <ShortDescription>The Walk of Lords is a monument to lords and ladies of Oceancrest's past.</ShortDescription>
+  <LongDescription>The path is surrounded by monuments to nobility and people with lots of
+money.  Except for the Lyanden family tomb which is to the the south, many
+of the royal family's relatives are buried on the Walk of Lords.</LongDescription>
+  
+  <Established>759804465</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3329</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3331</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="515" Area="ocean" Version="2.40">
+  <Name>rainbow necklace</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>18</ShotsMax>
+  <ShotsCur>18</ShotsCur>
+  <Armor>30</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">1800</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">necklace</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+  </Flags>
+  <Description>The necklace glows various colors of the rainbow.</Description>
+  <UseOutput>Your own personal rainbow about your neck.</UseOutput>
+  <Weight>2</Weight>
+  <Type>6</Type>
+  <WearFlag>4</WearFlag>
+  <InBag/>
+</Object>

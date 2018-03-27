@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3842" Version="2.40a" Area="ocean">
+  <Name>North Highway</Name>
+  <ShortDescription>You are traveling on the main highway north of Oceancrest.</ShortDescription>
+  <LongDescription>Of all the roads converging on Oceancrest, this may be the safest.  That's  
+not to say the highway has no danger, but fewer crimes are reported along
+here.  There is a guard patrol, but its only during the day.  The guards
+tend to think that anyone dumb enough to be out here at night deserves what
+they get.  In the distance to the north you see snow covered mountains.</LongDescription>
+  
+  
+  
+  <Established>775206090</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3841</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3844</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Room Num="3549" Version="2.40" Area="ocean">
+  <Name>Custodian's Closet</Name>
+  <ShortDescription>The room is cluttered with all sorts of tools and maintenence supplies.</ShortDescription>
+  <LongDescription>You wonder how the custodian of this room could possibly find anything,
+it's very disorderly.  There are various tools and keys lying all over
+the place.  But be careful taking things that don't belong to you, it
+could get you into all kinds of trouble.</LongDescription>
+  <Trap>7</Trap>
+  <TrapExit Area="ocean">3550</TrapExit>
+  
+  <Established>769896342</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>84000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">666</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>84000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">667</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>84000</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">668</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3427</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="secret door">
+      <Keys/>
+      <Room Area="ocean">3550</Room>
+      <Key>76</Key>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="2"/>
+        <Bit Num="3"/>
+        <Bit Num="4"/>
+        <Bit Num="5"/>
+        <Bit Num="6"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

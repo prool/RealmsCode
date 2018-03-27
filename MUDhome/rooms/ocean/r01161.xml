@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="1161" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, just north of the Oceancrest Central Arena.</ShortDescription>
+  <LongDescription>To the east, Rosecrest Street heads into Khelleva Circle, a sort of plaza
+intersection with Eidenhoft Boulevard.  The Oceancrest Central Arena is
+located to the south.  Loud cheers come from that direction.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1162</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1158</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  shatterstone spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 10
+School:  Evocation
+Domain:  Destruction
+
+This is an important spell in the earth realm. It causes numerous shards of
+sharp rock and stone to pierce the target in various places, making armor an
+ineffective defense. The battered and bruised target will often experience a
+fair amount of damage.
+
+Syntax:
+cast shatterstone <target>

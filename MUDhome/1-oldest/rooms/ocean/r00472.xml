@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="472" Version="2.40" Area="ocean">
+  <Name>Darmanian Way</Name>
+  <ShortDescription>You are traveling along Darmanian Way, east of the great City Walls.</ShortDescription>
+  <LongDescription>You can see the intersection with Adlermann Way to the west and the large
+City Walls just to the west of the road.  On the north side of the road 
+are the Oceancrest North City Guard Barracks, housing more than one 
+thousand highly trained guards.  On the south side of the street is the
+Lithium Lanterns shop, selling all varieties of light sources.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">471</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">444</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

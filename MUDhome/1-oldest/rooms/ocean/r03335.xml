@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="3335" Version="2.40" Area="ocean">
+  <Name>Necropolis Path</Name>
+  <ShortDescription>You are on the south leg of the necropolis path, which leads east and west.</ShortDescription>
+  <LongDescription>Coming from the north you hear the awful sounds of the vacant plot you may 
+have passed on your way into the necropolis.  Over to the west there is  
+the entrance to the Sage's Rest, a monument surrounded in deep mystery,
+confusion, and disbelief.</LongDescription>
+  
+  <Established>759804412</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3331</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3336</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

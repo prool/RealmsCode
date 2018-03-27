@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="2563" Version="2.40" Area="ocean">
+  <Name>Emergency Room</Name>
+  <ShortDescription>You are in the emergency room of a huge medical facility.</ShortDescription>
+  <LongDescription>The hospital is actually run by an order of paladins, the Order of the
+White Rose.  In the Land of Mordor there is an everlasting cycle of life
+and death, one followed by the other in an eternal search for adventure
+and treasure.  The paladins would like to learn the meaning of it all.</LongDescription>
+  
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2505</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

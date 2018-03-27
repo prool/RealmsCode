@@ -1,0 +1,29 @@
+   _______________________________________
+  /\                                      \
+ /  | Highest Player Based on Race         |
+ \  |                                      |
+  \_|         Dwarf :                      |
+    |           Elf :                      |
+    |      Half-Elf :                      |
+    |      Halfling :                      |
+    |         Human :                      |
+    |           Orc :                      |
+    |    Half-Giant :                      |
+    |         Gnome :                      |
+    |         Troll :                      |
+    |      Half-Orc :                      |
+    |          Ogre :                      |
+    |      Dark-Elf :                      |
+    |        Goblin :                      |
+    |      Minotaur :                      |
+    |        Seraph :                      |
+    |        Kobold :                      |
+    |       Cambion :                      |
+    |     Barbarian :                      |
+    |       Kataran :                      |
+    |      Tiefling :                      |
+    |                                      |
+    |    __________________________________|_
+    \   /                                   /
+     \_/___________________________________/
+

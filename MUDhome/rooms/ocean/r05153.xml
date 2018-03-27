@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="5153" Version="2.40" Area="ocean">
+  <Name>West Wall</Name>
+  <ShortDescription>You are at the western end of the ancient castle.</ShortDescription>
+  <LongDescription>The interior wall is grimed and caked with soot.  Large, charred beams
+hang from the ceiling, and the wall has bulged in places, as though pushed
+out by a terrible force.  The hallway continues to the north and south,
+or you can go east toward the center courtyard.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5151</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5154</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5155</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

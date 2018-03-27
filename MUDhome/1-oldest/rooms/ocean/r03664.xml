@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="3664" Version="2.40" Area="ocean">
+  <Name>Old Tunnel</Name>
+  <ShortDescription>You are in a part of the network of tunnels deep beneath the castle.</ShortDescription>
+  <LongDescription>Many of the tunnels down here look like they are regularly traveled and
+maintained, but not this section.  Cobwebs are thick and small animals
+scurry out of your way, although once or twice a couple of them held their
+ground longer than usual before slowly retreating into dark recesses.
+Beneath your feet is an iron grate and you can hear water trickling down
+below.  There is a wretched smell coming from the south.</LongDescription>
+  
+  <Established>765133747</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">3663</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3665</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="5405" Version="2.40" Area="ocean">
+  <Name>Redwood Tree/Forest Road</Name>
+  <ShortDescription>You are on the north side of a giant redwood tree.</ShortDescription>
+  <LongDescription>The huge redwood tree grows directly in the middle of the road.
+The road splits to go around the biggest tree in this part of the woods.
+North of here there is a footbridge over a small forest stream, and
+a path almost as wide as this road.  There is a fence and a "no hunting"
+sign along the west side of the road.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">5403</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">5404</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5406</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="4" Version="2.40a" Area="ocean">
+  <Name>Black Market Alley</Name>
+  <ShortDescription>This is a short alley between Wall Road West and Brownhaven Way.</ShortDescription>
+  <LongDescription>Wall Road West is very close to here, and a hodge-podge of shops line
+the alley on the north side.  There is a high fence on the south side.
+It looks like you can buy just about anything you ever imagined in these
+run-down little places.  A lot of shopkeepers wave merchandise at you.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">20</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">6</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

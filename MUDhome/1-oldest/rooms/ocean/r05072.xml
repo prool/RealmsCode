@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="5072" Version="2.40" Area="ocean">
+  <Name>Skies Over Kista Forest</Name>
+  <ShortDescription>Below are tall pines and oak, the great forest of Kista.  80.n0.e23.s8.w0</ShortDescription>
+  <LongDescription>The sky to the west is heavy clouds, and probably would hide your position
+indicator if you flew in there.  The forest appears to be unbroken for vast
+distances, except to the south, where a small, black castle sits alone in 
+the forest, surrounded by a moat.</LongDescription>
+  
+  <Established>772843280</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5073</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5044</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5074</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">5071</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

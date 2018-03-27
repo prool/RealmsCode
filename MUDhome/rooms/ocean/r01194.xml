@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1194" Version="2.40" Area="ocean">
+  <Name>Amberton Lane</Name>
+  <ShortDescription>Amberton Lane continues to the north and south.</ShortDescription>
+  <LongDescription>Amberton Lane intersects Kafkan Way to the south, where the street
+abrubtly ends.  You can see the large palace on top of an almost
+artificial looking mountain.  The eerie palace overlooks the Necropolis.
+On the east side of the road, there is a large shopping complex which
+appears to specialize in various types of weaponry.  There are no
+entrances on this side of the road, but you can probably get into
+the center from Kafkan Way.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1193</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1195</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

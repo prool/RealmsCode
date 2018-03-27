@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1602" Version="2.41a" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along Overland Drive, south of the Allisk Manor.</ShortDescription>
+  <LongDescription>Natasha de Allisk came to Oceancrest many centuries ago, and was at the
+time rumored to be a vampire.  This was soon proved to be true as many
+children and women mysteriously disappeared and were found on the Allisk
+Estate.  Unfortunately, Natasha had "died" and no one could do anything
+about it.  It was later figured out that she was in fact a vampire and
+was merely hibernating once her cover was blown.  No one has since tried
+to enter the Manor and Natasha has not been seen for ages.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1601</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1603</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

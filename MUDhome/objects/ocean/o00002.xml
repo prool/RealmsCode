@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Object Num="2" Area="ocean" Version="2.41b">
+  <Name>godentag</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>40</ShotsMax>
+  <ShotsCur>40</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>5</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  
+  <Weight>5</Weight>
+  <Type>5</Type>
+  <SubType>club</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

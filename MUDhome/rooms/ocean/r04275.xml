@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="4275" Version="2.40a" Area="ocean">
+  <Name>Stairway of the Nobles</Name>
+  <ShortDescription>You are on the second level of the Stairway of the Nobles in Castle Rutger.</ShortDescription>
+  <LongDescription>A dreary and narrow hallway leads to several little offices along here.
+These are the administrative offices of the castle, where clerks maintain
+files and records.  Nothing ever gets lost here, and the archives are filled
+to overflowing, but the clerks know where every piece of paper is located.</LongDescription>
+  
+  
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">4269</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">4276</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

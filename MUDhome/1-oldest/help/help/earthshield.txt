@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |   Help on:  earth-shield spell    | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 12
+School:  Abjuration
+Domain:  Protection
+
+This spell protects its target from harsh environments by surrounding it with a
+sphere of protective elements. The resulting magic is strong enough to protect
+the target from the elements. Note that the target is only protected, not made
+immune, and risky adventurers should be aware of such.
+
+Syntax:
+cast earth-shield <target>

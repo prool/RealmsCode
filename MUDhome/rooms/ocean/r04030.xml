@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="4030" Version="2.41a" Area="ocean">
+  <Name>Crystalline City</Name>
+  <ShortDescription>The advanced crystalline civilation lies before you.</ShortDescription>
+  <LongDescription>you see an entire underground world spread out before you.  Hundreds of
+crystalline buildings can be seen, each shimmering in a different color
+of the the spectrum.  Not only the buildings, but all of the inhabitants -
+every man, woman and child - seems to be composed entirely of different
+types of crystals.  Each seems to glow in a unique hue.</LongDescription>
+  
+  
+  
+  <Established>771962333</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>tunnel</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="tunnel">
+      <Keys/>
+      <Room Area="ocean">4029</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4031</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4037</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="3600" Version="2.41a" Area="ocean">
+  <Name>Outer Drawbridge for Castle Ragnar</Name>
+  <ShortDescription>You stand at the outer edge of a great drawbridge for Castle Ragnar.</ShortDescription>
+  <LongDescription>The great bridge is not lowered during the night to keep out trolls. 
+A massive gate is on the other side, and guards can be seen on the parapet
+directly above the it.  Several guards also stand near the entrance.  The
+castle seems to soar into the clouds, and its upper turrets are lost to
+sight.  On either side of the bridge are the quiet waters of the moat, 
+broken by bubbles rising to the surface at several places.</LongDescription>
+  
+  
+  
+  <Established>762644304</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>bridge</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="bridge">
+      <Keys/>
+      <Room Area="ocean">3601</Room>
+      <Flags>
+        <Bit Num="17"/>
+      </Flags>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">5190</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

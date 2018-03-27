@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Room Num="2475" Version="2.40" Area="ocean">
+  <Name>Birch Tree</Name>
+  <ShortDescription>You are in a wispy birch tree in the middle of the Riverdell Park.</ShortDescription>
+  <LongDescription>Tracking is essential to any good ranger, and your tracking skills have
+improved greatly (or you're very lucky).  This is the training location
+for rangers of the eleventh level.  If you are ready to train, enter the
+tree branch.  If you wish to leave the park, go out.  If you wish to 
+continue in the park, you must track your way out.</LongDescription>
+  
+  <Established>727255426</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="18"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="tree branch">
+      <Keys/>
+      <Room Area="ocean">2476</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">1935</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2460</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2444</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2453</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2450</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

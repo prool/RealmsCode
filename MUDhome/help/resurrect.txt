@@ -1,0 +1,29 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  resurrect spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: all
+
+This spell allows a cleric of the goddess Ceris to resurrect a player from the
+dead, nearly erasing their last non-pkill death, including all losses associated
+with it. The cleric must be substantially high level in order to cast this
+spell. The goddess grants it automatically upon leveling to nineteen. The spell
+is detrimental to the caster; they will fall unconscious for 1 minute and be
+unable to tick mana for 20 minutes online. The target's death sickness duration
+will be reduced to one-third.
+
+This spell must be cast upon a player while they are STILL IN LIMBO. If
+they leave limbo, they cannot be resurrected. Resurrection will not work
+on vampires or liches, and it has been known to destroy them irrevocably
+if it is cast upon them.
+
+NOTE: You can only cast resurrect OR be resurrected, once every real 24 hours
+      time. Note also that only 80% of lost experience is restored.
+
+Example:
+### Sadly, Bob was killed by a wino.
+: c resurrect bob
+You cast a resurrection spell on Bob.
+### Min just resurrected Bob from the dead!
+You collapse from exhaustion.
+:
+

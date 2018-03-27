@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="2574" Version="2.40" Area="ocean">
+  <Name>Reflecting Pool Bridge</Name>
+  <ShortDescription>You are on a high-arched bridge, directly above a reflecting pool.</ShortDescription>
+  <LongDescription>To the north you can see the wall around the Hanging Gardens, and to
+the south you see a very restful spot with comfortable benches.  Below
+you is a quiet pool, almost like a mirror in appearance.  A face looks
+back at you, but it's not your face!</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2582</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2591</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

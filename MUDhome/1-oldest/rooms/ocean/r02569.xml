@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="2569" Version="2.40" Area="ocean">
+  <Name>Cathedral of Veratus</Name>
+  <ShortDescription>You are at the main entrance of the Grandest Cathedral in the Land of Mordor.</ShortDescription>
+  <LongDescription>At the end of the stations to the north is the chambers of the Oracle.
+She is jealously guarded by the monks who maintain this shrine to long
+forgotten gods of the mountains, as she is the only one of the gods who 
+still listens to them.  If you wish to ask her a question, you must go to
+the first of the stations.  She takes the form of an owl, and if she likes
+your question, you may see her at the next station.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2570</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2547</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="4065" Version="2.40" Area="ocean">
+  <Name>Room 5-West</Name>
+  <ShortDescription>You are in a storage room of the Eidne Public Storage Facility.</ShortDescription>
+  
+  <Established>774148164</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">273</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">3904</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

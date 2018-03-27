@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="1401" Version="2.40" Area="ocean">
+  <Name>Main Foyer</Name>
+  <ShortDescription>You are in the main foyer of the Palace of Keslar.</ShortDescription>
+  <LongDescription>This magnificent palace is made of the most solid granite and is 
+constantly protected by magic.  The mages of Keslar are considered the
+most powerful in the world.  Be prepared for quite a fight if you
+decide to cross them.</LongDescription>
+  <LowLevel>7</LowLevel>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">130</Mob>
+      <Mob Area="ocean" Num="1">130</Mob>
+      <Mob Area="ocean" Num="2">130</Mob>
+      <Mob Area="ocean" Num="3">130</Mob>
+      <Mob Area="ocean" Num="4">126</Mob>
+      <Mob Area="ocean" Num="5">126</Mob>
+      <Mob Area="ocean" Num="6">130</Mob>
+      <Mob Area="ocean" Num="7">130</Mob>
+      <Mob Area="ocean" Num="8">130</Mob>
+      <Mob Area="ocean" Num="9">126</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1400</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hallway">
+      <Keys/>
+      <Room Area="ocean">1402</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

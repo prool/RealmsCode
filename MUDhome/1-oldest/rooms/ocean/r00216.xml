@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Room Num="216" Version="2.40" Area="ocean">
+  <Name>Eastern Hallway</Name>
+  <ShortDescription>This is a north/south hallway on the eastern side of the mansion.</ShortDescription>
+  <LongDescription>On the western wall is a door, probably leading into a bedroom of some
+sort.  From the north you can hear an eerie, clanging noise, but you're
+not quite sure what it is.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="9"/>
+  </Flags>
+  <Wander>
+    <Traffic>11</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">33</Mob>
+      <Mob Area="ocean" Num="1">24</Mob>
+      <Mob Area="ocean" Num="2">21</Mob>
+      <Mob Area="ocean" Num="3">20</Mob>
+      <Mob Area="ocean" Num="4">19</Mob>
+      <Mob Area="ocean" Num="5">18</Mob>
+      <Mob Area="ocean" Num="6">17</Mob>
+      <Mob Area="ocean" Num="7">16</Mob>
+      <Mob Area="ocean" Num="8">17</Mob>
+      <Mob Area="ocean" Num="9">38</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">217</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">215</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">223</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3827" Version="2.40" Area="ocean">
+  <Name>Small Ring</Name>
+  <ShortDescription>You are standing on the outskirts of the leftmost ring of the Carnival.</ShortDescription>
+  <LongDescription>You are wise not to enter the ring because there are tigers walking over
+there.  They might be dangerous if their trainer was not here.  In the
+middle of the ring there is a large cage where there is a black panther.
+Looking up, you notice the highwire, where the performers balance on their
+way between platforms.  Be careful because some of the amateurs may fall
+down on your head!</LongDescription>
+  
+  <Established>765770701</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3826</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="cage">
+      <Keys/>
+      <Room Area="ocean">3828</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">3821</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

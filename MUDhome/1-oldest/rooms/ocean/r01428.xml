@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="1428" Version="2.40" Area="ocean">
+  <Name>Main Meeting Hall</Name>
+  <ShortDescription>You have stumbled into the main meeting hall of the mages of Keslar.</ShortDescription>
+  <LongDescription>The mages come here to discuss their plans for the day and a number of
+other important topics which vary from day to day.  A large table in 
+the center of the room provides seats for ten mages.  The meeting is
+headed by one of the sorceresses.</LongDescription>
+  <LowLevel>7</LowLevel>
+  <Trap>1</Trap>
+  <TrapExit Area="ocean">1435</TrapExit>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>25</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">170</Mob>
+      <Mob Area="ocean" Num="1">130</Mob>
+      <Mob Area="ocean" Num="2">168</Mob>
+      <Mob Area="ocean" Num="3">168</Mob>
+      <Mob Area="ocean" Num="4">130</Mob>
+      <Mob Area="ocean" Num="5">168</Mob>
+      <Mob Area="ocean" Num="6">170</Mob>
+      <Mob Area="ocean" Num="7">168</Mob>
+      <Mob Area="ocean" Num="8">167</Mob>
+      <Mob Area="ocean" Num="9">168</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>door</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>259200</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">169</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="door">
+      <Keys/>
+      <Room Area="ocean">1427</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

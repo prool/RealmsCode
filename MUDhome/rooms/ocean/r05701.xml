@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="5701" Version="2.40" Area="ocean">
+  <Name>Phexton Road</Name>
+  <ShortDescription>You are on the road between Phexton Village and Hafnia Mountain Road.</ShortDescription>
+  <LongDescription>Looking south you see one of the watch towers that used to be used as a
+lookout for warring trolls.  North is the village of Phexton, home to a
+race of peaceful giants who enjoy mountain life rather than the confines of
+a city.  Giants are not very smart, and are difficult to anger, but once
+they do get mad, its hard to stop them from destroying everything they see.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">671</Mob>
+      <Mob Area="ocean" Num="1">671</Mob>
+      <Mob Area="ocean" Num="2">671</Mob>
+      <Mob Area="ocean" Num="3">671</Mob>
+      <Mob Area="ocean" Num="4">671</Mob>
+      <Mob Area="ocean" Num="5">671</Mob>
+      <Mob Area="ocean" Num="6">671</Mob>
+      <Mob Area="ocean" Num="7">671</Mob>
+      <Mob Area="ocean" Num="8">671</Mob>
+      <Mob Area="ocean" Num="9">671</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">5700</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">5702</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

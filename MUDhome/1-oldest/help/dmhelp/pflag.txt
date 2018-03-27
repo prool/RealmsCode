@@ -1,0 +1,228 @@
+^WPlayer Flags^x
+ 1         ^yUnused^x
+ 2         Hidden                 Player is hidden
+ 3         *Hardcore*             A hardcore character: death is permanent
+ 4         NoSeeBroad             Don't show broadcasts
+ 5         NoLong                 Don't show long description
+ 6         NoShort                Don't show short description
+ 7         IgnoreGossip           Don't show gossip channel
+ 8         IgnoreClan             Don't show clan channel
+ 9         Portal                 Player has an active portal
+ 10        NoAutoAttack           Player will not automatically attack
+ 11        DMInvis                Staff member is invisible
+ 12        Sleeping               Player is sleeping
+ 13        Male                   Player is male
+ 14        Sexless                Player is sexless
+ 15        Wimpy                  Player has wimpy mode set
+ 16        Eaves                  Staff is eavesdropping (tells and group chat)
+ 17        AutoInvis              Automatically turn on DM Invis if idle for
+                                  over 100 minutes
+ 18        UniqueToDecay          Player has a unique that must decay
+ 19        Prompt                 Display status prompt
+ 20        Frenzy                 Player is frenzying (werewolves)
+ 21        MXPEnabled             Player wants to use MXP
+ 22        MXPActive              MXP is active: make sure we need to close it
+ 23        Praying                Player is praying
+ 24        AreaInvertColor        Overland colors are inverted (brightness)
+ 25        Prepared               Player is prepared for traps
+ 26        *TtoBound              *t takes staff to bound room
+ 27        AnsiOn                 Ansi Color is on
+ 28        Spying                 Staff is spying on someone
+ 29        Chaotic                Player is chaotic
+ 30        ReadingFile            Player is reading a file
+ 31        NoMobTickMsg           Staff does not want to see mob tick broadcasts
+ 32        NoMobAggroMsg          Staff does not want to see mob aggro broadcasts
+ 33        NoMobDeathMsg          Staff does not want to see mob death broadcasts
+ 34        CanChooseTitle         Player can choose a custom title
+ 35        NoSummon               Player does not want to be summoned
+ 36        IgnoreAll              Ignore all messages
+ 37        IgnoreSMS              Ignore text messages
+ 38        NoTrackStats           Do not track statistics
+ 39        Darkness               Player is carrying a darkness item
+ 40        Pledged                Player is pledged to a clan
+ 41        mIRC                   mIRC Color
+ 42        SeeHooks               Whether or not to show this DM successful
+                                  hooks as they happen
+ 43        ShowSkillProgress      Show skill progress
+ 44        CannotChooseTitle      Player has lost the privilege of choosing a
+                                  custom title
+ 45        SeeAllHooks            Whether or not to show this DM all hooks as
+                                  they happen
+ 46        Charmed                Player is charmed
+ 47        NoLogin                Player does not want to see login messages
+ 48        ViewZones              Staff wants to see zones on the overland
+                                  (cleared on login)
+ 49        Secure                 Player has passed security check
+ 50        NoPort                 No-port that has been authorized
+ 51        DMAlias                DM is aliasing (possessing a mob)
+ 52        BloodSac               Player is in blood sacrifice mode
+ 53        NLPrompt               Print newline after promp
+ 54        Berserk                Player is berserking
+ 55        DmLogWatch             Staff is watching the log channel
+ 56        Misted                 Player is misted
+ 57        Endurance              Player is running
+ 58        ClassIgnore            Player is ignoring class sends
+ 59        NoGroup                Player is ignoring group broadcasts
+ 60        +1ToHit                Player is immune to normal weapons
+ 61        JustStatMod            Player just removed a stat-modifying effect
+ 62        R-Stun                 Player resists stun
+ 63        ShowAllPrefs           Show all preferences by default
+ 64        Compact                Show compact output
+ 65        ShowTicks              Show ticks
+ 66        JustRefunded           Player just refunded something and cannot haggle
+ 67        ^yUnused^x
+ 68        ^yUnused^x
+ 69        ^yUnused^x
+ 70        ^yUnused^x
+ 71        HideForumPosts         Player does not want to see forum post notifications
+ 72        FullForumPosts         Player wants to see first few lines of forum posts
+ 73        Outlaw                 Player is an outlaw
+ 74        Trained                Player just trained
+ 75        NoCompute              DM flag only: don't compute ac
+ 76        MistedSneak            Sneak while misted
+ 77        Focused                Player is focused
+ 78        Stunned                Player is stunned
+ 79        ^yUnused^x
+ 80        NoAutoWear             Player won't wear all when they log on
+ 81        ^yUnused^x
+ 82        ^yUnused^x
+ 83        ^yUnused^x
+ 84        NoFollow               Player cannot be followed
+ 85        Shoplifted             Player was caught shoplifting
+ 86        LagProt                Lag protection set (auto-hazy / auto-disconnect)
+ 87        LagProtOn              Lag detection routines currently in operation
+ 88        LPActive               Check for lag protection activated
+ 89        DMSilence              Player silenced by DM
+ 90        DMBlind                Player blinded by DM
+ 91        NoMsg                  Staff will not see *msg channel
+ 92        CanAward               DM only. Allows CTs to award roleplaying xp
+                                  if set
+ 93        NoCashTrain            Player doesn't need cash to level (for p-testing)
+ 94        AutoSplit              Player has auto gold split turned on
+ 95        ^yUnused^x
+ 96        P-Tester               Player is a p-tester
+ 97        NoShowStats            HP/MP will not show when followed
+ 98        NoCastSummon           Player cannot cast summon - for summon slaves
+ 99        NoGetAll               Player cannot get all - for people abusing it
+ 100       CanOutlaw              DM only. Allows a CT to use *outlaw command
+ 101       OutlawAggro            Outlaw will be attacked by outlaw aggros
+ 102       ExpLossOutlaw          Outlaw will lose experience when killed
+ 103       LinkDead               Player is linkdead (shouldn't be considered 2x-logging)
+ 104       Unconscious            Player is unconscious
+ 105       Incognito              Staff is incognito
+ 106       BrainDead              Player is brain dead
+ 107       ^yUnused^x
+ 108       CanList                DM only. Caretaker can use *list command
+ 109       ^yUnused^x
+ 110       ^yUnused^x
+ 111       Can*broad              DM only. Caretaker can use *broad
+ 112       XPinPrompt             XP shows in player prompt
+ 113       HasMail                Player has unread mudmail
+ 114       NoSeeMail              Player will not see new mail notification
+ 115       PlyPoison              Poisoned by player
+ 116       MobPoison              Poisoned by monster
+ 117       NoRecall               Hazy looked for 2nd in lag protection
+ 118       NoAlColor              Extra color options
+ 119       NoPkill%               P-kill percent not shown
+ 120       NoAuction              Will not see auction broadcasts
+ 121       KillsLogged            All player's kills logged
+ 122       SuperEaves             Staff is eavesdropping (says)
+ 123       CanTellSelf            Player is allowed to send tell messages to themself
+ 124       SavesSet               Saving throw values defined. DO NOT UNSET
+                                  THIS FLAG!
+ 125       ^yUnused^x
+ 126       RaceIgnore             Player ignoring race broadsend
+ 127       AFK                    Player is away from keyboard
+ 128       ^yUnused^x
+ 129       GlobalGag              Player globally gagged
+ 130       NoProfit               Don't show shop profits
+ 131       ^yUnused^x
+ 132       ^yUnused^x
+ 133       IgnoreTell             Player ignores send/tell messages
+ 134       L:Alien                Player speaks alien language (unknown)
+ 135       L:Dwarven              Player speaks dwarven
+ 136       L:Elven                Player speaks elven
+ 137       L:Halfling             Player speaks halfling
+ 138       L:Common               Player speaks common
+ 139       L:Orcish               Player speaks orcish
+ 140       L:Giantkin             Player speaks giantkin
+ 141       L:Gnomish              Player speaks gnomish
+ 142       L:Troll                Player speaks language of trolls
+ 143       L:Ogrish               Player speaks ogrish
+ 144       L:DarkElven            Player speaks dark elven
+ 145       L:Goblinoid            Player speaks goblinoid
+ 146       L:Minotaur             Player speaks language of minotaurs
+ 147       L:Celestial            Player speaks celestial (seraph)
+ 148       L:Kobold               Player speaks kobold
+ 149       L:Infernal             Player speaks infernal (cambion)
+ 150       L:Schnai               Player speaks barbarian
+ 151       L:Kataran              Player speaks kataran
+ 152       ^yUnused^x
+ 153       ^yUnused^x
+ 154       ^yUnused^x
+ 155       LangColor              Player sees language colors
+ 156       LangSet                Player language been initialized
+ 157       ^yUnused^x
+ 158       Proxy                  Player is allowed to multi-log (use *2x instead)
+ 159       SecretWatcher          Player does not show up as a watcher
+ 160       No Group Exp (Abused)   No group exp due to abuse
+ 161       Watcher                Player is a watcher
+ 162       CanMudmailStaff        Player can mudmail CTs and DMs
+ 163       NoDuelBroad            Player will not see duel messages
+ 164       Bugged                 Player is bugged for observation
+ 165       LostDuel               Player just died in a duel - DO NOT SET
+ 166       Mistbane               Player can hit mist
+ 167       XPsplit                Player has xp split turned on
+ 168       NoPkill                Player cannot be pkilled right now
+ 169       PermDeath              Player sees perm deaths
+ 170       ^yUnused^x
+ 171       ^yUnused^x
+ 172       NoNewbie               Player ignoring newbie channel
+ 173       ^yUnused^x
+ 174       ^yUnused^x
+ 175       ^yUnused^x
+ 176       Sitting                Player is sitting
+ 177       No*wts                 Cannot use *wts command
+ 178       CreatingGuild          Player is currently attempting to create a
+                                  new guild
+ 179       ^yUnused^x
+ 180       ^yUnused^x
+ 181       Free-Action            Player under free-action spell
+ 182       No*flushcrtobj         Builder doesn't have to *flushcrtobj (auto-flush)
+ 183       NoMobNumbers           Player does not see mob numbers
+ 184       Can*reboot             Can use *reboot command
+ 185       ChangeStats            Can change stats
+ 186       *jailed                Jailed by *jail command. DO NOT SET
+ 187       ^yUnused^x
+ 188       KillAggro              Player attacks aggros first
+ 189       PasswordOK             Password is current
+ 190       NoMPTick               Player cannot tick MP
+ 191       NoHPTick               Player cannot tick HP
+ 192       Anchor                 Player under anchor spell
+ 193       KilledByMob            Just killed by mob
+ 194       ^yUnused^x
+ 195       DoctorKiller           Player is a doctor killer
+ 196       Surname                Player has chosen surname
+ 197       NoSetSurname           Player cannot use surname command
+ 198       ^yUnused^x
+ 199       AdultChannel           Player can use adult channel
+ 200       Veteran                Player can use veteran channel
+ 201       CantBroadcast          Player cannot broadcast
+ 202       ChosenAlign            Player has chosen alignment
+ 203       CantSuicide            Player cannot suicide - cool off period
+ 204       Builder:Mobs           Builder can make mobs
+ 205       Builder:Objs           Builder can make objs
+ 206       HasDarkmetal           Player has a darkmetal item (DONT SET)
+ 207       ^yUnused^x
+ 208       ^yUnused^x
+ 209       ^yUnused^x
+ 210       ^yUnused^x
+ 211       ^yUnused^x
+ 212       ^yUnused^x
+ 213       ^yUnused^x
+ 214       ^yUnused^x
+ 215       ^yUnused^x
+ 216       ^yUnused^x
+ 217       ^yUnused^x
+ 218       ^yUnused^x
+

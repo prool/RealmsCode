@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="573" Version="2.40" Area="ocean">
+  <Name>Leviathan Drive/Orchard Lane Intersection</Name>
+  <ShortDescription>You are at the intersection of Leviathan Drive and Orchard Lane.</ShortDescription>
+  <LongDescription>Orchard Lane runs east from the intersection with Leviathan Drive, running
+north and south.  Orchard seems to run through the large forest area on
+both sides of the road.  On the west side of the intersection, you can see
+the mysterious Avatar Ruins.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">572</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">574</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">386</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

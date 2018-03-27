@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="130" Version="2.40" Area="ocean">
+  <Name>East Ulandia</Name>
+  <ShortDescription>East Ulandia continues to the north and south.</ShortDescription>
+  <LongDescription>On the east side of the road is a huge, dusty lot where an open-air market
+has been established.  There are pennants flying, and banners everywhere.
+It looks like the annual Brownhaven Fair has arrived.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">2</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">125</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">135</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

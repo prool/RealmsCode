@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="1604" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are at two large, black gates leading into the Allisk Manor.</ShortDescription>
+  <LongDescription>Overland Drive passes by the entrance to the Allisk Manor here and 
+continues to the northwest and southeast.  The gates have been locked
+for ages and no one knows how to get in, not that anyone has really
+tried, nor wanted to enter this place.  It has been rumored to be 
+haunted by every known spirit that was ever believed not to exist
+in the world.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">1603</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">1605</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">1989</Room>
+      <Flags>
+        <Bit Num="3"/>
+        <Bit Num="5"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

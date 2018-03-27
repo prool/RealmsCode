@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Room Num="744" Version="2.40" Area="ocean">
+  <Name>Wakeforest Drive</Name>
+  <ShortDescription>You are walking along Wakeforest Drive, east of the Fiesty Kitten Nightclub.</ShortDescription>
+  <LongDescription>The Fiesty Kitten Night Club and Bar is one of the more dangerous places
+to be seen at, especially if you're not an officer in the City Patrol.  The
+Bar is a very loud and dangerous place where people have a tendency not
+to leave ever again.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">65</Mob>
+      <Mob Area="ocean" Num="1">65</Mob>
+      <Mob Area="ocean" Num="2">65</Mob>
+      <Mob Area="ocean" Num="3">65</Mob>
+      <Mob Area="ocean" Num="4">65</Mob>
+      <Mob Area="ocean" Num="5">65</Mob>
+      <Mob Area="ocean" Num="6">65</Mob>
+      <Mob Area="ocean" Num="7">80</Mob>
+      <Mob Area="ocean" Num="8">65</Mob>
+      <Mob Area="ocean" Num="9">65</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">743</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">745</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2318</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

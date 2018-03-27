@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="426" Version="2.40" Area="ocean">
+  <Name>Bendine Way</Name>
+  <ShortDescription>You are walking along Bendine Way, west of the Oceancrest Hot Springs.</ShortDescription>
+  <LongDescription>The North Oceancrest Hot Springs and Spa provide countless people with
+deluxe accomodations in small pools of flowing, natural mineral water, 
+heated by the lava flow underneath the city.  Being so close to the
+ocean puts Oceancrest on a bad fault line where quakes sometimes happen.
+The upshot of this being the lava flow heats up the natural mineral water
+beneath the city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">425</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">427</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">316</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5539" Version="2.40" Area="ocean">
+  <Name>Nyyron Water Chamber</Name>
+  <ShortDescription>You are in a very damp chamber behind the curtain of the Nyyron Waterfall.</ShortDescription>
+  <LongDescription>The slabs of stone in here are warm to the touch, and steam from the water
+fills the room, making your sore muscles relax.  The chamber looks clean and
+comfortable, and is certainly well hidden.  This might be a good place to
+rest awhile.  There are some runes on the wall, which indicates this place
+may have been used for magic spells at one time.</LongDescription>
+  
+  <Flags>
+    <Bit Num="11"/>
+    <Bit Num="12"/>
+    <Bit Num="13"/>
+    <Bit Num="32"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">5538</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

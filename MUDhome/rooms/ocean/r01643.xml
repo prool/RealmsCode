@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="1643" Version="2.41b" Area="ocean">
+  <Name>Leviathan Drive</Name>
+  <ShortDescription>You are walking along Leviathan Drive, north of Nagaritha Drive.</ShortDescription>
+  <LongDescription>Leviathan Drive intersects with Nagaritha Drive to the south.  On the
+western side of the road, you can see the Chateau Richland Grape Orchard
+and a path leading to a grove of trees in the fields.  On the east you
+can see and hear the crowd in the Melbourne Arena where thieves and pick-
+pockets are thrown to the gladiators.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+    <Size>5</Size>
+    <Num>1</Num>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1642</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1225</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">870</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

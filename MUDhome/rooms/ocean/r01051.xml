@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1051" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive/Golden Dolphin Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Golden Dolphin Way and Oceanview Drive.</ShortDescription>
+  <LongDescription>Oceanview Drive meets Golden Dolphin Way at this intersection.  South of
+the intersection is the massive City Wall which protects the citizens of
+Oceancrest from the ever-present threat of attack by orcs, pirates and
+other unfriendly enemies.  Golden Dolphin Way runs east to west along the
+side of the City Wall. </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1050</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1082</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1081</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

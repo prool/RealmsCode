@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="1486" Version="2.40" Area="ocean">
+  <Name>Main Keslarian Library</Name>
+  <ShortDescription>You are in the secret library of the Keslar mages.  </ShortDescription>
+  <LongDescription>This is the place where all the great spells of the mages are stored
+for safe keeping.  Many spells are one-of-a-kind and you can't even
+read the printing on the paper.  A number of potions are spilt on the
+ground leading you to believe that this place is also used as some
+sort of laboratory for mixing potions and other neat magical items.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>5</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">170</Mob>
+      <Mob Area="ocean" Num="1">170</Mob>
+      <Mob Area="ocean" Num="2">170</Mob>
+      <Mob Area="ocean" Num="3">168</Mob>
+      <Mob Area="ocean" Num="4">168</Mob>
+      <Mob Area="ocean" Num="5">170</Mob>
+      <Mob Area="ocean" Num="6">168</Mob>
+      <Mob Area="ocean" Num="7">168</Mob>
+      <Mob Area="ocean" Num="8">169</Mob>
+      <Mob Area="ocean" Num="9">169</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1487</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

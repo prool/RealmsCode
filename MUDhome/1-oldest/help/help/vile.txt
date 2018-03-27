@@ -1,0 +1,18 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  vile races        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Gradius considers the following races vile: orcs, ogres, goblins, trolls, and
+kobolds. When a cleric or paladin of Gradius kills a creature belonging to one
+of these races, the resulting alignment shift will only be beneficial. Gradius
+requires his followers to remain close to neutral, which previously meant
+killing too many orcs would push Gradius into good and throw off his alignment.
+However, because the alignment change will only help a cleric or paladin of
+Gradius, this is no longer the case.
+
+For example, an evil cleric of Gradius kills an evil orc. Her alignment will
+move towards good. Once it reaches neutral, however, the cleric's alignment
+will stop changing; it will not progress further to good. If the evil cleric
+of Gradius were to kill good vile monsters, her alignment would remain the
+same, rather than being pushed further into evil.
+

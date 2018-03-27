@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="93" Version="2.40" Area="ocean">
+  <Name>Brownhaven Way</Name>
+  <ShortDescription>You are traveling on a north-south street known as Brownhaven Way.</ShortDescription>
+  <LongDescription>A large mansion with a gated wall sits on beautifully kept grounds to the
+west.  Large trees grow close to the wall, and limbs hang over to the other
+side.  The gate appears to be locked.  If one were interested in climbing,
+these trees certainly look like they could be climbed easily.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">2</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">83</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">103</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

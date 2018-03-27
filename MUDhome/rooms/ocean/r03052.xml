@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Room Num="3052" Version="2.40" Area="ocean">
+  <Name>Goblin Underground Hall</Name>
+  <ShortDescription>You are stepping as silenty as possible down a dark passageway.</ShortDescription>
+  <LongDescription>At times your footsteps ring loudly, indicating close walls, although you
+cannot see them, and at other times they sound dull and distant as though
+the sound had nothing to bounce from for a long distance.  Dimly to the
+east there is an archway which leads to a library.  A torch set high in
+the ceiling gives off more smoke than light.</LongDescription>
+  
+  <Established>761307125</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>6</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">504</Mob>
+      <Mob Area="ocean" Num="1">504</Mob>
+      <Mob Area="ocean" Num="2">505</Mob>
+      <Mob Area="ocean" Num="3">505</Mob>
+      <Mob Area="ocean" Num="4">502</Mob>
+      <Mob Area="ocean" Num="5">502</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3051</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3053</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="library">
+      <Keys/>
+      <Room Area="ocean">3065</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

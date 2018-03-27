@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="2098" Version="2.40" Area="ocean">
+  <Name>West Tower</Name>
+  <ShortDescription>You are in the Western Tower, home to Elise, the youngest mage in Mordor.</ShortDescription>
+  <LongDescription>Elise is one of the most powerful mages perhaps in the world.  It is quite
+puzzling that such a young woman is already a White Moon and a Preserver
+Wizard, the highest rank that can be achieved.  The Order of the White Moon
+is an elven sorority of lawful, good wizards whose ranks are limited only to
+those who have proven their skill and devotion to goodness.  Any wizard may
+petition to enter, as the sorority is not limited to elves nor females.  The
+Order of the White Moon is a powerful ally of the Red-Robed wizards in the
+City of Oceancrest.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>archway</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">283</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="red portal">
+      <Keys/>
+      <Room Area="ocean">2540</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="portal">
+      <Keys/>
+      <Room Area="ocean">2097</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="archway">
+      <Keys/>
+      <Room Area="ocean">3220</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="938" Version="2.40a" Area="ocean">
+  <Name>Weaponsmith</Name>
+  <ShortDescription>You are in the elven weaponsmith's shoppe.</ShortDescription>
+  <LongDescription>The elven weaponsmith carries only the very best quality weapons.  His
+prices are a little high, but elven quality cannot be exceeded.  You
+see a lot of magical and strange weapons adorned on the walls, but
+(of course) these are not for sale.  If you are looking for a missile
+weapon, try the bowyer on the south side of town.  All weapons sold here
+have been enchanted by the resident mage.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="11"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">942</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

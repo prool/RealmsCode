@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="94" Version="2.40" Area="ocean">
+  <Name>Discount Armor Shoppe</Name>
+  <ShortDescription>You certainly want to go into the arena with good armor.</ShortDescription>
+  <LongDescription>A big, dumb looking half-giant stands behind the counter, wearing a
+leather apron and a slack-jawed look.  His eyes are quite dull, so don't
+ask for advice.  He might give you some, and if you took it, you might be
+sorry.  He has a list of armor for sale.  If you are looking for small-race
+armor, why don't you try across the street?</LongDescription>
+  
+  <Flags>
+    <Bit Num="0"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">66</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">77</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

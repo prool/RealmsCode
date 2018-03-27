@@ -1,0 +1,258 @@
+^WMonster Flags^x
+ 1         Perm                   Monster is permanent
+ 2         Hidden                 Monster is hidden
+ 3         WasHidden              Monster was hidden before and will rehide again
+ 4         FactionNoGuard         If the player is in good standing with the
+                                  monster, the monster will not passively
+                                  guard exits
+ 5         ^yUnused^x
+ 6         NoPrefix               Don't add a prefix article
+ 7         Aggro                  Monster is aggresive
+ 8         GuardLoot              Monster will prevent player from getting treasure
+ 9         BlocksExits            Monster will prevent player from leaving the
+                                  room (excluding flee) during combat
+ 10        Follows                Monster will follow a player who walks out
+                                  of the room during combat
+ 11        Flees                  Monster will flee
+ 12        Scavenger              Monster will randomly get items from the ground
+ 13        Male                   Monster is male
+ 14        SA:Poisons             Monster will poison
+ 15        Undead                 Monster is undead
+ 16        NoStealPeek            Monster cannot be peeked and cannot be
+                                  stolen from
+ 17        ^yUnused^x
+ 18        SA:Casts               Monster can cast spells
+ 19        Scavenged              Monster has already scavenged something
+ 20        ^yUnused^x
+ 21        MagicOnly              Monster can only be harmed by magic
+ 22        FactionAssist          Monster will assist members of primeFaction
+ 23        +1ToHit                Player needs +1 weapon or better to be hit
+ 24        Talks                  Monster uses old talk system (DONT SET)
+ 25        NoKill                 Monster cannot be harmed
+ 26        FixedGold              Monster has a fixed amount of gold
+ 27        TalkAggro              Monster becomes aggressive after talking
+ 28        NoFactionAggro         Don't aggro based on faction
+ 29        CanRiposte             Can riposte regardless of other rules
+ 30        Darkness               Monster is carrying a darkness item
+ 31        ^yUnused^x
+ 32        ^yUnused^x
+ 33        CanPledgeTo            Players can pledge to monster
+ 34        CanRescindTo           Players can rescind to monster
+ 35        SA:Diseases            Monster causes disease
+ 36        SA:Dissolves           Monster can dissolve items
+ 37        Selling                Players can purchase items from this monster
+ 38        Trades                 Players can trade items with this monster
+ 39        PassiveGuard           Monster passively prevents players from
+                                  going through an exit (exit needs flag 19-PassiveGuard)
+ 40        GoodAggro              Monster will attack good-aligned players
+ 41        EvilAggro              Monster will attack evil-aligned players
+ 42        DieDesc                Monster has additon description after death
+                                  (requires special file)
+ 43        CastPercent            Monster cast magic percent flag
+ 44        ResistStun             Monster resists stun
+ 45        NoCircle               Monster cannot be circled
+ 46        SA:Blinds              Monster can blind
+ 47        FollowDM               Monster will follow DM (DONT SET - used for possessing)
+ 48        ^yUnused^x
+ 49        ^yUnused^x
+ 50        ^yUnused^x
+ 51        Charmed                Monster is charmed
+ 52        Mobile                 Monster will wander around the area
+ 53        Scripted               Monster is scripted (requires special file)
+ 54        TakeLoot               Monster will try to take players' loot
+ 55        FastWander             Monster will quickly wander around the area
+ 56        Pet                    Monster is a pet
+ 57        ^yUnused^x
+ 58        ^yUnused^x
+ 59        ^yUnused^x
+ 60        ^yUnused^x
+ 61        ^yUnused^x
+ 62        ^yUnused^x
+ 63        Sexless                Monster is sexless
+ 64        ^yUnused^x
+ 65        ^yUnused^x
+ 66        ^yUnused^x
+ 67        ^yUnused^x
+ 68        ^yUnused^x
+ 69        ^yUnused^x
+ 70        ^yUnused^x
+ 71        ^yUnused^x
+ 72        NoMobile               Monster will not wander
+ 73        ^yUnused^x
+ 74        ^yUnused^x
+ 75        ^yUnused^x
+ 76        ^yUnused^x
+ 77        ^yUnused^x
+ 78        ^yUnused^x
+ 79        ^yUnused^x
+ 80        ^yUnused^x
+ 81        ^yUnused^x
+ 82        ^yUnused^x
+ 83        ^yUnused^x
+ 84        ^yUnused^x
+ 85        ^yUnused^x
+ 86        ^yUnused^x
+ 87        ^yUnused^x
+ 88        ^yUnused^x
+ 89        ^yUnused^x
+ 90        ^yUnused^x
+ 91        Regen                  Monster regenerates
+ 92        +2ToHit                Player needs +2 weapon or better to be hit
+ 93        +3ToHit                Player needs +3 weapon or better to be hit
+ 94        ^yUnused^x
+ 95        StealAggro             Monster will steal from players during combat
+ 96        Steals                 Monster will steal from players
+ 97        ^yUnused^x
+ 98        ^yUnused^x
+ 99        ^yUnused^x
+ 100       Assisted               Monster will be assisted by any monster with
+                                  101-WillAssist (DONT SET - use assist fields)
+ 101       WillAssist             Monster will assist any monster with
+                                  100-Assisted (DONT SET - use assist fields)
+ 102       NightOnly              Monster will only come at night
+ 103       OutlawAggro            Monster will aggro outlaws
+ 104       ^yUnused^x
+ 105       ^yUnused^x
+ 106       ^yUnused^x
+ 107       Wields                 Monster will wield weapons in their inventory
+ 108       ^yUnused^x
+ 109       ^yUnused^x
+ 110       DayOnly                Monster will only come during the day
+ 111       SneakLoad              Don't show when monster arrives
+ 112       ^yUnused^x
+ 113       ^yUnused^x
+ 114       NoDodge                Monster cannot be dodged
+ 115       ^yUnused^x
+ 116       ^yUnused^x
+ 117       AggroShoplifter        Monster is attacking a shoplifter
+ 118       Chasing                Monster chasing someone
+ 119       HardCircle             Monster resists circle - circled as if undead
+ 120       WillYell               Monster will yell for help
+ 121       HasYelled              Monster yelled for help - DONT SET
+ 122       NoShowYell             Monster doesn't actually yell for help, but
+                                  mobs arrive to help
+ 123       BeneCast               Monster is a benevolent spellcaster
+ 124       Logged                 Anything that happens to the monster will be
+                                  logged until saved
+ 125       ^yUnused^x
+ 126       ^yUnused^x
+ 127       LvlBaseStun            Level-based stunnable
+ 128       NoTouch                Monster resists touch-of-death
+ 129       Greedy                 Monster will sometimes steal cash instead of killing
+ 130       Subdues                Monster will sometimes knock the player
+                                  unconscious and haul them off to jail
+ 131       LvlRestrict            Monster can only be killed/attacked by
+                                  someone less than maxLevel
+ 132       NoBackstab             Monster cannot be backstabbed - for really
+                                  small creatures and stuff like slimes
+ 133       ^yUnused^x
+ 134       ^yUnused^x
+ 135       ^yUnused^x
+ 136       ^yUnused^x
+ 137       ^yUnused^x
+ 138       ^yUnused^x
+ 139       ^yUnused^x
+ 140       ^yUnused^x
+ 141       ^yUnused^x
+ 142       ^yUnused^x
+ 143       ^yUnused^x
+ 144       ^yUnused^x
+ 145       ^yUnused^x
+ 146       ^yUnused^x
+ 147       ^yUnused^x
+ 148       ^yUnused^x
+ 149       ^yUnused^x
+ 150       ^yUnused^x
+ 151       ^yUnused^x
+ 152       ^yUnused^x
+ 153       ^yUnused^x
+ 154       ^yUnused^x
+ 155       ^yUnused^x
+ 156       ^yUnused^x
+ 157       NoLvl1                 Monster uneffected by level 1 spells
+ 158       NoLvl2                 Monster uneffected by level 2 spells or lower
+ 159       NoLvl3                 Monster uneffected by level 3 spells or lower
+ 160       NoLvl4                 Monster uneffected by level 4 spells or lower
+ 161       NoKick                 Monster cannot be kicked (for things like slimes)
+ 162       SA:DeathScream         Monster screams like a banshee
+ 163       WillSneak              Monster will sneak around
+ 164       isSneaking             Monster is sneaking
+ 165       ^yUnused^x
+ 166       RandAggro              Monster will randomly become aggressive
+ 167       NoPoison               Monster cannot be poisoned
+ 168       NoCharm                Monster cannot be charmed
+ 169       SpecUndead             Monster turned as 'special' undead -- harder
+                                  to turn
+ 170       ^yUnused^x
+ 171       ^yUnused^x
+ 172       ^yUnused^x
+ 173       NoExpLoss              Monster does not make player lose exp when
+                                  they die
+ 174       ^yUnused^x
+ 175       ^yUnused^x
+ 176       ^yUnused^x
+ 177       ^yUnused^x
+ 178       ^yUnused^x
+ 179       ^yUnused^x
+ 180       SA:Petrifies           Monster's touch can turn to stone
+ 181       ^yUnused^x
+ 182       AlwaysAggro            Monster ALWAYS aggressive, ignoring other
+                                  rules that can override aggro
+ 183       KillsPerms             Monster will attack perm creatures
+ 184       KillAllMobs            Monster attacks all mobs it will not assist
+ 185       KillMaster             Monster kills master - not pet
+ 186       ^yUnused^x
+ 187       FastTick               Monster fast ticks when no one in room
+ 188       RestrictXP             Lower exp after max-killable level
+ 189       ^yUnused^x
+ 190       ^yUnused^x
+ 191       TollKeeper             Monster is a tollkeeper
+ 192       AlignVary              Monster's alignment will vary
+ 193       AssistHitChance        Monsters assist each others' chance to hit
+ 194       Sweeper                Monster is a streetsweeper - cleans rooms
+                                  (will pick up a lot of objects)
+ 195       CustomType             Monster is custom - has no specific mtype
+ 196       NoAdjust               Monster will not adjust on loading
+ 197       ^yUnused^x
+ 198       ^yUnused^x
+ 199       ^yUnused^x
+ 200       ^yUnused^x
+ 201       StayActive             Monster will remain on active list until killed
+ 202       NoAutoCrit             Monster will not be auto-critted
+ 203       ^yUnused^x
+ 204       AntiMagic              Monster is anti-magic - blocks magic in room
+ 205       MageStun               Monster is mage/lich stun only
+ 206       SA:FireAura            Monster has fire aura attack
+ 207       SA:ColdAura            Monster has cold aura attack
+ 208       SA:NauseaAura          Monster has a nauseating aura
+ 209       SA:NegAura             Monster has a negative life-draining aura
+ 210       SA:WindAura            Monster has a turbulent wind aura
+ 211       ^yUnused^x
+ 212       ^yUnused^x
+ 213       ^yUnused^x
+ 214       SA:Wounding            Monster has wounding attack
+ 215       Berserk                Monster is berserk (DONT SET)
+ 216       SA:Berserking          Monster will berserk
+ 217       Teleported             Monster was teleported (DO NOT SET)
+ 218       ^yUnused^x
+ 219       ^yUnused^x
+ 220       ^yUnused^x
+ 221       RaceAggroInvert        Race aggro invert flag
+ 222       ClassAggroInvert       Class aggro invert flag
+ 223       ^yUnused^x
+ 224       SaveFull               Save the full mob to a roomfile instead of
+                                  just a reference
+ 225       DeityAggroInvert       Deity aggro invert flag
+ 226       ^yUnused^x
+ 227       ^yUnused^x
+ 228       ^yUnused^x
+ 229       ^yUnused^x
+ 230       ^yUnused^x
+ 231       Raiding                Monster is raiding (DO NOT SET)
+ 232       ^yUnused^x
+ 233       ^yUnused^x
+ 234       ^yUnused^x
+ 235       ^yUnused^x
+ 236       ^yUnused^x
+ 237       ^yUnused^x
+

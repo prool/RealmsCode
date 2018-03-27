@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="737" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are on Riverdell Way, running north and south, west of the City Walls.</ShortDescription>
+  <LongDescription>The massive City Walls on the east side of the road, provide the ultimate
+in personal security for the entire town.  Ever since they were built,
+no attack against the city has ever been successful.  The people and
+military pray that any attack in the future will also fail.</LongDescription>
+  
+  <Established>727327878</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">736</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">738</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

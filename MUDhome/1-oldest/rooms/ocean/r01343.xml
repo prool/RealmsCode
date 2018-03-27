@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Room Num="1343" Version="2.40" Area="ocean">
+  <Name>Thackery's Pub</Name>
+  <ShortDescription>You are in a large but run down tavern known as Thackery's Pub.</ShortDescription>
+  <LongDescription>A lot of mismatched furniture is scattered throughout the room, and a
+fire burns in a large fireplace.  A group of loud singers are gathered
+at one end of the room, and a number of girls carry wine to the customers
+at the tables.  This place is frequented mostly by farmers and local
+merchants, and they all seem to be having a good time.  A few field 
+hands and grape pickers are playing darts.</LongDescription>
+  
+  <Established>755904991</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>18</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">378</Mob>
+      <Mob Area="ocean" Num="1">119</Mob>
+      <Mob Area="ocean" Num="2">119</Mob>
+      <Mob Area="ocean" Num="3">378</Mob>
+      <Mob Area="ocean" Num="4">81</Mob>
+      <Mob Area="ocean" Num="5">122</Mob>
+      <Mob Area="ocean" Num="6">378</Mob>
+      <Mob Area="ocean" Num="7">64</Mob>
+      <Mob Area="ocean" Num="8">64</Mob>
+      <Mob Area="ocean" Num="9">6</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1219</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1611</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3872" Version="2.40" Area="ocean">
+  <Name>Top of a Brick Cistern</Name>
+  <ShortDescription>You are atop a circular brick cistern and can hear water splashing below.</ShortDescription>
+  <LongDescription>Looking down you see a narrow ledge which winds around the circular well,
+giving access to the dark waters below.  There doesn't seem to be any
+handrails, and the sides are quite slippery with moss.  A pebble dropped
+over the side takes a long time to splash in the water below.</LongDescription>
+  
+  <Established>768695363</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3873</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3871</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

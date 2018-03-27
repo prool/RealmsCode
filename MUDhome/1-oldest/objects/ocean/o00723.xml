@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Object Num="723" Area="ocean" Version="2.40">
+  <Name>covenant</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsCur>0</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value/>
+  <Keys/>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Type>14</Type>
+  <InBag/>
+</Object>

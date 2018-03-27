@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<Creature Num="332" Area="ocean" Version="2.40">
+  <Name>baby red dragon</Name>
+  <Class>5</Class>
+  <Level>18</Level>
+  <Type>1</Type>
+  <Experience>1400</Experience>
+  <Coins>
+    <Coin Num="2">250</Coin>
+  </Coins>
+  <Alignment>-75</Alignment>
+  <Stats>
+    <Stat Name="Strength">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Dexterity">
+      <Current>180</Current>
+      <Max>180</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Constitution">
+      <Current>250</Current>
+      <Max>250</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Intelligence">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Piety">
+      <Current>80</Current>
+      <Max>80</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Hp">
+      <Current>175</Current>
+      <Max>175</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+    <Stat Name="Mp">
+      <Current>200</Current>
+      <Max>200</Max>
+      <TempMax>0</TempMax>
+    </Stat>
+  </Stats>
+  <Description>You see a young hatchling dragon just about to breathe on you.</Description>
+  <Keys>
+    <Key Num="0">red</Key>
+    <Key Num="1">dragon</Key>
+  </Keys>
+  <MoveTypes/>
+  <Armor>300</Armor>
+  <Bank/>
+  <Realms/>
+  <Proficiencies/>
+  <Dice>
+    <Number>4</Number>
+    <Sides>5</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Attacks/>
+  <Talk>Mmm...lunchtime!</Talk>
+  <DefenseSkill>175</DefenseSkill>
+  <AttackPower>200</AttackPower>
+  <WeaponSkill>175</WeaponSkill>
+  <CarriedItems>
+    <Carry Area="ocean">319</Carry>
+    <Carry Area="ocean" Num="1">353</Carry>
+    <Carry Area="ocean" Num="2">387</Carry>
+    <Carry Area="ocean" Num="3">199</Carry>
+    <Carry Area="ocean" Num="4">282</Carry>
+    <Carry Area="ocean" Num="5">210</Carry>
+    <Carry Area="ocean" Num="6">378</Carry>
+    <Carry Area="ocean" Num="7">375</Carry>
+    <Carry Area="ocean" Num="8">192</Carry>
+    <Carry Area="ocean" Num="9">190</Carry>
+  </CarriedItems>
+  <AssistMobs/>
+  <EnemyMobs/>
+  <ClassAggro/>
+  <RaceAggro/>
+  <DeityAggro/>
+  <Factions/>
+  <Skills/>
+  <Effects>
+    <Effect>
+      <Name>detect-invisible</Name>
+      <Duration>-1</Duration>
+      <Strength>1</Strength>
+      <Extra>0</Extra>
+    </Effect>
+  </Effects>
+  <SpecialAttacks>
+    <SpecialAttack>
+      <Name>Fire Breath</Name>
+      <Verb>breathes fire on</Verb>
+      <TargetStr>^r*ATTACKER* breathes fire on you!*CR*You take ^R*DAMAGE*^r damage!^x</TargetStr>
+      <TargetFailStr></TargetFailStr>
+      <RoomFailStr></RoomFailStr>
+      <SelfStr></SelfStr>
+      <RoomStr>^r*ATTACKER* breathes fire on *LOW-TARGET*!^x</RoomStr>
+      <TargetSaveStr>^cYou almost manage to dive out of the way.^x</TargetSaveStr>
+      <SelfSaveStr></SelfSaveStr>
+      <RoomSaveStr>*TARGET* almost dives out of the way.</RoomSaveStr>
+      <Limit>0</Limit>
+      <Delay>60</Delay>
+      <Chance>20</Chance>
+      <StunLength>0</StunLength>
+      <Type>3</Type>
+      <SaveType>4</SaveType>
+      <SaveBonus>0</SaveBonus>
+      <MaxBonus>0</MaxBonus>
+      <Flags>
+        <Bit Num="1"/>
+      </Flags>
+      <Dice>
+        <Number>18</Number>
+        <Sides>4</Sides>
+        <Plus>0</Plus>
+      </Dice>
+    </SpecialAttack>
+  </SpecialAttacks>
+  <InitialStats/>
+  <DailyTimers/>
+  <SavingThrows>
+    <SavingThrow Num="0">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="1">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="2">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="3">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="4">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+    <SavingThrow Num="5">
+      <Chance>0</Chance>
+      <Gained>0</Gained>
+      <Misc>0</Misc>
+    </SavingThrow>
+  </SavingThrows>
+  <Spells/>
+  <Quests/>
+  <Languages/>
+  <Flags>
+    <Bit Num="6"/>
+    <Bit Num="7"/>
+    <Bit Num="8"/>
+    <Bit Num="17"/>
+  </Flags>
+  <LastTimes/>
+  <Inventory/>
+</Creature>

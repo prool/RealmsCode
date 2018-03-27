@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="3668" Version="2.40" Area="ocean">
+  <Name>Trokkawilff's Torture Chamber</Name>
+  <ShortDescription>You are in an ancient torture chamber, no longer used.</ShortDescription>
+  <LongDescription>This was once the pleasure chamber of Trokkawilff, the master torturer.
+Although he has been dead for over a century and this place abandoned
+since then, some say there are nights when one can still hear faint screams
+coming from this part of the castle.  Several of the more common torture
+devices are in evidence around the room, but you wonder what the bar-b-que
+in the corner was used for.  Three iron maidens stand against the wall.
+Directly south is a holding dungeon, open to view.  Trokkawilff liked
+for his prisoners to see what he was doing to their compatriots.</LongDescription>
+  
+  <Established>765136967</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>60</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">719</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3669</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3663</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

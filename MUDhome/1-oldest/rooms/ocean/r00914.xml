@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="914" Version="2.40" Area="ocean">
+  <Name>Side Alley South</Name>
+  <ShortDescription>You are in the southern part of the side alley.</ShortDescription>
+  <LongDescription>You would have missed the entrance to this if you were not such a careful 
+observer.  This area appears to be very well traveled.  There seems to be 
+a lot of footprints leading north.  Maybe it's just a short cut.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">915</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">916</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">5507</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

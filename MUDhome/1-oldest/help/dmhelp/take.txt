@@ -1,0 +1,18 @@
+Help on: *take
+
+This command allows DMs and CTs to remotely remove items from
+players' inventories or from containers in players' inventories.
+The items are added to the inventory of the DM or CT.
+
+examples:
+:*take blacke goatboy
+:You remove a blackened-steel eviscerator(+2)from Goatboy's inventory.
+:*take hazy mastemage bag
+:You remove a hazy potion from Mastemage's buttercup bag.
+:*take ada genie bag 3
+:You remove some adamantine corbite armor from Genie's senna bag.
+:*take leaf 4 fawn indigo 5
+:You remove a yew leaf from Fawn's indigo bag.
+
+
+

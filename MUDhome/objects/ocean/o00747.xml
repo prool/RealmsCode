@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Object Num="747" Area="ocean" Version="2.40">
+  <Name>cleric's mace</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>40</ShotsMax>
+  <ShotsCur>40</ShotsCur>
+  <Dice>
+    <Number>3</Number>
+    <Sides>4</Sides>
+    <Plus>3</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">mace</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="34"/>
+  </Flags>
+  <Description>The mace has a good balance, and the head has several small spikes.</Description>
+  <Weight>4</Weight>
+  <Type>5</Type>
+  <SubType>mace</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

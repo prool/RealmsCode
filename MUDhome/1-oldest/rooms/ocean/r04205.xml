@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Room Num="4205" Version="2.40" Area="ocean">
+  <Name>Office of the Lieutenant of the Guards</Name>
+  <ShortDescription>You are in the office and quarters of Castle Rutger's Gate Officer.</ShortDescription>
+  <LongDescription>Several officers rotate through this office, and each of them is very
+jealous of the position and rank he holds.  the room is immaculate and 
+quite spartan in appearance.  There is a well-made small bed with a book
+shelf above, and a tidy desk with a single map spread out on it.</LongDescription>
+  
+  <Established>791662133</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">335</Mob>
+      <Mob Area="ocean" Num="1">335</Mob>
+      <Mob Area="ocean" Num="2">335</Mob>
+      <Mob Area="ocean" Num="3">335</Mob>
+      <Mob Area="ocean" Num="4">335</Mob>
+      <Mob Area="ocean" Num="5">336</Mob>
+      <Mob Area="ocean" Num="6">336</Mob>
+      <Mob Area="ocean" Num="7">335</Mob>
+      <Mob Area="ocean" Num="8">335</Mob>
+      <Mob Area="ocean" Num="9">336</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">335</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4202</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

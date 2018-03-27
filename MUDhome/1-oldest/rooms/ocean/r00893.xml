@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Room Num="893" Version="2.44b" Area="ocean">
+  <Name>Sewage Pit</Name>
+  <ShortDescription>You are in a pit half-filled with human excrement.</ShortDescription>
+  <LongDescription>Not only does it stink here, but the bite of the flys is drawing blood.
+Directly overhead is a closed trap door which you fell through, and can-
+not go back into.  Looks like the only way out is to slog through the
+shit and climb out from underneath the wagon.  Better hurry though, 
+there really isn't much oxygen down here.</LongDescription>
+  <LastPlayer>Georgey</LastPlayer>
+  <LastPlayerTime>Mon Nov 23 11:00:01 2009
+</LastPlayerTime>
+  <BeenHere>1</BeenHere>
+  <Flags><Bit Num="8"></Bit><Bit Num="12"></Bit></Flags>
+  <Wander><Traffic>15</Traffic><RandomMonsters><Mob Area="ocean">420</Mob><Mob Area="ocean" Num="1">420</Mob><Mob Area="ocean" Num="2">420</Mob><Mob Area="ocean" Num="3">420</Mob><Mob Area="ocean" Num="4">420</Mob><Mob Area="ocean" Num="5">420</Mob><Mob Area="ocean" Num="6">420</Mob><Mob Area="ocean" Num="7">420</Mob><Mob Area="ocean" Num="8">420</Mob><Mob Area="ocean" Num="9">420</Mob></RandomMonsters></Wander>
+  <Track><Direction>drain pipe</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="drain pipe"><Keys></Keys><Target><Room Area="ocean">490</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

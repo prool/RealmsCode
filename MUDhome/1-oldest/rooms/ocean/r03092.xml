@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="3092" Version="2.40" Area="ocean">
+  <Name>Ulandian Temple Air Vent</Name>
+  <ShortDescription>You are in a tight, narrow air vent in the Uland Temple.</ShortDescription>
+  <LongDescription>You can only go in one direction because there is no room to turn around.
+There's also no light in this dark shaft, and when it gets dark outside 
+the little bit of sunlight that filters in will be gone.  The stones
+about you feel very loose, and this place might collapse at any time.</LongDescription>
+  
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+    <Bit Num="14"/>
+    <Bit Num="28"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>ahead</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="ahead">
+      <Keys/>
+      <Room Area="ocean">3093</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

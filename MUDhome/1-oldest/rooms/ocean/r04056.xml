@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="4056" Version="2.40a" Area="ocean">
+  <Name>Garden path</Name>
+  <ShortDescription>You are on the garden path on the south side of Granovetter's Inn.</ShortDescription>
+  <LongDescription>To the west is the large yard in front of the inn, and to the east you
+see one of the newer buildings in this small village built around the old
+inn.  A good smelling garden is on both sides of the path you are on.  The
+innkeeper's daughter sells some very potent herbs that she grows herself. </LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>yard</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="yard">
+      <Keys/>
+      <Room Area="ocean">4052</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">4049</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

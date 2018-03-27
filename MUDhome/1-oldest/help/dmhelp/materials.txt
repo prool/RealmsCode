@@ -1,0 +1,17 @@
+^WMaterials^x
+ 0     None
+ 1     Wood
+ 2     Glass
+ 3     Cloth
+ 4     Paper
+ 5     Iron
+ 6     Steel
+ 7     Mithril
+ 8     Adamantium
+ 9     Stone
+ 10    Organic
+ 11    Bone
+ 12    Leather
+ 13    Darkmetal
+ 14    Crystal
+

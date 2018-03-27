@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Room Num="2019" Version="2.40" Area="ocean">
+  <Name>Tiamat Lane/Kista Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Tiamat Lane and Kista Avenue.</ShortDescription>
+  <LongDescription>Tiamat Lane heads to the east from here, and Kista Avenue continues
+to the north and south.  There is a small publishing company on the corner.
+Farther south, on the east side of the avenue, you see a building painted
+with pastel stripes.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2534</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2020</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2535</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

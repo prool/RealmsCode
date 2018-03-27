@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="3062" Version="2.40" Area="ocean">
+  <Name>Bythme's Bedroom</Name>
+  <ShortDescription>You are in Bythme's private bedroom.</ShortDescription>
+  <LongDescription>As you entered the room, several small and naked female goblins were
+startled by your presence and fled out the door.  An unmade bed takes
+up most of the room, and piles of clothing and goblin religous objects
+seem to take up the rest of the it.  Regardless of how powerful the high
+priest Bythme is, his housekeeping skills are not good.  he seems to like
+very young females, too, although he is one of the oldest goblins alive.</LongDescription>
+  
+  <Established>761477220</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <Traffic>4</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">502</Mob>
+      <Mob Area="ocean" Num="1">509</Mob>
+      <Mob Area="ocean" Num="2">503</Mob>
+      <Mob Area="ocean" Num="3">504</Mob>
+      <Mob Area="ocean" Num="4">322</Mob>
+      <Mob Area="ocean" Num="5">323</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>curtain</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="curtain">
+      <Keys/>
+      <Room Area="ocean">3060</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

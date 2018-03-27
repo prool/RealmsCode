@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="1077" Version="2.40" Area="ocean">
+  <Name>Rosecrest Street</Name>
+  <ShortDescription>You are on Rosecrest Street, just north of the Southwest Observational Post.</ShortDescription>
+  <LongDescription>You are near the southwestern corner of the city, which is marked by
+the Southwest Observational Station, located south of Golden Dolphin
+Way.  On the east, you can see a small store with a plaque which 
+reads "Dryfus' Elephant Leather Works."  Elephant leather is one of the
+strongest forms of leather available, but also very heavy.  It tends
+to be more comfortable for thieves and assassins than metallic armors.
+Although mages may use elephant leather, it tends to be very heavy and
+uncomfortable for these people.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1076</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1078</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1997</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1617" Version="2.40a" Area="ocean">
+  <Name>Overland Drive/Golden Dolphin Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Overland Drive and Golden Dolphin Way.</ShortDescription>
+  <LongDescription>Overland Drive heads off to the north, eventually turning to the west as
+it reaches the Necropolis and the Manor of Natasha de Allisk, two of the
+most frightening places in Oceancrest.  Golden Dolphin way runs east and
+west, running parallel to the large City Walls that protect the city from
+threats of attack by orcs and other barbarians.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1616</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1697</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1696</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

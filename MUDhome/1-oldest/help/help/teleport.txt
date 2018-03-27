@@ -1,0 +1,23 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  teleport spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 30
+School:  Translocation
+Domain:  Not Castable
+
+This spell moves its target to a random place in the world. It is often seen as
+an offensive spell, as it can send the target to areas inhabited by highly
+aggresive monsters.
+
+MP cost: 60
+
+In conjunction with the anchor spell, a teleport spell can be directed to a
+specific location, rather than a random location.
+
+Only mages, liches, and bards of atleast 13th level may cast teleport.
+
+Syntax:
+cast teleport <target|anchor>
+
+See also:
+HELP ANCHOR

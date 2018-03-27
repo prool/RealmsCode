@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="316" Version="2.40" Area="ocean">
+  <Name>North Oceancrest Hot Springs and Spa</Name>
+  <ShortDescription>You are in the luxurious North Oceancrest Hot Springs and Spa, relaxing
+in a large pool filled constantly with bubbling hot spring water.</ShortDescription>
+  <LongDescription>The North Oceancrest Hot Springs and Spa circulates in warm spring water
+from a natural source in the ground below the building into large pools
+where patrons can go to relax and recover.  The natural mineral water
+comes from the mountains and is heated by a strange lava flow, located
+about two miles below the city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="13"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">478</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">426</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southeast">
+      <Keys/>
+      <Room Area="ocean">477</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

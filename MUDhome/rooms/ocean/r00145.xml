@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="145" Version="2.40" Area="ocean">
+  <Name>East Ulandia</Name>
+  <ShortDescription>East Ulandia continues to the north and south.</ShortDescription>
+  <LongDescription>A row of nice little shops are on the east side of the road, each appearing
+to be clean and neat.  There's a wild-game butcher shop directly east, and
+next door to that is a tiny little restaurant with chairs and tables set
+out on the walk so that customers can enjoy the view of the river.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>10</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">2</Mob>
+      <Mob Area="ocean" Num="1">2</Mob>
+      <Mob Area="ocean" Num="2">4</Mob>
+      <Mob Area="ocean" Num="3">4</Mob>
+      <Mob Area="ocean" Num="6">7</Mob>
+      <Mob Area="ocean" Num="7">8</Mob>
+      <Mob Area="ocean" Num="8">9</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">140</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">150</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

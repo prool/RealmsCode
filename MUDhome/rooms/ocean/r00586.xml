@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="586" Version="2.40a" Area="ocean">
+  <Name>Leviathan Drive/Oceancrest Avenue Intersection</Name>
+  <ShortDescription>You are at the intersection of Oceancrest Drive and Leviathan Avenue.</ShortDescription>
+  <LongDescription>Oceancrest Avenue runs east and west through the center of the town,
+eventually ending up at the eastern entrance to the city.  Leviathan Drive
+runs north and south, making a direct path from the northern City Walls
+all the way to the southern City Walls without interruption.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">585</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">587</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1914</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">716</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

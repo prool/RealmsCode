@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="5081" Version="2.40" Area="ocean">
+  <Name>Lake Kista Rest Area</Name>
+  <ShortDescription>You are on a glistening white beach, watching a copper dragon soar above you.</ShortDescription>
+  <LongDescription>Half buried in the snow-white sand is the hilt of a blade, different from
+any you have ever seen before.  The water's edge is to the south, and in
+the distance further south you can see the city of Kista.</LongDescription>
+  
+  <Established>773483181</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>1800</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">654</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3251</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

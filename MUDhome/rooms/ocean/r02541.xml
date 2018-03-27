@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Room Num="2541" Version="2.40" Area="ocean">
+  <Name>Red Haze</Name>
+  <ShortDescription>You are no longer in this world.  There is a red haze surrounding you.</ShortDescription>
+  <LongDescription>It's almost like a luminescent fog, making it impossible for you to see
+even your hand when you put it in front of your eyes.  It's neither warm
+nor cold however, but it is as silent as a tomb.  The only thing that draws
+your attention is an area in the haze that is slightly more intense in
+the color red than its surroundings.  You might try going that way.</LongDescription>
+  
+  <Established>787353377</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>reddish haze</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="reddish haze">
+      <Keys/>
+      <Room Area="ocean">2098</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

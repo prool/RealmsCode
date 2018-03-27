@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3342" Version="2.40" Area="ocean">
+  <Name>Necropolis Path</Name>
+  <ShortDescription>You are walking along the Necropolis path, approaching the Walk of Heroes.</ShortDescription>
+  <LongDescription>The path becomes a bit overgrown, as if it hasn't been cared for in
+quite some time.  The mausoleum is still visible to the north, but
+you shiver just looking at it.  To the southeast, the Walk of Heroes
+comes into view, a place where the greatest heroes in Oceancrest's ancient
+history are buried, each with monuments in their name.</LongDescription>
+  
+  <Established>759804234</Established>
+  <Flags>
+    <Bit Num="9"/>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3341</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">3343</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="overgrown path">
+      <Keys/>
+      <Room Area="ocean">3420</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

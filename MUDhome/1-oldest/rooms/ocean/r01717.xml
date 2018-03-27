@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Room Num="1717" Version="2.40" Area="ocean">
+  <Name>Melbourne Avenue/Waterfront Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Waterfront Way and Melbourne Avenue.</ShortDescription>
+  <LongDescription>Melbourne Avenue runs north from Waterfront Way, heading past the infamous
+Melbourne Entertainment Arena, where criminals and other less appreciated
+members of society are put to their deaths by throwing them into the arena
+to be stones, skewered or otherwise mutilated in a horrible death.  This
+tends to keep crime in the city down, though.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1803</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1804</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1716</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

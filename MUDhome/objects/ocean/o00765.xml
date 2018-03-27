@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Object Num="765" Area="ocean" Version="2.40">
+  <Name>jeweled breast plate</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>5</ShotsMax>
+  <ShotsCur>5</ShotsCur>
+  <Armor>-44</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">50</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">breast</Key>
+    <Key Num="1">plate</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="0"/>
+    <Bit Num="10"/>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+    <Bit Num="22"/>
+  </Flags>
+  <Description>The jeweled breast plate looks like a wonderful piece of magic armor.</Description>
+  <Weight>20</Weight>
+  <Type>6</Type>
+  <SubType>plate</SubType>
+  <WearFlag>1</WearFlag>
+  <InBag/>
+</Object>

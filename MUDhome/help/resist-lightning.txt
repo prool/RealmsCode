@@ -1,0 +1,15 @@
+....·····.....·····..../                                 \....·····.....·····...
+  ·  .  .  ·  ·  .  .  | Help on: resist-lightning spell |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                 /····.....·····.....···
+MP cost: 13
+
+This spell protects you from spells in the electricity realm, causing you to
+take half damage. In addition, it protects you against electricity traps and
+lightning breath weapons. Note that only magic from the realm of electricity
+is affected.
+
+See "help resist" for more information.
+
+Syntax:
+cast resist-lightning <target>
+

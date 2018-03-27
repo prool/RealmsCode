@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="694" Version="2.40" Area="ocean">
+  <Name>Islandia Drive</Name>
+  <ShortDescription>You are walking along Islandia Drive, north of the Evenborough Park.</ShortDescription>
+  <LongDescription>The lush green Evenborough Park is the home to many of birds and other
+small animals of the forest.  The path into the Park is directly to the
+south.  On the north side of the road is the Darmanian Memorial, a
+preservation for ancient artifacts of old civilizations.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">693</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">695</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,12 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |  Help on:  hold-person spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 20
+
+Hold-person is a spell only castable by mages, paladins, clerics, and liches. It
+will magically render the victim immobile, however, the target may still fight
+back. They are simply prevented from leaving the room for a short time.
+
+Syntax:
+cast hold-person <target>
+

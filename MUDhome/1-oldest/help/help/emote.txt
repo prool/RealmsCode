@@ -1,0 +1,14 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  emote          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Emote allows you to customize the actions of your player.  It is similar to the
+normal social commands (i.e. smile, laugh, etc) except that the text following
+your name can be anything you desire.
+
+Example:
+: emote is hungry
+You emote: is hungry
+: : searches for food
+You emote: searches for food
+:

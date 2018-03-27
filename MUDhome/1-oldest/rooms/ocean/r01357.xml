@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="1357" Version="2.40a" Area="ocean">
+  <Name>Neilian Drive</Name>
+  <ShortDescription>You are walking along Neilian Drive, north of the Snake Eyes Gaming Facility.</ShortDescription>
+  <LongDescription>Gambling has never really been illegal in Oceancrest, but highly discouraged.
+Not so much because of the gambling itself, but what the loss of large
+amounts of money does to people.  After all, the house always has an 
+advantage, otherwise they wouldn't be doing it.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1356</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1312</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

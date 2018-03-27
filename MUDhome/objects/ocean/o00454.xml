@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Object Num="454" Area="ocean" Version="2.40">
+  <Name>dangerous destinations key</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>40</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">key</Key>
+    <Key Num="1">destinations</Key>
+    <Key Num="2"> </Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+  </Flags>
+  <Description>It is a simple brass key which says, 'I survived dangerous destinations'.</Description>
+  <UseOutput>You turn the key with intrepidation.</UseOutput>
+  <Weight>1</Weight>
+  <Type>12</Type>
+  <WearFlag>17</WearFlag>
+  <InBag/>
+</Object>

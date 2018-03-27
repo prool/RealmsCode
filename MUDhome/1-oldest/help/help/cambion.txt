@@ -1,0 +1,25 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |         Help on:  Cambion         | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Adjustments: +1 Intelligence, +1 Strength, -2 Piety
+Compatible Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf,
+	Fighter/Mage, Cleric/Assassin, Mage/Thief, Thief/Mage,
+        Mage/Assassin
+
+Cambions are half-breeds between demons of Hell and humans. As such, they
+are often of greater intellect then a mere human would be. They appear just
+as humans, although they often have a distorted feature here and there,
+such as pointed ears or strange colored skin, hair, or eyes. On occasion
+they even have small horns. Cambions are very attuned to magic, and they
+make excellent mages. Many Cambion Death Knights can be found as well.
+Cambion women are ALWAYS beautiful and seductive, and they are often in
+highly influential positions. Due to their unworldly connections and
+sometimes deformities, Cambions aren't as dexterous as most. They aren't as
+robust in constitution as humans either. Type HELP CAMBIONS for roleplaying
+information.
+
+See in dark (infravision): Yes
+Size class: Medium
+

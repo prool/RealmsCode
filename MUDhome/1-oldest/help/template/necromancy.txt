@@ -1,0 +1,12 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |       Help on:  necromancy        | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Necromancy spells manipulate the power of life and death. They raise the
+dead to fight for the caster and steal the life force of the enemy.
+Spells that protect from the undead belong to the school of Abjuration.
+
+Note that the necromancy school currently has limited spells. More work
+is being done to code spells for this school.
+
+Note: You must be evil to cast necromancy spells.

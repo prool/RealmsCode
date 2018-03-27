@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="4234" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>You are in the widest of all the hallways in Prince Rutger's Tower Castle.</ShortDescription>
+  <LongDescription>It goes completely around the castle's ground level, and eventually will
+come back to this place.  There are a great many doors along the way, and
+several side corridors running towards the center of the castle.  Most of
+the castle's activities are held in the courtyard.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>northeast</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4233</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4235</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="903" Version="2.40" Area="ocean">
+  <Name>Secret Underground Passage</Name>
+  <ShortDescription>You assume you are somewhere under the city.</ShortDescription>
+  <LongDescription>You've deduced that you must now be under the cemetery.  It's quite
+dark in here.  All the torches have burned out.  You notice that the
+floor is covered in sickly green moss, making it quite slippery.  The
+smell in here is also pretty atrocious.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="8"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>passage</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="passage">
+      <Keys/>
+      <Room Area="ocean">904</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">901</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

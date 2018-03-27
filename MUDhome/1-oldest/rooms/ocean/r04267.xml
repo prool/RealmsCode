@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="4267" Version="2.40" Area="ocean">
+  <Name>Weather Wizard's Climate Control Room</Name>
+  <ShortDescription>You are in a room filled with weather maps and charts. </ShortDescription>
+  <LongDescription>A transparent globe floats in the center of the room, with a miniature
+landscape of the country surrounding The Tower Castle of Prince Rutger
+inside it.  There are dials and controls under the globe, and several are
+marked with such words as Rain, Storm, Wind, and Lightning.  A stack of
+black wands are arranged near the door.</LongDescription>
+  
+  <Established>792296662</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">769</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">769</Misc>
+    </LastTime>
+    <LastTime Num="2">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">769</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">4221</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

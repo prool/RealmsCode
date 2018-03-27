@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1230" Version="2.40" Area="ocean">
+  <Name>Lankshire Parkway</Name>
+  <ShortDescription>You are on Lankshire Parkway, east of the Oceancrest Stables.</ShortDescription>
+  <LongDescription>The large Oceancrest Stables and Walking Yards are located to the west
+of Lankshire Parkway, where guests and visitors to the town may leave
+their steeds while visiting.  Horses, although permitted in town, create
+a hazard to the pedestrians on the road.  Since it's not really safe for
+either the horse or the people, most just leave them in the stables.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1229</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1231</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

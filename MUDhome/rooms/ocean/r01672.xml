@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Room Num="1672" Version="2.40" Area="ocean">
+  <Name>Waterfront Way</Name>
+  <ShortDescription>You are walking along Waterfront Way, south of Iila's Salts and Preserves.</ShortDescription>
+  <LongDescription>Food storage is a very important part of today's society, as who knows
+when a famine can strike.  However, most perishable goods don't last for
+more than a couple of days.  When you by some meat, you usually have to
+buy the whole cow, and a whole cow can last a family for months.  Therefore,
+the quick solution may be found at Iila's, who specializes in long-term
+food storage.  </LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1673</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1671</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

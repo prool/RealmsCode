@@ -1,0 +1,55 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |          Help on:  shops          | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+
+Players are able to set up their own shops, and stock and unstock them
+accordingly, and to receive gold based on what is purchased. A deed must be
+bought in the location where land is sold in a city. The deed will only be good
+to be used in the city where it was bought. You then must seek out a suitable
+location for your shop and found it. Once founded, you will be able to maintain
+your stock at your leisure. A 6% tax is levied on all sales from your shop. This
+tax may change based on the location of the shop, so be aware.
+
+- You cannot refund in a player shop.
+- Using a shop as a storage room by charging outrageous prices is illegal.
+
+Buying:
+  To buy from a player shop, type LIST to see what is being sold. Numbers are
+  next to the item to avoid any sort of confusion. Type BUY #1 to buy the first
+  item, BUY #2 for the 2nd, etc. etc.
+
+  Note that once you buy an item, the numbers will change!
+
+Syntax:
+^Wshop survey^x
+  This allows you to see if a site is available for building.
+
+^Wshop stock (item) [$price]^x
+  This allows you to stock an item in your shop. It is
+  possible to have more than one item of the same type
+  in stock. You set the price as you stock it. If you
+  do not specify a price, the item's default value is
+  used.
+
+^Wshop price (item) ($price)^x
+  This allows you to change the price on an already
+  stocked item.
+
+^Wshop remove (item)^x
+  This allows you to remove an item from stock.
+
+^Wshop found (exit_name)^x
+  This allows you to found your shop. Not all areas
+  will allow shops to be built. You must go from room
+  to room in order to find an available spot. If the
+  exit name has two words (i.e. blue door), then you
+  must specify it with underscores (i.e. blue_door).
+
+^Wshop name (shop name)^x
+ This allows you to name the room that is your shop.
+
+IMPORTANT NOTE
+Shop names and exit names are closely monitored so that we can be sure they fit
+into the area they are contained in. We will not tolerate profane or incredibly
+stupid names of shops or entrances. Please make the names fit into the areas in
+which you found your shops.

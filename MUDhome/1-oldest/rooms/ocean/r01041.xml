@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="1041" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive</Name>
+  <ShortDescription>You are on Oceancrest Drive, between Hillcrest Drive and Regalia Drive.</ShortDescription>
+  <LongDescription>To the east, you can see the impressive Temple of the Rising Moon, run by a
+clerical order which is dedicated to the balance of lunar power.  Since the
+moon often symbolizes the hunt, many hunters come here before they leave the
+city.  They seek the blessing of the goddess who resides in the temple.  To
+the west is the famous Oceancrest Ministry of Knowledge.  This is the site
+of the main Library and reference desk for nearly any researchable subject.
+Of course, not just anyone can enter the Ministry.  It is a restricted to
+only the wisest of scholars.  You probably don't qualify.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1040</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1042</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

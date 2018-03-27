@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3087" Version="2.40" Area="ocean">
+  <Name>Shuddering Room</Name>
+  <ShortDescription>This room vibrates and shudders, as if the walls themselves are in pain.</ShortDescription>
+  <LongDescription>Something tells you that the force of life, which binds all living things
+together, has been horribly twisted and mutilated here by some unthinkable
+magic.  There is another room to the west, from which you can see a
+fireworks-like abundance of light, and hear constant booming and screaming
+noises.  To the south, a passage leads back into the more normal regions
+of the underground city.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="12"/>
+    <Bit Num="17"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3088</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

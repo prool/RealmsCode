@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="3617" Version="2.40" Area="ocean">
+  <Name>Main Courtyard West</Name>
+  <ShortDescription>You are on the west side of the Castle Ragnar's open-air courtyard.</ShortDescription>
+  <LongDescription>A stone soffet overhangs the courtyard here, providing relief from both
+the sun and rain.  You see three doors set in the marble wall, each a
+different color.  There is nothing here to identify their purpose.  To
+the east is the troop assembly floor, and further south is a couple of
+tents where you can hear the vendors hawking their wares.  A narrow 
+opening in the wall appears to make a right angle after a few meters 
+inside the wall.  If you go in there, you will have to squeeze to get in.</LongDescription>
+  
+  <Established>762645419</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3624</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3616</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3618</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

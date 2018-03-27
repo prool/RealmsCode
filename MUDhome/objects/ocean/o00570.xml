@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Object Num="570" Area="ocean" Version="2.40">
+  <Name>pile of gold</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>1</ShotsMax>
+  <ShotsCur>1</ShotsCur>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">500</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">pile</Key>
+    <Key Num="1">gold</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a large pile of gold!</Description>
+  <Weight>15</Weight>
+  <Type>11</Type>
+  <InBag/>
+</Object>

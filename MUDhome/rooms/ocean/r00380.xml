@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="380" Version="2.40" Area="ocean">
+  <Name>Orchard Lane</Name>
+  <ShortDescription>You are walking down Orchard Lane, north of the Ministry of Tranquility.</ShortDescription>
+  <LongDescription>The Oceancrest Ministries are located on the southern block, south of
+Orchard Lane.  Directly to the south is the Ministry of Tranquility, which
+is in charge of domestic peace.  The Tranquility Patrol is run from
+this facility.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">379</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1325</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

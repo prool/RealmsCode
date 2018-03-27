@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Room Num="4221" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>This is the east side of Castle Rutger, at the Weather Wizard's Room.</ShortDescription>
+  <LongDescription>The door on the west side of the great circular hallway shimmers with a
+bluish glow.  Energy snaps and crackles from it, producing an eerie light
+in the hallway.  There is no sign or other indication where the door leads,
+but it is well known as the Weather Wizard's Climate Control Room.</LongDescription>
+  
+  <Established>792295187</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">777</Mob>
+      <Mob Area="ocean" Num="1">777</Mob>
+      <Mob Area="ocean" Num="2">777</Mob>
+      <Mob Area="ocean" Num="3">777</Mob>
+      <Mob Area="ocean" Num="4">777</Mob>
+      <Mob Area="ocean" Num="5">777</Mob>
+      <Mob Area="ocean" Num="6">777</Mob>
+      <Mob Area="ocean" Num="7">777</Mob>
+      <Mob Area="ocean" Num="8">777</Mob>
+      <Mob Area="ocean" Num="9">777</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">777</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4220</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">4222</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="glowing door">
+      <Keys/>
+      <Room Area="ocean">4267</Room>
+      <Flags>
+        <Bit Num="7"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

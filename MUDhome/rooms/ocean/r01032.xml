@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1032" Version="2.40" Area="ocean">
+  <Name>Oceanview Drive</Name>
+  <ShortDescription>You are on Oceanview Drive, just north of the Rosecrest Street intersection.</ShortDescription>
+  <LongDescription>Darby Reynold's shipbuilding offices are located east of Oceanview Drive.
+For a considerable sum of money, just about any ship may be custom built
+for the discriminating customer.  There is a loud, partying-type noise
+coming from the building to the west.  It appears to be some sort of 
+cantina, but there's no entrance on this side of the building.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1031</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1033</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

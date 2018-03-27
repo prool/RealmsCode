@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="5087" Version="2.40" Area="ocean">
+  <Name>Dumbwaiter Shaft</Name>
+  <ShortDescription>You are in a dumbwaiter shaft a considerable distance below the kitchen.</ShortDescription>
+  <LongDescription>There is an almost overpowering stench coming from below, and the shaft is
+so small it feels like you can barely wriggle through it.</LongDescription>
+  
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5086</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">5088</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

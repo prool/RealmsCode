@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="89" Version="2.40" Area="ocean">
+  <Name>South Bridge</Name>
+  <ShortDescription>This is Brownhaven's southern bridge over the Baldywyne River.</ShortDescription>
+  <LongDescription>The water flows from the heights of the mysterious Mount Caledonia, which
+has never been fully mapped.  Many adventurers have made expeditions to
+it, but few have returned.  The water is cold and refreshing, and is the
+main source of drinking water for the village.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">88</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">155</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

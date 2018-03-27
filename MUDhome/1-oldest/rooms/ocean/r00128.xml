@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Room Num="128" Version="2.40" Area="ocean">
+  <Name>Thieve's Guild</Name>
+  <ShortDescription>This is where thieves hang out.</ShortDescription>
+  <LongDescription>Checking your inventory, you begin to wander who...</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags>
+    <Bit Num="3"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">129</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

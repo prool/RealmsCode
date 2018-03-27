@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3970" Version="2.40" Area="ocean">
+  <Name>Llanandar's Tackle Shop</Name>
+  <ShortDescription>You are in a most exquisite archery tackle and fletching shop.</ShortDescription>
+  <LongDescription>The small room is neat as a pin, and the work bench has all the tools in
+a neat rack nearby.  There is a crossbow on the bench which looks to be
+completely finished.  A small blue ball, shining brightly, lies beside it.
+The room is so tiny, and you are so big, that you have probably scared
+everyone into hiding.</LongDescription>
+  
+  <Established>770408904</Established>
+  <Flags>
+    <Bit Num="16"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">609</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3969</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="stairs">
+      <Keys/>
+      <Room Area="ocean">3971</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

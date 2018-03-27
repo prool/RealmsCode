@@ -1,0 +1,13 @@
+Help on DM command:
+	TELL
+
+Tell flashes the exact string specified to the player.
+
+: *tell min The wino attacks you.
+You flashed: "The wino attacks you." to Min.
+: *tell min ### Bob just flashed, "I'm going to kill you!".
+You flashed: "### Bob just flashed, "I'm going to kill you!"." to Min.
+
+(23 H 5 M): The wino attacks you.
+(23 H 5 M): ### Bob just flashed, "I'm going to kill you!".
+

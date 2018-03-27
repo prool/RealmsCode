@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Object Num="312" Area="ocean" Version="2.40">
+  <Name>elven leather whip</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>100</ShotsMax>
+  <ShotsCur>100</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>4</Sides>
+    <Plus>2</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">350</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">elven</Key>
+    <Key Num="1">leather</Key>
+    <Key Num="2">whip</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags/>
+  <Description>You see a finely crafted bull whip used mostly for crowd control.</Description>
+  <UseOutput>You crack the whip like an experienced dominatrix.</UseOutput>
+  <Weight>1</Weight>
+  <Type>5</Type>
+  <SubType>whip</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

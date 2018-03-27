@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Object Num="576" Area="ocean" Version="2.40">
+  <Name>chill blade flail</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Dice>
+    <Number>1</Number>
+    <Sides>14</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">5000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">blade</Key>
+    <Key Num="1">flail</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="15"/>
+    <Bit Num="33"/>
+    <Bit Num="34"/>
+    <Bit Num="35"/>
+    <Bit Num="37"/>
+    <Bit Num="38"/>
+  </Flags>
+  <Description>A flail, cold to the touch!</Description>
+  <Weight>6</Weight>
+  <Type>5</Type>
+  <SubType>sword</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="1613" Version="2.40" Area="ocean">
+  <Name>Overland Drive</Name>
+  <ShortDescription>You are walking along Overland Drive, just east of the Klondike Wheat Fields.</ShortDescription>
+  <LongDescription>The reason there are not more diagonally running roads in town is because
+they create useless slivers of land that no one in their right minds would
+want to develop.  Such is the case with the sliver of land created by the
+crossing of Appleton Road, Overland Drive and Waterfront Way.  A small 
+monument has been placed in the sliver of land on the east.  The Klondike
+Wheat Fields are located to the west, the entrance to which is located 
+along Lankshire Drive on the west side of the fields.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1612</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1614</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

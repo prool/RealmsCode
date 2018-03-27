@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Room Num="2940" Version="2.40" Area="ocean">
+  <Name>Inside Khallazar's Hut</Name>
+  <ShortDescription>You are inside the hut of Khallazar, the alchemist.</ShortDescription>
+  <LongDescription>Several bubbling vials and cauldrons stand in the middle of the room,
+and a crude piping system overhead delivers a dripping acid to each of
+the them.  Lead bars are stacked in one corner, and a smaller pile of
+gold bars is near the door.  Khallazar has evidently found that part of
+the secret of turning lead to gold is complete isolation from the ground
+below.  The hut sways gently as you walk in here.</LongDescription>
+  
+  <Established>759022130</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">464</Mob>
+      <Mob Area="ocean" Num="1">463</Mob>
+      <Mob Area="ocean" Num="2">463</Mob>
+      <Mob Area="ocean" Num="3">463</Mob>
+      <Mob Area="ocean" Num="4">464</Mob>
+      <Mob Area="ocean" Num="5">463</Mob>
+      <Mob Area="ocean" Num="6">463</Mob>
+      <Mob Area="ocean" Num="7">464</Mob>
+      <Mob Area="ocean" Num="8">463</Mob>
+      <Mob Area="ocean" Num="9">463</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">462</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs>
+    <LastTime Num="0">
+      <Interval>3600</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">536</Misc>
+    </LastTime>
+  </PermObjs>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">2939</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="panel">
+      <Keys/>
+      <Room Area="ocean">3980</Room>
+      <Flags>
+        <Bit Num="0"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

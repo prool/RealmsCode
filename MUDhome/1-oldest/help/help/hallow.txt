@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |      Help on:  hallow spell       | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 20
+School:  Not Castable
+Domain:  Good
+
+The hallow spell fills a room with a holy aura, decreasing the damage of all
+undead creatures in the room. A hallow spell can be detected by a know-aura
+spell. Unhallow cancels the effects of this spell.
+
+Syntax:
+cast hallow

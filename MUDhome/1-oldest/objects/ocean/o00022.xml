@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Object Num="22" Area="ocean" Version="2.40">
+  <Name>lancette</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>38</ShotsMax>
+  <ShotsCur>38</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>3</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">110</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags/>
+  <Weight>7</Weight>
+  <Type>5</Type>
+  <SubType>polearm</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

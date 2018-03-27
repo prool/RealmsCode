@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Room Num="4074" Version="2.40" Area="ocean">
+  <Name>North Highway</Name>
+  <ShortDescription>You are on North Highway, passing by the eastern side of Golgoth Mountain.</ShortDescription>
+  <LongDescription>Deep crevices and valleys run east to west on the eastern side of the
+Highway.  They appear to form a labrynth of interconnecting passages
+where one might become lost, were he to venture into them.  An old map
+tacked to the wall of the Boar's Arse Pub marks this area as the home
+of a large number of hobbits.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">4073</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

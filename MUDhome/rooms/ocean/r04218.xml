@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Room Num="4218" Version="2.40" Area="ocean">
+  <Name>Level One Circular Hallway</Name>
+  <ShortDescription>This is the southeast area of the Tower Castle of Prince Rutger.</ShortDescription>
+  <LongDescription>There is an intersection with Apstone Tunnel farther to the north, while to
+the south you see a line of shops which serve the needs of the castle's
+inhabitants.  Not far from here is a pawn shop, usually frequented by some
+of the younger and less well paid members of the castle's defense force.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>southwest</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="southwest">
+      <Keys/>
+      <Room Area="ocean">4217</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northeast">
+      <Keys/>
+      <Room Area="ocean">4219</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

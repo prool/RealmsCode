@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Object Num="516" Area="ocean" Version="2.40">
+  <Name>hippogriff shield</Name>
+  <Adjustment>1</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Armor>35</Armor>
+  <Dice>
+    <Number>0</Number>
+    <Sides>0</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">10000</Coin>
+  </Value>
+  <Keys>
+    <Key Num="0">shield</Key>
+  </Keys>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="14"/>
+    <Bit Num="15"/>
+    <Bit Num="36"/>
+  </Flags>
+  <Description>The shield is made from the skin of an enchanted hippogriff, and glows softly.</Description>
+  <UseOutput>The enchantment of the hippogriff surrounds you!</UseOutput>
+  <Weight>6</Weight>
+  <Type>6</Type>
+  <SubType>shield</SubType>
+  <WearFlag>18</WearFlag>
+  <InBag/>
+</Object>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Room Num="3843" Version="2.47i" Area="ocean">
+  <Name>Guard's Holding Cell</Name>
+  <ShortDescription>You are in a holding cell at the North Oceancrest Guard Station.</ShortDescription>
+  <LongDescription>Although this cell was supposed to be a temporary place to keep prisoners
+detained by the guards, it looks like they must have forgotten a few.  
+By the way, the lieutenant is the only one with a key to this cell.</LongDescription>
+  <Flags><Bit Num="12"></Bit></Flags>
+  <Wander></Wander>
+  <Track><Direction>cell door</Direction></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs><LastTime Num="0"><Interval>900</Interval><LastTime>0</LastTime><Misc Area="ocean">764</Misc></LastTime></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="cell door"><Keys></Keys><Target><Room Area="ocean">3942</Room></Target><Key>61</Key><Effects></Effects><Flags><Bit Num="2"></Bit><Bit Num="3"></Bit><Bit Num="4"></Bit><Bit Num="5"></Bit></Flags></Exit></Exits>
+</Room>

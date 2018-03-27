@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="540" Version="2.40a" Area="ocean">
+  <Name>Necropolis Avenue/Lelion Way Intersection</Name>
+  <ShortDescription>You are at the intersection of Lelion Way and Necropolis Avenue.</ShortDescription>
+  <LongDescription>Necropolis Avenue runs south from Lelion Way, which heads east to west.  On
+the north side of the road is the Lyanden Swamp where various hideous 
+creatures dwell.  Necropolis Avenue heads south past the Harvest Circle,
+directly into the Main Entrance of the Necropolis.  </LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">541</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">539</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">635</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

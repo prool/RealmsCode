@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Room Num="1" Version="2.47e" Area="ocean">
+  <Name>The Tree of Life</Name>
+  <ShortDescription>You are on top of the Tree of Life, overlooking all of Oceancrest.</ShortDescription>
+  <LongDescription>The Tree of Life is symbolically one of the most interesting phemonena
+in Oceancrest.  From here, you can see the splendor of the city of 
+Oceancrest.  The Tree of Life provides much of the life-giving energy
+you can see and sense throughout the land.  It has always been a mystery
+to everyone, but no one seems to argue it.  You may start your quest in
+the Land of Mordor by heading down the tree.</LongDescription>
+  <LastPlayer>Asdf</LastPlayer>
+  <LastPlayerTime>Sat Apr 27 15:25:01 2013
+</LastPlayerTime>
+  <BeenHere>3</BeenHere>
+  <Flags><Bit Num="31"></Bit></Flags>
+  <Wander></Wander>
+  <Track><Direction>down</Direction><Size>4</Size></Track>
+  <Effects></Effects>
+  <PermMobs></PermMobs>
+  <PermObjs></PermObjs>
+  <Objects></Objects>
+  <Creatures></Creatures>
+  <Exits><Exit Name="down"><Keys></Keys><Target><Room Area="ocean">1784</Room></Target><Effects></Effects></Exit></Exits>
+</Room>

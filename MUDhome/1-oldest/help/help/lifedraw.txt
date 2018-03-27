@@ -1,0 +1,13 @@
+....·····.....·····/                                   \·····.....·····....
+  ·  .  .  ·  ·  . |     Help on:  lifedraw spell      | .  ·  ·  .  .  ·
+····.....·····.....\                                   /.....·····.....····
+MP cost: 9
+School:  Necromancy
+Domain:  Evil
+
+This spell is a necromantic attack spell. When cast on an enemy it will
+harm them with negative energy, healing the caster in the process. A lich
+cannot be healed in this manner - instead, their damage is increased.
+
+Syntax:
+cast lifedraw <target>

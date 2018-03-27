@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Room Num="3950" Version="2.40" Area="ocean">
+  <Name>Spiral Landing</Name>
+  <ShortDescription>You are on a landing of a spiral redwood staircase, around a huge tree.</ShortDescription>
+  <LongDescription>The staircase either begins or ends here, depending on your point of view.
+Looking down, you see its at least ten meters to the ground.  If you can't
+fly, you are going to get hurt if you try to go that way.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>up</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3951</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">2139</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

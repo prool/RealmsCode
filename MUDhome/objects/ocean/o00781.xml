@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Object Num="781" Area="ocean" Version="2.40">
+  <Name>khopesh</Name>
+  <Adjustment>0</Adjustment>
+  <ShotsMax>50</ShotsMax>
+  <ShotsCur>50</ShotsCur>
+  <Dice>
+    <Number>2</Number>
+    <Sides>4</Sides>
+    <Plus>0</Plus>
+  </Dice>
+  <Value>
+    <Coin Num="2">100</Coin>
+  </Value>
+  <Keys/>
+  <LastTimes/>
+  <Flags>
+    <Bit Num="8"/>
+    <Bit Num="9"/>
+  </Flags>
+  <Description>You see a lightly curved sword used by many bards for self-defense.</Description>
+  <Weight>1</Weight>
+  <Type>5</Type>
+  <SubType>dagger</SubType>
+  <WearFlag>20</WearFlag>
+  <InBag/>
+</Object>

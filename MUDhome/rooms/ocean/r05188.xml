@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Room Num="5188" Version="2.40" Area="ocean">
+  <Name>Grassy Knoll</Name>
+  <ShortDescription>You are atop a copper dragon on a grassy knoll.  East is Galgorie Pond.</ShortDescription>
+  <LongDescription>This is often the resting place for riders of the copper dragons.  From
+here, you are within walking distance of Prince Ragnar's castle.  This spot
+is also a favorite for the dragons too, as they like to roll in the grass
+and wildflowers.  There is a quiet pond to the east, and a wooded copse
+to the south.  A copper dragon waits for your command.</LongDescription>
+  
+  <Established>773889380</Established>
+  <Flags>
+    <Bit Num="12"/>
+  </Flags>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>dismount</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">670</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="dismount">
+      <Keys/>
+      <Room Area="ocean">5189</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">5187</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

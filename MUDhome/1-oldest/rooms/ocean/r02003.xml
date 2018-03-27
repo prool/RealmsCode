@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="2003" Version="2.40a" Area="ocean">
+  <Name>Lake View Road</Name>
+  <ShortDescription>You are on the west side of Lake View Road.</ShortDescription>
+  <LongDescription>Lake View Road circles around Lake Kista on the northeast side of
+the town.  To the west, you can see the generic stables used by all
+the citizens of the town.  On the east side are the stables for visiting
+dignitaries who come to Kista to discuss important issues of the day.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2002</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2011</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2004</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="northwest">
+      <Keys/>
+      <Room Area="ocean">2008</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

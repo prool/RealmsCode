@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Room Num="3636" Version="2.40" Area="ocean">
+  <Name>Main Courtyard East</Name>
+  <ShortDescription>You are on the east side of Castle Ragnar's main courtyard.</ShortDescription>
+  <LongDescription>A small alcove in the east wall leads to an apothecary shoppe.  Partially
+blocking the way to the south is a bright red and white striped tent whose
+entrance appears to be around to the south.  A great oaken tree grows here,
+long ago having burst from the floor and put roots down through the stone
+crevices.  A number of crows and ravens inhabit the upper limbs of the tree.</LongDescription>
+  
+  <Established>762646137</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">3625</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3637</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3635</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="alcove">
+      <Keys/>
+      <Room Area="ocean">4500</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

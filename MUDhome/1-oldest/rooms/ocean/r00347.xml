@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Room Num="347" Version="2.40" Area="ocean">
+  <Name>Kishijoten's Sushi Bar</Name>
+  <ShortDescription>You are in a rather large sushi bar named after the goddess Kishijoten.</ShortDescription>
+  <LongDescription>Kishijoten is the goddess of luck in many of the eastern cultures on
+the other side of the island.  Iisika, the founder of the bar, decided
+to pay homage to her favorite goddess and luck has not ceased to shine
+upon her very popular business.  Fresh fish and other seafood is a
+delicacy among many of the eastern cultures as well as many of the
+oceanic cultures, who will often show up here to talk and have something
+to eat.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>15</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">307</Mob>
+      <Mob Area="ocean" Num="1">307</Mob>
+      <Mob Area="ocean" Num="2">307</Mob>
+      <Mob Area="ocean" Num="3">307</Mob>
+      <Mob Area="ocean" Num="4">307</Mob>
+      <Mob Area="ocean" Num="5">307</Mob>
+      <Mob Area="ocean" Num="6">307</Mob>
+      <Mob Area="ocean" Num="7">307</Mob>
+      <Mob Area="ocean" Num="8">307</Mob>
+      <Mob Area="ocean" Num="9">307</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">532</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Room Num="5900" Version="2.40" Area="ocean">
+  <Name>North Gate for Brownhaven</Name>
+  <LongDescription>You are outside the north gate of the village of Brownhaven.
+There is a dusty caravan trail stretching in the distance.  It leads both
+east and west, and disappears out of sight in both directions.  A sign post
+indicates that Oceancrest is west, while Kista is east.  A broken pointer
+hangs on the post, so you have no idea which way to go for the elven city
+of Hafnia.  You do know it's located somewhere in the northern mountains.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>gate</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="gate">
+      <Keys/>
+      <Room Area="ocean">18</Room>
+      <Flags>
+        <Bit Num="17"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>

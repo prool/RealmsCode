@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Room Num="3729" Version="2.40" Area="ocean">
+  <Name>Cross Hallway</Name>
+  <ShortDescription>You are in a cross hallway upstairs in the Dragon Tooth Inn.</ShortDescription>
+  <LongDescription>Directly to the east is the main second floor hallway.  The cross hallway
+is much narrower and runs north and south in the inn.  The carpet is a
+little more worn and not as expensive as that in the main hallway, and the
+lighting is not quite as bright.  Shadows covers some of the doorways,
+especially those in the alcove to the south.  To the north there seems
+to be a single room where the door is slightly ajar.  There are rumors
+of a haunted room in the Dragon Tooth Inn.</LongDescription>
+  
+  <Established>764461961</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">3726</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">3730</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">3732</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

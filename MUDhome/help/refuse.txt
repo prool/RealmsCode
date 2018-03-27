@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  refuse     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Refuse allows you to create a "refuse list" similar to your ignore list and gag
+list (HELP IGNORE, HELP GAG). When someone is on your refuse list, they cannot
+follow you, and they cannot give you items. This list is cleared every time you
+log off/on.
+
+Syntax:
+refuse <target>
+refuse clear
+

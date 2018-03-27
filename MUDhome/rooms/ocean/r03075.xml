@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Room Num="3075" Version="2.40" Area="ocean">
+  <Name>Hextril Nest</Name>
+  <ShortDescription>You are in a nest of very hungry hextrils inside the Ulandian Temple.</ShortDescription>
+  <LongDescription>They seem to be crawling all over each other in their attempt to get to
+you.  Each of the hextrils has six powerful tentacles, and each tentacle
+has rows of two types of pods on them.  They are lined with both sucker
+pods and acid secreeting pods.  Nasty creatures.  Why did you come in here?</LongDescription>
+  
+  <Established>790909092</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>12</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">769</Mob>
+      <Mob Area="ocean" Num="1">769</Mob>
+      <Mob Area="ocean" Num="2">769</Mob>
+      <Mob Area="ocean" Num="3">769</Mob>
+      <Mob Area="ocean" Num="4">769</Mob>
+      <Mob Area="ocean" Num="5">770</Mob>
+      <Mob Area="ocean" Num="6">769</Mob>
+      <Mob Area="ocean" Num="7">769</Mob>
+      <Mob Area="ocean" Num="8">769</Mob>
+      <Mob Area="ocean" Num="9">770</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>out</Direction>
+  </Track>
+  <PermMobs>
+    <LastTime Num="0">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">770</Misc>
+    </LastTime>
+    <LastTime Num="1">
+      <Interval>0</Interval>
+      <LastTime>0</LastTime>
+      <Misc Area="ocean">769</Misc>
+    </LastTime>
+  </PermMobs>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="out">
+      <Keys/>
+      <Room Area="ocean">3067</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

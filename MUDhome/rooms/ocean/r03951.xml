@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Room Num="3951" Version="2.40" Area="ocean">
+  <Name>Spiral Staircase</Name>
+  <ShortDescription>You are on a staircase which spirals around a huge redwood tree.</ShortDescription>
+  <LongDescription>only the very tallest trees in the forest come to this height, and there are
+not very many of them.  From the looks of the trunk of this redwood, there
+could be a small village inside the tree, even at this height.  A small hole
+in the tree at the base of a large branch seems dark and deep.</LongDescription>
+  
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>hole</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">3950</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="up">
+      <Keys/>
+      <Room Area="ocean">3952</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="hole">
+      <Keys/>
+      <Room Area="ocean">3981</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

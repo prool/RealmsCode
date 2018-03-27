@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Room Num="2377" Version="2.40a" Area="ocean">
+  <Name>Over the Dennanl Abyss</Name>
+  <ShortDescription>You are flying across the deadly abyss which stretches infinitely below you.</ShortDescription>
+  <LongDescription>The sight of the vertigo directly below you almost makes you nauseous
+as the abyss seems to spiral downward into nothingness.  Hopefully your
+magical spells will last long enough to get you across this cavern.
+You wouldn't want to meet whatever is down there going freefall.</LongDescription>
+  
+  
+  <LowLevel>7</LowLevel>
+  
+  <Established>727326423</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">2378</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">2376</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">2333</Room>
+      <Flags>
+        <Bit Num="11"/>
+      </Flags>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">2333</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

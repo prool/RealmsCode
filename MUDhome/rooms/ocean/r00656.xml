@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Room Num="656" Version="2.40a" Area="ocean">
+  <Name>Amberton Lane</Name>
+  <ShortDescription>You are on Amberton Lane, between the elven shrine and the Bushman Estate.</ShortDescription>
+  <LongDescription>The Bushman Estate grows nearly every variety of fruit, vegetable and
+just about anything else you can think of.  Their large farmland estate
+runs west from Amberton Lane all the way to Lankshire Parkway.  Fresh
+fruits and vegetables are often for sale on the corners around their
+farmlands.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>north</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">655</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">657</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

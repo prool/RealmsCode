@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1355" Version="2.40" Area="ocean">
+  <Name>Neilian Drive</Name>
+  <ShortDescription>You are walking along Neilian Drive, south of the Ministry of Rumor Control.</ShortDescription>
+  <LongDescription>The North Oceancrest Ministries are located on the north part of the
+street, providing order and wisdom for the city.  The Ministry of Rumor
+Control is one of the more interesting bodies in city politics, and is
+responsible for detailed information about events which happen in the
+city.  This is kind of like the media, except slightly better.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1354</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1330</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

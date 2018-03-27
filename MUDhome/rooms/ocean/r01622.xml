@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Room Num="1622" Version="2.40" Area="ocean">
+  <Name>Hillcrest Drive</Name>
+  <ShortDescription>You are walking along Hillcrest Drive, south of the Iilandi Family Mansion.</ShortDescription>
+  <LongDescription>The large Iilandi Family Estate and Mansion can be seen to the north of
+Hillcrest Drive.  The Iilandi Family owns much of the producing land in
+Oceancrest including the Richland Orchard and the Klondike Wheat Fields.
+They also hold some stock in some of the smaller productions in town,
+as well as some political offices here and there.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <Traffic>6</Traffic>
+    <RandomMonsters>
+      <Mob Area="ocean">4</Mob>
+      <Mob Area="ocean" Num="1">4</Mob>
+      <Mob Area="ocean" Num="2">1</Mob>
+      <Mob Area="ocean" Num="3">1</Mob>
+    </RandomMonsters>
+  </Wander>
+  <Track>
+    <Direction>east</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">1623</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">1621</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

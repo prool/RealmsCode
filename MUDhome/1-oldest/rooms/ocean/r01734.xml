@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Room Num="1734" Version="2.40" Area="ocean">
+  <Name>Riverdell Way</Name>
+  <ShortDescription>You are walking along Riverdell Way, east of the Runfun Archery Academy.</ShortDescription>
+  <LongDescription>The Runfun Outstanding Archery Academy is designed for superior archers
+to train and perfect their archery skills.  Furthermore, the academy 
+provides expert training in making and repairing bows.  The fletchery
+work is difficult to understand and even harder to master, which is why
+elven bows always costs so much.</LongDescription>
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>south</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="south">
+      <Keys/>
+      <Room Area="ocean">1735</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="north">
+      <Keys/>
+      <Room Area="ocean">1733</Room>
+      <Flags/>
+    </Exit>
+  </Exits>
+</Room>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Room Num="702" Version="2.40a" Area="ocean">
+  <Name>Neilian Drive</Name>
+  <ShortDescription>You are walking along Neilian Drive, carefully watching your step around
+the high cliffs overlooking the river Othax just to the north.</ShortDescription>
+  <LongDescription>On the south side of the road, you can see a number of small shops in a
+rather large complex.  You appear to be on the back side of the shops.
+The entrance to the complex is located one block to the west off of
+Avatar Boulevard.</LongDescription>
+  
+  
+  
+  <Established>727141642</Established>
+  <Flags/>
+  <Wander>
+    <RandomMonsters/>
+  </Wander>
+  <Track>
+    <Direction>west</Direction>
+  </Track>
+  <PermMobs/>
+  <PermObjs/>
+  <LastTimes/>
+  <Objects/>
+  <Creatures/>
+  <Exits>
+    <Exit Name="east">
+      <Keys/>
+      <Room Area="ocean">646</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="west">
+      <Keys/>
+      <Room Area="ocean">703</Room>
+      <Flags/>
+    </Exit>
+    <Exit Name="down">
+      <Keys/>
+      <Room Area="ocean">977</Room>
+      <Flags>
+        <Bit Num="0"/>
+        <Bit Num="9"/>
+        <Bit Num="10"/>
+      </Flags>
+    </Exit>
+  </Exits>
+</Room>
