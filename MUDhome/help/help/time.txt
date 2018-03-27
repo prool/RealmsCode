@@ -1,0 +1,9 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  time          |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The time command shows you the game time as well as the real time. It will tell
+you whether it is night or day, and if you have any special abilites, it will
+tell you how much longer they will remain in effect or how much longer until you
+may use them again.
+

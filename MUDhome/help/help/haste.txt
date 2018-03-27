@@ -1,0 +1,16 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  haste spell       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 30
+
+The haste spell increases your dexterity, making you quicker and able to perform
+tasks more efficiently. This spell does not last long, but while it is in
+effect, you will able to attack every 2 seconds in combat instead of every 3.
+A haste spell counteracts the effects of a slow spell.
+
+A haste spell will not work in conjunction with the frenzy ability.
+Only a mage, lich, druid, or cleric may cast this spell.
+
+Syntax:
+cast haste <target>
+

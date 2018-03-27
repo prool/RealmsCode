@@ -1,0 +1,48 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  spells        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+For class-based spell books, type HELP BOOKS.
+
+Offensive Realm Spells
+----------------------------------------------------------------------
+EARTH REALM         AIR REALM         FIRE REALM         WATER REALM
+rumble              zephyr            burn               blister
+crush               dustgust          fireball           waterbolt
+shatterstone        whirlwind         burstflame         steamblast
+engulf              cyclone           immolate           bloodboil
+earth-tremor(N)     tempest(N)        flamefill          atrophy
+earthquake*(N)      hurricane*        inferno*(N)        tsunami*
+
+ELECTRICITY REALM   COLD REALM
+zap                 chill
+lightning-bolt      frostbite
+shockbolt           sleet               *: Area effect spell
+electrocution       cold-cone(N)        H: Spell is a healing spell
+thunderbolt         iceblade            N: Spell is not in game yet,
+chain-lightning     blizzard*(N)           but can still be used through
+                                           wands and potions.
+General Spells
+----------------------------------------------------------------------
+anchor                dispel-good(N)    invisibility         room-vigor*(H)
+armor                 dispel-magic(N)   knock                scare
+bind                  drain-shield(N)   know-aura            silence
+bless                 earth-shield      levitate             slow(N)
+blind(N)              enchant           magic-missile        slow-poison
+blink                 enfeeblement(N)   mend-wounds(H)       static-field
+bloodfusion           entangle          pass-without-trace   stone-to-flesh
+breathe-water         ethereal-travel   prayer(N)            stoneskin
+camouflage            farsight          protection           strength(N)
+clairvoyance          fear(N)           reflect-magic(N)     stun
+comprehend-languages  feeblemind(N)     rejuvenate           summon
+courage(N)            fly               remove-curse(N)      teleport
+cure-blindness(N)     fortitude(N)      remove-fear(N)       track
+cure-disease          fortune           remove-silence       transport
+cure-poison           free-action(N)    resist-air(N)        true-sight
+curse(N)              harm(N)           resist-cold          undead-ward(N)
+damnation(N)          haste(N)          resist-earth(N)      vigor(H)
+darkness              heal(H)(N)        resist-fire          warmth
+detect-invisibility   heat-protection   resist-lightning(N)  weakness(N)
+detect-magic          hold-person(N)    resist-magic(N)      wind-protection
+disintegrate(N)       infravision       resist-water         word-of-recall(N)
+dispel-evil           insight(N)        resurrect
+

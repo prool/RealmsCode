@@ -1,0 +1,9 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  reconnect       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This command saves your character and logs you out of the mud. You are
+returned to the login screen where you may log in a new character. This is
+useful for telnet programs that close the window immediately upon disconnecting
+from the mud.
+

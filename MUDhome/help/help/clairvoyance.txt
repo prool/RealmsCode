@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |  Help on:  clairvoyance spell  |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 15
+
+This spell allows you to see through the eyes of another player, showing the
+location of the target. The spell works only for an instant, providing a
+still-frame through the target's eyes. When cast, there is a chance that the
+spell will go undetected. On the other hand, the target might notice the magic
+even though the spell still succeeds.
+
+Syntax:
+cast clairvoyance <target>
+

@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  whois         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The whois command allows you to see information about the player specified.
+
+Example:
+: whois bob
+Whois for [Bob]
+--------------------------------------------------------------------------------
+[ 1:Assa] L Bob the Male Cambion Thug(Age:18)(Pk:0%)
+:
+

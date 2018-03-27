@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  enthrall       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Clerics of Aramon are so commanding over undead, that they are able to enthrall
+the creatures into not attacking them. It is similar in effect to bard charm or
+vampire hypnotize, except that it only works on undead players or undead monsters.
+
+Example:
+: enth gh
+You enthrall the ghoul with the power of Aramon.
+:
+

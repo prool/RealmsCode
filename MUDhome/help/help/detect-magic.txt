@@ -1,0 +1,16 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |  Help on:  detect-magic spel   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 10
+Shortcut: d-m
+
+This spell allows its target to detect magical items and monsters by connecting
+the target's eyes to a magical plane. Magic items will glow a soft blue, denoted
+by a nummerical plus or a (M). Spell-casting monsters will also be noted with a
+(M). This spell can be used to identify many magic items as well as prepare for
+an assault against a spell-casting creatute. Note that, while the majority of
+magic items can be identified via this spell, it is not possible on all items.
+
+Syntax:
+cast detect-magic <target>
+

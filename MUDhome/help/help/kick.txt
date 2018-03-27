@@ -1,0 +1,29 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  kick         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Kicking is an ability that fighters have. They are able to kick their enemies to
+do extra damage every 12 seconds. Its chances of success are very similar to
+bash. Wearing enchanted footgear will help do more damage and improve your
+chances to hit with a kick. +1 or better footwear is required to hit a monster
+which needs enchanted weapons to hit. You CAN get a critical hit when kicking,
+and your footwear can also possibly shatter. Kicking also wears out your
+footwear over time just like a weapon wears out from hitting over time.
+
+Note that not all monsters can be kicked (imagine trying to kick a slime). Also,
+a fighter's kick timer is reset every time he or she bashes an opponent. In
+terms of movement, kicking does not slow a player down, though most monsters
+will block exits.
+
+Example:
+
+: kick wino
+You kick the wino for 10 damage.
+The wino flees to the south.
+: wear spurred
+You wear some spurred boots (+2).
+: kick wino
+You kick the wino for 15 damage.
+The wino flees to the north.
+:
+

@@ -1,0 +1,20 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  Human        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Adjustments: Pick one stat to raise, and one to lower.
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Paladin, Ranger, Rogue, Thief, Vampire,
+	Werewolf
+
+Humans are the most populous race in Derlith. They are often able to excel in
+any class. Most other races take a neutral view of humans, some viewing them all
+as being petty and materialistic. Some races, like orcs, ogres, and trolls, view
+humans as arch enemies or even as a food source. Humans are definitely the most
+flexible and powerful race in all of Derlith. Due to their flexibility and
+diversity, Humans are able to choose one stat to raise and one stat to lower
+during character creation.
+
+See in dark (infravision): No
+Size class: Medium
+

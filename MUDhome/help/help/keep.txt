@@ -1,0 +1,27 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  keep         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This command allows a player to set any object in their inventory to safe
+keeping, so it cannot be sold, dropped, or given away until the "unkeep" command
+is used on it (HELP UNKEEP). Objects which are being kept show up with a (K)
+next to them in your inventory list. Any time an object is stolen, dropped due
+to death, or put in a bag, it will no longer be kept.
+
+Example:
+: i
+You have: a hoe.
+: keep hoe
+You will keep the hoe.
+: i
+You have: a hoe(K).
+: drop hoe
+The hoe is currently in safe keeping.
+You must unkeep it to drop it.
+: sell hoe
+The hoe is currently in safe keeping. Unkeep it to sell it.
+: give hoe bob
+The hoe is currently in safe keeping.
+You must unkeep it to give it away.
+:
+

@@ -1,0 +1,44 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  faction       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Faction is another dynamic feature of the game; factions are essentially
+organizations of which other people in the world can be members. Killing certain
+people may make one faction like you more and another faciton like you less.
+If you slay a crusader in the streets of Sigil, your standing with the Sigil
+Inquisition will worsen, but your standing with the Church of Caladon will
+definitely improve.
+
+Faction Standings
+   Worship      People will randomly perform a social.
+   High Regard  People will do business with you at a larger discount.
+   Admiration
+   Favorable    People will do business with you at a discount.
+
+   Indifferent
+
+   Disapprove   People will do business with you, but at a large markup.
+   Disfavor     People will refuse do business with you.
+   Contempt     People will refuse to speak with you, and may randomly attack.
+   Malice       People will attack you on sight.
+
+Your initial standing with a faction can be based on your race, class, deity,
+and how much that faction likes outsiders. A human of any class will be looked
+upon with malice by the dark-elves of Oakspire, while a dark-elf will start
+at indifference.
+
+For certain races/classes/deities, a max faction standing may be imposed. Using
+the example of Oakspire, a human can only ever achieve the disapproving
+standing; yes, you may have slaughtered hundreds of elves to make the drow like
+you, but you're still an inferior race and they will always look down on you.
+Elves, on the other hand, will always be looked upon with malice and can never
+improve their faction standing with Oakspire.
+
+Worship Social
+Each faction will have a social command that its humanoid members will perform
+on those in the room who have reached worship standing.
+
+For example:
+: A Highport guardsman just arrived.
+: The Highport guardsman shakes your hand.
+

@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |     Help on:  blister spell    |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 3
+
+This spell is the lowest level spell in the water realm. It causes minors boils
+and blisters to appear on the target, doing a small amount of damage. More often
+than not this spell is used to provoke an enemy rather than kill, but it will
+still hurt them.
+
+Syntax:
+cast blister <target>
+

@@ -1,0 +1,17 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  mistbane       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Mistbane is a skill aquired by rangers at level 10 due to the fact that they
+hunt vampires. In effect, the ranger brings into being a surge of positive
+energy which allows him to counteract the negative energy used by a vampire to
+enter mist form. In effect, this means the ranger is able to hit a vampire in
+mist form with normal weapons. This ability does NOT allow a ranger to see a
+misted vampire, and it is useless when not combined also with true-sight.
+HELP TRUE-SIGHT for further information.
+
+Example:
+: mb
+You imbue yourself with positive energy.
+:
+

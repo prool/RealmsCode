@@ -1,0 +1,49 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |  Help on:  Realms Punishments  |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+-The Warning System-
+Some infractions will be dealt with by giving you a warning. You
+are allowed 3 warnings. Anything following that will require other
+actions by the staff upon your character. After such actions, the
+warning(s) may or may not be removed. Warnings are recorded on your
+character. You can see them by typing "score".
+
+-Becoming an Outlaw-
+Other infractions may incur your becoming an "outlaw". There are
+different degrees of being an outlaw. The minimum, is that you
+will be able to be killed by anyone, at any time - whether you
+are fighting in battle with a monster or not. In addition, you
+may be able to be summoned against your will, attacked by monsters
+which are "outlaw aggressive", or flagged to lose experience to
+people who kill you. Some rooms (like the Highport Market Square)
+are "outlaw safe" where no one can kill you. Do not, however stay
+in these rooms for a long time. If you do, energy bolts will hit
+you and you can be killed for experience loss. Outlaw sentences
+usually last only 10 minutes. However, they can last for up to
+2 hours under some circumstances.
+
+-Jailtime-
+Some infractions will place you in the Dungeon of Despair. A
+staff member will tell you how long you have until you get out.
+The sentence time varies depending on that staff member. No staff
+member will release you but the staff member which jailed you. A
+staff member will always identify themselves to you. If your time
+runs out and they do not release you, mudmail (HELP MUDMAIL) them
+to remind them. Even a DM will not release you if it was a Caretaker
+which jailed you originally. Only in special circumstances will
+this ever not be the case.
+
+-Character Deletion and/or Sitelock-
+A few infractions will mean immediate deletion of your character.
+This action will be extremely rare, for obvious reasons. Even
+rarer will be sitelocking your IP address or IP group. This will
+disallow you from connecting to the game.
+
+-Other Punishments-
+Many other things can be done. This is by no means a complete list.
+However, punishments will usually be restricted to the above four
+types. It depends on the staff member giving out the punishment.
+Usually non-standard punishments will be dealt for things which are
+not clearly defined in the Realms Policy (HELP POLICY).
+

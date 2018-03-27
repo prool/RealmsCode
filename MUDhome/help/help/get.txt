@@ -1,0 +1,15 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  get | take      |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Get and take allow you to pick up items that are on the floor of a room or
+inside a container. The container may be in your inventory or sitting on the
+floor. When you wish to get something from a container you must provide the name
+of the item you want to take followed by the name of the container. Use the word
+"all" to specify that you wish to take everything in the room or in a container.
+
+Example:
+: get all sack
+You get an apple, a banana from a small sack.
+:
+

@@ -1,0 +1,37 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  uniques        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Unique and Limited Items [01/09/02]
+
+One of the failings of general Mordor mud code, was that it failed to account
+for unique items. A unique item is an item which is limited and 'owned' per say
+by a monster which drops it. For instance, many of you have found the missile
+weapon "Darkfinder". This weapon would be an example of a unique item. Recently,
+we have coded it such that these types of items may now be truely unique. The
+number of them loaded into the game is now tracked. To use Darkfinder as an
+example of this, this means that there can now only be one Darkfinder out in
+the game at a time. The creature which drops Darkfinder will now not drop
+another one until the one out in the game breaks. Even though there is more than
+one Darkfinder out in the game right now, eventually, when all of them break or
+are otherwise destroyed, only one will be able to be out at a time. In this way,
+some items are now truely unique. We are also able to set a max number on items
+allowed out into the game. For instance, if we wanted to, we could make it so
+only 6 blackened-steel eviscerators could be out in the game at one time. This
+can be done to any item now.
+
+Unique and Limited Item Game Mechanics
+
+Whenever you look at an item, it will tell you whether that item is
+unique/limited. For now, no unique/limited item can be kept in a storage room
+or sold in a player run shop. Eventually this will be changed.
+
+Also, if a player is logged off for over a weeks time, all of the unique items
+in his/her inventory are automatically deleted, and the unique item files are
+updated to allow new ones to load for other people. So do not stay logged off
+with unique/limited items for over a week.
+
+Obviously, unique/limited items will be of exceptional quality, and will be
+very good AC, damage, or otherwise nice in other ways. There aren't many in
+the game as of right now, but we will be adding them slowly as time goes by.
+

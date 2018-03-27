@@ -1,0 +1,30 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  size         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Size is an attribute that can be set on rooms, exits, objects, players, and
+monsters. There are 9 size categories as follows:
+
+Size            Example
+------          ---------
+  fine            fly
+  diminutive      toad
+  tiny            cat
+  small           halfling
+  medium          human
+  large           ogre / horse
+  huge            cloud giant / bulette
+  gargantuan      kraken
+  colossal        great red dragon
+
+
+If you use an object that is not your size, you will incur penalties while
+doing so. You can use a weapon or shield up to one size category different than
+you, either larger or smaller. You may use armor up to one size category larger
+than you, but smaller armor will not fit. You may only wear rings of your size.
+
+Some rooms and exits may have a size set on them. If you are larger than the
+set size, you will be unable to enter the room.
+
+See the enlarge and reduce spells for information on changing size.
+

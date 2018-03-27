@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  dismiss       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This command will allow a player to dismiss any pet they have conjured, animated,
+or gotten to follow them in any other way.
+
+Example:
+: dismiss sp
+You dismiss the earth spider (M).
+An earth spider (M) fades away.
+:
+

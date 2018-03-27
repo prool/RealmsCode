@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  use          |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This command allows you to use different items. If no target is given, it is
+assumed that you want to use it yourself. You can use "use" in the place of
+several commands, including wear, wield, and read.
+
+Example:
+: use hoe
+You wield a hoe.
+:
+

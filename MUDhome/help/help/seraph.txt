@@ -1,0 +1,21 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  Seraph         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Adjustments: +2 Piety, +1 Intelligence, -2 Strength, -1 Dexterity
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Druid, Fighter, Lich,
+	Mage, Monk, Paladin, Ranger, Rogue, Thief, Vampire, Werewolf,
+	Fighter/Mage
+
+Seraphs are hybrid crosses between angels and humans of Derlith. Heavenly
+creatures have been known to walk the earth in Derlith in recent years due to
+the rise of evil in the land. Seraphs are usually quiet and keep to themselves.
+They only learn of their divine half later after growing up. Seraphs often make
+it their mission in life to point out any Cambion they may see to all around
+them. Cambions often hide in society wreaking havoc. Due to their divine
+connection, Seraphs are very very pious by nature. Thus, Seraphs make excellent
+clerics.
+
+See in dark (infravision): No
+Size class: Medium
+

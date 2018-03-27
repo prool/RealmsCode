@@ -1,0 +1,15 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |  Help on:  dispel-magic spell  |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 20
+
+Dispel magic can be cast only by a mage, lich, cleric, or druid. If done from a
+wand or scroll or potion, anyone can cast it. It cannot be cast in a tic room.
+By casting it on yourself or a target, you dispel ALL yours or the target's time
+duration spells. Keep in mind that there is a chance of failure if cast on
+another  player, depending on certain variables. Note that it cannot be
+cast on monsters... YET...
+
+Syntax:
+cast dispel-magic <target>
+

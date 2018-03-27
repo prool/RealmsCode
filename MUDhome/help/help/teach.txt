@@ -1,0 +1,12 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  teach         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This command can be used by mages and clerics to teach others the most basic
+spells known.
+
+Example:
+: teach bob vig
+Spell "vigor" taught to Bob.
+:
+

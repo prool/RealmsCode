@@ -1,0 +1,27 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |     Help on:  anchor spell     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 50 / 30 / 10
+
+The anchor spell allows you to form a dimensional-anchor in the room you are
+currently in. Such an anchor allows you to focus the teleport spell, designating
+a specific location to teleport to. This version of the spell costs 50mp to
+cast. A caster may only have 3 dimensional-anchors in at a time. Destroying an
+anchor costs 10mp instead of 50mp.
+
+Alternatively, if the caster designates a player, the dimensional-anchor effect
+will be placed on them, hindering magical movement. The spell will prevent
+magical means of transportation from working properly: the spells blink,
+ethereal-travel, summon, teleport, track, and word-of-recall will autmatically
+have a 90% chance of failing in addition to any saving throws allowed. This
+version of the spell costs 30mp to cast.
+
+CAUTION: hazy potions will not work if you are dimensionally anchored.
+Note: players under the effect of a dimensional anchor spell cannot track,
+      but can still be tracked by other players.
+
+Only mages and liches of atleast 16th level may cast this spell.
+
+Syntax:
+cast anchor <name|target> [create|destroy]
+

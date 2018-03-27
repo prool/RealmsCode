@@ -1,0 +1,12 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  fortune spell     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 12
+
+This spell will provide information about the possible future of the target
+creature. Fate is generally hard to trust, but luckier targets are more likely
+to survive what the future brings. Fortune may only be cast by bards.
+
+Syntax:
+cast fortune <target>
+

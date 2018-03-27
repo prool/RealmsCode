@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  | Help on:  remove-silence spell |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 15
+
+This spell nullifies the effects of a silence spell. It will repair the vocal
+cords of the target, making audiable speech possible once again. Note that you
+must be able to speak to cast this spell in the first place, so those affected
+by silence must find another person to cure them.
+
+Syntax:
+cast remove-silence <target>
+

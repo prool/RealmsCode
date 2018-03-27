@@ -1,0 +1,17 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  howl         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This is a supernatural ability of higher level werewolves which allows them to
+let out a blood-curdling and terrifying howl. All creatures of low enough levels
+in the room which are the werewolf's enemy will either flee in terror or be
+stunned if they fail a saving throw. This ability is timed, and can can only be
+used every so often.
+
+Example:
+: howl
+You let out a blood-curdling supernatural howl!
+The wino flees in terror to the south!
+The 2nd wino is frozen in terror!
+:
+

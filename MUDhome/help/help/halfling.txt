@@ -1,0 +1,19 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  Halfling       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Adjustments: +2 Dexterity, -2 Strength
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Druid, Fighter, Lich,
+	Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf, Fighter/Thief
+
+Halflings get their namesake from the fact that they are roughly half the size
+of a human. Short and often plump, the halfling loves good food and drink. They
+also tend to have more body hair then humans, with tufts on the backs of their
+hands and feet. A halfling is very agile, owing to his small size. His small
+size handicaps him, however, when strength is considered. Halflings make the
+best thieves in Derlith, and almost everyone equates being a halfling and a
+thief as being one in the same.
+
+See in dark (infravision): No
+Size class: Small
+

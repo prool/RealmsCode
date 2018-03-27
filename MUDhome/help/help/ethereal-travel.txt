@@ -1,0 +1,17 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  | Help on: ethereal-travel spell |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 31
+
+At times it may be necessary to travel to the ethereal plane, an area of flux
+between dimensions touching every single point in the universe. To do this you
+would cast this spell. This spell may be cast on others whether chaotic or
+lawful. However, one must be 13th level in order to control the magic needed to
+do this. Be forewarned..the ethereal plane can be a dangerous place for novices
+and thrillseekers alike. Be warned. Hazy potions and other similar items do not
+work the same from  the etheral plane, as the magic there is different then in
+the normal world.
+
+Syntax:
+c ethereal-travel <target>
+

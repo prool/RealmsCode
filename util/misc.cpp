@@ -229,7 +229,8 @@ void viewFileReal(Socket* sock, bstring str ) {
         sock->tempstr[1][255] = 0;
         ff = open(str.c_str(), O_RDONLY, 0);
         if(ff < 0) {
-            sock->print("File could not be opened.\n");
+            sock->print("Error 1. File could not be opened. See MUD server console\n");
+	    printf("prool: File '%s' not found\n", str.c_str()); // prool
             if(sock->getPlayer())
                 sock->getPlayer()->clearFlag(P_READING_FILE);
             sock->restoreState();
@@ -290,7 +291,7 @@ void viewFileReal(Socket* sock, bstring str ) {
         offset = atol(sock->tempstr[2]);
         ff = open(sock->tempstr[1], O_RDONLY, 0);
         if(ff < 0) {
-            sock->print("File could not be opened [%s].\n", sock->tempstr);
+            sock->print("Error 2. File could not be opened [%s].\n", sock->tempstr);
             if(sock->getPlayer())
                 sock->getPlayer()->clearFlag(P_READING_FILE);
             sock->restoreState();
@@ -372,7 +373,7 @@ void viewLoginFile(Socket* sock, bstring str, bool showError) {
         ff = open(str.c_str(), O_RDONLY, 0);
         if(ff < 0) {
             if(showError) {
-                sock->print("File could not be opened.\n");
+                sock->print("Error 3. File could not be opened.\n");
                 broadcast(isCt, "^yCan't open file: %s.\n", str.c_str()); // nothing to put into (%m)?
             }
             return;

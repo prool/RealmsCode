@@ -1,0 +1,29 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  armor spell     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Duel is a command in which players can add one another to their "duel list".
+Members on one another's  duel lists are freely able to fight one another at any
+time, without fear of equipment loss or clan experience loss, with no pkill
+loss, and regardless of alignment. You will always see a notification when
+someone adds you to their duel list and vice versa. As well, you will also see
+when someone removes you, and vice versa. In order to prevent deception,
+however, any time you remove someone from your duel list, you will have an
+automatic 10 second attack and cast delay. To be more detailed, this will mean
+someone can't duel you, if both of you are chaotic, and then remove you from his
+duel list and attack, thus eliminating the safety net of being in a duel.
+
+Duel by itself will show you who all is on your duel list. Dueling someone a
+second time will remove them from your duel list. Doing "duel clear" will clear
+your entire duel list of players.
+
+Your duel list is cleared automatically on log off/on. You, and your opponent,
+must be level 4 or higher to be able to duel. Death as a result of a duel will
+leave the loser in the same room knocked unconscious for 30 seconds, and down
+to 1/10th max hit points and 0 magic points. This means if you're both chaotic
+and/or pledged, you'd better trust whom your dueling, and it's not wise to duel
+in dangerous areas of the mud.
+
+IF YOU ARE CHAOTIC OR PLEDGED, YOU ARE DUELING AT A RISK. WHEN YOU WAKE UP IN
+A NON-SAFE AREA, YOU WILL BE VULNERABLE. THEREFORE, PLEASE DUEL WITH CARE.
+

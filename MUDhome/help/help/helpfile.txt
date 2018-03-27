@@ -1,0 +1,32 @@
+		      LIST OF HELP FILES/COMMANDS:
+	..--..--....--..--....--..-\./..--..--....--..--....--..--
+Communication:			    |   Movement:
+ say tell gtalk yell ignore cls	    .    go flee sneak leave n s e
+ broadcast clansend send classe	    |    w ne nw se sw up down out
+ whisper os gto raemote racesend   /.\   run
+	..--..--....--..--....--..-|x|..--..--....--..--....--..--
+Status:				   \./  Special:
+ score info health who whois	    |    bash circle pray sing meditate
+ look finger set clear group	    .    touch pick peek steal backstab
+ equipment inventory spells	    |    frenzy track turn charm invoke
+ time party classwho daily age	   /.\   sneak drain barkskin renounce
+	..--..--....--..--....--..-|x|   teach transmute bloodsacrifice
+Combat:				   \./   identify regenerate scout bite
+ attack kill bash circle bite	    |    mist hypnotize animate smother
+ backstab turn charm cast 	   /.\   holyword maul commune berserk
+ touch maul drain envenom	   |x|..--..--....--..--....--..--
+	..--..--....--..--....--..-|x|  Miscellaneous:
+Actions:			   \./   policy welcomeabaddon edithist
+ get remove wield hold drink use    |    stats newsocials history caps
+ wear bribe pledge lose open lock  /.\	 news break
+ study cast hide suicide purchase  |x|..--..--....--..--....--..--
+ list search quaff put drop ready  \./	Commerce:
+ read rescind trade buy readmail    |	 auction trade value shoplift
+ second deletemail sendmail hire    .	 repair bank buy refund sell
+ jackpot password selection vote    |
+ order prepare convert fix	    .
+	..--..--....--..--....--..-/.\..--..--....--..--....--..--
+ Type HELP HELP to list all available help files.
+ Type HELP <topic> to get help on any one of these topics.
+ Type HELP SPELLS to list all available spells.
+ Type HELP SOCIALS to see a list of all social commands.

@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  open         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The open command allows you to open any closed door, unless of course it's
+locked or already open.  Most open doors will eventually close again after a
+period of time or when another player enters the room.
+
+Example:
+: open d
+You open the door.
+:
+

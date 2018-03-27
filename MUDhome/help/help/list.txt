@@ -1,0 +1,18 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  list         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The list command produces a list of things that you are allowed to buy along
+with their prices. If a target is specified, it will show you what they are
+selling.
+
+: list
+You may buy:
+   Some climbing boots                Cost: 50
+   A climbing rope                    Cost: 300
+   A small sack                       Cost: 50
+   A torch                            Cost: 15
+   A wick lantern                     Cost: 100
+
+:
+

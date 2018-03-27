@@ -1,0 +1,24 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  enchant spell     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 25
+
+This spell places an enchantment upon a weapon or armor. The level of
+enchantment placed depends upon the level of the caster. Enchantment enchances
+the physical properties of objects, such as lifespan, amount of damage done, or
+amount of protection provided. Enchant may only be cast by mages and liches of
+16th level or greater.
+
+Syntax:
+cast enchant <item>
+
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  enchant        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Enchant is also an ability gained by mages (not liches). It allows them to
+temporarily enchant an itme in their inventory even if they do not know the
+enchant spell. The item will work as a magical item for the duration. The mage
+can use the enchant ability at 10th level, and the strength of the enchantment
+depends on the caster.
+

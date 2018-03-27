@@ -1,0 +1,9 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |   Help on:  class | classwho   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The classwho command allows you to see who of your class is currently online.
+If another player is invisible, he or she will not show up on the who report
+unless you can detect invisibility. Immortals will not appear. Also, misted
+vampires will not appear without true-sight.
+

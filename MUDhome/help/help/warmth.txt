@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  warmth         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 12
+
+This spell protects its target from biting cold damage and from ice/frost traps
+and breath weapons. A magical warmth is enbedded in the target that prevents
+such low-temperature means of affecting the target. Note however that warmth
+will not protect against magical cold as it is often more dangerous.
+
+Syntax:
+cast warmth <target>
+

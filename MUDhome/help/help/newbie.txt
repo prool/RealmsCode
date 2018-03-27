@@ -1,0 +1,19 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  newbie        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Newbie is a command which may be used to broadcast to the newbie channel.
+Everyone can see this channel. It is possible to disable seeing this channel by
+typing "clear newbie". It can be re-enabled by typing "set newbie".
+
+Newbie is only able to be used up through level 4. Beyond that level, it is
+unable to be used.
+
+Note that abuse of the newbie channel is considered a general infraction against
+the policy (HELP POLICY).
+
+Example:
+: newbie hi!
+[Newbie]: *** Bob just sent, "hi!"
+:
+

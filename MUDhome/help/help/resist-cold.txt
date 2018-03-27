@@ -1,0 +1,15 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |  Help on:  resist-cold spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 13
+
+This spell halves all magical spell damage from the cold realm.
+An intangible shield of cold forms around the target, attempting
+to nullify and offensive magic that comes toward it and the
+target. Note that only magic from the realm of cold is affected.
+
+See "help resist" for more information.
+
+Syntax:
+cast resist-cold <target>
+

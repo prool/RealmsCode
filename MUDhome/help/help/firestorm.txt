@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  firestorm spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: Dependant on the number of targets.
+
+This spell affects all monsters in the area that the spell is cast in. The
+caster of this spell literally causes everything within sight to burst into
+flame, burning all designated targets and causing extensive damage. This spell
+is part of the fire realm.
+
+Syntax:
+cast firestorm [<monsters>|<players>|<all>]
+

@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |   Help on:  look | consider    |  .  .  ·  ·  .  .  ·
+····.....·····.....····\             examine            /····.....·····.....····
+
+When typed by itself, look or examine will show you the description of the room
+you are currently standing in. If you include a second word after the command,
+your character will attempt to look at or examine an object, monster or player.
+
+Example:
+: l sack
+You see a small leather sack.
+It contains: an apple.
+:
+

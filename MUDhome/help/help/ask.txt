@@ -1,0 +1,20 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  | Help on:  ask | parley | talk  |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Talk allows you to communicate with certain monsters. Some monsters can even
+carry on interactive conversations. If you supply a keyword, the monster may be
+able to give you some more information about it.
+
+Syntax:
+  ask <monster> [#] [<keyword>]
+  parley <monster> [#] [<keyword>]
+  talk <monster> [#] [<keyword>]
+
+Example:
+: talk x
+Xenis the Sage says to you, "What do you need to know about?"
+: talk x training
+Xenis the Sage says to you, "Oh. Training is a must! What is your profession?"
+:
+

@@ -1,0 +1,29 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  bulk         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Bulk is sort of like weight, but it is a measure of mass. You may have noticed
+how in Mordor, you can pick up like twelve full suits of armor and carry them
+around, or hold like fourty healing potions. That's simply retarded. Bulk is a
+system to be put in place which will keep this kind of thing from happening.
+
+A player's bulk is based upon the size of the race they choose - the bigger the
+race, the more bulk you may have in your inventory. Since the max bulk for each
+size class may change from time to time as we iron it out, you may see your max
+bulk when you type "info". It will be in perenthesis next to 'Inventory Bulk:",
+which tells you the total bulk of all the items in your inventory and worn.
+Here are some things to know about how the game calculates your current bulk:
+
+1) Max bulk you can carry has NOTHING TO DO WITH YOUR STATS IN ANY WAY. It
+   only is based on your race's size.
+2) Worn items count as half their normal bulk, unless they are rings, which
+   never count toward bulk when worn.
+3) The bulk of items in bags is not counted. Only the bulk of the bag is
+   counted toward calculated bulk.
+
+When putting items in bags, by default, an item with a greater bulk than the bag
+cannot be put inside that bag. Some bags will have magical enchantements that
+will allow this to be done however, such as a bag of holding, or a portable
+hole. These items will be rare, however. As well, some bags will have a
+specifically set max allowed bulk of an item which can be put inside them.
+

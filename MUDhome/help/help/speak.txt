@@ -1,0 +1,16 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |     Help on:  armor spell      |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The speak command allows a player to set their current language they are
+speaking in. If you do not know a specific language, you cannot speak it. You
+may type LANGUAGES to see what languages you are able to speak, as well as what
+you are speaking currently.
+
+Example:
+: speak elven
+You will now speak in elven.
+: speak comm
+You will now speak in common.
+:
+

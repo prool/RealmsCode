@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |   Help on:  dispel-evil spell  |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 25
+
+This spell allows paladins and clerics (not Aramon or Arachnus clerics though)
+to do damage to evil players and creatures. Damage is based on the caster's
+level and piety. You must be good aligned to cast this it. Against summoned evil
+creatures, it is especially good. Note that there are other summoned creatures
+which are evil besides the dead creatures Aramon clerics are able to animate.
+
+Syntax:
+cast dispel-evil <target>
+

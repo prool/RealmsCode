@@ -1,0 +1,15 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  tsunami spell     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: Dependant on the number of targets.
+
+This spell affects all monsters in the area that the spell is cast in. Summoning
+another version of the hurricane, one more water-based and somtimes even more
+brutal, the caster is able to direct the torrent caused by the tsunami to any
+targets in the room, damaging them all. This spell is part of the water realm.
+
+Type "help aoe" for more information.
+
+Syntax:
+cast tsunami [<monsters>|<players>|<all>]
+

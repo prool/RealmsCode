@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  reply        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The reply command allows you to reply to the last person who sent any kind of
+private message to you specifically. If you log off/on, the information of who
+sent to you last will be erased.
+
+Example:
+: ### Bob just flashed, "Hi!"
+: reply Hi!
+You replied, "Hi!" to Bob.
+:
+

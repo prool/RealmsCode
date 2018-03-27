@@ -1,0 +1,27 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  Assassin       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Prime Requisites: Strength, Dexterity
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+The assassin is the cold warrior of the night. He moves in shadow, stalking his
+prey. Assassins have the ability to backstab their opponents, doing massive
+damage in one blow by attacking in surprise from the shadows. Assassins can hide
+better then most, and they often can sneak from place to place without being
+seen. Due to there slippery nature, assassins are able to dodge attacks
+on occasion. The ability gets better the more powerful they become. The assassin
+may also scout for his potential prey, keeping himself out of danger while he
+does so. An assassin can be so murderous and diabolical, that they will often
+envenom their blades to kill their victims long after they strike and fade into
+the shadows. At higher levels, they owe allegiance to the dark courts of
+Caladon, as well as several dark organizations across Derlith.
+
+See HELP ASSASSINS for some roleplaying notes.
+
+Assassins must pledge to reach levels 8, 9, 10, and 11.
+
+Abilities: Backstab, Envenom, Peek, Scout
+

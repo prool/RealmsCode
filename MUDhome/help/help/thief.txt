@@ -1,0 +1,28 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  Thief         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Prime Requisites: Strength, Dexterity
+Compatable Races: Barbarian, Cambion, Dark-Elf, Dwarf, Elf, Gnome, Goblin,
+	Half-Elf, Half-Giant, Half-Orc, Halfling, Human, Kataran, Kobold,
+	Minotaur, Ogre, Orc, Seraph, Tiefling, Troll
+
+Thieves are the rogues of Derlith, the common criminals and scam artists. Their
+goal in life is to get ahead no matter what the cost, whether to themselves or
+to others. A thief can steal very well, often taking things from his victim's
+inventory without them even knowing it is even missing until hours later. He
+also may peek at his victim's possessions so that he may know what he can take.
+Like an assassin, a thief has the ability to strike from the shadows, stabbing
+his enemy in the back to do massive damage in one strike. Although he is not as
+adept at it as an assassin, the thief is still often able to kill his opponent
+in this manner. All but the most exotic locks often are not an obstacle for a
+thief, as he has the ability to pick them open to always get where he wants to
+go. A thief can also hide in the shadows and often sneaks from place to place
+without being seen, making him hard to detect or catch. A thief is so dexterous,
+that he is able to dodge attacks the more experienced he becomes. Sometimes the
+moves they make are amazing.
+
+Thieves must pledge to reach levels 8, 9, 10, and 11.
+
+Abilities: Steal, Peek, Backstab, Pick
+

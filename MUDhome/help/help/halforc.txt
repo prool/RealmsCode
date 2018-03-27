@@ -1,0 +1,20 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  Half Orc       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Adjustments: +1 Strength, +1 Constitution, -1 Intelligence, -1 Piety
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Paladin, Ranger, Rogue, Thief, Vampire,
+	Werewolf, Fighter/Thief, Cleric/Assassin
+
+An illegitimate cross between an orc and a human, a half orc is shunned by all
+society. Most often these freaks of nature wind up as criminals. Half orcs are
+usually paid thugs, thieves or assassins. They can often be found high in the
+ranks of many of Derlith's criminal organizations. They are not as agile as
+some humans, but are often quite strong and sturdy. Most of them have bad
+attitude as well, brought on by an inferiority complex due to no one accepting
+them.
+
+See in dark (infravision): No
+Size class: Medium
+

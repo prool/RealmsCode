@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  entangle spell    |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 20
+
+Entangle is a spell only castable by rangers and druids, and then only when they
+are not indoors. This spell will summon up a mass of tentacles from the ground
+to grasp hold of the target. The victim may still fight back, but they are
+prevented from leaving the room for a short time.
+
+Syntax:
+cast entangle <target>
+

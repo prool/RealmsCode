@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  meditate       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The meditate command is usable only by monks. It allows them to gain life by
+channeling inner energy. Monks may only meditate every minute and a half, and
+not during battle.
+
+Example:
+: med
+You feel at one with the universe.
+:
+

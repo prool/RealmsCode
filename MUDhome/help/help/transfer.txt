@@ -1,0 +1,35 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  bank commands     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+See also: balance, deposit, transfer, withdraw, statement, deletestatement
+
+These commands are used in banks only. Most of them are self
+explanatory. While in banks, you can check your balance,
+deposit or withdraw gold, transfer gold, check your transaction
+history by looking at a bank statement, and also you can clear
+your statement. The statement works much like mail. Funds may
+be tranferred to people while they are offline as well as
+online. If they are online, they will see a message that you
+transferred gold to their account.
+
+Examples:
+: deposit $1000
+You give the bank teller 1000 gold coins.
+The bank teller says, "Your balance is now 1000 gold coins"
+: balance
+The bank teller says, "Your current balance is: 1000 gold coins."
+: withdraw $500
+The bank teller gives you 500 gold coins.
+The bank teller says, "Your balance is now 500 gold coins"
+: transfer $250 bane
+The bank tellers transfers 250 gold coins from your account to Bane's.
+The bank teller says, "Your balance is now 250 gold coins"
+: statement
+The bank teller shows you your bank statement:
+Sat Jul 10 15:08:41 1999: DEPOSIT: 1000 [Balance: 1000]
+Sat Jul 10 15:09:30 1999: WITHDRAW: 500 [Balance: 500]
+Sat Jul 10 15:10:12 1999: TRANSFER to Bane: 250 [Balance: 250]
+: deletestatement
+Statement deleted.
+

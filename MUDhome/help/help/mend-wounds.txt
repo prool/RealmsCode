@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |  Help on:  mend-wounds spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 4
+Shortcut: m
+
+Mend-wounds is a powerful healing spell. Wounds suddenly begin to repair
+themselves and soon all disappear. More pious casters will often experience
+more benifit from this spell. Thus, paladins or clerics who have prayed will
+often experience the most healing.
+
+Syntax:
+cast mend <target>
+

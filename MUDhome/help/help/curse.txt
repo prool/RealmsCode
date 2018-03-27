@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  curse spell     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 25
+
+This spell may be used by a mage or lich to curse an item in their inventory.
+Despite common misconceptions, cursing a weapon is not always bad. For example,
+you will be unable to fumble your weapon if it is placed under a curse. However,
+evil wizards can decide to curse defective items to spread among the populace,
+causing general mayhem. You must be level 16 or higher to cast this spell.
+
+Syntax:
+cast curse <object>
+

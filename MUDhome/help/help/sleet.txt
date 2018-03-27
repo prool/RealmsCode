@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |     Help on:  sleet spell      |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 10
+
+This third level spell causes sleet to erupt from the caster's hands, sending
+small ice slivers to cut the target, and it covers them with a coat of harmful
+frost. The body's reaction the to freezing rain is often devastating, hampering
+movment due to the frigidness of the spell.
+
+Syntax:
+cast sleet <target>
+

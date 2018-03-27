@@ -1,0 +1,353 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  Realms Policy     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Last update: 01/17/03
+
+	This policy is intended to make play for all players,
+new and old to Realms, have an enjoyable playing experience.
+It is in effect the "rules and regulations" for playing Realms.
+Please review it carefully, and if you have any questions, find
+a post office and mudmail (HELP MUDMAIL) a watcher. Please type
+HELP STAFF to see the various functions and ranks of the Realms
+Staff.
+
+GENERAL INFRACTIONS AND USUAL CONSEQUENCES
+	Following is a list of general things which we consider
+to be infractions and against the rules here, as well as usual
+punishment for each. You can see definitions of the various
+punishments by typing HELP PUNISHMENT.
+
+1. Do not crash the game intentionally.
+	Crashing the game ruins the game for everyone, can
+damage the database, and can cause loss of equipment or the
+experience points of other people. If you crash the game with
+malicious intent, your character has an extreme chance of
+being immediately deleted, as well as all of your other
+characters you may have.
+
+2. Do not multi-log.
+	Do not have more than one character logged in at a time.
+Usually this is impossible, but some might find a way to do it.
+This will usually result in a warning, but it could result in
+other punishments as well.
+
+3. Do not do things to intentionally get other players killed
+by a monster.
+	Although killing another player while they are fighting
+a monster is impossible here, people still may find a way to
+make other people die and lose experience. People who do this
+usually will either wind up dieing to a monter themselves, or
+they will receive jailtime. Multiple offenses of this nature
+make for worse punishment as a result. Note that this rule
+does not apply when someone gets an outlaw killed.
+
+4. Do not "spam" other players.
+	Although we have gag code (HELP GAG) which can be used
+to prevent this from happening, people might still find a way
+to do this. A verbal warning will be given to offenders,
+followed by a permanent warning on any additional offenses.
+Offenders might also be globally gagged to everyone else on
+for a time, or they'll be silenced in various ways.
+
+5. Do not use robots to play automatically.
+	Robots are characters made to run automatically with the
+aid of triggers using a mudclient such as Zmud. Robots are
+illegal because they are a shortcut to actual gameplay, upset
+game balance, and not everyone is able get or use a mudclient.
+A staff member which finds a suspected robot will probe to see
+if the player is acutally at their keyboard by various means.
+If they determine this to not be the case, that robot will be
+immediately outlawed for a time and degree specified by that
+staff member. Note that an idling player left on with triggers
+can somtimes be considered a robot, but usually will just be
+logged off or have his/her password changed.
+
+6. Do not exploit advantageous bugs.
+	If you find a bug, please report it (HELP BUG) to us
+immediately. If it is found you have exploited a bug without
+reporting it to the bug log, you will be punished. The
+punishment will fully depend on the degree of the exploitation.
+For this purpose, a "bug" is not just a bug with the code in
+the game. It is also things like level 2 monsters worth 2000
+experience, which is obviously out of balance and should be
+reported. If anything is thought to be out of the ordinary or
+too easy, it needs to be put in the bug log and reported to us
+immediately (HELP BUG).
+
+7. Do not sell or give away quest items.
+	A quest item is any item which gives you experience when
+you pick it up. One or more is usually required to complete a
+specific quest. Giving these items away can upset the balance
+of the game. If you are found giving away quest items, the
+quest will be removed from you if you have it, and you will
+be warned. Repeat offenses of this bring worse punishment.
+
+8. Do not commit "consented pkilling".
+	When one pledged person (see pledging below) allows
+another pledged person to kill them, for the sole purpose of
+gaining experience, this is called "consented pkilling". This
+upsets game balance. If you are found doing this, both
+characters in question will receive jailtime.
+
+9. Do not lie to Realms staff members when questioned.
+	When we question you, do not lie to us. If we're in the
+process of questioning you, it's usually because we caught
+you at something. If you lie to us, you can forget about any
+warnings and start thinking about jailtime or being outlawed.
+
+10. Do not log on and attack things and die continually.
+	Doing this is just irritating. As this is usually just
+people using level one characters and dying over and over, a
+staff member will usually just delete the character. If it
+persists, a sitelock will be put in place.
+
+11. Do not sexually harass other players.
+	We will not tolerate sexual harassment in any form, and
+it will usually result in you being jailed for a long time.
+If it continues, you'll be deleted or a sitelock will be put
+in place. There's no room for that kind of thing here.
+
+12. Abuse of the newbie channel (HELP NEWBIE) is expressly
+prohibited.
+	This channel is for the use of new players to get help
+and to help one another. Using it in replacement for broadcasts
+by logging on a lower level character is illegal. A warning
+will first be issued. Following that, your highest level
+characters will be jailed.
+
+13. Do not masquerade as a newbie.
+	We protect new players for the express purpose of making
+this game more suitable to gain new players. If you pretend to
+be a newbie, you take our time away from helping somebody who
+really is, and you can also get others wrongfully in trouble.
+DO NOT DO THIS. If you are found to be doing this, every one
+of your characters that we know of will be outlawed or jailed
+for a very long time.
+
+PLAYER ETIQUETTE VIOLATIONS
+	Etiquette violations are things people do which make
+the game less enjoyable for other people who are playing.
+Punishments for these things vary depending on staff members.
+
+1. Please keep all personal insults private.
+	If you want to insult one another, please do not do it
+on any kind of public channel where more than one person can
+see it. This can be tedious to read and it messes up the game
+for some people.
+
+2. Please do not broadcast for staff members.
+	The staff of Realms is very busy. If you broadcast for us,
+you will most likely be ignored. Please ask, mudmail, or contact
+via the forum, a watcher. Their job is to be liasons. If it is a
+bug you wish to report, post it on the forum under Bugs!
+
+3. Do not use excessive foul language in broadcast, except
+during certain late hours.
+	A simple rule is this: If you wouldnt hear it on
+American television, do not broadcast it between the hours
+of 6am-12am Eastern Standard Time. This goes for any language.
+As most of our staff only speaks English, if we perceive a
+different language is profanity, whether it is or not, we might
+act on it. You will always first receive a verbal warning.
+
+4. Do not, by your actions, continually make this game miserable
+for new players, or anybody else.
+	Thinking you are cool by doing it, or trying to make
+this game into "survival of the fittest", or "because I was
+picked on so I owe it to other newbies", or any other half
+cocked stupid reason you may come up with, NEVER will justify
+your making this game miserable for new players. This is not
+gangland. It is a GAME where we intend to protect our player
+base. Driving off players will damage both the current and
+future player bases here. It therefore damages the game. We will
+act when we see this happening - first with formal warnings. Any
+persistant desires to ignore this rule after that, will result
+in your being made miserable by us in various ways - we are very
+creative, so I wouldn't suggest taking this lightly.
+	You may ask "what is a newbie?". The definition is
+quite simple: a newbie is whomever we decide is a newbie. We
+will know. Don't take the chance. Do not ignore this rule.
+Ignoring it is to damaging the game for everyone.
+
+NOTE:	Being pkilled does not equate to being made miserable.
+      You have options to avoid it.
+
+5. Please do not stack the bug forum with frivolous posts.
+	Please do not continuously post frivolous bugs in separate
+posts. Please write down these kinds of bugs over time, and then
+post them all at once. If a bug is not catastrophic, meaning it
+doesn't damage the game or screw something up for a class or player,
+please do not post it in its own topic.
+
+-------------------------------------------------------------
+These infractions are by all means not all inclusive. There
+are surely some things not listed here which will likely be
+considered by the staff as against the rules. Just because
+something isn't listed here, does not mean it will be ok for
+you to do it. Please use common sense. Staff members have
+final word here on what is and is not to be considered an
+infraction. If you have questions please mail a watcher.
+-------------------------------------------------------------
+
+REALMS CHARACTER NAME POLICY
+	Realms is considered first and foremost a mud where fantasy
+roleplaying is encouraged above anything else. Having a
+non-fantasy roleplaying style names discourages this atmosphere,
+and sometimes makes the game not as fun for some people.
+Determination of whether a name or names is inappropriate for
+the roleplaying environment will be placed in the hands of all
+of the watchers (HELP WATCHERS). Should they decide your name
+is inappropriate, by vote amongst themselves, you will be
+required to pick a new name or a new one will be picked for you.
+At that point, a staff member will be contacted, and your name
+will be changed instantaneously to another name which is deemed
+appropriate. You may or may not be consulted until after the fact.
+	Of course, it is common sense that names with any kind
+of profanity will be immediately disallowed, regardless of what
+the watchers want.
+
+NOTE: Bane, being a head DM, has the right to excercise a veto
+on any name he finds undesirable to his personal taste. If he
+doesn't like your name and changes it, you may ask a watcher to
+change it to something else if you do not like what he chooses
+for you. Understand, however, that they are not required to do
+it for you. The best thing is just to not choose an obviously
+retarded name.
+
+GENERAL REALMS POLICIES
+	Following are listed some general policies which the
+staff will always follow. Each rank of staff member, and
+their various functions, can be seen in HELP STAFF.
+
+1. We will not help you with quests, hints or otherwise.
+
+2. We will not tell you where to find things on the mud.
+
+3. We will not change your character after you created it.
+   (Except in cases such as the name policy, above...)
+
+4. We will not restore equipment or experience lost in a
+crash. Equipment lost due to bugs will not be restored.
+
+5. Experience lost to deaths will never be restored, unless
+it is due to a repeatable bug, or it was accidentally caused
+by a staff member. In the case of an accidentally deleted
+character, your character will be restored from the latest
+backup we have.
+
+6. Unless a bug is catastrophic, we will not discuss it with
+you if it has not been placed in the buglog - HELP BUG.
+
+7. You join all staff run quests at your own risk. If you die
+as a result, you chose to participate in the quest.
+
+8. We will not give out password information. See below.
+
+9. Stolen characters of under level 10 are not our problem.
+
+LAW vs CHAOS
+	Understand that if you choose to be chaotic at character
+creation, you are the one who made that choice, and no one
+is responsible but you for it. Chaotic players can be stolen
+from and killed at will by other chaotic players in the game.
+If you tire of this, you are always able to convert yourself
+to lawful by typing "convert" at the prompt and choosing 'Y'.
+
+PLEDGING TO CLANS/GUILDS
+	Pledging to clans or player guilds is a risk you alone
+choose to take. Both allow other players to steal from you,
+kill you even if you are lawful, or sometimes cause you to
+lose experience. If you do not want any of these things to
+happen to you, do not join a clan or guild. Some classes are
+required to pledge to a clan to level. These are: fighters,
+assassins, thieves, rogues, paladins, and deathknights. In
+addition, paladins and deathknights may always kill one
+another, and clerics of Aramon and Enoch can do so as well,
+despite being lawful. Choose your class wisely.
+
+SHARING OF CHARACTERS
+You may share characters, but understand that this is done at
+your own risk. Should your character get stolen, deleveled,
+pkilled, or in any other way harmed by the person you share
+with, it is completely your fault and no responsibility of
+ours. Sharing is allowed at any level, and no approval is
+required. However, should we determine a player or groups
+of players' sharing gets out of hand, we reserve the right
+to step in and disallow sharing on an individual basis.
+
+PROXY/NETWORK LAN PLAY AND SHARING
+All characters on a proxy network or LAN with the same
+IP address are considered to be shared characters. As
+such, since identity of any one of these characters
+cannot be verified 100%, any illegal actions done by
+one of the characters will get the punishment for
+such act applied to all people playing from that IP
+address. Be careful who you share your LAN with.
+
+SELLING CHARACTERS
+	If you wish to sell or give away your character
+to another player, and that character is level 13+, you
+will need to contact a watcher in order to get staff
+approval. We are finding it is not beneficial to the mud
+for some of these deals to go through, and we need to
+approve them in order to protect the interests of Realms.
+
+FORGOTTEN PASSWORDS
+	Your passwords are your responsibility. We will not
+ever give out password information to anybody. Write them
+down somewhere. Passwords on Realms will be required to be
+changed from time to time in order to maintain security.
+
+STOLEN CHARACTERS
+	If it is found that a character over level 10+ is
+stolen, and it can be proven to our satisfaction
+(by you or our logs), the character will be returned. All
+pertinent characters of the character thief will be
+immediately deleted, and a sitelock will potentially be
+put in place.
+
+STORAGE CHARACTERS
+	Storage characters are illegal. If we find one we will
+most likely delete it without needing give anyone notice.
+Personal storage rooms can be bought in the game for this
+purpose. In addition, using player run shops to store items
+by charging outrageous prices so no one will buy things is
+very likely to get your shop deed revoked.
+
+Type "help storage" for more information on storage rooms.
+
+PROXY NETWORK PLAY
+	All players who wish to play via a network at home
+need to inform any watcher (HELP WATCHERS) they see online.
+If there are not any online, mudmail one you know of. A watcher
+will contact a staff member to allow you to log in from the same
+location.
+	We do not have to allow proxy network play. We do this
+to be nice. If people abuse this (i.e cheat with it) we will
+turn it off.
+
+NEW ADDITIONS TO THE GAME
+	The world of Derlith, in addition to everything about
+the game mechanics and coding of this mud, will very much be
+in a constant dynamic state. We will change things as we see
+they need to be changed. These things should never be thought
+of as personal attacks by us on people. We have to do what
+we feel is right for the entire mud in general, and we will
+do so without hesitation.
+	As a general rule, if we ever open a new area, or if
+we release a new class, ability, or clan with abilities,
+or anything else similar and otherwise new as well, you need
+to consider it in a period of BETA testing for at least a
+period of 6 months. During that time we will always be
+evaluating it and tweaking things as we see fit to do so.
+This means if you play the class, use the item, hang out in
+the area, etc...it is likely to change sometimes. You should
+never consider anything on Realms to be static. Stagnation
+is death to muds, and we will not allow that to happen here.
+
+------------------------------------------------------------
+This policy is subject to change at all times. A notification
+will usually be placed in the updates file (HELP UPDATES) every
+time this file is changed.
+

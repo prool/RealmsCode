@@ -1,0 +1,22 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  Gnome        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Adjustments: +1 Piety, +1 Constitution, +1 Intelligence, -1 Dexterity,
+	-2 Strength
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Druid, Fighter, Lich,
+	Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf, Fighter/Mage,
+	Mage/Thief, Thief/Mage
+
+Gnomes are cousins of dwarves. They differ in appearance slightly from their
+cousins, having long noses and no beards. While a dwarf loves mining and stone
+crafts, a gnome excels in the craftsmanship of jewelry and fine art. Gnomes also
+prefer to live in the hills where they may communicate and trade easier with the
+world around them. Gnomes also have a love for invention, and they will often
+toil long into the night to try and figure out how a simple item works. Gnomes
+tend to be very good clerics, as they have come to know the arts of healing
+better then most races, and they are often quite pious in nature.
+
+See in dark (infravision): No
+Size class: Small
+

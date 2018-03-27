@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  know-aura spell   |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 6
+
+This spell allows its target to see the alignment of a creature by looking at
+it, a blue on the spectrum indicates good, red  indicates evil, and grey
+indicates neutral. This spell is often used when the caster wishes to
+determine how to deal with the target and its intentions. Note that paladins are
+always under the influence of this spell.
+
+Syntax:
+cast know <target>
+

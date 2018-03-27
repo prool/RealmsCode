@@ -1,0 +1,19 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  description     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This command allows you to set the description seen when other players look at
+you. It will appear directly after your name.
+
+Syntax:
+description <text|-d>
+
+Example:
+: desc He is the strongest assassin in the world.
+Description set.
+: l bob
+You see Bob the Cambion Thug.
+He is the strongest assassin in the world.
+He is in excellent condition.
+:
+

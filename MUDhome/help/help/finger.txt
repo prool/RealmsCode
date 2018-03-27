@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  finger        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This command allows you to get information on the last time a player logged in
+and if they have any mail waiting.
+
+Example:
+: fing bob
+Bob                   Cambion            Thug
+Currently logged on.
+No mail.
+:
+

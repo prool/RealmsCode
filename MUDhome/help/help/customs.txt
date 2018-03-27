@@ -1,0 +1,54 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  Customs Policy    |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+After long consideration, we have decided on a very simple policy for customs.
+The way the policy was before, too many people were depending on customs in
+order to make themselves more powerful, and not enough on their roleplaying
+aspects, which is what customs are truely for. You're supposed to get customs
+to make your characters unique, not to make them more powerful.
+
+As mentioned, the policy is very simple. All you have to do to get a custom,
+is be level 13+ and have 25k gold. Then you find an item in the game and get it.
+You then mail a watcher and tell them you want a custom item or use the form
+provided on the website. Dominus must approve of the new name. If the item you
+are making a custom is damaged, and it can normally be repaired, then he will
+repair it for you. Basically customs are nothing more then renaming existing
+items now.
+
+To summarize, here's the policy:
+ 1) Get to level 13.
+ 2) Find an item EXISTING in the game (not a custom) and get it.
+ 3) Gather up 25k gold.
+ 4) Mail a watcher that you want a custom. You will need to include all the
+    information for Dominus in this mail, as he will create these at his
+    leisure, whether you are logged on or not. Right after you mail a watcher
+    you should use the bank and transfer the 25k to Dominus.
+ 5) Dominus will take the first item in your inventory with the name specified.
+    He will set the item's level to level 13 and flag it as a custom.
+ 6) If normally repairable, Dominus will repair it. If you want to make an
+    item that is not repairable a custom, bring it to Dominus unused.
+ 7) Dominus will curse your custom for another 10k gold.
+ 8) Dominus will make your custom resist-dissolve for another 10k gold.
+ 9) If you normally cannot use an item, it cannot be your custom.
+ 10) Once done, there are no repairs and no refunds.
+ 11) No one but Dominus (not even another DM) can do this for you.
+ 12) This policy is subject to change at any time.
+
+Follow this example:
+  -------------------
+Dear Watcher,
+   I have an item in my inventory I want to be a custom.
+ITEM: some cloth pants
+
+NAME: some bronze pantaloons
+DESC: They're great bronze breeches that provide little comfort.
+USE:  You strap the bronze pantaloons on your legs.
+CURSED: yes
+  -------------------
+USE, CURSED and RDISSOLVE are optional.
+
+A better and more efficient way of getting customs done is to fill out
+the form on the website. It can be found at:
+      http://www.rohonline.net/customs.php
+

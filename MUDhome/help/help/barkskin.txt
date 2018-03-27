@@ -1,0 +1,16 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  barkskin       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This ability is gained by druids as soon as they become circle initiates. It
+allows them to bring about a very strong layer of bark which covers their skin
+and exposed areas of their bodies. As a result, they are much harder to hit. The
+bark not only lowers a druid's armor class, but it also absorbs damage. A bigger
+% of damage is absorbed the higher level the druid is. Each use of this ability
+is different in power, and the more robust a druid is, the better they are at
+this ability.
+
+: barkskin
+Your skin turns to bark.
+:
+

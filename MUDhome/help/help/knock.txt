@@ -1,0 +1,23 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  knock spell     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: varies
+
+This spell allows the caster to send magic into locked portals, magically
+unlocking them. Some locked exits are more fortified by others, be it by magic,
+or complexity of the lock mechanism. As such, these may be harder to use knock
+on, and it will cost more MP to cast the spell. Standard MP cost starts with
+10MP and goes up from there, depending on difficulty of the lock, and the class
+of the caster.
+
+Only mages, liches, and bards may cast this spell.
+
+Example:
+: c knock door
+You cast a knock spell on the "door" exit.
+Click! Your knock spell was successful!
+: c knock double
+You cast a knock spell on the "double doors" exit.
+Your knock spell failed.
+:
+

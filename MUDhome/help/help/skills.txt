@@ -1,0 +1,32 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |         Help on:  skills       |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Each class (and in some cases races) has a fixed set of skills. These skills
+include general class skills, weapon skills, defensive skills, and armor skills.
+The skills are granted at the appropriate level, and must be increased through
+practice in order to remain at a level that is comparable to the numerical
+level of the player. Skills can be found using the skill command.
+
+Skill levels range from Horrible to Godlike. Each skill can be raised ten times
+per player level, but can also be raised after reaching a higher player level.
+For example, you may increase your "hide" skill ten times between levels one
+and two. However, if you only increase it five times, then you may make up the  
+difference later. This means that between levels two and three, you can
+increase your "hide" skill fifteen times. Skills become harder to increase the  
+higher they are.
+
+General skills are either class-specific or granted to everyone. More
+information about these skills can be found by accessing their individual
+help files. Weapon skills affect your ability to hit with a specific weapon
+type. Note that not every class can learn every weapon type, so it may be
+useful to ask other players about which weapon skills to choose.
+
+Defensive skills affect your ability to avoid attacks. These skills include   
+dodge, parry, and block, but not all are given to every class. Armor skills 
+determine which armor types you can wear. For example, mages can only wear
+the lightest cloth armor, while berserkers can wear heavy plate armor. For
+those classes dependent on dexterous activities, such as dodging, leather and 
+cloth armor are the most effective. A higher armor skill means you have
+greater expertise with that armor, increasing its longevity.
+

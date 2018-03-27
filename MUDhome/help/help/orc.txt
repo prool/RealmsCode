@@ -1,0 +1,19 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |          Help on:  Orc         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Adjustments: +1 Strength, +1 Constitution, -2 Intelligence
+Compatable Classes: Assassin, Bard, Berserker, Cleric, Deathknight, Druid,
+	Fighter, Lich, Mage, Monk, Ranger, Rogue, Thief, Vampire, Werewolf,
+	Fighter/Thief
+
+Orcs are fierce warriors which live mostly in forests and hills. They look like
+a cross between a boar and a human, having pig-like nostrils, reddish eyes, and
+tusks which protrude from their mouths. Orcs often travel in bands, raiding
+humans, dwarves, and elves alike. Dwarves and orcs hate one another, as they've
+been enemies since the beginning of time. Orcs are quite strong for their size,
+yet they are also quite dull-minded.
+
+See in dark (infravision): Yes
+Size class: Medium
+

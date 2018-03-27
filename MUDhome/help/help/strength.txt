@@ -1,0 +1,17 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |    Help on:  strength spell    |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 30
+
+The strength spell increases your strength, making you stronger and able to
+perform tasks more efficiently. This spell does not last long, but while it is
+in effect, you will do more damage in combat. A strength spell counteracts the
+effects of a enfeeblement spell.
+
+A strength spell will not work in conjunction with the berserk ability or a
+deathknight's pray ability. Only a mage, lich, druid, or cleric may cast this
+spell.
+
+Syntax:
+cast strength <target>
+

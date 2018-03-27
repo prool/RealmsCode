@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  silence         |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: variable
+
+This spell causes the target to be silenced and not able to speak, emote, send,
+classsend, or clansend, broadcast, or cast spells for its duration. This spell
+can be cast on others only 3x a day, and it also is unable to be cast on another
+player in the middle of combat with a monster. The MP cost is lower for clerics
+and  higher for other classes that can cast it.
+
+Syntax:
+c silence <target>
+

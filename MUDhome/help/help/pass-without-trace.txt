@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |  Help on:  pass-without-trace  |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 8
+
+This spell allows the target to travel through a room and leave no tracks.
+You passage will not disturb any information that can be detected by the track
+ability. This spell may only be cast by druids, rangers, and followers of
+Linothan.
+
+Syntax:
+cast pass-without-trace <target>
+

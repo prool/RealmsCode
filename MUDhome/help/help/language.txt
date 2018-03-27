@@ -1,0 +1,18 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  languages      |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Races can each speak different languages. In order to see which languages your
+character is able to speak, type LANGUAGES. This will also tell you what you are
+currently speaking. People in the room who do not speak the language you are
+speaking cannot understand what you are saying.
+
+Currently, there is no method for learning new languages. It is based on race
+alone. In the future this may change, but not for right now.
+
+To change between languages, you use the "speak" command. HELP SPEAK for more
+information.
+
+Languages show up in colors. If you find these colors irritating, and you wish
+to not see them, simply type "clear langcolor", and the colors will go away.
+

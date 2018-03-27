@@ -1,0 +1,24 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  bind spell      |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 25
+
+This spell binds its target to the location specified. When that person dies or
+uses a word-of-recall spell, they will be returned to the Origin, which leads to
+the bound city. Only mages, clerics, druids, and liches of 13th level or greater
+are able to cast this spell. The target must also have their SUMMON flag set.
+
+To bind to a specific city, you must be in a certain room. At this time, there
+are only a few locations to which a person may be bound. They are:
+
+Bind City	Must Be In
+-----------	----------
+   Highport	   Market Square
+   Sigil	   Town Square
+   Gnomebarrow	   Town Square
+   Oakspire	   Central Platform
+   Druidwood	   Tree of Life
+
+Syntax:
+cast bind [target]
+

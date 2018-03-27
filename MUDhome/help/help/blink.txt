@@ -1,0 +1,18 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  blink spell     |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP Cost: 20
+
+This spell allows the caster to blink away to an exit, guaranteeing successfull
+fleeing, as well as leaving enemies with no clue as to which exit he/she fled
+to. This spell is class restrictive, and it will not allow a caster to blink to
+exits they normally could not flee to. For example, you cannot blink into a full
+room, or blink through a closed door or past exit-guarding creatures.
+
+Only mages and liches may cast this spell.
+
+Syntax:
+: c blink east
+You cast a blink spell! You blink away to the east.
+:
+

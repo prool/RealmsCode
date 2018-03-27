@@ -1,0 +1,13 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |     Help on:  atrophy spell    |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+MP cost: 25
+
+This is the most powerful spell in the water realm. Strong elemental magics
+cause the target to begin to shrivel and decay, withering into dust as the water
+is sucked out. This causes a massive nervous-system breakdown, dealing a large
+amount of damage to the target.
+
+Syntax:
+cast atrophy <target>
+

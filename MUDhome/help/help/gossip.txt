@@ -1,0 +1,14 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |        Help on:  gossip        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+The gossip channels allows you to share the latest rumors with everyone online.
+Gossip is not limited to a specific number of uses per day, but instead checks
+to make sure you are not using it too quickly. You must be atleast level 2 to
+use the gossip channel.
+
+Example:
+: gos There is no spoon!
+(Gossip) Bob sent, "There is no spoon!"
+:
+

@@ -1,0 +1,16 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  smother        |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+This is an ability granted only to Clerics of Gradius. Upon reaching the proper
+level, it allows the cleric to smother a target with earth. Resist-earth or
+resist-magic halves the damage and grants an additional saving throw. The higher
+level the cleric, the more damage the attack has potential to do.
+
+Example:
+: smoth win
+You smothered the wino for 10 damage.
+You killed the wino.
+You gained 6 experience for the death of the wino.
+:
+

@@ -1,0 +1,38 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |       Help on:  alignment      |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+For help on non-PK alignment, type HELP ALIGNMENTHELP.
+
+This command allows a player to choose their alignment path after a certain
+level. Players must choose to follow law or chaos. The alignments are described
+as below:
+
+
+LAW:
+Lawful players cannot steal or kill other players, and they cannot be killed or
+stolen from by other players. A pledged lawful player, or a paladin /
+deathknight, may still attack other players.
+
+CHAOS:
+Chaotic players can kill and steal from other chaotic players, and they also
+can be stolen from and killed by other chaotic players. If you do not know
+the game well, it is advised you do not be chaotic. This is recommended for
+advanced players only.
+
+
+Note that it is possible to duel with other players using the DUEL command.
+HELP DUEL for more details. It is also possible to join a player run guild
+whether you are lawful or chaotic.
+
+To convert to Law after choosing Chaos, see the HELP CONVERT file.
+
+Example:
+: alignment
+Syntax: alignment lawful
+        alignment chaotic
+Note: Tieflings must be chaotic.
+
+: alignment lawful
+### Bob chooses to adhere to the order of LAW!
+:
+

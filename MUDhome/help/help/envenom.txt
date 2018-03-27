@@ -1,0 +1,20 @@
+Help on: ENVENOM (see: help curepoison and help slow-poison)
+
+This ability is for the use of assassins once they reach high
+enough level. It allows them to poison their weapons, thus
+making them possibly able to poison monsters or players on a
+successful backstab. Poison must be bought in shops, or it
+can sometimes be found dropped by monsters which die. Generally,
+the more expensive the poison, the longer it will last, the
+more times you can apply it to weapons, and the more damage
+per tick it will do to an enemy. Once a weapon is envenomed,
+the poison will delude after a time, so it must be used promptly.
+   A player killed by poison from an assassin DOES NOT lose any
+experience. They will lose a pkill, however. Similarly, by
+poisoning a monster, an assassin does not get full experience
+from it when it dies. In addition, perms are very hard to
+poison. An assassin will automatically poison himself should
+he fumble a backstab with an envenomed weapon.
+
+Syntax:
+: envenom (weapon) (poison)

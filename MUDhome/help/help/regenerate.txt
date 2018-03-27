@@ -1,0 +1,12 @@
+....·····.....·····..../                                \....·····.....·····....
+  ·  .  .  ·  ·  .  .  |      Help on:  regenerate      |  .  .  ·  ·  .  .  ·
+····.....·····.....····\                                /····.....·····.....····
+
+Regenerate is a quick way for liches to rebuild shielding destroyed during
+battle.
+
+Example:
+: regen
+You feel the evil in your soul rebuilding.
+:
+
